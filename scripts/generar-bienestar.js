@@ -68,6 +68,25 @@ const salida = indicadores.map((ind) => {
   };
 });
 
-fs.writeFileSync(path.join(dir, "bienestar.json"), JSON.stringify(salida, null, 1) + "\n");
-console.log(`bienestar.json: ${salida.length} indicadores`);
+// Quién gobernaba cada comunidad a 31 de diciembre de cada año (o hoy, en el año en curso).
+const gob = JSON.parse(fs.readFileSync(path.join(dir, "bienestar", "gobiernos.json"), "utf8"));
+const corto = (x) => x.replace("Podemos/UP", "Podemos").replace(/^Otros \(exdiputad[oa]s? de (\w+)\)$/, "ex-$1")
+  .replace(/^Otros \(no adscrito, expulsado de (\w+)\)$/, "ex-$1").replace(/^Otros \((.*)\)$/, "$1");
+function etiqueta(p) {
+  if (/155/.test(p.presidente)) return "155 (Gobierno de Rajoy)";
+  return [p.partido_presidente, ...(p.socios_gobierno || [])].map(corto).join("+") + (p.en_funciones ? " (en funciones)" : "");
+}
+const hoy = new Date().toISOString().slice(0, 10);
+const gobiernos = {};
+for (const [ccaa, periodos] of Object.entries(gob)) {
+  gobiernos[ccaa] = {};
+  for (let a = DESDE; a <= Number(hoy.slice(0, 4)); a++) {
+    const fecha = `${a}-12-31` < hoy ? `${a}-12-31` : hoy;
+    const p = periodos.find((x) => x.desde <= fecha && (!x.hasta || x.hasta > fecha));
+    if (p) gobiernos[ccaa][a] = etiqueta(p);
+  }
+}
+
+fs.writeFileSync(path.join(dir, "bienestar.json"), JSON.stringify({ indicadores: salida, gobiernos }, null, 1) + "\n");
+console.log(`bienestar.json: ${salida.length} indicadores, gobiernos de ${Object.keys(gobiernos).length} territorios`);
 for (const i of salida) if (!i.filas.length || !i.url) console.log(`  revisar ${i.id}: ${i.filas.length} filas, url «${i.url}»`);

@@ -174,6 +174,13 @@ table.serie{border-collapse:collapse;width:100%;font-size:13px;font-variant-nume
       </div>
       <div class="status" id="bienCount" aria-live="polite"></div>
     </section>
+    <details class="intro">
+      <summary>Quién gobernaba cada comunidad</summary>
+      <div class="intro-body">
+        <p>Partidos con consejeros en el gobierno autonómico a 31 de diciembre de cada año (en 2026, a día de hoy). En las tablas de abajo, al pasar el ratón por un dato de una comunidad se ve quién gobernaba ese año. Fuente: Reales Decretos de nombramiento (BOE) y dosieres del Senado.</p>
+        <div class="tablewrap"><table class="serie" id="gobTable"></table></div>
+      </div>
+    </details>
     <div class="list" id="bienList"></div>
     <p class="note">Todos los datos vienen de organismos oficiales: Ministerio de Sanidad, Ministerio de Educación, IMSERSO, INE, Ministerio de Vivienda, Banco de España y Eurostat. Las cifras en euros son corrientes, sin descontar la inflación, salvo que se indique. Una casilla vacía es un dato que la fuente no publica; no se rellena ni se estima.</p>
   </section>
@@ -263,9 +270,9 @@ const PROOF = {
 const PARTIES = ["PSOE","PP","Vox","Podemos/UP","Sumar","Cs","ERC","Junts","Bildu","PNV","CC","Otros"];
 
 
-let DATA=[],VOTES=[],ILP=[],BIEN=[];
+let DATA=[],VOTES=[],ILP=[],BIEN=[],GOB={};
 Promise.all(["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json","datos/bienestar.json"].map(u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u);return r.json()})))
- .then(([d,v,i,b])=>{DATA=d;VOTES=v;ILP=i;BIEN=b;init()})
+ .then(([d,v,i,b])=>{DATA=d;VOTES=v;ILP=i;BIEN=b.indicadores;GOB=b.gobiernos;init()})
  .catch(err=>{document.getElementById("list").innerHTML='<div class="empty">No se han podido cargar los datos ('+err.message+'). Recarga la página.</div>'});
 function init(){
 DATA.sort((a,b)=>a.d.localeCompare(b.d));
@@ -469,7 +476,7 @@ function renderBien(){
       <p>${esc(ind.mide)} <span class="mdate" style="display:inline">(${esc(ind.unidad)})</span></p>
       ${spark(ind)}
       <div class="tablewrap"><table class="serie"><thead><tr><th scope="col"></th>${ind.periodos.map(x=>'<th scope="col">'+esc(x)+'</th>').join("")}</tr></thead><tbody>${
-        ind.filas.map(f=>'<tr'+(["España","UE-27","Media de las comunidades"].includes(f.ambito)?' class="ref"':'')+'><td>'+esc(f.ambito)+'</td>'+f.valores.map(v=>'<td'+(v==null?' class="nd"':'')+'>'+fmt(v,d)+'</td>').join("")+'</tr>').join("")
+        ind.filas.map(f=>{const g=GOB[f.ambito.replace(/ \((hasta|desde) \d+\)$/,"")];return '<tr'+(["España","UE-27","Media de las comunidades"].includes(f.ambito)?' class="ref"':'')+'><td>'+esc(f.ambito)+'</td>'+f.valores.map((v,k)=>{const a=parseInt(ind.periodos[k],10);const t=g&&g[a]?' title="'+esc(f.ambito+", "+a+": gobernaba "+g[a])+'"':'';return '<td'+(v==null?' class="nd"':'')+t+'>'+fmt(v,d)+'</td>'}).join("")+'</tr>'}).join("")
       }</tbody></table></div>
       <p class="nuance">${esc(ind.aviso)}</p>
       <div class="foot"><div class="sources"><a href="${esc(ind.url)}" target="_blank" rel="noopener">${esc(ind.fuente)}</a></div></div>
@@ -478,6 +485,11 @@ function renderBien(){
 }
 pilarSel.addEventListener("change",renderBien);
 renderBien();
+(function(){
+  const anios=[...new Set(Object.values(GOB).flatMap(g=>Object.keys(g)))].sort();
+  document.getElementById("gobTable").innerHTML='<thead><tr><th scope="col"></th>'+anios.map(a=>'<th scope="col">'+a+'</th>').join("")+'</tr></thead><tbody>'+
+    Object.keys(GOB).sort((a,b)=>a.localeCompare(b,"es")).map(c=>'<tr><td>'+esc(c)+'</td>'+anios.map(a=>'<td style="text-align:left">'+esc(GOB[c][a]||"–")+'</td>').join("")+'</tr>').join("")+'</tbody>';
+})();
 
 /* ---------- Pestañas ---------- */
 const TABS={registro:["tab-registro","panel-registro"],votaciones:["tab-votaciones","panel-votaciones"],ilp:["tab-ilp","panel-ilp"],bienestar:["tab-bienestar","panel-bienestar"]};

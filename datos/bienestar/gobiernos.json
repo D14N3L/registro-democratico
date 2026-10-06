@@ -1,0 +1,1572 @@
+{
+  "Andalucía": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2018-12-02",
+      "presidente": "Susana Díaz Pacheco",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "Cs"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 471/2015, de 12 de junio (BOE núm. 141, de 13-jun-2015)",
+      "fuente": "Senado, dosier Presidentes de Andalucía (RD 471/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_04",
+      "fuentes_extra": [
+        {
+          "fuente": "Público: Ciudadanos da al PP La Rioja y Murcia / pactos de 2015",
+          "url": "https://www.publico.es/politica/ciudadanos-da-al-pp-gobiernos.html"
+        }
+      ],
+      "nota": "Mandato iniciado en 2015; Cs apoyó la investidura (acuerdo PSOE-A/Cs) sin entrar en el gobierno."
+    },
+    {
+      "desde": "2018-12-02",
+      "hasta": "2019-01-17",
+      "presidente": "Susana Díaz Pacheco",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Senado, dosier Presidentes de Andalucía",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_04",
+      "nota": "En funciones tras las elecciones del 2-dic-2018."
+    },
+    {
+      "desde": "2019-01-17",
+      "hasta": "2022-07-21",
+      "presidente": "Juan Manuel Moreno Bonilla",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Cs"
+      ],
+      "apoyos_externos": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 6/2019, de 17 de enero (BOE núm. 16, de 18-ene-2019)",
+      "toma_posesion": "2019-01-18",
+      "fuente": "Senado, dosier Presidentes de Andalucía (RD 6/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_04",
+      "fuentes_extra": [
+        {
+          "fuente": "El Sol de Antequera: Moreno, presidente con apoyos de PP, Cs y Vox",
+          "url": "https://elsoldeantequera.com/noticias/juan-manuel-moreno-bonilla-nuevo-presidente-de-la-junta-con-los-apoyos-de-pp-ciudadanos-y-vox/"
+        }
+      ],
+      "nota": "Investido el 16-ene-2019 con votos de PP, Cs y Vox. Gobierno de 6 consejeros del PP y 5 de Cs (vicepresidente Juan Marín, Cs); consejeros toman posesión el 22-ene-2019. Vox, solo apoyo externo."
+    },
+    {
+      "desde": "2022-07-21",
+      "hasta": "2026-05-17",
+      "presidente": "Juan Manuel Moreno Bonilla",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 610/2022, de 21 de julio (BOE núm. 175, de 22-jul-2022)",
+      "fuente": "Senado, dosier Presidentes de Andalucía (RD 610/2022)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_04",
+      "nota": "Mayoría absoluta del PP (elecciones 19-jun-2022)."
+    },
+    {
+      "desde": "2026-05-17",
+      "hasta": "2026-07-03",
+      "presidente": "Juan Manuel Moreno Bonilla",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Estrella Digital (5-jul-2026): Moreno toma posesión tras el acuerdo PP-Vox",
+      "url": "https://www.estrelladigital.es/articulo/espana/nuevo-gobierno-andaluz-moreno-toma-posesion-acuerdo-entre-pp-vox/20260705100147448302.amp.html",
+      "nota": "En funciones tras las elecciones del 17-may-2026, en las que el PP se quedó a dos escaños de la mayoría absoluta."
+    },
+    {
+      "desde": "2026-07-03",
+      "hasta": null,
+      "presidente": "Juan Manuel Moreno Bonilla",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 558/2026, de 3 de julio (BOE núm. 162, de 4-jul-2026)",
+      "toma_posesion": "2026-07-05",
+      "fuente": "BOE-A-2026-14503, Real Decreto 558/2026",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-14503",
+      "fuentes_extra": [
+        {
+          "fuente": "BOJA: Decreto del Presidente 10/2026, de 9 de julio (vicepresidencias y consejeros)",
+          "url": "https://www.juntadeandalucia.es/boja/2026/512/3"
+        }
+      ],
+      "nota": "Elegido el 2-jul-2026 en segunda votación (68 sí, 41 no) tras el 'Acuerdo de Gobierno y Estabilidad' PP-Vox. Vox entra en el gobierno: Manuel Gavira, vicepresidente segundo (Decreto del Presidente 10/2026, de 9 de julio, BOJA)."
+    }
+  ],
+  "Aragón": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-08-02",
+      "presidente": "Javier Lambán Montañés",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (CHA)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 616/2015, de 3 de julio (BOE núm. 159, de 4-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Aragón (RD 616/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_10",
+      "nota": "Gobierno PSOE-CHA desde el 6-jul-2015 (José Luis Soro, CHA, consejero de Vertebración del Territorio)."
+    },
+    {
+      "desde": "2019-08-02",
+      "hasta": "2023-08-10",
+      "presidente": "Javier Lambán Montañés",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Podemos/UP",
+        "Otros (CHA)",
+        "Otros (PAR)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 469/2019, de 2 de agosto (BOE núm. 185, de 3-ago-2019)",
+      "fuente": "Senado, dosier Presidentes de Aragón (RD 469/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_10",
+      "fuentes_extra": [
+        {
+          "fuente": "elDiario.es: Lambán repite en un gobierno con Podemos, PAR y CHA",
+          "url": "https://www.eldiario.es/aragon/politica/lamban-podemos-par-cha-iu_1_1480537.html"
+        }
+      ],
+      "nota": "Cuatripartito PSOE-Podemos-CHA-PAR; consejeros toman posesión el 7-ago-2019 (vicepresidente Arturo Aliaga, PAR)."
+    },
+    {
+      "desde": "2023-08-10",
+      "hasta": "2024-07-11",
+      "presidente": "Jorge Azcón Navarro",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 726/2023, de 10 de agosto (BOE núm. 191, de 11-ago-2023)",
+      "fuente": "Senado, dosier Presidentes de Aragón (RD 726/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_10",
+      "fuentes_extra": [
+        {
+          "fuente": "Infobae (11-jul-2024): Vox rompe sus gobiernos de coalición con el PP",
+          "url": "https://www.infobae.com/espana/2024/07/11/vox-rompe-con-los-gobiernos-de-coalicion-con-el-pp-y-pasaran-a-la-opisicion/"
+        }
+      ],
+      "nota": "Alejandro Nolasco (Vox), vicepresidente; Ángel Samper (Vox), consejero de Agricultura."
+    },
+    {
+      "desde": "2024-07-11",
+      "hasta": "2026-02-08",
+      "presidente": "Jorge Azcón Navarro",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fuente": "Infobae (11-jul-2024): Vox rompe sus gobiernos de coalición con el PP",
+      "url": "https://www.infobae.com/espana/2024/07/11/vox-rompe-con-los-gobiernos-de-coalicion-con-el-pp-y-pasaran-a-la-opisicion/",
+      "nota": "Vox anuncia el 11-jul-2024 la salida de sus gobiernos; dimiten Nolasco y Samper."
+    },
+    {
+      "desde": "2026-02-08",
+      "hasta": "2026-04-29",
+      "presidente": "Jorge Azcón Navarro",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Infobae (24-dic-2025): calendario electoral 2026",
+      "url": "https://www.infobae.com/espana/2025/12/24/la-relacion-toxica-entre-pp-y-vox-marca-un-2026-de-urnas-para-nueve-millones-de-espanoles-aragon-castilla-y-leon-y-andalucia-se-juegan-su-estabilidad-politica/",
+      "nota": "En funciones tras las elecciones anticipadas del 8-feb-2026."
+    },
+    {
+      "desde": "2026-04-29",
+      "hasta": null,
+      "presidente": "Jorge Azcón Navarro",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 367/2026, de 29 de abril (BOE núm. 105, de 30-abr-2026)",
+      "toma_posesion": "2026-04-30",
+      "fuente": "BOE-A-2026-9361, Real Decreto 367/2026",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9361",
+      "fuentes_extra": [
+        {
+          "fuente": "Infobae (3-may-2026): el PP da tres consejerías a Vox en Aragón",
+          "url": "https://www.infobae.com/espana/2026/05/03/el-pp-da-tres-consejerias-a-vox-en-el-nuevo-gobierno-de-aragon-la-ultraderecha-asume-bienestar-social-agricultura-y-medio-ambiente/"
+        }
+      ],
+      "nota": "Investido el 29-abr-2026 con 39 votos (PP 26, Vox 13). Vox: vicepresidencia (Nolasco) y tres consejerías; toman posesión el 4-may-2026."
+    }
+  ],
+  "Asturias": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-07-16",
+      "presidente": "Javier Fernández Fernández",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 704/2015, de 22 de julio (BOE núm. 175, de 23-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Asturias (RD 704/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_05"
+    },
+    {
+      "desde": "2019-07-16",
+      "hasta": "2023-07-19",
+      "presidente": "Adrián Barbón Rodríguez",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 448/2019, de 16 de julio (BOE núm. 170, de 17-jul-2019)",
+      "fuente": "Senado, dosier Presidentes de Asturias (RD 448/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_05"
+    },
+    {
+      "desde": "2023-07-19",
+      "hasta": null,
+      "presidente": "Adrián Barbón Rodríguez",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (IU)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 693/2023, de 19 de julio (BOE núm. 172, de 20-jul-2023)",
+      "fuente": "Senado, dosier Presidentes de Asturias (RD 693/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_05",
+      "fuentes_extra": [
+        {
+          "fuente": "elDiario.es: PSOE e IU firman en Asturias pacto de gobierno",
+          "url": "https://www.eldiario.es/asturias/psoe-e-iu-firman-asturias-unico-pacto-gobierno-unidad-progresista-alejara-politica-toxica_1_10416325.html"
+        }
+      ],
+      "nota": "Coalición PSOE + Convocatoria por Asturias (IU-Más País-IAS): Ovidio Zapico (IU), consejero de Ordenación del Territorio. Los consejeros entran a finales de jul/principios de ago-2023 (día exacto no confirmado)."
+    }
+  ],
+  "Baleares": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2017-03-31",
+      "presidente": "Francina Armengol Socias",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (Més per Mallorca)",
+        "Otros (Més per Menorca)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 586/2015, de 30 de junio (BOE núm. 157, de 2-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Illes Balears (RD 586/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_15",
+      "nota": "Més per Menorca tenía la consellera de Cultura (Ruth Mateu)."
+    },
+    {
+      "desde": "2017-03-31",
+      "hasta": "2019-06-28",
+      "presidente": "Francina Armengol Socias",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (Més per Mallorca)"
+      ],
+      "apoyos_externos": [
+        "Otros (Més per Menorca)"
+      ],
+      "en_funciones": false,
+      "fuente": "Última Hora (31-mar-2017): Més per Menorca decide salir del Govern",
+      "url": "https://www.ultimahora.es/noticias/local/2017/03/31/258620/mes-per-menorca-sale-del-govern.html",
+      "nota": "Més per Menorca sale del Govern tras la dimisión de Ruth Mateu por los contratos a Jaume Garau, y pasa a apoyo externo ley a ley."
+    },
+    {
+      "desde": "2019-06-28",
+      "hasta": "2023-07-06",
+      "presidente": "Francina Armengol Socias",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Podemos/UP",
+        "Otros (Més per Mallorca)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 410/2019, de 28 de junio (BOE núm. 155, de 29-jun-2019)",
+      "fuente": "Senado, dosier Presidentes de Illes Balears (RD 410/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_15",
+      "nota": "Govern PSIB (7), Unidas Podemos (2) y Més per Mallorca (2), formado el 3-jul-2019."
+    },
+    {
+      "desde": "2023-07-06",
+      "hasta": null,
+      "presidente": "Margalida Prohens Rigo",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "Vox",
+        "Otros (Sa Unió de Formentera)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 603/2023, de 6 de julio (BOE núm. 161, de 7-jul-2023)",
+      "fuente": "Senado, dosier Presidentes de Illes Balears (RD 603/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_15",
+      "fuentes_extra": [
+        {
+          "fuente": "elDiario.es: Vox permitirá al PP gobernar en solitario",
+          "url": "https://www.eldiario.es/illes-balears/politica/vox-renuncia-entrar-govern-balear-permitira-popular-marga-prohens-sea-presidenta_1_10334868.html"
+        }
+      ],
+      "nota": "Investida con votos de PP y Sa Unió y abstención pactada de Vox (acuerdo de 110 medidas, presidencia del Parlament para Vox). Gobierno del PP en solitario."
+    }
+  ],
+  "Canarias": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2016-12-23",
+      "presidente": "Fernando Clavijo Batlle",
+      "partido_presidente": "CC",
+      "socios_gobierno": [
+        "PSOE"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 632/2015, de 8 de julio (BOE núm. 163, de 9-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Canarias (RD 632/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_12"
+    },
+    {
+      "desde": "2016-12-23",
+      "hasta": "2019-07-15",
+      "presidente": "Fernando Clavijo Batlle",
+      "partido_presidente": "CC",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fuente": "El Independiente (23-dic-2016): Clavijo cesa a los cuatro consejeros del PSOE",
+      "url": "https://www.elindependiente.com/politica/2016/12/23/clavijo-cesa-los-cuatro-consejeros-del-psoe-canarias-da-roto-pacto/",
+      "nota": "Gobierno de CC en minoría tras romper con el PSOE."
+    },
+    {
+      "desde": "2019-07-15",
+      "hasta": "2023-07-13",
+      "presidente": "Ángel Víctor Torres Pérez",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (NC)",
+        "Podemos/UP",
+        "Otros (ASG)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 446/2019, de 15 de julio (BOE núm. 169, de 16-jul-2019)",
+      "toma_posesion": "2019-07-16",
+      "fuente": "Senado, dosier Presidentes de Canarias (RD 446/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_12",
+      "fuentes_extra": [
+        {
+          "fuente": "elDiario.es: reparto de consejerías en el Gobierno de Canarias",
+          "url": "https://www.eldiario.es/canariasahora/politica/gobierno-canarias-psoe-nc-asg_1_1458589.html"
+        }
+      ],
+      "nota": "'Pacto de las Flores'. NC: vicepresidencia y Hacienda; Podemos: Derechos Sociales; ASG: Turismo. Consejeros toman posesión el 18-jul-2019."
+    },
+    {
+      "desde": "2023-07-13",
+      "hasta": null,
+      "presidente": "Fernando Clavijo Batlle",
+      "partido_presidente": "CC",
+      "socios_gobierno": [
+        "PP"
+      ],
+      "apoyos_externos": [
+        "Otros (ASG)",
+        "Otros (AHI)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 644/2023, de 13 de julio (BOE núm. 167, de 14-jul-2023)",
+      "toma_posesion": "2023-07-14",
+      "fuente": "Senado, dosier Presidentes de Canarias (RD 644/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_12",
+      "fuentes_extra": [
+        {
+          "fuente": "Diario de Avisos: Clavijo investido con el apoyo de CC, PP, ASG y AHI",
+          "url": "https://diariodeavisos.elespanol.com/2023/07/fernando-clavijo-investido-presidente-de-canarias-con-el-apoyo-de-cc-pp-asg-y-ahi/"
+        },
+        {
+          "fuente": "Canarias7: Curbelo apuntala la mayoría",
+          "url": "https://www.canarias7.es/politica/curbelo-apuntala-mayoria-fuerte-estructura-nuevo-gobierno-20230609230243-nt.html"
+        }
+      ],
+      "nota": "Investido el 12-jul-2023 con CC, PP, ASG y AHI. ASG firma el pacto de gobernabilidad pero sin consejería (direcciones generales y empresas públicas)."
+    }
+  ],
+  "Cantabria": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-06-28",
+      "presidente": "Miguel Ángel Revilla Roiz",
+      "partido_presidente": "Otros (PRC)",
+      "socios_gobierno": [
+        "PSOE"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 627/2015, de 6 de julio (BOE núm. 161, de 7-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Cantabria (RD 627/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_06"
+    },
+    {
+      "desde": "2019-06-28",
+      "hasta": "2023-07-03",
+      "presidente": "Miguel Ángel Revilla Roiz",
+      "partido_presidente": "Otros (PRC)",
+      "socios_gobierno": [
+        "PSOE"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 409/2019, de 28 de junio (BOE núm. 155, de 29-jun-2019)",
+      "toma_posesion": "2019-06-29",
+      "fuente": "Senado, dosier Presidentes de Cantabria (RD 409/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_06",
+      "fuentes_extra": [
+        {
+          "fuente": "elDiario.es: PRC y PSOE firman el acuerdo de gobierno",
+          "url": "https://www.eldiario.es/cantabria/politica/prc-psoe-cantabria-presidente-revilla_1_1497689.html"
+        }
+      ],
+      "nota": "PRC 5 consejerías, PSOE vicepresidencia (Pablo Zuloaga) y 4; consejeros toman posesión el 8-jul-2019."
+    },
+    {
+      "desde": "2023-07-03",
+      "hasta": null,
+      "presidente": "María José Sáenz de Buruaga",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 568/2023, de 3 de julio (BOE núm. 158, de 4-jul-2023)",
+      "fuente": "Senado, dosier Presidentes de Cantabria (RD 568/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_06",
+      "nota": "Gobierno del PP en minoría."
+    }
+  ],
+  "Castilla y León": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-07-11",
+      "presidente": "Juan Vicente Herrera Campo",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 617/2015, de 3 de julio (BOE núm. 159, de 4-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Castilla y León (RD 617/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_17"
+    },
+    {
+      "desde": "2019-07-11",
+      "hasta": "2021-12-20",
+      "presidente": "Alfonso Fernández Mañueco",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Cs"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 429/2019, de 11 de julio (BOE núm. 166, de 12-jul-2019)",
+      "fuente": "BOE-A-2019-10292, Real Decreto 429/2019",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-10292",
+      "nota": "Gobierno PP (6) - Cs (4); vicepresidente Francisco Igea (Cs). Consejeros desde el 17-jul-2019."
+    },
+    {
+      "desde": "2021-12-20",
+      "hasta": "2022-02-13",
+      "presidente": "Alfonso Fernández Mañueco",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fuente": "Noticias de Gipuzkoa (20-dic-2021): Mañueco adelanta las elecciones por la 'traición' de Cs",
+      "url": "https://www.noticiasdegipuzkoa.eus/politica/2021/12/20/manueco-adelanta-elecciones-castilla-leon-3637064.html",
+      "nota": "Mañueco cesa a los cuatro consejeros de Cs y convoca elecciones para el 13-feb-2022."
+    },
+    {
+      "desde": "2022-02-13",
+      "hasta": "2022-04-12",
+      "presidente": "Alfonso Fernández Mañueco",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Senado, dosier Presidentes de Castilla y León",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_17",
+      "nota": "En funciones tras las elecciones del 13-feb-2022."
+    },
+    {
+      "desde": "2022-04-12",
+      "hasta": "2024-07-11",
+      "presidente": "Alfonso Fernández Mañueco",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 282/2022, de 12 de abril (BOE núm. 88, de 13-abr-2022)",
+      "fuente": "Senado, dosier Presidentes de Castilla y León (RD 282/2022)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_17",
+      "fuentes_extra": [
+        {
+          "fuente": "Infobae (11-jul-2024): Vox rompe sus gobiernos de coalición con el PP",
+          "url": "https://www.infobae.com/espana/2024/07/11/vox-rompe-con-los-gobiernos-de-coalicion-con-el-pp-y-pasaran-a-la-opisicion/"
+        }
+      ],
+      "nota": "Primer gobierno PP-Vox; vicepresidente Juan García-Gallardo (Vox)."
+    },
+    {
+      "desde": "2024-07-11",
+      "hasta": "2026-03-15",
+      "presidente": "Alfonso Fernández Mañueco",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fuente": "Infobae (11-jul-2024): Vox rompe sus gobiernos de coalición con el PP",
+      "url": "https://www.infobae.com/espana/2024/07/11/vox-rompe-con-los-gobiernos-de-coalicion-con-el-pp-y-pasaran-a-la-opisicion/",
+      "nota": "Dimite García-Gallardo y son cesados Veganzones y Dueñas; Gonzalo Santonja (consejero de Cultura propuesto por Vox) se queda en el gobierno contra el criterio de Vox."
+    },
+    {
+      "desde": "2026-03-15",
+      "hasta": "2026-06-10",
+      "presidente": "Alfonso Fernández Mañueco",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Infobae (24-dic-2025): calendario electoral 2026",
+      "url": "https://www.infobae.com/espana/2025/12/24/la-relacion-toxica-entre-pp-y-vox-marca-un-2026-de-urnas-para-nueve-millones-de-espanoles-aragon-castilla-y-leon-y-andalucia-se-juegan-su-estabilidad-politica/",
+      "nota": "En funciones tras las elecciones del 15-mar-2026; casi 80 días de negociación con Vox."
+    },
+    {
+      "desde": "2026-06-10",
+      "hasta": null,
+      "presidente": "Alfonso Fernández Mañueco",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 476/2026, de 10 de junio (BOE núm. 142, de 11-jun-2026)",
+      "toma_posesion": "2026-06-11",
+      "fuente": "Senado, dosier Presidentes de Castilla y León (RD 476/2026)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_17",
+      "fuentes_extra": [
+        {
+          "fuente": "Deia (11-jun-2026): Mañueco toma posesión tras el acuerdo con Vox",
+          "url": "https://www.deia.eus/politica/2026/06/11/manueco-toma-posesion-presidente-castilla-11188294.html"
+        }
+      ],
+      "nota": "Investido con 47 votos (PP 33, Vox 14). Gobierno de 11 miembros: 3 de Vox (incluida la vicepresidencia primera) y 8 del PP."
+    }
+  ],
+  "Castilla-La Mancha": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2017-08-10",
+      "presidente": "Emiliano García-Page Sánchez",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 590/2015, de 2 de julio (BOE núm. 158, de 3-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Castilla-La Mancha (RD 590/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_11",
+      "nota": "Gobierno en minoría; Podemos fue su socio parlamentario (no se ha leído fuente primaria del acuerdo de investidura de 2015, por eso no figura en apoyos_externos)."
+    },
+    {
+      "desde": "2017-08-10",
+      "hasta": "2019-07-04",
+      "presidente": "Emiliano García-Page Sánchez",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Podemos/UP"
+      ],
+      "en_funciones": false,
+      "fuente": "Wikipedia (guía) José García Molina: vicepresidente segundo desde el 10-ago-2017; pendiente de fuente primaria (DOCM)",
+      "url": "https://en.wikipedia.org/wiki/Jos%C3%A9_Garc%C3%ADa_Molina",
+      "nota": "Podemos entra en el gobierno a cambio de apoyar los presupuestos: José García Molina, vicepresidente segundo. Fecha a confirmar con DOCM."
+    },
+    {
+      "desde": "2019-07-04",
+      "hasta": "2023-07-06",
+      "presidente": "Emiliano García-Page Sánchez",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 418/2019, de 4 de julio (BOE núm. 160, de 5-jul-2019)",
+      "fuente": "Senado, dosier Presidentes de Castilla-La Mancha (RD 418/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_11",
+      "nota": "Mayoría absoluta del PSOE; Podemos se queda sin escaños."
+    },
+    {
+      "desde": "2023-07-06",
+      "hasta": null,
+      "presidente": "Emiliano García-Page Sánchez",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 602/2023, de 6 de julio (BOE núm. 162, de 8-jul-2023)",
+      "fuente": "Senado, dosier Presidentes de Castilla-La Mancha (RD 602/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_11"
+    }
+  ],
+  "Cataluña": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2016-01-11",
+      "presidente": "Artur Mas i Gavarró",
+      "partido_presidente": "Junts",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Senado, dosier Presidentes de Cataluña (cese RD 12/2016)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_02",
+      "nota": "En funciones desde las elecciones de sep-2015 hasta la investidura de Puigdemont. Mas (CDC) concurrió en Junts pel Sí."
+    },
+    {
+      "desde": "2016-01-11",
+      "hasta": "2017-10-28",
+      "presidente": "Carles Puigdemont i Casamajó",
+      "partido_presidente": "Junts",
+      "socios_gobierno": [
+        "ERC"
+      ],
+      "apoyos_externos": [
+        "Otros (CUP)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 13/2016, de 11 de enero (BOE núm. 10, de 12-ene-2016)",
+      "fuente": "Senado, dosier Presidentes de Cataluña (RD 13/2016)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_02",
+      "nota": "Govern de Junts pel Sí (CDC/PDeCAT + ERC + independientes); vicepresident Oriol Junqueras (ERC). Investido gracias al acuerdo JxSí-CUP. Cesado por RD 942/2017, de 27-oct, en aplicación del art. 155."
+    },
+    {
+      "desde": "2017-10-28",
+      "hasta": "2018-05-15",
+      "presidente": "Mariano Rajoy Brey (Gobierno de España, art. 155)",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 944/2017, de 27 de octubre (BOE núm. 261, de 28-oct-2017)",
+      "fuente": "Senado, dosier Presidentes de Cataluña (RD 944/2017)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_02",
+      "nota": "155: autonomía suspendida; Govern cesado. Las funciones de la Presidencia de la Generalitat se atribuyen a la vicepresidenta del Gobierno, Soraya Sáenz de Santamaría, y los departamentos a los ministerios. Elecciones el 21-dic-2017."
+    },
+    {
+      "desde": "2018-05-15",
+      "hasta": "2018-06-02",
+      "presidente": "Joaquim Torra i Pla",
+      "partido_presidente": "Junts",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 291/2018, de 15 de mayo (BOE núm. 119, de 16-may-2018)",
+      "toma_posesion": "2018-05-17",
+      "fuente": "Senado, dosier Presidentes de Cataluña (RD 291/2018)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_02",
+      "nota": "Torra ya es president, pero el 155 sigue vigente hasta que toman posesión sus consellers (2-jun-2018)."
+    },
+    {
+      "desde": "2018-06-02",
+      "hasta": "2020-09-28",
+      "presidente": "Joaquim Torra i Pla",
+      "partido_presidente": "Junts",
+      "socios_gobierno": [
+        "ERC"
+      ],
+      "en_funciones": false,
+      "fuente": "El Español (2-jun-2018): los 13 consellers de Torra toman posesión 218 días después del 155",
+      "url": "https://www.elespanol.com/espana/20180602/consellers-torra-toman-posesion-despues-aplicacion-155/311969059_0.html",
+      "nota": "Fin del 155 con la toma de posesión del Govern JxCat-ERC (Decreto 3/2018, DOGC 1-jun-2018)."
+    },
+    {
+      "desde": "2020-09-28",
+      "hasta": "2021-05-21",
+      "presidente": "Pere Aragonès i Garcia (vicepresident, en substitució)",
+      "partido_presidente": "ERC",
+      "socios_gobierno": [
+        "Junts"
+      ],
+      "en_funciones": true,
+      "fuente": "Euronews (28-sep-2020): el Supremo inhabilita a Torra",
+      "url": "https://es.euronews.com/2020/09/28/el-supremo-espanol-inhabilita-a-torra-como-president-de-cataluna",
+      "nota": "Torra inhabilitado por el Supremo (desobediencia, pancartas); el vicepresident Aragonès asume las funciones sin poder disolver ni cesar. Elecciones el 14-feb-2021."
+    },
+    {
+      "desde": "2021-05-21",
+      "hasta": "2022-10-07",
+      "presidente": "Pere Aragonès i Garcia",
+      "partido_presidente": "ERC",
+      "socios_gobierno": [
+        "Junts"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 365/2021, de 21 de mayo (BOE núm. 122, de 22-may-2021)",
+      "fuente": "Senado, dosier Presidentes de Cataluña (RD 365/2021)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_02"
+    },
+    {
+      "desde": "2022-10-07",
+      "hasta": "2024-05-12",
+      "presidente": "Pere Aragonès i Garcia",
+      "partido_presidente": "ERC",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fecha_aprox": true,
+      "fuente": "Público: Aragonès cierra su nuevo Govern sin Junts",
+      "url": "https://www.publico.es/politica/aragones-cierra-nuevo-govern-junts-expertos-independientes-izquierda-y-soberanismo.html",
+      "nota": "Las bases de Junts votan salir del Govern (resultado 7-oct-2022); Aragonès nombra 7 consellers nuevos (algunos procedentes de PSC, CiU y Podemos) el fin de semana siguiente."
+    },
+    {
+      "desde": "2024-05-12",
+      "hasta": "2024-08-09",
+      "presidente": "Pere Aragonès i Garcia",
+      "partido_presidente": "ERC",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Senado, dosier Presidentes de Cataluña (cese RD 838/2024)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_02",
+      "nota": "En funciones tras las elecciones del 12-may-2024."
+    },
+    {
+      "desde": "2024-08-09",
+      "hasta": null,
+      "presidente": "Salvador Illa Roca",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "ERC",
+        "Otros (Comuns)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 839/2024, de 9 de agosto (BOE núm. 193, de 10-ago-2024)",
+      "toma_posesion": "2024-08-10",
+      "fuente": "BOE-A-2024-16602, Real Decreto 839/2024",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-16602",
+      "nota": "Elegido el 8-ago-2024. Govern del PSC en solitario; investidura con votos de ERC y Comuns (no se ha leído la fuente primaria de la votación)."
+    }
+  ],
+  "Comunitat Valenciana": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-06-14",
+      "presidente": "Ximo Puig i Ferrer",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (Compromís)"
+      ],
+      "apoyos_externos": [
+        "Podemos/UP"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 581/2015, de 26 de junio (BOE núm. 153, de 27-jun-2015)",
+      "fuente": "Senado, dosier Presidentes de la Comunitat Valenciana (RD 581/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_09",
+      "nota": "Primer Botànic: PSPV y Compromís en el Consell; Podemos firmó el acuerdo sin entrar."
+    },
+    {
+      "desde": "2019-06-14",
+      "hasta": "2023-07-14",
+      "presidente": "Ximo Puig i Ferrer",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (Compromís)",
+        "Podemos/UP"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 376/2019, de 14 de junio (BOE núm. 143, de 15-jun-2019)",
+      "toma_posesion": "2019-06-15",
+      "fuente": "Senado, dosier Presidentes de la Comunitat Valenciana (RD 376/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_09",
+      "fuentes_extra": [
+        {
+          "fuente": "elDiario.es: Puig incorpora a Martínez Dalmau y Pérez Garijo",
+          "url": "https://www.eldiario.es/comunitat-valenciana/politica/ximo-puig-gobierno-marza-educacion_1_1499006.html"
+        }
+      ],
+      "nota": "Segundo Botànic con Unides Podem-EUPV (vicepresidente segundo Rubén Martínez Dalmau). Consell formado el 17-jun-2019."
+    },
+    {
+      "desde": "2023-07-14",
+      "hasta": "2024-07-11",
+      "presidente": "Carlos Mazón Guixot",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 646/2023, de 14 de julio (BOE núm. 168, de 15-jul-2023)",
+      "fuente": "Senado, dosier Presidentes de la Comunitat Valenciana (RD 646/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_09",
+      "fuentes_extra": [
+        {
+          "fuente": "Infobae (11-jul-2024): Vox rompe sus gobiernos de coalición con el PP",
+          "url": "https://www.infobae.com/espana/2024/07/11/vox-rompe-con-los-gobiernos-de-coalicion-con-el-pp-y-pasaran-a-la-opisicion/"
+        }
+      ],
+      "nota": "Vox: vicepresidente primero Vicente Barrera, Elisa Núñez (Justicia) y José Luis Aguirre (Agricultura). Consell toma posesión el 19-jul-2023."
+    },
+    {
+      "desde": "2024-07-11",
+      "hasta": "2025-11-03",
+      "presidente": "Carlos Mazón Guixot",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fuente": "elDiario.es: Mazón cesa al vicepresidente y los consellers de Vox",
+      "url": "https://www.eldiario.es/comunitat-valenciana/vox-rompe-pp-deja-mazon-minoria-gobierno-valenciano-aceptar-acogida-menores-migrantes_1_11514592.html"
+    },
+    {
+      "desde": "2025-11-03",
+      "hasta": "2025-11-28",
+      "presidente": "Carlos Mazón Guixot",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Senado, dosier Presidentes de la Comunitat Valenciana (cese RD 1025/2025, BOE 7-nov-2025)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_09",
+      "nota": "Mazón anuncia su dimisión el 3-nov-2025 (gestión de la dana); cese por RD 1025/2025, de 5-nov. Consell en funciones hasta el nuevo president."
+    },
+    {
+      "desde": "2025-11-28",
+      "hasta": null,
+      "presidente": "Juan Francisco Pérez Llorca",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 1080/2025, de 28 de noviembre (BOE núm. 287, de 29-nov-2025)",
+      "toma_posesion": "2025-12-02",
+      "fuente": "Senado, dosier Presidentes de la Comunitat Valenciana (RD 1080/2025)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_09",
+      "fuentes_extra": [
+        {
+          "fuente": "Infobae/Europa Press: el BOE publica el nombramiento de Pérez Llorca",
+          "url": "https://www.infobae.com/espana/agencias/2025/11/29/el-boe-publica-el-nombramiento-de-perez-llorca-como-president-de-la-generalitat-valenciana/"
+        },
+        {
+          "fuente": "El Español: así queda el nuevo Gobierno de Pérez Llorca",
+          "url": "https://www.elespanol.com/valencia/20251203/queda-nuevo-gobierno-perez-llorca-vicepresidencias-comisionado-reconstruccion-dana/1003744040692_0.html"
+        }
+      ],
+      "nota": "Investido el 27-nov-2025 con 53 votos de PP y Vox. Consell sin consellers de Vox (lista de 3-dic-2025)."
+    }
+  ],
+  "Extremadura": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-06-26",
+      "presidente": "Guillermo Fernández Vara",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 592/2015, de 2 de julio (BOE núm. 158, de 3-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Extremadura (RD 592/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_14"
+    },
+    {
+      "desde": "2019-06-26",
+      "hasta": "2023-07-14",
+      "presidente": "Guillermo Fernández Vara",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 408/2019, de 26 de junio (BOE núm. 153, de 27-jun-2019)",
+      "fuente": "Senado, dosier Presidentes de Extremadura (RD 408/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_14"
+    },
+    {
+      "desde": "2023-07-14",
+      "hasta": "2024-07-11",
+      "presidente": "María Guardiola Martín",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 648/2023, de 14 de julio (BOE núm. 168, de 15-jul-2023)",
+      "fuente": "Senado, dosier Presidentes de Extremadura (RD 648/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_14",
+      "fuentes_extra": [
+        {
+          "fuente": "Infobae (11-jul-2024): Vox rompe sus gobiernos de coalición con el PP",
+          "url": "https://www.infobae.com/espana/2024/07/11/vox-rompe-con-los-gobiernos-de-coalicion-con-el-pp-y-pasaran-a-la-opisicion/"
+        }
+      ],
+      "nota": "Un consejero de Vox: Ángel Pelayo Gordillo (Gestión Forestal y Mundo Rural). Gobierno formado el 21-jul-2023."
+    },
+    {
+      "desde": "2024-07-11",
+      "hasta": "2025-12-21",
+      "presidente": "María Guardiola Martín",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fuente": "elDiario.es: el único consejero de Vox en Extremadura desobedece a Abascal y se queda",
+      "url": "https://www.eldiario.es/extremadura/politica/unico-consejero-vox-extremadura-desobedece-abascal-queda-gobierno-guardiola_1_11518792.html",
+      "nota": "Vox rompe, pero su consejero Pelayo Gordillo se queda en el gobierno contra la orden del partido (Vox le pide el acta y lo tacha de tránsfuga). Formalmente, sin Vox."
+    },
+    {
+      "desde": "2025-12-21",
+      "hasta": "2026-04-22",
+      "presidente": "María Guardiola Martín",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Infobae (24-dic-2025): resultados extremeñas (PP 29, PSOE 18, Vox 11, Podemos-IU-AV 7)",
+      "url": "https://www.infobae.com/espana/2025/12/24/la-relacion-toxica-entre-pp-y-vox-marca-un-2026-de-urnas-para-nueve-millones-de-espanoles-aragon-castilla-y-leon-y-andalucia-se-juegan-su-estabilidad-politica/",
+      "nota": "En funciones tras las elecciones anticipadas del 21-dic-2025 (convocadas por no aprobar presupuestos)."
+    },
+    {
+      "desde": "2026-04-22",
+      "hasta": null,
+      "presidente": "María Guardiola Martín",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 361/2026, de 22 de abril (BOE núm. 99, de 23-abr-2026)",
+      "toma_posesion": "2026-04-24",
+      "fuente": "BOE-A-2026-8873, Real Decreto 361/2026",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-8873",
+      "fuentes_extra": [
+        {
+          "fuente": "Infobae (22-abr-2026): Guardiola reelegida con los votos de Vox",
+          "url": "https://www.infobae.com/espana/2026/04/22/maria-guardiola-es-reelegida-presidenta-de-extremadura-con-los-votos-de-vox/"
+        }
+      ],
+      "nota": "Investida el 22-abr-2026 con PP (29) y Vox (11). Vox: vicepresidencia y consejerías de Agricultura y de Desregulación, Familia y Servicios Sociales. Gobierno formado el 30-abr-2026."
+    }
+  ],
+  "Galicia": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2016-11-11",
+      "presidente": "Alberto Núñez Feijóo",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 1617/2012, de 29 de noviembre (BOE núm. 288, de 30-nov-2012)",
+      "fuente": "Senado, dosier Presidentes de Galicia (RD 1617/2012)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_03",
+      "nota": "En funciones desde las elecciones del 25-sep-2016 hasta su reelección."
+    },
+    {
+      "desde": "2016-11-11",
+      "hasta": "2020-09-03",
+      "presidente": "Alberto Núñez Feijóo",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 423/2016, de 11 de noviembre (BOE núm. 274, de 12-nov-2016)",
+      "fuente": "Senado, dosier Presidentes de Galicia (RD 423/2016)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_03"
+    },
+    {
+      "desde": "2020-09-03",
+      "hasta": "2022-04-29",
+      "presidente": "Alberto Núñez Feijóo",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 809/2020, de 3 de septiembre (BOE núm. 237, de 4-sep-2020)",
+      "fuente": "Senado, dosier Presidentes de Galicia (RD 809/2020; cese RD 304/2022)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_03",
+      "nota": "Cesa por RD 304/2022, de 29-abr, al pasar a presidir el PP nacional."
+    },
+    {
+      "desde": "2022-04-29",
+      "hasta": "2022-05-12",
+      "presidente": "Alfonso Rueda Valenzuela (vicepresidente primero, en funciones)",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fecha_aprox": true,
+      "fuente": "Senado, dosier Presidentes de Galicia",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_03",
+      "nota": "Interinidad entre el cese de Feijóo y la elección de Rueda. Quién ejerció la presidencia en esas dos semanas no está verificado con fuente primaria."
+    },
+    {
+      "desde": "2022-05-12",
+      "hasta": "2024-04-12",
+      "presidente": "Alfonso Rueda Valenzuela",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 373/2022, de 12 de mayo (BOE núm. 114, de 13-may-2022)",
+      "fuente": "Senado, dosier Presidentes de Galicia (RD 373/2022)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_03"
+    },
+    {
+      "desde": "2024-04-12",
+      "hasta": null,
+      "presidente": "Alfonso Rueda Valenzuela",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 380/2024, de 12 de abril (BOE núm. 90, de 12-abr-2024)",
+      "fuente": "Senado, dosier Presidentes de Galicia (RD 380/2024)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_03"
+    }
+  ],
+  "La Rioja": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-08-28",
+      "presidente": "José Ignacio Ceniceros González",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "Cs"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 629/2015, de 6 de julio (BOE núm. 161, de 7-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de La Rioja (RD 629/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_07",
+      "fuentes_extra": [
+        {
+          "fuente": "Público: Ciudadanos da también al PP los gobiernos de La Rioja y Murcia",
+          "url": "https://www.publico.es/politica/ciudadanos-da-al-pp-gobiernos.html"
+        }
+      ],
+      "nota": "Investido gracias al pacto PP-Cs de 2015."
+    },
+    {
+      "desde": "2019-08-28",
+      "hasta": "2023-06-28",
+      "presidente": "Concepción Andreu Rodríguez",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Podemos/UP"
+      ],
+      "apoyos_externos": [
+        "Otros (IU)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 500/2019, de 28 de agosto (BOE núm. 207, de 29-ago-2019)",
+      "fuente": "Senado, dosier Presidentes de La Rioja (RD 500/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_07",
+      "fuentes_extra": [
+        {
+          "fuente": "Público: Raquel Romero, consejera en el Gobierno de La Rioja",
+          "url": "https://www.publico.es/politica/diputada-raquel-romero-sera-consejera.html"
+        }
+      ],
+      "nota": "Coalición PSOE-Podemos: Raquel Romero (Podemos), consejera de Participación, Cooperación y Derechos Humanos desde el 30-ago-2019 aprox.; IU, apoyo externo."
+    },
+    {
+      "desde": "2023-06-28",
+      "hasta": null,
+      "presidente": "Gonzalo Capellán de Miguel",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 566/2023, de 28 de junio (BOE núm. 154, de 29-jun-2023)",
+      "fuente": "Senado, dosier Presidentes de La Rioja (RD 566/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_07",
+      "nota": "Mayoría absoluta del PP."
+    }
+  ],
+  "Madrid": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2018-04-25",
+      "presidente": "Cristina Cifuentes Cuencas",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "Cs"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 533/2015, de 24 de junio (BOE núm. 151, de 25-jun-2015)",
+      "fuente": "BOE-A-2015-7052, Real Decreto 533/2015",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-7052",
+      "nota": "Investida gracias al pacto PP-Cs; dimite el 25-abr-2018 (caso máster)."
+    },
+    {
+      "desde": "2018-04-25",
+      "hasta": "2018-05-18",
+      "presidente": "Ángel Garrido García",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Comunidad de Madrid (25-abr-2018): Garrido asume la Presidencia en funciones",
+      "url": "https://www.comunidad.madrid/noticias/2018/04/25/angel-garrido-asume-presidencia-funciones-comunidad-madrid"
+    },
+    {
+      "desde": "2018-05-18",
+      "hasta": "2019-05-26",
+      "presidente": "Ángel Garrido García",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "Cs"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 329/2018, de 18 de mayo",
+      "fuente": "CPPM: Real Decreto 329/2018, de 18 de mayo (BOCM 19-may-2018)",
+      "url": "https://cppm.es/bocm-19-5-2018-nombramiento-presidente-comunidad-de-madrid/",
+      "nota": "Elegido el 17-18 may-2018. Apoyo de Cs en la investidura no comprobado en fuente primaria (se asume continuidad del pacto de 2015)."
+    },
+    {
+      "desde": "2019-05-26",
+      "hasta": "2019-08-16",
+      "presidente": "Ángel Garrido García",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Senado, dosier Presidentes de Madrid",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_16",
+      "nota": "En funciones tras las elecciones del 26-may-2019. El dato de la página del Senado de Madrid estaba incompleto."
+    },
+    {
+      "desde": "2019-08-16",
+      "hasta": "2021-03-10",
+      "presidente": "Isabel Díaz Ayuso",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Cs"
+      ],
+      "apoyos_externos": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 495/2019, de 16 de agosto (BOE núm. 197, de 17-ago-2019)",
+      "fuente": "Senado, dosier Presidentes de Madrid (RD 495/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_16",
+      "nota": "Cs con 6 de 13 consejerías y la vicepresidencia (Ignacio Aguado). Apoyo de Vox en la investidura conocido pero no comprobado aquí en fuente primaria."
+    },
+    {
+      "desde": "2021-03-10",
+      "hasta": "2021-05-04",
+      "presidente": "Isabel Díaz Ayuso",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fuente": "El Independiente (10-mar-2021): Ayuso destituye a Aguado y a todos los consejeros de Cs",
+      "url": "https://www.elindependiente.com/espana/2021/03/10/ayuso-destituye-a-ignacio-aguado-y-todos-los-consejeros-de-ciudadanos/",
+      "nota": "Ayuso disuelve la Asamblea y convoca elecciones el 10-mar-2021 y cesa a los consejeros de Cs ese mismo día."
+    },
+    {
+      "desde": "2021-05-04",
+      "hasta": "2021-06-18",
+      "presidente": "Isabel Díaz Ayuso",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Senado, dosier Presidentes de Madrid",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_16",
+      "nota": "En funciones tras las elecciones del 4-may-2021."
+    },
+    {
+      "desde": "2021-06-18",
+      "hasta": "2023-06-22",
+      "presidente": "Isabel Díaz Ayuso",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 439/2021, de 18 de junio (BOE núm. 146, de 19-jun-2021)",
+      "fuente": "BOE-A-2021-10230, Real Decreto 439/2021",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-10230",
+      "nota": "Gobierno del PP en solitario (65 de 136 escaños); la investidura salió con apoyo de Vox (no comprobado aquí en fuente primaria)."
+    },
+    {
+      "desde": "2023-06-22",
+      "hasta": null,
+      "presidente": "Isabel Díaz Ayuso",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 542/2023, de 22 de junio (BOE núm. 149, de 23-jun-2023)",
+      "fuente": "BOE-A-2023-14826, Real Decreto 542/2023",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-14826",
+      "nota": "Mayoría absoluta del PP."
+    }
+  ],
+  "Murcia": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2017-04-04",
+      "presidente": "Pedro Antonio Sánchez López",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "Cs"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 588/2015, de 2 de julio (BOE núm. 158, de 3-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Murcia (RD 588/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_08",
+      "nota": "Investido con apoyo de Cs (pacto de 2015). Dimite en abril de 2017 ante la moción de censura anunciada por su imputación en el caso Auditorio."
+    },
+    {
+      "desde": "2017-04-04",
+      "hasta": "2017-05-02",
+      "presidente": "Pedro Antonio Sánchez López",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fecha_aprox": true,
+      "fuente": "Senado, dosier Presidentes de Murcia (cese RD 395/2017, de 20-abr, BOE 22-abr-2017)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_08",
+      "nota": "Interinidad entre la dimisión (anunciada a inicios de abril de 2017) y el nombramiento de López Miras. Día exacto de la dimisión y quién ejerció tras el cese formal (20-abr) no confirmados."
+    },
+    {
+      "desde": "2017-05-02",
+      "hasta": "2019-07-26",
+      "presidente": "Fernando López Miras",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "apoyos_externos": [
+        "Cs"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 449/2017, de 2 de mayo (BOE núm. 105, de 3-may-2017)",
+      "fuente": "Senado, dosier Presidentes de Murcia (RD 449/2017)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_08",
+      "nota": "Apoyo de Cs en la investidura de 2017 no comprobado en fuente primaria."
+    },
+    {
+      "desde": "2019-07-26",
+      "hasta": "2021-03-10",
+      "presidente": "Fernando López Miras",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Cs"
+      ],
+      "apoyos_externos": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 467/2019, de 26 de julio (BOE núm. 180, de 29-jul-2019)",
+      "toma_posesion": "2019-07-29",
+      "fuente": "Senado, dosier Presidentes de Murcia (RD 467/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_08",
+      "nota": "Primer gobierno de coalición en Murcia: vicepresidenta Isabel Franco (Cs); consejeros desde el 1-ago-2019; apoyo externo de Vox."
+    },
+    {
+      "desde": "2021-03-10",
+      "hasta": "2021-04-03",
+      "presidente": "Fernando López Miras",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Otros (exdiputados de Cs)"
+      ],
+      "en_funciones": false,
+      "fecha_aprox": true,
+      "fuente": "Público: fracasa la moción de censura en Murcia gracias a los disidentes",
+      "url": "https://www.publico.es/sociedad/video-fracasa-mocion-censura-murcia-gracias-votos-disidentes-ultraderecha.html",
+      "nota": "Cs y PSOE registran una moción de censura; tres diputados de Cs (entre ellos Isabel Franco y Valle Miguélez) se desmarcan, siguen en el gobierno y son expulsados de Cs. La moción fracasa el 18-mar-2021."
+    },
+    {
+      "desde": "2021-04-03",
+      "hasta": "2023-01-16",
+      "presidente": "Fernando López Miras",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Otros (exdiputados de Cs)",
+        "Otros (exdiputada de Vox)"
+      ],
+      "en_funciones": false,
+      "fuente": "Ara: López Miras incluye a la exdiputada de Vox María Isabel Campuzano como consejera de Educación",
+      "url": "https://es.ara.cat/politica/lopez-miras-remodela-gobierno-e-incluye-exdiputada-vox-maria-isabel-campuzano-consejera-educacion-murcia_25_3935557.html",
+      "nota": "Remodelación tras la moción: entra Mabel Campuzano (expulsada de Vox) en Educación."
+    },
+    {
+      "desde": "2023-01-16",
+      "hasta": "2023-05-28",
+      "presidente": "Fernando López Miras",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Otros (exdiputados de Cs)"
+      ],
+      "en_funciones": false,
+      "fuente": "elDiario.es: López Miras prescinde de la ex Vox Mabel Campuzano",
+      "url": "https://www.eldiario.es/murcia/politica/lopez-miras-pone-marcha-remodelacion-gobierno-regional-prescinde-campuzano-educacion_1_9869872.html",
+      "nota": "Franco y Miguélez siguen con carteras reducidas."
+    },
+    {
+      "desde": "2023-05-28",
+      "hasta": "2023-09-07",
+      "presidente": "Fernando López Miras",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": true,
+      "fuente": "Newtral (7-sep-2023): López Miras, investido con el apoyo de Vox",
+      "url": "https://www.newtral.es/lopez-miras-murcia/20230907/",
+      "nota": "En funciones tras las elecciones del 28-may-2023; investido el último día del plazo antes de repetir elecciones."
+    },
+    {
+      "desde": "2023-09-07",
+      "hasta": "2024-07-11",
+      "presidente": "Fernando López Miras",
+      "partido_presidente": "PP",
+      "socios_gobierno": [
+        "Vox"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 752/2023, de 7 de septiembre (BOE núm. 215, de 8-sep-2023)",
+      "toma_posesion": "2023-09-11",
+      "fuente": "Senado, dosier Presidentes de Murcia (RD 752/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_08",
+      "fuentes_extra": [
+        {
+          "fuente": "Infobae (11-jul-2024): Vox rompe sus gobiernos de coalición con el PP",
+          "url": "https://www.infobae.com/espana/2024/07/11/vox-rompe-con-los-gobiernos-de-coalicion-con-el-pp-y-pasaran-a-la-opisicion/"
+        }
+      ],
+      "nota": "Vox: vicepresidente José Ángel Antelo (Interior, Seguridad y Emergencias) y Fomento."
+    },
+    {
+      "desde": "2024-07-11",
+      "hasta": null,
+      "presidente": "Fernando López Miras",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "fuente": "El Español (11-jul-2024): Vox pierde sus 2 consejeros en Murcia",
+      "url": "https://www.elespanol.com/espana/murcia/20240711/lopez-miras-no-aclara-agotara-legislatura-vox-pierde-consejeros-directores-generales/869663393_0.html"
+    }
+  ],
+  "Navarra": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-08-05",
+      "presidente": "Uxue Barkos Berruezo",
+      "partido_presidente": "Otros (Geroa Bai)",
+      "socios_gobierno": [
+        "Bildu",
+        "Otros (I-E)"
+      ],
+      "apoyos_externos": [
+        "Podemos/UP"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 703/2015, de 21 de julio (BOE núm. 174, de 22-jul-2015)",
+      "fuente": "Senado, dosier Presidentes de Navarra (RD 703/2015)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_13",
+      "fuentes_extra": [
+        {
+          "fuente": "elEconomista: Barkos presidirá el gobierno con dos consejeros propuestos por Bildu",
+          "url": "https://www.eleconomista.es/politica-eD/amp/6876005/Barkos-presidira-el-nuevo-gobierno-navarro-con-dos-consejeros-propuestos-por-Bildu"
+        }
+      ],
+      "nota": "Cuatripartito del cambio: 6 consejeros de Geroa Bai, 2 propuestos por EH Bildu (Mari José Beaumont e Isabel Elizalde) y 1 de Izquierda-Ezkerra; Podemos apoyó sin entrar."
+    },
+    {
+      "desde": "2019-08-05",
+      "hasta": "2023-08-16",
+      "presidente": "María Chivite Navascués",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (Geroa Bai)",
+        "Podemos/UP"
+      ],
+      "apoyos_externos": [
+        "Otros (I-E)"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 494/2019, de 5 de agosto (BOE núm. 187, de 6-ago-2019)",
+      "toma_posesion": "2019-08-06",
+      "fuente": "Senado, dosier Presidentes de Navarra (RD 494/2019)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_13",
+      "fuentes_extra": [
+        {
+          "fuente": "EITB: los 13 consejeros toman posesión (7-ago-2019)",
+          "url": "https://www.eitb.eus/es/noticias/politica/detalle/6592955/los-13-consejeros-gobierno-navarra-toman-posesion-7-agosto-2019/"
+        }
+      ],
+      "nota": "8 consejeros PSN, 4 Geroa Bai, 1 Podemos; toman posesión el 7-ago-2019. Investida en segunda votación con abstención de parte de EH Bildu."
+    },
+    {
+      "desde": "2023-08-16",
+      "hasta": null,
+      "presidente": "María Chivite Navascués",
+      "partido_presidente": "PSOE",
+      "socios_gobierno": [
+        "Otros (Geroa Bai)",
+        "Podemos/UP"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 727/2023, de 16 de agosto (BOE núm. 196, de 17-ago-2023)",
+      "fuente": "Senado, dosier Presidentes de Navarra (RD 727/2023)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_13",
+      "fuentes_extra": [
+        {
+          "fuente": "Parlamento de Navarra: Chivite reelegida",
+          "url": "https://parlamentodenavarra.es/es/noticias/mar%C3%ADa-chivite-reelegida-presidenta-del-gobierno-de-la-comunidad-foral-de-navarra"
+        }
+      ],
+      "nota": "PSN 8, Geroa Bai 4, Contigo-Zurekin (Podemos, IU, Batzarre) 1; tres vicepresidencias. Investida con 21 sí y la abstención de los 9 de EH Bildu. Consejeros toman posesión el 18-ago-2023."
+    }
+  ],
+  "País Vasco": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2016-11-25",
+      "presidente": "Iñigo Urkullu Renteria",
+      "partido_presidente": "PNV",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 1673/2012, de 14 de diciembre (BOE núm. 301, de 15-dic-2012)",
+      "fuente": "Senado, dosier Presidentes del País Vasco (RD 1673/2012)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_01",
+      "nota": "Gobierno del PNV en solitario; en funciones desde las elecciones del 25-sep-2016."
+    },
+    {
+      "desde": "2016-11-25",
+      "hasta": "2020-09-03",
+      "presidente": "Iñigo Urkullu Renteria",
+      "partido_presidente": "PNV",
+      "socios_gobierno": [
+        "PSOE"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 540/2016, de 25 de noviembre (BOE núm. 286, de 26-nov-2016)",
+      "fuente": "Senado, dosier Presidentes del País Vasco (RD 540/2016)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_01",
+      "fuentes_extra": [
+        {
+          "fuente": "Orain: los 11 consejeros del Gobierno Vasco toman posesión (28-nov-2016)",
+          "url": "https://orain.eus/es/politica/2016/11/28/los-11-consejeros-gobierno-vasco-toman-posesion-sus-cargos/"
+        }
+      ],
+      "nota": "Coalición PNV (8) - PSE-EE (3); consejeros toman posesión el 28-nov-2016."
+    },
+    {
+      "desde": "2020-09-03",
+      "hasta": "2024-06-21",
+      "presidente": "Iñigo Urkullu Renteria",
+      "partido_presidente": "PNV",
+      "socios_gobierno": [
+        "PSOE"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 808/2020, de 3 de septiembre (BOE núm. 238, de 5-sep-2020)",
+      "fuente": "Senado, dosier Presidentes del País Vasco (RD 808/2020)",
+      "url": "https://www.senado.es/web/conocersenado/biblioteca/dossieresareastematicas/detalle/index.html?id=presidentes_gobiernos_01"
+    },
+    {
+      "desde": "2024-06-21",
+      "hasta": null,
+      "presidente": "Imanol Pradales Gil",
+      "partido_presidente": "PNV",
+      "socios_gobierno": [
+        "PSOE"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 586/2024, de 21 de junio (BOE núm. 151, de 22-jun-2024)",
+      "toma_posesion": "2024-06-22",
+      "fuente": "BOE-A-2024-12645, Real Decreto 586/2024",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-12645",
+      "nota": "Elegido el 20-jun-2024. Continúa la coalición PNV-PSE (no se ha consultado el decreto de nombramiento de consejeros)."
+    }
+  ],
+  "Ceuta": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-06-18",
+      "presidente": "Juan Jesús Vivas Lara",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 516/2015, de 16 de junio",
+      "fuente": "BOCCE (19-jun-2015), cita el RD 516/2015",
+      "url": "https://www.ceuta.es/ceuta/component/jdownloads/finish/1517-junio/8330-bocce-5479-19-06-2015?Itemid=0",
+      "nota": "Elegido el 13-jun-2015. Número y fecha del RD tomados de una referencia secundaria; no se ha abierto el BOE."
+    },
+    {
+      "desde": "2019-06-18",
+      "hasta": "2023-06-19",
+      "presidente": "Juan Jesús Vivas Lara",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 388/2019, de 18 de junio (BOE núm. 146, de 19-jun-2019)",
+      "fuente": "BOE-A-2019-9182, Real Decreto 388/2019",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-9182",
+      "fuentes_extra": [
+        {
+          "fuente": "COPE: Vivas investido sin apoyo de otros grupos",
+          "url": "https://www.cope.es/actualidad/espana/noticias/juan-jesus-vivas-ppinvestido-presidente-ceuta-sin-apoyo-otros-grupos-20190615_437311"
+        }
+      ],
+      "nota": "Elegido el 15-jun-2019 sin apoyo de otros grupos (PP 9, PSOE 7, Vox 6 escaños)."
+    },
+    {
+      "desde": "2023-06-19",
+      "hasta": null,
+      "presidente": "Juan Jesús Vivas Lara",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 523/2023, de 19 de junio (BOE núm. 146, de 20-jun-2023)",
+      "fuente": "BOE-A-2023-14604, Real Decreto 523/2023",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-14604",
+      "fuentes_extra": [
+        {
+          "fuente": "elDiario.es: Vivas investido por séptima vez con la abstención de PSOE y Vox",
+          "url": "https://www.eldiario.es/politica/popular-juan-vivas-investido-septima-vez-presidente-ceuta-abstencion-psoe-vox_1_10303424.html"
+        }
+      ],
+      "nota": "Elegido el 17-jun-2023 con la abstención de PSOE y Vox; gobierno solo del PP."
+    }
+  ],
+  "Melilla": [
+    {
+      "desde": "2016-01-01",
+      "hasta": "2019-06-18",
+      "presidente": "Juan José Imbroda Ortiz",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 630/2015, de 6 de julio",
+      "fuente": "BOE núm. 30 (4-feb-2016), cita el RD 630/2015, de 6 de julio",
+      "url": "https://www.boe.es/boe/dias/2016/02/04/pdfs/BOE-A-2016-1084.pdf",
+      "nota": "Composición del gobierno 2015-2019 (PP en solitario) no comprobada con fuente primaria."
+    },
+    {
+      "desde": "2019-06-18",
+      "hasta": "2021-04-02",
+      "presidente": "Eduardo de Castro González",
+      "partido_presidente": "Cs",
+      "socios_gobierno": [
+        "Otros (CpM)",
+        "PSOE"
+      ],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 389/2019, de 18 de junio (BOE núm. 146, de 19-jun-2019)",
+      "fuente": "BOE-A-2019-9183, Real Decreto 389/2019",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-9183",
+      "fuentes_extra": [
+        {
+          "fuente": "El Faro de Melilla: CpM tres consejerías, PSOE dos, Cs una y un independiente",
+          "url": "https://elfarodemelilla.es/de-castro-presenta-nuevo-gobierno/"
+        }
+      ],
+      "nota": "Único diputado de Cs, presidente con los 8 de CpM y los 4 del PSOE. Gobierno: 3 consejeros de CpM, 2 del PSOE, 1 de Cs y un independiente propuesto por Cs."
+    },
+    {
+      "desde": "2021-04-02",
+      "hasta": "2023-07-07",
+      "presidente": "Eduardo de Castro González",
+      "partido_presidente": "Otros (no adscrito, expulsado de Cs)",
+      "socios_gobierno": [
+        "Otros (CpM)",
+        "PSOE"
+      ],
+      "en_funciones": false,
+      "fecha_aprox": true,
+      "fuente": "El Español (2-abr-2021): Cs expulsa al presidente de Melilla",
+      "url": "https://www.elespanol.com/espana/politica/20210402/cs-expulsa-presidente-melilla-eduardo-castro-incumplir/570693182_0.html",
+      "nota": "Cs lo expulsa por incumplir directrices y ocultar su imputación (expediente abierto el 12-mar, resuelto entre el 30-mar y el 2-abr-2021). Sigue gobernando con CpM y PSOE; cambios posteriores en el reparto de consejerías no verificados."
+    },
+    {
+      "desde": "2023-07-07",
+      "hasta": null,
+      "presidente": "Juan José Imbroda Ortiz",
+      "partido_presidente": "PP",
+      "socios_gobierno": [],
+      "en_funciones": false,
+      "nombramiento": "Real Decreto 605/2023, de 7 de julio (BOE núm. 162, de 8-jul-2023)",
+      "fuente": "BOE-A-2023-15836, Real Decreto 605/2023",
+      "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15836",
+      "nota": "Elegido el 7-jul-2023. Gobierno del PP (mayoría absoluta en la Asamblea según resultados de 2023; no comprobado aquí con fuente primaria)."
+    }
+  ]
+}
