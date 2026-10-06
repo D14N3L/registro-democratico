@@ -1,0 +1,255 @@
+[
+ {
+  "id": "erte",
+  "m": "Prórroga de los ERTE hasta el 30 de junio",
+  "dl": "27 may 2020",
+  "r": "Aprobada sin votos en contra",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "si",
+   "Vox": "ab",
+   "Cs": "si",
+   "ERC": "si",
+   "Junts": "sd",
+   "Bildu": "si",
+   "PNV": "si"
+  },
+  "s": "Convalidación del decreto, pactado con patronal y sindicatos, que alargaba los ERTE de la pandemia y los desvinculaba del estado de alarma.",
+  "n": "El PP votó a favor de los ERTE y de sus prórrogas; Newtral desmintió a Yolanda Díaz cuando dijo lo contrario. Vox, CUP y BNG se abstuvieron.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/economia/erte-adelante-congreso-abstencion-vox_1_5976067.html"
+   ],
+   [
+    "Newtral: el PP sí apoyó los ERTE",
+    "https://www.newtral.es/yolanda-diaz-erte-pp-decreto-factcheck/20210716/"
+   ]
+  ]
+ },
+ {
+  "id": "imv",
+  "m": "Ingreso Mínimo Vital",
+  "dl": "10 jun 2020",
+  "r": "Aprobado sin votos en contra",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "si",
+   "Vox": "ab",
+   "Cs": "si",
+   "ERC": "si",
+   "Junts": "si",
+   "Bildu": "si",
+   "PNV": "si"
+  },
+  "s": "Convalidación del decreto que creó una renta mínima garantizada contra la pobreza, de 461,50 euros al mes para un hogar de una persona y hasta 1.015 euros para hogares grandes.",
+  "n": "Salió con el apoyo de todos los grupos menos Vox, que se abstuvo con sus 52 diputados.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/economia/congreso-decreto-ingreso-minimo-vital_1_6024757.html"
+   ],
+   [
+    "Infobae: qué votaron PP y Vox",
+    "https://www.infobae.com/espana/2023/05/31/que-votaron-pp-y-vox-cuando-se-convalido-el-ingreso-minimo-vital-en-el-congreso/"
+   ]
+  ]
+ },
+ {
+  "id": "fondos",
+  "m": "Decreto de gestión de los fondos europeos de recuperación",
+  "dl": "28 ene 2021",
+  "r": "Aprobado 173 a 134, 52 abstenciones",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "no",
+   "Vox": "ab",
+   "Cs": "no",
+   "ERC": "no",
+   "Junts": "no",
+   "Bildu": "si",
+   "PNV": "si"
+  },
+  "s": "Marco para gestionar y ejecutar los fondos europeos Next Generation tras la pandemia.",
+  "n": "Salió adelante gracias a la abstención de Vox. El PP votó no alegando falta de transparencia y riesgo de clientelismo en el reparto. ERC y Junts también votaron en contra.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/economia/gobierno-salva-decreto-ley-fondos-europeos-abstencion-vox-apoyo-pnv-bildu_1_7175720.html"
+   ]
+  ]
+ },
+ {
+  "id": "laboral",
+  "m": "Reforma laboral",
+  "dl": "3 feb 2022",
+  "r": "Aprobada 175 a 174",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "no",
+   "Vox": "no",
+   "Cs": "si",
+   "ERC": "no",
+   "Junts": "no",
+   "Bildu": "no",
+   "PNV": "no"
+  },
+  "s": "Convalidación del Real Decreto-ley 32/2021: prioriza el contrato indefinido, elimina el contrato por obra y servicio y devuelve prioridad a los convenios de sector. La temporalidad bajó unos 7 puntos en 2022.",
+  "n": "Salió por un voto, gracias al error del diputado del PP Alberto Casero, que votó sí por equivocación. ERC, Bildu, PNV, BNG y CUP votaron no desde la izquierda o por otras razones: varios la consideraban insuficiente frente a la reforma de 2012. Ciudadanos votó sí.",
+  "src": [
+   [
+    "Wikipedia: reforma laboral de 2022",
+    "https://es.wikipedia.org/wiki/Reforma_laboral_espa%C3%B1ola_de_2022"
+   ],
+   [
+    "El Salto: los votos de PDeCAT y UPN",
+    "https://www.elsaltodiario.com/reforma-laboral/votos-pdecat-upn-amarran-convalidacion-reforma-laboral"
+   ]
+  ]
+ },
+ {
+  "id": "impuestos",
+  "m": "Impuestos a banca, energéticas y grandes fortunas",
+  "dl": "24 nov 2022",
+  "r": "Aprobada con 186 votos a favor",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "no",
+   "Vox": "no",
+   "Cs": "no",
+   "ERC": "si",
+   "Junts": "si",
+   "Bildu": "si",
+   "PNV": "ab"
+  },
+  "s": "Gravámenes temporales a la banca (unos 1.500 millones al año previstos) y a las energéticas, y un impuesto de solidaridad a patrimonios de más de 3 millones de euros.",
+  "n": "PP, Vox y Ciudadanos votaron en contra alegando doble imposición y que era un modelo contrario a Europa. El impuesto a las energéticas se rebajó con enmiendas que excluyeron la actividad regulada.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/economia/gobierno-asegura-aprobacion-impuestos-banca-energeticas-grandes-fortunas_1_9742281.html"
+   ],
+   [
+    "idealista/news",
+    "https://www.idealista.com/news/finanzas/economia/2022/11/25/800323-el-congreso-aprueba-el-impuesto-a-grandes-fortunas-y-lo-remite-al-senado"
+   ]
+  ]
+ },
+ {
+  "id": "vivienda",
+  "m": "Ley de vivienda (tope al alquiler)",
+  "dl": "27 abr 2023",
+  "r": "Aprobada 176 a 167, 1 abstención",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "no",
+   "Vox": "no",
+   "Cs": "no",
+   "ERC": "si",
+   "Junts": "no",
+   "Bildu": "si",
+   "PNV": "no"
+  },
+  "s": "Limita al 3% la subida anual de los alquileres en 2024, permite declarar zonas tensionadas con topes de precio y prevé un nuevo índice para actualizar rentas.",
+  "n": "PP, Vox y Ciudadanos argumentaron que reduciría la oferta de alquiler. PNV y Junts también votaron no; la vivienda es competencia autonómica y ambos defendían la de sus gobiernos. Los economistas discrepan sobre los efectos de los topes.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/economia/congreso-aprueba-ley-vivienda-votos-derechas_1_10155945.html"
+   ],
+   [
+    "idealista/news",
+    "https://www.idealista.com/news/inmobiliario/vivienda/2023/04/27/805657-aprobada-la-ley-de-vivienda-en-el-congreso-con-el-tope-al-alquiler-y-el-adios-al-IPC"
+   ]
+  ]
+ },
+ {
+  "id": "omnibus25",
+  "m": "Decreto ómnibus con subida de pensiones",
+  "dl": "22 ene 2025",
+  "r": "Derogado 171 a 177",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "no",
+   "Vox": "no",
+   "Cs": "sd",
+   "ERC": "sd",
+   "Junts": "no",
+   "Bildu": "sd",
+   "PNV": "sd"
+  },
+  "s": "Un único decreto juntaba la revalorización del 2,8% de las pensiones, las ayudas al transporte, el bono social eléctrico y la suspensión de desahucios a familias vulnerables, junto a medidas sin relación como la cesión de un palacete en París al PNV.",
+  "n": "PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Las pensiones se aprobaron después por separado con apoyo amplio, incluido el del PP.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/politica/junts-anuncia-voto-decretos-gobierno-deja-pensiones-manos-pp_1_11983907.html"
+   ]
+  ]
+ },
+ {
+  "id": "jornada",
+  "m": "Reducción de jornada a 37,5 horas",
+  "dl": "10 sep 2025",
+  "r": "Devuelta al Gobierno 178 a 170",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "no",
+   "Vox": "no",
+   "Cs": "sd",
+   "ERC": "sd",
+   "Junts": "no",
+   "Bildu": "sd",
+   "PNV": "sd"
+  },
+  "s": "Bajaba la jornada máxima legal de 40 a 37,5 horas semanales sin reducción de sueldo y obligaba a un registro horario digital.",
+  "n": "PP alegó que debía pactarse con la patronal y que se trasladaría a los convenios. Vox dijo que perjudicaría a los trabajadores. Junts argumentó que el coste recaía sobre todo en pequeños comercios catalanes.",
+  "src": [
+   [
+    "El Español",
+    "https://www.elespanol.com/espana/20250910/congreso-tumba-gobierno-reduccion-jornada-laboral-votos-pp-vox-junts-frente/1003743919055_0.html"
+   ],
+   [
+    "idealista/news",
+    "https://www.idealista.com/news/finanzas/economia/2025/09/11/859545-el-congreso-tumba-la-reduccion-de-jornada-laboral-al-prosperar-el-veto-de-pp-vox-y"
+   ]
+  ]
+ },
+ {
+  "id": "omnibus26",
+  "m": "Decreto con pensiones y freno a desahucios",
+  "dl": "27 ene 2026",
+  "r": "Derogado",
+  "v": {
+   "PSOE": "si",
+   "UP / Sumar": "si",
+   "PP": "no",
+   "Vox": "no",
+   "Cs": "sd",
+   "ERC": "sd",
+   "Junts": "no",
+   "Bildu": "sd",
+   "PNV": "sd"
+  },
+  "s": "Incluía la subida del 2,7% de las pensiones ya aplicada en enero, la suspensión de desahucios a personas vulnerables y la congelación de cuotas de autónomos.",
+  "n": "PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno aprobó las pensiones en un decreto aparte, convalidado en febrero de 2026 con apoyo de PP y Junts.",
+  "src": [
+   [
+    "Euronews",
+    "https://es.euronews.com/2026/01/27/pensiones-ocupaciones-oposicion-tumba-decreto-omnibus-gobierno"
+   ],
+   [
+    "Canal Sur: el nuevo decreto de pensiones",
+    "https://www.canalsur.es/noticias/espana/congreso-desbloquea-revalorizacion-pensiones-apoyo_1_1385986.html"
+   ]
+  ]
+ }
+]

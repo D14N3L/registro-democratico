@@ -1,0 +1,1555 @@
+# Registro Democrático 2018–2026: fichas y fuentes
+
+Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
+
+## Fichas del registro (96)
+
+### Vox nace financiado casi un millón de euros por simpatizantes del exilio iraní
+- Fecha: dic 2013 – abr 2014
+- Partidos: Vox
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Documentado en medios
+- Resumen: En sus primeros cinco meses, Vox recibió unos 972.000 euros en 141 transferencias de simpatizantes del Consejo Nacional de Resistencia de Irán (CNRI), un grupo opositor en el exilio. El dinero pagó el alquiler de la sede, muebles y sueldos, incluido el de Santiago Abascal. Según Público, cubrió el 80% de la campaña europea de 2014.
+- Matiz: Es la oposición iraní en el exilio, no el Gobierno de Irán. La ley prohíbe financiación de gobiernos extranjeros; no consta ninguna sanción por estas donaciones. Los hechos son anteriores al periodo del registro, pero ayudan a entender el patrón de financiación exterior junto al préstamo húngaro.
+- Fuentes:
+  - [elDiario.es: el millón del exilio iraní](https://www.eldiario.es/politica/exiliados-millon-fundar-financiar-vox_1_1740433.html)
+  - [Público: el 80% de la campaña de 2014](https://www.publico.es/politica/exilio-irani-financio-80-campana-europea-vox-2014.html)
+  - [elDiario.es: quién es el CNRI](https://www.eldiario.es/internacional/vox-financiacion-iran_1_2739305.html)
+
+### Caso Gürtel: el PP, condenado como partícipe a título lucrativo
+- Fecha: 24 may 2018
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia Nacional condenó a 29 personas por la primera época de la trama Gürtel (1999-2005) y declaró al PP beneficiario a título lucrativo por actos electorales en Majadahonda y Pozuelo pagados por el grupo Correa. El Supremo lo confirmó en octubre de 2020.
+- Matiz: El Supremo eliminó de la sentencia las referencias a una caja B y precisó que la condena a título lucrativo no implica que el partido conociera los delitos. La sentencia de 2018 provocó la moción de censura contra Rajoy.
+- Fuentes:
+  - [Poder Judicial: el TS confirma Gürtel](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-)
+  - [elDiario.es](https://www.eldiario.es/politica/supremo-confirma-condena-pp-caso-guertel-elimina-alusiones-caja-b_1_6287711.html)
+
+### Parlament de Catalunya: JxCat, ERC y la CUP bloquean cuatro veces investigar el presunto espionaje de los Mossos
+- Fecha: 2018
+- Partidos: Junts, ERC, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Documentado en medios
+- Resumen: Tras requisar la Policía Nacional papeles de los Mossos con referencias a políticos, periodistas y empresarios contrarios al procés, Cs, PSC, PP y Catalunya en Comú-Podem pidieron una comisión de investigación. Según Ara, JxCat, ERC y la CUP la frenaron en cuatro intentos: la Mesa la rechazó por forma, el pleno tumbó dos iniciativas y la Mesa frenó también la petición conjunta de cuatro grupos que el reglamento obliga a constituir.
+- Matiz: Alegaron que era una investigación sesgada que criminalizaba a la policía catalana y que, de investigar, debía hacerse con todos los cuerpos. Los tribunales archivaron después las querellas contra los Mossos. Las fechas exactas de cada bloqueo no están confirmadas.
+- Fuentes:
+  - [Ara](https://es.ara.cat/politica/precedentes-no-exitosos-investigar-espionaje-parlament_1_4366361.html)
+  - [Crónica Global (El Español)](https://cronicaglobal.elespanol.com/politica/20260510/junts-erc-usaron-mossos-periodistas-abogados-empresarios/1003742759734_0.html)
+
+### PSOE, PP, Ciudadanos y Vox vetan en el Congreso investigar al rey Juan Carlos y los GAL
+- Fecha: 2018 – 2021
+- Partidos: PSOE, PP, Vox, Cs
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: En 2018 PP, PSOE y Ciudadanos tumbaron en la Mesa del Congreso dos comisiones sobre Juan Carlos I, por Corinna y por su actividad tras abdicar. Entre 2020 y 2021, PSOE, PP y Vox rechazaron varias más sobre sus finanzas, en algún caso aunque los letrados habían avalado su tramitación; en diciembre de 2020 ya era el quinto veto. En 2020 el PSOE también rechazó una comisión sobre los GAL.
+- Matiz: El PSOE alegó que los asuntos estaban en manos de la justicia y que controlar a la Monarquía no es función del Parlamento. Sobre los GAL, su portavoz reconoció que el rechazo respondía a una posición política y no reglamentaria.
+- Fuentes:
+  - [elDiario.es: veto de 2018 por Corinna](https://www.eldiario.es/politica/PP-PSOE-Ciudadanos-Corinna-Carlos_0_810869171.html)
+  - [elDiario.es: rechazo de junio de 2020](https://www.eldiario.es/politica/psoe-pp-vox-juan-carlos_1_6019454.html)
+  - [El Confidencial Digital: veto pese a los letrados](https://www.elconfidencialdigital.com/articulo/ultima-hora/psoe-pp-vox-vuelven-vetar-congreso-investigacion-rey-juan-carlos-obviando-opinion-letrados/20210113102128204249.html)
+  - [Público](https://www.publico.es/politica/psoe-pp-vox-vuelven-rechazar-investigacion-rey-emerito-congreso.html)
+
+### El portavoz del PP en el Senado presume por WhatsApp de que controlarán 'desde detrás' la Sala Segunda del Supremo
+- Fecha: 19 nov 2018
+- Partidos: PP
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Documentado en medios
+- Resumen: Cinco días después del pacto entre PP y PSOE para renovar el CGPJ, con Manuel Marchena como presidente, el portavoz del PP en el Senado, Ignacio Cosidó, escribió a sus senadores para defender el acuerdo: con él controlarían desde detrás la Sala Segunda del Tribunal Supremo, la que juzga a diputados, senadores y miembros del Gobierno.
+- Matiz: Tras publicarse el mensaje, Marchena renunció a presidir el CGPJ para dejar clara su independencia y el pacto se rompió; poco después empezó el bloqueo de cinco años y medio. Ojo: hablaba de la Sala Segunda del Supremo, no del Constitucional. Cosidó dijo sentirse respaldado por la dirección de su partido.
+- Fuentes:
+  - [infoLibre](https://www.infolibre.es/politica/mensaje-cosido-whatsapp-senadores-pp-controlaremos-sala-segunda-detras_1_1164501.html)
+  - [El Independiente](https://www.elindependiente.com/politica/2018/11/19/cosido-whatsapp-los-senadores-del-pp-controlaremos-la-sala-segunda-desde-detras/)
+  - [El Español: Cosidó se siente respaldado](https://www.elespanol.com/espana/20181120/cosido-whatsapp-siento-respaldado-presidente-partido/354714975_0.html)
+
+### Bloqueo de la renovación del CGPJ durante cinco años y medio
+- Fecha: dic 2018 – jul 2024
+- Partidos: PP
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Organismo oficial
+- Resumen: El mandato del órgano de gobierno de los jueces caducó en diciembre de 2018 y no se renovó hasta julio de 2024. La Comisión Europea pidió la renovación inmediata en sus informes de Estado de Derecho de 2022 y 2023, y acabó mediando el acuerdo en Bruselas.
+- Matiz: Los dos partidos se culparon mutuamente, pero según Maldita los acuerdos se frustraron en el último momento por el PP, que fue cambiando sus condiciones. El PP condicionaba la renovación a cambiar antes el sistema para que los jueces elijan a los vocales, algo que la propia Comisión Europea también recomendaba.
+- Fuentes:
+  - [Maldita: claves de la renovación](https://maldita.es/malditateexplica/20240625/renovacion-cgpj-claves-gobierno-psoe-pp/)
+  - [Newtral](https://www.newtral.es/claves-renovacion-cgpj/20240626/)
+
+### Parlamento Vasco: PNV y PSE rechazan investigar la OPE de Osakidetza
+- Fecha: 21 mar 2019
+- Partidos: PNV, PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Documentado en medios
+- Resumen: EH Bildu y Elkarrekin Podemos pidieron una comisión de investigación sobre las irregularidades en la oferta de empleo de Osakidetza. PNV y PSE la rechazaron en el pleno, con la abstención del PP. Era la segunda vez que se rechazaba.
+- Matiz: El PSE dijo que el pleno no podía convertirse en un tribunal político; el PNV lo presentó como una ofensiva de la oposición contra su partido.
+- Fuentes:
+  - [Naiz](https://www.naiz.eus/es/info/noticia/20190321/pnv-pse-y-pp-impiden-una-vez-mas-que-se-investigue-en-la-camara-la-ope-de-osakidetza)
+
+### Sentencia del procés: condenas por sedición y malversación
+- Fecha: 14 oct 2019
+- Partidos: ERC, Junts
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: El Supremo condenó a líderes independentistas por los hechos de otoño de 2017, con penas de hasta 13 años para Oriol Junqueras (ERC) por sedición en concurso con malversación. Descartó el delito de rebelión.
+- Matiz: Los hechos son de 2017, pero la sentencia cae dentro del periodo. Es una de las sentencias más discutidas: el independentismo y parte de la doctrina la consideran desproporcionada o un caso de persecución política, mientras otros la ven como la respuesta legal a un referéndum declarado ilegal. Después llegaron los indultos (2021), la reforma penal que suprimió la sedición (2023) y la ley de amnistía (2024).
+- Fuentes:
+  - [Orain (EFE): las condenas](https://orain.eus/es/politica/2019/10/14/sentencia-del-proces-de-cataluna-condenas-por-sedicion-a-lideres-catalanes/)
+
+### Asamblea de Madrid: PP y Cs impiden que Ayuso y sus antecesores comparezcan en la comisión de Avalmadrid
+- Fecha: 11 nov 2019
+- Partidos: PP, Cs
+- Categoría: Control parlamentario
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Documentado en medios
+- Resumen: La comisión sobre Avalmadrid llegó a crearse, pero la Mesa rechazó que comparecieran Ayuso, Aguirre, González, Cifuentes y Garrido. PP y Ciudadanos votaron en contra, Vox se abstuvo y el PSOE votó a favor.
+- Matiz: No es un veto a crear la comisión sino a sus comparecencias. PP y Cs alegaron que no era el momento procesal y que preferían esperar a tener indicios firmes.
+- Fuentes:
+  - [Público](https://www.publico.es/politica/cs-vox-evitan-ayuso-antecesores-comparezcan-comision-avalmadrid.html)
+
+### Caso ERE: condenas a expresidentes andaluces, anuladas en parte por el TC
+- Fecha: 2019 · 2022 · 2024
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia de Sevilla condenó en 2019 a Manuel Chaves (prevaricación) y José Antonio Griñán (malversación) por el sistema de ayudas de los ERE en la Junta de Andalucía. El Supremo lo ratificó en 2022.
+- Matiz: En julio de 2024 el TC, por 7 votos a 4, anuló esas condenas en parte por vulnerar la presunción de inocencia y la legalidad penal, y ordenó dictar nuevas sentencias. Úsalo con este matiz.
+- Fuentes:
+  - [Noticias de Navarra: el TC anula](https://www.noticiasdenavarra.com/politica/2024/07/16/ere-constitucional-anula-chaves-grinan-8485049.html)
+  - [elEconomista](https://www.eleconomista.es/legal/noticias/12911733/07/24/el-tribunal-constitucional-anula-la-condena-a-manuel-chaves-en-el-caso-de-los-ere.html)
+
+### Cortes de Castilla-La Mancha: el PSOE veta la comparecencia del Defensor del Paciente y no se crea la comisión covid del PP
+- Fecha: 2020
+- Partidos: PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: Castilla-La Mancha
+- Nivel de prueba: Documentado en medios
+- Resumen: En abril de 2020 el PP pidió una comisión de investigación sobre la gestión del covid; el Gobierno de Page la calificó de ruindad política y en su lugar PSOE y Cs crearon una comisión de estudio. En julio, el PSOE, con mayoría absoluta, votó en la Comisión de Sanidad contra la comparecencia del Defensor del Paciente que pedían PP y Cs.
+- Matiz: El PSOE dijo que el Defensor del Paciente es una entidad privada con una visión parcial. No está confirmado cómo se descartó exactamente la comisión de investigación del PP.
+- Fuentes:
+  - [Lanza Digital: el veto al Defensor del Paciente](https://www.lanzadigital.com/castilla-la-mancha/el-psoe-veta-que-el-defensor-del-paciente-comparezca-en-las-cortes-de-castilla-la-mancha-como-pedia-el-pp-y-secundaba-cs/)
+  - [Mi Ciudad Real: la petición del PP](https://www.miciudadreal.es/2020/04/16/el-gobierno-de-castilla-la-mancha-califica-de-ruindad-politica-la-comision-de-investigacion-solicitada-por-el-partido-popular-en-mitad-de-la-pandemia-mas-grave-de-los-ultimos-cien-an/)
+
+### Asamblea de Extremadura: el PSOE rechaza en solitario investigar las residencias
+- Fecha: 9 jul 2020
+- Partidos: PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: Extremadura
+- Nivel de prueba: Documentado en medios
+- Resumen: El PSOE, con mayoría absoluta, fue el único grupo que votó contra la comisión de investigación sobre las residencias durante el covid, pedida por el PP con el apoyo de Ciudadanos y Unidas por Extremadura.
+- Matiz: La noticia no recoge el argumento del PSOE.
+- Fuentes:
+  - [Público](https://www.publico.es/politica/video-psoe-frena-comision-saber-ocurrido-residencias-ancianos.html)
+
+### Congreso: tres comisiones tumbadas en un día (financiación de Podemos, AVE a La Meca y cloacas)
+- Fecha: 8 sep 2020
+- Partidos: PSOE, Podemos/UP, ERC, Bildu, PP, Vox, Cs
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: En la Junta de Portavoces cayeron tres comisiones a la vez. La de la financiación de Podemos, pedida por el PP, la rechazaron PSOE, Unidas Podemos, ERC y Bildu. La de las comisiones del AVE a La Meca la rechazaron PSOE, PP, Vox y Ciudadanos. La de las cloacas del Estado y el espionaje a políticos la tumbó el PSOE con la mayoría de la derecha.
+- Matiz: El PSOE había admitido días antes en la Mesa la de Podemos para no contradecir a los letrados y la tumbó después; la llamó cortina de humo frente al caso Kitchen. Sobre las cloacas, dijo que no era pertinente y que tocaba centrarse en la pandemia.
+- Fuentes:
+  - [Público](https://www.publico.es/politica/psoe-tumba-comisiones-investigacion-sobre-ave-meca-cloacas-podemos.html)
+  - [El Español](https://www.elespanol.com/espana/politica/20200902/psoe-peticion-pp-comision-investigacion-cuentas-podemos/517698729_0.html)
+
+### Parlamento de Galicia: el PP rechaza en solitario investigar las muertes en residencias
+- Fecha: 22 sep 2020
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Documentado en medios
+- Resumen: BNG y PSdeG pidieron una comisión de investigación sobre las residencias en la pandemia. El PP la rechazó con su mayoría absoluta y propuso a cambio una comisión de estudio.
+- Matiz: El PP dijo que una comisión de investigación no era la herramienta adecuada y que Galicia no destacaba por la gravedad de lo ocurrido en sus residencias.
+- Fuentes:
+  - [El Correo Gallego](https://www.elcorreogallego.es/galicia/el-parlamento-no-investigara-las-residencias-en-la-pandemia-como-reclamaba-la-oposicion-HX4707559)
+
+### Quim Torra, inhabilitado por desobedecer a la Junta Electoral
+- Fecha: 28 sep 2020
+- Partidos: Junts
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: El Supremo confirmó por unanimidad la inhabilitación del president de la Generalitat por negarse de forma reiterada a retirar pancartas de edificios públicos en periodo electoral, como le había ordenado la Junta Electoral Central para garantizar la neutralidad.
+- Matiz: El Síndic de Greuges de Cataluña consideró la pena desproporcionada. El Supremo confirmó después una segunda condena por desobediencia.
+- Fuentes:
+  - [Infobae (AFP)](https://www.infobae.com/america/mundo/2020/09/28/el-tribunal-supremo-espanol-ratifico-la-inhabilitacion-del-presidente-catalan-quim-torra-debera-abandonar-su-cargo/)
+  - [El Independiente](https://www.elindependiente.com/espana/2020/09/28/el-tribunal-supremo-inhabilita-a-quim-torra-que-debera-abandonar-la-generalitat/)
+
+### Parlamento de La Rioja: PSOE, IU y Podemos rechazan investigar las residencias
+- Fecha: 30 sep 2020
+- Partidos: PSOE, Podemos/UP
+- Categoría: Control parlamentario
+- Parlamento o territorio: La Rioja
+- Nivel de prueba: Documentado en medios
+- Resumen: La comisión de investigación sobre las residencias de mayores que pedía el PP fue rechazada por el PSOE, IU y Podemos, que gobernaban la comunidad.
+- Matiz: El PSOE acusó al PP de querer sacar rédito político de los muertos y dijo que las preguntas podían hacerse directamente al Gobierno.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/la-rioja/rechazada-la-comision-de-investigacion-sobre-las-residencias-de-mayores-planteada-por-el-pp_1_11156159.html)
+
+### Propuesta para renovar el CGPJ por mayoría absoluta, retirada tras advertencias de la UE
+- Fecha: oct 2020 – abr 2021
+- Partidos: PSOE, Podemos/UP
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Organismo oficial
+- Resumen: Ante el bloqueo, PSOE y Unidas Podemos registraron una proposición de ley para elegir a los vocales judiciales del CGPJ por mayoría absoluta en lugar de tres quintos, lo que habría permitido renovarlo sin el PP. Tras las advertencias de Bruselas, el Gobierno se comprometió ante la UE a retirarla.
+- Matiz: Fue una respuesta al bloqueo, no su causa. La propuesta no llegó a aprobarse. Aparte, en 2021 sí se aprobó una reforma que impide al CGPJ en funciones hacer nombramientos.
+- Fuentes:
+  - [El Español: el Gobierno promete a la UE retirarla](https://www.elespanol.com/espana/politica/20210420/gobierno-promete-ue-retirar-mayorias-renovar-cgpj/575193020_0.html)
+  - [Newtral: la propuesta de PSOE y UP](https://www.newtral.es/cgpj-nombramientos-psoe-podemos-congreso/20201215/)
+
+### Parlament balear: el Govern de izquierdas rechaza investigar a altos cargos vacunados y la explotación de menores tuteladas
+- Fecha: mar 2021
+- Partidos: PSOE, Podemos/UP, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Baleares
+- Nivel de prueba: Documentado en medios
+- Resumen: PSIB, Podemos y Més rechazaron en marzo de 2021 dos comisiones de investigación: una sobre los altos cargos que se saltaron el turno de vacunación, pedida por Ciudadanos, y otra sobre la explotación sexual de menores tuteladas por las instituciones, pedida por el PP. La segunda ya se había rechazado antes.
+- Matiz: Sobre la vacunación propusieron una auditoría posterior o la Comisión de Ética Pública. Sobre las menores tuteladas, el PSIB dijo que el caso excedía las competencias del Parlament y Podemos acusó al PP de politizarlo.
+- Fuentes:
+  - [Última Hora: vacunación](https://www.ultimahora.es/noticias/local/2021/03/02/1243067/coronavirus-baleares-parlament-rechaza-investigar-vacunacion-altos-cargos.html)
+  - [El Español: menores tuteladas](https://www.elespanol.com/espana/politica/20210330/baleares-impedir-investigue-menores-tuteladas-requerimiento-ue/569943468_0.html)
+
+### Parlamento de Galicia: el PP rechaza investigar las revelaciones de Bárcenas sobre dinero B en el PP gallego
+- Fecha: 13 abr 2021
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Documentado en medios
+- Resumen: BNG y PSdeG pidieron investigar las declaraciones de Bárcenas sobre financiación en B del PP gallego en la etapa de Feijóo. El PP lo rechazó con su mayoría absoluta.
+- Matiz: El PP dijo que la izquierda solo quería tapar sus propios escándalos.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/galicia/politica/pp-rechaza-parlamento-galicia-investigue-revelaciones-barcenas-financiacion-b-feijoo-frente-formacion_1_7800767.html)
+
+### Ayuso cambia la ley de Telemadrid para controlar su dirección, y el TC declara que vulneró los derechos de la oposición
+- Fecha: 2021 · 2026
+- Partidos: PP
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: En 2021 el PP aprobó en la Asamblea de Madrid, con la abstención de Vox y por lectura única, una reforma de la ley de Telemadrid que cambió cómo se eligen la dirección y el consejo de administración: rebajó los votos necesarios, de modo que ya no hacía falta el apoyo de la izquierda, y permitió relevar a la dirección anterior. En marzo de 2026 el Tribunal Constitucional, por 7 votos a 5, declaró que tramitarla por lectura única vulneró el derecho de los diputados socialistas a presentar enmiendas.
+- Matiz: La sentencia es declarativa: la legislatura ya había terminado y la ley sigue en vigor. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. La mayoría conservadora del tribunal votó en contra.
+- Fuentes:
+  - [Público: la sentencia del TC](https://www.publico.es/politica/tribunales/constitucional-reprende-ayuso-reforma-controlar-telemadrid.html)
+  - [Telemadrid: la aprobación en 2021](https://www.telemadrid.es/noticias/madrid/reforma-ley-telemadrid-0-2357464249--20210708013446.html)
+  - [elDiario.es: el registro de la ley](https://www.eldiario.es/madrid/ayuso-registra-proposicion-ley-asamblea-cambiar-direccion-telemadrid_1_8059507.html)
+
+### El TC declara inconstitucional el confinamiento del primer estado de alarma
+- Fecha: 14 jul 2021
+- Partidos: PSOE, Podemos/UP
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: La STC 148/2021 anuló los apartados 1, 3 y 5 del artículo 7 del Real Decreto 463/2020 del Gobierno de coalición: el confinamiento suspendió la libertad de circulación en lugar de limitarla, algo que exigía un estado de excepción.
+- Matiz: Se aprobó por 6 votos a 5, con un tribunal muy dividido. Responde a un recurso de Vox. El estado de alarma lo había respaldado una amplia mayoría del Congreso, incluidos PP y Vox en su inicio.
+- Fuentes:
+  - [Deloitte Legal: análisis de la STC](https://www2.deloitte.com/es/es/pages/legal/articles/sentencia-tribunal-declara-inconstitucional-estado-de-alarma.html)
+  - [Revista ICADE (Comillas)](https://revistas.comillas.edu/index.php/revistaicade/article/view/17590)
+
+### El PP rechaza en la Asamblea de Madrid investigar las residencias en la primera ola
+- Fecha: 15 jul 2021
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Documentado en medios
+- Resumen: La comisión de investigación sobre lo ocurrido en las residencias de Madrid durante la primera ola del covid fue rechazada con el voto en contra del PP y la abstención de Vox.
+- Matiz: El PP alegó que la oposición ya tenía sus conclusiones y buscaba usar la tragedia políticamente. En octubre de 2022 la Mesa, con PP y Vox, volvió a tumbar otra petición alegando un defecto de procedimiento, y después ambos rechazaron una comisión de estudio propuesta por el PSOE.
+- Fuentes:
+  - [Madridiario](https://www.madridiario.es/rechazada-comision-investigacion-residencias-negativa-pp-abstencion-vox)
+  - [Público](https://www.publico.es/politica/pp-y-vox-tumban-comision-investigacion-residencias-asamblea-madrid.html/amp)
+
+### El TC anula el cierre del Congreso al inicio de la pandemia
+- Fecha: 5 oct 2021
+- Partidos: PSOE, Podemos/UP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El TC concluyó, por 6 votos a 4, que la suspensión de plazos parlamentarios acordada por la Mesa del Congreso en marzo de 2020 vulneró el derecho de participación política de los diputados. Ningún estado de alarma puede interrumpir el Parlamento.
+- Matiz: La decisión de la Mesa salió con los votos de PSOE y Unidas Podemos. La presidenta Batet alegó criterios sanitarios y que Vox había pedido antes suspender un pleno por la cuarentena de sus diputados.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/politica/constitucional-rechaza-cierre-congreso-senado-principio-pandemia_1_8368520.html)
+  - [Público](https://www.publico.es/politica/tribunal-constitucional-tumba-cierre-del-parlamento-durante-primeras-semanas-confinamiento.html)
+
+### Parlamento de Cantabria: PRC y PSOE rechazan investigar los pagos indebidos de la empresa pública MARE
+- Fecha: 11 oct 2021
+- Partidos: Otros, PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: Cantabria
+- Nivel de prueba: Documentado en medios
+- Resumen: Ciudadanos y Vox pidieron una comisión sobre más de 1,2 millones en pagos indebidos en la empresa pública MARE. PRC y PSOE, que gobernaban con mayoría absoluta, la rechazaron por 18 votos; el PP se abstuvo. Dos semanas después, PRC, PSOE y PP rechazaron enviar el caso al Tribunal de Cuentas.
+- Matiz: Alegaron que el Tribunal de Cuentas ya tenía la documentación y que eran pagos indebidos, no sobresueldos.
+- Fuentes:
+  - [Parlamento de Cantabria](https://parlamento-cantabria.es/publicaciones/noticias/el-pleno-rechaza-crear-una-comisi%C3%B3n-de-investigaci%C3%B3n-en-mare)
+  - [El Diario Cantabria](https://eldiariocantabria.publico.es/articulo/politica/prc-psoe-pp-rechazan-remitir-tribunal-cuentas-irregularidades-mare/20211025200015105810.amp.html)
+
+### El TC declara inconstitucional el segundo estado de alarma de seis meses
+- Fecha: 27 oct 2021
+- Partidos: PSOE, Podemos/UP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: La STC 183/2021 concluyó que la prórroga de seis meses sin revisión periódica y la delegación en los presidentes autonómicos dejaron sin efecto el control del Congreso sobre el Gobierno durante la emergencia.
+- Matiz: Votación 6 a 4. El Congreso aprobó la prórroga, así que la crítica alcanza también a la Cámara por renunciar a su propio control.
+- Fuentes:
+  - [TC: STC 183/2021](https://hj.tribunalconstitucional.es/es/Resolucion/Show/26843)
+  - [Diario de Avisos (El Español)](https://diariodeavisos.elespanol.com/2021/10/el-tc-declara-inconstitucional-el-segundo-estado-de-alarma/)
+
+### Parlament de Catalunya: PSC, ERC y Junts rechazan investigar las residencias en el covid
+- Fecha: 3 nov 2021
+- Partidos: PSOE, ERC, Junts
+- Categoría: Control parlamentario
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Documentado en medios
+- Resumen: En Comú Podem y Ciudadanos pidieron una comisión de investigación sobre las residencias durante la pandemia, con el apoyo de CUP, Vox y PP. PSC, ERC y Junts la rechazaron y crearon un grupo de trabajo en su lugar.
+- Matiz: Dijeron compartir el objetivo pero no el mecanismo, y que un grupo de trabajo sería más rápido. En la legislatura anterior sí se había aprobado una comisión, que decayó con la disolución.
+- Fuentes:
+  - [Ara](https://www.ara.cat/politica/jxcat-erc-psc-frenen-comissio-d-investigacio-parlament-residencies_1_4170288.html)
+
+### Congreso: PSOE, PP y Vox vetan investigar la relación del CNI con los atentados del 17-A
+- Fecha: 25 ene 2022
+- Partidos: PSOE, PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: Tras las declaraciones de Villarejo, ERC, Junts, PDeCAT, CUP, Bildu, BNG y Més pidieron una comisión sobre la supuesta relación del CNI con el autor de los atentados de Barcelona y Cambrils. La Mesa la rechazó con los votos de PSOE, PP y Vox.
+- Matiz: Se apoyaron en los letrados, que dijeron que el control del CNI corresponde a la comisión de secretos oficiales, que se reúne a puerta cerrada.
+- Fuentes:
+  - [Público](https://www.publico.es/politica/congreso-veta-comision-investigacion-sobre-supuesta-relacion-cni-atentados-catalunya-mencionada-villarejo.html)
+
+### Asamblea de Murcia: dejan caducar la comisión sobre la vacunación irregular de altos cargos
+- Fecha: feb 2022
+- Partidos: PP, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Documentado en medios
+- Resumen: La comisión sobre los altos cargos murcianos que se vacunaron saltándose el turno caducó al cumplir un año sin prorrogarse. La mayoría del PP y de diputados expulsados de Cs y Vox no volvió a reunirla.
+- Matiz: No es un veto a crearla, sino dejarla morir sin conclusiones.
+- Fuentes:
+  - [COPE](https://www.cope.es/actualidad/espana/noticias/expira-comision-investigacion-del-protocolo-vacunacion-murcia-20220212_1802074)
+
+### Asamblea de Madrid: la Mesa tumba investigar los contratos covid y el del hermano de Ayuso
+- Fecha: 21 feb 2022
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Documentado en medios
+- Resumen: Más Madrid, PSOE y Unidas Podemos pidieron investigar los contratos de emergencia del covid, incluido el que dio una comisión al hermano de Ayuso. La Mesa no la admitió con el voto en contra del PP y la abstención de Vox. Era la segunda iniciativa parecida que tumbaba.
+- Matiz: El PP alegó defectos de forma en el escrito.
+- Fuentes:
+  - [Telemadrid](https://www.telemadrid.es/noticias/madrid/Asamblea-comisionde-investigacion-solicitada-izquierda-0-2425857430--20220221072040.html)
+  - [Madridiario](https://www.madridiario.es/rechazada-asamblea-comision-investigacion-contratos-hermano-ayuso)
+
+### Congreso: rechazada la comisión sobre abusos en la Iglesia
+- Fecha: 8 mar 2022
+- Partidos: PP, Vox, PNV, PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: UP, ERC y Bildu pidieron una comisión de investigación sobre abusos sexuales en la Iglesia. PP, Vox y PNV votaron en contra y PSOE y Ciudadanos se abstuvieron, así que no salió. En su lugar se encargó un informe al Defensor del Pueblo.
+- Matiz: El PSOE dijo que prefería no abrir más comisiones pero aceptaba que comparecieran víctimas; el PNV temía que se convirtiera en un espectáculo. El informe del Defensor del Pueblo sí se hizo.
+- Fuentes:
+  - [RTVC](https://rtvc.es/el-congreso-rechaza-la-comision-sobre-abusos-en-la-iglesia/)
+  - [elDiario.es](https://www.eldiario.es/politica/pp-vox-quedan-solos-congreso-rechazo-investigar-abusos-iglesia_1_8706505.html)
+
+### Congreso: PSOE, PP, Vox y Cs rechazan investigar la matanza de Vitoria de 1976
+- Fecha: 22 mar 2022
+- Partidos: PSOE, PP, Vox, Cs
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: EH Bildu y ERC pidieron una comisión sobre la matanza del 3 de marzo de 1976 en Vitoria, en la que la policía mató a cinco trabajadores. PSOE, PP, Vox y Ciudadanos la rechazaron.
+- Matiz: El PSOE dijo que una comisión de investigación no era el instrumento adecuado.
+- Fuentes:
+  - [Orain](https://orain.eus/es/politica/2022/03/22/el-congreso-rechaza-investigar-masacre-del-3-de-marzo-en-vitoriagasteiz/)
+  - [Deia](https://www.deia.eus/actualidad/2022/03/22/psoe-pp-vox-ciudadanos-tumban-1724740.html)
+
+### PSOE, PP y Ciudadanos tumban la comisión de investigación sobre Pegasus
+- Fecha: 3 may 2022
+- Partidos: PSOE, PP, Cs
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: El Congreso rechazó crear una comisión de investigación sobre el espionaje con Pegasus a independentistas, con los votos en contra de PSOE, PP y Ciudadanos. Unidas Podemos, socio del Gobierno, votó a favor junto a ERC, Junts y otros grupos. La investigación quedó limitada a la comisión de secretos oficiales, que es a puerta cerrada.
+- Matiz: El PSOE votó contra investigar en abierto un asunto que afectaba a su propio Gobierno y al CNI.
+- Fuentes:
+  - [Ara](https://es.ara.cat/politica/psoe-veta-comision-investigacion-congreso-caso-pegasus_25_4359120.html)
+
+### Pegasus: espionaje a independentistas y destitución de la directora del CNI
+- Fecha: may 2022 – hoy
+- Partidos: PSOE, Podemos/UP
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Investigación judicial
+- Resumen: Tras el informe de Citizen Lab sobre teléfonos de independentistas infectados, el Gobierno destituyó a la directora del CNI, Paz Esteban, que había reconocido escuchas a varios dirigentes con autorización judicial. Un juzgado la imputó en 2023 por la querella de Pere Aragonès.
+- Matiz: El CNI sostiene que sus intervenciones tuvieron control judicial. Hay causas abiertas y nada juzgado. El Gobierno también fue víctima: Pegasus se detectó en los móviles de Sánchez y Robles.
+- Fuentes:
+  - [elDiario.es: destitución](https://www.eldiario.es/politica/gobierno-destituye-directora-cni-crisis-pegasus_1_8980147.amp.html)
+  - [El Español: imputación](https://www.elespanol.com/espana/tribunales/20231016/juez-imputa-exdirectora-cni-paz-esteban-espionaje-pegasus-aragones/802419787_0.html)
+
+### Cataluña aprueba normas para no aplicar la sentencia firme del 25% de castellano en las aulas
+- Fecha: may 2022
+- Partidos: ERC, Junts
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: Tras una sentencia firme del TSJ de Cataluña, confirmada por el Supremo, que obligaba a impartir al menos un 25% de las clases en castellano, el Govern aprobó un decreto-ley y el Parlament una ley para evitar fijar porcentajes. En julio de 2022 el TSJC llevó esas normas al Constitucional.
+- Matiz: El Govern defiende el catalán como lengua vehicular y que la nueva ley impide fijar porcentajes. Falta comprobar la sentencia final del TC.
+- Fuentes:
+  - [El Independiente](https://www.elindependiente.com/espana/2022/07/28/el-tsj-de-cataluna-lleva-al-constitucional-el-decreto-del-govern-para-incumplir-la-sentencia-del-25-del-castellano/)
+
+### Cortes de Castilla y León: PP y Vox rechazan investigar las residencias
+- Fecha: 7 sep 2022
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Castilla y León
+- Nivel de prueba: Documentado en medios
+- Resumen: La oposición, con el PSOE al frente, volvió a pedir una comisión sobre las residencias en la pandemia. PP y Vox votaron en contra y Ciudadanos se abstuvo. Vox la había apoyado en la legislatura anterior, antes de entrar en el Gobierno.
+- Matiz: El PP dijo que era extemporánea, que la Fiscalía había archivado y que no hacía falta investigar lo que había sido transparente.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/castilla-y-leon/politica/pp-vox-rechazan-investigar-gestion-residencias-extemporaneo-archivo-fiscalia_1_9296029.html)
+
+### Congreso: PSOE y PP vetan dos veces investigar la tragedia de la valla de Melilla
+- Fecha: sep – nov 2022
+- Partidos: PSOE, PP, Vox, Cs
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: En septiembre de 2022, PSOE, PP y Vox tumbaron a la vez tres comisiones: la de la valla de Melilla, donde murieron al menos 23 migrantes, la de la cloaca policial y la de los Uber Files. En noviembre, PSOE, PP, Vox y Ciudadanos rechazaron otra vez la de Melilla.
+- Matiz: El PSOE alegó que Marlaska iba a comparecer, que ya existía la comisión Kitchen y que los Uber Files no afectaban a españoles. El PP dijo que prefería escuchar antes a Marlaska.
+- Fuentes:
+  - [elDiario.es: septiembre](https://www.eldiario.es/politica/psoe-tumba-comisiones-investigacion-actuacion-policial-melilla-cloaca-policial-apoyo-pp-vox_1_9311381.html)
+  - [elDiario.es: noviembre](https://www.eldiario.es/politica/psoe-pp-tumban-peticion-comision-investigacion-tragedia-melilla_1_9723141.html)
+
+### Madrid reabre solo 17 de las 37 urgencias de atención primaria que cerró en la pandemia
+- Fecha: 2020 – 2022
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Documentado en medios
+- Resumen: En la pandemia se cerraron los 37 servicios de urgencias de atención primaria (SUAP). En 2022 la Comunidad reabrió 17 con otro nombre, y de ellos solo 10 tenían médico; los otros siete funcionaban con enfermería y técnicos.
+- Matiz: La Comunidad lo justificó como un reparto de recursos según la actividad y la cercanía a los hospitales. En 2025 sindicatos y plataformas contaban 194 centros de salud con plazas de medicina de familia sin cubrir, y la consejera reconoció una falta importante de profesionales.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/madrid/ayuso-abrira-17-37-servicios-urgencias-cerro-pandemia_1_9100488.html)
+  - [Infobae: centros sin médico](https://www.infobae.com/espana/2025/10/06/madrid-anuncia-la-apertura-de-cinco-nuevos-centros-de-salud-mientras-faltan-medicos-en-194-estas-seran-las-ubicaciones/)
+
+### Parlamento de Navarra: la mayoría de Chivite rechaza investigar las mascarillas de Sodena y la patronal
+- Fecha: nov – dic 2022
+- Partidos: PSOE, Podemos/UP, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Navarra
+- Nivel de prueba: Documentado en medios
+- Resumen: Navarra Suma pidió una comisión sobre la compra de mascarillas y material sanitario mediante convenios con Sodena, la patronal CEN y la empresa Albyn. La mayoría que sostenía al Gobierno de Chivite, con PSN, Geroa Bai, Podemos e I-E, la rechazó.
+- Matiz: La mayoría prefirió buscar una salida a las mascarillas almacenadas. El día exacto y el recuento de votos no están confirmados.
+- Fuentes:
+  - [elDiario.es: la petición](https://www.eldiario.es/navarra/navarra-suma-insiste-comision-investigacion-compra-mascarillas_1_9686635.html)
+  - [Estella Digital](https://estelladigital.com/na-insiste-en-pedir-explicaciones-sobre-las-mascarillas-y-el-resto-coinciden-en-solicitar-una-salida-al-material/)
+
+### Parlamento de Canarias: el Pacto de las Flores rechaza investigar el caso mascarillas
+- Fecha: 23 nov 2022
+- Partidos: PSOE, Podemos/UP, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Documentado en medios
+- Resumen: CC y PP pidieron investigar el pago por adelantado de 4 millones por mascarillas que nunca llegaron. PSOE, NC, Podemos y ASG, que gobernaban, la rechazaron por 35 votos a 30.
+- Matiz: Alegaron que el caso estaba bajo secreto judicial y en manos de la Fiscalía Europea. Con el cambio de mayoría en 2023, CC y PP crearon la comisión.
+- Fuentes:
+  - [Canarias7](https://www.canarias7.es/politica/pacto-flores-rechaza-20221123143023-nt.html)
+  - [elDiario.es](https://www.eldiario.es/canariasahora/politica/psoe-nc-asg-rechazan-creacion-comision-investigacion-caso-mascarillas_1_9709542.html)
+
+### El TC frena enmiendas para cambiar su propia renovación colocadas en otra ley
+- Fecha: 19 dic 2022
+- Partidos: PSOE, Podemos/UP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El Gobierno y sus socios introdujeron, como enmiendas a la ley que derogaba la sedición, cambios en cómo el CGPJ elige magistrados del TC. A petición del PP, el TC suspendió su tramitación en el Senado (ATC 177/2022) por falta de relación con la ley.
+- Matiz: Fue la primera vez que el TC paralizó un debate parlamentario, por 6 votos a 5, y la decisión también recibió fuertes críticas por invadir al legislador y porque votaron magistrados afectados.
+- Fuentes:
+  - [El Confidencial Digital (Europa Press)](https://www.elconfidencialdigital.com/articulo/ultima-hora/comision-justicia-senado-da-luz-verde-reforma-que-deroga-sedicion-enmiendas-vetadas-tc/20221220131313495069.html)
+  - [Dialnet: análisis del ATC 177/2022](https://dialnet.unirioja.es/descarga/articulo/9633561.pdf)
+
+### Senado: PSOE y PNV no admiten la comisión del PP sobre Ximo Puig
+- Fecha: 7 feb 2023
+- Partidos: PSOE, PNV
+- Categoría: Control parlamentario
+- Parlamento o territorio: Senado
+- Nivel de prueba: Documentado en medios
+- Resumen: La Mesa del Senado, con mayoría de PSOE y PNV, no admitió a trámite la comisión de investigación que pedía el PP sobre el presidente valenciano Ximo Puig.
+- Matiz: Alegaron los precedentes y el respeto a las competencias autonómicas: investigar a un gobierno autonómico corresponde a su parlamento.
+- Fuentes:
+  - [Onda Vasca](https://www.ondavasca.com/psoe-y-pnv-frenan-en-el-senado-la-peticion-del-pp-de-crear-una-investigacion-parlamentaria-a-ximo-puig/)
+
+### Cancelaciones de obras de teatro en ayuntamientos de PP y Vox
+- Fecha: verano 2023
+- Partidos: PP, Vox
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Documentado en medios
+- Resumen: Tras las municipales de mayo de 2023, varias compañías denunciaron cancelaciones en ayuntamientos gobernados por PP y Vox, como Orlando de Virginia Woolf en Valdemorillo o una obra en Quintanar de la Orden por salir actores en ropa interior.
+- Matiz: No hay resolución judicial. Algunos ayuntamientos alegaron que las obras no estaban programadas o razones de presupuesto. Úsalo como hecho documentado, no como condena.
+- Fuentes:
+  - [Newtral](https://www.newtral.es/cancelacion-obras-culturales/20230706/)
+  - [El Español (El Cultural)](https://www.elespanol.com/el-cultural/escenarios/20230706/mundo-cultura-denuncia-cancelaciones-espectaculos-ayuntamientos-pp-vox/776922366_0.html)
+
+### Comunidades del PP se niegan a declarar zonas tensionadas de la ley de vivienda
+- Fecha: 2023 – 2026
+- Partidos: PP, CC
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: Madrid, Galicia, Andalucía, Murcia, Castilla y León, Baleares, Cantabria y Canarias no han declarado zonas tensionadas, ni siquiera las que pedían ayuntamientos como Getafe, Fuenlabrada o A Coruña, lo que impide aplicar el límite a las subidas del alquiler. El TC avaló la ley en enero de 2025 y rechazó en septiembre de 2026 el último de los ocho recursos de comunidades del PP.
+- Matiz: Declararlas es voluntario: la ley dice que la comunidad podrá hacerlo. No es incumplir la ley, sino negarse a usar un instrumento que ofrece. Las comunidades alegan que limitar precios reduce la oferta de alquiler.
+- Fuentes:
+  - [elDiario.es: las comunidades se niegan](https://www.eldiario.es/politica/comunidades-pp-boicotean-ley-vivienda-rechazan-declarar-zonas-tensionadas-limitar-alquileres_1_10614050.html)
+  - [elDiario.es: el TC avala la ley](https://www.eldiario.es/economia/constitucional-tumba-recurso-pp-avala-ley-vivienda-limite-subidas-alquiler-zonas-tensionadas_1_12004164.html)
+
+### Asamblea de Murcia: la Mesa rechaza investigar el incendio de las discotecas de Atalayas
+- Fecha: 9 oct 2023
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Documentado en medios
+- Resumen: Podemos pidió una comisión de investigación sobre el incendio de las discotecas de Atalayas, en el que murieron 13 personas. La Mesa, donde el PP tenía tres de cinco puestos, la rechazó. Después PP y Vox tumbaron otra iniciativa parecida.
+- Matiz: Se apoyaron en un informe jurídico que veía defectos de redacción y en que las licencias de ocio nocturno son competencia municipal.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/murcia/politica/asamblea-regional-murcia-rechaza-crear-comision-investigacion-incendio-atalayas_1_10583468.html)
+
+### Castilla y León: un organismo de la consejería de Vox reparte contratos a dedo a medios afines
+- Fecha: 2023 – 2024
+- Partidos: Vox, PP
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Castilla y León
+- Nivel de prueba: Documentado en medios
+- Resumen: Según la Plataforma de Contratación del Sector Público, analizada por La Marea, el Instituto Tecnológico Agrario de Castilla y León, dependiente de la Consejería de Agricultura dirigida por Vox, firmó en 2023 más de cien contratos con medios. Entre ellos, casi 15.000 euros a EDATV de Javier Negre, 14.900 a Periodista Digital y 14.500 a OKDiario, todos justo por debajo del límite de 15.000 euros a partir del cual hay que sacar el contrato a concurso.
+- Matiz: Los contratos menores son legales; lo que se señala es el patrón de quedarse justo por debajo del umbral y el reparto a medios afines. En 2024, la Diputación de Ciudad Real, de PP y Vox, también incluyó el portal de Negre en una campaña de publicidad para medios locales, pese a no ser un medio local. Ninguna de las dos administraciones respondió a los periodistas.
+- Fuentes:
+  - [La Marea](https://www.lamarea.com/2023/12/07/los-contratos-a-dedo-de-vox-a-medios-ultras-desde-un-chiringuito-del-gobierno-de-castilla-y-leon/)
+  - [Público: Diputación de Ciudad Real](https://www.publico.es/politica/pp-vox-cuelan-portal-negre-reparto-publicidad-institucional-medios-locales-regionales-ciudad-real.html)
+
+### Madrid, la que menos gasta por alumno, da ayudas para estudiar en colegios privados a rentas altas
+- Fecha: 2019 – 2026
+- Partidos: PP, Vox
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Documentado en medios
+- Resumen: Según un estudio del IVIE con datos del Ministerio de Educación, en 2023 Madrid fue la comunidad que menos gastó por alumno (menos de 6.000 euros, frente a más de 9.000 en el País Vasco). A la vez, desde el curso 2022-23, pactado con Vox, las ayudas para estudiar Bachillerato en centros concertados y privados llegan a familias con hasta 35.913 euros de renta por persona: una pareja con un hijo que gane hasta 107.739 euros al año puede pedirla. El presupuesto de estas ayudas pasó de 64,6 a 127 millones.
+- Matiz: Madrid es la que menos paga por cada alumno de la concertada y dice que el 94,5% de las familias consigue plaza en su primera opción. El País Vasco, gobernado por el PNV, es la comunidad que más proporción de su gasto educativo destina a la concertada (26%, frente al 18% de Madrid). CCOO denuncia el cierre de 88 aulas públicas de Infantil y Primaria en 2025-26; la Comunidad dice que hay 244 aulas y 517 docentes más.
+- Fuentes:
+  - [Infobae: estudio del IVIE](https://www.infobae.com/espana/2025/12/01/pais-vasco-gasta-9000-euros-por-alumno-y-madrid-menos-de-6000-pero-ambos-destinan-una-cuarta-parte-a-la-ensenanza-privada/)
+  - [Maldita: las ayudas a rentas altas](https://maldita.es/malditateexplica/20220705/becas-ensenanza-privada-comunidad-madrid-ayuso/)
+  - [Infobae (EFE): peso de la concertada por comunidad](https://www.infobae.com/espana/agencias/2026/09/24/pais-vasco-madrid-y-navarra-las-comunidades-que-mas-financian-la-ensenanza-concertada/)
+  - [elDiario.es: cierre de aulas según CCOO](https://www.eldiario.es/sociedad/ccoo-denuncia-ayuso-cerrado-88-aulas-infantil-primaria-curso-mayoria-municipios-obreros-sur_1_13301791.html)
+
+### Asamblea de Madrid: el PP bloquea investigar los contratos de emergencia del covid incluso después de que intervenga el TC
+- Fecha: 2024 – 2026
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: Más Madrid pidió en 2024 investigar la contratación sanitaria de emergencia en la pandemia, que incluye contratos con Quirón y la pareja de Ayuso. La Mesa, con mayoría del PP, la inadmitió dos veces. Más Madrid recurrió en amparo al Tribunal Constitucional, que lo admitió y permitió que la petición siguiera adelante. En marzo de 2026 el PP la tumbó en el pleno con su mayoría absoluta.
+- Matiz: El PP alegó razones reglamentarias para inadmitirla y, ya en el pleno, que era una causa general y un ajuste de cuentas político contra quienes decidieron bajo presión.
+- Fuentes:
+  - [Público: recurso al TC](https://www.publico.es/politica/madrid-lleva-tc-bloqueo-pp-ayuso-iniciativas-investigar-contratos-hechos-pandemia.html)
+  - [Siglo XXI (Europa Press): rechazo de 2026](https://www.diariosigloxxi.com/texto-ep/mostrar/20260305174833/pp-tumba-comision-investigacion-pedida-madrid-sobre-contratacion-emergencia-covid-rescatada-tc)
+  - [Última Hora](https://www.ultimahora.es/noticias/comunidades/2026/03/05/2583129/tumba-comision-investigacion-pedida-por-mas-madrid-sobre-contratacion-emergencia-covid-rescatada-por-tc.html)
+
+### Ley de amnistía: reparos de la Comisión de Venecia
+- Fecha: mar 2024 – 2025
+- Partidos: PSOE, Sumar, ERC, Junts, Bildu, PNV
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Organismo oficial
+- Resumen: La Comisión de Venecia del Consejo de Europa recomendó que la amnistía no se tramitara por urgencia, que estuviera bien acotada en tiempo y materia y que contara con una mayoría cualificada. La ley se aprobó en mayo de 2024 con PSOE, Sumar y sus socios.
+- Matiz: El dictamen no es vinculante y no la declara contraria al Estado de Derecho. El TC avaló la ley en 2025 y hay cuestiones pendientes ante el TJUE. Es un caso disputado, preséntalo así.
+- Fuentes:
+  - [Consejo de Europa: nota oficial](https://www.coe.int/es/web/portal/-/venice-commission-adopts-opinion-on-the-rule-of-law-requirements-of-amnesties-with-particular-reference-to-the-amnesty-bill-in-spain)
+  - [Newtral: claves del dictamen](https://www.newtral.es/dictamen-comision-venecia-ley-amnistia/20240315/)
+
+### Parlamento de Navarra: PSN, Geroa Bai y Contigo rechazan investigar las mascarillas y el caso Koldo
+- Fecha: 21 mar 2024
+- Partidos: PSOE, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Navarra
+- Nivel de prueba: Documentado en medios
+- Resumen: UPN pidió, con el apoyo de PP y Vox, una comisión sobre la compra de mascarillas en Navarra y sus conexiones con el caso Koldo. La rechazaron PSN, Geroa Bai y Contigo-Zurekin, con la abstención de EH Bildu.
+- Matiz: La nota oficial del Parlamento no recoge sus argumentos. En 2025 sí se creó una comisión amplia sobre obras públicas tras el caso Cerdán.
+- Fuentes:
+  - [Parlamento de Navarra](https://parlamentodenavarra.es/es/noticias/rechazada-la-creaci%C3%B3n-de-una-comisi%C3%B3n-de-investigaci%C3%B3n-sobre-la-compra-y-distribuci%C3%B3n-de)
+
+### PP y Vox suprimen la Oficina Anticorrupción de Baleares
+- Fecha: 26 mar 2024
+- Partidos: PP, Vox
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Documentado en medios
+- Resumen: El Parlament balear, con los votos de PP y Vox, eliminó la Oficina de Prevención y Lucha contra la Corrupción creada en la legislatura anterior a impulso de Podemos. Baleares se convirtió en la primera comunidad autónoma en suprimir su organismo anticorrupción.
+- Matiz: PP y Vox la calificaron de parcial e irrelevante y alegaron que duplicaba otros controles, como la Sindicatura de Comptes. Es una decisión parlamentaria legal; lo que se cuestiona es su efecto sobre el control de la corrupción.
+- Fuentes:
+  - [elDiario.es: primera autonomía en eliminarla](https://www.eldiario.es/illes-balears/politica/pp-vox-convierten-balears-primera-autonomia-eliminar-oficina-corrupcion_1_11244012.html)
+  - [Última Hora](https://www.ultimahora.es/noticias/local/2024/03/26/2132535/vox-cierran-oficina-anticorrupcion-baleares-impulsada-por-podemos.html)
+  - [elDiario.es: los argumentos de PP y Vox](https://www.eldiario.es/illes-balears/politica/pp-vox-ponen-oficina-anticorrupcion-balears-considerarla-parcial-e-irrelevante_1_10723852.html)
+
+### Leyes de concordia: relatores de la ONU alertan sobre la memoria del franquismo
+- Fecha: may 2024
+- Partidos: PP, Vox
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Organismo oficial
+- Resumen: Tres relatores especiales de la ONU concluyeron que las leyes de concordia de PP y Vox en Aragón, Castilla y León y la Comunitat Valenciana podían invisibilizar violaciones graves de derechos humanos de la dictadura y no respetaban estándares internacionales.
+- Matiz: Es una opinión no vinculante de expertos independientes, emitida tras una denuncia del Gobierno central. Los gobiernos autonómicos alegan que amplían el reconocimiento a todas las víctimas. Además, a recurso del Gobierno, el TC suspendió cautelarmente la derogación de la ley de memoria de Aragón (junio de 2024) y varios artículos de la ley valenciana (mayo de 2025); no consta aún sentencia de fondo.
+- Fuentes:
+  - [Newtral](https://www.newtral.es/relatores-onu-leyes-concordia-pp-vox/20240503/)
+  - [El Español](https://www.elespanol.com/espana/politica/20240504/onu-aclara-carta-relatores-leyes-concordia-opinion-no-vinculante/852415158_0.html)
+  - [elDiario.es: el TC suspende la derogación en Aragón](https://www.eldiario.es/aragon/constitucional-suspende-derogacion-ley-memoria-democratica-aragon_1_11455727.html)
+  - [elDiario.es: el TC suspende parte de la ley valenciana](https://www.eldiario.es/comunitat-valenciana/constitucional-tumba-parte-ley-valenciana-concordia-aprobada-pp-vox-equipara-franquismo-democracia_1_12334449.html)
+
+### El TC anula parte de la reforma de las leyes trans y LGTBI de Madrid
+- Fecha: 2023 – 2025
+- Partidos: PP
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: Madrid reformó en diciembre de 2023 sus leyes trans y LGTBI: abrió excepciones a la prohibición de las terapias de conversión, volvió a tratar como patología a los menores trans y excluyó a las asociaciones LGTBI de los procedimientos. El Gobierno las recurrió y en abril de 2025 el TC, por 11 votos a 1, anuló la exclusión de las asociaciones por invadir competencias del Estado y contradecir la ley estatal de igualdad.
+- Matiz: No consta todavía sentencia sobre el resto de artículos recurridos.
+- Fuentes:
+  - [Público: el recurso](https://www.publico.es/sociedad/gobierno-recurre-constitucional-ley-trans-lgtbi-comunidad-madrid.html)
+  - [El Español: la sentencia](https://www.elespanol.com/espana/tribunales/20250409/tc-estima-recurso-pedro-sanchez-tumba-ley-lgtbi-ayuso-invadir-competencias/1003743706496_0.html)
+
+### El TC anula en parte el protocolo canario que dejaba fuera de protección a menores rescatados en el mar
+- Fecha: sep 2024 – feb 2025
+- Partidos: CC, PP
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El Gobierno canario de CC y PP aprobó en 2024 un acuerdo y un protocolo que dejaban fuera de su sistema de protección a los menores migrantes rescatados en el mar. El Gobierno central lo recurrió y el TC lo anuló en parte en febrero de 2025 (STC 43/2025).
+- Matiz: Canarias soporta una presión migratoria muy superior a su capacidad, algo que también reconoció el Supremo al obligar al Estado a hacerse cargo de cerca de mil menores solicitantes de asilo.
+- Fuentes:
+  - [BOE: STC 43/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5740)
+
+### Parlamento de Galicia: el PP frena y luego cierra en exprés la investigación sobre contratos de la Xunta
+- Fecha: sep 2024 – ene 2025
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Documentado en medios
+- Resumen: El BNG pidió investigar contratos de la Xunta, entre ellos los de Eulen, donde trabaja como directiva la hermana de Feijóo, el sobrecoste del hospital Cunqueiro y contratos covid. El PP la tumbó; el BNG la activó igualmente con un tercio de los diputados, pero el PP la controló desde dentro: no comparecieron ni Feijóo ni su hermana y se cerró en menos de cuatro meses con un dictamen que solo votó el PP.
+- Matiz: El PP dijo que se buscaba difundir bulos y que el Consello de Contas ya había fiscalizado los contratos.
+- Fuentes:
+  - [elDiario.es: el bloqueo](https://www.eldiario.es/galicia/pp-maniobra-parlamento-gallego-bloquear-investigacion-contratos-xunta-hermana-feijoo_1_11641195.html)
+  - [elDiario.es: el cierre](https://www.eldiario.es/galicia/parlamento-zanja-cuatro-meses-investigacion-contratos-xunta-dictamen-apoya-pp_1_12000597.html)
+
+### Congreso: PP, Vox y CC dejan caducar la comisión de las mascarillas sin citar a Ábalos ni a Koldo
+- Fecha: sep – oct 2024
+- Partidos: PP, Vox, CC
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: La comisión del Congreso sobre la compra de mascarillas, impulsada por el PSOE, caducó en octubre de 2024 porque PP, Vox y Coalición Canaria, que sumaban mayoría en el voto ponderado, no apoyaron prorrogarla. Quedaron unos 110 comparecientes sin citar, entre ellos Ábalos y Koldo.
+- Matiz: CC dijo que su prioridad era la crisis migratoria. El PP investigaba el caso Koldo en paralelo en el Senado, donde tiene mayoría.
+- Fuentes:
+  - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2024/09/28/el-psoe-certifica-el-fin-de-la-comision-de-mascarillas-del-congreso-y-lamenta-no-haber-convencido-a-cc-para-la-prorroga/)
+
+### Asamblea de Madrid: el PP investiga a Begoña Gómez pero veta investigar los contratos del novio de Ayuso
+- Fecha: 2023 – 2024
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Documentado en medios
+- Resumen: Con su mayoría absoluta, el PP aprobó en la Asamblea de Madrid una comisión de investigación sobre Begoña Gómez, esposa de Pedro Sánchez, mientras rechazaba las que pedía la oposición sobre los negocios de la pareja de Ayuso y las residencias.
+- Matiz: La lista completa de comisiones vetadas está tras el muro de pago de infoLibre; aquí solo constan las que nombra el titular. PSOE y Más Madrid acabaron abandonando la comisión sobre Begoña Gómez calificándola de circo.
+- Fuentes:
+  - [infoLibre](https://www.infolibre.es/politica/residencias-contratos-novio-ayuso-pp-veta-asamblea-begona_1_1897993.html)
+  - [elDiario.es: PSOE y Más Madrid abandonan la comisión](https://www.eldiario.es/madrid/politica/madrid-psoe-abandonan-comision-investigacion-begona-gomez-asamblea-madrid-circo_1_12046855.html)
+
+### Asamblea de Murcia: PP y Vox tumban las comparecencias de la comisión del aeropuerto de Corvera
+- Fecha: 22 nov 2024
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Documentado en medios
+- Resumen: La comisión sobre el aeropuerto de Corvera se creó a propuesta de Vox, pero PP y Vox rechazaron las comparecencias que pedía el PSOE. Podemos se abstuvo.
+- Matiz: No es un veto a crear la comisión sino a quién declara en ella.
+- Fuentes:
+  - [El Español](https://www.elespanol.com/espana/murcia/20241122/psoe-murcia-critica-pp-vox-ponen-acuerdo-tapar-pufos-aeropuerto-corvera/902909883_0.html)
+
+### Madrid, Andalucía y Valencia, las comunidades que menos gastan en sanidad pública por habitante
+- Fecha: 2021 – 2024
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: Según el Ministerio de Sanidad, en 2024 la media de gasto sanitario público fue de 2.084 euros por habitante. Las que menos gastaron fueron Andalucía (1.658), Madrid (1.779) y la Comunitat Valenciana (1.867), las tres gobernadas por el PP. Las que más, País Vasco (2.332), Asturias (2.322) y Extremadura (2.246). Madrid es además la segunda comunidad que más gasto sanitario destina a conciertos con la privada (11,4%), tras Cataluña (21,1%).
+- Matiz: Madrid tiene la menor espera quirúrgica de España según el Ministerio (50 días, frente a 173 en Andalucía), aunque el propio Ministerio advierte de que su sistema de datos está obsoleto. Las diferencias de gasto también dependen del envejecimiento y de la financiación autonómica. Es una decisión de gestión, no un hecho antidemocrático.
+- Fuentes:
+  - [Ministerio de Sanidad: gasto de 2024](https://www.sanidad.gob.es/en/gabinete/notasPrensa.do?id=6908)
+  - [elDiario.es: el mapa del gasto](https://www.eldiario.es/sociedad/mapa-gasto-sanidad-comunidades-andalucia-madrid-cola-euskadi-asturias-cabeza_1_13271746.html)
+  - [Ministerio de Sanidad: peso de los conciertos](https://www.sanidad.gob.es/estadEstudios/sanidadDatos/tablas/tabla31.htm)
+  - [Redacción Médica: listas de espera](https://www.redaccionmedica.com/politica/ministerio-sanidad/20260415/la-espera-quirurgica-de-deja-notables-diferencias-por-regiones/272056_0.html)
+
+### Senado: el PP impone sus listas de comparecientes en las comisiones de la DANA y el caso Koldo
+- Fecha: 2025
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Senado
+- Nivel de prueba: Documentado en medios
+- Resumen: En la comisión de la DANA, el PP usó su mayoría absoluta para aprobar solo su lista: Sánchez, siete ministros y Mazón, y rechazó a todos los que pedía el PSOE, como Salomé Pradas y otros consellers. En junio, en la comisión Koldo, tumbó las comparecencias de Feijóo, Tellado y Ayuso que pedía el PSOE y, con su abstención, las de Zapatero y Bono que pedía Vox.
+- Matiz: Sobre Ayuso, los letrados dijeron que no había base para citarla. El PP sí propuso que Pradas compareciera en las Corts valencianas. La noticia de la comisión Koldo solo la publica El Debate.
+- Fuentes:
+  - [elDiario.es: la comisión de la DANA](https://www.eldiario.es/politica/pp-rodillo-senado-e-impone-comision-dana-mazon-siete-ministros-consellers_1_12086951.html)
+  - [El Debate: la comisión Koldo](https://www.eldebate.com/espana/20250623/pp-rechaza-comparecencias-feijoo-tellado-zapatero-bono-comision-caso-psoe-senado_310255.html)
+
+### Vox se financia con un banco húngaro ligado al Gobierno de Orbán que el Tribunal de Cuentas no pudo verificar
+- Fecha: 2023 – 2025
+- Partidos: Vox
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Organismo oficial
+- Resumen: Vox financió la campaña de 2023 con 6,5 millones de MBH Bank, con participación de un fondo estatal húngaro. El Tribunal de Cuentas señaló que el banco no le informó como exige la ley electoral y que no pudo acreditar si había financiación pública extranjera, que está prohibida.
+- Matiz: El incumplimiento señalado es del banco. Vox alega que la banca española le niega crédito y devolvió el préstamo. La Fiscalía Anticorrupción abrió diligencias; no hay resolución. Ojo: el Supremo anuló dos multas anteriores del Tribunal de Cuentas a Vox (233.324 y 862.496 euros), así que no las cites como vigentes.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/politica/tribunal-cuentas-denuncia-falta-colaboracion-banco-hungaro-mbh-prestamo-6-5-millones-vox_1_12174490.html)
+  - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2025/06/27/tribunal-de-cuentas-vuelve-a-denunciar-que-el-banco-hungaro-que-financia-a-vox-incumple-la-obligacion-legal-de-informar/)
+
+### Parlamento de Andalucía: el PP rechaza investigar los contratos de emergencia del SAS
+- Fecha: 29 may 2025
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Documentado en medios
+- Resumen: El PSOE andaluz pidió investigar los contratos de emergencia del Servicio Andaluz de Salud entre 2020 y 2023. El PP votó en contra con su mayoría absoluta; Vox se abstuvo y Adelante y Por Andalucía votaron a favor. En 2023 el PP ya se había opuesto a otra comisión sobre los contratos de emergencia de la Junta.
+- Matiz: El PP dijo que no se puede investigar lo que no existe y que la contratación de emergencia era obligatoria para salvar vidas.
+- Fuentes:
+  - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2025/05/29/el-parlamento-andaluz-rechaza-investigar-los-contratos-del-sas-con-los-votos-del-pp/)
+  - [Teleprensa](https://www.teleprensa.com/articulo/sevilla/pp-rechaza-solitario-comision-investigacion-parlamento-contratos-sanitarios-que-pedia-psoe/202505291452312128965.html)
+
+### Congreso: la comisión del caso Koldo que registró el PSOE sigue sin debatirse seis meses después
+- Fecha: jun – dic 2025
+- Partidos: PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: Tras el informe de la UCO sobre Santos Cerdán, el PSOE registró una comisión de investigación sobre el caso Koldo con un plazo de seis meses. En diciembre de 2025, según Europa Press, la petición seguía sin llevarse al pleno, y Compromís exigió al PSOE que la pusiera en marcha.
+- Matiz: Está confirmado que quedó parada, pero ninguna fuente fiable aclara quién la frenó. Que fuera el PSOE solo lo afirma The Objective, que no usamos como fuente.
+- Fuentes:
+  - [Público: el PSOE la registra](https://www.publico.es/politica/congreso/psoe-registra-congreso-peticion-comision-investigacion-sobre-caso-cerdan.html)
+  - [Infobae (Europa Press): sigue sin debatirse](https://www.infobae.com/espana/agencias/2025/12/12/compromis-exige-al-psoe-crear-la-comision-del-caso-koldo-del-congreso-si-quieren-tomarse-las-uvas-deben-cumplir/)
+
+### Junta General de Asturias: la izquierda deja fuera a Barbón y a sus consejeros en la comisión de la mina de Cerredo
+- Fecha: jun 2025
+- Partidos: PSOE, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Asturias
+- Nivel de prueba: Documentado en medios
+- Resumen: Tras el accidente de la mina de Cerredo, con cinco muertos, PSOE e IU acabaron aceptando la comisión de investigación que pedían PP y Foro. Pero de 97 comparecencias se aprobaron 92 y quedaron fuera el presidente Barbón, dos consejeros y la exministra Teresa Ribera, que según las crónicas no tuvieron el apoyo de la izquierda.
+- Matiz: El PSOE dijo que no tenían relación directa con los hechos; la presidenta de la comisión, que se habían aplazado por motivos técnicos. El dictamen final reprobó a cuatro exconsejeros con el PSOE como único voto en contra. No está confirmado el voto de cada grupo.
+- Fuentes:
+  - [Heraldo de León](https://www.heraldodeleon.es/articulo/provincia-leon/comision-accidente-cerredo-da-luz-verde-92-comparecencias-mientras-avanza-investigacion-judicial/20250622094143033420.html)
+  - [elDiario.es: el dictamen](https://www.eldiario.es/asturias/psoe-desmarca-vota-dictamen-reprueba-cuatro-exconsejeros-accidente-minero-zarreu_1_13247604.html)
+
+### Caso Montoro: investigación por presuntos favores fiscales a empresas desde Hacienda
+- Fecha: 2025 – hoy
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Investigación judicial
+- Resumen: Un juzgado de Tarragona investiga al exministro de Hacienda Cristóbal Montoro y a la consultora que cofundó, Equipo Económico, por presuntamente favorecer a empresas, sobre todo gasísticas, con cambios normativos a cambio de pagos. Los delitos investigados incluyen cohecho, prevaricación y tráfico de influencias.
+- Matiz: La causa estuvo más de siete años bajo secreto. En enero de 2026 el juez prorrogó la instrucción seis meses más. Sin juicio: rige la presunción de inocencia.
+- Fuentes:
+  - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/01/28/el-juez-del-caso-montoro-pide-documentacion-del-exministro-de-hacienda-y-del-despacho-clave-de-la-trama/)
+  - [El Boletín](https://www.elboletin.com/el-juez-prorroga-seis-meses-el-caso-montoro-ante-las-diligencias-pendientes-sobre-equipo-economico/amp/)
+
+### Ayuso pasa un fin de semana familiar en una finca pública comprada en Rascafría
+- Fecha: jul 2025
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Documentado en medios
+- Resumen: La Comunidad de Madrid compró por 4,3 millones, ejerciendo un derecho de retracto, una finca de 453 hectáreas junto a El Paular con un chalé con piscina, alegando su valor ecológico y un uso ocasional como sede institucional. Ayuso pasó allí un fin de semana con su familia.
+- Matiz: Ayuso defendió que fue un uso mínimo y que llevó la comida de casa. No consta investigación ni resolución de ningún organismo: es un hecho documentado, no una irregularidad declarada.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/madrid/somos/ayuso-defiende-chalet-compro-gobierno-sierra-asegura-paso-dias-tupper-casa_1_12479767.html)
+
+### Congreso: el PSOE paraliza la comisión de la DANA para evitar citar a Sánchez
+- Fecha: jun – oct 2025
+- Partidos: PSOE, Sumar
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: Compromís, Podemos y la derecha pedían citar a Sánchez en la comisión de la DANA del Congreso. El PSOE, con Sumar hasta octubre, no cerraba el plan de trabajo y la presidenta socialista no la convocaba; Àgueda Micó dejó el grupo de Sumar por ello. En octubre pactaron 127 comparecientes con Sánchez al final, y la comisión decae con la disolución sin que él compareciera.
+- Matiz: El PSOE alegó que citar a Sánchez igualaba la responsabilidad del Gobierno central con la de la Generalitat, que era la competente en la emergencia.
+- Fuentes:
+  - [El Español](https://www.elespanol.com/valencia/20250918/psoe-bloquea-congreso-comision-dana-no-acuda-sanchez-enfada-socios-compromis/1003743928751_0.html)
+  - [Infobae (Europa Press): el plan pactado](https://www.infobae.com/espana/agencias/2025/10/07/psoe-y-sumar-pactan-un-plan-para-la-comision-del-congreso-sobre-la-dana-y-preven-llamar-a-sanchez-en-ultimo-lugar/)
+  - [Valencia Plaza: decaen con el adelanto](https://valenciaplaza.com/valenciaplaza/nacional/las-investigaciones-del-congreso-sobre-la-dana-las-cloacas-el-apagon-y-atentado-del-17a-decaen-con-el-adelanto)
+
+### Parlamento de Galicia: el PP rechaza investigar los incendios del verano de 2025
+- Fecha: 23 sep 2025
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Documentado en medios
+- Resumen: El BNG pidió investigar la gestión de los incendios que quemaron unas 140.000 hectáreas en Galicia en el verano de 2025. El PP la rechazó en solitario.
+- Matiz: El PP dijo que la oposición solo buscaba rédito político.
+- Fuentes:
+  - [Público](https://www.publico.es/politica/pp-rechaza-parlamento-galicia-investigue-gestion-rueda-fuegos-pasado-verano.html)
+
+### Madrid se niega a crear el registro de objetores al aborto que exige la ley
+- Fecha: oct 2025 – hoy
+- Partidos: PP
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: La ley del aborto reformada en 2023 obliga a cada comunidad a crear un registro de médicos objetores. Tras un requerimiento del Gobierno, Ayuso dijo que nunca haría una lista negra de médicos. En marzo de 2026 el TSJ de Madrid ordenó de forma cautelar iniciar de inmediato los trámites. En septiembre de 2026 Sanidad pidió a la Abogacía del Estado más medidas porque Madrid no había pasado de los primeros pasos.
+- Matiz: El auto del TSJ es cautelar, no una sentencia firme. Madrid sostiene que el registro señala a los médicos y vulnera su libertad ideológica, y que ya garantiza el aborto, aunque en 2024 el 99% se hizo en centros privados. Asturias, Aragón y Baleares recibieron el mismo requerimiento; Asturias dijo que lo estaba tramitando.
+- Fuentes:
+  - [elDiario.es: el requerimiento](https://www.eldiario.es/politica/sanchez-exige-comunidades-cumplan-registro-objetores-garantizar-derecho-aborto_1_12659496.html)
+  - [Gaceta Médica: el auto del TSJM](https://gacetamedica.com/politica/tsjm-comunidad-madrid-iniciar-puesta-marcha-registro-objetores-aborto/)
+  - [El Español: Sanidad pide más medidas](https://www.elespanol.com/invertia/observatorios/sanidad/20260922/sanidad-pide-abogacia-actue-obligar-madrid-crear-registro-objetores-aborto/1003744392657_0.html)
+
+### Navarra y Canarias: los gobiernos del PSOE impiden que comparezcan Chivite y Ángel Víctor Torres
+- Fecha: oct – dic 2025
+- Partidos: PSOE, Bildu, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Navarra
+- Nivel de prueba: Documentado en medios
+- Resumen: En Navarra, PSN, EH Bildu y Contigo rechazaron que la presidenta Chivite compareciera en la comisión sobre obras públicas, y ofrecieron una comparecencia conjunta con dos expresidentas. En Canarias, PSOE, NC y ASG rechazaron una nueva comparecencia del ministro Torres en la comisión de las mascarillas; CC se abstuvo.
+- Matiz: Son vetos de comparecencias dentro de comisiones ya creadas. En Canarias alegaron que Torres ya se había explicado y que no había pruebas contra él.
+- Fuentes:
+  - [Naiz: Chivite](https://www.naiz.eus/en/info/noticia/20251007/la-comision-rechaza-la-comparecencia-de-chivite-pero-podria-acudir-junto-a-barkos-y-barcina)
+  - [Infobae (Europa Press): Torres](https://www.infobae.com/espana/agencias/2025/12/15/el-parlamento-canario-rechaza-que-torres-comparezca-en-la-comision-de-las-mascarillas/)
+
+### Cortes de Castilla y León: PP y Vox tumban investigar los incendios de 2025
+- Fecha: 22 oct 2025
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Castilla y León
+- Nivel de prueba: Documentado en medios
+- Resumen: La comisión sobre los incendios de 2025, que quemaron unas 160.000 hectáreas y causaron cuatro muertos, fue rechazada por 44 votos contra 35, con PP, Vox y dos procuradores no adscritos en contra.
+- Matiz: El PP dijo que Mañueco ya dio explicaciones en un pleno monográfico; Vox, que debían investigarlo los jueces.
+- Fuentes:
+  - [Diario de Castilla y León](https://www.diariodecastillayleon.es/castilla-y-leon/251022/102599/pp-vox-tumban-comision-investigacion-incendios-cortes.html)
+  - [El Español](https://www.elespanol.com/castilla-y-leon/region/20250904/vox-tumbara-comision-investigacion-incendios-castilla-leon-deben-investigarlo-jueces/1003743911492_0.html)
+
+### Parlamento Vasco: PNV y PSE rechazan investigar los campamentos de Bernedo y los fondos de plazas de 0 a 3 años
+- Fecha: 2025 – 2026
+- Partidos: PNV, PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Documentado en medios
+- Resumen: En octubre de 2025, PNV y PSE rechazaron la comisión que pedía el PP sobre los campamentos de Bernedo, con 21 denuncias por agresiones a menores. En mayo de 2026 rechazaron la que pedía Sumar, con apoyo de Bildu, sobre los fondos europeos para plazas de 0 a 3 años, de las que se crearon 252 de 1.518. En ambos casos aprobaron enmiendas alternativas.
+- Matiz: El PNV dijo que estas comisiones solo sirven para juicios mediáticos; el PSE, que el campamento era privado y sin dinero público. El PP también votó contra la de los fondos.
+- Fuentes:
+  - [Orain: Bernedo](https://orain.eus/es/politica/2025/10/23/el-parlamento-vasco-rechaza-crear-una-comision-investigacion-los-campamentos-bernedo/)
+  - [elDiario.es: plazas de 0 a 3 años](https://www.eldiario.es/euskadi/parlamento-rechaza-auditar-fondos-europeos-plazas-infantil-no-habra-comision-investigacion_1_13202721.html)
+
+### Parlamento de Andalucía: el PP rechaza investigar los fallos en los cribados de cáncer de mama
+- Fecha: nov 2025 – sep 2026
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Documentado en medios
+- Resumen: PSOE, Por Andalucía y Adelante pidieron una comisión sobre los fallos en los cribados de cáncer de mama, con apoyo de Vox, entonces en la oposición. El PP la rechazó con su mayoría absoluta. En septiembre de 2026 la oposición volvió a registrarla con el respaldo de la asociación de afectadas AMAMA, y Vox, ya socio de gobierno, anunció que votará en contra.
+- Matiz: El PP dijo que las responsabilidades ya se habían depurado con ceses y dimisiones y que la comisión convertiría el Parlamento en un circo. Vox dijo que no son muy de comisiones de investigación. La segunda votación no consta aún.
+- Fuentes:
+  - [elDiario.es: rechazo de 2025](https://www.eldiario.es/andalucia/pp-andaluz-rechaza-comision-investigacion-cribados-cancer-evitar-circo-parlamento_1_12766433.html)
+  - [Canal Sur](https://www.canalsur.es/noticias/andalucia/el-parlamento-andaluz-rechaza-crear-una-comision-de-investigacion-sobre-los-cribados-de-cancer-de-mama/2216586.html)
+  - [elDiario.es: el giro de Vox](https://www.eldiario.es/andalucia/vox-desdice-rechaza-comision-investigacion-crisis-cribados-apoyo-oposicion-moreno-autoenmienda_1_13531034.html)
+
+### El fiscal general del Estado, condenado por revelación de secretos
+- Fecha: 20 nov 2025
+- Partidos: PSOE, Sumar
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Sentencia firme
+- Resumen: El Supremo condenó a Álvaro García Ortiz a dos años de inhabilitación y multa por filtrar datos reservados del caso de la pareja de Isabel Díaz Ayuso. Es el primer fiscal general en ejercicio condenado.
+- Matiz: Es una de las sentencias más discutidas. Fue por 5 votos a 2: las magistradas Ferrer y Polo votaron absolver porque no veían probado que él filtrara el correo, daban credibilidad a los periodistas que dijeron tenerlo por otras vías y consideraban la nota de prensa legal porque no revelaba nada que no fuera público. Juezas y Jueces para la Democracia y la Unión Progresista de Fiscales criticaron que se condenara sin prueba concluyente. No es un dirigente de partido: fue nombrado por el Gobierno de coalición.
+- Fuentes:
+  - [Poder Judicial: sentencia](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-notifica-la-sentencia-que-condena-por-revelacion-de-datos-reservados-al-fiscal-general-del-Estado-)
+  - [El Derecho](https://elderecho.com/el-supremo-condena-a-alvaro-garcia-ortiz-por-un-delito-de-revelacion-de-secretos/)
+  - [Público: el voto particular](https://www.publico.es/politica/tribunales/voto-particular-magistradas-polo-ferrer-considera-probado-garcia-ortiz-filtrara-correo.html)
+  - [El Salto: críticas de jueces y fiscales](https://www.elsaltodiario.com/justicia/asociaciones-jueces-fiscales-cuestionan-poca-base-penal-condena-al-fiscal-general)
+
+### Madrid paga a los hospitales de gestión privada de Quirón casi el doble de lo presupuestado
+- Fecha: 2021 – 2024
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Documentado en medios
+- Resumen: Según la liquidación presupuestaria del Servicio Madrileño de Salud publicada por elDiario.es, entre 2021 y 2024 la Comunidad presupuestó 2.544 millones para cuatro hospitales de gestión privada del grupo Quirón (Jiménez Díaz, Rey Juan Carlos, Infanta Elena y Villalba) y acabó pagando 4.803 millones, un 89% más.
+- Matiz: La Comunidad lo explica por la libre elección de hospital: son los pacientes quienes eligen ir a esos centros, y se les paga por actividad.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/madrid/gobierno-ayuso-paga-hospitales-quiron-doble-presupuestado-cuatro-anos_1_12818388.html)
+
+### Residencias de Madrid: protocolos que limitaron traslados al hospital en la primera ola
+- Fecha: 2020 – hoy
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Investigación judicial
+- Resumen: En marzo de 2020, la Comunidad de Madrid aplicó protocolos que excluían de la derivación hospitalaria a residentes según su grado de dependencia. Las familias cifran en 7.291 los fallecidos en residencias sin traslado. Dos juzgados (Plaza de Castilla y Collado Villalba) investigan a ex altos cargos, y el exdirector general Martínez Peromingo admitió en su declaración que los criterios eran discriminatorios.
+- Matiz: Ayuso no está investigada. Desde 2020 se han archivado unas 144 causas sobre los protocolos; la última, en septiembre de 2026, cuando la Audiencia Provincial no vio indicios de delito. Las causas abiertas siguen sin juicio.
+- Fuentes:
+  - [infoLibre](https://www.infolibre.es/politica/investigacion-judicial-7291-muertes-residencias-avanza-pese-espantada-mur-busca_1_2112339.html)
+  - [Infobae: el firmante, citado como investigado](https://www.infobae.com/espana/agencias/2026/01/26/el-firmante-de-los-protocolos-de-las-residencias-de-madrid-citado-este-lunes-ante-un-juez-como-investigado/)
+  - [ConSalud: el último archivo](https://www.consalud.es/autonomias/c-madrid/otro-archivo-judicial-tras-seis-anos-de-ataques-a-ayuso-por-las-residencias.html)
+
+### El bulo de la cuenta de Pablo Iglesias en Granadinas y la 'brigada política' de Interior
+- Fecha: 2016 · 2022 · 2025
+- Partidos: PP
+- Categoría: Medios públicos y propaganda
+- Nivel de prueba: Investigación judicial
+- Resumen: En 2016 OKdiario publicó que el Gobierno de Maduro había pagado 272.000 dólares a Pablo Iglesias en una cuenta en Granadinas, con información de fuentes policiales. En audios publicados en 2022, el comisario Villarejo reconoce a Antonio García Ferreras que el documento era falso, y Ferreras admite que le pareció burdo pero lo difundió. El exnúmero dos de Interior con Rajoy, Francisco Martínez, dijo en privado que sabían que era mentira.
+- Matiz: En diciembre de 2025 el Supremo condenó en firme a OKdiario y a Eduardo Inda a indemnizar a Iglesias con 18.000 euros por intromisión en el honor. Esa condena es civil y contra el medio, no contra el PP. La implicación de mandos de Interior se investiga en la Audiencia Nacional (juez Pedraz); no hay sentencia sobre ella.
+- Fuentes:
+  - [elDiario.es: la condena del Supremo](https://www.eldiario.es/politica/supremo-condena-inda-okdiario-pagar-18-000-euros-pablo-iglesias-difundir-bulo-falsa-cuenta-granadinas_1_12855412.html)
+  - [infoLibre](https://www.infolibre.es/medios/eduardo-inda-condenado-indemnizar-pablo-iglesias-publicar-noticia-falsa-cuenta-granadinas_1_2116633.html)
+  - [El Salto: los audios de Ferreras](https://www.elsaltodiario.com/medios/ultimos-audios-villarejo-ferreras-epicentro-debate-cloacas-estado-podemos)
+
+### El PP veta investigar en la Asamblea la gestión privada del Hospital de Torrejón
+- Fecha: dic 2025
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Documentado en medios
+- Resumen: Más Madrid pidió una comisión de investigación sobre la gestión de Ribera Salud en el Hospital de Torrejón, después de conocerse audios en los que un directivo pedía rechazar pacientes o prácticas no rentables. El PP presentó su rechazo y lo tumbó con su mayoría absoluta.
+- Matiz: El artículo no recoge los argumentos del PP para rechazarla.
+- Fuentes:
+  - [El Diario de Madrid](https://www.eldiariodemadrid.es/articulo/politica/pp-veta-comision-investigacion-hospital-torrejon-gestion-ribera-salud/20251226164615117242.html)
+
+### Madrid reparte la publicidad institucional favoreciendo a medios afines por encima de su audiencia
+- Fecha: 2023 – 2025
+- Partidos: PP
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Documentado en medios
+- Resumen: Según los datos de la propia Comunidad analizados por Público, en 2023 OKDiario recibió más de 500.000 euros, Libertad Digital 300.000 y EDATV 67.000, frente a 280.000 entre La Vanguardia, elDiario.es y Público juntos. ESdiario, con menos de un millón de usuarios al mes, recibió 170.677 euros y Público, con más de 3,5 millones, 27.411. En 2025, según CTXT, OKDiario recibió 359.956 euros, más que la edición digital de El País pese a tener menos audiencia.
+- Matiz: La publicidad institucional debe repartirse con criterios objetivos como la audiencia. La Comunidad no respondió a Público. Queda pendiente comparar con el reparto del Gobierno central y de otras comunidades para aplicar el mismo rasero.
+- Fuentes:
+  - [Público: el reparto de 2023](https://www.publico.es/politica/gobierno-madrileno-riega-casi-900-000-euros-publicidad-digitales-inda-losantos-negre.html)
+  - [CTXT: el reparto de 2025](https://ctxt.es/es/20260901/Politica/55209/Diego-Delgado-Ayuso-CAM-Madrid-medios-pseudomedios-EDATV-OKdiario.htm)
+  - [El Salto: la publicidad del Canal de Isabel II](https://www.elsaltodiario.com/medios/asi-ha-regado-ayuso-publicidad-canal-de-isabel-ii-medios-afinidad)
+
+### Caso VPO de Alicante: cargos del PP y funcionarios municipales se adjudican pisos protegidos
+- Fecha: 2025 – 2026
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Investigación judicial
+- Resumen: En la promoción Les Naus, en la playa de San Juan, 14 de las 140 viviendas protegidas fueron a personas vinculadas al Ayuntamiento de Alicante, gobernado por el PP: concejales, arquitectos municipales, altos funcionarios con sueldos de hasta 70.000 euros e hijos de notarios. Un tercio de los compradores no cumplía el requisito de residencia. Algunos pisos, comprados por unos 200.000 euros, se revendieron o alquilaron a precio de mercado. Un juzgado de Alicante investiga desde febrero de 2026 posibles delitos de prevaricación, tráfico de influencias y uso de información privilegiada.
+- Matiz: Dimitió el concejal de Urbanismo y se suspendió a un alto cargo autonómico de Vivienda. El propio alcalde, Luis Barcala, del PP, presentó denuncia junto al PSPV, y la Generalitat endureció los controles. Investigación en curso: rige la presunción de inocencia.
+- Fuentes:
+  - [elDiario.es: quiénes se adjudicaron los pisos](https://www.eldiario.es/comunitat-valenciana/escandalo-vpo-salpica-elites-alicante-pp-familias-adineradas-sueldos-70-000-euros-adjudicaron-pisos-protegidos_1_12990309.html)
+  - [elDiario.es: la investigación judicial](https://www.eldiario.es/comunitat-valenciana/alicante/jueza-investiga-adjudicacion-viviendas-protegidas-alicante-funcionarios-cargos-pp-inicia-pesquisas_1_13001574.html)
+  - [elDiario.es: denuncia ante la Fiscalía](https://www.eldiario.es/comunitat-valenciana/alicante/denuncian-fiscalia-cinco-delitos-adjudicacion-viviendas-protegidas-cargos-ayuntamiento-alicante_1_12956923.html)
+
+### Corts Valencianes: PP y Vox rechazan tres investigaciones sobre sanidad privada, donaciones de la DANA y cribados
+- Fecha: mar – may 2026
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Documentado en medios
+- Resumen: En 2026 PP y Vox tumbaron en las Corts la comisión sobre la calidad asistencial en el Hospital del Vinalopó, gestionado por Ribera Salud, y la residencia Santa Faz; la del desvío de donaciones de la DANA por parte de Revuelta; y la de los fallos recurrentes en el cribado de cáncer de mama.
+- Matiz: El PP alegó que no había pruebas en el Vinalopó, que Revuelta es una entidad privada fuera de su competencia y que el PSPV dejó fuera del cribado a 177.000 mujeres cuando gobernaba. Vox dijo que las comisiones deben ser las mínimas.
+- Fuentes:
+  - [Valencia Plaza: Vinalopó](https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/les-corts-rechazaran-una-comision-de-investigacion-sobre-la-calidad-asistencial-en-el-hospital-del-vinalopo)
+  - [elDiario.es: Revuelta](https://www.eldiario.es/comunitat-valenciana/pp-vox-descartan-investigar-corts-desvio-donaciones-afectados-dana-parte-revuelta_1_13098369.html)
+  - [elDiario.es: cribados](https://www.eldiario.es/comunitat-valenciana/pp-vox-descartan-corts-investigar-fallos-recurrentes-cribado-cancer-mama-plan-renovacion_1_13199852.html)
+
+### Parlamento de Galicia: el PP bloquea investigar el proyecto de Altri
+- Fecha: 10 mar 2026
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Documentado en medios
+- Resumen: BNG y PSdeG pidieron una comisión de investigación sobre la tramitación del proyecto industrial de Altri en Palas de Rei. El PP la rechazó con su mayoría absoluta.
+- Matiz: El PP acusó a la oposición de difundir falsedades.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/galicia/pp-bloquea-comision-investigacion-altri-parlamento-galicia_1_13055288.html)
+  - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/03/10/el-pp-rechaza-crear-comision-de-investigacion-sobre-altri-y-acusa-a-la-oposicion-de-mentir/)
+
+### DANA de Valencia: la gestión de la emergencia, en los tribunales
+- Fecha: oct 2024 – hoy
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Investigación judicial
+- Resumen: La riada del 29 de octubre de 2024 dejó más de 220 muertos. Mientras se gestaba la emergencia, el president Carlos Mazón estuvo en una larga comida en el restaurante El Ventorro. La jueza de Catarroja investiga a la exconsellera de Justicia e Interior Salomé Pradas, responsable de la emergencia.
+- Matiz: En marzo de 2026 el TSJ valenciano rechazó imputar a Mazón: concluyó que no tenía posición de garante y no vio indicios penales. La jueza lo ha citado como testigo. La responsabilidad política es otra cosa: Mazón ya no es president.
+- Fuentes:
+  - [El Periòdic: el TSJCV rechaza imputarlo](https://www.elperiodic.com/jueza-dana-cita-declarar-como-testigo-carlos-mazon-tras-rechazo-tsjcv-imputarlo_1065983)
+  - [El Español: el auto del TSJCV](https://www.elespanol.com/valencia/20260317/dureza-tsj-valenciano-conjeturas-jueza-dana-dificultan-seguir-investigando-mazon/1003744171812_0.html)
+
+### Madrid deja de cobrar 71,6 millones a hospitales concertados de Quirón y Ribera Salud
+- Fecha: 2017 – 2023
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Investigación judicial
+- Resumen: Según documentos internos de la Consejería de Sanidad publicados por elDiario.es, la Comunidad de Madrid no facturó 71.653.032 euros por pacientes derivados desde hospitales públicos a centros concertados entre 2017 y 2023, alegando que no encontraba la documentación clínica. Tras una denuncia del PSOE, el Tribunal de Cuentas abrió una pieza de acción pública.
+- Matiz: El Tribunal de Cuentas decidirá si lo archiva o nombra un instructor. El propio informe atribuye la pérdida a sistemas informáticos de los hospitales públicos que no registraban esos procedimientos de forma automática. Parte del periodo es anterior a Ayuso, que gobierna desde 2019.
+- Fuentes:
+  - [elDiario.es: el informe interno](https://www.eldiario.es/madrid/informe-muestra-ayuso-regalo-millones-sanidad-privada-71-653-032-no-encontrar-documentacion_1_13111704.html)
+  - [elDiario.es: el PSOE va al Tribunal de Cuentas](https://www.eldiario.es/politica/psoe-pedira-tribunal-cuentas-abra-procedimiento-perdon-ayuso-71-millones-quiron-ribera-salud_1_12984122.html)
+
+### Operación Kitchen: juicio a la cúpula de Interior del Gobierno de Rajoy
+- Fecha: juicio 2026
+- Partidos: PP
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Investigación judicial
+- Resumen: La Audiencia Nacional juzga al exministro Jorge Fernández Díaz y a su número dos por una presunta operación parapolicial con fondos reservados para espiar a Luis Bárcenas y quitarle documentos del caso Gürtel. La Fiscalía pide 15 años.
+- Matiz: Los hechos son de 2013, fuera del periodo, pero el juicio es de 2026. No he encontrado sentencia publicada todavía; compruébalo antes de usarlo.
+- Fuentes:
+  - [Infobae (EFE)](https://www.infobae.com/espana/agencias/2025/01/21/la-audiencia-nacional-no-juzgara-el-caso-kitchen-hasta-mayo-de-2026/)
+  - [Vigo al minuto](https://www.vigoalminuto.com/2026/04/06/arranca-el-juicio-del-caso-kitchen-la-audiencia-nacional-juzga-a-la-cupula-de-interior-del-gobierno-de-rajoy/)
+
+### La Comunidad de Madrid compra un ático de 6,3 millones en Chamberí
+- Fecha: abr 2026 – hoy
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Documentado en medios
+- Resumen: El Gobierno de Ayuso compró a través de la empresa pública Planifica Madrid un ático de 485 m² en Chamberí con cláusulas de confidencialidad, justificado como oficinas temporales aunque el inmueble solo admitía uso residencial. En julio anunció que lo vendería.
+- Matiz: Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. Sin resolución todavía.
+- Fuentes:
+  - [elDiario.es: la compra](https://www.eldiario.es/madrid/gobierno-ayuso-compro-atico-chamberi-6-3-millones-euros_1_13428752.html)
+  - [Público: denuncia del PSOE](https://www.publico.es/politica/tribunales/psoe-lleva-tribunal-cuentas-atico-ayuso-reclama-conocer-ordeno-comprarlo.html)
+
+### PP y Vox cierran la comisión de la DANA en las Corts con dos tercios de los comparecientes sin declarar
+- Fecha: may – jun 2026
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Documentado en medios
+- Resumen: PP y Vox rechazaron prorrogar la comisión de investigación de la DANA en las Corts Valencianes. Según la oposición, solo 32 de los 96 comparecientes previstos llegaron a declarar, y quedaron sin hacerlo figuras clave como la exconsellera Salomé Pradas.
+- Matiz: El PP dijo que quería salir del circo y acusó a la oposición de vivir de la DANA. Vox recordó que Pedro Sánchez, sus ministros y la Confederación del Júcar tampoco comparecieron, y que algunos citados están siendo investigados judicialmente.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/pp-vox-descartan-prorroga-liquidan-comision-investigacion-dana-67-comparecientes-declarar_1_13196042.html)
+  - [Libertad Digital](https://www.libertaddigital.com/valencia/2026-05-05/pp-y-vox-rechazan-prorrogar-la-comision-de-investigacion-de-la-dana-en-las-cortes-valencianas-1b-7399614/)
+
+### Parlamento de La Rioja: el PP rechaza investigar sobresueldos de altos cargos de la sanidad
+- Fecha: 21 may 2026
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: La Rioja
+- Nivel de prueba: Documentado en medios
+- Resumen: El PSOE pidió, con apoyo de Vox y Podemos-IU, investigar los sobresueldos de altos cargos del Servicio Riojano de Salud. El PP la rechazó con su mayoría absoluta.
+- Matiz: El PP dijo que la normativa permite a los directivos hacer actividad asistencial y que el PSOE hizo lo mismo cuando gobernaba.
+- Fuentes:
+  - [Nuevecuatrouno](https://nuevecuatrouno.com/2026/05/21/el-pp-rechaza-investigar-los-sobresueldos-del-seris)
+  - [elDiario.es](https://www.eldiario.es/la-rioja/denuncian-bloqueo-pp-parlamento-investigacion-retribuciones-irregulares-altos-cargos-salud_1_13231910.html)
+
+### Caso Leire Díez: presuntas maniobras contra jueces, fiscales y la UCO
+- Fecha: 2025 – hoy
+- Partidos: PSOE
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Investigación judicial
+- Resumen: El juez Pedraz, de la Audiencia Nacional, investiga una presunta estructura para interferir en causas judiciales que afectaban al PSOE y al entorno del Gobierno. Ha imputado a Leire Díez, al exsecretario de Organización Santos Cerdán y a la gerente del partido, y apunta a pagos del PSOE.
+- Matiz: Investigación en curso, sin juicio. Rige la presunción de inocencia. Leire Díez niega haber trabajado para el PSOE.
+- Fuentes:
+  - [elDiario.es: imputaciones](https://www.eldiario.es/politica/uco-persona-sede-psoe-ferraz-investigacion-audiencia-nacional_1_13252759.html)
+  - [elDiario.es: 25 imputados más](https://www.eldiario.es/politica/juez-caso-leire-imputa-presidenta-sepi-24-personas-supuestos-amanos-contratacion-publica_1_13342324.html)
+  - [Público: el auto](https://www.publico.es/politica/auto-pedraz-dinamita-coartadas-leire-diez.html)
+
+### Cortes de Aragón: PP y Vox investigan a Ábalos pero no los 200 millones de sobrecoste de La Romareda
+- Fecha: 11 jun 2026
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Aragón
+- Nivel de prueba: Documentado en medios
+- Resumen: El mismo día, PP y Vox aprobaron una comisión sobre las visitas de Ábalos a Aragón y rechazaron la que pedía el PSOE sobre los sobrecostes de unos 200 millones en el estadio de La Romareda.
+- Matiz: El PP dijo que el informe de la Cámara de Cuentas ya se analizaba en una ponencia; Vox, que los desvíos tenían explicación técnica.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/aragon/politica/pp-vox-apoyan-investigar-aragon-exministro-abalos-frenan-indagar-200-millones-romareda_1_13293067.html)
+
+### Caso mascarillas: el Supremo condena a Ábalos a 24 años de cárcel
+- Fecha: 22 jun 2026
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Sentencia firme
+- Resumen: El exministro de Transportes y ex secretario de Organización del PSOE fue condenado por organización criminal, cohecho, tráfico de influencias y malversación por mordidas en contratos de mascarillas. Koldo García, su asesor, recibió 19 años y 8 meses.
+- Matiz: El cumplimiento efectivo máximo de Ábalos queda en 15 años y 8 meses. Lo juzgó el Supremo por ser diputado aforado. Víctor de Aldama, condenado a cuatro años y medio, no entra en prisión por colaborar con la justicia.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/politica/jose-luis-abalos-condenado-carcel-tribunal-supremo_1_13301658.html)
+  - [Infobae](https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/)
+
+### Comunidades del PP recurren la vivienda protegida permanente del plan estatal pero cobran sus fondos
+- Fecha: may – sep 2026
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Documentado en medios
+- Resumen: El Plan Estatal de Vivienda 2026-2030, de 7.000 millones, exige que las viviendas protegidas que financia lo sean para siempre, sin pasar al mercado libre. Madrid, Andalucía, Extremadura y Cantabria lo han recurrido, aunque votaron a favor del reparto. En junio de 2026 el Gobierno amenazó con cancelar las transferencias si mantenían la batalla legal, pero en agosto transfirió 800 millones, 127,2 de ellos a Madrid, y Andalucía no renuncia a sus 1.200 millones.
+- Matiz: Recurrir es legal y, según Público, la protección permanente ya fue anulada antes por el TC cuando la recurrieron Andalucía y Madrid. Las comunidades alegan que espanta a los promotores. A día de hoy no consta que ninguna haya perdido fondos: la amenaza no se ha ejecutado.
+- Fuentes:
+  - [Infobae: la amenaza del Gobierno](https://www.infobae.com/espana/2026/06/26/el-gobierno-amenaza-a-las-ccaa-del-pp-con-cancelar-las-transferencias-de-julio-si-mantienen-su-batalla-legal-por-las-vpo/)
+  - [Público: critican el plan pero votan sus fondos](https://www.publico.es/politica/comunidades-pp-critican-plan-vivienda-pero-votaran-favor-recibir-fondos.html)
+  - [El Diario de Madrid: los 800 millones transferidos](https://www.eldiariodemadrid.es/articulo/vivienda/plan-estatal-vivienda-2026-2030-800-millones-comunidades-madrid/20260828110839140263.html)
+  - [Infobae: Andalucía no renuncia a sus fondos](https://www.infobae.com/espana/2026/09/07/andalucia-planta-cara-al-gobierno-por-el-plan-de-vivienda-pero-no-renuncia-a-los-1200-millones-que-le-corresponden/)
+
+### Informe UE de Estado de Derecho 2026: deberes pendientes para España
+- Fecha: 17 jul 2026
+- Partidos: PSOE, Sumar, PP
+- Categoría: Independencia de instituciones
+- Nivel de prueba: Organismo oficial
+- Resumen: La Comisión Europea pide más medidas contra la corrupción de alto nivel, recoge la preocupación del Supremo y el CGPJ por los ataques públicos a jueces, señala que la reforma de elección del CGPJ sigue sin consenso y recoge críticas por sesgo percibido en los informativos públicos.
+- Matiz: El informe de 2025 no identificó amenazas estructurales al Estado de Derecho en España. Las recomendaciones apuntan sobre todo al Gobierno, y la del CGPJ exige acuerdo con el PP.
+- Fuentes:
+  - [Swissinfo (EFE): claves 2026](https://www.swissinfo.ch/spa/fiscal%C3%ADa,-cgpj-o-anticorrupci%C3%B3n:-las-claves-del-informe-del-estado-de-derecho-sobre-espa%C3%B1a/91762316)
+  - [CEOE Europa: informe 2025](https://www.ceoexeuropa.es/comunicaciones/estado-de-derecho-la-comision-presenta-el-informe-anual-sobre-el-estado-de-derecho-2025/)
+
+### Senado: el PP descarta investigar la ley de nietos que pedía Vox
+- Fecha: sep 2026
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Senado
+- Nivel de prueba: Documentado en medios
+- Resumen: Vox pidió en el Senado una comisión de investigación sobre la llamada ley de nietos y sus efectos en el censo electoral. El PP, con mayoría absoluta, la descartó sin llevarla a votación.
+- Matiz: El PP prefirió esperar a que se pronuncie el Supremo. La disolución de las Cortes por las elecciones del 29 de noviembre deja además varias comisiones sin cerrar.
+- Fuentes:
+  - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/09/14/el-pp-no-ve-necesario-una-comision-de-investigacion-sobre-la-ley-de-nietos-como-pide-vox/)
+
+### El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a Ferrovial, Dragados y Api
+- Fecha: 2017 – 2025
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Documentado en medios
+- Resumen: Durante años, el Ayuntamiento de Madrid reclamó a Emesa, la sociedad privada de Ferrovial, Dragados y Api que gestionaba parte de la M-30, el pago de la factura eléctrica de la vía, que fue creciendo hasta unos 112 millones. Al recomprarle su 20% de Madrid Calle 30 a finales de 2025, el Ayuntamiento de Almeida abandonó la reclamación.
+- Matiz: El origen es un contrato de 2005, del Gobierno municipal de Gallardón, que no dejaba claro quién pagaba la luz. La recompra en sí devuelve la M-30 a gestión 100% pública y el Ayuntamiento calcula un ahorro de unos 63 millones al año. Es el Ayuntamiento, no el Gobierno de Ayuso.
+- Fuentes:
+  - [Xataka: la renuncia a los 112 millones](https://www.xataka.com/movilidad/quien-paga-luz-m-30-pregunta-resolver-que-madrid-ha-zanjado-renunciando-a-112-millones-euros)
+  - [elDiario.es: la recompra a Emesa](https://www.eldiario.es/madrid/somos/ayuntamiento-madrid-pagara-emesa-112-millones-remunicipalizar-calle-30_1_11770632.html)
+
+### PP y Vox rechazan investigar en el Parlamento andaluz los incendios de 2026
+- Fecha: 1 oct 2026
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Documentado en medios
+- Resumen: PP y Vox votaron contra la comisión de investigación que pedía el PSOE andaluz sobre la prevención y extinción de los incendios de 2026, incluidos el de Los Gallardos (Almería), con 15 muertos, y el de Niebla (Huelva).
+- Matiz: El PP alegó que el Gobierno ya se había sometido al control parlamentario y que no tenía sentido abrirla en plena temporada de riesgo. Vox dijo que no quería que la tragedia se usara políticamente.
+- Fuentes:
+  - [Teleprensa](https://www.teleprensa.com/andalucia/sevilla/pp-vox-evitan-que-parlamento-cree-comision-investigacion-incendios-ano-pedida-psoe/202610011702312522062.html)
+
+### El PP veta en la Asamblea investigar los 80 millones prestados a Madrid Network
+- Fecha: jun – oct 2026
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Documentado en medios
+- Resumen: El PP rechazó con su mayoría absoluta la comisión que pedía el PSOE sobre el préstamo público de 80 millones de 2011 a Madrid Network, la asociación creada en la etapa de Esperanza Aguirre, que dejó más de 70 millones sin devolver. Era el segundo intento del PSOE.
+- Matiz: El PP alegó que el préstamo es de hace quince años, que el Gobierno ha actuado con total transparencia y que la oposición solo busca desgastar a Ayuso.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/madrid/mayoria-pp-ayuso-asamblea-veta-comision-investigacion-madrid-network_1_13554263.html)
+  - [Qué!](https://www.que.es/2026/10/02/madrid-network-comision-investigacion-pp/)
+
+## Qué votó cada partido (9)
+
+"Sí" = a favor de que la medida saliera adelante. s/d = sin dato verificado.
+
+### Prórroga de los ERTE hasta el 30 de junio
+- Fecha: 27 may 2020
+- Resultado: Aprobada sin votos en contra
+- Votos: PSOE Sí · UP / Sumar Sí · PP Sí · Vox Abst. · Cs Sí · ERC Sí · Junts s/d · Bildu Sí · PNV Sí
+- Qué decía: Convalidación del decreto, pactado con patronal y sindicatos, que alargaba los ERTE de la pandemia y los desvinculaba del estado de alarma.
+- Contexto: El PP votó a favor de los ERTE y de sus prórrogas; Newtral desmintió a Yolanda Díaz cuando dijo lo contrario. Vox, CUP y BNG se abstuvieron.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/economia/erte-adelante-congreso-abstencion-vox_1_5976067.html)
+  - [Newtral: el PP sí apoyó los ERTE](https://www.newtral.es/yolanda-diaz-erte-pp-decreto-factcheck/20210716/)
+
+### Ingreso Mínimo Vital
+- Fecha: 10 jun 2020
+- Resultado: Aprobado sin votos en contra
+- Votos: PSOE Sí · UP / Sumar Sí · PP Sí · Vox Abst. · Cs Sí · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Convalidación del decreto que creó una renta mínima garantizada contra la pobreza, de 461,50 euros al mes para un hogar de una persona y hasta 1.015 euros para hogares grandes.
+- Contexto: Salió con el apoyo de todos los grupos menos Vox, que se abstuvo con sus 52 diputados.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/economia/congreso-decreto-ingreso-minimo-vital_1_6024757.html)
+  - [Infobae: qué votaron PP y Vox](https://www.infobae.com/espana/2023/05/31/que-votaron-pp-y-vox-cuando-se-convalido-el-ingreso-minimo-vital-en-el-congreso/)
+
+### Decreto de gestión de los fondos europeos de recuperación
+- Fecha: 28 ene 2021
+- Resultado: Aprobado 173 a 134, 52 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox Abst. · Cs No · ERC No · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Marco para gestionar y ejecutar los fondos europeos Next Generation tras la pandemia.
+- Contexto: Salió adelante gracias a la abstención de Vox. El PP votó no alegando falta de transparencia y riesgo de clientelismo en el reparto. ERC y Junts también votaron en contra.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/economia/gobierno-salva-decreto-ley-fondos-europeos-abstencion-vox-apoyo-pnv-bildu_1_7175720.html)
+
+### Reforma laboral
+- Fecha: 3 feb 2022
+- Resultado: Aprobada 175 a 174
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs Sí · ERC No · Junts No · Bildu No · PNV No
+- Qué decía: Convalidación del Real Decreto-ley 32/2021: prioriza el contrato indefinido, elimina el contrato por obra y servicio y devuelve prioridad a los convenios de sector. La temporalidad bajó unos 7 puntos en 2022.
+- Contexto: Salió por un voto, gracias al error del diputado del PP Alberto Casero, que votó sí por equivocación. ERC, Bildu, PNV, BNG y CUP votaron no desde la izquierda o por otras razones: varios la consideraban insuficiente frente a la reforma de 2012. Ciudadanos votó sí.
+- Fuentes:
+  - [Wikipedia: reforma laboral de 2022](https://es.wikipedia.org/wiki/Reforma_laboral_espa%C3%B1ola_de_2022)
+  - [El Salto: los votos de PDeCAT y UPN](https://www.elsaltodiario.com/reforma-laboral/votos-pdecat-upn-amarran-convalidacion-reforma-laboral)
+
+### Impuestos a banca, energéticas y grandes fortunas
+- Fecha: 24 nov 2022
+- Resultado: Aprobada con 186 votos a favor
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts Sí · Bildu Sí · PNV Abst.
+- Qué decía: Gravámenes temporales a la banca (unos 1.500 millones al año previstos) y a las energéticas, y un impuesto de solidaridad a patrimonios de más de 3 millones de euros.
+- Contexto: PP, Vox y Ciudadanos votaron en contra alegando doble imposición y que era un modelo contrario a Europa. El impuesto a las energéticas se rebajó con enmiendas que excluyeron la actividad regulada.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/economia/gobierno-asegura-aprobacion-impuestos-banca-energeticas-grandes-fortunas_1_9742281.html)
+  - [idealista/news](https://www.idealista.com/news/finanzas/economia/2022/11/25/800323-el-congreso-aprueba-el-impuesto-a-grandes-fortunas-y-lo-remite-al-senado)
+
+### Ley de vivienda (tope al alquiler)
+- Fecha: 27 abr 2023
+- Resultado: Aprobada 176 a 167, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts No · Bildu Sí · PNV No
+- Qué decía: Limita al 3% la subida anual de los alquileres en 2024, permite declarar zonas tensionadas con topes de precio y prevé un nuevo índice para actualizar rentas.
+- Contexto: PP, Vox y Ciudadanos argumentaron que reduciría la oferta de alquiler. PNV y Junts también votaron no; la vivienda es competencia autonómica y ambos defendían la de sus gobiernos. Los economistas discrepan sobre los efectos de los topes.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-ley-vivienda-votos-derechas_1_10155945.html)
+  - [idealista/news](https://www.idealista.com/news/inmobiliario/vivienda/2023/04/27/805657-aprobada-la-ley-de-vivienda-en-el-congreso-con-el-tope-al-alquiler-y-el-adios-al-IPC)
+
+### Decreto ómnibus con subida de pensiones
+- Fecha: 22 ene 2025
+- Resultado: Derogado 171 a 177
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC s/d · Junts No · Bildu s/d · PNV s/d
+- Qué decía: Un único decreto juntaba la revalorización del 2,8% de las pensiones, las ayudas al transporte, el bono social eléctrico y la suspensión de desahucios a familias vulnerables, junto a medidas sin relación como la cesión de un palacete en París al PNV.
+- Contexto: PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Las pensiones se aprobaron después por separado con apoyo amplio, incluido el del PP.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/politica/junts-anuncia-voto-decretos-gobierno-deja-pensiones-manos-pp_1_11983907.html)
+
+### Reducción de jornada a 37,5 horas
+- Fecha: 10 sep 2025
+- Resultado: Devuelta al Gobierno 178 a 170
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC s/d · Junts No · Bildu s/d · PNV s/d
+- Qué decía: Bajaba la jornada máxima legal de 40 a 37,5 horas semanales sin reducción de sueldo y obligaba a un registro horario digital.
+- Contexto: PP alegó que debía pactarse con la patronal y que se trasladaría a los convenios. Vox dijo que perjudicaría a los trabajadores. Junts argumentó que el coste recaía sobre todo en pequeños comercios catalanes.
+- Fuentes:
+  - [El Español](https://www.elespanol.com/espana/20250910/congreso-tumba-gobierno-reduccion-jornada-laboral-votos-pp-vox-junts-frente/1003743919055_0.html)
+  - [idealista/news](https://www.idealista.com/news/finanzas/economia/2025/09/11/859545-el-congreso-tumba-la-reduccion-de-jornada-laboral-al-prosperar-el-veto-de-pp-vox-y)
+
+### Decreto con pensiones y freno a desahucios
+- Fecha: 27 ene 2026
+- Resultado: Derogado
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC s/d · Junts No · Bildu s/d · PNV s/d
+- Qué decía: Incluía la subida del 2,7% de las pensiones ya aplicada en enero, la suspensión de desahucios a personas vulnerables y la congelación de cuotas de autónomos.
+- Contexto: PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno aprobó las pensiones en un decreto aparte, convalidado en febrero de 2026 con apoyo de PP y Junts.
+- Fuentes:
+  - [Euronews](https://es.euronews.com/2026/01/27/pensiones-ocupaciones-oposicion-tumba-decreto-omnibus-gobierno)
+  - [Canal Sur: el nuevo decreto de pensiones](https://www.canalsur.es/noticias/espana/congreso-desbloquea-revalorizacion-pensiones-apoyo_1_1385986.html)
+
+## Iniciativas ciudadanas (27)
+
+### Bajar las ratios en la escuela pública
+- Parlamento: Navarra
+- Resultado: En trámite
+- Firmas: Sin dato
+- Promotores: Steilas y Plataforma por la Educación Pública
+- Votación: Admitida a trámite y enviada al Gobierno foral para informe.
+- Partidos que la frenaron o votaron en contra: PSOE
+- Qué pasó: El Gobierno foral calcula un coste de 193 millones. Según Steilas, todos los grupos salvo el PSN apoyaron tramitarla.
+- Matiz: El PSN prefiere dedicar ese dinero a vivienda. La postura formal del Gobierno no está confirmada.
+- Fuentes:
+  - [Steilas](https://steilas.eus/es/2026/09/23/si-hay-dinero-para-bajar-los-ratios/)
+  - [Parlamento de Navarra](https://parlamentodenavarra.es/es/noticias/sesi%C3%B3n-7-de-septiembre-2026)
+
+### Difundir la obra de Castelao
+- Parlamento: Galicia
+- Resultado: Rechazada
+- Firmas: 19.047 firmas
+- Promotores: Vía Galega y Federación Galiza Cultura
+- Votación: 36 en contra (PP) y 34 a favor (BNG, PSdeG y Oxea).
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: Rechazada en la toma en consideración.
+- Matiz: El PP acusó a los nacionalistas de usar a Castelao contra el PP. La fuente, Nós Diario, es próxima al BNG.
+- Fuentes:
+  - [Nós Diario](https://www.nosdiario.gal/articulo/politica/pp-rexeita-ilp/20260210113246246922.html)
+
+### Blindar la sanidad pública
+- Parlamento: Andalucía
+- Resultado: Bloqueada
+- Firmas: Más de 50.000 firmas
+- Promotores: Coordinadora de Mareas Blancas
+- Votación: Toma en consideración aprobada con PP, PSOE, Por Andalucía y Adelante; Vox se abstuvo.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: Tras admitirla, el PP usó su mayoría para negarle la tramitación de urgencia mientras aceleraba 15 leyes propias. Va por la vía lenta y probablemente decaerá con las elecciones andaluzas.
+- Matiz: El PP dijo apoyar su tramitación porque recoge la preocupación de miles de andaluces.
+- Fuentes:
+  - [Teleprensa](https://www.teleprensa.com/articulo/sevilla/parlamento-acepta-tramitar-ilp-mareas-blancas-sanidad-apoyo-pp-grupos-izquierda/202511261817422282101.html)
+  - [elDiario.es: el freno](https://www.eldiario.es/andalucia/pp-acelera-15-leyes-moreno-parlamento-echa-freno-iniciativa-popular-impugna-modelo-sanitario_1_12815135.html)
+
+### Proteger el arbolado urbano
+- Parlamento: Canarias
+- Resultado: Aprobada
+- Firmas: Unas 18.000 firmas
+- Promotores: Colectivos ciudadanos
+- Votación: Tomada en consideración por unanimidad en 2022 y aprobada como ley en 2025 con todos los votos salvo Vox.
+- Partidos que la frenaron o votaron en contra: Vox
+- Qué pasó: Se convirtió en la Ley 7/2025. Antes de esta y la de volcanes, de 27 ILP presentadas en Canarias solo 4 habían llegado a ley.
+- Fuentes:
+  - [Parlamento de Canarias](https://www.parcan.es/noticias/detalle.py?ID_NOTICIA=2760)
+  - [Canarias7](https://www.canarias7.es/politica/parlamento-vox-consensua-ley-ejemplar-proteccion-arbolado-20251121164227-nt.html)
+
+### Salario mínimo propio para Euskadi
+- Parlamento: País Vasco
+- Resultado: Rechazada
+- Firmas: Más de 100.000 firmas
+- Promotores: Sindicatos ELA, LAB, ESK, Steilas, Hiru y Etxalde
+- Votación: En contra PNV, PSE-EE, PP y Vox; a favor EH Bildu y Sumar.
+- Partidos que la frenaron o votaron en contra: PNV, PSOE, PP, Vox
+- Qué pasó: Rechazada en la toma en consideración.
+- Matiz: El Gobierno Vasco emitió un informe económico desfavorable; alegaron que fragmentaría el mercado laboral.
+- Fuentes:
+  - [Crónica Vasca (El Español)](https://cronicavasca.elespanol.com/economia/20251113/parlamento-vasco-pnv-pse-iniciativa-popular-smi/1003742707010_0.html)
+  - [Deia](https://www.deia.eus/politica/2025/11/13/pnv-pse-pp-vox-bloquean-10343268.html)
+
+### Quitar a la tauromaquia la protección de patrimonio cultural ('No es mi cultura')
+- Parlamento: Congreso
+- Resultado: Rechazada
+- Firmas: Entre 664.000 y 715.000 firmas según la fuente
+- Promotores: Plataforma 'No es mi cultura', con unas 200 entidades animalistas
+- Votación: 7 de octubre de 2025: 57 a favor, 169 en contra y 118 abstenciones. En contra PP, Vox y UPN; se abstuvo el PSOE; a favor Sumar, Podemos, ERC, Junts, Bildu, PNV, BNG y Compromís.
+- Partidos que la frenaron o votaron en contra: PP, Vox, PSOE
+- Qué pasó: La abstención del PSOE fue la que impidió tramitarla. En julio de 2026 seis grupos la volvieron a registrar como proposición de ley propia, que decae con la disolución.
+- Matiz: El PSOE dijo que el Estado no debe decidir qué es cultura; PP y Vox defendieron los toros como parte del patrimonio de España.
+- Fuentes:
+  - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2025/10/07/la-abstencion-del-psoe-impide-que-el-congreso-tramite-la-ilp-para-acabar-con-el-blindaje-legal-de-la-tauromaquia/)
+  - [elDiario.es](https://www.eldiario.es/cultura/congreso-rechaza-tauromaquia-deje-patrimonio-cultural_1_12663623.html)
+
+### Pensiones mínimas iguales al salario mínimo
+- Parlamento: País Vasco
+- Resultado: Rechazada
+- Firmas: Unas 145.000 firmas
+- Promotores: Movimiento de Pensionistas de Euskal Herria
+- Votación: En contra PNV, PSE-EE y Vox; a favor EH Bildu y Sumar; el PP se abstuvo.
+- Partidos que la frenaron o votaron en contra: PNV, PSOE, Vox
+- Qué pasó: Rechazada en la toma en consideración.
+- Matiz: Alegaron que las pensiones son competencia estatal y el coste para la Hacienda vasca.
+- Fuentes:
+  - [Crónica Vasca (El Español)](https://cronicavasca.elespanol.com/politica/20250925/pnv-pse-iniciativa-popular-igualar-pensiones-smi/1003742691745_0.html)
+
+### Ley de Volcanes para los afectados de La Palma
+- Parlamento: Canarias
+- Resultado: Aprobada
+- Firmas: Más de 18.000 firmas
+- Promotores: Afectados por la erupción de La Palma
+- Votación: Aprobada por unanimidad.
+- Partidos que la frenaron o votaron en contra: —
+- Qué pasó: Aprobada con el Gobierno de CC y PP.
+- Fuentes:
+  - [Diario de Avisos](https://diariodeavisos.elespanol.com/2025/09/ley-de-volcanes-canarias-2/)
+
+### Climatizar los colegios e institutos
+- Parlamento: Madrid
+- Resultado: Rechazada
+- Firmas: 70.895 firmas validadas
+- Promotores: FRAVM, FAPA Giner de los Ríos, CCOO y UGT
+- Votación: En contra PP, con mayoría absoluta, y Vox; a favor PSOE y Más Madrid.
+- Partidos que la frenaron o votaron en contra: PP, Vox
+- Qué pasó: Rechazada en la toma en consideración: las aulas siguen sin una norma de climatización.
+- Matiz: El PP dijo que una ILP no era el instrumento adecuado; el consejero se ofreció a negociar.
+- Fuentes:
+  - [FRAVM](https://fravm.org/noticias/los-votos-de-pp-y-vox-en-la-asamblea-de-madrid-impiden-la-tramitacion-de-la-ilp-por-la-climatizacion-de-los-centros-educativos/)
+  - [El Salto](https://www.elsaltodiario.com/comunidad-madrid/aulas-seguiran-30-grados-pp-vox-tumban-iniciativa-climatizar-aulas)
+
+### Una radiotelevisión pública gallega plural
+- Parlamento: Galicia
+- Resultado: Rechazada
+- Firmas: Casi 25.000 firmas
+- Promotores: Plataforma 'Por unha CRTVG ao servizo do pobo'
+- Votación: En contra el PP; a favor BNG y PSdeG.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: Rechazada en la toma en consideración.
+- Matiz: El PP la consideró innecesaria porque ya existía la nueva ley de medios de 2025.
+- Fuentes:
+  - [Galicia Confidencial](https://www.galiciaconfidencial.com/noticia/5482307-debate-sobre-medios-publicos-galegos-rexeitada-proposta-cidada-mais-24000-sinaturas)
+
+### Destinar el 6% del PIB a educación
+- Parlamento: Cataluña
+- Resultado: En trámite
+- Firmas: Más de 50.000 firmas
+- Promotores: CCOO
+- Votación: Se rechazó la enmienda a la totalidad de Vox por 107 votos contra 11 (PSC, Junts, ERC, Comuns, CUP y AC frente a Vox); el PP se abstuvo.
+- Partidos que la frenaron o votaron en contra: Vox
+- Qué pasó: Sigue en tramitación en el Parlament.
+- Fuentes:
+  - [Parlament de Catalunya](https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=285270958)
+
+### Consulta en Valdenuño Fernández sobre el gasto en toros de las fiestas
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el ayuntamiento
+- Promotores: Ayuntamiento de Valdenuño Fernández (Guadalajara)
+- Votación: El Consejo de Ministros, con Gobierno de PSOE y Sumar, la denegó.
+- Partidos que la frenaron o votaron en contra: PSOE, Sumar
+- Qué pasó: Los vecinos querían decidir si el dinero de los festejos taurinos se dedicaba a otras actividades.
+- Matiz: El Gobierno alegó que es un asunto de Hacienda local, que la ley excluye de las consultas.
+- Fuentes:
+  - [El Español](https://www.elespanol.com/eldigitalcastillalamancha/region/guadalajara/20241224/gobierno-impide-pueblo-castilla-la-mancha-hacer-votacion-popular-gasto-taurino-fiestas/911158889_0.html)
+
+### Proteger la pesca y el marisqueo
+- Parlamento: Galicia
+- Resultado: Rechazada
+- Firmas: Casi 18.000 firmas
+- Promotores: Cofradías, nueve concellos de la Ría de Arousa (algunos del PP), sindicatos y ecologistas
+- Votación: En contra el PP; a favor BNG y PSdeG.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: Rechazada en la toma en consideración.
+- Matiz: El PP dijo que la Ley del Litoral de 2023 ya la dejaba superada.
+- Fuentes:
+  - [Galicia Confidencial](https://www.galiciaconfidencial.com/noticia/5492359-pp-denega-unha-iniciativa-lexislativa-popular-ilp-defensa-da-pesca-tradicional)
+
+### Acabar con el copago de la dependencia
+- Parlamento: Congreso
+- Resultado: Bloqueada
+- Firmas: Unas 740.000 firmas
+- Promotores: CERMI, plataforma de entidades de personas con discapacidad
+- Votación: Admitida en noviembre de 2020 y, de nuevo, el 8 de octubre de 2024 por unanimidad (341 votos a favor).
+- Partidos que la frenaron o votaron en contra: PNV
+- Qué pasó: Pese a la unanimidad de 2024, sigue sin aprobarse.
+- Matiz: El PNV y grupos catalanes alegan que invade competencias autonómicas sobre servicios sociales.
+- Fuentes:
+  - [Servimedia](https://www.servimedia.es/noticias/congreso-acuerda-unanimidad-tramitar-reforma-dependencia-para-acabar-copagos-confiscatorios/1410275147)
+
+### Regularización extraordinaria de migrantes
+- Parlamento: Congreso
+- Resultado: Bloqueada
+- Firmas: Unas 700.000 firmas (más de 600.000 válidas)
+- Promotores: Regularización Ya, con más de 900 organizaciones y la Iglesia católica
+- Votación: Toma en consideración el 9 de abril de 2024: 310 votos a favor y 33 en contra. Solo Vox votó no.
+- Partidos que la frenaron o votaron en contra: PSOE, Junts, PP, Vox
+- Qué pasó: Tras admitirse a trámite casi por unanimidad, el plazo de enmiendas se amplió una decena de veces. PSOE y Sumar no cerraban el texto, PNV y Junts pedían exigir contrato o historial laboral y Junts lo ligaba a las competencias de inmigración. En 2026 el Gobierno hizo la regularización por real decreto (RD 316/2026), sin pasar por el Congreso.
+- Matiz: El PP apoyó tramitarla y después se opuso a una regularización masiva. La regularización llegó, pero no por la vía de la ILP.
+- Fuentes:
+  - [elDiario.es: la votación](https://www.eldiario.es/desalambre/congreso-apoyara-iniciativa-popular-regularizar-cientos-miles-migrantes-viven-espana_1_11273877.html)
+  - [elDiario.es: un año estancada](https://www.eldiario.es/politica/regularizacion-migrantes-sigue-estancada-congreso-ano-despues-sentimos-frustracion_1_12215350.html)
+  - [BOE: Real Decreto 316/2026](https://www.boe.es/boe/dias/2026/04/15/pdfs/BOE-A-2026-8284.pdf)
+
+### Ratios educativas, y endurecimiento de la ley de ILP
+- Parlamento: Comunitat Valenciana
+- Resultado: Rechazada
+- Firmas: Sin dato
+- Promotores: Sindicato STEPV
+- Votación: En contra PP y Vox; a favor PSPV y Compromís.
+- Partidos que la frenaron o votaron en contra: PP, Vox
+- Qué pasó: El mismo día las Corts rechazaron la ILP de ratios educativas y aprobaron por unanimidad tramitar la de enfermería escolar. En 2025, PP y Vox endurecieron la ley de ILP valenciana en la ley de acompañamiento de los presupuestos: menos materias y menos facultades para los promotores.
+- Matiz: El PP la consideró inviable porque exigiría unos 400 centros nuevos. Ese día también se rechazó, con PP, PSPV y Compromís en contra, una ILP de libertad de elección de lengua que solo apoyó Vox.
+- Fuentes:
+  - [Valencia Plaza](https://valenciaplaza.com/pp-rechaza-ilp-hablemos-espanol-espera-nueva-ley-libertad-educativa)
+  - [Corts Valencianes: ILP registradas](https://www.cortsvalencianes.es/es/parlament-obert/iniciativa-legislativa-popular/completo)
+  - [IDP-UCM: la reforma de 2025](https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf)
+
+### Transporte sanitario urgente
+- Parlamento: Aragón
+- Resultado: Rechazada
+- Firmas: 13.000 firmas
+- Promotores: Teruel Existe
+- Votación: En contra PP, Vox y PAR; a favor PSOE, Teruel Existe, CHA, IU y Podemos.
+- Partidos que la frenaron o votaron en contra: PP, Vox, Otros
+- Qué pasó: Rechazada en la toma en consideración.
+- Matiz: El Gobierno de PP y Vox alegó que los problemas venían de los contratos del anterior gobierno socialista.
+- Fuentes:
+  - [Diario de Teruel](https://www.diariodeteruel.es/teruel/rechazada-en-cortes-la-iniciativa-legislativa-popular-del-transporte-sanitario-de-teruel-existe)
+
+### Decenas de ILP caducadas o inadmitidas
+- Parlamento: Congreso
+- Resultado: Otros
+- Firmas: —
+- Promotores: Varios
+- Votación: Sin votación.
+- Partidos que la frenaron o votaron en contra: —
+- Qué pasó: Según la Junta Electoral Central, entre 2018 y 2026 caducaron sin llegar a votarse ILP sobre dación en pago, copago farmacéutico de pensionistas, recuperar la sanidad pública, saltos hidroeléctricos o maltrato a mayores, entre otras. La Mesa del Congreso inadmitió otras sobre okupación, CGPJ, natalidad o estatuto del político.
+- Matiz: Muchas no reúnen las firmas a tiempo; la inadmisión suele deberse a que tratan materias excluidas de la iniciativa popular.
+- Fuentes:
+  - [JEC: legislatura XIV](https://www.juntaelectoralcentral.es/cs/jec/ilp/legislaturas/Legislatura&sIdLeg=14&p=1379061558559)
+  - [JEC: legislatura XV](https://www.juntaelectoralcentral.es/cs/jec/ilp/legislaturas/Legislatura&sIdLeg=15&sLegActual=S&p=1379061558559)
+
+### Salvar la Atención Primaria
+- Parlamento: Galicia
+- Resultado: Rechazada
+- Firmas: Más de 55.000 firmas, récord en Galicia
+- Promotores: SOS Sanidade Pública y más de 30 colectivos
+- Votación: En contra el PP, con mayoría absoluta; a favor PSdeG y BNG.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: Rechazada en la toma en consideración.
+- Matiz: El PP la calificó de relato de izquierdas y a la plataforma de sucursal del bipartito.
+- Fuentes:
+  - [El Salto](https://www.elsaltodiario.com/sanidad-publica/pp-rexeita-ilp-salvar-atencion-primaria-descalifica-plataforma-sos-sanidade)
+
+### Bajar las ratios de alumnos por aula
+- Parlamento: Andalucía
+- Resultado: Rechazada
+- Firmas: Más de 52.000 firmas
+- Promotores: Unas 30 organizaciones educativas
+- Votación: En contra el PP, con mayoría absoluta; Vox se abstuvo; a favor PSOE, Por Andalucía y Adelante.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: No se tomó en consideración. Era la primera ILP que llegaba al Parlamento andaluz en cuatro años.
+- Matiz: El PP alegó un coste de 1.362 millones y que la media de alumnos ya está por debajo del máximo legal.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/andalucia/parlamento-andaluz-orilla-primera-iniciativa-civil-cuatro-anos-rechaza-bajar-numero-alumnos-aula_1_9794042.html)
+
+### Consulta en La Línea de la Concepción para ser ciudad o comunidad autónoma
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de La Línea
+- Votación: El Consejo de Ministros, con Gobierno de PSOE y UP, la denegó.
+- Partidos que la frenaron o votaron en contra: PSOE, Podemos/UP
+- Qué pasó: El Gobierno argumentó que excede el ámbito local y afecta a la organización territorial del Estado. El Supremo confirmó la denegación en 2023.
+- Matiz: Es una denegación ajustada a la ley de bases de régimen local, que excluye estas materias de las consultas municipales.
+- Fuentes:
+  - [Legal Today](https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-gobierno-deniega-una-consulta-en-la-linea-de-la-concepcion-para-convertirse-en-comunidad-autonoma-2022-10-26/)
+  - [El Español: el Supremo](https://www.elespanol.com/espana/tribunales/20230928/ts-niega-consulta-indepe-pide-linea-incide-organizacion-territorial/797670642_0.html)
+
+### Renta básica incondicional
+- Parlamento: País Vasco
+- Resultado: Rechazada
+- Firmas: 22.075 firmas
+- Promotores: Plataforma ILP Renta Básica
+- Votación: En contra PNV, PSE-EE, PP+Cs y Vox; a favor EH Bildu y Elkarrekin Podemos-IU.
+- Partidos que la frenaron o votaron en contra: PNV, PSOE, PP, Cs, Vox
+- Qué pasó: Rechazada en la toma en consideración por segunda legislatura seguida.
+- Matiz: Alegaron que ya estaba en marcha la reforma de la renta de garantía de ingresos y que una renta incondicional no es progresiva.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/euskadi/parlamento-vasco-rechaza-renta-basica-universal-900-euros-vuelve-apelar-reforma-rgi_1_8967395.html)
+
+### Personalidad jurídica del Mar Menor
+- Parlamento: Congreso
+- Resultado: Aprobada
+- Firmas: 639.826 firmas
+- Promotores: Plataforma impulsada por la profesora Teresa Vicente
+- Votación: Toma en consideración el 5 de abril de 2022: 274 a favor, 53 en contra y 6 abstenciones. Solo Vox votó no.
+- Partidos que la frenaron o votaron en contra: Vox
+- Qué pasó: Es la única ILP del periodo que acabó en ley: la Ley 19/2022, que convirtió el Mar Menor en el primer ecosistema europeo con derechos propios. Vox la recurrió y el TC la avaló en noviembre de 2024.
+- Matiz: Vox la calificó de aberración legislativa que criminalizaba la agricultura e invadía competencias autonómicas.
+- Fuentes:
+  - [El Español](https://www.elespanol.com/enclave-ods/noticias/20220405/congreso-tramitara-mar-menor-personalidad-juridica-vox/662684161_0.html)
+  - [elDiario.es: el TC la avala](https://www.eldiario.es/murcia/constitucional-avala-ley-da-personalidad-juridica-mar-menor-rechaza-recurso-vox_1_11670209.html)
+
+### Madrid suprime los Foros Locales de participación vecinal
+- Parlamento: Ayuntamientos
+- Resultado: Otros
+- Firmas: —
+- Promotores: —
+- Votación: Aprobado con PP, Cs y Vox; en contra Más Madrid y PSOE.
+- Partidos que la frenaron o votaron en contra: PP, Cs, Vox
+- Qué pasó: El Ayuntamiento de Almeida sustituyó los Foros Locales, abiertos a cualquier vecino, por Consejos de Proximidad con una participación más restringida.
+- Matiz: No es el rechazo de una iniciativa concreta, sino un recorte del cauce de participación.
+- Fuentes:
+  - [Público](https://www.publico.es/politica/almeida-echa-cerrojazo-definitivo-participacion-ciudadana-madrid.html)
+
+### Ratios seguras de enfermeras por paciente
+- Parlamento: Congreso
+- Resultado: Bloqueada
+- Firmas: Más de 660.000 firmas
+- Promotores: Sindicato de enfermería SATSE
+- Votación: Admitida en diciembre de 2020 (312 a favor y 10 en contra, PNV y JxCat) y otra vez en diciembre de 2024 (316 a favor).
+- Partidos que la frenaron o votaron en contra: PNV, Junts
+- Qué pasó: Presentada en 2018, se tuvo que votar dos veces por el cambio de legislatura. En 2024 acumulaba 83 prórrogas del plazo de enmiendas y en 2025 seguía sin aprobarse.
+- Matiz: PNV y Junts alegaron que invade competencias autonómicas y que el problema es de financiación. Pese al apoyo casi unánime, ningún gobierno la ha priorizado.
+- Fuentes:
+  - [ConSalud](https://www.consalud.es/politica/parlamentos/congreso-respalda-ilp-ratio-segura-enfermeras-espana_89642_102.html)
+  - [Redacción Médica](https://www.redaccionmedica.com/secciones/parlamentarios/el-congreso-aprueba-la-ley-de-ratios-enfermera-con-la-incognita-economica-8299)
+
+### Prestación de ingresos mínimos
+- Parlamento: Congreso
+- Resultado: Bloqueada
+- Firmas: Unas 700.000 firmas
+- Promotores: CCOO y UGT
+- Votación: Admitida en febrero de 2017.
+- Partidos que la frenaron o votaron en contra: —
+- Qué pasó: Acumuló unas 20 ampliaciones del plazo de enmiendas y nunca se aprobó. En la práctica la sustituyó el Ingreso Mínimo Vital de 2020, aprobado por decreto.
+- Matiz: Las fuentes no aclaran qué grupos la frenaron en cada momento.
+- Fuentes:
+  - [UGT](https://www.ugt.es/ugt-valora-los-avances-para-evitar-bloqueos-legislativos-de-los-que-ha-sido-victima)
+
+### Multiconsulta ciudadana de Barcelona
+- Parlamento: Ayuntamientos
+- Resultado: Otros
+- Firmas: Iniciativa de entidades, que necesitaban 15.000 firmas
+- Promotores: Entidades ciudadanas
+- Votación: Rechazada en abril de 2018 por PDeCAT y CUP; aprobada en octubre con BComú, ERC y CUP, con PP y Cs en contra y PSC y PDeCAT abstenidos.
+- Partidos que la frenaron o votaron en contra: Junts, Otros, PP, Cs
+- Qué pasó: Preguntaba por la gestión pública del agua y el nombre de una plaza. Aunque se aprobó, no llegó a celebrarse porque la ley prohíbe consultas en los seis meses previos a las municipales.
+- Matiz: El PDeCAT alegó falta de garantías.
+- Fuentes:
+  - [Crónica Global: el rechazo](https://cronicaglobal.elespanol.com/politica/20180411/colau-atribuye-pdecat-la-cup-fracaso-multiconsulta/298970115_0.html)
+  - [Crónica Global: la aprobación](https://cronicaglobal.elespanol.com/politica/20181026/colau-la-multiconsulta-gracias-abstencion-psc-pdecat/348465174_0.html)
+
