@@ -1,0 +1,68 @@
+{
+ "id": "eurostat_precio_gas_hogares_es_ue",
+ "nombre": "Precio del gas natural para hogares, consumo 20-199 GJ/año, todos los impuestos incluidos, España vs UE-27",
+ "unidad": "euros/kWh",
+ "definicion": "Precio medio semestral del gas natural para consumidores domésticos de la banda D2 (20-199 GJ anuales), con todos los impuestos (I_TAX).",
+ "fuente": "Eurostat, nrg_pc_202 'Gas prices for household consumers - bi-annual data (from 2007 onwards)'",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_202?format=JSON&lang=EN&geo=ES&geo=EU27_2020&nrg_cons=GJ20-199&unit=KWH&tax=I_TAX&currency=EUR&sinceTimePeriod=2016-S1",
+ "actualizado_fuente": "2026-10-06T11:00:00+0200",
+ "notas": [
+  "Banda D2, la de referencia habitual para hogares.",
+  "Fuerte estacionalidad: el semestre 2 (con calefacción) suele salir más caro en España.",
+  "2026-S1 aún sin dato UE-27 a 6-oct-2026."
+ ],
+ "flags": {},
+ "valores": {
+  "España": {
+   "2016-S1": 0.0677,
+   "2016-S2": 0.0857,
+   "2017-S1": 0.0667,
+   "2017-S2": 0.0865,
+   "2018-S1": 0.0665,
+   "2018-S2": 0.0875,
+   "2019-S1": 0.0736,
+   "2019-S2": 0.1021,
+   "2020-S1": 0.0718,
+   "2020-S2": 0.089,
+   "2021-S1": 0.0691,
+   "2021-S2": 0.1082,
+   "2022-S1": 0.0897,
+   "2022-S2": 0.1574,
+   "2023-S1": 0.1077,
+   "2023-S2": 0.101,
+   "2024-S1": 0.0858,
+   "2024-S2": 0.0901,
+   "2025-S1": 0.0874,
+   "2025-S2": 0.0955,
+   "2026-S1": 0.0787
+  },
+  "UE-27": {
+   "2016-S1": 0.0643,
+   "2016-S2": 0.0675,
+   "2017-S1": 0.0619,
+   "2017-S2": 0.0682,
+   "2018-S1": 0.0631,
+   "2018-S2": 0.0719,
+   "2019-S1": 0.0674,
+   "2019-S2": 0.0728,
+   "2020-S1": 0.0646,
+   "2020-S2": 0.0701,
+   "2021-S1": 0.064,
+   "2021-S2": 0.0784,
+   "2022-S1": 0.0847,
+   "2022-S2": 0.1125,
+   "2023-S1": 0.1163,
+   "2023-S2": 0.1141,
+   "2024-S1": 0.1104,
+   "2024-S2": 0.1244,
+   "2025-S1": 0.1143,
+   "2025-S2": 0.1228
+  }
+ },
+ "fecha_consulta": "2026-10-06",
+ "periodos": "2016-S1 – 2026-S1",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}

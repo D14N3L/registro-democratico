@@ -104,6 +104,15 @@ table.votes{border-collapse:collapse;width:100%;min-width:760px;font-size:13.5px
 .votes tr:last-child td{border-bottom:0}
 .votes .mname{font-weight:600}
 .votes .mdate{display:block;font-family:var(--f-mono);font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+table.serie{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
+.serie th,.serie td{padding:7px 9px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.serie th{font-family:var(--f-mono);font-size:11px;color:var(--muted);font-weight:500}
+.serie th:first-child,.serie td:first-child{text-align:left;position:sticky;left:0;background:var(--surface)}
+.serie tr.ref td{font-weight:600}
+.serie tr:last-child td{border-bottom:0}
+.serie td.nd{color:var(--muted)}
+.spark{display:block;margin:6px 0 2px}
+.spark text{font-family:var(--f-mono);font-size:10px;fill:var(--muted)}
 .v{display:inline-block;min-width:42px;font-size:12px;font-weight:600;padding:3px 6px;border-radius:4px}
 .v-si{color:var(--p-firme);background:var(--p-firme-bg)}
 .v-no{color:var(--p-inv);background:var(--p-inv-bg)}
@@ -153,7 +162,21 @@ table.votes{border-collapse:collapse;width:100%;min-width:760px;font-size:13.5px
     <button type="button" class="tab" role="tab" id="tab-registro" aria-controls="panel-registro" aria-selected="true">Registro</button>
     <button type="button" class="tab" role="tab" id="tab-votaciones" aria-controls="panel-votaciones" aria-selected="false">Qué votó cada partido</button>
     <button type="button" class="tab" role="tab" id="tab-ilp" aria-controls="panel-ilp" aria-selected="false">Iniciativas ciudadanas</button>
+    <button type="button" class="tab" role="tab" id="tab-bienestar" aria-controls="panel-bienestar" aria-selected="false">Cómo nos ha ido</button>
   </div>
+
+  <section class="panel" id="panel-bienestar" role="tabpanel" aria-labelledby="tab-bienestar" hidden>
+    <p class="lede">Lo que se hace con nuestros impuestos se nota en la sanidad, el colegio, la vivienda, la dependencia y la factura de la luz. Aquí están los datos oficiales, año a año, de 2016 al último publicado: la media de España, la de la Unión Europea cuando existe y cada comunidad por orden alfabético. Sanidad, educación, vivienda y dependencia son sobre todo competencia de las comunidades. Una serie no prueba por sí sola que un gobierno lo hiciera bien o mal: cada indicador dice qué mide y qué no.</p>
+    <section class="filters" aria-label="Filtros de indicadores">
+      <div class="frow">
+        <span class="flabel">Filtrar</span>
+        <select id="pilarSel" aria-label="Tema"></select>
+      </div>
+      <div class="status" id="bienCount" aria-live="polite"></div>
+    </section>
+    <div class="list" id="bienList"></div>
+    <p class="note">Todos los datos vienen de organismos oficiales: Ministerio de Sanidad, Ministerio de Educación, IMSERSO, INE, Ministerio de Vivienda, Banco de España y Eurostat. Las cifras en euros son corrientes, sin descontar la inflación, salvo que se indique. Una casilla vacía es un dato que la fuente no publica; no se rellena ni se estima.</p>
+  </section>
 
   <section class="panel" id="panel-ilp" role="tabpanel" aria-labelledby="tab-ilp" hidden>
     <p class="lede">Leyes que propuso la gente con sus firmas (las Iniciativas Legislativas Populares) y consultas que pidieron los vecinos: qué pasó con ellas y quién decidió. En el Congreso hacen falta 500.000 firmas; en los parlamentos autonómicos, bastantes menos.</p>
@@ -240,9 +263,9 @@ const PROOF = {
 const PARTIES = ["PSOE","PP","Vox","Podemos/UP","Sumar","Cs","ERC","Junts","Bildu","PNV","CC","Otros"];
 
 
-let DATA=[],VOTES=[],ILP=[];
-Promise.all(["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json"].map(u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u);return r.json()})))
- .then(([d,v,i])=>{DATA=d;VOTES=v;ILP=i;init()})
+let DATA=[],VOTES=[],ILP=[],BIEN=[];
+Promise.all(["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json","datos/bienestar.json"].map(u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u);return r.json()})))
+ .then(([d,v,i,b])=>{DATA=d;VOTES=v;ILP=i;BIEN=b;init()})
  .catch(err=>{document.getElementById("list").innerHTML='<div class="empty">No se han podido cargar los datos ('+err.message+'). Recarga la página.</div>'});
 function init(){
 DATA.sort((a,b)=>a.d.localeCompare(b.d));
@@ -411,8 +434,53 @@ function renderILP(){
 }
 renderILP();
 
+/* ---------- Cómo nos ha ido ---------- */
+const pilarSel=document.getElementById("pilarSel");
+const PILARES=[...new Set(BIEN.map(i=>i.pilar))];
+pilarSel.innerHTML='<option value="">Todos los temas</option>'+PILARES.map(p=>'<option value="'+esc(p)+'">'+esc(p)+'</option>').join("");
+function decimales(ind){
+  const vs=ind.filas.flatMap(f=>f.valores).filter(v=>v!=null);
+  const max=Math.max(...vs.map(Math.abs)),dec=Math.max(...vs.map(v=>(String(v).split(".")[1]||"").length));
+  if(ind.unidad.includes("kWh"))return Math.min(dec,4);
+  return Math.min(dec,max>=1000?0:max>=100?1:2);
+}
+function fmt(v,d){return v==null?"–":v.toLocaleString("es-ES",{minimumFractionDigits:d,maximumFractionDigits:d})}
+function spark(ind){
+  const lines=ind.filas.filter(f=>f.ambito==="España"||f.ambito==="UE-27"||f.ambito==="Media de las comunidades");
+  if(!lines.length)return "";
+  const W=320,H=70,P=4,all=lines.flatMap(f=>f.valores).filter(v=>v!=null);
+  const lo=Math.min(...all),hi=Math.max(...all),n=ind.periodos.length;
+  const x=i=>P+i*(W-2*P)/Math.max(n-1,1),y=v=>H-14-(hi===lo?0.5:(v-lo)/(hi-lo))*(H-24);
+  const col=["var(--fg)","var(--muted)","var(--fg)"];
+  const paths=lines.map((f,k)=>{let d="";f.valores.forEach((v,i)=>{if(v!=null)d+=(d?"L":"M")+x(i).toFixed(1)+" "+y(v).toFixed(1)});return '<path d="'+d+'" fill="none" stroke="'+col[k]+'" stroke-width="2"'+(f.ambito==="UE-27"?' stroke-dasharray="4 3"':"")+'/>'}).join("");
+  return '<svg class="spark" width="'+W+'" height="'+H+'" viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Evolución de '+esc(lines.map(f=>f.ambito).join(" y "))+'">'+paths+'<text x="'+P+'" y="'+(H-2)+'">'+esc(ind.periodos[0])+'</text><text x="'+(W-P)+'" y="'+(H-2)+'" text-anchor="end">'+esc(ind.periodos[n-1])+'</text></svg>'+
+    '<p class="mdate" style="margin:0">'+lines.map(f=>(f.ambito==="UE-27"?"- - ":"— ")+esc(f.ambito)).join(" · ")+'</p>';
+}
+function renderBien(){
+  const p=pilarSel.value;
+  const sel=BIEN.filter(i=>!p||i.pilar===p);
+  document.getElementById("bienCount").textContent=sel.length+" de "+BIEN.length+" indicadores";
+  document.getElementById("bienList").innerHTML=sel.map(ind=>{
+    const d=decimales(ind);
+    return `<article class="entry">
+    <div class="date">${esc(ind.pilar)}</div>
+    <div class="body">
+      <h2>${esc(ind.nombre)}</h2>
+      <p>${esc(ind.mide)} <span class="mdate" style="display:inline">(${esc(ind.unidad)})</span></p>
+      ${spark(ind)}
+      <div class="tablewrap"><table class="serie"><thead><tr><th scope="col"></th>${ind.periodos.map(x=>'<th scope="col">'+esc(x)+'</th>').join("")}</tr></thead><tbody>${
+        ind.filas.map(f=>'<tr'+(["España","UE-27","Media de las comunidades"].includes(f.ambito)?' class="ref"':'')+'><td>'+esc(f.ambito)+'</td>'+f.valores.map(v=>'<td'+(v==null?' class="nd"':'')+'>'+fmt(v,d)+'</td>').join("")+'</tr>').join("")
+      }</tbody></table></div>
+      <p class="nuance">${esc(ind.aviso)}</p>
+      <div class="foot"><div class="sources"><a href="${esc(ind.url)}" target="_blank" rel="noopener">${esc(ind.fuente)}</a></div></div>
+    </div>
+  </article>`}).join("");
+}
+pilarSel.addEventListener("change",renderBien);
+renderBien();
+
 /* ---------- Pestañas ---------- */
-const TABS={registro:["tab-registro","panel-registro"],votaciones:["tab-votaciones","panel-votaciones"],ilp:["tab-ilp","panel-ilp"]};
+const TABS={registro:["tab-registro","panel-registro"],votaciones:["tab-votaciones","panel-votaciones"],ilp:["tab-ilp","panel-ilp"],bienestar:["tab-bienestar","panel-bienestar"]};
 function showTab(k){
   Object.entries(TABS).forEach(([key,[t,p]])=>{
     const on=key===k;
@@ -423,6 +491,7 @@ function showTab(k){
 Object.entries(TABS).forEach(([k,[t]])=>document.getElementById(t).addEventListener("click",()=>showTab(k)));
 if(location.hash==="#votaciones")showTab("votaciones");
 if(location.hash==="#iniciativas")showTab("ilp");
+if(location.hash==="#bienestar")showTab("bienestar");
 
 }
 </script>

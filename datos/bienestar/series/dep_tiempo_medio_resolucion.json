@@ -1,0 +1,406 @@
+{
+ "id": "dep_tiempo_medio_resolucion",
+ "nombre": "Tiempo medio de resolución en el SAAD por CCAA (días)",
+ "unidad": "días",
+ "definicion": "Tiempo medio, en días naturales, de las resoluciones dictadas en el periodo: (1) desde la solicitud hasta la primera resolución de grado; (2) desde la resolución de grado hasta la primera resolución de prestación (PIA); (3) desde la solicitud hasta la primera resolución de prestación (tiempo total). Solo cuenta a quienes obtuvieron resolución en el periodo (no a quienes siguen esperando).",
+ "fuente": {
+  "organismo": "IMSERSO. Información estadística del SISAAD",
+  "tabla": "Hoja 9TiempoEspera (\"9. Tiempo medio de resolución por CCAA\") de los ficheros a 31-12-2023, 31-12-2024, 31-12-2025 y 31-08-2026"
+ },
+ "urls": {
+  "dic_2023_xlsx": "https://imserso.es/documents/20123/3515174/estsisaad_20231231.xlsx",
+  "dic_2024_xlsx": "https://imserso.es/documents/d/global/estsisaad_20241231",
+  "dic_2025_xlsx": "https://imserso.es/documents/d/global/estsisaad_20251231",
+  "ago_2026_xlsx": "https://imserso.es/documents/20123/11151734/estsisaad_20260831.xlsx/f31848ff-dced-b021-91cf-395c74c7bdb0"
+ },
+ "fecha_consulta": "2026-10-06",
+ "anios": [
+  "2023",
+  "2024",
+  "2025",
+  "12m_a_31-08-2026"
+ ],
+ "notas_metodologicas": [
+  "Cada año = resoluciones dictadas entre el 1 de enero y el 31 de diciembre de ese año. \"12m_a_31-08-2026\" = resoluciones entre el 1-9-2025 y el 31-8-2026 (periodo móvil, no comparable estrictamente con años naturales). En el fichero de ago-2026 los días vienen redondeados a entero.",
+  "NO hay serie 2016-2022: los ficheros mensuales de diciembre 2016-2022 (xls) no incluyen esta hoja; la hoja 9TiempoEspera aparece en el fichero de diciembre de 2023. No se ha encontrado una serie anual oficial por CCAA anterior.",
+  "El IMSERSO avisa de que algunas CCAA resuelven grado y PIA de forma conjunta, lo que reduce artificialmente el tramo grado→PIA. La lista cambia según fichero: {\"2023\": \"* Castilla y León, la Comunidad de Madrid y el País Vasco tienen un procedimiento de gestión en el que la mayoría de Resoluciones de Grado y Resoluciones de Prestación se realizan de manera conjunta\", \"2024\": \"* Castilla y León, la Comunidad de Madrid y el País Vasco tienen un procedimiento de gestión en el que la mayoría de Resoluciones de Grado y Resoluciones de Prestación se realizan de manera conjunta\", \"2025\": \"* Castilla y León, la Comunidad de Madrid, el Principado de Asturias, Canarias y el País Vasco tienen un procedimiento de gestión en el que la mayoría de Resoluciones de Grado y Resoluciones de Prestación se realizan de manera conjunta\", \"12m_a_31-08-2026\": \"* Andalucía, Aragón, Principado de Asturias, Canarias, Castilla y León, Comunidad de Madrid y País Vasco tienen un procedimiento de gestión en el que la mayoría de Resoluciones de Grado y Resoluciones de Prestación se realizan de manera conjunta\"}",
+  "Para el grado solo cuenta la primera resolución de grado de cada persona; para la prestación, la primera resolución de prestación.",
+  "Ceuta y Melilla se publican por separado en esta hoja."
+ ],
+ "valores": {
+  "solicitud_a_grado": {
+   "Andalucía": {
+    "2023": 356.02,
+    "2024": 409.37,
+    "2025": 443.09,
+    "12m_a_31-08-2026": 376
+   },
+   "Aragón": {
+    "2023": 150.84,
+    "2024": 140.24,
+    "2025": 115.74,
+    "12m_a_31-08-2026": 89
+   },
+   "Asturias": {
+    "2023": 181.14,
+    "2024": 302.98,
+    "2025": 305.44,
+    "12m_a_31-08-2026": 299
+   },
+   "Baleares": {
+    "2023": 122.81,
+    "2024": 122.63,
+    "2025": 118.19,
+    "12m_a_31-08-2026": 93
+   },
+   "Canarias": {
+    "2023": 425.9,
+    "2024": 388.5,
+    "2025": 301.02,
+    "12m_a_31-08-2026": 152
+   },
+   "Cantabria": {
+    "2023": 125.12,
+    "2024": 162.71,
+    "2025": 148.21,
+    "12m_a_31-08-2026": 123
+   },
+   "Castilla y León": {
+    "2023": 118.76,
+    "2024": 113.73,
+    "2025": 108.39,
+    "12m_a_31-08-2026": 119
+   },
+   "Castilla-La Mancha": {
+    "2023": 124.55,
+    "2024": 123.45,
+    "2025": 107.27,
+    "12m_a_31-08-2026": 115
+   },
+   "Cataluña": {
+    "2023": 176.79,
+    "2024": 181.52,
+    "2025": 208.35,
+    "12m_a_31-08-2026": 204
+   },
+   "Comunitat Valenciana": {
+    "2023": 198.71,
+    "2024": 243.33,
+    "2025": 259.85,
+    "12m_a_31-08-2026": 254
+   },
+   "Extremadura": {
+    "2023": 138.43,
+    "2024": 129.44,
+    "2025": 147.85,
+    "12m_a_31-08-2026": 157
+   },
+   "Galicia": {
+    "2023": 267.3,
+    "2024": 257.2,
+    "2025": 165.66,
+    "12m_a_31-08-2026": 178
+   },
+   "Madrid": {
+    "2023": 165.44,
+    "2024": 191.41,
+    "2025": 223.26,
+    "12m_a_31-08-2026": 209
+   },
+   "Murcia": {
+    "2023": 266.87,
+    "2024": 319.46,
+    "2025": 335.62,
+    "12m_a_31-08-2026": 299
+   },
+   "Navarra": {
+    "2023": 108.09,
+    "2024": 135.39,
+    "2025": 130.58,
+    "12m_a_31-08-2026": 144
+   },
+   "País Vasco": {
+    "2023": 82.23,
+    "2024": 70.06,
+    "2025": 78.31,
+    "12m_a_31-08-2026": 80
+   },
+   "La Rioja": {
+    "2023": 52.89,
+    "2024": 56.25,
+    "2025": 78.73,
+    "12m_a_31-08-2026": 73
+   },
+   "Ceuta": {
+    "2023": 32.55,
+    "2024": 29.77,
+    "2025": 38.09,
+    "12m_a_31-08-2026": 31
+   },
+   "Melilla": {
+    "2023": 122.94,
+    "2024": 131.06,
+    "2025": 113.35,
+    "12m_a_31-08-2026": 79
+   },
+   "Total España": {
+    "2023": 202.97,
+    "2024": 211.94,
+    "2025": 254.89,
+    "12m_a_31-08-2026": 228
+   }
+  },
+  "grado_a_pia": {
+   "Andalucía": {
+    "2023": 212.57,
+    "2024": 216.24,
+    "2025": 38.6,
+    "12m_a_31-08-2026": 16
+   },
+   "Aragón": {
+    "2023": 40.56,
+    "2024": 43.7,
+    "2025": 22.53,
+    "12m_a_31-08-2026": 21
+   },
+   "Asturias": {
+    "2023": 134.89,
+    "2024": 33.58,
+    "2025": 11.14,
+    "12m_a_31-08-2026": 119
+   },
+   "Baleares": {
+    "2023": 95.14,
+    "2024": 127.86,
+    "2025": 93.46,
+    "12m_a_31-08-2026": 90
+   },
+   "Canarias": {
+    "2023": 183.98,
+    "2024": 166.17,
+    "2025": 110.84,
+    "12m_a_31-08-2026": 58
+   },
+   "Cantabria": {
+    "2023": 62.72,
+    "2024": 50.36,
+    "2025": 58.9,
+    "12m_a_31-08-2026": 48
+   },
+   "Castilla y León": {
+    "2023": 0,
+    "2024": 0.11,
+    "2025": 0.12,
+    "12m_a_31-08-2026": 0
+   },
+   "Castilla-La Mancha": {
+    "2023": 67.24,
+    "2024": 63.03,
+    "2025": 56.94,
+    "12m_a_31-08-2026": 52
+   },
+   "Cataluña": {
+    "2023": 111.81,
+    "2024": 96.46,
+    "2025": 73.12,
+    "12m_a_31-08-2026": 53
+   },
+   "Comunitat Valenciana": {
+    "2023": 76.23,
+    "2024": 83.8,
+    "2025": 40.38,
+    "12m_a_31-08-2026": 42
+   },
+   "Extremadura": {
+    "2023": 161.75,
+    "2024": 146.98,
+    "2025": 119.87,
+    "12m_a_31-08-2026": 118
+   },
+   "Galicia": {
+    "2023": 88.01,
+    "2024": 127.35,
+    "2025": 154.17,
+    "12m_a_31-08-2026": 139
+   },
+   "Madrid": {
+    "2023": 54.69,
+    "2024": 63.78,
+    "2025": 63.12,
+    "12m_a_31-08-2026": 49
+   },
+   "Murcia": {
+    "2023": 258.83,
+    "2024": 242.13,
+    "2025": 230.1,
+    "12m_a_31-08-2026": 202
+   },
+   "Navarra": {
+    "2023": 76.95,
+    "2024": 75.48,
+    "2025": 73.5,
+    "12m_a_31-08-2026": 85
+   },
+   "País Vasco": {
+    "2023": 49.29,
+    "2024": 54.49,
+    "2025": 50.49,
+    "12m_a_31-08-2026": 47
+   },
+   "La Rioja": {
+    "2023": 155.64,
+    "2024": 171.29,
+    "2025": 112.56,
+    "12m_a_31-08-2026": 73
+   },
+   "Ceuta": {
+    "2023": 35.61,
+    "2024": 26,
+    "2025": 46.38,
+    "12m_a_31-08-2026": 48
+   },
+   "Melilla": {
+    "2023": 134.68,
+    "2024": 142.12,
+    "2025": 87.17,
+    "12m_a_31-08-2026": 92
+   },
+   "Total España": {
+    "2023": 105.69,
+    "2024": 104.01,
+    "2025": 66.38,
+    "12m_a_31-08-2026": 52
+   }
+  },
+  "solicitud_a_pia": {
+   "Andalucía": {
+    "2023": 556.99,
+    "2024": 602.11,
+    "2025": 495.79,
+    "12m_a_31-08-2026": 413
+   },
+   "Aragón": {
+    "2023": 190.34,
+    "2024": 189.17,
+    "2025": 140.59,
+    "12m_a_31-08-2026": 111
+   },
+   "Asturias": {
+    "2023": 304.45,
+    "2024": 346.3,
+    "2025": 326.85,
+    "12m_a_31-08-2026": 416
+   },
+   "Baleares": {
+    "2023": 218.88,
+    "2024": 247.73,
+    "2025": 215.45,
+    "12m_a_31-08-2026": 192
+   },
+   "Canarias": {
+    "2023": 647.28,
+    "2024": 560.69,
+    "2025": 430.49,
+    "12m_a_31-08-2026": 250
+   },
+   "Cantabria": {
+    "2023": 173.42,
+    "2024": 209.54,
+    "2025": 202.76,
+    "12m_a_31-08-2026": 171
+   },
+   "Castilla y León": {
+    "2023": 127.39,
+    "2024": 118.61,
+    "2025": 112.74,
+    "12m_a_31-08-2026": 120
+   },
+   "Castilla-La Mancha": {
+    "2023": 190.84,
+    "2024": 186.66,
+    "2025": 164.53,
+    "12m_a_31-08-2026": 165
+   },
+   "Cataluña": {
+    "2023": 281.11,
+    "2024": 270.99,
+    "2025": 275.73,
+    "12m_a_31-08-2026": 264
+   },
+   "Comunitat Valenciana": {
+    "2023": 279.31,
+    "2024": 317.47,
+    "2025": 299.53,
+    "12m_a_31-08-2026": 299
+   },
+   "Extremadura": {
+    "2023": 309.1,
+    "2024": 278.83,
+    "2025": 258.61,
+    "12m_a_31-08-2026": 272
+   },
+   "Galicia": {
+    "2023": 362.46,
+    "2024": 386.31,
+    "2025": 323.84,
+    "12m_a_31-08-2026": 308
+   },
+   "Madrid": {
+    "2023": 288.35,
+    "2024": 305.9,
+    "2025": 347.72,
+    "12m_a_31-08-2026": 335
+   },
+   "Murcia": {
+    "2023": 509.25,
+    "2024": 520.08,
+    "2025": 558.78,
+    "12m_a_31-08-2026": 536
+   },
+   "Navarra": {
+    "2023": 178.21,
+    "2024": 204.3,
+    "2025": 200.8,
+    "12m_a_31-08-2026": 222
+   },
+   "País Vasco": {
+    "2023": 139.74,
+    "2024": 127.92,
+    "2025": 129.14,
+    "12m_a_31-08-2026": 130
+   },
+   "La Rioja": {
+    "2023": 202.79,
+    "2024": 220.05,
+    "2025": 174.19,
+    "12m_a_31-08-2026": 131
+   },
+   "Ceuta": {
+    "2023": 68.17,
+    "2024": 58.21,
+    "2025": 82.49,
+    "12m_a_31-08-2026": 78
+   },
+   "Melilla": {
+    "2023": 265.56,
+    "2024": 266.87,
+    "2025": 208.15,
+    "12m_a_31-08-2026": 183
+   },
+   "Total España": {
+    "2023": 324.33,
+    "2024": 333.66,
+    "2025": 341.24,
+    "12m_a_31-08-2026": 302
+   }
+  }
+ },
+ "comprobacion_valores_al_azar": {
+  "fecha": "2026-10-06",
+  "resultados": [
+   "Cantabria 2023 = 173,42 días: PDF estsisaad_20231231 muestra 173 (redondeado) OK",
+   "Navarra 2024 = 204,3: hoja 9TiempoEspera releída OK",
+   "Aragón 2025 = 140,59: hoja 9TiempoEspera releída OK"
+  ]
+ }
+}

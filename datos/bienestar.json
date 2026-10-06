@@ -1,0 +1,5075 @@
+[
+ {
+  "id": "san_gasto_hab",
+  "pilar": "Sanidad",
+  "nombre": "Gasto sanitario público por habitante",
+  "unidad": "euros por habitante (corrientes)",
+  "mide": "Lo que gasta en sanidad cada comunidad por habitante.",
+  "aviso": "Solo cuenta el gasto que gestionan las comunidades: deja fuera mutualidades de funcionarios, Administración central y ayuntamientos. La «media de las comunidades» no es el total de España. Euros corrientes, sin descontar la inflación. 2023 y 2024 son provisionales y cada edición revisa la serie.",
+  "fuente": "Ministerio de Sanidad. Estadística de Gasto Sanitario Público (EGSP). Cuentas Satélite del Gasto Sanitario Público. Tablas estadísticas 2002-2024, hoja \"Anexo I.2\".",
+  "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/gastoSanitario2005/home.htm",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "Media de las comunidades",
+    "valores": [
+     1333.35,
+     1369.87,
+     1415.67,
+     1485.76,
+     1640.51,
+     1717.62,
+     1768.48,
+     1889.29,
+     1957.62
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     1112.17,
+     1155.42,
+     1213.57,
+     1264.04,
+     1400.63,
+     1496.27,
+     1532.54,
+     1647.53,
+     1657.79
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     1546.84,
+     1556.7,
+     1600.98,
+     1677.26,
+     1764.81,
+     1868.71,
+     1907.81,
+     2004.23,
+     2190.15
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     1583.61,
+     1632.91,
+     1677.4,
+     1764.49,
+     1894.08,
+     1969.18,
+     2056.59,
+     2181.68,
+     2322.4
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     1305.73,
+     1373.43,
+     1420.63,
+     1515.19,
+     1625.04,
+     1696.06,
+     1732,
+     1839,
+     1955.94
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     1325.49,
+     1355.73,
+     1431.27,
+     1516.18,
+     1664.28,
+     1786.95,
+     1863.75,
+     1962.05,
+     2035.52
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     1449.21,
+     1463.06,
+     1542.36,
+     1684.01,
+     1795.59,
+     1862.77,
+     1917.17,
+     2062.91,
+     2241.68
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     1474.27,
+     1522.71,
+     1578.38,
+     1662.72,
+     1864.23,
+     1881.38,
+     1962.79,
+     2069.58,
+     2218.15
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     1315.49,
+     1374.22,
+     1443.12,
+     1507.24,
+     1695.26,
+     1789.62,
+     1773.2,
+     1886.02,
+     1957.09
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     1352.64,
+     1384.32,
+     1421.83,
+     1502.87,
+     1742.94,
+     1812.22,
+     1851,
+     2000.27,
+     2060.65
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     1325.03,
+     1357.82,
+     1404.45,
+     1470.38,
+     1580.7,
+     1651.03,
+     1679.5,
+     1810.09,
+     1866.52
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     1552.1,
+     1588.6,
+     1622.53,
+     1678,
+     1770.49,
+     1888.71,
+     1950.93,
+     2101.41,
+     2245.92
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     1424.22,
+     1447.86,
+     1491.63,
+     1567.91,
+     1702.46,
+     1777.13,
+     1832.05,
+     1987.66,
+     2070.62
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     1392.81,
+     1413.36,
+     1466.58,
+     1522.72,
+     1589.48,
+     1641.95,
+     1714.35,
+     1851.39,
+     1878.42
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     1222.66,
+     1251.94,
+     1277.72,
+     1345.36,
+     1497.63,
+     1541.11,
+     1624.84,
+     1719.2,
+     1778.6
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     1493.61,
+     1536.74,
+     1563.02,
+     1634.05,
+     1763.82,
+     1902.64,
+     1960.48,
+     2134.06,
+     2154.85
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     1537.2,
+     1601.53,
+     1645.61,
+     1690.39,
+     1851.72,
+     1933.02,
+     1972.81,
+     2104.73,
+     2155.71
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     1668.3,
+     1707.36,
+     1748.45,
+     1818.95,
+     1954.1,
+     2047.85,
+     2144.19,
+     2211.47,
+     2332.12
+    ]
+   }
+  ]
+ },
+ {
+  "id": "san_espera_quir",
+  "pilar": "Sanidad",
+  "nombre": "Espera para una operación (tiempo medio)",
+  "unidad": "días, a 31 de diciembre",
+  "mide": "Días de espera media de los pacientes pendientes de una operación no urgente en la sanidad pública.",
+  "aviso": "Andalucía cambió su forma de contar en 2018 y su serie se parte en dos. Cada comunidad aplica sus propios criterios de registro, según el propio Ministerio.",
+  "fuente": "Ministerio de Sanidad. Sistema de Información sobre Listas de Espera en el SNS (SISLE-SNS), RD 605/2003. Informe semestral \"Situación a 31 de diciembre de AAAA\", tablas \"Distribución por comunidades autónomas\"",
+  "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/listaEspera.htm",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     115,
+     106,
+     129,
+     121,
+     155,
+     123,
+     120,
+     128,
+     126,
+     122
+    ]
+   },
+   {
+    "ambito": "Andalucía (desde 2018)",
+    "valores": [
+     null,
+     null,
+     214,
+     161,
+     188,
+     128,
+     134,
+     174,
+     176,
+     173
+    ]
+   },
+   {
+    "ambito": "Andalucía (hasta 2017)",
+    "valores": [
+     76,
+     78,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     99,
+     89,
+     90,
+     113,
+     180,
+     183,
+     128,
+     146,
+     144,
+     132
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     73,
+     70,
+     73,
+     83,
+     60,
+     95,
+     94,
+     98,
+     90,
+     91
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     78,
+     76,
+     81,
+     79,
+     135,
+     134,
+     124,
+     125,
+     99,
+     105
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     182,
+     177,
+     140,
+     133,
+     151,
+     144,
+     157,
+     147,
+     122,
+     106
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     89,
+     86,
+     87,
+     101,
+     145,
+     146,
+     154,
+     173,
+     151,
+     137
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     107,
+     78,
+     65,
+     94,
+     152,
+     144,
+     123,
+     116,
+     95,
+     87
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     162,
+     163,
+     134,
+     163,
+     286,
+     113,
+     106,
+     102,
+     113,
+     117
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     173,
+     148,
+     151,
+     155,
+     190,
+     156,
+     154,
+     138,
+     145,
+     142
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     37,
+     75,
+     81,
+     92,
+     126,
+     126,
+     82,
+     124,
+     83,
+     94
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     88,
+     82,
+     92,
+     90,
+     125,
+     100,
+     88,
+     88,
+     93,
+     88
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     134,
+     146,
+     118,
+     125,
+     175,
+     145,
+     156,
+     181,
+     178,
+     135
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     68,
+     66,
+     62,
+     55,
+     73,
+     77,
+     75,
+     67,
+     67,
+     73
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     49,
+     55,
+     43,
+     53,
+     75,
+     95,
+     111,
+     106,
+     64,
+     78
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     55,
+     51,
+     50,
+     52,
+     80,
+     73,
+     63,
+     51,
+     48,
+     50
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     33,
+     29,
+     34,
+     38,
+     40,
+     40,
+     39,
+     97,
+     137,
+     82
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     101,
+     96,
+     87,
+     78,
+     98,
+     94,
+     100,
+     106,
+     107,
+     103
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     100,
+     73,
+     77,
+     80,
+     93,
+     82,
+     85,
+     94,
+     94,
+     96
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     50,
+     50,
+     49,
+     48,
+     68,
+     71,
+     73,
+     63,
+     59,
+     64
+    ]
+   }
+  ]
+ },
+ {
+  "id": "san_espera_6m",
+  "pilar": "Sanidad",
+  "nombre": "Pacientes que esperan más de 6 meses para operarse",
+  "unidad": "% de los pacientes en espera, a 31 de diciembre",
+  "mide": "Qué parte de la lista de espera quirúrgica lleva más de seis meses esperando.",
+  "aviso": "Misma ruptura de Andalucía en 2018 y mismos límites de registro que el indicador anterior.",
+  "fuente": "Ministerio de Sanidad. Sistema de Información sobre Listas de Espera en el SNS (SISLE-SNS), RD 605/2003. Informe semestral \"Situación a 31 de diciembre de AAAA\", tablas \"Distribución por comunidades autónomas\"",
+  "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/listaEspera.htm",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     18.9,
+     17,
+     20,
+     19.9,
+     27.4,
+     20.3,
+     20.8,
+     24.3,
+     22.9,
+     21.6
+    ]
+   },
+   {
+    "ambito": "Andalucía (desde 2018)",
+    "valores": [
+     null,
+     null,
+     27.3,
+     23.2,
+     28.9,
+     19.8,
+     25.3,
+     38,
+     33.4,
+     32.2
+    ]
+   },
+   {
+    "ambito": "Andalucía (hasta 2017)",
+    "valores": [
+     7.9,
+     8.7,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     12,
+     9.2,
+     8.7,
+     16.9,
+     33,
+     31.8,
+     25.6,
+     27.7,
+     26.6,
+     21.7
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     2.6,
+     0.6,
+     2.2,
+     5.5,
+     6.2,
+     14.5,
+     13.1,
+     13.3,
+     9.5,
+     10.4
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     4.6,
+     4.1,
+     6,
+     5.3,
+     26.4,
+     23.3,
+     22.2,
+     21.5,
+     14.6,
+     22.4
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     37.3,
+     34.2,
+     23.6,
+     22.8,
+     26.6,
+     25.6,
+     28.5,
+     27.6,
+     22,
+     17.4
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     12.9,
+     11.1,
+     12,
+     17.3,
+     28.6,
+     30.7,
+     32.3,
+     38.9,
+     33,
+     26.2
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     17.6,
+     9.3,
+     5.8,
+     16.8,
+     29.2,
+     29.2,
+     24.9,
+     23.4,
+     17.1,
+     13.8
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     33.1,
+     36.4,
+     35.8,
+     36.8,
+     56.1,
+     0.9,
+     0,
+     11.6,
+     19.2,
+     16.5
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     33.9,
+     29.7,
+     31.7,
+     32.6,
+     36.2,
+     30.6,
+     31.6,
+     29.9,
+     32.6,
+     32
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     null,
+     3.7,
+     7.7,
+     14.2,
+     23.2,
+     23.2,
+     13.1,
+     25.4,
+     11.1,
+     15.1
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     13.1,
+     12.5,
+     15.4,
+     14.3,
+     23.2,
+     15.9,
+     13.5,
+     15.2,
+     16.6,
+     16.1
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     26,
+     27.9,
+     22.9,
+     25.1,
+     40.2,
+     27.4,
+     32,
+     35.3,
+     33.1,
+     23.1
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     5.7,
+     4.2,
+     3.3,
+     0.9,
+     6.1,
+     8,
+     6.7,
+     2.7,
+     3.9,
+     5.7
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     1.9,
+     4.3,
+     0.2,
+     0.9,
+     9.2,
+     18.4,
+     22.9,
+     21.6,
+     4.4,
+     6.4
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     1.5,
+     0.5,
+     0.6,
+     0.3,
+     14.2,
+     9.3,
+     4.3,
+     0.8,
+     0.3,
+     0.8
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     null,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     13.7,
+     24.9,
+     8.2
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     19.4,
+     16.8,
+     14.1,
+     8.9,
+     16,
+     15.1,
+     18,
+     19.8,
+     20.5,
+     19.3
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     17.3,
+     7.8,
+     8.9,
+     10.2,
+     15.1,
+     11.1,
+     10.9,
+     15.3,
+     14.2,
+     16.7
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     null,
+     0,
+     0,
+     0,
+     5.5,
+     7,
+     7.1,
+     2.5,
+     1.3,
+     2.3
+    ]
+   }
+  ]
+ },
+ {
+  "id": "san_espera_consulta",
+  "pilar": "Sanidad",
+  "nombre": "Espera para la primera consulta con el especialista",
+  "unidad": "días, a 31 de diciembre",
+  "mide": "Días de espera media para la primera cita con un especialista.",
+  "aviso": "Hay saltos fuertes de un año a otro en algunas comunidades sin nota de ruptura del Ministerio, y los niveles muy bajos de algunas pueden deberse a cómo cuentan. Andalucía, partida en 2018.",
+  "fuente": "Ministerio de Sanidad. Sistema de Información sobre Listas de Espera en el SNS (SISLE-SNS), RD 605/2003. Informe semestral \"Situación a 31 de diciembre de AAAA\", tablas \"Distribución por comunidades autónomas\"",
+  "url": "https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/listaEspera.htm",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     72,
+     66,
+     96,
+     88,
+     99,
+     89,
+     95,
+     101,
+     105,
+     102
+    ]
+   },
+   {
+    "ambito": "Andalucía (desde 2018)",
+    "valores": [
+     null,
+     null,
+     176,
+     131,
+     112,
+     105,
+     123,
+     143,
+     150,
+     136
+    ]
+   },
+   {
+    "ambito": "Andalucía (hasta 2017)",
+    "valores": [
+     54,
+     56,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null,
+     null
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     79,
+     91,
+     90,
+     100,
+     147,
+     160,
+     80,
+     106,
+     128,
+     138
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     71,
+     69,
+     62,
+     78,
+     37,
+     79,
+     81,
+     100,
+     97,
+     103
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     49,
+     35,
+     34,
+     39,
+     47,
+     51,
+     64,
+     91,
+     84,
+     71
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     117,
+     123,
+     117,
+     122,
+     134,
+     118,
+     121,
+     149,
+     157,
+     162
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     75,
+     77,
+     67,
+     73,
+     66,
+     70,
+     91,
+     90,
+     77,
+     61
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     59,
+     70,
+     62,
+     66,
+     114,
+     77,
+     95,
+     90,
+     89,
+     102
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     42,
+     46,
+     41,
+     42,
+     51,
+     69,
+     61,
+     60,
+     60,
+     64
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     138,
+     98,
+     91,
+     101,
+     152,
+     93,
+     94,
+     97,
+     110,
+     120
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     38,
+     37,
+     31,
+     39,
+     17,
+     31,
+     44,
+     58,
+     83,
+     72
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     48,
+     51,
+     54,
+     57,
+     97,
+     95,
+     87,
+     93,
+     93,
+     95
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     69,
+     74,
+     68,
+     79,
+     126,
+     64,
+     76,
+     106,
+     125,
+     112
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     47,
+     47,
+     45,
+     42,
+     49,
+     56,
+     66,
+     73,
+     61,
+     63
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     32,
+     51,
+     44,
+     47,
+     40,
+     59,
+     66,
+     54,
+     79,
+     32
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     42,
+     37,
+     39,
+     40,
+     41,
+     56,
+     75,
+     67,
+     72,
+     68
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     21,
+     21,
+     17,
+     18,
+     10,
+     19,
+     21,
+     29,
+     23,
+     16
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     73,
+     64,
+     64,
+     61,
+     72,
+     77,
+     89,
+     110,
+     97,
+     89
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     47,
+     67,
+     62,
+     78,
+     112,
+     109,
+     99,
+     114,
+     154,
+     152
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     27,
+     28,
+     29,
+     29,
+     30,
+     34,
+     48,
+     61,
+     43,
+     49
+    ]
+   }
+  ]
+ },
+ {
+  "id": "san_gasto_pib_ue",
+  "pilar": "Sanidad",
+  "nombre": "Gasto sanitario público frente a la Unión Europea",
+  "unidad": "% del PIB",
+  "mide": "Gasto sanitario público (incluida la Seguridad Social) en proporción a la riqueza del país.",
+  "aviso": "Eurostat mide el gasto corriente sin inversión: no coincide con el dato del Ministerio de Sanidad y no deben mezclarse. La media de la UE aún no tiene 2024.",
+  "fuente": "Eurostat, hlth_sha11_hf (Health care expenditure by financing scheme). Datos de la API de difusión de Eurostat, actualizada 2026-10-01T23:00:00+0200",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/hlth_sha11_hf?format=JSON&lang=EN&geo=ES&geo=EU27_2020&icha11_hf=HF1&icha11_hf=HF11&icha11_hf=TOT_HF&unit=PC_GDP&unit=PPS_HAB&unit=EUR_HAB&sinceTimePeriod=2016",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     6.35,
+     6.27,
+     6.28,
+     6.4,
+     7.78,
+     7.51,
+     7.05,
+     6.75,
+     6.68
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     7.79,
+     7.74,
+     7.73,
+     7.78,
+     8.69,
+     8.7,
+     8.28,
+     7.98,
+     null
+    ]
+   }
+  ]
+ },
+ {
+  "id": "edu_gasto_alumno",
+  "pilar": "Educación",
+  "nombre": "Gasto público por alumno de la enseñanza pública",
+  "unidad": "euros por alumno (corrientes)",
+  "mide": "Lo que gasta la administración por cada alumno de los centros públicos no universitarios.",
+  "aviso": "Euros corrientes, sin descontar la inflación. En 2023 cambia la forma de contar el alumnado de FP. No incluye becas.",
+  "fuente": "Ministerio de Educación, Formación Profesional y Deportes. \"Las cifras de la educación en España. Estadísticas e indicadores\", tabla B4.6 (elaborada a partir de la Estadística del Gasto Público en Educación)",
+  "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2017-2018.html",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     5607,
+     5779,
+     5968,
+     6236,
+     6540,
+     7043,
+     7384,
+     7943
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     4943,
+     5077,
+     5210,
+     5439,
+     5778,
+     6367,
+     6779,
+     7365
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     5917,
+     6213,
+     6485,
+     6521,
+     6680,
+     7128,
+     7452,
+     7824
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     6785,
+     6927,
+     7053,
+     7377,
+     7702,
+     8140,
+     8588,
+     9062
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     6379,
+     6493,
+     6767,
+     7042,
+     6945,
+     7471,
+     8064,
+     8361
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     5514,
+     5903,
+     5853,
+     6063,
+     6612,
+     7322,
+     7700,
+     8431
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     6917,
+     6864,
+     7183,
+     7526,
+     7738,
+     8163,
+     8639,
+     9314
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     6538,
+     6761,
+     6942,
+     7191,
+     7840,
+     8033,
+     8283,
+     8896
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     4988,
+     5255,
+     5594,
+     5988,
+     6165,
+     6652,
+     6827,
+     7306
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     5386,
+     5557,
+     5798,
+     6024,
+     6292,
+     6920,
+     7192,
+     8116
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     5510,
+     5609,
+     5803,
+     6074,
+     6310,
+     6793,
+     7302,
+     6982
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     6341,
+     6539,
+     6846,
+     7253,
+     7402,
+     8020,
+     8253,
+     8875
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     6598,
+     6932,
+     7134,
+     7404,
+     7747,
+     8075,
+     8043,
+     8748
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     6052,
+     6215,
+     6420,
+     6669,
+     7121,
+     7912,
+     8558,
+     8966
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     4591,
+     4727,
+     4892,
+     5144,
+     5607,
+     5886,
+     6039,
+     6502
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     5159,
+     5262,
+     5391,
+     5725,
+     5973,
+     6192,
+     6337,
+     6827
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     7128,
+     7456,
+     7622,
+     7977,
+     8478,
+     8993,
+     9446,
+     9991
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     9054,
+     9298,
+     9415,
+     9944,
+     10214,
+     10984,
+     11880,
+     12484
+    ]
+   }
+  ]
+ },
+ {
+  "id": "edu_abandono",
+  "pilar": "Educación",
+  "nombre": "Abandono temprano de la educación",
+  "unidad": "% de jóvenes de 18 a 24 años",
+  "mide": "Jóvenes de 18 a 24 años que no han terminado la segunda etapa de secundaria (bachillerato o FP) y no siguen formándose.",
+  "aviso": "Sale de la Encuesta de Población Activa: en comunidades pequeñas (Cantabria, La Rioja, Ceuta, Melilla) el margen de error es grande. Eurostat marca una ruptura de serie en 2021.",
+  "fuente": "Ministerio de Educación, FP y Deportes. EDUCAbase, \"Explotación de las variables educativas de la Encuesta de Población Activa (INE)\", tabla aban_1_01 (CCAA y España) y aban_1_11 (intervalos de confianza). UE-27: Eurostat, edat_lfse_14.",
+  "url": "https://estadisticas.educacion.gob.es/EducaDynPx/educabase/index.htm?type=pcaxis&path=/laborales/epa/aban&file=pcaxis&l=s0",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     18.98,
+     18.28,
+     17.95,
+     17.29,
+     16.04,
+     13.32,
+     13.94,
+     13.73,
+     12.98,
+     12.8
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     10.6,
+     10.5,
+     10.5,
+     10.1,
+     10,
+     9.7,
+     9.6,
+     9.6,
+     9.6,
+     9.1
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     23.11,
+     23.49,
+     21.9,
+     21.63,
+     21.84,
+     17.67,
+     15.5,
+     16.86,
+     15.54,
+     14.49
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     19.08,
+     16.35,
+     15.76,
+     14.61,
+     14.24,
+     12.97,
+     12.49,
+     10.76,
+     11.94,
+     12.25
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     16.58,
+     14.75,
+     12.55,
+     12.42,
+     8.94,
+     12.24,
+     11.87,
+     10.46,
+     10.48,
+     10.63
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     26.83,
+     26.55,
+     24.36,
+     24.16,
+     21.3,
+     15.37,
+     17.29,
+     18.03,
+     20.14,
+     15.22
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     18.85,
+     17.55,
+     20.93,
+     20.78,
+     18.22,
+     11.97,
+     12.31,
+     14.74,
+     13.07,
+     15.92
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     8.57,
+     8.91,
+     9.78,
+     12.77,
+     9.13,
+     6.28,
+     8.98,
+     7.28,
+     5.51,
+     8.86
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     17.28,
+     16.67,
+     13.92,
+     14.3,
+     15.41,
+     12.73,
+     10.69,
+     10.34,
+     10.79,
+     10.23
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     23.25,
+     22.06,
+     20.5,
+     20.25,
+     18.68,
+     15.53,
+     16.21,
+     16.64,
+     14.6,
+     15.72
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     18,
+     17.05,
+     17.02,
+     19.02,
+     17.39,
+     14.85,
+     17.49,
+     14.77,
+     13.73,
+     13.47
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     21.52,
+     20.1,
+     23.37,
+     24.71,
+     25.55,
+     14.56,
+     19.5,
+     21.21,
+     14.59,
+     11.65
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     20.16,
+     20.33,
+     20.23,
+     16.43,
+     15.48,
+     13.17,
+     16.03,
+     14.99,
+     12.88,
+     14.39
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     20.42,
+     19.23,
+     20.9,
+     20.5,
+     18.37,
+     14.34,
+     10.64,
+     9.85,
+     13.05,
+     15.03
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     15.2,
+     14.92,
+     14.29,
+     12.58,
+     11.97,
+     8.7,
+     9.89,
+     9.06,
+     10.83,
+     10.42
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     17.78,
+     12.87,
+     17.11,
+     13.94,
+     14.59,
+     13.13,
+     11.76,
+     9.67,
+     17.03,
+     15.53
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     14.61,
+     13.88,
+     14.42,
+     11.86,
+     9.97,
+     9.78,
+     11.21,
+     11.38,
+     10.52,
+     9.57
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     24.38,
+     27.51,
+     29.54,
+     24.12,
+     22.83,
+     null,
+     14.96,
+     20.41,
+     26.02,
+     14.16
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     26.43,
+     23.05,
+     24.06,
+     22.64,
+     18.66,
+     16.63,
+     18.44,
+     19.22,
+     18.22,
+     20.58
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     13.39,
+     11.27,
+     11.38,
+     13.95,
+     10.78,
+     8.44,
+     5.23,
+     6.47,
+     9.94,
+     7.83
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     7.9,
+     7.02,
+     6.94,
+     6.75,
+     6.51,
+     5.31,
+     6.14,
+     6.66,
+     5.02,
+     3.63
+    ]
+   }
+  ]
+ },
+ {
+  "id": "edu_ratio",
+  "pilar": "Educación",
+  "nombre": "Alumnos por profesor en la enseñanza pública",
+  "unidad": "alumnos por profesor (a tiempo completo)",
+  "mide": "Cuántos alumnos hay por cada profesor en los centros públicos.",
+  "aviso": "Es alumnos por profesor, no alumnos por aula: no dice cuántos niños hay en cada clase.",
+  "fuente": "Ministerio de Educación, FP y Deportes. \"Las cifras de la educación en España\", tabla B3.7 (a partir de la Estadística de las Enseñanzas no universitarias)",
+  "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2016-2017.html",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016-2017",
+   "2017-2018",
+   "2018-2019",
+   "2019-2020",
+   "2020-2021",
+   "2021-2022",
+   "2022-2023",
+   "2023-2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     11.53,
+     11.4,
+     11.21,
+     11,
+     10.38,
+     10.29,
+     10.25,
+     10.01
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     12.23,
+     12.52,
+     12.48,
+     11.9,
+     10.87,
+     10.91,
+     10.81,
+     10.82
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     10.5,
+     10.35,
+     10.27,
+     10.08,
+     9.64,
+     9.65,
+     9.64,
+     9.08
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     9.71,
+     9.51,
+     9.42,
+     8.95,
+     8.47,
+     8.55,
+     8.75,
+     8.73
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     10.42,
+     10.5,
+     10.03,
+     9.9,
+     9.68,
+     9.62,
+     9.37,
+     9.11
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     12.19,
+     11.77,
+     11.63,
+     11.11,
+     9.81,
+     9.79,
+     9.65,
+     9.34
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     10.09,
+     9.98,
+     9.54,
+     9.24,
+     9,
+     8.26,
+     8.22,
+     7.98
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     9.61,
+     9.51,
+     9.44,
+     9.41,
+     8.66,
+     8.61,
+     8.67,
+     8.22
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     11.18,
+     10.83,
+     10.63,
+     10.47,
+     9.99,
+     9.93,
+     10.11,
+     10.03
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     12.53,
+     12.08,
+     11.66,
+     11.69,
+     11.56,
+     11.04,
+     10.94,
+     10.69
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     12.55,
+     12.5,
+     12.24,
+     12.08,
+     11.25,
+     10.37,
+     10,
+     9.5
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     11.54,
+     11.24,
+     11.13,
+     10.92,
+     10.76,
+     10.09,
+     10.1,
+     9.65
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     9.61,
+     9.43,
+     9.26,
+     8.9,
+     8.39,
+     8.57,
+     8.52,
+     8.4
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     9.41,
+     9.35,
+     9.33,
+     9.3,
+     8.85,
+     8.92,
+     8.96,
+     8.83
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     11.03,
+     10.91,
+     10.8,
+     10.57,
+     9.59,
+     9.85,
+     9.38,
+     9.76
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     13.56,
+     13.52,
+     13.01,
+     13.07,
+     11.65,
+     12.51,
+     12.45,
+     11.99
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     13.37,
+     13.01,
+     13.29,
+     13.18,
+     11.73,
+     11.51,
+     11.27,
+     10.71
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     11.59,
+     11.53,
+     11.53,
+     11.48,
+     11.09,
+     11.09,
+     11.09,
+     10.52
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     9.73,
+     9.59,
+     9.42,
+     8.95,
+     8.44,
+     8.37,
+     8.48,
+     8.2
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     9.62,
+     9.43,
+     9.22,
+     9.15,
+     8.89,
+     8.56,
+     8.37,
+     8.43
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dep_espera",
+  "pilar": "Dependencia",
+  "nombre": "Personas con derecho a ayuda por dependencia que aún no la reciben",
+  "unidad": "personas, a 31 de diciembre",
+  "mide": "Personas a las que se les ha reconocido la dependencia pero todavía no tienen asignada la prestación o el servicio.",
+  "aviso": "No incluye a quien espera a ser valorado (ver el indicador siguiente). Algunas comunidades resuelven el grado y la prestación a la vez, y en ellas la espera aparece de otra forma. Los datos de 2016 y 2017 se calculan con la misma fórmula del IMSERSO a partir de sus tablas.",
+  "fuente": "IMSERSO (Ministerio de Derechos Sociales, Consumo y Agenda 2030). Información estadística del SISAAD. Hoja EVO_sinPIA (2018-2025); hojas 4dictsaad y 7benpresaad (2016-2017); hoja EVO_sinPIA del fichero a 31-08-2026 para el último dato",
+  "url": "https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual/historico-informes-publicados",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     348309,
+     310120,
+     250037,
+     269854,
+     232243,
+     193436,
+     177423,
+     155241,
+     118333,
+     107327
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     102691,
+     91787,
+     75097,
+     73871,
+     56534,
+     38325,
+     36606,
+     35558,
+     17192,
+     13300
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     12547,
+     7717,
+     6000,
+     6236,
+     4811,
+     2779,
+     1565,
+     186,
+     86,
+     53
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     3703,
+     3415,
+     3524,
+     5794,
+     3064,
+     2063,
+     2778,
+     1346,
+     445,
+     379
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     3963,
+     3609,
+     2811,
+     4317,
+     2454,
+     2514,
+     3293,
+     4117,
+     3750,
+     3846
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     13911,
+     11220,
+     8956,
+     9040,
+     8082,
+     9950,
+     7071,
+     5826,
+     7478,
+     2427
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     4058,
+     4470,
+     4667,
+     3990,
+     3899,
+     1365,
+     873,
+     1583,
+     376,
+     425
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     525,
+     1272,
+     1471,
+     1593,
+     119,
+     186,
+     207,
+     157,
+     151,
+     151
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     23210,
+     11654,
+     7126,
+     5895,
+     4923,
+     3015,
+     2591,
+     2478,
+     2010,
+     1924
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     90673,
+     83203,
+     75141,
+     76253,
+     73386,
+     78542,
+     69770,
+     48470,
+     39755,
+     38335
+    ]
+   },
+   {
+    "ambito": "Ceuta y Melilla",
+    "valores": [
+     110,
+     143,
+     186,
+     148,
+     243,
+     188,
+     251,
+     321,
+     325,
+     391
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     16605,
+     11626,
+     10677,
+     14865,
+     13381,
+     11826,
+     10571,
+     15501,
+     7989,
+     8677
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     10699,
+     9565,
+     4152,
+     7206,
+     5685,
+     5272,
+     6122,
+     5753,
+     3823,
+     4838
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     17393,
+     11858,
+     7804,
+     8456,
+     4923,
+     4018,
+     3271,
+     1893,
+     1256,
+     594
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     2844,
+     3520,
+     3067,
+     3116,
+     3168,
+     3686,
+     1997,
+     1466,
+     1072,
+     809
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     18335,
+     32433,
+     19669,
+     28300,
+     28494,
+     10563,
+     9303,
+     8062,
+     10859,
+     10056
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     6342,
+     5317,
+     4430,
+     6258,
+     4718,
+     5035,
+     6525,
+     7096,
+     6987,
+     7279
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     4332,
+     3037,
+     1465,
+     836,
+     801,
+     1019,
+     768,
+     659,
+     458,
+     609
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     16368,
+     14274,
+     13794,
+     13680,
+     13558,
+     13090,
+     13861,
+     14769,
+     14321,
+     13234
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dep_valoracion",
+  "pilar": "Dependencia",
+  "nombre": "Solicitudes de dependencia pendientes de valoración",
+  "unidad": "solicitudes, a 31 de diciembre",
+  "mide": "Personas que han pedido la ayuda y aún no saben si se les reconoce la dependencia.",
+  "aviso": "Calculado como solicitudes menos resoluciones de grado hasta 2022; desde 2023 lo publica el IMSERSO y coincide con ese cálculo.",
+  "fuente": "IMSERSO (Ministerio de Derechos Sociales, Consumo y Agenda 2030). Información estadística del SISAAD. Hojas EVO_sol y EVO_resol (2018-2025); 4dictsaad (2016-2017); 10pendResol (contraste 2023-2025 y ago-2026)",
+  "url": "https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual/historico-informes-publicados",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     103238,
+     120213,
+     128568,
+     159193,
+     141556,
+     124596,
+     131810,
+     117187,
+     127879,
+     109260
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     25038,
+     28231,
+     34373,
+     49041,
+     44943,
+     39912,
+     47503,
+     28431,
+     32099,
+     14671
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     4659,
+     6907,
+     7590,
+     3509,
+     3227,
+     2674,
+     4202,
+     5545,
+     4663,
+     4097
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     3313,
+     4311,
+     5176,
+     5499,
+     3644,
+     2772,
+     3683,
+     5662,
+     8598,
+     6448
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     1839,
+     1833,
+     2623,
+     1551,
+     1250,
+     2294,
+     3441,
+     2859,
+     2194,
+     3061
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     6507,
+     11546,
+     12984,
+     15252,
+     16059,
+     15714,
+     10214,
+     10193,
+     16501,
+     2472
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     426,
+     512,
+     601,
+     490,
+     524,
+     571,
+     741,
+     799,
+     182,
+     459
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     6982,
+     8207,
+     9012,
+     11499,
+     8547,
+     8307,
+     7712,
+     6410,
+     4219,
+     2653
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     4046,
+     6671,
+     4844,
+     4376,
+     3569,
+     3982,
+     3204,
+     2736,
+     1658,
+     2592
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     21995,
+     23564,
+     26076,
+     26389,
+     21390,
+     22060,
+     24316,
+     25368,
+     30018,
+     43666
+    ]
+   },
+   {
+    "ambito": "Ceuta y Melilla",
+    "valores": [
+     91,
+     119,
+     158,
+     126,
+     186,
+     175,
+     245,
+     193,
+     204,
+     138
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     14779,
+     17852,
+     14735,
+     22860,
+     19609,
+     15074,
+     16823,
+     16623,
+     17029,
+     17635
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     6026,
+     6756,
+     8147,
+     7229,
+     3696,
+     3345,
+     2958,
+     2412,
+     2723,
+     3373
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     1726,
+     1503,
+     457,
+     381,
+     336,
+     251,
+     618,
+     533,
+     52,
+     149
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     84,
+     33,
+     7,
+     5,
+     9,
+     8,
+     6,
+     16,
+     30,
+     6
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     1271,
+     280,
+     172,
+     1751,
+     7174,
+     235,
+     195,
+     196,
+     102,
+     157
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     615,
+     1055,
+     578,
+     7289,
+     6800,
+     6649,
+     5323,
+     8704,
+     7384,
+     7450
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     336,
+     180,
+     453,
+     1417,
+     106,
+     87,
+     58,
+     78,
+     71,
+     84
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     3505,
+     653,
+     582,
+     529,
+     487,
+     486,
+     568,
+     429,
+     152,
+     149
+    ]
+   }
+  ]
+ },
+ {
+  "id": "dep_tiempo",
+  "pilar": "Dependencia",
+  "nombre": "Tiempo desde la solicitud hasta recibir la prestación",
+  "unidad": "días de media",
+  "mide": "Días que pasan de media desde que se pide la ayuda hasta que se asigna la prestación.",
+  "aviso": "El IMSERSO solo publica este dato desde 2023, y solo cuenta a quien ya obtuvo resolución; quien murió esperando no está.",
+  "fuente": "IMSERSO. Información estadística del SISAAD. Hoja 9TiempoEspera (\"9. Tiempo medio de resolución por CCAA\") de los ficheros a 31-12-2023, 31-12-2024, 31-12-2025 y 31-08-2026",
+  "url": "https://imserso.es/documents/20123/3515174/estsisaad_20231231.xlsx",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     324.33,
+     333.66,
+     341.24
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     556.99,
+     602.11,
+     495.79
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     190.34,
+     189.17,
+     140.59
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     304.45,
+     346.3,
+     326.85
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     218.88,
+     247.73,
+     215.45
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     647.28,
+     560.69,
+     430.49
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     173.42,
+     209.54,
+     202.76
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     127.39,
+     118.61,
+     112.74
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     190.84,
+     186.66,
+     164.53
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     281.11,
+     270.99,
+     275.73
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     68.17,
+     58.21,
+     82.49
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     279.31,
+     317.47,
+     299.53
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     309.1,
+     278.83,
+     258.61
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     362.46,
+     386.31,
+     323.84
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     202.79,
+     220.05,
+     174.19
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     288.35,
+     305.9,
+     347.72
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     265.56,
+     266.87,
+     208.15
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     509.25,
+     520.08,
+     558.78
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     178.21,
+     204.3,
+     200.8
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     139.74,
+     127.92,
+     129.14
+    ]
+   }
+  ]
+ },
+ {
+  "id": "viv_precio",
+  "pilar": "Vivienda",
+  "nombre": "Precio de compra de la vivienda",
+  "unidad": "índice (2015 = 100)",
+  "mide": "Cómo evoluciona el precio de compra de la vivienda (nueva y usada). 130 significa un 30% más cara que en 2015.",
+  "aviso": "Es un índice, no euros: compara la evolución, no el precio. El INE cambió a base 2025 en 2026; esta serie llega a 2025.",
+  "fuente": "INE, Índice de Precios de Vivienda (IPV), tabla 25173 'Índices por CCAA: general, vivienda nueva y de segunda mano. Medias anuales' (Base 2015)",
+  "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=25173",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     104.664,
+     111.137,
+     118.595,
+     124.597,
+     127.232,
+     131.928,
+     141.675,
+     147.282,
+     159.656,
+     179.905
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     102.841,
+     106.101,
+     111.371,
+     117.358,
+     120.098,
+     125.598,
+     136.786,
+     143.568,
+     158.471,
+     179.163
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     101.896,
+     104.788,
+     109.837,
+     116.513,
+     119.487,
+     124.019,
+     131.96,
+     137.114,
+     151.038,
+     172.181
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     101.418,
+     102.535,
+     106.123,
+     110.561,
+     114.072,
+     118.807,
+     126.182,
+     130.901,
+     141.097,
+     160.16
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     106.176,
+     114.627,
+     123.185,
+     130.597,
+     135.899,
+     143.803,
+     157.034,
+     163.443,
+     174.244,
+     195.121
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     103.344,
+     107.888,
+     113.276,
+     117.587,
+     118.96,
+     125.792,
+     137.24,
+     144.51,
+     156.095,
+     174.52
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     102.547,
+     106.683,
+     112.938,
+     116.423,
+     117.829,
+     124.303,
+     136.343,
+     143.358,
+     156.313,
+     174.823
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     101.056,
+     102.71,
+     106.921,
+     112.083,
+     114.719,
+     118.8,
+     125.987,
+     129.538,
+     139.706,
+     159.215
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     100.838,
+     101.582,
+     103.975,
+     107.643,
+     109.029,
+     111.669,
+     118.284,
+     120.268,
+     128.032,
+     142.802
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     107.02,
+     117.26,
+     127.548,
+     134.144,
+     136.892,
+     141.623,
+     151.701,
+     157.01,
+     168.592,
+     187.707
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     105.155,
+     112.251,
+     121.766,
+     131.165,
+     136.953,
+     142.035,
+     154.237,
+     162.742,
+     177.567,
+     201.357
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     102.612,
+     105.385,
+     109.676,
+     114.306,
+     116.814,
+     121.866,
+     130.636,
+     135.921,
+     148.233,
+     167.39
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     101.43,
+     101.85,
+     103.737,
+     105.765,
+     106.309,
+     108.771,
+     114.612,
+     116.364,
+     124.857,
+     140.222
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     101.957,
+     103.717,
+     107.673,
+     111.998,
+     114.516,
+     119.78,
+     127.685,
+     132.306,
+     142.155,
+     160.475
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     101.96,
+     104.037,
+     109.157,
+     115.012,
+     117.18,
+     121.331,
+     130.006,
+     133.66,
+     145.982,
+     166.276
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     108.566,
+     121.003,
+     133.325,
+     141.142,
+     143.56,
+     147.206,
+     157.232,
+     163.414,
+     175.952,
+     199.46
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     105.34,
+     110.874,
+     119.512,
+     125.786,
+     131.444,
+     139.775,
+     151.476,
+     159.572,
+     172.359,
+     195.872
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     101.397,
+     102.612,
+     106.14,
+     110.973,
+     114.378,
+     120.327,
+     129.515,
+     132.505,
+     143.767,
+     164.351
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     101.676,
+     103.935,
+     107.557,
+     111.614,
+     113.491,
+     116.689,
+     125.153,
+     132.566,
+     146.359,
+     163.1
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     102.574,
+     107.89,
+     113.748,
+     118.688,
+     121.362,
+     123.882,
+     131.765,
+     136.316,
+     147.897,
+     165.925
+    ]
+   }
+  ]
+ },
+ {
+  "id": "viv_salario",
+  "pilar": "Vivienda",
+  "nombre": "Salario medio anual",
+  "unidad": "euros brutos al año",
+  "mide": "Ganancia media anual por trabajador, para comparar con lo que sube la vivienda.",
+  "aviso": "Es la media, que sube más que la mediana por los salarios altos. Euros corrientes.",
+  "fuente": "INE, Encuesta Anual de Estructura Salarial (EAES), tabla 28191 'Medias y percentiles por sexo y CCAA' (Dato base, Media)",
+  "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=28191",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     23156.34,
+     23646.5,
+     24009.12,
+     24395.98,
+     25165.51,
+     25896.82,
+     26948.87,
+     28049.94,
+     29540.26
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     21268.41,
+     21404.28,
+     21805.92,
+     22060.99,
+     22323.85,
+     23154.99,
+     24094.32,
+     25051.51,
+     26089.7
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     22248.76,
+     23039.94,
+     23531.83,
+     23565.09,
+     24113.57,
+     25011.55,
+     26012.71,
+     26822.32,
+     28061.94
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     23095.83,
+     23609.67,
+     23914.61,
+     24865.89,
+     24527.96,
+     25046.6,
+     26745.93,
+     27916.6,
+     28562.31
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     21478.34,
+     22036.46,
+     22800.87,
+     23325.33,
+     23881.42,
+     24134.73,
+     27145.79,
+     27537,
+     29075.06
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     19749.03,
+     20185.33,
+     20763.48,
+     20861.14,
+     21631.17,
+     22466.23,
+     23096.92,
+     24033.57,
+     25120.38
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     22063.02,
+     22390.4,
+     22554.83,
+     23347.52,
+     23495.12,
+     24470.7,
+     25291.14,
+     26568.7,
+     27097.17
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     21551.57,
+     21846.88,
+     22034.53,
+     22061.44,
+     22948.76,
+     23564.33,
+     24186.89,
+     25227.03,
+     26177.28
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     20825.87,
+     21033.32,
+     21756.38,
+     21908.92,
+     22575.01,
+     23234.55,
+     23751.71,
+     24885.63,
+     26062.05
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     24454.64,
+     25180.45,
+     25552.84,
+     25968.2,
+     27100.11,
+     28145.02,
+     28774.55,
+     29978.69,
+     31730.05
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     21168.81,
+     21362.39,
+     22121.05,
+     22045.66,
+     22856.7,
+     23448.29,
+     24510.34,
+     25632.37,
+     26816.98
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     19475.2,
+     19672.4,
+     19947.8,
+     19940.68,
+     20479.3,
+     21393.01,
+     21922.73,
+     23684.22,
+     24979.44
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     21082.12,
+     21605.88,
+     22244.59,
+     22177.4,
+     22834.66,
+     23305.86,
+     24169.68,
+     25279.15,
+     26547.27
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     21999.02,
+     22234.21,
+     22641.17,
+     22877.13,
+     23292.63,
+     23716.88,
+     24903.38,
+     26319.06,
+     27855.4
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     26330.14,
+     27089.12,
+     27010.93,
+     27817.76,
+     28829.06,
+     29512.58,
+     31230.73,
+     32219.6,
+     34410.01
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     21242.5,
+     21309.22,
+     21510.59,
+     22123.99,
+     22919.62,
+     23281.39,
+     23851.69,
+     25329.87,
+     26349.36
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     25468.38,
+     26329.79,
+     26364.75,
+     27493.93,
+     27995.96,
+     28459.37,
+     29189.52,
+     31199.66,
+     32605.28
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     27480.71,
+     28204.49,
+     28470.94,
+     29476.21,
+     30224.16,
+     31063.68,
+     32313.73,
+     33504.92,
+     35170.28
+    ]
+   }
+  ]
+ },
+ {
+  "id": "viv_alquiler",
+  "pilar": "Vivienda",
+  "nombre": "Precio del alquiler",
+  "unidad": "índice (2015 = 100)",
+  "mide": "Cómo evoluciona el precio del alquiler de las mismas viviendas.",
+  "aviso": "Estadística experimental del INE a partir de datos de Hacienda: no incluye Navarra ni el País Vasco y llega a 2024. El Ministerio de Vivienda (SERPAVI), con otra metodología, da subidas mayores en algunas comunidades: no se deben mezclar.",
+  "fuente": "INE, Índice de Precios de Vivienda en Alquiler (IPVA), tabla 59056 'Índices nacionales y por comunidades autónomas: general y por tipo de edificación'",
+  "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=59056",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     101.681,
+     103.528,
+     106.247,
+     109.999,
+     110.942,
+     112.694,
+     115.684,
+     118.727,
+     122.92
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     101.957,
+     103.593,
+     105.957,
+     109.594,
+     110.374,
+     112.471,
+     115.57,
+     118.53,
+     123.029
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     101.027,
+     102.2,
+     104.198,
+     107.388,
+     108.538,
+     110.742,
+     113.566,
+     116.212,
+     119.907
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     101.202,
+     102.187,
+     103.399,
+     105.52,
+     106.446,
+     107.998,
+     109.909,
+     111.921,
+     114.919
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     102.167,
+     105.011,
+     109.221,
+     113.469,
+     113.259,
+     115.745,
+     120.007,
+     123.906,
+     128.808
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     101.982,
+     104.312,
+     107.05,
+     110.732,
+     110.986,
+     112.979,
+     116.327,
+     119.54,
+     124.014
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     101.771,
+     103.032,
+     104.36,
+     106.722,
+     107.702,
+     109.83,
+     112.429,
+     115.126,
+     118.981
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     101.464,
+     102.536,
+     103.967,
+     106.224,
+     107.006,
+     108.862,
+     111.038,
+     113.231,
+     116.655
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     101.469,
+     102.895,
+     104.8,
+     108.392,
+     110.105,
+     112.728,
+     115.736,
+     118.784,
+     123.071
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     101.712,
+     103.913,
+     107.312,
+     111.172,
+     112.364,
+     113.876,
+     116.791,
+     119.854,
+     123.561
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     102.235,
+     102.59,
+     103.849,
+     105.424,
+     105.383,
+     106.884,
+     107.679,
+     108.542,
+     110.191
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     101.675,
+     103.417,
+     105.974,
+     110.086,
+     111.732,
+     114.679,
+     118.716,
+     123.021,
+     129.196
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     101.526,
+     102.577,
+     103.902,
+     106.391,
+     107.38,
+     109.235,
+     111.716,
+     114.087,
+     117.849
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     100.787,
+     101.691,
+     102.851,
+     105.496,
+     106.732,
+     108.885,
+     111.654,
+     114.303,
+     118.206
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     101.604,
+     103.018,
+     104.596,
+     107.508,
+     108.712,
+     110.651,
+     113.42,
+     115.998,
+     119.62
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     101.755,
+     103.653,
+     106.485,
+     110.717,
+     111.433,
+     112.539,
+     115.294,
+     118.178,
+     122.246
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     101.022,
+     101.872,
+     103.199,
+     104.31,
+     105.09,
+     105.804,
+     107.011,
+     107.428,
+     108.771
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     101.493,
+     102.814,
+     104.953,
+     108.057,
+     109.418,
+     111.978,
+     114.904,
+     117.657,
+     121.613
+    ]
+   }
+  ]
+ },
+ {
+  "id": "viv_anos_renta",
+  "pilar": "Vivienda",
+  "nombre": "Años de renta para comprar una vivienda",
+  "unidad": "años de renta bruta del hogar (4.º trimestre)",
+  "mide": "Cuántos años de ingresos de un hogar cuesta una vivienda media.",
+  "aviso": "Indicador del Banco de España, solo para el conjunto de España. Se muestra el cuarto trimestre de cada año.",
+  "fuente": "Banco de España, Indicadores económicos / Síntesis de indicadores, cuadro SI_1_5 'Edificación y vivienda', serie D_TKB57110_IPV (alias SI_1_5.43)",
+  "url": "https://app.bde.es/bierest/resources/srdatosapp/listaSeries?idioma=es&series=D_TKB57110_IPV&rango=MAX",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     6.69,
+     6.83,
+     6.96,
+     6.8,
+     7.11,
+     7.26,
+     7.36,
+     6.97,
+     7.18,
+     7.86
+    ]
+   }
+  ]
+ },
+ {
+  "id": "viv_protegida",
+  "pilar": "Vivienda",
+  "nombre": "Viviendas protegidas terminadas",
+  "unidad": "calificaciones definitivas al año",
+  "mide": "Viviendas protegidas (VPO) terminadas cada año, de planes estatales y autonómicos.",
+  "aviso": "Canarias no dio datos de 2024. Cuenta viviendas terminadas, no iniciadas.",
+  "fuente": "MIVAU, Boletín Estadístico Online, capítulo 31 'Vivienda protegida', tabla 1.6 (código 31306000) 'Número de calificaciones definitivas. Planes estatales y planes autonómicos', serie anual",
+  "url": "https://apps.fomento.gob.es/BoletinOnline2/?nivel=2&orden=31000000",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     7118,
+     4938,
+     5191,
+     7248,
+     9973,
+     10637,
+     9610,
+     8847,
+     14371,
+     12858
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     727,
+     13,
+     86,
+     633,
+     935,
+     1070,
+     496,
+     673,
+     1574,
+     2265
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     386,
+     234,
+     55,
+     93,
+     33,
+     152,
+     233,
+     222,
+     211,
+     406
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     0,
+     48,
+     35,
+     129,
+     42,
+     20,
+     170,
+     310,
+     87,
+     121
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     14,
+     0,
+     0,
+     18,
+     9,
+     0,
+     230,
+     234,
+     236,
+     87
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     88,
+     56,
+     0,
+     60,
+     0,
+     0,
+     208,
+     0,
+     null,
+     0
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     102,
+     20,
+     0,
+     0,
+     32,
+     96,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     4,
+     90,
+     0,
+     0,
+     276,
+     0,
+     0,
+     176,
+     494,
+     240
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     64,
+     165,
+     198,
+     313,
+     269,
+     295,
+     283,
+     653,
+     159,
+     222
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     634,
+     1358,
+     633,
+     945,
+     1223,
+     1529,
+     1723,
+     2243,
+     1893,
+     3517
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     126,
+     250,
+     110,
+     191,
+     306,
+     485,
+     636,
+     274,
+     742,
+     407
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     171,
+     216,
+     171,
+     132,
+     183,
+     320,
+     254,
+     278,
+     48,
+     164
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     139,
+     12,
+     8,
+     4,
+     313,
+     155,
+     103,
+     18,
+     5,
+     166
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     0,
+     0,
+     0,
+     0,
+     0,
+     5,
+     0,
+     24,
+     0,
+     0
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     2695,
+     1815,
+     2418,
+     3059,
+     5167,
+     5014,
+     3466,
+     2291,
+     6689,
+     3802
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     0,
+     42,
+     0,
+     0,
+     21,
+     0,
+     0,
+     0,
+     0,
+     0
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     23,
+     42,
+     30,
+     0,
+     44,
+     37,
+     0,
+     83,
+     0,
+     0
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     349,
+     192,
+     588,
+     327,
+     558,
+     360,
+     243,
+     446,
+     277,
+     277
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     1596,
+     385,
+     859,
+     1344,
+     562,
+     1099,
+     1565,
+     922,
+     1956,
+     1184
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pob_arope",
+  "pilar": "Pobreza y energía",
+  "nombre": "Población en riesgo de pobreza o exclusión (AROPE)",
+  "unidad": "% de la población",
+  "mide": "Personas con ingresos bajos, con carencias materiales graves o en hogares con muy poco empleo.",
+  "aviso": "Encuesta del INE: en comunidades pequeñas el margen de error es grande. El año es el de la encuesta; los ingresos son del año anterior.",
+  "fuente": "INE, Encuesta de Condiciones de Vida (ECV), tabla 60264 'Riesgo de pobreza o exclusión social (objetivo Europa 2030) y sus componentes por CCAA' (Base 2013)",
+  "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=60264",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     28.8,
+     27.5,
+     27.3,
+     26.2,
+     27,
+     27.8,
+     26,
+     26.5,
+     25.8,
+     25.7
+    ]
+   },
+   {
+    "ambito": "Andalucía",
+    "valores": [
+     43.1,
+     39,
+     41.7,
+     39.3,
+     36.9,
+     38.7,
+     35.8,
+     37.5,
+     35.6,
+     34.7
+    ]
+   },
+   {
+    "ambito": "Aragón",
+    "valores": [
+     18.7,
+     16.2,
+     17.8,
+     20.5,
+     18.8,
+     20,
+     19.1,
+     20.4,
+     21,
+     19.1
+    ]
+   },
+   {
+    "ambito": "Asturias",
+    "valores": [
+     19.2,
+     17.8,
+     21.8,
+     25,
+     27.2,
+     26.3,
+     25.3,
+     25,
+     20.9,
+     22.4
+    ]
+   },
+   {
+    "ambito": "Baleares",
+    "valores": [
+     21.5,
+     25.2,
+     17.3,
+     16.5,
+     20,
+     22.4,
+     21.5,
+     20.6,
+     16.2,
+     15.2
+    ]
+   },
+   {
+    "ambito": "Canarias",
+    "valores": [
+     47,
+     39.9,
+     39.2,
+     38.3,
+     39.1,
+     37.8,
+     36.2,
+     33.8,
+     31.2,
+     31.2
+    ]
+   },
+   {
+    "ambito": "Cantabria",
+    "valores": [
+     25.2,
+     20.5,
+     24.4,
+     19.8,
+     24.3,
+     21.4,
+     19.5,
+     22,
+     22.2,
+     19.2
+    ]
+   },
+   {
+    "ambito": "Castilla y León",
+    "valores": [
+     22.4,
+     19.2,
+     19.8,
+     16.8,
+     19.4,
+     23.1,
+     22.1,
+     22.4,
+     24,
+     24.1
+    ]
+   },
+   {
+    "ambito": "Castilla-La Mancha",
+    "valores": [
+     37.7,
+     34.9,
+     33.4,
+     31,
+     30.7,
+     32.5,
+     31.6,
+     31.7,
+     34.2,
+     34
+    ]
+   },
+   {
+    "ambito": "Cataluña",
+    "valores": [
+     19.5,
+     20.2,
+     18.9,
+     18.8,
+     23.2,
+     22.3,
+     20.4,
+     21.2,
+     20.5,
+     21.3
+    ]
+   },
+   {
+    "ambito": "Ceuta",
+    "valores": [
+     43,
+     46.9,
+     48.9,
+     49,
+     38.8,
+     43,
+     40.7,
+     41.8,
+     42.2,
+     40.8
+    ]
+   },
+   {
+    "ambito": "Comunitat Valenciana",
+    "valores": [
+     30.9,
+     31.9,
+     30.7,
+     28.2,
+     29.7,
+     30.6,
+     27.5,
+     29.6,
+     29.9,
+     30.7
+    ]
+   },
+   {
+    "ambito": "Extremadura",
+    "valores": [
+     35.9,
+     44.9,
+     43.7,
+     36.9,
+     38,
+     38.7,
+     36.9,
+     32.8,
+     32.4,
+     30.4
+    ]
+   },
+   {
+    "ambito": "Galicia",
+    "valores": [
+     25.3,
+     23,
+     24.1,
+     24.2,
+     25.3,
+     25.2,
+     23.6,
+     25.5,
+     18.8,
+     22.1
+    ]
+   },
+   {
+    "ambito": "La Rioja",
+    "valores": [
+     17.2,
+     13.9,
+     19.1,
+     15.8,
+     20,
+     21.3,
+     20.9,
+     21.8,
+     22.6,
+     22.8
+    ]
+   },
+   {
+    "ambito": "Madrid",
+    "valores": [
+     23,
+     21.7,
+     20.9,
+     20.2,
+     21.2,
+     21.6,
+     20.3,
+     19.4,
+     20.9,
+     19.4
+    ]
+   },
+   {
+    "ambito": "Melilla",
+    "valores": [
+     28.1,
+     30.2,
+     23.5,
+     39.7,
+     41.1,
+     35.2,
+     41.3,
+     36.7,
+     44.5,
+     43.7
+    ]
+   },
+   {
+    "ambito": "Murcia",
+    "valores": [
+     35.5,
+     35.6,
+     33.2,
+     33.4,
+     30.2,
+     33.8,
+     31,
+     30.5,
+     32.4,
+     32.5
+    ]
+   },
+   {
+    "ambito": "Navarra",
+    "valores": [
+     14.5,
+     13.2,
+     13.1,
+     12.4,
+     12.3,
+     14.7,
+     14.5,
+     17.2,
+     18.3,
+     16.5
+    ]
+   },
+   {
+    "ambito": "País Vasco",
+    "valores": [
+     15.9,
+     15,
+     12.2,
+     15,
+     13.6,
+     16,
+     15.7,
+     15.5,
+     14.8,
+     14.7
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pob_arope_ue",
+  "pilar": "Pobreza y energía",
+  "nombre": "Riesgo de pobreza o exclusión frente a la Unión Europea",
+  "unidad": "% de la población",
+  "mide": "La misma tasa AROPE, comparada con la media de la UE.",
+  "aviso": "Definición europea de 2021 aplicada a toda la serie.",
+  "fuente": "Eurostat, ilc_peps01n 'Persons at risk of poverty or social exclusion by age and sex'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_peps01n?format=JSON&lang=EN&geo=ES&geo=EU27_2020&age=TOTAL&sex=T&unit=PC&sinceTimePeriod=2016",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     28.8,
+     27.5,
+     27.3,
+     26.2,
+     27,
+     27.8,
+     26,
+     26.5,
+     25.8,
+     25.7
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     23.7,
+     22.4,
+     21.7,
+     21.1,
+     21.5,
+     21.7,
+     21.6,
+     21.3,
+     21,
+     20.9
+    ]
+   }
+  ]
+ },
+ {
+  "id": "pob_temperatura",
+  "pilar": "Pobreza y energía",
+  "nombre": "Hogares que no pueden mantener la casa a una temperatura adecuada",
+  "unidad": "% de la población",
+  "mide": "Uno de los indicadores de pobreza energética.",
+  "aviso": "Eurostat y el INE difieren en una décima algunos años.",
+  "fuente": "Eurostat, ilc_mdes01 'Inability to keep home adequately warm - EU-SILC survey'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes01?format=JSON&lang=EN&geo=ES&geo=EU27_2020&hhcomp=TOTAL&rskpovth=TOTAL&unit=PC&sinceTimePeriod=2016",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     10.1,
+     8,
+     9.1,
+     7.5,
+     10.9,
+     14.2,
+     17.1,
+     20.8,
+     17.5,
+     15.9
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     9,
+     8.1,
+     7.6,
+     6.9,
+     7.5,
+     6.9,
+     9.3,
+     10.6,
+     9.2,
+     8.8
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ene_luz",
+  "pilar": "Pobreza y energía",
+  "nombre": "Precio de la luz para los hogares",
+  "unidad": "euros por kWh con impuestos (2.º semestre)",
+  "mide": "Lo que paga un hogar medio (2.500 a 5.000 kWh al año) por cada kWh, con todos los impuestos.",
+  "aviso": "Se muestra el segundo semestre de cada año. Eurostat también publica el primer semestre.",
+  "fuente": "Eurostat, nrg_pc_204 'Electricity prices for household consumers - bi-annual data (from 2007 onwards)'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_204?format=JSON&lang=EN&geo=ES&geo=EU27_2020&nrg_cons=KWH2500-4999&unit=KWH&tax=I_TAX&currency=EUR&sinceTimePeriod=2016-S1",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     0.2284,
+     0.2177,
+     0.2477,
+     0.2394,
+     0.2298,
+     0.2816,
+     0.335,
+     0.2347,
+     0.2408,
+     0.2669
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     0.2069,
+     0.2089,
+     0.2152,
+     0.2169,
+     0.2153,
+     0.2415,
+     0.2768,
+     0.2847,
+     0.2887,
+     0.2896
+    ]
+   }
+  ]
+ },
+ {
+  "id": "ene_gas",
+  "pilar": "Pobreza y energía",
+  "nombre": "Precio del gas para los hogares",
+  "unidad": "euros por kWh con impuestos (2.º semestre)",
+  "mide": "Lo que paga un hogar medio con calefacción de gas por cada kWh, con todos los impuestos.",
+  "aviso": "Se muestra el segundo semestre de cada año.",
+  "fuente": "Eurostat, nrg_pc_202 'Gas prices for household consumers - bi-annual data (from 2007 onwards)'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_202?format=JSON&lang=EN&geo=ES&geo=EU27_2020&nrg_cons=GJ20-199&unit=KWH&tax=I_TAX&currency=EUR&sinceTimePeriod=2016-S1",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024",
+   "2025"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     0.0857,
+     0.0865,
+     0.0875,
+     0.1021,
+     0.089,
+     0.1082,
+     0.1574,
+     0.101,
+     0.0901,
+     0.0955
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     0.0675,
+     0.0682,
+     0.0719,
+     0.0728,
+     0.0701,
+     0.0784,
+     0.1125,
+     0.1141,
+     0.1244,
+     0.1228
+    ]
+   }
+  ]
+ },
+ {
+  "id": "imp_presion",
+  "pilar": "Impuestos y gasto",
+  "nombre": "Presión fiscal",
+  "unidad": "impuestos y cotizaciones, % del PIB",
+  "mide": "Lo que recaudan las administraciones en impuestos y cotizaciones sociales en proporción a la riqueza del país.",
+  "aviso": "No dice quién paga ni cuánto paga cada uno: es la recaudación total.",
+  "fuente": "Eurostat, gov_10a_taxag 'Main national accounts tax aggregates'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=ES&geo=EU27_2020&na_item=D2_D5_D91_D61_M_D995&sector=S13_S212&unit=PC_GDP&sinceTimePeriod=2016",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     34.1,
+     34.4,
+     35.2,
+     35.2,
+     37.3,
+     38.1,
+     37.4,
+     37.1,
+     37.3
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     41,
+     41,
+     41.1,
+     41,
+     41.1,
+     41.2,
+     40.7,
+     39.9,
+     40.3
+    ]
+   }
+  ]
+ },
+ {
+  "id": "imp_proteccion",
+  "pilar": "Impuestos y gasto",
+  "nombre": "Gasto público en protección social",
+  "unidad": "% del PIB",
+  "mide": "Pensiones, desempleo, dependencia, familia y otras prestaciones sociales.",
+  "aviso": "España 2024 es provisional.",
+  "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     16.9,
+     16.6,
+     16.8,
+     17.3,
+     21.9,
+     20.1,
+     18.3,
+     18.5,
+     18.7
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     19.6,
+     19.3,
+     19.1,
+     19.2,
+     21.7,
+     20.2,
+     19.3,
+     19.1,
+     19.6
+    ]
+   }
+  ]
+ },
+ {
+  "id": "imp_sanidad",
+  "pilar": "Impuestos y gasto",
+  "nombre": "Gasto público en sanidad (cuentas públicas)",
+  "unidad": "% del PIB",
+  "mide": "Gasto de todas las administraciones en sanidad según las cuentas públicas.",
+  "aviso": "Clasificación de las cuentas públicas (COFOG): no coincide exactamente con el indicador de sanidad de Eurostat ni con el del Ministerio.",
+  "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     6,
+     5.9,
+     6,
+     6.1,
+     7.6,
+     7.2,
+     6.8,
+     6.6,
+     6.5
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     7,
+     6.9,
+     6.9,
+     7,
+     8,
+     8,
+     7.5,
+     7.2,
+     7.3
+    ]
+   }
+  ]
+ },
+ {
+  "id": "imp_educacion",
+  "pilar": "Impuestos y gasto",
+  "nombre": "Gasto público en educación",
+  "unidad": "% del PIB",
+  "mide": "Gasto de todas las administraciones en educación.",
+  "aviso": "España 2024 es provisional.",
+  "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     4,
+     4,
+     3.9,
+     4,
+     4.6,
+     4.5,
+     4.3,
+     4.2,
+     4.1
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     4.7,
+     4.6,
+     4.6,
+     4.6,
+     4.9,
+     4.7,
+     4.6,
+     4.7,
+     4.7
+    ]
+   }
+  ]
+ },
+ {
+  "id": "imp_vivienda",
+  "pilar": "Impuestos y gasto",
+  "nombre": "Gasto público en vivienda",
+  "unidad": "% del PIB",
+  "mide": "Gasto en promoción y desarrollo de vivienda (no incluye las ayudas al alquiler, que van en protección social).",
+  "aviso": "España 2024 es provisional.",
+  "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
+  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+  "consulta": "2026-10-06",
+  "periodos": [
+   "2016",
+   "2017",
+   "2018",
+   "2019",
+   "2020",
+   "2021",
+   "2022",
+   "2023",
+   "2024"
+  ],
+  "filas": [
+   {
+    "ambito": "España",
+    "valores": [
+     0.1,
+     0.1,
+     0.1,
+     0.2,
+     0.2,
+     0.2,
+     0.2,
+     0.2,
+     0.2
+    ]
+   },
+   {
+    "ambito": "UE-27",
+    "valores": [
+     0.2,
+     0.2,
+     0.2,
+     0.2,
+     0.2,
+     0.4,
+     0.5,
+     0.7,
+     0.2
+    ]
+   }
+  ]
+ }
+]

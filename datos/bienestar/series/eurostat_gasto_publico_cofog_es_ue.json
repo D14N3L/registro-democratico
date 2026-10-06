@@ -1,0 +1,198 @@
+{
+ "id": "eurostat_gasto_publico_cofog_es_ue",
+ "nombre": "Gasto público por funciones (COFOG) en % del PIB, España vs UE-27",
+ "unidad": "% del PIB",
+ "definicion": "Gasto total (TE) de las Administraciones Públicas (S13) por función COFOG: total, sanidad (GF07), educación (GF09), protección social (GF10) y su subfunción vivienda (GF1006, ayudas a hogares para costes de vivienda), y vivienda y servicios comunitarios (GF06) con su subfunción desarrollo de la vivienda (GF0601).",
+ "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+ "actualizado_fuente": "2026-09-16T23:00:00+0200",
+ "notas": [
+  "Último año publicado: 2024 (España con flag 'p', provisional).",
+  "Valores con un decimal en % del PIB: las partidas de vivienda son tan pequeñas que el redondeo pesa (España GF1006 sale 0,0).",
+  "La 'vivienda' del encargo se recoge de dos formas porque COFOG la reparte: GF1006 (prestaciones de vivienda a hogares, dentro de protección social) y GF0601 (promoción y desarrollo de vivienda).",
+  "Claves de 'valores': 'ámbito | función'."
+ ],
+ "flags": {
+  "España | Vivienda y servicios comunitarios 2024": "p",
+  "España | Vivienda y servicios comunitarios: desarrollo de la vivienda 2024": "p",
+  "España | Sanidad 2024": "p",
+  "España | Educación 2024": "p",
+  "España | Protección social 2024": "p",
+  "España | Protección social: vivienda (ayudas a hogares) 2024": "p",
+  "España | Gasto público total 2024": "p"
+ },
+ "valores": {
+  "España | Educación": {
+   "2016": 4.0,
+   "2017": 4.0,
+   "2018": 3.9,
+   "2019": 4.0,
+   "2020": 4.6,
+   "2021": 4.5,
+   "2022": 4.3,
+   "2023": 4.2,
+   "2024": 4.1
+  },
+  "España | Gasto público total": {
+   "2016": 42.1,
+   "2017": 41.0,
+   "2018": 41.5,
+   "2019": 42.0,
+   "2020": 51.4,
+   "2021": 49.5,
+   "2022": 46.3,
+   "2023": 45.4,
+   "2024": 45.5
+  },
+  "España | Protección social": {
+   "2016": 16.9,
+   "2017": 16.6,
+   "2018": 16.8,
+   "2019": 17.3,
+   "2020": 21.9,
+   "2021": 20.1,
+   "2022": 18.3,
+   "2023": 18.5,
+   "2024": 18.7
+  },
+  "España | Protección social: vivienda (ayudas a hogares)": {
+   "2016": 0.0,
+   "2017": 0.0,
+   "2018": 0.0,
+   "2019": 0.0,
+   "2020": 0.0,
+   "2021": 0.0,
+   "2022": 0.0,
+   "2023": 0.0,
+   "2024": 0.0
+  },
+  "España | Sanidad": {
+   "2016": 6.0,
+   "2017": 5.9,
+   "2018": 6.0,
+   "2019": 6.1,
+   "2020": 7.6,
+   "2021": 7.2,
+   "2022": 6.8,
+   "2023": 6.6,
+   "2024": 6.5
+  },
+  "España | Vivienda y servicios comunitarios": {
+   "2016": 0.4,
+   "2017": 0.4,
+   "2018": 0.4,
+   "2019": 0.4,
+   "2020": 0.5,
+   "2021": 0.5,
+   "2022": 0.5,
+   "2023": 0.5,
+   "2024": 0.5
+  },
+  "España | Vivienda y servicios comunitarios: desarrollo de la vivienda": {
+   "2016": 0.1,
+   "2017": 0.1,
+   "2018": 0.1,
+   "2019": 0.2,
+   "2020": 0.2,
+   "2021": 0.2,
+   "2022": 0.2,
+   "2023": 0.2,
+   "2024": 0.2
+  },
+  "UE-27 | Educación": {
+   "2016": 4.7,
+   "2017": 4.6,
+   "2018": 4.6,
+   "2019": 4.6,
+   "2020": 4.9,
+   "2021": 4.7,
+   "2022": 4.6,
+   "2023": 4.7,
+   "2024": 4.7
+  },
+  "UE-27 | Gasto público total": {
+   "2016": 47.5,
+   "2017": 46.9,
+   "2018": 46.6,
+   "2019": 46.6,
+   "2020": 52.8,
+   "2021": 51.1,
+   "2022": 49.1,
+   "2023": 48.8,
+   "2024": 48.9
+  },
+  "UE-27 | Protección social": {
+   "2016": 19.6,
+   "2017": 19.3,
+   "2018": 19.1,
+   "2019": 19.2,
+   "2020": 21.7,
+   "2021": 20.2,
+   "2022": 19.3,
+   "2023": 19.1,
+   "2024": 19.6
+  },
+  "UE-27 | Protección social: vivienda (ayudas a hogares)": {
+   "2016": 0.4,
+   "2017": 0.4,
+   "2018": 0.3,
+   "2019": 0.3,
+   "2020": 0.4,
+   "2021": 0.4,
+   "2022": 0.3,
+   "2023": 0.4,
+   "2024": 0.4
+  },
+  "UE-27 | Sanidad": {
+   "2016": 7.0,
+   "2017": 6.9,
+   "2018": 6.9,
+   "2019": 7.0,
+   "2020": 8.0,
+   "2021": 8.0,
+   "2022": 7.5,
+   "2023": 7.2,
+   "2024": 7.3
+  },
+  "UE-27 | Vivienda y servicios comunitarios": {
+   "2016": 0.6,
+   "2017": 0.5,
+   "2018": 0.6,
+   "2019": 0.6,
+   "2020": 0.6,
+   "2021": 0.8,
+   "2022": 1.0,
+   "2023": 1.2,
+   "2024": 0.7
+  },
+  "UE-27 | Vivienda y servicios comunitarios: desarrollo de la vivienda": {
+   "2016": 0.2,
+   "2017": 0.2,
+   "2018": 0.2,
+   "2019": 0.2,
+   "2020": 0.2,
+   "2021": 0.4,
+   "2022": 0.5,
+   "2023": 0.7,
+   "2024": 0.2
+  }
+ },
+ "fecha_consulta": "2026-10-06",
+ "periodos": "2016 – 2024",
+ "ambitos": [
+  "España | Educación",
+  "España | Gasto público total",
+  "España | Protección social",
+  "España | Protección social: vivienda (ayudas a hogares)",
+  "España | Sanidad",
+  "España | Vivienda y servicios comunitarios",
+  "España | Vivienda y servicios comunitarios: desarrollo de la vivienda",
+  "UE-27 | Educación",
+  "UE-27 | Gasto público total",
+  "UE-27 | Protección social",
+  "UE-27 | Protección social: vivienda (ayudas a hogares)",
+  "UE-27 | Sanidad",
+  "UE-27 | Vivienda y servicios comunitarios",
+  "UE-27 | Vivienda y servicios comunitarios: desarrollo de la vivienda"
+ ]
+}

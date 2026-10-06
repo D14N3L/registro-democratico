@@ -1,0 +1,69 @@
+{
+ "id": "eurostat_precio_electricidad_hogares_es_ue",
+ "nombre": "Precio de la electricidad para hogares, consumo 2.500-4.999 kWh/año, todos los impuestos incluidos, España vs UE-27",
+ "unidad": "euros/kWh",
+ "definicion": "Precio medio semestral de la electricidad para consumidores domésticos de la banda DC (2.500-4.999 kWh anuales), con todos los impuestos y gravámenes (I_TAX).",
+ "fuente": "Eurostat, nrg_pc_204 'Electricity prices for household consumers - bi-annual data (from 2007 onwards)'",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_204?format=JSON&lang=EN&geo=ES&geo=EU27_2020&nrg_cons=KWH2500-4999&unit=KWH&tax=I_TAX&currency=EUR&sinceTimePeriod=2016-S1",
+ "actualizado_fuente": "2026-10-05T23:00:00+0200",
+ "notas": [
+  "Banda DC, la de referencia habitual de Eurostat para hogares.",
+  "Media UE-27 ponderada por consumo (Eurostat).",
+  "España incluye el efecto de las rebajas de IVA e impuesto eléctrico de 2021-2024 y del 'tope al gas' (mecanismo ibérico, jun 2022-dic 2023) en la medida en que se reflejan en la factura del consumidor; Eurostat no lo desglosa en esta serie.",
+  "2026-S1 publicado para España pero aún no para la UE-27 a 6-oct-2026."
+ ],
+ "flags": {},
+ "valores": {
+  "España": {
+   "2016-S1": 0.2185,
+   "2016-S2": 0.2284,
+   "2017-S1": 0.2296,
+   "2017-S2": 0.2177,
+   "2018-S1": 0.2383,
+   "2018-S2": 0.2477,
+   "2019-S1": 0.2403,
+   "2019-S2": 0.2394,
+   "2020-S1": 0.2239,
+   "2020-S2": 0.2298,
+   "2021-S1": 0.2323,
+   "2021-S2": 0.2816,
+   "2022-S1": 0.3071,
+   "2022-S2": 0.335,
+   "2023-S1": 0.2454,
+   "2023-S2": 0.2347,
+   "2024-S1": 0.2436,
+   "2024-S2": 0.2408,
+   "2025-S1": 0.2612,
+   "2025-S2": 0.2669,
+   "2026-S1": 0.2509
+  },
+  "UE-27": {
+   "2016-S1": 0.2051,
+   "2016-S2": 0.2069,
+   "2017-S1": 0.2089,
+   "2017-S2": 0.2089,
+   "2018-S1": 0.2103,
+   "2018-S2": 0.2152,
+   "2019-S1": 0.2168,
+   "2019-S2": 0.2169,
+   "2020-S1": 0.2139,
+   "2020-S2": 0.2153,
+   "2021-S1": 0.2203,
+   "2021-S2": 0.2415,
+   "2022-S1": 0.249,
+   "2022-S2": 0.2768,
+   "2023-S1": 0.2887,
+   "2023-S2": 0.2847,
+   "2024-S1": 0.2916,
+   "2024-S2": 0.2887,
+   "2025-S1": 0.2879,
+   "2025-S2": 0.2896
+  }
+ },
+ "fecha_consulta": "2026-10-06",
+ "periodos": "2016-S1 – 2026-S1",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}

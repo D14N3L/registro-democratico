@@ -1,0 +1,445 @@
+{
+ "id": "edu_gasto_por_alumno_publica",
+ "nombre": "Gasto público por alumno en enseñanza pública no universitaria, por comunidad autónoma",
+ "unidad": "euros corrientes por alumno",
+ "definicion": "Gasto público por alumno público en enseñanzas no universitarias del sistema educativo (excluida la formación ocupacional); alumnado transformado en equivalente a tiempo completo según la metodología de la estadística internacional. Se incluye aparte, como referencia, el \"gasto público por alumno público y concertado\".",
+ "fuente": {
+  "organismo": "Ministerio de Educación, Formación Profesional y Deportes. \"Las cifras de la educación en España. Estadísticas e indicadores\", tabla B4.6 (elaborada a partir de la Estadística del Gasto Público en Educación)",
+  "edicion_por_anio": {
+   "2016": "Edición 2020 (curso 2017-2018)",
+   "2017": "Edición 2021 (curso 2018-2019)",
+   "2018": "Edición 2022 (curso 2019-2020)",
+   "2019": "Edición 2023 (curso 2020-2021)",
+   "2020": "Edición 2024 (curso 2021-2022)",
+   "2021": "Edición 2025 (curso 2022-2023)",
+   "2022": "Edición 2025 (curso 2022-2023)",
+   "2023": "Edición 2026 (curso 2023-2024)"
+  }
+ },
+ "urls": {
+  "2016": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2017-2018.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:fafeb4b7-f0ca-4ddf-9f93-5649ffecf4e9/b4-xlsx.xlsx"
+  },
+  "2017": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2018-2019.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:a705b212-a1ff-4ae5-b1fe-98f06be7eddd/b4-xlsx.xlsx"
+  },
+  "2018": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2019-2020.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:e1a53897-1760-4010-8315-1669df1dd5c7/b4-xlsx.xlsx"
+  },
+  "2019": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2020-2021.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:c1c2ad7c-b7f6-4863-be40-f39e988523c8/b4-xlsx.xlsx"
+  },
+  "2020": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2021-2022.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:3485da30-be0e-4aa0-a40a-bb2c48143897/b4.xlsx"
+  },
+  "2021": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2022-2023.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:28924dbd-6d20-4cf3-b1d2-3bce9aeb9613/b4.xlsx"
+  },
+  "2022": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2022-2023.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:28924dbd-6d20-4cf3-b1d2-3bce9aeb9613/b4.xlsx"
+  },
+  "2023": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2023-2024.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:5d6ffa47-ff10-48d7-af1d-a43245a562cf/b4.xlsx"
+  }
+ },
+ "fecha_consulta": "2026-10-06",
+ "anios": [
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020",
+  "2021",
+  "2022",
+  "2023"
+ ],
+ "notas_metodologicas": [
+  "Cada año se toma de la edición más reciente que lo publica (cada edición da dos años; los años solapados coinciden exactamente entre ediciones, comprobado para 2016-2022).",
+  "Euros corrientes (sin deflactar).",
+  "RUPTURA 2023: la edición 2026 avisa de que para 2023 se revisó el cálculo del equivalente a tiempo completo del alumnado de FP presencial, lo que debe tenerse en cuenta al comparar con años anteriores. Esa edición solo publica 2023 (no recalcula 2022).",
+  "Sin Ceuta ni Melilla (gestión directa del Ministerio; la tabla no las incluye).",
+  "Metodología (nota de la tabla B4, ed. 2026): metodología OCDE; incluye todo el gasto público en educación realizado en la comunidad salvo becas, sea cual sea la administración que lo financie (también administraciones no educativas y cotizaciones sociales imputadas repartidas territorialmente); excluye capítulos financieros y FP para el empleo acreditable; el alumnado de un año es la ponderación de dos cursos (2023 = cursos 2022-23 y 2023-24) en equivalente a tiempo completo. Para pasar a \"por alumno público\" se descuentan conciertos y subvenciones a la privada concertada y se usa solo alumnado de centros públicos.",
+  "La propia nota avisa de factores que influyen y no se recogen: dispersión geográfica, distribución del alumnado entre niveles y peso de la oferta pública y privada.",
+  "Último año publicado: 2023 (la estadística de gasto 2024 es provisional y aún no figura por alumno en Las cifras)."
+ ],
+ "valores": {
+  "Andalucía": {
+   "2016": 4943,
+   "2017": 5077,
+   "2018": 5210,
+   "2019": 5439,
+   "2020": 5778,
+   "2021": 6367,
+   "2022": 6779,
+   "2023": 7365
+  },
+  "Aragón": {
+   "2016": 5917,
+   "2017": 6213,
+   "2018": 6485,
+   "2019": 6521,
+   "2020": 6680,
+   "2021": 7128,
+   "2022": 7452,
+   "2023": 7824
+  },
+  "Asturias": {
+   "2016": 6785,
+   "2017": 6927,
+   "2018": 7053,
+   "2019": 7377,
+   "2020": 7702,
+   "2021": 8140,
+   "2022": 8588,
+   "2023": 9062
+  },
+  "Baleares": {
+   "2016": 6379,
+   "2017": 6493,
+   "2018": 6767,
+   "2019": 7042,
+   "2020": 6945,
+   "2021": 7471,
+   "2022": 8064,
+   "2023": 8361
+  },
+  "Canarias": {
+   "2016": 5514,
+   "2017": 5903,
+   "2018": 5853,
+   "2019": 6063,
+   "2020": 6612,
+   "2021": 7322,
+   "2022": 7700,
+   "2023": 8431
+  },
+  "Cantabria": {
+   "2016": 6917,
+   "2017": 6864,
+   "2018": 7183,
+   "2019": 7526,
+   "2020": 7738,
+   "2021": 8163,
+   "2022": 8639,
+   "2023": 9314
+  },
+  "Castilla y León": {
+   "2016": 6538,
+   "2017": 6761,
+   "2018": 6942,
+   "2019": 7191,
+   "2020": 7840,
+   "2021": 8033,
+   "2022": 8283,
+   "2023": 8896
+  },
+  "Castilla-La Mancha": {
+   "2016": 4988,
+   "2017": 5255,
+   "2018": 5594,
+   "2019": 5988,
+   "2020": 6165,
+   "2021": 6652,
+   "2022": 6827,
+   "2023": 7306
+  },
+  "Cataluña": {
+   "2016": 5386,
+   "2017": 5557,
+   "2018": 5798,
+   "2019": 6024,
+   "2020": 6292,
+   "2021": 6920,
+   "2022": 7192,
+   "2023": 8116
+  },
+  "Comunitat Valenciana": {
+   "2016": 5510,
+   "2017": 5609,
+   "2018": 5803,
+   "2019": 6074,
+   "2020": 6310,
+   "2021": 6793,
+   "2022": 7302,
+   "2023": 6982
+  },
+  "Extremadura": {
+   "2016": 6341,
+   "2017": 6539,
+   "2018": 6846,
+   "2019": 7253,
+   "2020": 7402,
+   "2021": 8020,
+   "2022": 8253,
+   "2023": 8875
+  },
+  "Galicia": {
+   "2016": 6598,
+   "2017": 6932,
+   "2018": 7134,
+   "2019": 7404,
+   "2020": 7747,
+   "2021": 8075,
+   "2022": 8043,
+   "2023": 8748
+  },
+  "Madrid": {
+   "2016": 4591,
+   "2017": 4727,
+   "2018": 4892,
+   "2019": 5144,
+   "2020": 5607,
+   "2021": 5886,
+   "2022": 6039,
+   "2023": 6502
+  },
+  "Murcia": {
+   "2016": 5159,
+   "2017": 5262,
+   "2018": 5391,
+   "2019": 5725,
+   "2020": 5973,
+   "2021": 6192,
+   "2022": 6337,
+   "2023": 6827
+  },
+  "Navarra": {
+   "2016": 7128,
+   "2017": 7456,
+   "2018": 7622,
+   "2019": 7977,
+   "2020": 8478,
+   "2021": 8993,
+   "2022": 9446,
+   "2023": 9991
+  },
+  "País Vasco": {
+   "2016": 9054,
+   "2017": 9298,
+   "2018": 9415,
+   "2019": 9944,
+   "2020": 10214,
+   "2021": 10984,
+   "2022": 11880,
+   "2023": 12484
+  },
+  "La Rioja": {
+   "2016": 6052,
+   "2017": 6215,
+   "2018": 6420,
+   "2019": 6669,
+   "2020": 7121,
+   "2021": 7912,
+   "2022": 8558,
+   "2023": 8966
+  },
+  "Total España": {
+   "2016": 5607,
+   "2017": 5779,
+   "2018": 5968,
+   "2019": 6236,
+   "2020": 6540,
+   "2021": 7043,
+   "2022": 7384,
+   "2023": 7943
+  }
+ },
+ "referencia_gasto_por_alumno_publico_y_concertado": {
+  "Andalucía": {
+   "2016": 4419,
+   "2017": 4536,
+   "2018": 4617,
+   "2019": 4800,
+   "2020": 5090,
+   "2021": 5665,
+   "2022": 6002,
+   "2023": 6487
+  },
+  "Aragón": {
+   "2016": 5131,
+   "2017": 5318,
+   "2018": 5536,
+   "2019": 5689,
+   "2020": 5843,
+   "2021": 6146,
+   "2022": 6430,
+   "2023": 6833
+  },
+  "Asturias": {
+   "2016": 5814,
+   "2017": 5936,
+   "2018": 6032,
+   "2019": 6295,
+   "2020": 6587,
+   "2021": 6962,
+   "2022": 7320,
+   "2023": 7743
+  },
+  "Baleares": {
+   "2016": 5328,
+   "2017": 5465,
+   "2018": 5672,
+   "2019": 5902,
+   "2020": 6011,
+   "2021": 6455,
+   "2022": 6797,
+   "2023": 7047
+  },
+  "Canarias": {
+   "2016": 4991,
+   "2017": 5281,
+   "2018": 5238,
+   "2019": 5495,
+   "2020": 5994,
+   "2021": 6635,
+   "2022": 6983,
+   "2023": 7624
+  },
+  "Cantabria": {
+   "2016": 5934,
+   "2017": 5915,
+   "2018": 6154,
+   "2019": 6443,
+   "2020": 6652,
+   "2021": 7074,
+   "2022": 7532,
+   "2023": 8079
+  },
+  "Castilla y León": {
+   "2016": 5529,
+   "2017": 5654,
+   "2018": 5833,
+   "2019": 5974,
+   "2020": 6445,
+   "2021": 6644,
+   "2022": 6833,
+   "2023": 7281
+  },
+  "Castilla-La Mancha": {
+   "2016": 4619,
+   "2017": 4859,
+   "2018": 5151,
+   "2019": 5508,
+   "2020": 5683,
+   "2021": 6123,
+   "2022": 6303,
+   "2023": 6742
+  },
+  "Cataluña": {
+   "2016": 4721,
+   "2017": 4868,
+   "2018": 5042,
+   "2019": 5250,
+   "2020": 5531,
+   "2021": 6060,
+   "2022": 6290,
+   "2023": 6950
+  },
+  "Comunitat Valenciana": {
+   "2016": 4819,
+   "2017": 4944,
+   "2018": 5127,
+   "2019": 5362,
+   "2020": 5543,
+   "2021": 5962,
+   "2022": 6407,
+   "2023": 6210
+  },
+  "Extremadura": {
+   "2016": 5678,
+   "2017": 5856,
+   "2018": 6124,
+   "2019": 6481,
+   "2020": 6613,
+   "2021": 7170,
+   "2022": 7390,
+   "2023": 7937
+  },
+  "Galicia": {
+   "2016": 5699,
+   "2017": 5985,
+   "2018": 6151,
+   "2019": 6386,
+   "2020": 6714,
+   "2021": 7046,
+   "2022": 7076,
+   "2023": 7605
+  },
+  "Madrid": {
+   "2016": 3945,
+   "2017": 4039,
+   "2018": 4159,
+   "2019": 4399,
+   "2020": 4745,
+   "2021": 5030,
+   "2022": 5146,
+   "2023": 5534
+  },
+  "Murcia": {
+   "2016": 4613,
+   "2017": 4674,
+   "2018": 4838,
+   "2019": 5083,
+   "2020": 5331,
+   "2021": 5477,
+   "2022": 5625,
+   "2023": 6088
+  },
+  "Navarra": {
+   "2016": 5829,
+   "2017": 6035,
+   "2018": 6173,
+   "2019": 6477,
+   "2020": 6920,
+   "2021": 7375,
+   "2022": 7759,
+   "2023": 8192
+  },
+  "País Vasco": {
+   "2016": 6502,
+   "2017": 6601,
+   "2018": 6720,
+   "2019": 7071,
+   "2020": 7329,
+   "2021": 7857,
+   "2022": 8351,
+   "2023": 8946
+  },
+  "La Rioja": {
+   "2016": 5149,
+   "2017": 5257,
+   "2018": 5430,
+   "2019": 5631,
+   "2020": 5982,
+   "2021": 6588,
+   "2022": 7056,
+   "2023": 7294
+  },
+  "Total España": {
+   "2016": 4879,
+   "2017": 5014,
+   "2018": 5163,
+   "2019": 5395,
+   "2020": 5667,
+   "2021": 6113,
+   "2022": 6392,
+   "2023": 6851
+  }
+ },
+ "comprobacion_valores_al_azar": {
+  "fecha": "2026-10-06",
+  "resultados": [
+   "Baleares 2016 = 6.379 y Castilla-La Mancha 2017 = 5.255: PDF b4 edición 2020 OK",
+   "Asturias 2020 = 7.702: PDF b4 edición 2023 OK",
+   "Años solapados entre ediciones idénticos (2016-2022)"
+  ]
+ }
+}

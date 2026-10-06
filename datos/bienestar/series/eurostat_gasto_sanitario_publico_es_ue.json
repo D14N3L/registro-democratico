@@ -1,0 +1,169 @@
+{
+ "id": "eurostat_gasto_sanitario_publico_es_ue",
+ "nombre": "Gasto sanitario público (regímenes de las AA.PP. y seguros obligatorios, HF1): España vs media UE-27",
+ "unidad": "% del PIB; PPS por habitante; euros por habitante",
+ "definicion": "Eurostat, System of Health Accounts (SHA 2011), dataset hlth_sha11_hf \"Health care expenditure by financing scheme\". Gasto público = HF1 \"Government schemes and compulsory contributory health care financing schemes\" (regímenes de la administración pública + seguros sociales obligatorios). Se incluye también HF11 (solo regímenes de la administración) y TOT_HF (gasto total, público + privado) como referencia. Gasto corriente en atención sanitaria (excluye inversión, HK).",
+ "fuente": "Eurostat, hlth_sha11_hf (Health care expenditure by financing scheme). Datos de la API de difusión de Eurostat, actualizada 2026-10-01T23:00:00+0200",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/hlth_sha11_hf?format=JSON&lang=EN&geo=ES&geo=EU27_2020&icha11_hf=HF1&icha11_hf=HF11&icha11_hf=TOT_HF&unit=PC_GDP&unit=PPS_HAB&unit=EUR_HAB&sinceTimePeriod=2016",
+ "url_dataset": "https://ec.europa.eu/eurostat/databrowser/view/hlth_sha11_hf/default/table",
+ "fecha_consulta": "2026-10-06",
+ "anios": "España 2016-2024; UE-27 (EU27_2020) 2016-2023",
+ "notas": [
+  "Definición distinta a la EGSP del Ministerio: el SHA mide gasto CORRIENTE (sin gasto de capital) y con criterios de clasificación internacionales; por eso las cifras de España no coinciden con la EGSP (p. ej. 2024 EGSP 2.084 €/hab frente a Eurostat HF1 2.179,09 €/hab). No mezclar ambas fuentes en la misma serie.",
+  "UE-27: agregado EU27_2020 calculado por Eurostat; último año disponible 2023 (a 6-oct-2026). España: último año 2024.",
+  "En la UE-27 los valores en PPS por habitante y euros por habitante coinciden por construcción (la media UE es la base de la PPS).",
+  "Marcas de estado de Eurostat en estado_eurostat (p = provisional, e = estimado, b = rotura de serie, d = definición distinta).",
+  "HF1 en España se compone en su mayor parte de HF11 (regímenes de la administración; 2024: 6,35 de 6,68 puntos de PIB), porque el SNS se financia por impuestos; en otros países de la UE el peso de los seguros sociales obligatorios (HF12) es mayor. Por eso para comparar España con la UE se usa HF1, no HF11."
+ ],
+ "valores": {
+  "pct_pib_HF1": {
+   "EU27_2020": {
+    "2016": 7.79,
+    "2017": 7.74,
+    "2018": 7.73,
+    "2019": 7.78,
+    "2020": 8.69,
+    "2021": 8.7,
+    "2022": 8.28,
+    "2023": 7.98
+   },
+   "ES": {
+    "2016": 6.35,
+    "2017": 6.27,
+    "2018": 6.28,
+    "2019": 6.4,
+    "2020": 7.78,
+    "2021": 7.51,
+    "2022": 7.05,
+    "2023": 6.75,
+    "2024": 6.68
+   }
+  },
+  "pps_por_habitante_HF1": {
+   "EU27_2020": {
+    "2016": 2216.88,
+    "2017": 2290.88,
+    "2018": 2364.49,
+    "2019": 2459.89,
+    "2020": 2644.18,
+    "2021": 2887.8,
+    "2022": 2995.86,
+    "2023": 3069.39
+   },
+   "ES": {
+    "2016": 1596.54,
+    "2017": 1648.97,
+    "2018": 1680.1,
+    "2019": 1766.79,
+    "2020": 1873.97,
+    "2021": 2052.08,
+    "2022": 2174.27,
+    "2023": 2316,
+    "2024": 2397.79
+   }
+  },
+  "euros_por_habitante_HF1": {
+   "EU27_2020": {
+    "2016": 2216.88,
+    "2017": 2290.88,
+    "2018": 2364.49,
+    "2019": 2459.89,
+    "2020": 2644.18,
+    "2021": 2887.8,
+    "2022": 2995.86,
+    "2023": 3069.39
+   },
+   "ES": {
+    "2016": 1536.1,
+    "2017": 1574.7,
+    "2018": 1626.27,
+    "2019": 1702.63,
+    "2020": 1855.44,
+    "2021": 1955.94,
+    "2022": 2029.46,
+    "2023": 2091.04,
+    "2024": 2179.09
+   }
+  },
+  "referencia_pct_pib_HF11": {
+   "EU27_2020": {
+    "2016": 2.82,
+    "2017": 2.77,
+    "2018": 2.75,
+    "2019": 2.74,
+    "2020": 3.23,
+    "2021": 3.28,
+    "2022": 3.07,
+    "2023": 2.78
+   },
+   "ES": {
+    "2016": 5.97,
+    "2017": 5.9,
+    "2018": 5.9,
+    "2019": 6.03,
+    "2020": 7.38,
+    "2021": 7.14,
+    "2022": 6.7,
+    "2023": 6.41,
+    "2024": 6.35
+   }
+  },
+  "referencia_pct_pib_total_publico_y_privado": {
+   "EU27_2020": {
+    "2016": 9.87,
+    "2017": 9.81,
+    "2018": 9.79,
+    "2019": 9.84,
+    "2020": 10.76,
+    "2021": 10.79,
+    "2022": 10.26,
+    "2023": 9.94
+   },
+   "ES": {
+    "2016": 9.01,
+    "2017": 9.02,
+    "2018": 9.07,
+    "2019": 9.22,
+    "2020": 10.79,
+    "2021": 10.34,
+    "2022": 9.66,
+    "2023": 9.22,
+    "2024": 9.25
+   }
+  },
+  "referencia_pps_por_habitante_total": {
+   "EU27_2020": {
+    "2016": 2808.55,
+    "2017": 2904.76,
+    "2018": 2995.38,
+    "2019": 3112.15,
+    "2020": 3273.49,
+    "2021": 3578.9,
+    "2022": 3711.34,
+    "2023": 3826.21
+   },
+   "ES": {
+    "2016": 2264.4,
+    "2017": 2373.47,
+    "2018": 2428.46,
+    "2019": 2544.39,
+    "2020": 2599.56,
+    "2021": 2826.11,
+    "2022": 2981.09,
+    "2023": 3164.64,
+    "2024": 3318.68
+   }
+  }
+ },
+ "estado_eurostat": {
+  "EUR_HAB|HF1|ES|2022": "p",
+  "EUR_HAB|HF11|EU27_2020|2022": "p",
+  "EUR_HAB|HF11|ES|2022": "p",
+  "PPS_HAB|HF1|ES|2022": "p",
+  "PPS_HAB|HF11|EU27_2020|2022": "p",
+  "PPS_HAB|HF11|ES|2022": "p",
+  "PC_GDP|HF1|ES|2022": "p",
+  "PC_GDP|HF11|EU27_2020|2022": "p",
+  "PC_GDP|HF11|ES|2022": "p"
+ }
+}

@@ -1,0 +1,51 @@
+{
+ "id": "eurostat_no_temperatura_adecuada_es_ue",
+ "nombre": "Población que no puede mantener la vivienda a temperatura adecuada, España vs UE-27",
+ "unidad": "% de la población",
+ "definicion": "Inability to keep home adequately warm, total población (todos los tipos de hogar, todos los niveles de renta).",
+ "fuente": "Eurostat, ilc_mdes01 'Inability to keep home adequately warm - EU-SILC survey'",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes01?format=JSON&lang=EN&geo=ES&geo=EU27_2020&hhcomp=TOTAL&rskpovth=TOTAL&unit=PC&sinceTimePeriod=2016",
+ "actualizado_fuente": "2026-09-17T23:00:00+0200",
+ "notas": [
+  "El dataset ya no tiene la dimensión 'incgrp' citada en el encargo; ahora usa hhcomp y rskpovth (TOTAL/TOTAL).",
+  "UE-27 2016-2018 con flag 'e' (estimado por Eurostat).",
+  "España: misma encuesta que INE ECV tabla 9972, pero Eurostat da a veces 0,1 puntos de diferencia (2019: 7,5 vs 7,6 INE; 2021: 14,2 vs 14,3; 2023: 20,8 vs 20,7; 2024: 17,5 vs 17,6). Para comparar con la UE usar esta serie; para comunidades, la del INE."
+ ],
+ "flags": {
+  "UE-27 2016": "e",
+  "UE-27 2017": "e",
+  "UE-27 2018": "e"
+ },
+ "valores": {
+  "España": {
+   "2016": 10.1,
+   "2017": 8.0,
+   "2018": 9.1,
+   "2019": 7.5,
+   "2020": 10.9,
+   "2021": 14.2,
+   "2022": 17.1,
+   "2023": 20.8,
+   "2024": 17.5,
+   "2025": 15.9
+  },
+  "UE-27": {
+   "2016": 9.0,
+   "2017": 8.1,
+   "2018": 7.6,
+   "2019": 6.9,
+   "2020": 7.5,
+   "2021": 6.9,
+   "2022": 9.3,
+   "2023": 10.6,
+   "2024": 9.2,
+   "2025": 8.8
+  }
+ },
+ "fecha_consulta": "2026-10-06",
+ "periodos": "2016 – 2025",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}

@@ -1,0 +1,45 @@
+{
+ "id": "eurostat_presion_fiscal_es_ue",
+ "nombre": "Presión fiscal: impuestos y cotizaciones sociales netas en % del PIB, España vs UE-27",
+ "unidad": "% del PIB",
+ "definicion": "Total de ingresos por impuestos y cotizaciones sociales netas (D2+D5+D91+D61 menos D995, importes fijados pero de cobro improbable), recibidos por las AAPP y las instituciones de la UE (S13_S212), en % del PIB.",
+ "fuente": "Eurostat, gov_10a_taxag 'Main national accounts tax aggregates'",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=ES&geo=EU27_2020&na_item=D2_D5_D91_D61_M_D995&sector=S13_S212&unit=PC_GDP&sinceTimePeriod=2016",
+ "actualizado_fuente": "2026-07-21T11:00:00+0200",
+ "notas": [
+  "Último año publicado: 2024 (2025 aún no a 6-oct-2026).",
+  "Indicador estándar de 'tax-to-GDP ratio' de Eurostat.",
+  "El cociente depende también del PIB: en 2020 la caída del PIB elevó la ratio."
+ ],
+ "flags": {},
+ "valores": {
+  "España": {
+   "2016": 34.1,
+   "2017": 34.4,
+   "2018": 35.2,
+   "2019": 35.2,
+   "2020": 37.3,
+   "2021": 38.1,
+   "2022": 37.4,
+   "2023": 37.1,
+   "2024": 37.3
+  },
+  "UE-27": {
+   "2016": 41.0,
+   "2017": 41.0,
+   "2018": 41.1,
+   "2019": 41.0,
+   "2020": 41.1,
+   "2021": 41.2,
+   "2022": 40.7,
+   "2023": 39.9,
+   "2024": 40.3
+  }
+ },
+ "fecha_consulta": "2026-10-06",
+ "periodos": "2016 – 2024",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}

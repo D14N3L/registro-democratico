@@ -1,0 +1,270 @@
+{
+ "id": "edu_alumnos_por_profesor_publica",
+ "nombre": "Número medio de alumnos por profesor (equivalente a tiempo completo) en centros públicos, enseñanzas de Régimen General no universitarias",
+ "unidad": "alumnos por profesor ETC",
+ "definicion": "Cociente entre alumnado y profesorado de los centros públicos de enseñanzas de Régimen General no universitarias, con alumnado y profesorado a tiempo parcial convertidos a equivalente a tiempo completo (columna TOTAL de todos los tipos de centro, bloque \"Centros públicos\").",
+ "fuente": {
+  "organismo": "Ministerio de Educación, FP y Deportes. \"Las cifras de la educación en España\", tabla B3.7 (a partir de la Estadística de las Enseñanzas no universitarias)"
+ },
+ "urls": {
+  "2016-2017": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2016-2017.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:60d85862-3332-4584-a875-7fe23ba6a698/b3-xlsx.xlsx"
+  },
+  "2017-2018": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2017-2018.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:304b44a1-4142-440b-8e7b-708f5d1c5a42/b3-xlsx.xlsx"
+  },
+  "2018-2019": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2018-2019.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:0b1404ac-35f1-415b-bdd3-c780e51f4ae0/b3-xlsx.xlsx"
+  },
+  "2019-2020": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2019-2020.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:0326e836-9e8a-4106-9b3c-e043bd37e890/b3-xlsx.xlsx"
+  },
+  "2020-2021": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2020-2021.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:de2002d5-a86e-4640-9bae-870553ef9ae4/b3-xlsx.xlsx"
+  },
+  "2021-2022": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2021-2022.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:d958b810-36b8-463d-97a4-6e08af5686cd/b3.xlsx"
+  },
+  "2022-2023": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2022-2023.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:2d8b2fd5-c14e-4dea-a7fe-abb7662f7bdd/b3.xlsx"
+  },
+  "2023-2024": {
+   "pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2023-2024.html",
+   "xlsx": "https://www.educacionfpydeportes.gob.es/dam/jcr:77d10fd5-7028-4c0a-8bea-9ad1f052125c/b3.xlsx"
+  }
+ },
+ "fecha_consulta": "2026-10-06",
+ "anios": [
+  "2016-2017",
+  "2017-2018",
+  "2018-2019",
+  "2019-2020",
+  "2020-2021",
+  "2021-2022",
+  "2022-2023",
+  "2023-2024"
+ ],
+ "notas_metodologicas": [
+  "Clave = curso escolar (el de cada edición; comprobado en los PDF: \"CURSO 2016-17\" … \"CURSO 2023-24\").",
+  "Es ratio alumnos/profesor, no alumnos por unidad (aula). La serie oficial de alumnos por unidad existe por enseñanza (Cifras D1-D4) pero no se ha descargado aquí.",
+  "La publicación (PDF) da 1 decimal; aquí 2 decimales del xlsx. Redondeado a 2 decimales; en las ediciones 2019-2023 el xlsx guarda los valores con formato de fecha y se han convertido a número de serie de Excel (p. ej. 11,5).",
+  "País Vasco: sin centros extranjeros. Incluye Ceuta y Melilla.",
+  "Incluye todo el alumnado de cada centro (también de otras enseñanzas que se impartan en él), según la nota metodológica de la tabla."
+ ],
+ "valores": {
+  "Andalucía": {
+   "2016-2017": 12.23,
+   "2017-2018": 12.52,
+   "2018-2019": 12.48,
+   "2019-2020": 11.9,
+   "2020-2021": 10.87,
+   "2021-2022": 10.91,
+   "2022-2023": 10.81,
+   "2023-2024": 10.82
+  },
+  "Aragón": {
+   "2016-2017": 10.5,
+   "2017-2018": 10.35,
+   "2018-2019": 10.27,
+   "2019-2020": 10.08,
+   "2020-2021": 9.64,
+   "2021-2022": 9.65,
+   "2022-2023": 9.64,
+   "2023-2024": 9.08
+  },
+  "Asturias": {
+   "2016-2017": 9.71,
+   "2017-2018": 9.51,
+   "2018-2019": 9.42,
+   "2019-2020": 8.95,
+   "2020-2021": 8.47,
+   "2021-2022": 8.55,
+   "2022-2023": 8.75,
+   "2023-2024": 8.73
+  },
+  "Baleares": {
+   "2016-2017": 10.42,
+   "2017-2018": 10.5,
+   "2018-2019": 10.03,
+   "2019-2020": 9.9,
+   "2020-2021": 9.68,
+   "2021-2022": 9.62,
+   "2022-2023": 9.37,
+   "2023-2024": 9.11
+  },
+  "Canarias": {
+   "2016-2017": 12.19,
+   "2017-2018": 11.77,
+   "2018-2019": 11.63,
+   "2019-2020": 11.11,
+   "2020-2021": 9.81,
+   "2021-2022": 9.79,
+   "2022-2023": 9.65,
+   "2023-2024": 9.34
+  },
+  "Cantabria": {
+   "2016-2017": 10.09,
+   "2017-2018": 9.98,
+   "2018-2019": 9.54,
+   "2019-2020": 9.24,
+   "2020-2021": 9.0,
+   "2021-2022": 8.26,
+   "2022-2023": 8.22,
+   "2023-2024": 7.98
+  },
+  "Castilla y León": {
+   "2016-2017": 9.61,
+   "2017-2018": 9.51,
+   "2018-2019": 9.44,
+   "2019-2020": 9.41,
+   "2020-2021": 8.66,
+   "2021-2022": 8.61,
+   "2022-2023": 8.67,
+   "2023-2024": 8.22
+  },
+  "Castilla-La Mancha": {
+   "2016-2017": 11.18,
+   "2017-2018": 10.83,
+   "2018-2019": 10.63,
+   "2019-2020": 10.47,
+   "2020-2021": 9.99,
+   "2021-2022": 9.93,
+   "2022-2023": 10.11,
+   "2023-2024": 10.03
+  },
+  "Cataluña": {
+   "2016-2017": 12.53,
+   "2017-2018": 12.08,
+   "2018-2019": 11.66,
+   "2019-2020": 11.69,
+   "2020-2021": 11.56,
+   "2021-2022": 11.04,
+   "2022-2023": 10.94,
+   "2023-2024": 10.69
+  },
+  "Comunitat Valenciana": {
+   "2016-2017": 11.54,
+   "2017-2018": 11.24,
+   "2018-2019": 11.13,
+   "2019-2020": 10.92,
+   "2020-2021": 10.76,
+   "2021-2022": 10.09,
+   "2022-2023": 10.1,
+   "2023-2024": 9.65
+  },
+  "Extremadura": {
+   "2016-2017": 9.61,
+   "2017-2018": 9.43,
+   "2018-2019": 9.26,
+   "2019-2020": 8.9,
+   "2020-2021": 8.39,
+   "2021-2022": 8.57,
+   "2022-2023": 8.52,
+   "2023-2024": 8.4
+  },
+  "Galicia": {
+   "2016-2017": 9.41,
+   "2017-2018": 9.35,
+   "2018-2019": 9.33,
+   "2019-2020": 9.3,
+   "2020-2021": 8.85,
+   "2021-2022": 8.92,
+   "2022-2023": 8.96,
+   "2023-2024": 8.83
+  },
+  "Madrid": {
+   "2016-2017": 13.56,
+   "2017-2018": 13.52,
+   "2018-2019": 13.01,
+   "2019-2020": 13.07,
+   "2020-2021": 11.65,
+   "2021-2022": 12.51,
+   "2022-2023": 12.45,
+   "2023-2024": 11.99
+  },
+  "Murcia": {
+   "2016-2017": 11.59,
+   "2017-2018": 11.53,
+   "2018-2019": 11.53,
+   "2019-2020": 11.48,
+   "2020-2021": 11.09,
+   "2021-2022": 11.09,
+   "2022-2023": 11.09,
+   "2023-2024": 10.52
+  },
+  "Navarra": {
+   "2016-2017": 9.73,
+   "2017-2018": 9.59,
+   "2018-2019": 9.42,
+   "2019-2020": 8.95,
+   "2020-2021": 8.44,
+   "2021-2022": 8.37,
+   "2022-2023": 8.48,
+   "2023-2024": 8.2
+  },
+  "País Vasco": {
+   "2016-2017": 9.62,
+   "2017-2018": 9.43,
+   "2018-2019": 9.22,
+   "2019-2020": 9.15,
+   "2020-2021": 8.89,
+   "2021-2022": 8.56,
+   "2022-2023": 8.37,
+   "2023-2024": 8.43
+  },
+  "La Rioja": {
+   "2016-2017": 11.03,
+   "2017-2018": 10.91,
+   "2018-2019": 10.8,
+   "2019-2020": 10.57,
+   "2020-2021": 9.59,
+   "2021-2022": 9.85,
+   "2022-2023": 9.38,
+   "2023-2024": 9.76
+  },
+  "Ceuta": {
+   "2016-2017": 12.55,
+   "2017-2018": 12.5,
+   "2018-2019": 12.24,
+   "2019-2020": 12.08,
+   "2020-2021": 11.25,
+   "2021-2022": 10.37,
+   "2022-2023": 10.0,
+   "2023-2024": 9.5
+  },
+  "Melilla": {
+   "2016-2017": 13.37,
+   "2017-2018": 13.01,
+   "2018-2019": 13.29,
+   "2019-2020": 13.18,
+   "2020-2021": 11.73,
+   "2021-2022": 11.51,
+   "2022-2023": 11.27,
+   "2023-2024": 10.71
+  },
+  "Total España": {
+   "2016-2017": 11.53,
+   "2017-2018": 11.4,
+   "2018-2019": 11.21,
+   "2019-2020": 11.0,
+   "2020-2021": 10.38,
+   "2021-2022": 10.29,
+   "2022-2023": 10.25,
+   "2023-2024": 10.01
+  }
+ },
+ "comprobacion_valores_al_azar": {
+  "fecha": "2026-10-06",
+  "resultados": [
+   "Curso 2018-19: Asturias 9,42, País Vasco 9,22, Castilla y León 9,44 frente a 9,4 / 9,2 / 9,4 en el PDF b3 edición 2021 OK",
+   "Curso 2016-17: Total 11,53 y Madrid 13,56 frente a 11,5 y 13,6 en el PDF OK"
+  ]
+ }
+}

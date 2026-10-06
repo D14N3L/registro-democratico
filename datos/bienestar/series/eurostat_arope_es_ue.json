@@ -1,0 +1,46 @@
+{
+ "id": "eurostat_arope_es_ue",
+ "nombre": "Tasa AROPE (Europa 2030), España vs UE-27",
+ "unidad": "% de la población",
+ "definicion": "Personas en riesgo de pobreza o exclusión social (definición Europa 2030), total población.",
+ "fuente": "Eurostat, ilc_peps01n 'Persons at risk of poverty or social exclusion by age and sex'",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_peps01n?format=JSON&lang=EN&geo=ES&geo=EU27_2020&age=TOTAL&sex=T&unit=PC&sinceTimePeriod=2016",
+ "actualizado_fuente": "2026-10-05T23:00:00+0200",
+ "notas": [
+  "UE-27 = EU27_2020 (composición desde 2020, también para años anteriores).",
+  "Flags Eurostat: e = estimado, b = ruptura de serie, p = provisional."
+ ],
+ "flags": {},
+ "valores": {
+  "España": {
+   "2016": 28.8,
+   "2017": 27.5,
+   "2018": 27.3,
+   "2019": 26.2,
+   "2020": 27.0,
+   "2021": 27.8,
+   "2022": 26.0,
+   "2023": 26.5,
+   "2024": 25.8,
+   "2025": 25.7
+  },
+  "UE-27": {
+   "2016": 23.7,
+   "2017": 22.4,
+   "2018": 21.7,
+   "2019": 21.1,
+   "2020": 21.5,
+   "2021": 21.7,
+   "2022": 21.6,
+   "2023": 21.3,
+   "2024": 21.0,
+   "2025": 20.9
+  }
+ },
+ "fecha_consulta": "2026-10-06",
+ "periodos": "2016 – 2025",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}
