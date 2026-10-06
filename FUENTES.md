@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (103)
+## Fichas del registro (121)
 
 ### Vox nace financiado casi un millón de euros por simpatizantes del exilio iraní
 - Fecha: dic 2013 – abr 2014
@@ -126,6 +126,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Poder Judicial: la Audiencia de Sevilla lleva el caso al TJUE (jul 2025)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE)
   - [Público: la Comisión Europea pide inadmitir la cuestión (abr 2026)](https://www.publico.es/politica/tribunales/comision-europea-rechaza-tjue-pronuncie-sobre-sentencias-caso-ere.html)
 
+### Murcia: la justicia suspende cautelarmente el «pin parental» que Vox exigió al Gobierno de PP y Cs
+- Fecha: 2019 – 2020
+- Partidos: PP, Vox
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: La Consejería de Educación del Gobierno de PP y Cs implantó, por exigencia de Vox, la autorización expresa de las familias para las actividades complementarias, el llamado pin parental. El Ministerio de Educación lo recurrió y en marzo de 2020 el TSJ de Murcia lo suspendió cautelarmente, con un voto particular. En julio de 2020 archivó el recurso por pérdida sobrevenida de objeto, al haber terminado el curso, sin pronunciarse sobre el fondo.
+- Matiz: El Gobierno regional invocó el derecho de los padres a elegir la educación de sus hijos. En la Asamblea, PP y Vox votaron en contra de retirarlo, con la abstención de Ciudadanos. Vox apoyaba al Gobierno desde fuera.
+- Fuentes:
+  - [Murcia Plaza: el TSJ archiva el recurso (jul 2020)](https://murciaplaza.com/el-tsj-no-se-moja-con-el-pin-parental-archiva-el-recurso-de-celaa-porque-no-hay-clases)
+
 ### Cortes de Castilla-La Mancha: el PSOE veta la comparecencia del Defensor del Paciente y no se crea la comisión covid del PP
 - Fecha: 2020
 - Partidos: PSOE
@@ -231,6 +242,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Última Hora: vacunación](https://www.ultimahora.es/noticias/local/2021/03/02/1243067/coronavirus-baleares-parlament-rechaza-investigar-vacunacion-altos-cargos.html)
   - [El Español: menores tuteladas](https://www.elespanol.com/espana/politica/20210330/baleares-impedir-investigue-menores-tuteladas-requerimiento-ue/569943468_0.html)
 
+### Junta General de Asturias: PSOE, IU y Foro rechazan investigar el alud de San Isidro que mató a dos operarios
+- Fecha: ene – abr 2021
+- Partidos: PSOE, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Asturias
+- Nivel de prueba: Documentado en medios
+- Resumen: El 1 de enero de 2021 un alud en la carretera AS-112, en el puerto de San Isidro (Aller), mató a dos operarios del Principado, César Fernández y Virgilio García. PP y Vox pidieron una comisión de investigación. El PSOE se opuso por escrito, lo que obligó a votarla, y el 7 de abril de 2021 el pleno la rechazó por 17 votos a favor y 27 en contra, sin abstenciones. PSOE, IU y Foro anunciaron su voto en contra y Ciudadanos, a favor.
+- Matiz: El PSOE alegó que el caso ya estaba en el juzgado de Pola de Lena y acusó a los proponentes de buscar «un dudoso rédito político de una auténtica desgracia»; IU, que la Cámara no era competente cuando ya actuaban dos organismos y un juzgado, y Foro, que sería «precipitarse». Podemos cuestionó la utilidad de la comisión sin anunciar su voto. En marzo de 2025 el jefe de Conservación de Carreteras del Principado fue condenado, con su conformidad, a dos años de cárcel; la sentencia constató que no había viseras antialudes ni sistema de retención de nieve. No era firme.
+- Fuentes:
+  - [Junta General del Principado: Diario de Sesiones, serie P, núm. 63 (abr 2021)](https://agoranet.jgpa.es/documentos/Diarios/PDF/11J063.pdf)
+  - [elDiario.es: condena al jefe de Conservación de Carreteras (mar 2025)](https://www.eldiario.es/asturias/jefe-conservacion-carreteras-asturias-condenado-2-anos-carcel-accidente-mortal-san-isidro_1_12118354.html)
+
 ### Parlamento de Galicia: el PP rechaza investigar las revelaciones de Bárcenas sobre dinero B en el PP gallego
 - Fecha: 13 abr 2021
 - Partidos: PP
@@ -266,6 +289,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Corts Valencianes: Diari de Sessions núm. 71 (debate)](https://www.cortsvalencianes.es/publicaciones-CV/obtenerPdfDS?f_clave_dscv=X+++000710&idioma=es_ES)
   - [Corts Valencianes: Diari de Sessions núm. 72 (votación, 20 may 2021)](https://www.cortsvalencianes.es/publicaciones-CV/obtenerPdfDS?f_clave_dscv=X+++000720&idioma=es_ES)
+
+### Parlamento Vasco: PNV y PSE rechazan pedir una investigación independiente de los contratos del cártel de consultoras
+- Fecha: jun 2021
+- Partidos: PNV, PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Documentado en medios
+- Resumen: La CNMC multó con 6,3 millones a 22 consultoras y directivos por amañar licitaciones públicas en Euskadi entre 2008 y 2018. PP-Cs y Elkarrekin Podemos-IU pidieron que el Parlamento instara al Gobierno vasco a hacer una investigación independiente y externa de esos contratos. EH Bildu y Vox votaron a favor y PNV y PSE la rechazaron con su mayoría absoluta. El Ayuntamiento de Bilbao, el que más contratos afectados tenía (24 de 101), tampoco quiso investigar.
+- Matiz: No era una comisión de investigación, sino un mandato al Gobierno. PNV y PSE alegaron que la CNMC no encontró connivencia de las instituciones y que los órganos de control interno no detectaron irregularidades. El Gobierno vasco y el Ayuntamiento sostienen que la conducta sancionada es de las empresas, no de la Administración.
+- Fuentes:
+  - [Naiz: PNV y PSE impiden la investigación](https://www.naiz.eus/eu/info/noticia/20210610/pnv-y-pse-impiden-que-el-parlamento-inste-a-investigar-el-cartel-de-las-consultoras)
+  - [Crónica Vasca: Bilbao tampoco investiga](https://cronicavasca.elespanol.com/economia/20210611/bilbao-niega-investigar-cartel-consultoras-contratos-amanados/588191189_0.html)
 
 ### El PP reforma por lectura única la ley de Telemadrid y el TC declara que vulneró los derechos de la oposición
 - Fecha: 2021 · 2026
@@ -329,6 +364,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Parlamento de Cantabria](https://parlamento-cantabria.es/publicaciones/noticias/el-pleno-rechaza-crear-una-comisi%C3%B3n-de-investigaci%C3%B3n-en-mare)
   - [El Diario Cantabria](https://eldiariocantabria.publico.es/articulo/politica/prc-psoe-pp-rechazan-remitir-tribunal-cuentas-irregularidades-mare/20211025200015105810.amp.html)
+
+### Congreso: Batet retira el escaño a Alberto Rodríguez y el TC anula la decisión en 2024
+- Fecha: oct 2021 – ene 2024
+- Partidos: PSOE, Podemos/UP
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: En octubre de 2021 el Supremo condenó, por 5 votos a 2, al diputado de Unidas Podemos Alberto Rodríguez a mes y medio de prisión, sustituida por multa, e inhabilitación para el sufragio pasivo por dar una patada a un policía en 2014. El 22 de octubre de 2021 la presidenta del Congreso, Meritxell Batet, acordó su sustitución. En enero de 2024 el TC, por 7 votos a 4, anuló la pena de prisión y la inhabilitación por desproporcionadas y dejó solo la multa, y después declaró vulnerado su derecho a ejercer el cargo y anuló el acuerdo de Batet (STC 18/2024).
+- Matiz: Cuatro magistrados conservadores firmaron un voto particular: la pérdida del escaño era una incompatibilidad sobrevenida de la ley electoral, no una pena añadida. Rodríguez es el afectado; la decisión anulada fue de la presidenta del Congreso, del PSOE.
+- Fuentes:
+  - [BOE: STC 18/2024](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-3940)
+  - [elDiario.es: el TC anula la condena de cárcel (ene 2024)](https://www.eldiario.es/canariasahora/constitucional-da-razon-alberto-rodriguez-anula-condena-carcel-le-dejo-escano_1_10838552.html)
 
 ### El TC declara inconstitucional el segundo estado de alarma de seis meses
 - Fecha: 27 oct 2021
@@ -474,6 +521,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: septiembre](https://www.eldiario.es/politica/psoe-tumba-comisiones-investigacion-actuacion-policial-melilla-cloaca-policial-apoyo-pp-vox_1_9311381.html)
   - [elDiario.es: noviembre](https://www.eldiario.es/politica/psoe-pp-tumban-peticion-comision-investigacion-tragedia-melilla_1_9723141.html)
 
+### Ley del «solo sí es sí»: al menos 1.233 rebajas de pena y 126 excarcelaciones, según el CGPJ
+- Fecha: oct 2022 – nov 2023
+- Partidos: Podemos/UP, PSOE
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: La ley orgánica 10/2022, impulsada por el Ministerio de Igualdad de Irene Montero, entró en vigor el 7 de octubre de 2022. Al revisar condenas aplicando la retroactividad favorable al reo, los tribunales acordaron al menos 1.233 rebajas de pena y 126 excarcelaciones hasta el 1 de noviembre de 2023, según el CGPJ, sin contar los juzgados de lo penal. En junio de 2023 el Supremo avaló esas rebajas y rechazó el criterio de la Fiscalía. En abril de 2023 PSOE, PP, Cs, PNV y PDeCAT aprobaron la reforma de la ley por 233 votos a 59, con el voto en contra de Unidas Podemos, ERC, Bildu, Más País, Compromís y BNG.
+- Matiz: Montero atribuyó las rebajas a que «hay jueces que no están cumpliendo la ley»; el Supremo concluyó que eran obligadas por el principio de retroactividad favorable al reo (art. 2.2 del Código Penal). Unidas Podemos acusó al PSOE de «entregar a los reaccionarios los derechos de las mujeres» con la reforma. Es una decisión legislativa, no un hecho antidemocrático.
+- Fuentes:
+  - [CGPJ: 1.233 reducciones de pena](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/En-Portada/Los-tribunales-han-acordado-1-233-reducciones-de-pena-en-aplicacion-de-la-Ley-Organica-10-2022)
+  - [El Progreso: el Supremo avala las rebajas (jun 2023)](https://www.elprogreso.es/articulo/espana/supremo-avala-rebajas-pena-condenas-firmes-ley-solo-es/202306071959481671655.html)
+  - [elDiario.es: PSOE y PP aprueban la reforma (abr 2023)](https://www.eldiario.es/politica/psoe-pp-aprueban-reforma-ley-si-si-voto-unidas-erc-eh-bildu_1_10135971.html)
+  - [elDiario.es: Montero culpa a los jueces (nov 2022)](https://www.eldiario.es/sociedad/irene-montero-achaca-rebajas-penas-agresores-sexuales-hay-jueces-incumpliendo-ley_1_9715693.html)
+
 ### Madrid reabre solo 17 de las 37 urgencias de atención primaria que cerró en la pandemia
 - Fecha: 2020 – 2022
 - Partidos: PP
@@ -524,6 +584,31 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Confidencial Digital (Europa Press)](https://www.elconfidencialdigital.com/articulo/ultima-hora/comision-justicia-senado-da-luz-verde-reforma-que-deroga-sedicion-enmiendas-vetadas-tc/20221220131313495069.html)
   - [Teoría y Realidad Constitucional: análisis crítico del ATC 177/2022 (Artemi Rallo, exportavoz socialista en el Senado)](https://dialnet.unirioja.es/descarga/articulo/9633561.pdf)
 
+### Caso De Miguel: el Supremo confirma las condenas por corrupción a exdirigentes del PNV de Álava
+- Fecha: dic 2019 – ene 2023
+- Partidos: PNV
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Sentencia firme
+- Resumen: En diciembre de 2019 la Audiencia de Álava condenó a Alfredo de Miguel, «número dos» del PNV alavés y exdiputado foral, y a otros exdirigentes del partido en el mayor caso de corrupción de Euskadi. El 10 de enero de 2023 el Supremo confirmó las principales condenas y rebajó la de De Miguel a 12 años, 4 meses y 15 días de prisión, nueve de cumplimiento efectivo. La sentencia es firme.
+- Matiz: El PNV dijo que la sentencia «no afecta a EAJ-PNV como partido, ni a su financiación». Los condenados tenían la afiliación suspendida y el partido anunció su expulsión definitiva una vez firme la condena. Solo cabe recurso ante el TC por vulneración de derechos fundamentales.
+- Fuentes:
+  - [elDiario.es: el Supremo confirma las principales penas](https://www.eldiario.es/euskadi/supremo-confirma-principales-penas-caso-miguel-mayor-corrupcion-euskadi_1_9853978.html)
+  - [elDiario.es: la reacción del PNV](https://www.eldiario.es/euskadi/pnv-cambia-nombre-caso-miguel-dice-corrupcion-acreditada-ver-partido_1_9854868.html)
+
+### Castilla y León: el Gobierno requiere a la Junta por las medidas antiaborto anunciadas por su vicepresidente de Vox
+- Fecha: ene 2023
+- Partidos: Vox, PP
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: Castilla y León
+- Nivel de prueba: Documentado en medios
+- Resumen: En enero de 2023 el vicepresidente de la Junta, Juan García-Gallardo (Vox), anunció medidas para las embarazadas, como ofrecer escuchar el latido fetal o ecografías 4D a las que quisieran abortar, y dijo que el protocolo sería «obligatorio para los facultativos». El 17 de enero el Consejo de Ministros aprobó un requerimiento de incompetencia, paso previo a un conflicto ante el TC. El 19 la Junta lo rechazó.
+- Matiz: La Junta nunca aprobó una norma: rechazó el requerimiento por la «inexistencia del objeto», porque solo había declaraciones y no actos administrativos, y le atribuyó fines electorales. El presidente, Alfonso Fernández Mañueco (PP), desautorizó a su vicepresidente: «No se obligará a los médicos ni a las mujeres». García-Gallardo defendió que la medida «refuerza el derecho de información de las madres embarazadas». No consta que el conflicto llegara al TC.
+- Fuentes:
+  - [El Español: requerimiento de incompetencia (ene 2023)](https://www.elespanol.com/espana/politica/20230117/gobierno-aprobara-acuerdo-cyl-incompetencia-ley-aborto/734426569_0.html)
+  - [elDiario.es: García-Gallardo insiste](https://www.eldiario.es/castilla-y-leon/politica/garcia-gallardoinsiste-ofrecera-mujeres-escuchar-latido-fetal-alaba-hungria-obligatorio_1_9868572.html)
+  - [Junta de Castilla y León: rechaza el requerimiento](https://comunicacion.jcyl.es/web/jcyl/Comunicacion/es/Plantilla100Detalle/1284877984309/ConsejoGobierno/1285236386891/Comunicacion)
+
 ### Senado: PSOE y PNV no admiten la comisión del PP sobre Ximo Puig
 - Fecha: 7 feb 2023
 - Partidos: PSOE, PNV
@@ -546,6 +631,29 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [COPE: la Junta de Portavoces la rechaza](https://www.cope.es/actualidad/espana/noticias/psoe-podemos-pactan-con-erc-bildu-una-alternativa-comision-mediador-20230314_2603097)
   - [Congreso: ficha oficial 156/000061 (caducada)](https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=156%2F000061)
+
+### Seis ayuntamientos de EH Bildu retiran webs de memoria que equiparaban a víctimas y miembros de ETA tras un requerimiento del Gobierno
+- Fecha: abr 2023
+- Partidos: Bildu
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Documentado en medios
+- Resumen: La Delegación del Gobierno en Euskadi dio un mes a Galdakao, Hernani, Villabona, Oiartzun, Azpeitia y Orio, gobernados por EH Bildu, para retirar de sus webs de memoria la equiparación entre víctimas de ETA y miembros de la banda, como Txapote, Jon Bienzobas o Thierry, por considerar que vulneraba la ley de víctimas del terrorismo. Los seis ayuntamientos desactivaron las webs.
+- Matiz: Los contenidos los elaboró la sociedad científica Aranzadi, que pidió retirarlos provisionalmente. EH Bildu defendió que las webs salían de «decisiones democráticas adoptadas por consenso» en las comisiones municipales de memoria y convivencia, y que incluían a miembros de ETA por la violencia que sufrieron en prisión. No llegó a los tribunales.
+- Fuentes:
+  - [elDiario.es: los ayuntamientos desactivan las webs](https://www.eldiario.es/euskadi/ayuntamientos-eh-bildu-desactivan-webs-equiparaban-victimas-terroristas-eta_1_10142590.html)
+  - [infoLibre: la postura de EH Bildu](https://www.infolibre.es/politica/seis-ayuntamientos-eh-bildu-desactivan-webs-memoria-equiparaban-victimas-miembros-eta_1_1480272.html)
+
+### La ministra de Igualdad, condenada en firme por llamar «maltratador» en un acto oficial a un hombre sin condena
+- Fecha: may 2022 – nov 2023
+- Partidos: Podemos/UP
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Sentencia firme
+- Resumen: El 25 de mayo de 2022, en la inauguración del Instituto de las Mujeres, Irene Montero se refirió como maltratador a Rafael Marcos, expareja de María Sevilla, y difundió el vídeo en Twitter. La Sala Primera del Supremo la condenó en junio de 2023 por vulnerar su derecho al honor: 18.000 euros de indemnización, borrar el tuit y publicar la sentencia. En noviembre de 2023 el TC inadmitió su recurso de amparo y la condena quedó firme.
+- Matiz: El Supremo subrayó que ninguna resolución judicial acredita violencia por parte de Marcos y que «atenta contra la reputación personal atribuir infundadamente a una persona la condición de maltratadora». Es una condena civil, no penal.
+- Fuentes:
+  - [El Español: el Supremo condena a Montero (jun 2023)](https://www.elespanol.com/espana/tribunales/20230609/ts-irene-montero-eur-maria-sevilla-maltratador/770173117_0.html)
+  - [elDiario.es: el TC rechaza su recurso (nov 2023)](https://www.eldiario.es/politica/constitucional-rechaza-recurso-irene-montero-condena-vulnerar-honor-exmarido-maria-sevilla_1_10660474.html)
 
 ### Cancelaciones de obras de teatro en ayuntamientos de PP y Vox
 - Fecha: jul – dic 2023
@@ -585,6 +693,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/murcia/politica/asamblea-regional-murcia-rechaza-crear-comision-investigacion-incendio-atalayas_1_10583468.html)
   - [Público: PP y Vox tumban la comisión en el pleno (nov 2023)](https://www.publico.es/politica/pp-vox-tumban-comision-investigacion-sobre-incendio-discotecas-murcia.html)
+
+### Canarias: CC y PP cambian por decreto-ley la elección de la dirección de RTVC y luego aprueban una ley que permite elegirla por mayoría absoluta
+- Fecha: oct 2023 – jul 2026
+- Partidos: CC, PP, Otros
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Documentado en medios
+- Resumen: Con el Decreto-ley 7/2023, de 9 de octubre, el Gobierno de CC y PP creó la Administración General de RTVC: el Gobierno propone a su titular y el Parlamento lo elige por mayoría absoluta. Lo convalidaron el 8 de noviembre de 2023 CC, PP, ASG y AHI, con el voto en contra de PSOE y NC-BC. El 22 de julio de 2026 los mismos grupos aprobaron la nueva ley de RTVC, con el rechazo de PSOE, NC-BC y Vox: la Junta de Control y la dirección, que con la ley de 2014 exigían tres quintos, pueden elegirse por mayoría absoluta en segunda votación.
+- Matiz: El Gobierno lo justificó por casi nueve años de bloqueo: desde 2018 RTVC la dirigía un administrador único interino, y el modelo copia el de RTVE, avalado por el TC (STC 134/2021). El PSOE habló de un «decretazo para apropiarse de la televisión» y NC-BC cuestionó la urgencia.
+- Fuentes:
+  - [Gobierno de Canarias: el decreto-ley (oct 2023)](https://www3.gobiernodecanarias.org/noticias/el-gobierno-de-canarias-crea-la-administracion-general-de-rtvc-mediante-decreto-ley/)
+  - [elDiario.es: el Parlamento convalida el decreto (nov 2023)](https://www.eldiario.es/canariasahora/parlamento-canario/parlamento-canarias-convalida-creacion-administracion-general-rtvc_1_10668151.html)
+  - [elDiario.es: el Parlamento aprueba la ley de RTVC (jul 2026)](https://www.eldiario.es/canariasahora/politica/nodo-teleclavijo-parlamento-ley-rtvc-rechazo-oposicion_1_13398224.html)
 
 ### Castilla y León: un organismo de la consejería de Vox reparte contratos a dedo a medios afines
 - Fecha: 2023 – 2024
@@ -664,6 +785,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Última Hora](https://www.ultimahora.es/noticias/local/2024/03/26/2132535/vox-cierran-oficina-anticorrupcion-baleares-impulsada-por-podemos.html)
   - [elDiario.es: los argumentos de PP y Vox](https://www.eldiario.es/illes-balears/politica/pp-vox-ponen-oficina-anticorrupcion-balears-considerarla-parcial-e-irrelevante_1_10723852.html)
 
+### El Supremo anula seis artículos del decreto de publicidad del juego de Garzón por falta de cobertura legal
+- Fecha: nov 2020 – abr 2024
+- Partidos: Podemos/UP
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Sentencia firme
+- Resumen: La Sala Tercera del Supremo estimó en parte el recurso de la Asociación Española de Juego Digital contra el Real Decreto 958/2020 de comunicaciones comerciales del juego, aprobado con Alberto Garzón como ministro de Consumo. Anuló seis preceptos: los bonos de captación de clientes, la aparición de famosos, la restricción general en servicios de la sociedad de la información y los límites en plataformas de vídeo y redes sociales.
+- Matiz: El Supremo avaló el resto del decreto y no dijo que no se pueda limitar esa publicidad, sino que esas restricciones necesitan una cobertura legal suficiente, no solo un reglamento.
+- Fuentes:
+  - [Poder Judicial: nota del Supremo (abr 2024)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-anula-varios-articulos-del-Real-Decreto-958-2020-de-comunicaciones-comerciales-de-las-actividades-de-juego)
+
 ### Leyes de concordia: relatores de la ONU alertan sobre la memoria del franquismo
 - Fecha: may 2024
 - Partidos: PP, Vox
@@ -678,6 +809,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: el TC suspende parte de la ley valenciana](https://www.eldiario.es/comunitat-valenciana/constitucional-tumba-parte-ley-valenciana-concordia-aprobada-pp-vox-equipara-franquismo-democracia_1_12334449.html)
   - [elDiario.es: el PP vota contra tramitar la ley de concordia de Castilla y León (sep 2024)](https://www.eldiario.es/castilla-y-leon/politica/pp-vota-psoe-rechazar-ley-concordia-castilla-leon-pacto-vox_1_11680082.html)
 
+### Parlament balear: su presidente, Gabriel Le Senne (Vox), irá a juicio por delito de odio por romper la foto de tres republicanas asesinadas
+- Fecha: jun 2024 – oct 2026
+- Partidos: Vox
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: Baleares
+- Nivel de prueba: Investigación judicial
+- Resumen: El 18 de junio de 2024, durante el debate para derogar la ley de memoria balear, el presidente del Parlament, Gabriel Le Senne (Vox), rompió una foto de Aurora Picornell y de las hermanas Antònia y Maria Pascual, asesinadas en 1937, que la vicepresidenta segunda, Mercedes Garrido (PSIB), tenía en su portátil. El 15 de octubre de 2024 expulsó del pleno a Garrido y a Pilar Costa por llevar camisetas con esas imágenes. Un juzgado de Palma abrió juicio oral contra él por delito de odio; las acusaciones piden hasta un año y ocho meses de cárcel y la vista previa está fijada para el 28 de octubre de 2026.
+- Matiz: La Fiscalía se opuso a abrir juicio; lo piden las acusaciones, partidos y asociaciones memorialistas. Rige la presunción de inocencia. Sobre la expulsión, Le Senne alegó que exhibir esas imágenes rompía la obligación de neutralidad de la Mesa, y dijo: «Si cometo un delito, aceptaré encantado la condena».
+- Fuentes:
+  - [Última Hora (EFE): vista previa del juicio (jun 2026)](https://www.ultimahora.es/noticias/local/2026/06/11/2648217/convocada-vista-previa-del-juicio-senne-por-delito-odio.html)
+  - [infoLibre: la expulsión de dos diputadas (oct 2024)](https://www.infolibre.es/politica/ultra-le-senne-expulsa-parlament-balear-diputadas-mostrar-fotos-victimas-republicanas_1_1880341.html)
+
 ### El TC anula parte de la reforma de las leyes trans y LGTBI de Madrid
 - Fecha: 2023 – 2025
 - Partidos: PP
@@ -690,6 +833,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Público: el recurso](https://www.publico.es/sociedad/gobierno-recurre-constitucional-ley-trans-lgtbi-comunidad-madrid.html)
   - [El Español: la sentencia](https://www.elespanol.com/espana/tribunales/20250409/tc-estima-recurso-pedro-sanchez-tumba-ley-lgtbi-ayuso-invadir-competencias/1003743706496_0.html)
   - [elDiario.es: el PP suaviza la ley tras la suspensión del TC (oct 2024)](https://www.eldiario.es/madrid/ayuso-modifica-leyes-trans-lgtbi-madrid-esquivar-recursos-gobierno-constitucional_1_11726609.html)
+
+### Corts Valencianes: PP y Vox cambian la ley de À Punt y eligen su consejo solo con sus votos
+- Fecha: jun – dic 2024
+- Partidos: PP, Vox
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Documentado en medios
+- Resumen: El 27 de junio de 2024 las Corts aprobaron, con los votos de PP y Vox y en contra de PSPV y Compromís, la nueva ley de À Punt: siete de los ocho consejeros los eligen las Corts por tres quintos o, si no se alcanzan, por mayoría absoluta. El 19 de diciembre de 2024 las Corts eligieron en segunda votación, solo con los votos de PP y Vox, a cinco consejeros propuestos por el PP y dos por Vox. PSPV y Compromís no presentaron candidatos y votaron nulo.
+- Matiz: El PP presentó a sus candidatos como perfiles técnicos y justificó la prisa por el vacío que dejó la dimisión del director general, Alfred Costa. La oposición habló de «control político».
+- Fuentes:
+  - [El Español: PP y Vox aprueban la ley (jun 2024)](https://www.elespanol.com/valencia/20240627/pp-vox-aprueban-primeras-leyes-conjuntas-libertad-educativa-punt-antifraude/866163631_0.html)
+  - [elDiario.es: las Corts eligen a los candidatos de PP y Vox (dic 2024)](https://www.eldiario.es/comunitat-valenciana/politica/corts-eligen-siete-candidatos-pp-vox-consejo-administracion-punt_1_11914717.html)
 
 ### El TC anula en parte el protocolo canario que dejaba fuera de protección a menores rescatados en el mar
 - Fecha: sep 2024 – feb 2025
@@ -777,6 +932,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: el PP citará a Pradas en Les Corts (feb 2025)](https://www.eldiario.es/comunitat-valenciana/pp-descartar-comparecencia-pradas-senado-si-citara-comision-dana-corts-mazon-sanchez_1_12089871.html)
   - [elDiario.es: PP y Vox piden cerrar la comisión sin Pradas (may 2026)](https://www.eldiario.es/comunitat-valenciana/valencia/pp-vox-piden-dar-carptezazo-comision-investigacion-dana-les-corts-declare-pradas_1_13193606.html)
 
+### Ayuntamiento de València: Anticorrupción investiga una veintena de contratos del concejal de Vox Juanma Badenas
+- Fecha: 2025 – 2026
+- Partidos: Vox
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Documentado en medios
+- Resumen: La Fiscalía Anticorrupción abrió en marzo de 2025 diligencias por presuntos prevaricación, malversación y falsedad documental sobre contratos de la fundación municipal València Activa y de Parques y Jardines, áreas que dirigía el concejal de Vox Juanma Badenas. El 30 de abril de 2025 la UCO acudió, por orden de la Fiscalía, al Ayuntamiento y a la fundación a recabar documentación. Entre los contratos hay uno de unos 160.000 euros con el instituto Imedes y un patrocinio de 14.500 euros a la editora de OKDiario. En 2026 la Fiscalía, que investiga ya una veintena de contratos, incorporó una auditoría municipal que encontró «deficiencias relevantes» en los patrocinios por contrato menor.
+- Matiz: Son diligencias de la Fiscalía, no una causa judicial: rige la presunción de inocencia. Badenas habló de «montaje». Vox, que lo había expulsado del grupo municipal, lo readmitió en abril de 2025, lo que devolvió la mayoría al gobierno de María José Catalá (PP). Según la alcaldesa, la UCO no hizo un registro sino una petición de documentación.
+- Fuentes:
+  - [Valencia Plaza (EFE): la UCO en el Ayuntamiento (abr 2025)](https://valenciaplaza.com/valenciaplaza/valencia/la-uco-registra-el-ayuntamiento-de-valencia-en-busca-de-contratos-de-badenas-vox-en-valencia-activa)
+  - [elDiario.es: Vox readmite a Badenas (abr 2025)](https://www.eldiario.es/comunitat-valenciana/valencia/vox-recupera-portavoz-investigado-fiscalia-valencia_1_12189103.html)
+  - [El Español: Anticorrupción incorpora la auditoría (abr 2026)](https://www.elespanol.com/valencia/20260427/anticorrupcion-incorpora-auditoria-ayuntamiento-irregularidades-deficiencias-valencia-activa/1003744220537_0.html)
+
 ### Vox se financia con un banco húngaro ligado al Gobierno de Orbán que el Tribunal de Cuentas no pudo verificar
 - Fecha: 2023 – 2025
 - Partidos: Vox
@@ -803,6 +971,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2025/05/29/el-parlamento-andaluz-rechaza-investigar-los-contratos-del-sas-con-los-votos-del-pp/)
   - [Teleprensa](https://www.teleprensa.com/articulo/sevilla/pp-rechaza-solitario-comision-investigacion-parlamento-contratos-sanitarios-que-pedia-psoe/202505291452312128965.html)
   - [elDiario.es: «la corrupción en Andalucía no existe»](https://www.eldiario.es/andalucia/pp-moreno-aisla-parlamento-causas-contratos-sanitarios-corrupcion-andalucia-no-existe_1_12339772.html)
+
+### El TC anula parte de la ley antipandemia vasca por limitar derechos fundamentales sin ley orgánica
+- Fecha: jun 2021 – jun 2025
+- Partidos: PNV, PSOE, Podemos/UP
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El Parlamento Vasco aprobó en junio de 2021 la ley de gestión de la pandemia con los votos de PNV, PSE-EE y Elkarrekin Podemos-IU (47) y en contra de EH Bildu, PP+Cs y Vox (28). En junio de 2025, por un recurso de diputados de Vox, el TC declaró inconstitucionales y nulos, por unanimidad, los artículos que permitían imponer pruebas diagnósticas, vacunación, aislamientos, confinamientos y restricciones de movilidad y reunión, porque limitar esos derechos exige ley orgánica (STC 133/2025).
+- Matiz: El TC avaló otros artículos, como el cierre de establecimientos por riesgo de contagio. Las medidas anuladas llevaban años sin aplicarse.
+- Fuentes:
+  - [BOE: STC 133/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14586)
+  - [Orain (EITB): el Parlamento Vasco aprueba la ley (jun 2021)](https://orain.eus/es/politica/2021/06/24/el-parlamento-vasco-aprueba-ley-antipandemia/)
+  - [elDiario.es: el TC anula las restricciones (jun 2025)](https://www.eldiario.es/euskadi/constitucional-anula-restricciones-disenadas-gobierno-urkullu-ley-antipandemia-2021_1_12382681.html)
 
 ### Congreso: la comisión del caso Koldo que registró el PSOE nunca llegó a debatirse
 - Fecha: jun 2025 – oct 2026
@@ -1042,6 +1223,31 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [CTXT: el reparto de 2025](https://ctxt.es/es/20260901/Politica/55209/Diego-Delgado-Ayuso-CAM-Madrid-medios-pseudomedios-EDATV-OKdiario.htm)
   - [El Salto: la publicidad del Canal de Isabel II](https://www.elsaltodiario.com/medios/asi-ha-regado-ayuso-publicidad-canal-de-isabel-ii-medios-afinidad)
 
+### Canarias: la sanidad pública pagó 574 millones en 2024 sin contrato válido, con gobiernos de distinto color
+- Fecha: 2019 – 2024
+- Partidos: CC, PP, PSOE
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Organismo oficial
+- Resumen: Según la fiscalización de la Cuenta General de 2024 de la Audiencia de Cuentas de Canarias, el Servicio Canario de la Salud pagó 574,6 millones mediante expedientes de nulidad, un mecanismo excepcional para pagar servicios prestados sin contrato válido; 125,4 millones fueron conciertos con clínicas privadas. La serie: 405 millones en 2019, 741 en 2020, 485 en 2021, 454 en 2022, 547 en 2023 y 574,6 en 2024.
+- Matiz: La práctica atraviesa gobiernos: el pico de 2020, en la pandemia, fue con el Gobierno de PSOE, NC, Podemos y ASG, y el récord fuera de la pandemia, en 2024, con CC y PP. El Consejo Consultivo habla de un «uso fraudulento o, cuando menos, abusivo» de ese procedimiento. Los responsables reconocieron que había que corregirlo, pero aún no lo habían hecho. El informe de la Audiencia de Cuentas se cita a través de elDiario.es.
+- Fuentes:
+  - [elDiario.es: 574 millones sin contrato válido (ene 2026)](https://www.eldiario.es/canariasahora/sociedad/servicio-canario-salud-convierte-excepcion-norma-paga-574-millones-contratos-validos-125-conciertos_1_12915256.html)
+  - [elDiario.es: el Consejo Consultivo (jun 2025)](https://www.eldiario.es/canariasahora/canarias-consejo-consultivo-pagos-clinicas-privadas-fraude-abuso-contratos-expedientes-nulidad-conciertos-concurso_1_12356954.html)
+
+### Zaldibar: imputada la exalcaldesa de EH Bildu por presuntos delitos urbanísticos en el vertedero
+- Fecha: ene – sep 2026
+- Partidos: Bildu
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Investigación judicial
+- Resumen: Una jueza de Durango imputó en enero de 2026 a Arantza Baigorri, alcaldesa de Zaldibar por EH Bildu hasta 2018, a técnicos municipales, a responsables de Verter Recycling y a consultores por presuntos delitos urbanísticos: el vertedero ocupaba unos 65.000 metros cuadrados más de los 137.000 autorizados. Su derrumbe en febrero de 2020 mató a dos trabajadores.
+- Matiz: Investigación en curso: rige la presunción de inocencia. Los imputados pidieron la nulidad ante la Audiencia de Bizkaia, que iba a decidir en septiembre de 2026; no consta resolución. EH Bildu sostiene que la causa urbanística no tiene relación directa con el derrumbe, que el plan contó con la aprobación de los técnicos del Ayuntamiento y de la Diputación, y critica que no se haya imputado al alcalde y al teniente de alcalde posteriores, del PNV.
+- Fuentes:
+  - [elDiario.es: la imputación (ene 2026)](https://www.eldiario.es/euskadi/magistrada-durango-imputa-exalcaldesa-zaldibar-eh-bildu-investigacion-delitos-urbanisticos_1_12940023.html)
+  - [elDiario.es: la Audiencia decidirá en septiembre](https://www.eldiario.es/euskadi/audiencia-bizkaia-decidira-septiembre-imputacion-exalcaldesa-eh-bildu-zaldibar_1_13409850.html)
+  - [Orain (EITB): la postura de EH Bildu](https://orain.eus/es/politica/2026/02/01/eh-bildu-zaldibar-muestra-todo-su-apoyo-arantza-baigorri-piden-imparcialidad/)
+
 ### Caso VPO de Alicante: cargos del PP y funcionarios municipales se adjudican pisos protegidos
 - Fecha: 2025 – 2026
 - Partidos: PP
@@ -1223,6 +1429,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El portavoz del PP, Borja Sémper, dijo que era razonable esperar la sentencia definitiva del Supremo, que había suspendido cautelarmente el voto de algunos españoles que obtuvieron la nacionalidad por esta vía: «No necesitamos una comisión de investigación para entender que una orden ministerial no está por encima de una ley aprobada en el Congreso».
 - Fuentes:
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/09/14/el-pp-no-ve-necesario-una-comision-de-investigacion-sobre-la-ley-de-nietos-como-pide-vox/)
+
+### Cortes de Aragón: el TC anula el veto de la Mesa de PP y Vox a una pregunta sobre el vicepresidente Nolasco
+- Fecha: jun 2024 – sep 2026
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Aragón
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: En junio de 2024 el diputado socialista Darío Villagrasa registró una pregunta al vicepresidente de Aragón, Alejandro Nolasco (Vox), sobre sus declaraciones contra la llegada de inmigrantes al medio rural. La Mesa, con la mayoría de PP y Vox y el voto en contra de sus dos miembros socialistas, le exigió reformularla y ceñirla a las competencias de su consejería. En septiembre de 2026 la Sala Segunda del TC otorgó por unanimidad el amparo: el requerimiento tuvo el mismo efecto que inadmitir la pregunta y vulneró el derecho a ejercer el cargo representativo (art. 23.2 CE).
+- Matiz: Los letrados de las Cortes sostuvieron que la inmigración no era competencia de la consejería de Nolasco. Como la legislatura ya había terminado, el TC no ordenó otras medidas de restablecimiento.
+- Fuentes:
+  - [Tribunal Constitucional: nota informativa 89/2026](https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2026_089/NOTA%20INFORMATIVA%20N%C2%BA%2089-2026.pdf)
+  - [elDiario.es: el TC enmienda a la Mesa (sep 2026)](https://www.eldiario.es/aragon/politica/constitucional-enmienda-mesa-cortes-aragon-vetar-pregunta-inmigracion-nolasco-vox_1_13543933.html)
 
 ### El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a su socio privado Emesa
 - Fecha: 2017 – 2025
