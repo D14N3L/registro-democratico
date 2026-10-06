@@ -1590,14 +1590,14 @@
  },
  {
   "d": "2025-06-17",
-  "dl": "jun – dic 2025",
-  "t": "Congreso: la comisión del caso Koldo que registró el PSOE sigue sin debatirse seis meses después",
+  "dl": "jun 2025 – oct 2026",
+  "t": "Congreso: la comisión del caso Koldo que registró el PSOE nunca llegó a debatirse",
   "p": [
    "PSOE"
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "Tras el informe de la UCO sobre Santos Cerdán, el PSOE registró una comisión de investigación sobre el caso Koldo con un plazo de seis meses. En diciembre de 2025, según Europa Press, la petición seguía sin llevarse al pleno, y Compromís exigió al PSOE que la pusiera en marcha.",
+  "s": "Tras el informe de la UCO sobre Santos Cerdán, el PSOE registró una comisión de investigación sobre el caso Koldo con un plazo de seis meses. En diciembre de 2025, según Europa Press, la petición seguía sin llevarse al pleno, y Compromís exigió al PSOE que la pusiera en marcha. Según la ficha oficial del Congreso, siguió en la Junta de Portavoces desde el 24 de junio de 2025 sin llegar nunca al Pleno, y decayó con la disolución de las Cortes el 6 de octubre de 2026.",
   "n": "Está confirmado que quedó parada, pero ninguna fuente fiable aclara quién la frenó. Que fuera el PSOE solo lo afirma The Objective, que no usamos como fuente.",
   "src": [
    [
@@ -1607,6 +1607,10 @@
    [
     "Infobae (Europa Press): sigue sin debatirse",
     "https://www.infobae.com/espana/agencias/2025/12/12/compromis-exige-al-psoe-crear-la-comision-del-caso-koldo-del-congreso-si-quieren-tomarse-las-uvas-deben-cumplir/"
+   ],
+   [
+    "Congreso: ficha oficial 156/000011",
+    "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=156%2F000011"
    ]
   ],
   "a": "Congreso"
@@ -2546,5 +2550,158 @@
    ]
   ],
   "a": ""
+ },
+ {
+  "d": "2023-03-14",
+  "dl": "mar – may 2023",
+  "t": "Congreso: PSOE, Unidas Podemos, ERC y Bildu frenan la comisión del PP sobre el caso Mediador",
+  "p": [
+   "PSOE",
+   "Podemos/UP",
+   "ERC",
+   "Bildu"
+  ],
+  "c": "Control parlamentario",
+  "pr": "med",
+  "s": "El PP registró el 1 de marzo de 2023, con 87 firmas, una comisión de investigación sobre la trama de Tito Berni, el exdiputado socialista Juan Bernardo Fuentes Curbelo. El 14 de marzo la Junta de Portavoces la rechazó: PSOE, Unidas Podemos, ERC y EH Bildu pactaron tratar el caso en comisiones ya existentes, como las de Interior y Calidad Democrática. La petición quedó parada en la Junta y caducó con la disolución de las Cortes en mayo de 2023.",
+  "n": "Patxi López (PSOE) alegó que «una comisión de investigación cuando se está en vía judicial y hay secreto de sumario (...) puede que no sirva para nada», y que era más ágil usar las comisiones existentes. La Junta vota de forma ponderada y no consta el voto de cada grupo.",
+  "src": [
+   [
+    "COPE: la Junta de Portavoces la rechaza",
+    "https://www.cope.es/actualidad/espana/noticias/psoe-podemos-pactan-con-erc-bildu-una-alternativa-comision-mediador-20230314_2603097"
+   ],
+   [
+    "Congreso: ficha oficial 156/000061 (caducada)",
+    "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=156%2F000061"
+   ]
+  ],
+  "a": "Congreso"
+ },
+ {
+  "d": "2021-04-13",
+  "dl": "abr 2021 – may 2023",
+  "t": "Congreso: la comisión del PP sobre el rescate de Plus Ultra no llega al Pleno",
+  "p": [
+   "PSOE",
+   "Podemos/UP"
+  ],
+  "c": "Control parlamentario",
+  "pr": "med",
+  "s": "El PP registró el 23 de marzo de 2021, con 84 firmas, una comisión de investigación sobre las ayudas de 53 millones a Plus Ultra a través del fondo de rescate de empresas estratégicas. La Mesa la admitió el 6 de abril, pero el 13 de abril la Junta de Portavoces la rechazó y no la llevó al Pleno. Siguió parada en la Junta hasta caducar con la disolución de las Cortes en mayo de 2023.",
+  "n": "Según el PP, la frenaron PSOE, Unidas Podemos y «sus aliados». No consta qué votó cada grupo ni con qué argumento, porque la Junta vota de forma ponderada.",
+  "src": [
+   [
+    "El Español: rechazada el 13 de abril por la Junta de Portavoces",
+    "https://www.elespanol.com/espana/politica/20210722/oposicion-gobierno-rescate-plus-ultra-dimision-montero/598441265_0.html"
+   ],
+   [
+    "Vozpópuli: no llega al Pleno",
+    "https://www.vozpopuli.com/espana/pp-plus-ultra-congreso.html"
+   ],
+   [
+    "Congreso: ficha oficial 156/000030 (caducada)",
+    "https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=156%2F000030"
+   ]
+  ],
+  "a": "Congreso"
+ },
+ {
+  "d": "2025-06-23",
+  "dl": "jun 2025",
+  "t": "Senado: el PP rechaza en la comisión Koldo citar a Feijóo y Tellado y, con su abstención, los comparecientes que pedía Vox",
+  "p": [
+   "PP"
+  ],
+  "c": "Control parlamentario",
+  "pr": "med",
+  "s": "En la comisión de investigación del caso Koldo, el PP usó su mayoría absoluta para rechazar las listas de comparecientes del PSOE y de Vox, lo que impidió interrogar a Alberto Núñez Feijóo, a Miguel Tellado, a José Luis Rodríguez Zapatero y a José Bono. La abstención del PP tumbó también los nombres que pedía Vox, como José Blanco, Antonio Hernando, Óscar López y Óscar Puente. Se aprobó solo la lista del PP, con Santos Cerdán, la llamada rama navarra y dirigentes socialistas andaluces.",
+  "n": "Los servicios jurídicos descartaron citar a Isabel Díaz Ayuso, como pedía el PSOE. No consta el argumento del PP para rechazar el resto. En diciembre de 2025 el propio PP incluyó a Zapatero en la lista por una reunión con un directivo de Plus Ultra detenido.",
+  "src": [
+   [
+    "Infobae (directo, 23 jun 2025)",
+    "https://www.infobae.com/espana/2025/06/23/jose-luis-abalos-y-koldo-garcia-declaran-en-el-tribunal-supremo-sigue-en-directo-la-ultima-hora-del-caso-koldo/"
+   ],
+   [
+    "La Voz del Sur: la lista aprobada y la abstención ante Vox",
+    "https://www.lavozdelsur.es/actualidad/politica/senado-amplia-comparecencias-caso-koldo-con-nuevos-nombres-vinculados-psoe-andaluz_336802_102.html"
+   ],
+   [
+    "Infobae (Europa Press): el PP incluye a Zapatero (dic 2025)",
+    "https://www.infobae.com/espana/agencias/2025/12/30/el-pp-convoca-hoy-a-la-comision-koldo-del-senado-para-incluir-a-zapatero-en-el-listado-de-comparecientes/"
+   ]
+  ],
+  "a": "Senado"
+ },
+ {
+  "d": "2021-05-20",
+  "dl": "may 2021",
+  "t": "Corts Valencianes: PSPV, Compromís y Unides Podem rechazan investigar a la Conselleria de Igualdad tras el caso de la menor tutelada",
+  "p": [
+   "PSOE",
+   "Otros",
+   "Podemos/UP"
+  ],
+  "c": "Control parlamentario",
+  "pr": "med",
+  "s": "El PP pidió una comisión de investigación sobre las irregularidades de la Conselleria de Igualdad y Políticas Inclusivas, que dirigía Mónica Oltra, y de sus organismos, señaladas en la sentencia de la Audiencia de Valencia de 17 de marzo de 2021 sobre los abusos a una menor tutelada por parte del exmarido de Oltra. El pleno la rechazó el 20 de mayo de 2021 por 47 votos a favor y 52 en contra, sin abstenciones. PSPV, Compromís y Unides Podem anunciaron su voto en contra; sus escaños suman 52.",
+  "n": "Compromís alegó que la vicepresidenta había comparecido «quasi una desena» de veces desde 2017; Unides Podem, que no había ninguna actuación judicial contra ella ni contra la conselleria y que la comisión «no tiene sentido», y el PSPV, que ni la conselleria ni sus organismos habían cometido irregularidades.",
+  "src": [
+   [
+    "Corts Valencianes: Diari de Sessions núm. 71 (debate)",
+    "https://www.cortsvalencianes.es/publicaciones-CV/obtenerPdfDS?f_clave_dscv=X+++000710&idioma=es_ES"
+   ],
+   [
+    "Corts Valencianes: Diari de Sessions núm. 72 (votación, 20 may 2021)",
+    "https://www.cortsvalencianes.es/publicaciones-CV/obtenerPdfDS?f_clave_dscv=X+++000720&idioma=es_ES"
+   ]
+  ],
+  "a": "Comunitat Valenciana"
+ },
+ {
+  "d": "2020-09-25",
+  "dl": "jun – sep 2020",
+  "t": "Parlamento de Andalucía: PP, Cs y Vox rechazan investigar las residencias en la pandemia",
+  "p": [
+   "PP",
+   "Cs",
+   "Vox"
+  ],
+  "c": "Control parlamentario",
+  "pr": "med",
+  "s": "Adelante Andalucía pidió una comisión de investigación sobre las responsabilidades políticas por las medidas de la Junta en las residencias de mayores durante el estado de alarma. PP y Ciudadanos, que gobernaban, se opusieron por escrito y el pleno la rechazó el 25 de septiembre de 2020 por 50 votos a favor y 56 en contra, sin abstenciones. Vox anunció su voto en contra.",
+  "n": "El PP dijo que la proponente buscaba «un dictamen culpabilizando al Gobierno»; Ciudadanos habló de una iniciativa con «hedor a interés partidista», y Vox, de que esas responsabilidades había que pedirlas al Gobierno central, competente durante el estado de alarma. El Diario de Sesiones da solo el resultado total, no el voto de cada grupo.",
+  "src": [
+   [
+    "Parlamento de Andalucía: Diario de Sesiones del Pleno núm. 66 (25 sep 2020)",
+    "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/pdf.do?tipodoc=diario&id=148714"
+   ]
+  ],
+  "a": "Andalucía"
+ },
+ {
+  "d": "2022-11-17",
+  "dl": "17 nov 2022",
+  "t": "Parlamento de Navarra: PSN, Geroa Bai, Podemos e I-E rechazan investigar las mascarillas, con la abstención de EH Bildu",
+  "p": [
+   "PSOE",
+   "Otros",
+   "Podemos/UP",
+   "Bildu"
+  ],
+  "c": "Control parlamentario",
+  "pr": "med",
+  "s": "Navarra Suma pidió una comisión de investigación sobre la compra de mascarillas y material sanitario mediante varios convenios y contratos, entre ellos los de Sodena, la patronal CEN y la empresa Albyn. El pleno la rechazó el 17 de noviembre de 2022 por 20 votos a favor, 22 en contra y 7 abstenciones. PSN, Geroa Bai, Podemos e Izquierda-Ezkerra anunciaron su voto en contra y EH Bildu, su abstención; con el apoyo de Bildu la comisión habría salido adelante.",
+  "n": "El PSN dijo que Navarra Suma «ya tiene escrita la sentencia»; Geroa Bai lo atribuyó a «mero electoralismo»; Podemos dijo que podría revisar su postura si un segundo informe de la Cámara de Comptos lo justificaba, e I-E, que no hacía falta una comisión para depurar responsabilidades. EH Bildu exigió explicaciones al Gobierno, pero se negó a «regalar» la comisión a menos de cuatro meses del fin de la legislatura.",
+  "src": [
+   [
+    "Parlamento de Navarra: Diario de Sesiones núm. 132 (pleno del 17 nov 2022)",
+    "https://parlamentodenavarra.es/sites/default/files/diarios-sesiones/Plen10132.pdf"
+   ],
+   [
+    "elDiario.es: Navarra Suma pide la comisión",
+    "https://www.eldiario.es/navarra/navarra-suma-insiste-comision-investigacion-compra-mascarillas_1_9686635.html"
+   ]
+  ],
+  "a": "Navarra"
  }
 ]

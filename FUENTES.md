@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (97)
+## Fichas del registro (103)
 
 ### Vox nace financiado casi un millón de euros por simpatizantes del exilio iraní
 - Fecha: dic 2013 – abr 2014
@@ -172,6 +172,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [El Correo Gallego](https://www.elcorreogallego.es/galicia/el-parlamento-no-investigara-las-residencias-en-la-pandemia-como-reclamaba-la-oposicion-HX4707559)
 
+### Parlamento de Andalucía: PP, Cs y Vox rechazan investigar las residencias en la pandemia
+- Fecha: jun – sep 2020
+- Partidos: PP, Cs, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Documentado en medios
+- Resumen: Adelante Andalucía pidió una comisión de investigación sobre las responsabilidades políticas por las medidas de la Junta en las residencias de mayores durante el estado de alarma. PP y Ciudadanos, que gobernaban, se opusieron por escrito y el pleno la rechazó el 25 de septiembre de 2020 por 50 votos a favor y 56 en contra, sin abstenciones. Vox anunció su voto en contra.
+- Matiz: El PP dijo que la proponente buscaba «un dictamen culpabilizando al Gobierno»; Ciudadanos habló de una iniciativa con «hedor a interés partidista», y Vox, de que esas responsabilidades había que pedirlas al Gobierno central, competente durante el estado de alarma. El Diario de Sesiones da solo el resultado total, no el voto de cada grupo.
+- Fuentes:
+  - [Parlamento de Andalucía: Diario de Sesiones del Pleno núm. 66 (25 sep 2020)](https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/pdf.do?tipodoc=diario&id=148714)
+
 ### Quim Torra, inhabilitado por desobedecer a la Junta Electoral
 - Fecha: 28 sep 2020
 - Partidos: Junts
@@ -230,6 +241,31 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El PP dijo que la izquierda solo quería tapar sus propios escándalos.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/galicia/politica/pp-rechaza-parlamento-galicia-investigue-revelaciones-barcenas-financiacion-b-feijoo-frente-formacion_1_7800767.html)
+
+### Congreso: la comisión del PP sobre el rescate de Plus Ultra no llega al Pleno
+- Fecha: abr 2021 – may 2023
+- Partidos: PSOE, Podemos/UP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: El PP registró el 23 de marzo de 2021, con 84 firmas, una comisión de investigación sobre las ayudas de 53 millones a Plus Ultra a través del fondo de rescate de empresas estratégicas. La Mesa la admitió el 6 de abril, pero el 13 de abril la Junta de Portavoces la rechazó y no la llevó al Pleno. Siguió parada en la Junta hasta caducar con la disolución de las Cortes en mayo de 2023.
+- Matiz: Según el PP, la frenaron PSOE, Unidas Podemos y «sus aliados». No consta qué votó cada grupo ni con qué argumento, porque la Junta vota de forma ponderada.
+- Fuentes:
+  - [El Español: rechazada el 13 de abril por la Junta de Portavoces](https://www.elespanol.com/espana/politica/20210722/oposicion-gobierno-rescate-plus-ultra-dimision-montero/598441265_0.html)
+  - [Vozpópuli: no llega al Pleno](https://www.vozpopuli.com/espana/pp-plus-ultra-congreso.html)
+  - [Congreso: ficha oficial 156/000030 (caducada)](https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=156%2F000030)
+
+### Corts Valencianes: PSPV, Compromís y Unides Podem rechazan investigar a la Conselleria de Igualdad tras el caso de la menor tutelada
+- Fecha: may 2021
+- Partidos: PSOE, Otros, Podemos/UP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Documentado en medios
+- Resumen: El PP pidió una comisión de investigación sobre las irregularidades de la Conselleria de Igualdad y Políticas Inclusivas, que dirigía Mónica Oltra, y de sus organismos, señaladas en la sentencia de la Audiencia de Valencia de 17 de marzo de 2021 sobre los abusos a una menor tutelada por parte del exmarido de Oltra. El pleno la rechazó el 20 de mayo de 2021 por 47 votos a favor y 52 en contra, sin abstenciones. PSPV, Compromís y Unides Podem anunciaron su voto en contra; sus escaños suman 52.
+- Matiz: Compromís alegó que la vicepresidenta había comparecido «quasi una desena» de veces desde 2017; Unides Podem, que no había ninguna actuación judicial contra ella ni contra la conselleria y que la comisión «no tiene sentido», y el PSPV, que ni la conselleria ni sus organismos habían cometido irregularidades.
+- Fuentes:
+  - [Corts Valencianes: Diari de Sessions núm. 71 (debate)](https://www.cortsvalencianes.es/publicaciones-CV/obtenerPdfDS?f_clave_dscv=X+++000710&idioma=es_ES)
+  - [Corts Valencianes: Diari de Sessions núm. 72 (votación, 20 may 2021)](https://www.cortsvalencianes.es/publicaciones-CV/obtenerPdfDS?f_clave_dscv=X+++000720&idioma=es_ES)
 
 ### El PP reforma por lectura única la ley de Telemadrid y el TC declara que vulneró los derechos de la oposición
 - Fecha: 2021 · 2026
@@ -450,6 +486,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/madrid/ayuso-abrira-17-37-servicios-urgencias-cerro-pandemia_1_9100488.html)
   - [Infobae: centros sin médico](https://www.infobae.com/espana/2025/10/06/madrid-anuncia-la-apertura-de-cinco-nuevos-centros-de-salud-mientras-faltan-medicos-en-194-estas-seran-las-ubicaciones/)
 
+### Parlamento de Navarra: PSN, Geroa Bai, Podemos e I-E rechazan investigar las mascarillas, con la abstención de EH Bildu
+- Fecha: 17 nov 2022
+- Partidos: PSOE, Otros, Podemos/UP, Bildu
+- Categoría: Control parlamentario
+- Parlamento o territorio: Navarra
+- Nivel de prueba: Documentado en medios
+- Resumen: Navarra Suma pidió una comisión de investigación sobre la compra de mascarillas y material sanitario mediante varios convenios y contratos, entre ellos los de Sodena, la patronal CEN y la empresa Albyn. El pleno la rechazó el 17 de noviembre de 2022 por 20 votos a favor, 22 en contra y 7 abstenciones. PSN, Geroa Bai, Podemos e Izquierda-Ezkerra anunciaron su voto en contra y EH Bildu, su abstención; con el apoyo de Bildu la comisión habría salido adelante.
+- Matiz: El PSN dijo que Navarra Suma «ya tiene escrita la sentencia»; Geroa Bai lo atribuyó a «mero electoralismo»; Podemos dijo que podría revisar su postura si un segundo informe de la Cámara de Comptos lo justificaba, e I-E, que no hacía falta una comisión para depurar responsabilidades. EH Bildu exigió explicaciones al Gobierno, pero se negó a «regalar» la comisión a menos de cuatro meses del fin de la legislatura.
+- Fuentes:
+  - [Parlamento de Navarra: Diario de Sesiones núm. 132 (pleno del 17 nov 2022)](https://parlamentodenavarra.es/sites/default/files/diarios-sesiones/Plen10132.pdf)
+  - [elDiario.es: Navarra Suma pide la comisión](https://www.eldiario.es/navarra/navarra-suma-insiste-comision-investigacion-compra-mascarillas_1_9686635.html)
+
 ### Parlamento de Canarias: el Pacto de las Flores rechaza investigar el caso mascarillas
 - Fecha: 23 nov 2022
 - Partidos: PSOE, Podemos/UP, Otros
@@ -486,6 +534,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Alegaron los precedentes y el respeto a las competencias autonómicas: investigar a un gobierno autonómico corresponde a su parlamento.
 - Fuentes:
   - [Onda Vasca](https://www.ondavasca.com/psoe-y-pnv-frenan-en-el-senado-la-peticion-del-pp-de-crear-una-investigacion-parlamentaria-a-ximo-puig/)
+
+### Congreso: PSOE, Unidas Podemos, ERC y Bildu frenan la comisión del PP sobre el caso Mediador
+- Fecha: mar – may 2023
+- Partidos: PSOE, Podemos/UP, ERC, Bildu
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: El PP registró el 1 de marzo de 2023, con 87 firmas, una comisión de investigación sobre la trama de Tito Berni, el exdiputado socialista Juan Bernardo Fuentes Curbelo. El 14 de marzo la Junta de Portavoces la rechazó: PSOE, Unidas Podemos, ERC y EH Bildu pactaron tratar el caso en comisiones ya existentes, como las de Interior y Calidad Democrática. La petición quedó parada en la Junta y caducó con la disolución de las Cortes en mayo de 2023.
+- Matiz: Patxi López (PSOE) alegó que «una comisión de investigación cuando se está en vía judicial y hay secreto de sumario (...) puede que no sirva para nada», y que era más ágil usar las comisiones existentes. La Junta vota de forma ponderada y no consta el voto de cada grupo.
+- Fuentes:
+  - [COPE: la Junta de Portavoces la rechaza](https://www.cope.es/actualidad/espana/noticias/psoe-podemos-pactan-con-erc-bildu-una-alternativa-comision-mediador-20230314_2603097)
+  - [Congreso: ficha oficial 156/000061 (caducada)](https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=156%2F000061)
 
 ### Cancelaciones de obras de teatro en ayuntamientos de PP y Vox
 - Fecha: jul – dic 2023
@@ -744,17 +804,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Teleprensa](https://www.teleprensa.com/articulo/sevilla/pp-rechaza-solitario-comision-investigacion-parlamento-contratos-sanitarios-que-pedia-psoe/202505291452312128965.html)
   - [elDiario.es: «la corrupción en Andalucía no existe»](https://www.eldiario.es/andalucia/pp-moreno-aisla-parlamento-causas-contratos-sanitarios-corrupcion-andalucia-no-existe_1_12339772.html)
 
-### Congreso: la comisión del caso Koldo que registró el PSOE sigue sin debatirse seis meses después
-- Fecha: jun – dic 2025
+### Congreso: la comisión del caso Koldo que registró el PSOE nunca llegó a debatirse
+- Fecha: jun 2025 – oct 2026
 - Partidos: PSOE
 - Categoría: Control parlamentario
 - Parlamento o territorio: Congreso
 - Nivel de prueba: Documentado en medios
-- Resumen: Tras el informe de la UCO sobre Santos Cerdán, el PSOE registró una comisión de investigación sobre el caso Koldo con un plazo de seis meses. En diciembre de 2025, según Europa Press, la petición seguía sin llevarse al pleno, y Compromís exigió al PSOE que la pusiera en marcha.
+- Resumen: Tras el informe de la UCO sobre Santos Cerdán, el PSOE registró una comisión de investigación sobre el caso Koldo con un plazo de seis meses. En diciembre de 2025, según Europa Press, la petición seguía sin llevarse al pleno, y Compromís exigió al PSOE que la pusiera en marcha. Según la ficha oficial del Congreso, siguió en la Junta de Portavoces desde el 24 de junio de 2025 sin llegar nunca al Pleno, y decayó con la disolución de las Cortes el 6 de octubre de 2026.
 - Matiz: Está confirmado que quedó parada, pero ninguna fuente fiable aclara quién la frenó. Que fuera el PSOE solo lo afirma The Objective, que no usamos como fuente.
 - Fuentes:
   - [Público: el PSOE la registra](https://www.publico.es/politica/congreso/psoe-registra-congreso-peticion-comision-investigacion-sobre-caso-cerdan.html)
   - [Infobae (Europa Press): sigue sin debatirse](https://www.infobae.com/espana/agencias/2025/12/12/compromis-exige-al-psoe-crear-la-comision-del-caso-koldo-del-congreso-si-quieren-tomarse-las-uvas-deben-cumplir/)
+  - [Congreso: ficha oficial 156/000011](https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XV&_iniciativas_id=156%2F000011)
 
 ### Junta General de Asturias: la izquierda deja fuera a Barbón y a sus consejeros en la comisión de la mina de Cerredo
 - Fecha: jun 2025
@@ -767,6 +828,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Heraldo de León](https://www.heraldodeleon.es/articulo/provincia-leon/comision-accidente-cerredo-da-luz-verde-92-comparecencias-mientras-avanza-investigacion-judicial/20250622094143033420.html)
   - [elDiario.es: el dictamen](https://www.eldiario.es/asturias/psoe-desmarca-vota-dictamen-reprueba-cuatro-exconsejeros-accidente-minero-zarreu_1_13247604.html)
+
+### Senado: el PP rechaza en la comisión Koldo citar a Feijóo y Tellado y, con su abstención, los comparecientes que pedía Vox
+- Fecha: jun 2025
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Senado
+- Nivel de prueba: Documentado en medios
+- Resumen: En la comisión de investigación del caso Koldo, el PP usó su mayoría absoluta para rechazar las listas de comparecientes del PSOE y de Vox, lo que impidió interrogar a Alberto Núñez Feijóo, a Miguel Tellado, a José Luis Rodríguez Zapatero y a José Bono. La abstención del PP tumbó también los nombres que pedía Vox, como José Blanco, Antonio Hernando, Óscar López y Óscar Puente. Se aprobó solo la lista del PP, con Santos Cerdán, la llamada rama navarra y dirigentes socialistas andaluces.
+- Matiz: Los servicios jurídicos descartaron citar a Isabel Díaz Ayuso, como pedía el PSOE. No consta el argumento del PP para rechazar el resto. En diciembre de 2025 el propio PP incluyó a Zapatero en la lista por una reunión con un directivo de Plus Ultra detenido.
+- Fuentes:
+  - [Infobae (directo, 23 jun 2025)](https://www.infobae.com/espana/2025/06/23/jose-luis-abalos-y-koldo-garcia-declaran-en-el-tribunal-supremo-sigue-en-directo-la-ultima-hora-del-caso-koldo/)
+  - [La Voz del Sur: la lista aprobada y la abstención ante Vox](https://www.lavozdelsur.es/actualidad/politica/senado-amplia-comparecencias-caso-koldo-con-nuevos-nombres-vinculados-psoe-andaluz_336802_102.html)
+  - [Infobae (Europa Press): el PP incluye a Zapatero (dic 2025)](https://www.infobae.com/espana/agencias/2025/12/30/el-pp-convoca-hoy-a-la-comision-koldo-del-senado-para-incluir-a-zapatero-en-el-listado-de-comparecientes/)
 
 ### Caso Montoro: investigación por presuntos favores fiscales a empresas desde Hacienda
 - Fecha: 2018 – 2026
