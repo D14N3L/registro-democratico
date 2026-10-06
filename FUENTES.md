@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (121)
+## Fichas del registro (138)
 
 ### Vox nace financiado casi un millón de euros por simpatizantes del exilio iraní
 - Fecha: dic 2013 – abr 2014
@@ -39,6 +39,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Ara](https://es.ara.cat/politica/precedentes-no-exitosos-investigar-espionaje-parlament_1_4366361.html)
   - [Crónica Global (El Español)](https://cronicaglobal.elespanol.com/politica/20260510/junts-erc-usaron-mossos-periodistas-abogados-empresarios/1003742759734_0.html)
+
+### Congreso: el Gobierno cambia por decreto-ley la elección de RTVE y nombra a una administradora única; el TC anula una parte
+- Fecha: jun 2018 – jun 2021
+- Partidos: PSOE
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El Real Decreto-ley 4/2018, de 22 de junio, mantuvo los dos tercios en primera votación para elegir el consejo de RTVE, pero permitió hacerlo en segunda por mayoría absoluta si la candidatura procedía de al menos la mitad de los grupos, que el Congreso eligiera a los consejeros del Senado si este no lo hacía y, si todo fallaba, nombrar a un administrador provisional único a propuesta del Gobierno. El Congreso lo convalidó el 4 de julio por 179 votos a 165. El 27 de julio eligió administradora única a Rosa María Mateo con 180 votos; hubo 131 nulos y Ciudadanos abandonó el hemiciclo. En junio de 2021 el TC (STC 134/2021) estimó en parte el recurso del PP: anuló que el Congreso pudiera suplir al Senado y avaló el resto, incluido el administrador provisional.
+- Matiz: El Gobierno alegó que, casi nueve meses después de la Ley 5/2017, las Cámaras no habían iniciado la elección del nuevo consejo y que el anterior había terminado su mandato. La sentencia salió con la mitad del Pleno y el voto de calidad del presidente, con votos particulares en los dos sentidos. En marzo de 2021 el consejo y el presidente, José Manuel Pérez Tornero, se eligieron ya por dos tercios.
+- Fuentes:
+  - [BOE: Real Decreto-ley 4/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-8577)
+  - [Congreso: convalidación (4 jul 2018)](https://www.congreso.es/web/guest/notas-de-prensa?p_p_id=notasprensa&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_notasprensa_mvcPath=detalle&_notasprensa_notaId=29210)
+  - [elDiario.es: Rosa María Mateo, administradora única (jul 2018)](https://www.eldiario.es/vertele/noticias/Rosa-Maria-Mateo-administradora-unica-RTVE_0_2034396549.html)
+  - [BOE: STC 134/2021](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-13018)
 
 ### PSOE, PP, Ciudadanos y Vox vetan en el Congreso investigar al rey Juan Carlos y los GAL
 - Fecha: 2018 – 2022
@@ -79,6 +93,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Newtral](https://www.newtral.es/claves-renovacion-cgpj/20240626/)
   - [Comisión Europea: informe sobre el Estado de Derecho 2023, capítulo de España](https://commission.europa.eu/system/files/2023-07/23_1_52576_coun_chap_spain_en.pdf)
 
+### Generalitat de Catalunya: el reparto de la publicidad institucional de 2018 no sigue la audiencia
+- Fecha: 2018
+- Partidos: Junts, ERC
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Documentado en medios
+- Resumen: Según los datos oficiales de la Generalitat, en 2018 8TV recibió 599.635 euros, la segunda televisión tras TV3, aunque cerró el año con un 1,5% de audiencia. VilaWeb, el segundo medio más seguido según el barómetro del CEO de 2018, recibió 65.420 euros, y El Nacional, el sexto, 507.276 euros sumando sus suplementos.
+- Matiz: El análisis de audiencia lo hacen Ara y VilaWeb, y VilaWeb es parte interesada. El PSC y los comuns pidieron que la comisión que reparte la publicidad compareciera en el Parlament. Hasta junio de 2018 la Generalitat estuvo bajo el artículo 155; después gobernaron JxCat y ERC. La Generalitat publica el reparto por medio desde 2015.
+- Fuentes:
+  - [Ara: 8TV y la publicidad institucional (ago 2019)](https://www.ara.cat/media/publicitat-institucional-Govern-punt-mira_0_2297770245.html)
+  - [VilaWeb: el reparto llega al Parlament (ago 2019)](https://www.vilaweb.cat/noticies/lescandol-pel-repartiment-de-la-publicitat-institucional-de-la-generalitat-de-catalunya-arriba-al-parlament/)
+  - [Generalitat: datos abiertos de campañas y publicidad institucional](https://analisi.transparenciacatalunya.cat/Sector-P-blic/Campanyes-i-promoci-institucional-de-la-Generalita/8d5a-6vsk)
+
+### Castilla-La Mancha: el reparto de la publicidad institucional favorece a algunos medios por encima de su audiencia
+- Fecha: 2016 – 2018
+- Partidos: PSOE
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Castilla-La Mancha
+- Nivel de prueba: Documentado en medios
+- Resumen: Un estudio académico que cruza los datos oficiales de contratación con la audiencia (OJD) concluye que en 2018 la edición castellanomanchega de elDiario.es fue el segundo medio en inversión de la Junta (115.803 euros) y el décimo en visitas, y que webs como encastillalamancha.es o dclm.es recibieron más de lo que les correspondería solo por audiencia. En radio, entre 2016 y 2018 la SER recibió 1,78 millones, frente a 1,04 de Onda Cero y 0,83 de COPE.
+- Matiz: Los autores señalan que el acuerdo marco puntúa también la visibilidad y los formatos, no solo la audiencia, y que la diferencia en radio podría justificarse porque la SER tiene más emisoras comarcales. No se han encontrado datos por medio de 2019 en adelante.
+- Fuentes:
+  - [CIC. Cuadernos de Información y Comunicación, 24 (2019), Universidad Complutense](https://revistas.ucm.es/index.php/CIYC/article/view/64638)
+
 ### Parlamento Vasco: PNV y PSE rechazan investigar la OPE de Osakidetza
 - Fecha: 21 mar 2019
 - Partidos: PNV, PSOE
@@ -89,6 +127,36 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El PSE dijo que el pleno no podía convertirse en un tribunal político; el PNV lo presentó como una ofensiva de la oposición contra su partido.
 - Fuentes:
   - [Naiz](https://www.naiz.eus/es/info/noticia/20190321/pnv-pse-y-pp-impiden-una-vez-mas-que-se-investigue-en-la-camara-la-ope-de-osakidetza)
+
+### Junta Electoral Central y Supremo: TV3 vulneró la neutralidad en la campaña de abril de 2019
+- Fecha: mar 2019 – feb 2021
+- Partidos: Junts, ERC
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: La JEC declaró que la CCMA vulneró la neutralidad informativa al emitir íntegra la manifestación independentista de Madrid del 16 de marzo de 2019 y, el 9 de abril, en periodo electoral, el documental «Sense ficció: un procés dins el procés»; le impuso una multa de 1.200 euros (Acuerdo 537/2019). En febrero de 2021 el Supremo desestimó el recurso de la CCMA: la manifestación tuvo una «difusión cualificada» de mensajes de algunas candidaturas a la que no tuvieron acceso las demás, y la CCMA no explicó qué razón le exigía emitir el documental en esas fechas.
+- Matiz: La Junta Electoral prohibió además a los medios de la CCMA decir «presos políticos» y «exilio» durante los periodos electorales de abril y noviembre de 2019 y de febrero de 2021, a denuncia de Ciudadanos; la CCMA anunció recursos. La CCMA depende del Parlament: en marzo de 2022 su consejo se renovó con 93 votos, los dos tercios que exige la ley desde 2019, con candidatos de PSC, ERC y Junts.
+- Fuentes:
+  - [Poder Judicial: el Supremo confirma los acuerdos de la JEC (feb 2021)](https://www.poderjudicial.es/cgpj/gl/Poder-Xudicial/Tribunal-Supremo/Sala-de-Prensa/Hemeroteca/El-Tribunal-Supremo-confirma-los-acuerdos-de-la-Junta-Electoral-Central-que-apreciaron-vulneracion-de-la-neutralidad-en-dos-emisiones-de-la-TV3-durante-el-periodo-electoral-de-abril-de-2019)
+  - [Junta Electoral Central: Acuerdo 249/2019](https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?packedargs=anyosesion%3D2019&idacuerdoinstruccion=67567&idsesion=934&template=Doctrina/JEC_Detalle)
+  - [Junta Electoral Central: Acuerdo 537/2019 (multa)](https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2019&idacuerdoinstruccion=69411&idsesion=948&template=Doctrina/JEC_Detalle)
+  - [elDiario.es: el Supremo sentencia que TV3 vulneró la neutralidad](https://www.eldiario.es/vertele/noticias/tribunal-supremo-sentencia-tv3-neutralidad-elecciones-28-a-2019_1_7400518.html)
+  - [El Nacional: prohibición de «presos políticos» y «exilio» (mar 2019)](https://www.elnacional.cat/es/politica/junta-electoral-tv3-presos-politicos-exilio_369436_102.html)
+  - [AraInfo: nueva prohibición para el 10-N (oct 2019)](https://arainfo.org/la-junta-electoral-prohibe-a-tv3-decir-presos-politicos-exilio-y-consell-de-la-republica/)
+  - [3Cat: nueva prohibición para el 14-F (feb 2021)](https://www.3cat.cat/324/la-junta-electoral-tornar-a-prohibir-a-tv3-i-catalunya-radio-dir-presos-politics-i-exili/noticia/3075457/)
+  - [Parlament de Catalunya: renovación del consejo de la CCMA (mar 2022)](https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270449760)
+
+### Asamblea Regional de Murcia: PP, Cs y Vox eligen al director de 7TV en segunda votación
+- Fecha: oct 2019 – mar 2024
+- Partidos: PP, Cs, Vox
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Documentado en medios
+- Resumen: Mariano Caballero fue elegido director de RTRM en segunda votación, con los votos de PP, Ciudadanos y Vox y en contra del PSOE, tras no alcanzar los dos tercios en la primera.
+- Matiz: En marzo de 2024 el candidato del PP, Juan Antonio de Heras, sí obtuvo los dos tercios: 30 votos a favor y 15 en contra.
+- Fuentes:
+  - [ORM: la Asamblea elige a Mariano Caballero (oct 2019)](https://www.orm.es/informativos/noticias-2019/la-asamblea-regional-elige-a-mariano-caballero-como-nuevo-director-de-rtrm/)
+  - [Asamblea Regional de Murcia: De Heras, elegido (mar 2024)](https://www.asambleamurcia.es/noticias/20240313/395852)
 
 ### Sentencia del procés: condenas por sedición y malversación
 - Fecha: 14 oct 2019
@@ -233,6 +301,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Español: el Gobierno promete a la UE retirarla](https://www.elespanol.com/espana/politica/20210420/gobierno-promete-ue-retirar-mayorias-renovar-cgpj/575193020_0.html)
   - [Newtral: la propuesta de PSOE y UP](https://www.newtral.es/cgpj-nombramientos-psoe-podemos-congreso/20201215/)
 
+### Parlamento Vasco: PNV y PSE eligen en solitario al director de EITB, exdirector de comunicación de Urkullu
+- Fecha: oct 2020
+- Partidos: PNV, PSOE
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Documentado en medios
+- Resumen: El Parlamento Vasco eligió director general de EITB a Andoni Aldekoa por mayoría absoluta, con los votos de PNV y PSE-EE, que forman el Gobierno Vasco, y el rechazo de toda la oposición. Aldekoa había militado en el PNV y había sido director de comunicación del lehendakari Íñigo Urkullu.
+- Matiz: La ley de EITB permite elegir al director por mayoría absoluta a propuesta del Gobierno desde 1996: no hubo cambio de reglas. El PNV criticó que se cuestione que un miembro del partido pueda tener derecho a gestionar una sociedad pública, y el PSE le dio un voto de confianza.
+- Fuentes:
+  - [EITB: Aldekoa, elegido director general (oct 2020)](https://www.eitb.eus/es/noticias/politica/detalle/7597136/andoni-aldekoa-elegido-director-general-eitb-29-octubre-2020/)
+  - [elDiario.es (Europa Press): críticas a su falta de independencia](https://www.eldiario.es/vertele/noticias/andoni-aldekoa-nuevo-director-eitb-criticas-falta-independencia-pnv_1_7409084.html)
+  - [BOE: Ley 5/1982 de EITB, texto consolidado](https://www.boe.es/buscar/act.php?id=BOE-A-2012-5534)
+
 ### Parlament balear: el Govern de izquierdas rechaza investigar a altos cargos vacunados y la explotación de menores tuteladas
 - Fecha: mar 2021
 - Partidos: PSOE, Podemos/UP, Otros
@@ -343,6 +424,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Público](https://www.publico.es/politica/pp-y-vox-tumban-comision-investigacion-residencias-asamblea-madrid.html/amp)
   - [infoLibre: la Mesa la rechaza de nuevo (oct 2022)](https://www.infolibre.es/politica/rechazan-nuevo-comision-investigacion-residencias-asamblea-madrid-izquierda_1_1347390.html)
   - [elDiario.es: el octavo rechazo (mar 2024)](https://www.eldiario.es/madrid/politica/pp-vox-madrid-rechazan-comision-estudio-situacion-residencias-mayores-propuesta-psoe_1_10978582.html)
+
+### Consell de l'Audiovisual de Catalunya: los documentales de TV3 sobre la situación política tienen sesgo independentista
+- Fecha: sep 2021
+- Partidos: Junts, ERC
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Organismo oficial
+- Resumen: El pleno del CAC aprobó por 2 votos a 1 un acuerdo que concluye que TV3 no cumple su función de servicio público en los documentales que ha emitido sobre la situación política en Cataluña porque tienen «un biaix independentista». Votaron a favor Daniel Sirera, del PP, y Carme Figueras, del PSC.
+- Matiz: El presidente del CAC, Roger Loppacher, nombrado a propuesta de Junts, votó en contra con un voto particular: sostuvo que el acuerdo «s'aparti i distorsioni intencionadament l'informe tècnic» del propio CAC.
+- Fuentes:
+  - [Ara: el CAC, dividido por el informe (sep 2021)](https://www.ara.cat/media/cac-dividit-informe-assegura-tv3-biaix-independentista_1_4117966.html)
+  - [El Nacional: el CAC y los documentales de TV3](https://www.elnacional.cat/ca/societat/cac-insta-tv3-reportatges-unionistes-rebuig-president_645992_102.html)
 
 ### El TC anula el cierre del Congreso al inicio de la pandemia
 - Fecha: 5 oct 2021
@@ -463,6 +556,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Orain](https://orain.eus/es/politica/2022/03/22/el-congreso-rechaza-investigar-masacre-del-3-de-marzo-en-vitoriagasteiz/)
   - [Deia](https://www.deia.eus/actualidad/2022/03/22/psoe-pp-vox-ciudadanos-tumban-1724740.html)
 
+### Parlament balear: los dos bloques eligen al director de IB3 en segunda votación solo con sus votos
+- Fecha: abr 2022 – abr 2025
+- Partidos: PSOE, Podemos/UP, Otros, PP, Vox
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Baleares
+- Nivel de prueba: Documentado en medios
+- Resumen: En abril de 2022 los grupos del Pacte (PSIB, Unides Podem y Més per Mallorca) reeligieron a Andreu Manresa con 31 votos a favor y 27 en blanco, en segunda votación, tras no lograr los tres quintos. En septiembre de 2023 Manresa dimitió cuando PP y Vox, que ya gobernaban, preparaban un cambio de ley para facilitar su cese. En abril de 2025 PP y Vox eligieron a Josep Maria Codony con 32 votos en segunda votación, tras no lograr los tres quintos en marzo; hubo 20 votos en blanco y 4 nulos.
+- Matiz: La ley de IB3 prevé la segunda votación por mayoría absoluta: en ninguno de los dos casos se cambiaron las reglas, y el cambio de ley de 2023 no llegó a aprobarse.
+- Fuentes:
+  - [IB3: Manresa, reelegido (abr 2022)](https://ib3.org/andreu-manresa-reelegit-director-general-dib3)
+  - [Última Hora: Manresa dimite (sep 2023)](https://www.ultimahora.es/noticias/local/2023/09/22/2016887/manresa-renuncia-direccion-ib3-plena-campana-del-vox-para-echarle.html)
+  - [IB3: PP y Vox nombran a Codony (abr 2025)](https://ib3.org/pp-i-vox-aproven-el-nomenament-de-josep-codony-com-a-nou-director-general-dib3)
+
 ### Congreso: PSOE, PP, Vox y Ciudadanos tumban la comisión de investigación sobre Pegasus
 - Fecha: 3 may 2022
 - Partidos: PSOE, PP, Vox, Cs
@@ -488,6 +594,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Español: imputación](https://www.elespanol.com/espana/tribunales/20231016/juez-imputa-exdirectora-cni-paz-esteban-espionaje-pegasus-aragones/802419787_0.html)
   - [elDiario.es: la Audiencia mantiene la imputación (oct 2024)](https://www.eldiario.es/catalunya/justicia-mantiene-imputada-exjefa-cni-espiar-aragones-investigacion-no-agotada_1_11761570.html)
   - [Infobae: tercera imputación (feb 2025)](https://www.infobae.com/espana/2025/02/14/la-exdirectora-del-cni-paz-esteban-imputada-en-una-tercera-causa-por-espionaje-a-dirigentes-de-erc/)
+
+### Junta Electoral Central: Canal Sur vulneró la neutralidad con un resumen de la legislatura
+- Fecha: may 2022
+- Partidos: PP
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Organismo oficial
+- Resumen: Por un recurso del PSOE-A, la JEC (Acuerdo 81/2022) declaró que el espacio de Canal Sur Noticias 1 del 26 de abril de 2022 sobre la legislatura «vulneró el principio de neutralidad informativa»: enumeraba logros del Gobierno andaluz con imágenes ilustrativas, «sin incluir ningún matiz crítico o negativo». Instó a Canal Sur a extremar el cuidado, sin otras medidas.
+- Matiz: La elección del director de la RTVA no fue de bloque: Juan de Dios Mellado salió elegido en 2019 sin votos en contra y reelegido en 2022 con 101 de 108 votos. El Consejo Profesional de la RTVA ha denunciado en sus informes la sobrerrepresentación del presidente de la Junta (en abril de 2023, 438 minutos en seis meses, más de diez veces la del líder de la oposición); son denuncias, no resoluciones.
+- Fuentes:
+  - [Junta Electoral Central: Acuerdo 81/2022](https://www.juntaelectoralcentral.es/cs/Satellite?c=Page&childpagename=JEC%2FJEC_layout_HTML&cid=1379061424237&packedargs=esinstruccion%3Dfalse&idacuerdoinstruccion=80209&sPag=130&template=Doctrina%2FJEC_DetalleHTML&total=14332&pagename=jec%2Fwrapper%2FJEC_Wrapper)
+  - [elDiario.es: Mellado, elegido sin votos en contra (2019)](https://www.eldiario.es/andalucia/parlamento-polarizado-historia-director-rtva_1_1453653.html)
+  - [Canal Sur: Mellado, reelegido (2022)](https://www.canalsur.es/rtva/comunicacion/juande-mellado-reelegido-oposicion-director_1_1199173.html)
+  - [elDiario.es: el Consejo Profesional denuncia 190 casos (abr 2023)](https://vertele.eldiario.es/noticias/consejo-profesional-canal-sur-denuncia-190-ejemplos-degradacion-cadena-pp_1_10140735.html)
 
 ### Cataluña aprueba un decreto-ley y una ley que impiden fijar porcentajes de lengua tras la sentencia firme del 25% de castellano
 - Fecha: may – jul 2022
@@ -715,6 +835,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: el Parlamento convalida el decreto (nov 2023)](https://www.eldiario.es/canariasahora/parlamento-canario/parlamento-canarias-convalida-creacion-administracion-general-rtvc_1_10668151.html)
   - [elDiario.es: el Parlamento aprueba la ley de RTVC (jul 2026)](https://www.eldiario.es/canariasahora/politica/nodo-teleclavijo-parlamento-ley-rtvc-rechazo-oposicion_1_13398224.html)
 
+### Cortes de Aragón: PP y Vox reforman por lectura única la ley de Aragón TV
+- Fecha: oct – nov 2023
+- Partidos: PP, Vox
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Aragón
+- Nivel de prueba: Documentado en medios
+- Resumen: La Ley 15/2023, de 2 de noviembre, tramitada por lectura única y aprobada por 36 votos a 31, quitó el voto al representante del Consejo Asesor en el consejo de administración de la CARTV y permite que la Dirección General «pueda elegir libremente a su equipo de confianza».
+- Matiz: Las mayorías para elegir el consejo y la dirección no cambiaron. El PP defendió adaptar el consejo a la composición de las comisiones de las Cortes, que «garantizan suficientemente la representatividad», y evitar procesos de selección que acaban en los tribunales. El PSOE (Alastuey) replicó que «lo primero que se hace cuando se quiere una victoria es controlar las comunicaciones».
+- Fuentes:
+  - [BOE: Ley 15/2023 de Aragón](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-23345)
+  - [Cortes de Aragón: Diario de Sesiones n.º 8 (2 y 3 nov 2023)](https://bases.cortesaragon.es/bases/original.nsf/(DSCA1)/0D577CCA0F0AB9A2C1258AA90032C4F3/$File/DSCA_8_Pleno_2023-11-2y3.pdf)
+
 ### Castilla y León: un organismo de la consejería de Vox reparte contratos a dedo a medios afines
 - Fecha: 2023 – 2024
 - Partidos: Vox, PP
@@ -741,6 +873,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: cierre de aulas según CCOO](https://www.eldiario.es/sociedad/ccoo-denuncia-ayuso-cerrado-88-aulas-infantil-primaria-curso-mayoria-municipios-obreros-sur_1_13301791.html)
   - [elDiario.es: el acuerdo con Vox y los 43,5 millones (jun 2022)](https://www.eldiario.es/madrid/comunidad-amplia-limite-renta-becas-0-3-bachillerato-privada-35-000-euros-persona_1_9043632.html)
   - [Comunidad de Madrid: el 95,3% obtiene su primera opción](https://www.comunidad.madrid/noticias/2025/10/23/comunidad-madrid-defiende-libertad-eleccion-centro-educativo-familias-region)
+
+### Galicia: la Junta Electoral y el Supremo corrigen el recorte del bloque electoral de la TVG
+- Fecha: ene 2024 – abr 2025
+- Partidos: PP
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Sentencia firme
+- Resumen: Para las autonómicas de febrero de 2024 la CRTVG redujo el tiempo de los bloques electorales respecto a 2020. A reclamación del BNG, la Xunta Electoral de Galicia le ordenó ampliarlo en 1 minuto y 40 segundos, hasta 6 minutos. La JEC desestimó el recurso de la CRTVG (Acuerdo 29/2024) y el Tribunal Supremo también, en abril de 2025.
+- Matiz: El acuerdo de la JEC es firme en vía administrativa. La sentencia del Supremo se conoce por la información publicada; falta su número.
+- Fuentes:
+  - [Junta Electoral Central: Acuerdo 29/2024](https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2024&idacuerdoinstruccion=126435&idsesion=1061&template=Doctrina%2FJEC_Detalle)
+  - [Infobae: el Supremo ratifica el acuerdo (abr 2025)](https://www.infobae.com/espana/agencias/2025/04/09/el-ts-ratifica-el-acuerdo-de-la-junta-electoral-por-el-18f-que-vio-indebido-el-recorte-de-la-informacion-en-la-crtvg/)
 
 ### Asamblea de Madrid: el PP bloquea investigar los contratos de emergencia del covid incluso después de que intervenga el TC
 - Fecha: 2024 – 2026
@@ -817,6 +961,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: el TC suspende parte de la ley valenciana](https://www.eldiario.es/comunitat-valenciana/constitucional-tumba-parte-ley-valenciana-concordia-aprobada-pp-vox-equipara-franquismo-democracia_1_12334449.html)
   - [elDiario.es: el PP vota contra tramitar la ley de concordia de Castilla y León (sep 2024)](https://www.eldiario.es/castilla-y-leon/politica/pp-vota-psoe-rechazar-ley-concordia-castilla-leon-pacto-vox_1_11680082.html)
 
+### Junta Electoral Central: RTVE debe compensar al resto de partidos por la entrevista a Sánchez en la campaña catalana
+- Fecha: may 2024
+- Partidos: PSOE
+- Categoría: Medios públicos y propaganda
+- Nivel de prueba: Organismo oficial
+- Resumen: En plena campaña de las elecciones catalanas de 2024, La 1 entrevistó a Pedro Sánchez. Tras los recursos del PP, ERC y Ciudadanos, la JEC (Acuerdo 127/2024) aceptó la decisión autónoma de RTVE de hacer la entrevista por su relevancia, pero concluyó que el pluralismo y la igualdad «exigen que RTVE proceda a compensar» al resto de formaciones con representación en el Parlament. RTVE compensó en el Canal 24 Horas, y la JEC lo aceptó como «solución razonable» aunque no «plenamente satisfactoria».
+- Matiz: La JEC no puso en duda que la entrevista tuviera interés informativo; lo que exigió fue compensar a los demás partidos. Según infoLibre, la JEC señaló que la audiencia del Canal 24 Horas es muy inferior a la de La 1.
+- Fuentes:
+  - [Junta Electoral Central: Acuerdo 127/2024](https://www.juntaelectoralcentral.es/cs/Satellite?c=Page&childpagename=JEC/JEC_layout_HTML&cid=1379061424237&packedargs=anyosesion%3D2024&idacuerdoinstruccion=130789&idsesion=1072&template=Doctrina/JEC_DetalleHTML&pagename=jec/wrapper/JEC_Wrapper)
+  - [infoLibre: la JEC acepta la compensación en el 24 Horas](https://www.infolibre.es/politica/luz-verde-jec-rtve-compense-24horas-rivales-psc-entrevista-sanchez_1_1787551.html)
+
 ### Parlament balear: su presidente, Gabriel Le Senne (Vox), irá a juicio por delito de odio por romper la foto de tres republicanas asesinadas
 - Fecha: jun 2024 – oct 2026
 - Partidos: Vox
@@ -892,6 +1047,22 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2024/09/28/el-psoe-certifica-el-fin-de-la-comision-de-mascarillas-del-congreso-y-lamenta-no-haber-convencido-a-cc-para-la-prorroga/)
   - [Infobae (Europa Press): la comisión caduca sin interrogar a Ábalos y Koldo (oct 2024)](https://www.infobae.com/espana/agencias/2024/10/02/la-comision-del-congreso-sobre-compras-de-mascarillas-caduca-hoy-sin-conclusiones-y-sin-interrogar-a-abalos-y-koldo/)
 
+### Congreso y Senado: el Gobierno rebaja por decreto-ley la mayoría para elegir el consejo de RTVE y cada bloque elige a los suyos
+- Fecha: oct – nov 2024
+- Partidos: PSOE, Sumar, ERC, Junts, PNV, Podemos/UP, PP
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: El Real Decreto-ley 5/2024, de 22 de octubre, amplió el consejo de RTVE de 10 a 15 miembros (11 del Congreso y 4 del Senado) y permitió elegirlos por mayoría absoluta si no se alcanzan los dos tercios. Se convalidó el 30 de octubre con 175 votos y el voto en contra del BNG; PP, Vox, UPN y Compromís no votaron. El 14 de noviembre el Congreso eligió en segunda votación, con 179 votos, a los 11 consejeros pactados por PSOE, Sumar, Junts, ERC, Podemos y PNV; PP y Vox no participaron. En el Senado, el PP eligió con su mayoría absoluta a sus cuatro consejeros (144 votos a favor y 111 en blanco). El 28 de noviembre José Pablo López fue elegido presidente en segunda votación con 178 votos, sin PP ni Vox.
+- Matiz: El Gobierno lo justificó porque no se habían alcanzado los acuerdos para renovar el consejo y citó la STC 134/2021. El ministro Óscar López dijo que servía «para desbloquear el Consejo. Para que no estemos como estuvimos cinco años con el Poder Judicial». PP y Vox criticaron la reforma por decreto. No se ha localizado ningún recurso ante el TC contra este decreto.
+- Fuentes:
+  - [BOE: Real Decreto-ley 5/2024](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-21699)
+  - [elDiario.es: convalidación (oct 2024)](https://www.eldiario.es/politica/congreso-aprueba-decreto-rtve-renovara-consejo-mayor-presencia-gobierno-socios_1_11776834.html)
+  - [Valencia Plaza: el Congreso elige a 11 consejeros (nov 2024)](https://valenciaplaza.com/valenciaplaza/el-congreso-elige-a-los-11-consejeros-de-rtve-propuestos-por-psoe-y-sus-socios)
+  - [elDiario.es: quiénes son los 15 consejeros](https://www.eldiario.es/vertele/noticias/rtve-consejeros-consejo-administracion-2024-15-nuevos-psoe-pp-sumar-junts-erc-podemos-pnv-jose-pablo-lopez_1_11829934.html)
+  - [infoLibre: el PP elige a sus consejeros en el Senado](https://www.infolibre.es/medios/senado-elige-cuatro-consejeros-propuestos-pp-culmina-renovacion-rtve_1_1902798.html)
+  - [Infobae: José Pablo López, presidente (nov 2024)](https://www.infobae.com/espana/2024/11/28/jose-pablo-lopez-nuevo-presidente-de-rtve-el-congreso-respalda-la-eleccion-del-exdirectivo-cesado-por-elena-sanchez/)
+
 ### Asamblea de Madrid: el PP investiga a Begoña Gómez pero veta investigar los contratos del novio de Ayuso
 - Fecha: 2023 – 2024
 - Partidos: PP
@@ -956,6 +1127,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Valencia Plaza (EFE): la UCO en el Ayuntamiento (abr 2025)](https://valenciaplaza.com/valenciaplaza/valencia/la-uco-registra-el-ayuntamiento-de-valencia-en-busca-de-contratos-de-badenas-vox-en-valencia-activa)
   - [elDiario.es: Vox readmite a Badenas (abr 2025)](https://www.eldiario.es/comunitat-valenciana/valencia/vox-recupera-portavoz-investigado-fiscalia-valencia_1_12189103.html)
   - [El Español: Anticorrupción incorpora la auditoría (abr 2026)](https://www.elespanol.com/valencia/20260427/anticorrupcion-incorpora-auditoria-ayuntamiento-irregularidades-deficiencias-valencia-activa/1003744220537_0.html)
+
+### Parlamento de Galicia: el PP aprueba en solitario la ley que permite elegir por mayoría absoluta la dirección de la CRTVG y la aplica
+- Fecha: mar – jul 2025
+- Partidos: PP
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Documentado en medios
+- Resumen: La Ley 1/2025, de 14 de marzo, aprobada solo con los votos del PP (BNG y PSdeG en contra y abstención de Democracia Ourensana), mantiene para la dirección general de la CRTVG los dos tercios y, al mes, los tres quintos, pero añade que si no se alcanzan la elección se hará «por mayoría absoluta en la siguiente sesión plenaria». El 8 de julio de 2025 el Parlamento eligió así a Concha Pombo, en tercera votación y con el único apoyo del PP, tras no lograr los 50 y 45 votos de las dos primeras.
+- Matiz: El consejo de administración sigue necesitando dos tercios o tres quintos. Pombo sustituyó a Alfonso Sánchez Izquierdo, director desde 2009. El Colexio Profesional de Xornalistas de Galicia dijo que la ley «aumenta la gubernamentalización y el control sobre los medios públicos gallegos» y el BNG habló de «dedazo».
+- Fuentes:
+  - [BOE: Ley 1/2025 de Galicia](https://www.boe.es/eli/es-ga/l/2025/03/14/1/dof/spa/pdf)
+  - [Galiciapress: aprobada solo con el PP (mar 2025)](https://www.galiciapress.es/articulo/politica-galicia/2025-03-11/5211907-aprobada-ley-crtvg-solo-pp-bng-psdeg-afean-consagrar-control-sobre-ente)
+  - [El Correo Gallego: Concha Pombo, elegida en tercera votación (jul 2025)](https://www.elcorreogallego.es/galicia/2025/07/08/concha-pombo-elegida-nueva-directora-119478216.html)
+  - [elDiario.es: a la tercera bastará la mayoría absoluta](https://www.eldiario.es/galicia/pp-quema-etapas-relevo-frente-tvg-tercera-le-bastara-mayoria-absoluta_1_12371086.html)
 
 ### Vox se financia con un banco húngaro ligado al Gobierno de Orbán que el Tribunal de Cuentas no pudo verificar
 - Fecha: 2023 – 2025
@@ -1231,11 +1416,23 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Documentado en medios
 - Resumen: Según los datos de la propia Comunidad analizados por Público, en 2023 OKDiario recibió más de 500.000 euros, Libertad Digital 300.000 y EDATV 67.000, frente a 280.000 entre La Vanguardia, elDiario.es y Público juntos. ESdiario, con menos de un millón de usuarios al mes, recibió 170.677 euros y Público, con más de 3,5 millones, 27.411. En 2025, según CTXT, OKDiario recibió 359.956 euros, más que la edición digital de El País pese a tener menos audiencia.
-- Matiz: La publicidad institucional debe repartirse con criterios objetivos como la audiencia. La Comunidad no respondió a Público. Queda pendiente comparar con el reparto del Gobierno central y de otras comunidades para aplicar el mismo rasero.
+- Matiz: La publicidad institucional debe repartirse con criterios objetivos como la audiencia. La Comunidad no respondió a Público. Hay fichas con el mismo tipo de dato para el Gobierno central (2025), Cataluña (2018) y Castilla-La Mancha (2016-2018).
 - Fuentes:
   - [Público: el reparto de 2023](https://www.publico.es/politica/gobierno-madrileno-riega-casi-900-000-euros-publicidad-digitales-inda-losantos-negre.html)
   - [CTXT: el reparto de 2025](https://ctxt.es/es/20260901/Politica/55209/Diego-Delgado-Ayuso-CAM-Madrid-medios-pseudomedios-EDATV-OKdiario.htm)
   - [El Salto: la publicidad del Canal de Isabel II](https://www.elsaltodiario.com/medios/asi-ha-regado-ayuso-publicidad-canal-de-isabel-ii-medios-afinidad)
+
+### RTVE: el Consejo de Informativos denuncia sesgo a favor del Gobierno en «Mañaneros 360» y «Malas lenguas»
+- Fecha: ene – feb 2026
+- Partidos: PSOE
+- Categoría: Medios públicos y propaganda
+- Nivel de prueba: Documentado en medios
+- Resumen: Un informe del Consejo de Informativos de TVE, el órgano de los profesionales de la casa, concluyó que estos dos programas «incumplen, de forma habitual y reiterada, las normas fundamentales de información en RTVE» y que en ellos «abundan los argumentos favorables al Gobierno o al PSOE».
+- Matiz: Es una denuncia interna, no una resolución. En febrero, el consejo de administración de RTVE, con los votos de los consejeros del bloque de investidura y en contra de los propuestos por el PP, respaldó un documento de la dirección que atribuye al informe «falsedades» y «carencias relevantes», critica que se base en 13 de unos 400 programas (un 3%) y pide rectificarlo.
+- Fuentes:
+  - [elDiario.es: el informe del Consejo de Informativos (ene 2026)](https://www.eldiario.es/vertele/noticias/consejo-informativos-tve-acusa-sesgo-mananeros-360-malas-lenguas-informe_1_12906047.html)
+  - [infoLibre: RTVE exige rectificar el informe (feb 2026)](https://www.infolibre.es/medios/rtve-exige-consejo-informativos-rectifique-informe-mananeros-360-malas-lenguas_1_2147204.html)
+  - [elDiario.es: la respuesta de RTVE (feb 2026)](https://www.eldiario.es/vertele/noticias/rtve-responde-informe-consejo-informativos-mananeros-360-malas-lenguas-exige-rectificacion_1_12997737.html)
 
 ### Canarias: la sanidad pública pagó 574 millones en 2024 sin contrato válido, con gobiernos de distinto color
 - Fecha: 2019 – 2024
@@ -1389,6 +1586,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: 25 imputados más](https://www.eldiario.es/politica/juez-caso-leire-imputa-presidenta-sepi-24-personas-supuestos-amanos-contratacion-publica_1_13342324.html)
   - [Público: el auto](https://www.publico.es/politica/auto-pedraz-dinamita-coartadas-leire-diez.html)
 
+### Junta General de Asturias: la RTPA pasa siete años con director en funciones y PSOE e IU eligen a la nueva en segunda votación
+- Fecha: mar 2019 – jun 2026
+- Partidos: PSOE, Otros
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Asturias
+- Nivel de prueba: Documentado en medios
+- Resumen: Francisco González Orejas dirigió la RTPA en funciones desde marzo de 2019 porque la Junta General no eligió a un titular. En junio de 2026 Azahara Cañedo, que no logró en la primera votación los 30 votos de 45 necesarios, fue elegida en la segunda por mayoría absoluta, con los 23 votos de PSOE, Convocatoria por Asturies y la diputada del Grupo Mixto Covadonga Tomé; PP y Foro votaron en blanco (18) y Vox emitió tres votos nulos.
+- Matiz: La interinidad fue responsabilidad de toda la Cámara, que durante más de seis años no eligió director.
+- Fuentes:
+  - [infoLibre: seis años en funciones (ago 2025)](https://www.infolibre.es/medios/television-publica-asturiana-director-general-funciones-cinco-anos_1_2026217.html)
+  - [elDiario.es: Cañedo, elegida directora (jun 2026)](https://www.eldiario.es/asturias/parlamento-asturiano-aprueba-designacion-azahara-canedo-nueva-directora-general-rtpa_1_13291369.html)
+
 ### Cortes de Aragón: PP y Vox investigan a Ábalos pero no el encarecimiento del estadio de La Romareda
 - Fecha: 11 jun 2026
 - Partidos: PP, Vox
@@ -1414,6 +1623,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/politica/jose-luis-abalos-condenado-carcel-tribunal-supremo_1_13301658.html)
   - [Infobae](https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/)
   - [Poder Judicial: nota del Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias)
+
+### Gobierno central: el informe de publicidad institucional de 2025 desglosa por primera vez el gasto por medio
+- Fecha: 2025 (publicado en jun 2026)
+- Partidos: PSOE, Sumar
+- Categoría: Medios públicos y propaganda
+- Nivel de prueba: Organismo oficial
+- Resumen: Obligado por el Reglamento Europeo sobre la Libertad de los Medios de Comunicación, el informe de 2025 detalla a qué medios fueron los 73,25 millones de inversión. Por grupos, Prisa recibió 12,18 millones (16,6%), Atresmedia-Planeta 8,93, Mediaset 5,76, Vocento 3,66 y Unidad Editorial 2,73. En radio, la SER recibió 5,67 millones, el 36,6% de lo invertido en radio, frente a 1,79 de Onda Cero y 1,63 de COPE. En digital, El País recibió 461.689 euros, El Mundo 383.288, 20minutos 374.319, El Español 338.948 y elDiario.es 330.612. OKDiario, The Objective, El Debate, ESdiario y EDATV no figuran con importe propio.
+- Matiz: El informe aclara que lo que recibe cada medio depende de los precios y descuentos que pactan medios y agencias. Los informes de 2018 a 2024 no daban el reparto por medio. En noviembre de 2025 el Consejo de Transparencia obligó al Ministerio de la Presidencia a dar a El Español los criterios de reparto de una campaña de 2024; el ministerio había respondido que invirtió en la SER y en Los40 «por ser líderes en sus respectivas categorías». No se ha encontrado un cruce oficial entre inversión y audiencia.
+- Fuentes:
+  - [La Moncloa: Informe 2025 de Publicidad y Comunicación Institucional](https://www.lamoncloa.gob.es/serviciosdeprensa/cpci/Documents/Informe%202025.pdf)
+  - [Consejo de Transparencia: Resolución 2025-1418](https://consejodetransparencia.es/content/dam/ctransparencia/portal-ctbg/reclamaciones/nuestras-resoluciones/resoluciones-%C3%A1mbito-estatal/2025/11-noviembre/ESTIMATORIAS/R%20CTBG%202025-1418%20_Resolucion%20expte.%201650-2025_.pdf)
+  - [El Independiente: de 12 millones para Prisa a cero (jun 2026)](https://www.elindependiente.com/series-y-television/comunicacion/2026/06/27/de-los-12-millones-para-prisa-a-cero-euros-para-el-independiente-asi-gasta-el-gobierno-en-publicidad-institucional/)
 
 ### Comunidades del PP recurren la vivienda protegida permanente del plan estatal pero cobran sus fondos
 - Fecha: may – sep 2026
