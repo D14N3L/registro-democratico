@@ -22,11 +22,21 @@ const CATEGORIAS = [
   "Financiación y corrupción",
   "Gestión pública y derechos",
 ];
-const DOMINIOS_EXCLUIDOS = ["okdiario.com", "theobjective.com", "eldebate.com", "libertaddigital.com", "edatv.news", "esdiario.com"];
+// Criterio de medios (decisión editorial, 6-10-2026), igual para todas las líneas:
+// excluido = condena firme por información falsa, o 2 o más resoluciones de la FAPE en contra por veracidad en 5 años.
+// con cautela = un caso suelto verificado (condena, rectificación judicial o resolución de la FAPE en contra).
+//   Si una entrada solo se apoya en uno de estos medios, se busca otra fuente del mismo hecho.
+const DOMINIOS_EXCLUIDOS = ["okdiario.com", "eldebate.com"];
+const DOMINIOS_CAUTELA = [
+  "libertaddigital.com", "edatv.news", "esdiario.com", "elpais.com", "elmundo.es", "abc.es", "elconfidencial.com",
+  "eldiario.es", "publico.es", "europapress.es", "rtve.es", "canalsur.es", "elespanol.com",
+];
 const NOTAS_AL_EDITOR = /(?<!\p{L})(preséntalo|compruébalo|úsalo|no las cites|no lo cites|ojo:|revísalo|verifícalo)/iu;
 
 const errores = [];
+const avisos = [];
 const error = (f, i, e, msg) => errores.push(`${f}[${i}] ${e.t || e.m || e.id}: ${msg}`);
+const dominio = (url) => { try { return new URL(url).hostname.replace(/^www\./, ""); } catch { return ""; } };
 
 function comunes(f, i, e) {
   if (!Array.isArray(e.src) || !e.src.length) error(f, i, e, "sin fuentes");
@@ -35,6 +45,9 @@ function comunes(f, i, e) {
     const dominio = DOMINIOS_EXCLUIDOS.find((d) => (url || "").includes(d));
     if (dominio) error(f, i, e, `fuente excluida: ${dominio}`);
   }
+  const medios = [...new Set((e.src || []).map(([, url]) => dominio(url)))];
+  if (medios.length === 1 && DOMINIOS_CAUTELA.some((d) => medios[0] === d || medios[0].endsWith("." + d)))
+    avisos.push(`${f}[${i}] ${e.t || e.m || e.id}: solo una fuente con cautela (${medios[0]})`);
   for (const [k, v] of Object.entries(e)) {
     if (typeof v === "string" && NOTAS_AL_EDITOR.test(v)) error(f, i, e, `nota al editor en "${k}": ${v.match(NOTAS_AL_EDITOR)[0]}`);
   }
@@ -69,6 +82,7 @@ leer("iniciativas").forEach((e, i) => {
   for (const p of e.p || []) if (!PARTIDOS.includes(p)) error("iniciativas", i, e, `partido desconocido: ${p}`);
 });
 
+if (avisos.length) console.warn(avisos.join("\n") + `\n${avisos.length} avisos: buscar otra fuente del mismo hecho\n`);
 if (errores.length) {
   console.error(errores.join("\n"));
   console.error(`\n${errores.length} errores`);
