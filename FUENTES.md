@@ -2,19 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (158)
-
-### Vox nace financiado casi un millón de euros por simpatizantes del exilio iraní
-- Fecha: dic 2013 – abr 2014
-- Partidos: Vox
-- Categoría: Financiación y corrupción
-- Nivel de prueba: Documentado en medios
-- Resumen: En sus primeros cinco meses, Vox recibió unos 972.000 euros en 141 transferencias de simpatizantes del Consejo Nacional de Resistencia de Irán (CNRI), un grupo opositor en el exilio. El dinero pagó el alquiler de la sede, muebles y sueldos, incluido el de Santiago Abascal. Según Público, cubrió el 80% de la campaña europea de 2014.
-- Matiz: Es la oposición iraní en el exilio, no el Gobierno de Irán. La ley de financiación de partidos prohíbe los fondos de gobiernos extranjeros, y la Ley Electoral impide recibir donaciones de personas o entidades extranjeras una vez convocadas las elecciones; no consta ninguna sanción por estas donaciones. Los hechos son anteriores al periodo del registro, pero ayudan a entender el patrón de financiación exterior junto al préstamo húngaro.
-- Fuentes:
-  - [elDiario.es: el millón del exilio iraní](https://www.eldiario.es/politica/exiliados-millon-fundar-financiar-vox_1_1740433.html)
-  - [Público: el 80% de la campaña de 2014](https://www.publico.es/politica/exilio-irani-financio-80-campana-europea-vox-2014.html)
-  - [elDiario.es: quién es el CNRI](https://www.eldiario.es/internacional/vox-financiacion-iran_1_2739305.html)
+## Fichas del registro (157)
 
 ### Congreso: el Gobierno en funciones se niega a ser controlado y el TC declara que vulneró las atribuciones del Congreso
 - Fecha: mar 2016 – nov 2018

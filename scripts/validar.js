@@ -31,6 +31,8 @@ const DOMINIOS_CAUTELA = [
   "libertaddigital.com", "edatv.news", "esdiario.com", "elpais.com", "elmundo.es", "abc.es", "elconfidencial.com",
   "eldiario.es", "publico.es", "europapress.es", "rtve.es", "canalsur.es", "elespanol.com",
 ];
+// Periodo del registro (decisión editorial, 6-10-2026): los diez años 2016-2026.
+const INICIO_PERIODO = "2016-01-01";
 const NOTAS_AL_EDITOR = /(?<!\p{L})(preséntalo|compruébalo|úsalo|no las cites|no lo cites|ojo:|revísalo|verifícalo)/iu;
 
 const errores = [];
@@ -58,6 +60,7 @@ const leer = (f) => JSON.parse(fs.readFileSync(path.join(raiz, "datos", f + ".js
 leer("fichas").forEach((e, i) => {
   comunes("fichas", i, e);
   if (!/^\d{4}-\d{2}-\d{2}$/.test(e.d)) error("fichas", i, e, `fecha d inválida: ${e.d}`);
+  else if (e.d < INICIO_PERIODO) error("fichas", i, e, `fecha anterior al periodo: ${e.d}`);
   for (const k of ["dl", "t", "s", "n"]) if (!e[k]) error("fichas", i, e, `falta ${k}`);
   for (const p of e.p || []) if (!PARTIDOS.includes(p)) error("fichas", i, e, `partido desconocido: ${p}`);
   if (!e.p || !e.p.length) error("fichas", i, e, "sin partidos");
@@ -77,6 +80,7 @@ leer("votaciones").forEach((e, i) => {
 leer("iniciativas").forEach((e, i) => {
   comunes("iniciativas", i, e);
   if (!/^\d{4}-\d{2}-\d{2}$/.test(e.d)) error("iniciativas", i, e, `fecha d inválida: ${e.d}`);
+  else if (e.d < INICIO_PERIODO) error("iniciativas", i, e, `fecha anterior al periodo: ${e.d}`);
   for (const k of ["a", "m", "f", "v", "s"]) if (!e[k]) error("iniciativas", i, e, `falta ${k}`);
   if (!RESULTADOS.includes(e.res)) error("iniciativas", i, e, `resultado desconocido: ${e.res}`);
   for (const p of e.p || []) if (!PARTIDOS.includes(p)) error("iniciativas", i, e, `partido desconocido: ${p}`);
