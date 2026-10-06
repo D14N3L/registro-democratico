@@ -1,4 +1,4 @@
-# Registro Democrático 2018–2026: fichas y fuentes
+# Registro Democrático 2016–2026: fichas y fuentes
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 

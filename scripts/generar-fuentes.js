@@ -22,7 +22,7 @@ const PARTIDOS_VOTO = ["PSOE", "UP / Sumar", "PP", "Vox", "Cs", "ERC", "Junts", 
 const RESULTADO = { rech: "Rechazada", bloq: "Bloqueada", apro: "Aprobada", tram: "En trámite", deneg: "Consulta denegada", otro: "Otros" };
 const fuentes = (src) => src.map(([t, u]) => `  - [${t}](${u})`).join("\n");
 
-let o = `# Registro Democrático 2018–2026: fichas y fuentes
+let o = `# Registro Democrático 2016–2026: fichas y fuentes
 
 Documento generado automáticamente desde \`datos/\`. No lo edites a mano: cambia los JSON y ejecuta \`node scripts/generar-fuentes.js\`.
 

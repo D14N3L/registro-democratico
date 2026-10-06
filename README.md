@@ -1,6 +1,6 @@
-# Registro Democrático 2018–2026
+# Registro Democrático 2016–2026
 
-Registro de hechos documentados sobre cómo funcionan los contrapesos del Estado de derecho en España entre 2018 y 2026: comisiones de investigación vetadas, sentencias, incumplimientos de leyes, uso de los medios públicos, financiación de partidos, qué votó cada partido en medidas clave e iniciativas ciudadanas.
+Registro de hechos documentados sobre cómo nos ha ido en España entre 2016 y 2026: cómo funcionan los contrapesos del Estado de derecho (comisiones de investigación vetadas, sentencias, incumplimientos de leyes, uso de los medios públicos, financiación de partidos), qué votó cada partido en sanidad, educación, vivienda, luz y gas, dependencia, pensiones y Presupuestos, e iniciativas ciudadanas.
 
 ## Criterio
 
