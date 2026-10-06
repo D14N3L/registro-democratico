@@ -161,7 +161,7 @@
    "PNV": "no"
   },
   "s": "Limita al 3% la subida anual de los alquileres en 2024, permite declarar zonas tensionadas con topes de precio y prevé un nuevo índice para actualizar rentas.",
-  "n": "PP, Vox y Ciudadanos argumentaron que reduciría la oferta de alquiler. PNV y Junts también votaron no; la vivienda es competencia autonómica y ambos defendían la de sus gobiernos. Los economistas discrepan sobre los efectos de los topes.",
+  "n": "PP, Vox y Ciudadanos argumentaron que reduciría la oferta de alquiler. PNV, Junts y PDeCAT también votaron no; el PNV alegó que invadía competencias autonómicas. La abstención fue del BNG. Los economistas discrepan sobre los efectos de los topes.",
   "src": [
    [
     "elDiario.es",
@@ -177,24 +177,32 @@
   "id": "omnibus25",
   "m": "Decreto ómnibus con subida de pensiones",
   "dl": "22 ene 2025",
-  "r": "Derogado 171 a 177",
+  "r": "Derogado 171 a 177, 1 abstención",
   "v": {
    "PSOE": "si",
    "UP / Sumar": "si",
    "PP": "no",
    "Vox": "no",
    "Cs": "sd",
-   "ERC": "sd",
+   "ERC": "si",
    "Junts": "no",
-   "Bildu": "sd",
-   "PNV": "sd"
+   "Bildu": "si",
+   "PNV": "si"
   },
   "s": "Un único decreto juntaba la revalorización del 2,8% de las pensiones, las ayudas al transporte, el bono social eléctrico y la suspensión de desahucios a familias vulnerables, junto a medidas sin relación como la cesión de un palacete en París al PNV.",
-  "n": "PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Las pensiones se aprobaron después por separado con apoyo amplio, incluido el del PP.",
+  "n": "PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Se abstuvo UPN; Cs ya no tenía escaño. El 12 de febrero de 2025 se convalidó un nuevo decreto ómnibus que mantenía las pensiones, el transporte, las ayudas por la DANA, la suspensión de desahucios y la devolución del palacete al PNV, con 315 votos a favor, incluidos PP y Junts, y solo Vox en contra.",
   "src": [
    [
     "elDiario.es",
     "https://www.eldiario.es/politica/junts-anuncia-voto-decretos-gobierno-deja-pensiones-manos-pp_1_11983907.html"
+   ],
+   [
+    "Servimedia: la votación por grupos",
+    "https://www.servimedia.es/noticias/pp-vox-junts-tumban-decreto-omnibus-revalorizaba-pensiones-prorrogaba-ayudas-transporte/1411446794"
+   ],
+   [
+    "Infobae: el nuevo decreto ómnibus, convalidado (feb 2025)",
+    "https://www.infobae.com/espana/2025/02/12/el-congreso-aprueba-de-nuevo-el-decreto-omnibus-con-la-subida-de-pensiones/"
    ]
   ]
  },
@@ -209,13 +217,13 @@
    "PP": "no",
    "Vox": "no",
    "Cs": "sd",
-   "ERC": "sd",
+   "ERC": "si",
    "Junts": "no",
-   "Bildu": "sd",
-   "PNV": "sd"
+   "Bildu": "si",
+   "PNV": "si"
   },
   "s": "Bajaba la jornada máxima legal de 40 a 37,5 horas semanales sin reducción de sueldo y obligaba a un registro horario digital.",
-  "n": "PP alegó que debía pactarse con la patronal y que se trasladaría a los convenios. Vox dijo que perjudicaría a los trabajadores. Junts argumentó que el coste recaía sobre todo en pequeños comercios catalanes.",
+  "n": "Prosperaron las enmiendas a la totalidad de PP, Vox y Junts, con el apoyo de UPN. PP alegó que debía pactarse con la patronal y que se trasladaría a los convenios; PP y Vox advirtieron de que acabaría en bajadas de sueldo. Junts argumentó que el 96% de las empresas catalanas tienen menos de 10 trabajadores y que el coste recaería sobre ellas.",
   "src": [
    [
     "El Español",
@@ -231,21 +239,25 @@
   "id": "omnibus26",
   "m": "Decreto con pensiones y freno a desahucios",
   "dl": "27 ene 2026",
-  "r": "Derogado",
+  "r": "Derogado 171 a 178",
   "v": {
    "PSOE": "si",
    "UP / Sumar": "si",
    "PP": "no",
    "Vox": "no",
    "Cs": "sd",
-   "ERC": "sd",
+   "ERC": "si",
    "Junts": "no",
-   "Bildu": "sd",
-   "PNV": "sd"
+   "Bildu": "si",
+   "PNV": "si"
   },
-  "s": "Incluía la subida del 2,7% de las pensiones ya aplicada en enero, la suspensión de desahucios a personas vulnerables y la congelación de cuotas de autónomos.",
-  "n": "PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno aprobó las pensiones en un decreto aparte, convalidado en febrero de 2026 con apoyo de PP y Junts.",
+  "s": "Real Decreto-ley 16/2025. Incluía la subida del 2,7% de las pensiones ya aplicada en enero, la suspensión de desahucios a personas vulnerables y la congelación de cuotas de autónomos.",
+  "n": "PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno separó las medidas: el 26 de febrero de 2026 la subida de las pensiones se convalidó con el voto en contra solo de Vox, y el decreto del escudo social, con la suspensión de desahucios, volvió a caer con el voto en contra de Vox y Junts.",
   "src": [
+   [
+    "Congreso: resultado oficial de la votación (27 ene 2026)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153132.pdf"
+   ],
    [
     "Euronews",
     "https://es.euronews.com/2026/01/27/pensiones-ocupaciones-oposicion-tumba-decreto-omnibus-gobierno"
@@ -253,6 +265,10 @@
    [
     "Canal Sur: el nuevo decreto de pensiones",
     "https://www.canalsur.es/noticias/espana/congreso-desbloquea-revalorizacion-pensiones-apoyo_1_1385986.html"
+   ],
+   [
+    "Euronews: pensiones aprobadas y escudo social tumbado (26 feb 2026)",
+    "https://es.euronews.com/2026/02/26/el-congreso-aprueba-la-revalorizacion-de-las-pensiones-en-2026-y-tumba-el-escudo-social"
    ]
   ]
  }

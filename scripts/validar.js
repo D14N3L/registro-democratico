@@ -23,7 +23,7 @@ const CATEGORIAS = [
   "Gestión pública y derechos",
 ];
 const DOMINIOS_EXCLUIDOS = ["okdiario.com", "theobjective.com", "eldebate.com", "libertaddigital.com", "edatv.news", "esdiario.com"];
-const NOTAS_AL_EDITOR = /(?<!\p{L})(preséntalo|compruébalo|úsalo como|no las cites|no lo cites|ojo:)/iu;
+const NOTAS_AL_EDITOR = /(?<!\p{L})(preséntalo|compruébalo|úsalo|no las cites|no lo cites|ojo:|revísalo|verifícalo)/iu;
 
 const errores = [];
 const error = (f, i, e, msg) => errores.push(`${f}[${i}] ${e.t || e.m || e.id}: ${msg}`);

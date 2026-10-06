@@ -10,7 +10,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Documentado en medios
 - Resumen: En sus primeros cinco meses, Vox recibió unos 972.000 euros en 141 transferencias de simpatizantes del Consejo Nacional de Resistencia de Irán (CNRI), un grupo opositor en el exilio. El dinero pagó el alquiler de la sede, muebles y sueldos, incluido el de Santiago Abascal. Según Público, cubrió el 80% de la campaña europea de 2014.
-- Matiz: Es la oposición iraní en el exilio, no el Gobierno de Irán. La ley prohíbe financiación de gobiernos extranjeros; no consta ninguna sanción por estas donaciones. Los hechos son anteriores al periodo del registro, pero ayudan a entender el patrón de financiación exterior junto al préstamo húngaro.
+- Matiz: Es la oposición iraní en el exilio, no el Gobierno de Irán. La ley de financiación de partidos prohíbe los fondos de gobiernos extranjeros, y la Ley Electoral impide recibir donaciones de personas o entidades extranjeras una vez convocadas las elecciones; no consta ninguna sanción por estas donaciones. Los hechos son anteriores al periodo del registro, pero ayudan a entender el patrón de financiación exterior junto al préstamo húngaro.
 - Fuentes:
   - [elDiario.es: el millón del exilio iraní](https://www.eldiario.es/politica/exiliados-millon-fundar-financiar-vox_1_1740433.html)
   - [Público: el 80% de la campaña de 2014](https://www.publico.es/politica/exilio-irani-financio-80-campana-europea-vox-2014.html)
@@ -111,15 +111,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Público](https://www.publico.es/politica/cs-vox-evitan-ayuso-antecesores-comparezcan-comision-avalmadrid.html)
 
 ### Caso ERE: condenas a expresidentes andaluces, anuladas en parte por el TC
-- Fecha: 2019 · 2022 · 2024
+- Fecha: 2019 – 2026
 - Partidos: PSOE
 - Categoría: Financiación y corrupción
-- Nivel de prueba: Sentencia firme
-- Resumen: La Audiencia de Sevilla condenó en 2019 a Manuel Chaves (prevaricación) y José Antonio Griñán (malversación) por el sistema de ayudas de los ERE en la Junta de Andalucía. El Supremo lo ratificó en 2022.
-- Matiz: En julio de 2024 el TC, por 7 votos a 4, anuló esas condenas en parte por vulnerar la presunción de inocencia y la legalidad penal, y ordenó dictar nuevas sentencias. Úsalo con este matiz.
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: La Audiencia de Sevilla condenó en 2019 a Manuel Chaves, por prevaricación, a nueve años de inhabilitación, y a José Antonio Griñán, por prevaricación y malversación, a seis años de prisión, por el sistema de ayudas de los ERE en la Junta de Andalucía. El Supremo lo ratificó en 2022.
+- Matiz: En julio de 2024 el TC, por 7 votos a 4, anuló esas condenas en parte por vulnerar derechos fundamentales, entre ellos el principio de legalidad penal, y ordenó a la Audiencia de Sevilla dictar nuevas sentencias. En julio de 2025 la Audiencia llevó las sentencias del TC al TJUE, por ver riesgo de impunidad, y suspendió su ejecución hasta que responda; en abril de 2026 la Comisión Europea pidió inadmitir la cuestión porque el dinero era del presupuesto andaluz y no de la UE. A octubre de 2026 el TJUE no ha resuelto.
 - Fuentes:
   - [Noticias de Navarra: el TC anula](https://www.noticiasdenavarra.com/politica/2024/07/16/ere-constitucional-anula-chaves-grinan-8485049.html)
   - [elEconomista](https://www.eleconomista.es/legal/noticias/12911733/07/24/el-tribunal-constitucional-anula-la-condena-a-manuel-chaves-en-el-caso-de-los-ere.html)
+  - [Infobae: el TC anula las condenas (jul 2024)](https://www.infobae.com/espana/2024/07/16/el-constitucional-anula-la-condena-al-expresidente-andaluz-manuel-chaves-por-el-caso-ere/)
+  - [Poder Judicial: la Audiencia de Sevilla lleva el caso al TJUE (jul 2025)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE)
+  - [Público: la Comisión Europea pide inadmitir la cuestión (abr 2026)](https://www.publico.es/politica/tribunales/comision-europea-rechaza-tjue-pronuncie-sobre-sentencias-caso-ere.html)
 
 ### Cortes de Castilla-La Mancha: el PSOE veta la comparecencia del Defensor del Paciente y no se crea la comisión covid del PP
 - Fecha: 2020
@@ -186,7 +189,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: La Rioja
 - Nivel de prueba: Documentado en medios
 - Resumen: La comisión de investigación sobre las residencias de mayores que pedía el PP fue rechazada por el PSOE, IU y Podemos, que gobernaban la comunidad.
-- Matiz: El PSOE acusó al PP de querer sacar rédito político de los muertos y dijo que las preguntas podían hacerse directamente al Gobierno.
+- Matiz: El PSOE (Raúl Díaz) acusó al PP de querer «sacar rédito político con un uso chabacano y partidista de un drama»; IU (Henar Moreno) dijo que bastaba con formular preguntas al Gobierno. Ciudadanos apoyó la comisión.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/la-rioja/rechazada-la-comision-de-investigacion-sobre-las-residencias-de-mayores-planteada-por-el-pp_1_11156159.html)
 
@@ -335,11 +338,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Documentado en medios
-- Resumen: Más Madrid, PSOE y Unidas Podemos pidieron investigar los contratos de emergencia del covid, incluido el que dio una comisión al hermano de Ayuso. La Mesa no la admitió con el voto en contra del PP y la abstención de Vox. Era la segunda iniciativa parecida que tumbaba.
-- Matiz: El PP alegó defectos de forma en el escrito.
+- Resumen: Más Madrid, PSOE y Unidas Podemos pidieron investigar los contratos de emergencia del covid, incluido el de 1,5 millones en mascarillas adjudicado a Priviet Sportive, empresa que pagó una comisión al hermano de Ayuso. La Mesa no la admitió con el voto en contra del PP y la abstención de Vox. Era la segunda iniciativa parecida que tumbaba.
+- Matiz: El PP alegó defectos de forma en el escrito. En marzo de 2023 la Fiscalía Europea archivó la investigación sobre ese contrato: no vio acreditado que el precio fuera desproporcionado.
 - Fuentes:
   - [Telemadrid](https://www.telemadrid.es/noticias/madrid/Asamblea-comisionde-investigacion-solicitada-izquierda-0-2425857430--20220221072040.html)
   - [Madridiario](https://www.madridiario.es/rechazada-asamblea-comision-investigacion-contratos-hermano-ayuso)
+  - [elDiario.es: la Fiscalía Europea archiva (mar 2023)](https://www.eldiario.es/politica/fiscalia-europea-archiva-investigacion-comisiones-hermano-ayuso-compra-mascarillas_1_10032733.html)
 
 ### Congreso: rechazada la comisión sobre abusos en la Iglesia
 - Fecha: 8 mar 2022
@@ -454,11 +458,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Congreso
 - Nivel de prueba: Tribunal Constitucional
-- Resumen: El Gobierno y sus socios introdujeron, como enmiendas a la ley que derogaba la sedición, cambios en cómo el CGPJ elige magistrados del TC. A petición del PP, el TC suspendió su tramitación en el Senado (ATC 177/2022) por falta de relación con la ley.
-- Matiz: Fue la primera vez que el TC paralizó un debate parlamentario, por 6 votos a 5, y la decisión también recibió fuertes críticas por invadir al legislador y porque votaron magistrados afectados.
+- Resumen: El Gobierno y sus socios introdujeron, como enmiendas a la ley que derogaba la sedición, cambios en cómo el CGPJ elige magistrados del TC. A petición del PP, que alegaba que esas enmiendas no guardaban relación con la ley, el TC suspendió cautelarmente su tramitación en el Senado (ATC 177/2022, 19 de diciembre de 2022).
+- Matiz: Fue la primera vez en más de 40 años que el TC paralizó un debate parlamentario. Lo decidió por 6 votos a 5, con la mayoría conservadora frente a la progresista, La decisión recibió fuertes críticas de buena parte de la doctrina por invadir la función del legislador y porque participaron dos magistrados recusados, González-Trevijano y Narváez, a los que afectaba la reforma; otros juristas la defendieron. Es una medida cautelar, no una sentencia sobre el fondo.
 - Fuentes:
   - [El Confidencial Digital (Europa Press)](https://www.elconfidencialdigital.com/articulo/ultima-hora/comision-justicia-senado-da-luz-verde-reforma-que-deroga-sedicion-enmiendas-vetadas-tc/20221220131313495069.html)
-  - [Dialnet: análisis del ATC 177/2022](https://dialnet.unirioja.es/descarga/articulo/9633561.pdf)
+  - [Teoría y Realidad Constitucional: análisis crítico del ATC 177/2022 (Artemi Rallo, exportavoz socialista en el Senado)](https://dialnet.unirioja.es/descarga/articulo/9633561.pdf)
 
 ### Senado: PSOE y PNV no admiten la comisión del PP sobre Ximo Puig
 - Fecha: 7 feb 2023
@@ -515,8 +519,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Medios públicos y propaganda
 - Parlamento o territorio: Castilla y León
 - Nivel de prueba: Documentado en medios
-- Resumen: Según la Plataforma de Contratación del Sector Público, analizada por La Marea, el Instituto Tecnológico Agrario de Castilla y León, dependiente de la Consejería de Agricultura dirigida por Vox, firmó en 2023 más de cien contratos con medios. Entre ellos, casi 15.000 euros a EDATV de Javier Negre, 14.900 a Periodista Digital y 14.500 a OKDiario, todos justo por debajo del límite de 15.000 euros a partir del cual hay que sacar el contrato a concurso.
-- Matiz: Los contratos menores son legales; lo que se señala es el patrón de quedarse justo por debajo del umbral y el reparto a medios afines. En 2024, la Diputación de Ciudad Real, de PP y Vox, también incluyó el portal de Negre en una campaña de publicidad para medios locales, pese a no ser un medio local. Ninguna de las dos administraciones respondió a los periodistas.
+- Resumen: Según la Plataforma de Contratación del Sector Público, analizada por La Marea, el Instituto Tecnológico Agrario de Castilla y León, dependiente de la Consejería de Agricultura dirigida por Vox, firmó en 2023 más de un centenar de contratos de publicidad. Entre ellos, 14.995 euros a EDATV de Javier Negre, 14.900 a Periodista Digital y 14.500 a OKDiario, sin IVA, todos justo por debajo de los 15.000 euros a partir de los cuales hay que sacar el contrato a concurso.
+- Matiz: Los contratos menores son legales; lo que se señala es el patrón de quedarse justo por debajo del umbral y el reparto a medios afines. En 2024, la Diputación de Ciudad Real (Castilla-La Mancha), de PP y Vox, también incluyó el portal de Negre en una campaña de publicidad para medios locales, pese a no ser un medio local. La Diputación no respondió a Público cuando le preguntó por qué lo había incluido.
 - Fuentes:
   - [La Marea](https://www.lamarea.com/2023/12/07/los-contratos-a-dedo-de-vox-a-medios-ultras-desde-un-chiringuito-del-gobierno-de-castilla-y-leon/)
   - [Público: Diputación de Ciudad Real](https://www.publico.es/politica/pp-vox-cuelan-portal-negre-reparto-publicidad-institucional-medios-locales-regionales-ciudad-real.html)
@@ -526,13 +530,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP, Vox
 - Categoría: Gestión pública y derechos
 - Nivel de prueba: Documentado en medios
-- Resumen: Según un estudio del IVIE con datos del Ministerio de Educación, en 2023 Madrid fue la comunidad que menos gastó por alumno (menos de 6.000 euros, frente a más de 9.000 en el País Vasco). A la vez, desde el curso 2022-23, pactado con Vox, las ayudas para estudiar Bachillerato en centros concertados y privados llegan a familias con hasta 35.913 euros de renta por persona: una pareja con un hijo que gane hasta 107.739 euros al año puede pedirla. El presupuesto de estas ayudas pasó de 64,6 a 127 millones.
-- Matiz: Madrid es la que menos paga por cada alumno de la concertada y dice que el 94,5% de las familias consigue plaza en su primera opción. El País Vasco, gobernado por el PNV, es la comunidad que más proporción de su gasto educativo destina a la concertada (26%, frente al 18% de Madrid). CCOO denuncia el cierre de 88 aulas públicas de Infantil y Primaria en 2025-26; la Comunidad dice que hay 244 aulas y 517 docentes más.
+- Resumen: Según un estudio del IVIE con datos del Ministerio de Educación, en 2023 Madrid fue la comunidad que menos gastó por alumno (menos de 6.000 euros, frente a más de 9.000 en el País Vasco). A la vez, desde el curso 2022-23, por el acuerdo de presupuestos con Vox, las ayudas para estudiar Bachillerato en centros concertados y privados llegan a familias con hasta 35.913 euros de renta por persona: una pareja con un hijo que gane hasta 107.739 euros al año puede pedirla. El presupuesto de las becas de Bachillerato pasó de 9 a 43,5 millones.
+- Matiz: Madrid es la que menos paga por cada alumno de la concertada (3.400 euros en 2023, frente a una media de 4.705) y dice que el 95,3% de los alumnos obtuvo plaza en su primera opción en el curso 2025-26. El País Vasco, gobernado por el PNV, es la comunidad que más proporción de su gasto educativo destina a la concertada (26%, frente al 18% de Madrid). CCOO denuncia el cierre de 88 aulas públicas de Infantil y Primaria en 2025-26; la Comunidad dice que hay 244 aulas y 517 docentes más.
 - Fuentes:
   - [Infobae: estudio del IVIE](https://www.infobae.com/espana/2025/12/01/pais-vasco-gasta-9000-euros-por-alumno-y-madrid-menos-de-6000-pero-ambos-destinan-una-cuarta-parte-a-la-ensenanza-privada/)
   - [Maldita: las ayudas a rentas altas](https://maldita.es/malditateexplica/20220705/becas-ensenanza-privada-comunidad-madrid-ayuso/)
   - [Infobae (EFE): peso de la concertada por comunidad](https://www.infobae.com/espana/agencias/2026/09/24/pais-vasco-madrid-y-navarra-las-comunidades-que-mas-financian-la-ensenanza-concertada/)
   - [elDiario.es: cierre de aulas según CCOO](https://www.eldiario.es/sociedad/ccoo-denuncia-ayuso-cerrado-88-aulas-infantil-primaria-curso-mayoria-municipios-obreros-sur_1_13301791.html)
+  - [elDiario.es: el acuerdo con Vox y los 43,5 millones (jun 2022)](https://www.eldiario.es/madrid/comunidad-amplia-limite-renta-becas-0-3-bachillerato-privada-35-000-euros-persona_1_9043632.html)
+  - [Comunidad de Madrid: el 95,3% obtiene su primera opción](https://www.comunidad.madrid/noticias/2025/10/23/comunidad-madrid-defiende-libertad-eleccion-centro-educativo-familias-region)
 
 ### Asamblea de Madrid: el PP bloquea investigar los contratos de emergencia del covid incluso después de que intervenga el TC
 - Fecha: 2024 – 2026
@@ -577,8 +583,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP, Vox
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Documentado en medios
-- Resumen: El Parlament balear, con los votos de PP y Vox, eliminó la Oficina de Prevención y Lucha contra la Corrupción creada en la legislatura anterior a impulso de Podemos. Baleares se convirtió en la primera comunidad autónoma en suprimir su organismo anticorrupción.
-- Matiz: PP y Vox la calificaron de parcial e irrelevante y alegaron que duplicaba otros controles, como la Sindicatura de Comptes. Es una decisión parlamentaria legal; lo que se cuestiona es su efecto sobre el control de la corrupción.
+- Resumen: El Parlament balear, con los votos de PP y Vox, eliminó la Oficina de Prevención y Lucha contra la Corrupción, creada por ley en 2016, en el primer mandato de Francina Armengol, con el impulso de Podemos. Baleares se convirtió en la primera comunidad autónoma en suprimir su organismo anticorrupción. El cierre era parte del acuerdo de PP y Vox de junio de 2023.
+- Matiz: PP y Vox la calificaron de parcial e irrelevante y alegaron que duplicaba otros controles, como la Sindicatura de Comptes; el PP (Mauricio Rovira) la llamó «oficina socialista de persecución de la oposición». Cuando se aceleró el cierre, la oficina investigaba al director general de Emergencias del Govern, Sebastià Sureda, por una presunta trama urbanística. Es una decisión parlamentaria legal; lo que se cuestiona es su efecto sobre el control de la corrupción.
 - Fuentes:
   - [elDiario.es: primera autonomía en eliminarla](https://www.eldiario.es/illes-balears/politica/pp-vox-convierten-balears-primera-autonomia-eliminar-oficina-corrupcion_1_11244012.html)
   - [Última Hora](https://www.ultimahora.es/noticias/local/2024/03/26/2132535/vox-cierran-oficina-anticorrupcion-baleares-impulsada-por-podemos.html)
@@ -589,13 +595,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP, Vox
 - Categoría: Derechos fundamentales y control judicial
 - Nivel de prueba: Organismo oficial
-- Resumen: Tres relatores especiales de la ONU concluyeron que las leyes de concordia de PP y Vox en Aragón, Castilla y León y la Comunitat Valenciana podían invisibilizar violaciones graves de derechos humanos de la dictadura y no respetaban estándares internacionales.
-- Matiz: Es una opinión no vinculante de expertos independientes, emitida tras una denuncia del Gobierno central. Los gobiernos autonómicos alegan que amplían el reconocimiento a todas las víctimas. Además, a recurso del Gobierno, el TC suspendió cautelarmente la derogación de la ley de memoria de Aragón (junio de 2024) y varios artículos de la ley valenciana (mayo de 2025); no consta aún sentencia de fondo.
+- Resumen: Tres relatores especiales de la ONU concluyeron que las leyes y proposiciones de concordia de PP y Vox en Aragón, Castilla y León y la Comunitat Valenciana podían invisibilizar violaciones graves de derechos humanos de la dictadura y no respetaban estándares internacionales.
+- Matiz: Es una opinión no vinculante de expertos independientes, emitida tras una denuncia del Gobierno central. Los gobiernos autonómicos alegan que amplían el reconocimiento a todas las víctimas. La de Castilla y León no llegó a aprobarse: en septiembre de 2024, tras romper con Vox, el PP votó con el PSOE en contra de tramitarla. Además, a recurso del Gobierno, el TC suspendió cautelarmente la derogación de la ley de memoria de Aragón (junio de 2024) y varios artículos de la ley valenciana (mayo de 2025); no consta aún sentencia de fondo.
 - Fuentes:
   - [Newtral](https://www.newtral.es/relatores-onu-leyes-concordia-pp-vox/20240503/)
   - [El Español](https://www.elespanol.com/espana/politica/20240504/onu-aclara-carta-relatores-leyes-concordia-opinion-no-vinculante/852415158_0.html)
   - [elDiario.es: el TC suspende la derogación en Aragón](https://www.eldiario.es/aragon/constitucional-suspende-derogacion-ley-memoria-democratica-aragon_1_11455727.html)
   - [elDiario.es: el TC suspende parte de la ley valenciana](https://www.eldiario.es/comunitat-valenciana/constitucional-tumba-parte-ley-valenciana-concordia-aprobada-pp-vox-equipara-franquismo-democracia_1_12334449.html)
+  - [elDiario.es: el PP vota contra tramitar la ley de concordia de Castilla y León (sep 2024)](https://www.eldiario.es/castilla-y-leon/politica/pp-vota-psoe-rechazar-ley-concordia-castilla-leon-pacto-vox_1_11680082.html)
 
 ### El TC anula parte de la reforma de las leyes trans y LGTBI de Madrid
 - Fecha: 2023 – 2025
@@ -603,11 +610,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Incumplimiento de leyes y sentencias
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Tribunal Constitucional
-- Resumen: Madrid reformó en diciembre de 2023 sus leyes trans y LGTBI: abrió excepciones a la prohibición de las terapias de conversión, volvió a tratar como patología a los menores trans y excluyó a las asociaciones LGTBI de los procedimientos. El Gobierno las recurrió y en abril de 2025 el TC, por 11 votos a 1, anuló la exclusión de las asociaciones por invadir competencias del Estado y contradecir la ley estatal de igualdad.
-- Matiz: No consta todavía sentencia sobre el resto de artículos recurridos.
+- Resumen: Madrid reformó en diciembre de 2023 sus leyes trans y LGTBI: abrió excepciones a la prohibición de las terapias de conversión, exigió a los menores trans apoyo de profesionales de salud mental y, si había otras patologías, un informe favorable antes del tratamiento hormonal, y excluyó a las asociaciones LGTBI de los procedimientos. El Gobierno las recurrió y en abril de 2025 el TC, por 11 votos a 1, anuló la exclusión de las asociaciones por invadir competencias del Estado y contradecir la ley estatal de igualdad.
+- Matiz: El Gobierno y la oposición calificaron de patologización los requisitos para los menores. En julio de 2024 el TC suspendió cautelarmente los artículos recurridos, y en octubre de 2024 el PP registró una reforma que suavizaba esos requisitos. No consta todavía sentencia sobre el resto de artículos recurridos.
 - Fuentes:
   - [Público: el recurso](https://www.publico.es/sociedad/gobierno-recurre-constitucional-ley-trans-lgtbi-comunidad-madrid.html)
   - [El Español: la sentencia](https://www.elespanol.com/espana/tribunales/20250409/tc-estima-recurso-pedro-sanchez-tumba-ley-lgtbi-ayuso-invadir-competencias/1003743706496_0.html)
+  - [elDiario.es: el PP suaviza la ley tras la suspensión del TC (oct 2024)](https://www.eldiario.es/madrid/ayuso-modifica-leyes-trans-lgtbi-madrid-esquivar-recursos-gobierno-constitucional_1_11726609.html)
 
 ### El TC anula en parte el protocolo canario que dejaba fuera de protección a menores rescatados en el mar
 - Fecha: sep 2024 – feb 2025
@@ -712,11 +720,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Andalucía
 - Nivel de prueba: Documentado en medios
-- Resumen: El PSOE andaluz pidió investigar los contratos de emergencia del Servicio Andaluz de Salud entre 2020 y 2023. El PP votó en contra con su mayoría absoluta; Vox se abstuvo y Adelante y Por Andalucía votaron a favor. En 2023 el PP ya se había opuesto a otra comisión sobre los contratos de emergencia de la Junta.
-- Matiz: El PP dijo que no se puede investigar lo que no existe y que la contratación de emergencia era obligatoria para salvar vidas.
+- Resumen: El PSOE andaluz pidió investigar los contratos de emergencia del Servicio Andaluz de Salud entre 2020 y 2023. El PP votó en contra con su mayoría absoluta; Vox se abstuvo y Adelante y Por Andalucía votaron a favor.
+- Matiz: La diputada del PP Beatriz Jurado vino a decir que no se investiga la corrupción en Andalucía porque no existe; el PSOE (María Márquez) replicó que la investigan los juzgados y la Fiscalía Anticorrupción, que examina unos 243 millones en contratos. Era la tercera vez en la legislatura que el PP vetaba una comisión sobre la contratación sanitaria.
 - Fuentes:
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2025/05/29/el-parlamento-andaluz-rechaza-investigar-los-contratos-del-sas-con-los-votos-del-pp/)
   - [Teleprensa](https://www.teleprensa.com/articulo/sevilla/pp-rechaza-solitario-comision-investigacion-parlamento-contratos-sanitarios-que-pedia-psoe/202505291452312128965.html)
+  - [elDiario.es: «la corrupción en Andalucía no existe»](https://www.eldiario.es/andalucia/pp-moreno-aisla-parlamento-causas-contratos-sanitarios-corrupcion-andalucia-no-existe_1_12339772.html)
 
 ### Congreso: la comisión del caso Koldo que registró el PSOE sigue sin debatirse seis meses después
 - Fecha: jun – dic 2025
@@ -743,15 +752,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: el dictamen](https://www.eldiario.es/asturias/psoe-desmarca-vota-dictamen-reprueba-cuatro-exconsejeros-accidente-minero-zarreu_1_13247604.html)
 
 ### Caso Montoro: investigación por presuntos favores fiscales a empresas desde Hacienda
-- Fecha: 2025 – hoy
+- Fecha: 2018 – 2026
 - Partidos: PP
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Investigación judicial
 - Resumen: Un juzgado de Tarragona investiga al exministro de Hacienda Cristóbal Montoro y a la consultora que cofundó, Equipo Económico, por presuntamente favorecer a empresas, sobre todo gasísticas, con cambios normativos a cambio de pagos. Los delitos investigados incluyen cohecho, prevaricación y tráfico de influencias.
-- Matiz: La causa estuvo más de siete años bajo secreto. En enero de 2026 el juez prorrogó la instrucción seis meses más. Sin juicio: rige la presunción de inocencia.
+- Matiz: La causa se abrió en 2018 y estuvo siete años bajo secreto, hasta junio de 2025. El juez ha prorrogado la instrucción en enero y en julio de 2026 por ser «sumamente compleja». Hay 28 investigados (cinco son sociedades): de los 15 citados hasta julio de 2026 solo uno declaró, y el resto se acogió a su derecho a no hacerlo a la espera de que se resuelvan recursos sobre la nulidad de pruebas; quedan 17 por citar, entre ellos Montoro. Sin juicio: rige la presunción de inocencia.
 - Fuentes:
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/01/28/el-juez-del-caso-montoro-pide-documentacion-del-exministro-de-hacienda-y-del-despacho-clave-de-la-trama/)
   - [El Boletín](https://www.elboletin.com/el-juez-prorroga-seis-meses-el-caso-montoro-ante-las-diligencias-pendientes-sobre-equipo-economico/amp/)
+  - [Público: prórroga de enero de 2026](https://www.publico.es/politica/tribunales/juez-caso-montoro-amplia-instruccion-otros-seis-meses-espera-nueva-documentacion.html)
+  - [Infobae (Europa Press): prórroga de julio de 2026](https://www.infobae.com/espana/agencias/2026/07/27/el-juez-prorroga-seis-meses-mas-la-causa-sumamente-compleja-en-que-investiga-a-montoro/)
 
 ### Ayuso pasa un fin de semana familiar en una finca pública comprada en Rascafría
 - Fecha: jul 2025
@@ -829,8 +840,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: País Vasco
 - Nivel de prueba: Documentado en medios
-- Resumen: En octubre de 2025, PNV y PSE rechazaron la comisión que pedía el PP sobre los campamentos de Bernedo, con 21 denuncias por agresiones a menores. En mayo de 2026 rechazaron la que pedía Sumar, con apoyo de Bildu, sobre los fondos europeos para plazas de 0 a 3 años, de las que se crearon 252 de 1.518. En ambos casos aprobaron enmiendas alternativas.
-- Matiz: El PNV dijo que estas comisiones solo sirven para juicios mediáticos; el PSE, que el campamento era privado y sin dinero público. El PP también votó contra la de los fondos.
+- Resumen: En octubre de 2025, PNV y PSE rechazaron la comisión que pedía el PP sobre los campamentos de Bernedo, con 21 denuncias por presuntos delitos sexuales, exhibicionismo y coacciones a menores. En mayo de 2026 rechazaron la que pedía Sumar, con apoyo de Bildu, sobre los fondos europeos para plazas de 0 a 3 años, de las que se crearon 252 de 1.518. En ambos casos aprobaron enmiendas alternativas.
+- Matiz: Sobre Bernedo, el PSE dijo que estas comisiones «no valen para nada» y generan «juicios mediáticos paralelos», y que el campamento era privado, no estaba registrado y no recibía dinero público; el PNV, que sus conclusiones suelen estar decididas de antemano. La de los fondos solo la apoyaron Sumar y EH Bildu; el PP defendió dar ayudas también para plazas privadas, y el Gobierno vasco alegó que adapta las plazas a la demanda real.
 - Fuentes:
   - [Orain: Bernedo](https://orain.eus/es/politica/2025/10/23/el-parlamento-vasco-rechaza-crear-una-comision-investigacion-los-campamentos-bernedo/)
   - [elDiario.es: plazas de 0 a 3 años](https://www.eldiario.es/euskadi/parlamento-rechaza-auditar-fondos-europeos-plazas-infantil-no-habra-comision-investigacion_1_13202721.html)
@@ -877,13 +888,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 2020 – hoy
 - Partidos: PP
 - Categoría: Gestión pública y derechos
+- Parlamento o territorio: Madrid
 - Nivel de prueba: Investigación judicial
-- Resumen: En marzo de 2020, la Comunidad de Madrid aplicó protocolos que excluían de la derivación hospitalaria a residentes según su grado de dependencia. Las familias cifran en 7.291 los fallecidos en residencias sin traslado. Dos juzgados (Plaza de Castilla y Collado Villalba) investigan a ex altos cargos, y el exdirector general Martínez Peromingo admitió en su declaración que los criterios eran discriminatorios.
+- Resumen: En marzo de 2020, la Comunidad de Madrid aplicó protocolos que excluían de la derivación hospitalaria a residentes según su grado de dependencia. Según datos de la propia Comunidad publicados por infoLibre, en marzo y abril de 2020 murieron en las residencias 7.291 personas sin ser trasladadas al hospital, el 77% de los fallecidos en ellas. Dos juzgados (Plaza de Castilla y Collado Villalba) investigan a ex altos cargos, y el exdirector general Martínez Peromingo admitió en su declaración que los criterios eran discriminatorios.
 - Matiz: Ayuso no está investigada. Desde 2020 se han archivado unas 144 causas sobre los protocolos; la última, en septiembre de 2026, cuando la Audiencia Provincial no vio indicios de delito. Las causas abiertas siguen sin juicio.
 - Fuentes:
   - [infoLibre](https://www.infolibre.es/politica/investigacion-judicial-7291-muertes-residencias-avanza-pese-espantada-mur-busca_1_2112339.html)
   - [Infobae: el firmante, citado como investigado](https://www.infobae.com/espana/agencias/2026/01/26/el-firmante-de-los-protocolos-de-las-residencias-de-madrid-citado-este-lunes-ante-un-juez-como-investigado/)
   - [ConSalud: el último archivo](https://www.consalud.es/autonomias/c-madrid/otro-archivo-judicial-tras-seis-anos-de-ataques-a-ayuso-por-las-residencias.html)
+  - [infoLibre: los datos de la Comunidad (jul 2020)](https://www.infolibre.es/politica/datos-gobierno-ayuso-revelan-7-291-mayores-murieron-madrid-residencia-trasladados-hospital_1_1185966.html)
 
 ### Parlamento de Canarias: PSOE, NC y ASG impiden una nueva comparecencia de Ángel Víctor Torres en la comisión de las mascarillas
 - Fecha: 15 dic 2025
@@ -909,15 +922,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Salto: los audios de Ferreras](https://www.elsaltodiario.com/medios/ultimos-audios-villarejo-ferreras-epicentro-debate-cloacas-estado-podemos)
 
 ### El PP veta investigar en la Asamblea la gestión privada del Hospital de Torrejón
-- Fecha: dic 2025
+- Fecha: dic 2025 – feb 2026
 - Partidos: PP
 - Categoría: Control parlamentario
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Documentado en medios
-- Resumen: Más Madrid pidió una comisión de investigación sobre la gestión de Ribera Salud en el Hospital de Torrejón, después de conocerse audios en los que un directivo pedía rechazar pacientes o prácticas no rentables. El PP presentó su rechazo y lo tumbó con su mayoría absoluta.
-- Matiz: El artículo no recoge los argumentos del PP para rechazarla.
+- Resumen: Más Madrid pidió una comisión de investigación sobre la gestión de Ribera Salud en el Hospital de Torrejón, después de conocerse audios en los que un directivo pedía rechazar pacientes o prácticas no rentables. El PP registró su oposición y el pleno la respaldó el 19 de febrero de 2026 por 69 votos frente a 52, con la abstención de Vox.
+- Matiz: El PP (Raúl Martín) dijo que Torrejón es un hospital público, de acceso universal y control público, que el concierto no es una privatización y que 40 auditorías no han detectado irregularidades; dio datos de mejora en esperas y pruebas. El PSOE defendió la comisión.
 - Fuentes:
   - [El Diario de Madrid](https://www.eldiariodemadrid.es/articulo/politica/pp-veta-comision-investigacion-hospital-torrejon-gestion-ribera-salud/20251226164615117242.html)
+  - [Gaceta Médica: la votación en el pleno (feb 2026)](https://gacetamedica.com/politica/asamblea-madrid-rechaza-abrir-comision-investigacion-hospital-torrejon/)
 
 ### Madrid reparte la publicidad institucional favoreciendo a medios afines por encima de su audiencia
 - Fecha: 2023 – 2025
@@ -944,14 +958,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: la investigación judicial](https://www.eldiario.es/comunitat-valenciana/alicante/jueza-investiga-adjudicacion-viviendas-protegidas-alicante-funcionarios-cargos-pp-inicia-pesquisas_1_13001574.html)
   - [elDiario.es: denuncia ante la Fiscalía](https://www.eldiario.es/comunitat-valenciana/alicante/denuncian-fiscalia-cinco-delitos-adjudicacion-viviendas-protegidas-cargos-ayuntamiento-alicante_1_12956923.html)
 
-### Corts Valencianes: PP y Vox rechazan tres investigaciones sobre sanidad privada, donaciones de la DANA y cribados
+### Corts Valencianes: PP y Vox rechazan cuatro investigaciones sobre sanidad privada, una residencia, donaciones de la DANA y cribados
 - Fecha: mar – may 2026
 - Partidos: PP, Vox
 - Categoría: Control parlamentario
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Documentado en medios
-- Resumen: En 2026 PP y Vox tumbaron en las Corts la comisión sobre la calidad asistencial en el Hospital del Vinalopó, gestionado por Ribera Salud, y la residencia Santa Faz; la del desvío de donaciones de la DANA por parte de Revuelta; y la de los fallos recurrentes en el cribado de cáncer de mama.
-- Matiz: El PP alegó que no había pruebas en el Vinalopó, que Revuelta es una entidad privada fuera de su competencia y que el PSPV dejó fuera del cribado a 177.000 mujeres cuando gobernaba. Vox dijo que las comisiones deben ser las mínimas.
+- Resumen: En 2026 PP y Vox tumbaron en las Corts cuatro comisiones de investigación: sobre la calidad asistencial en el Hospital del Vinalopó, gestionado por Ribera Salud, que pedían PSPV y Compromís, y sobre la residencia Santa Faz de Alicante, que pedía Compromís (marzo); sobre el desvío de donaciones de la DANA por parte de Revuelta (marzo); y sobre los fallos recurrentes en el cribado de cáncer de mama (mayo).
+- Matiz: El PP recordó que el conseller de Sanidad no había hallado pruebas en el Vinalopó, alegó que Revuelta es una entidad privada sin fondos públicos, fuera de la competencia de las Corts, y que el Botànic dejó fuera del cribado a 177.000 mujeres. Vox acusó a la izquierda de querer un «juicio político paralelo», llamó «cortina de humo» a la de Revuelta (dijo haber llevado el caso a la Fiscalía) y, en la de los cribados, defendió que las comisiones sean «las mínimas, las justas» y pidió una auditoría en su lugar.
 - Fuentes:
   - [Valencia Plaza: Vinalopó](https://valenciaplaza.com/valenciaplaza/comunitat-valenciana1/les-corts-rechazaran-una-comision-de-investigacion-sobre-la-calidad-asistencial-en-el-hospital-del-vinalopo)
   - [elDiario.es: Revuelta](https://www.eldiario.es/comunitat-valenciana/pp-vox-descartan-investigar-corts-desvio-donaciones-afectados-dana-parte-revuelta_1_13098369.html)
@@ -1009,12 +1023,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: abr 2026 – hoy
 - Partidos: PP
 - Categoría: Gestión pública y derechos
+- Parlamento o territorio: Madrid
 - Nivel de prueba: Documentado en medios
 - Resumen: El Gobierno de Ayuso compró a través de la empresa pública Planifica Madrid un ático de 485 m² en Chamberí con cláusulas de confidencialidad, justificado como oficinas temporales aunque el inmueble solo admitía uso residencial. En julio anunció que lo vendería.
-- Matiz: Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. Sin resolución todavía.
+- Matiz: Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. El 8 de septiembre de 2026 el tribunal admitió a trámite la denuncia de Más Madrid y la pasó a su Sección de Enjuiciamiento, que debe decidir si abre actuaciones. Sin resolución todavía.
 - Fuentes:
   - [elDiario.es: la compra](https://www.eldiario.es/madrid/gobierno-ayuso-compro-atico-chamberi-6-3-millones-euros_1_13428752.html)
   - [Público: denuncia del PSOE](https://www.publico.es/politica/tribunales/psoe-lleva-tribunal-cuentas-atico-ayuso-reclama-conocer-ordeno-comprarlo.html)
+  - [Infobae (Europa Press): el Tribunal de Cuentas admite a trámite la denuncia (sep 2026)](https://www.infobae.com/espana/agencias/2026/09/08/el-tribunal-de-cuentas-admite-a-tramite-la-denuncia-de-mas-madrid-por-la-compra-del-atico/)
 
 ### PP y Vox cierran la comisión de la DANA en las Corts con dos tercios de los comparecientes sin declarar
 - Fecha: may – jun 2026
@@ -1068,10 +1084,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Sentencia firme
 - Resumen: El exministro de Transportes y ex secretario de Organización del PSOE fue condenado por organización criminal, cohecho, tráfico de influencias y malversación por mordidas en contratos de mascarillas. Koldo García, su asesor, recibió 19 años y 8 meses.
-- Matiz: El cumplimiento efectivo máximo de Ábalos queda en 15 años y 8 meses. Lo juzgó el Supremo por ser diputado aforado. Víctor de Aldama, condenado a cuatro años y medio, no entra en prisión por colaborar con la justicia.
+- Matiz: La pena exacta de Ábalos es de 24 años y 3 meses, y la de Koldo, de 19 años, 8 meses y un día; el tiempo efectivo de prisión será menor por los límites legales de cumplimiento. El tribunal decidió por unanimidad. Lo juzgó el Supremo por ser diputado aforado. Víctor de Aldama, condenado a cuatro años y medio, tiene la pena suspendida por colaborar con la justicia.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/politica/jose-luis-abalos-condenado-carcel-tribunal-supremo_1_13301658.html)
   - [Infobae](https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/)
+  - [Poder Judicial: nota del Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias)
 
 ### Comunidades del PP recurren la vivienda protegida permanente del plan estatal pero cobran sus fondos
 - Fecha: may – sep 2026
@@ -1105,21 +1122,21 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Senado
 - Nivel de prueba: Documentado en medios
-- Resumen: Vox pidió en el Senado una comisión de investigación sobre la llamada ley de nietos y sus efectos en el censo electoral. El PP, con mayoría absoluta, la descartó sin llevarla a votación.
-- Matiz: El PP prefirió esperar a que se pronuncie el Supremo. La disolución de las Cortes por las elecciones del 29 de noviembre deja además varias comisiones sin cerrar.
+- Resumen: Vox pidió en el Senado una comisión de investigación sobre la llamada ley de nietos y sus efectos en el censo electoral. El PP, con mayoría absoluta en la cámara, la descartó.
+- Matiz: El portavoz del PP, Borja Sémper, dijo que era razonable esperar la sentencia definitiva del Supremo, que había suspendido cautelarmente el voto de algunos españoles que obtuvieron la nacionalidad por esta vía: «No necesitamos una comisión de investigación para entender que una orden ministerial no está por encima de una ley aprobada en el Congreso».
 - Fuentes:
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/09/14/el-pp-no-ve-necesario-una-comision-de-investigacion-sobre-la-ley-de-nietos-como-pide-vox/)
 
-### El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a Ferrovial, Dragados y Api
+### El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a su socio privado Emesa
 - Fecha: 2017 – 2025
 - Partidos: PP
 - Categoría: Gestión pública y derechos
 - Nivel de prueba: Documentado en medios
-- Resumen: Durante años, el Ayuntamiento de Madrid reclamó a Emesa, la sociedad privada de Ferrovial, Dragados y Api que gestionaba parte de la M-30, el pago de la factura eléctrica de la vía, que fue creciendo hasta unos 112 millones. Al recomprarle su 20% de Madrid Calle 30 a finales de 2025, el Ayuntamiento de Almeida abandonó la reclamación.
-- Matiz: El origen es un contrato de 2005, del Gobierno municipal de Gallardón, que no dejaba claro quién pagaba la luz. La recompra en sí devuelve la M-30 a gestión 100% pública y el Ayuntamiento calcula un ahorro de unos 63 millones al año. Es el Ayuntamiento, no el Gobierno de Ayuso.
+- Resumen: Durante años, el Ayuntamiento de Madrid reclamó a Emesa, el consorcio privado liderado hoy por Serveo que tenía el 20% de Madrid Calle 30, el pago de la factura eléctrica de la vía, que fue creciendo hasta unos 112 millones. Al recomprarle ese 20%, por el que pagó 103,9 millones, el Ayuntamiento de Almeida abandonó la reclamación.
+- Matiz: El origen es un contrato de 2005, del Gobierno municipal de Gallardón, cuyos pliegos se contradecían sobre quién pagaba la luz. El Ayuntamiento dice que reclamaba solo por cautela jurídica, para que no prescribiera, y que en 2005 ya se resolvió que Emesa no la pagaría. La recompra devuelve la M-30 a gestión 100% pública, con un ahorro anunciado de más de 1.000 millones en 15 años. Es el Ayuntamiento, no el Gobierno de Ayuso.
 - Fuentes:
   - [Xataka: la renuncia a los 112 millones](https://www.xataka.com/movilidad/quien-paga-luz-m-30-pregunta-resolver-que-madrid-ha-zanjado-renunciando-a-112-millones-euros)
-  - [elDiario.es: la recompra a Emesa](https://www.eldiario.es/madrid/somos/ayuntamiento-madrid-pagara-emesa-112-millones-remunicipalizar-calle-30_1_11770632.html)
+  - [elDiario.es: la recompra a Emesa (precio previsto de 112 millones, no confundir con la factura de la luz)](https://www.eldiario.es/madrid/somos/ayuntamiento-madrid-pagara-emesa-112-millones-remunicipalizar-calle-30_1_11770632.html)
 
 ### PP y Vox rechazan investigar en el Parlamento andaluz los incendios de 2026
 - Fecha: 1 oct 2026
@@ -1215,54 +1232,58 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Resultado: Aprobada 176 a 167, 1 abstención
 - Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts No · Bildu Sí · PNV No
 - Qué decía: Limita al 3% la subida anual de los alquileres en 2024, permite declarar zonas tensionadas con topes de precio y prevé un nuevo índice para actualizar rentas.
-- Contexto: PP, Vox y Ciudadanos argumentaron que reduciría la oferta de alquiler. PNV y Junts también votaron no; la vivienda es competencia autonómica y ambos defendían la de sus gobiernos. Los economistas discrepan sobre los efectos de los topes.
+- Contexto: PP, Vox y Ciudadanos argumentaron que reduciría la oferta de alquiler. PNV, Junts y PDeCAT también votaron no; el PNV alegó que invadía competencias autonómicas. La abstención fue del BNG. Los economistas discrepan sobre los efectos de los topes.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-ley-vivienda-votos-derechas_1_10155945.html)
   - [idealista/news](https://www.idealista.com/news/inmobiliario/vivienda/2023/04/27/805657-aprobada-la-ley-de-vivienda-en-el-congreso-con-el-tope-al-alquiler-y-el-adios-al-IPC)
 
 ### Decreto ómnibus con subida de pensiones
 - Fecha: 22 ene 2025
-- Resultado: Derogado 171 a 177
-- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC s/d · Junts No · Bildu s/d · PNV s/d
+- Resultado: Derogado 171 a 177, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
 - Qué decía: Un único decreto juntaba la revalorización del 2,8% de las pensiones, las ayudas al transporte, el bono social eléctrico y la suspensión de desahucios a familias vulnerables, junto a medidas sin relación como la cesión de un palacete en París al PNV.
-- Contexto: PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Las pensiones se aprobaron después por separado con apoyo amplio, incluido el del PP.
+- Contexto: PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Se abstuvo UPN; Cs ya no tenía escaño. El 12 de febrero de 2025 se convalidó un nuevo decreto ómnibus que mantenía las pensiones, el transporte, las ayudas por la DANA, la suspensión de desahucios y la devolución del palacete al PNV, con 315 votos a favor, incluidos PP y Junts, y solo Vox en contra.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/politica/junts-anuncia-voto-decretos-gobierno-deja-pensiones-manos-pp_1_11983907.html)
+  - [Servimedia: la votación por grupos](https://www.servimedia.es/noticias/pp-vox-junts-tumban-decreto-omnibus-revalorizaba-pensiones-prorrogaba-ayudas-transporte/1411446794)
+  - [Infobae: el nuevo decreto ómnibus, convalidado (feb 2025)](https://www.infobae.com/espana/2025/02/12/el-congreso-aprueba-de-nuevo-el-decreto-omnibus-con-la-subida-de-pensiones/)
 
 ### Reducción de jornada a 37,5 horas
 - Fecha: 10 sep 2025
 - Resultado: Devuelta al Gobierno 178 a 170
-- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC s/d · Junts No · Bildu s/d · PNV s/d
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
 - Qué decía: Bajaba la jornada máxima legal de 40 a 37,5 horas semanales sin reducción de sueldo y obligaba a un registro horario digital.
-- Contexto: PP alegó que debía pactarse con la patronal y que se trasladaría a los convenios. Vox dijo que perjudicaría a los trabajadores. Junts argumentó que el coste recaía sobre todo en pequeños comercios catalanes.
+- Contexto: Prosperaron las enmiendas a la totalidad de PP, Vox y Junts, con el apoyo de UPN. PP alegó que debía pactarse con la patronal y que se trasladaría a los convenios; PP y Vox advirtieron de que acabaría en bajadas de sueldo. Junts argumentó que el 96% de las empresas catalanas tienen menos de 10 trabajadores y que el coste recaería sobre ellas.
 - Fuentes:
   - [El Español](https://www.elespanol.com/espana/20250910/congreso-tumba-gobierno-reduccion-jornada-laboral-votos-pp-vox-junts-frente/1003743919055_0.html)
   - [idealista/news](https://www.idealista.com/news/finanzas/economia/2025/09/11/859545-el-congreso-tumba-la-reduccion-de-jornada-laboral-al-prosperar-el-veto-de-pp-vox-y)
 
 ### Decreto con pensiones y freno a desahucios
 - Fecha: 27 ene 2026
-- Resultado: Derogado
-- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC s/d · Junts No · Bildu s/d · PNV s/d
-- Qué decía: Incluía la subida del 2,7% de las pensiones ya aplicada en enero, la suspensión de desahucios a personas vulnerables y la congelación de cuotas de autónomos.
-- Contexto: PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno aprobó las pensiones en un decreto aparte, convalidado en febrero de 2026 con apoyo de PP y Junts.
+- Resultado: Derogado 171 a 178
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 16/2025. Incluía la subida del 2,7% de las pensiones ya aplicada en enero, la suspensión de desahucios a personas vulnerables y la congelación de cuotas de autónomos.
+- Contexto: PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno separó las medidas: el 26 de febrero de 2026 la subida de las pensiones se convalidó con el voto en contra solo de Vox, y el decreto del escudo social, con la suspensión de desahucios, volvió a caer con el voto en contra de Vox y Junts.
 - Fuentes:
+  - [Congreso: resultado oficial de la votación (27 ene 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153132.pdf)
   - [Euronews](https://es.euronews.com/2026/01/27/pensiones-ocupaciones-oposicion-tumba-decreto-omnibus-gobierno)
   - [Canal Sur: el nuevo decreto de pensiones](https://www.canalsur.es/noticias/espana/congreso-desbloquea-revalorizacion-pensiones-apoyo_1_1385986.html)
+  - [Euronews: pensiones aprobadas y escudo social tumbado (26 feb 2026)](https://es.euronews.com/2026/02/26/el-congreso-aprueba-la-revalorizacion-de-las-pensiones-en-2026-y-tumba-el-escudo-social)
 
 ## Iniciativas ciudadanas (27)
 
 ### Bajar las ratios en la escuela pública
 - Parlamento: Navarra
 - Resultado: En trámite
-- Firmas: Sin dato
+- Firmas: En recogida: seis meses para reunir firmas del 1% del censo
 - Promotores: Steilas y Plataforma por la Educación Pública
-- Votación: Admitida a trámite y enviada al Gobierno foral para informe.
+- Votación: Admitida a trámite por la Mesa y la Junta de Portavoces el 21 de septiembre de 2026, con el único voto en contra del PSN.
 - Partidos que la frenaron o votaron en contra: PSOE
-- Qué pasó: El Gobierno foral calcula un coste de 193 millones. Según Steilas, todos los grupos salvo el PSN apoyaron tramitarla.
-- Matiz: El PSN prefiere dedicar ese dinero a vivienda. La postura formal del Gobierno no está confirmada.
+- Qué pasó: El Gobierno foral (PSN, Geroa Bai y Contigo-Zurekin) emitió un criterio de disconformidad: calcula un coste de unos 193 millones entre profesorado, nuevas aulas y obras.
+- Matiz: El PSN (Kevin Lucero) dijo que bajar ratios exige profesorado, aulas y obras, y que prefiere dedicar ese dinero a vivienda. Steilas, que es promotora, sostiene que habría dinero si Navarra dedicara el 5% del PIB a educación, como prevé el acuerdo de gobierno.
 - Fuentes:
   - [Steilas](https://steilas.eus/es/2026/09/23/si-hay-dinero-para-bajar-los-ratios/)
-  - [Parlamento de Navarra](https://parlamentodenavarra.es/es/noticias/sesi%C3%B3n-7-de-septiembre-2026)
+  - [Noticias de Navarra: admitida con la disconformidad del Gobierno](https://www.noticiasdenavarra.com/sociedad/2026/09/21/parlamento-navarra-tramita-iniciativa-reducir-ratios-educacion-disconformidad-gobierno-11568224.html)
 
 ### Difundir la obra de Castelao
 - Parlamento: Galicia
@@ -1308,14 +1329,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Salario mínimo propio para Euskadi
 - Parlamento: País Vasco
 - Resultado: Rechazada
-- Firmas: Más de 100.000 firmas
+- Firmas: 138.495 firmas
 - Promotores: Sindicatos ELA, LAB, ESK, Steilas, Hiru y Etxalde
-- Votación: En contra PNV, PSE-EE, PP y Vox; a favor EH Bildu y Sumar.
+- Votación: 44 en contra (PNV, PSE-EE, PP y Vox) y 27 a favor (EH Bildu y Sumar).
 - Partidos que la frenaron o votaron en contra: PNV, PSOE, PP, Vox
 - Qué pasó: Rechazada en la toma en consideración.
-- Matiz: El Gobierno Vasco emitió un informe económico desfavorable; alegaron que fragmentaría el mercado laboral.
+- Matiz: El Gobierno vasco emitió un informe desfavorable. Se alegó falta de competencia autonómica, la solidez del sistema vasco de garantía de ingresos y la igualdad territorial. El PSE dijo que el salario mínimo estatal ya había subido un 60% desde 2018 y que los derechos laborales no deben territorializarse; el PNV pidió que lo negocien sindicatos y patronal.
 - Fuentes:
   - [Crónica Vasca (El Español)](https://cronicavasca.elespanol.com/economia/20251113/parlamento-vasco-pnv-pse-iniciativa-popular-smi/1003742707010_0.html)
+  - [elDiario.es: 138.495 firmas, 44 a 27](https://www.eldiario.es/euskadi/parlamento-vasco-cierra-puerta-138-495-firmas-sindicatos-crear-salario-minimo-vasco-alto_1_12763622.html)
+  - [IDP-UCM: Escrutinio n.º 6 (mayo 2026)](https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf)
   - [Deia](https://www.deia.eus/politica/2025/11/13/pnv-pse-pp-vox-bloquean-10343268.html)
 
 ### Quitar a la tauromaquia la protección de patrimonio cultural ('No es mi cultura')
@@ -1358,26 +1381,28 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento: Madrid
 - Resultado: Rechazada
 - Firmas: 70.895 firmas validadas
-- Promotores: FRAVM, FAPA Giner de los Ríos, CCOO y UGT
+- Promotores: FAPA Giner de los Ríos, con el apoyo de CCOO, UGT y la FRAVM
 - Votación: En contra PP, con mayoría absoluta, y Vox; a favor PSOE y Más Madrid.
 - Partidos que la frenaron o votaron en contra: PP, Vox
-- Qué pasó: Rechazada en la toma en consideración: las aulas siguen sin una norma de climatización.
-- Matiz: El PP dijo que una ILP no era el instrumento adecuado; el consejero se ofreció a negociar.
+- Qué pasó: Rechazada en la toma en consideración. Desde 1986 solo una ILP ha llegado a ley en la Asamblea de Madrid.
+- Matiz: El PP dijo que una ILP no era el instrumento adecuado. Tras el rechazo, el consejero de Educación, Emilio Viciana, se mostró abierto a dialogar con asociaciones y profesores sobre alternativas.
 - Fuentes:
   - [FRAVM](https://fravm.org/noticias/los-votos-de-pp-y-vox-en-la-asamblea-de-madrid-impiden-la-tramitacion-de-la-ilp-por-la-climatizacion-de-los-centros-educativos/)
+  - [IDP-UCM: Escrutinio n.º 6 (mayo 2026)](https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf)
   - [El Salto](https://www.elsaltodiario.com/comunidad-madrid/aulas-seguiran-30-grados-pp-vox-tumban-iniciativa-climatizar-aulas)
 
 ### Una radiotelevisión pública gallega plural
 - Parlamento: Galicia
 - Resultado: Rechazada
-- Firmas: Casi 25.000 firmas
-- Promotores: Plataforma 'Por unha CRTVG ao servizo do pobo'
+- Firmas: Más de 24.000 firmas
+- Promotores: 35 entidades bajo el lema «Liberemos a Galega», entre ellas BNG, PSdeG y los sindicatos CIG, UGT, CCOO y CUT
 - Votación: En contra el PP; a favor BNG y PSdeG.
 - Partidos que la frenaron o votaron en contra: PP
-- Qué pasó: Rechazada en la toma en consideración.
-- Matiz: El PP la consideró innecesaria porque ya existía la nueva ley de medios de 2025.
+- Qué pasó: Rechazada en la toma en consideración. Pedía, entre otras cosas, elegir al director general por mayoría cualificada del Parlamento y crear una autoridad audiovisual independiente.
+- Matiz: El PP (Carmen Pomar) la consideró innecesaria e inoportuna porque ya existía la nueva ley de medios de marzo de 2025. Entre los promotores estaban los dos partidos de la oposición.
 - Fuentes:
   - [Galicia Confidencial](https://www.galiciaconfidencial.com/noticia/5482307-debate-sobre-medios-publicos-galegos-rexeitada-proposta-cidada-mais-24000-sinaturas)
+  - [IDP-UCM: Escrutinio n.º 6 (mayo 2026)](https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf)
 
 ### Destinar el 6% del PIB a educación
 - Parlamento: Cataluña
@@ -1430,29 +1455,31 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento: Congreso
 - Resultado: Bloqueada
 - Firmas: Unas 700.000 firmas (más de 600.000 válidas)
-- Promotores: Regularización Ya, con más de 900 organizaciones y la Iglesia católica
+- Promotores: Regularización Ya y más de 900 organizaciones, con el apoyo de la Conferencia Episcopal
 - Votación: Toma en consideración el 9 de abril de 2024: 310 votos a favor y 33 en contra. Solo Vox votó no.
 - Partidos que la frenaron o votaron en contra: PSOE, Junts, PP, Vox
-- Qué pasó: Tras admitirse a trámite casi por unanimidad, el plazo de enmiendas se amplió una decena de veces. PSOE y Sumar no cerraban el texto, PNV y Junts pedían exigir contrato o historial laboral y Junts lo ligaba a las competencias de inmigración. En 2026 el Gobierno hizo la regularización por real decreto (RD 316/2026), sin pasar por el Congreso.
+- Qué pasó: Tras admitirse a trámite casi por unanimidad, el plazo de enmiendas se prorrogó una y otra vez: en septiembre de 2024 ya llevaba nueve prórrogas. PSOE y Sumar no cerraban el texto, PNV y Junts pedían exigir contrato o historial laboral y Junts lo ligaba a las competencias de inmigración. En 2026 el Gobierno hizo la regularización por real decreto (RD 316/2026), sin pasar por el Congreso.
 - Matiz: El PP apoyó tramitarla y después se opuso a una regularización masiva. La regularización llegó, pero no por la vía de la ILP.
 - Fuentes:
   - [elDiario.es: la votación](https://www.eldiario.es/desalambre/congreso-apoyara-iniciativa-popular-regularizar-cientos-miles-migrantes-viven-espana_1_11273877.html)
   - [elDiario.es: un año estancada](https://www.eldiario.es/politica/regularizacion-migrantes-sigue-estancada-congreso-ano-despues-sentimos-frustracion_1_12215350.html)
+  - [COPE: nueve prórrogas (sep 2024)](https://www.cope.es/actualidad/espana/noticias/congreso-prorroga-semana-mas-plazo-enmiendas-ilp-busca-regularizar-500-000-migrantes-20240904_3005016.html)
   - [BOE: Real Decreto 316/2026](https://www.boe.es/boe/dias/2026/04/15/pdfs/BOE-A-2026-8284.pdf)
 
 ### Ratios educativas, y endurecimiento de la ley de ILP
 - Parlamento: Comunitat Valenciana
 - Resultado: Rechazada
-- Firmas: Sin dato
+- Firmas: Más de 23.000 firmas, según STEPV
 - Promotores: Sindicato STEPV
-- Votación: En contra PP y Vox; a favor PSPV y Compromís.
+- Votación: En contra PP y Vox, «la mayoría de derechas» según STEPV; a favor PSPV y Compromís.
 - Partidos que la frenaron o votaron en contra: PP, Vox
-- Qué pasó: El mismo día las Corts rechazaron la ILP de ratios educativas y aprobaron por unanimidad tramitar la de enfermería escolar. En 2025, PP y Vox endurecieron la ley de ILP valenciana en la ley de acompañamiento de los presupuestos: menos materias y menos facultades para los promotores.
+- Qué pasó: El mismo día las Corts rechazaron la ILP de ratios educativas y aprobaron por unanimidad tramitar la de enfermería escolar. En 2025 las Corts endurecieron la ley valenciana de ILP dentro de la ley de acompañamiento de los presupuestos (Ley 5/2025, de 30 de mayo): ya no pueden promoverlas asociaciones ni agentes sociales, se amplían las materias excluidas y la comisión promotora pierde sus facultades durante la tramitación.
 - Matiz: El PP la consideró inviable porque exigiría unos 400 centros nuevos. Ese día también se rechazó, con PP, PSPV y Compromís en contra, una ILP de libertad de elección de lengua que solo apoyó Vox.
 - Fuentes:
   - [Valencia Plaza](https://valenciaplaza.com/pp-rechaza-ilp-hablemos-espanol-espera-nueva-ley-libertad-educativa)
   - [Corts Valencianes: ILP registradas](https://www.cortsvalencianes.es/es/parlament-obert/iniciativa-legislativa-popular/completo)
   - [IDP-UCM: la reforma de 2025](https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf)
+  - [STEPV/Intersindical: Quaderns n.º 85 (mayo 2024)](https://intersindical.org/docs/2024-05-01_INTERSINDICAL_85_1_DE_MAIG_WEB.pdf)
 
 ### Transporte sanitario urgente
 - Parlamento: Aragón
@@ -1473,8 +1500,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promotores: Varios
 - Votación: Sin votación.
 - Partidos que la frenaron o votaron en contra: —
-- Qué pasó: Según la Junta Electoral Central, entre 2018 y 2026 caducaron sin llegar a votarse ILP sobre dación en pago, copago farmacéutico de pensionistas, recuperar la sanidad pública, saltos hidroeléctricos o maltrato a mayores, entre otras. La Mesa del Congreso inadmitió otras sobre okupación, CGPJ, natalidad o estatuto del político.
-- Matiz: Muchas no reúnen las firmas a tiempo; la inadmisión suele deberse a que tratan materias excluidas de la iniciativa popular.
+- Qué pasó: Según los listados de la Junta Electoral Central de las legislaturas XIV y XV (2019-2026), caducaron ILP sobre dación en pago, copago farmacéutico de pensionistas, recuperación de la sanidad pública o maltrato a mayores, entre otras, y la Mesa del Congreso inadmitió otras sobre okupación, CGPJ, natalidad o estatuto del político.
+- Matiz: Una ILP caduca cuando no se entregan las firmas en el plazo legal, no porque el Congreso deje de votarla. La inadmisión suele deberse a que tratan materias excluidas de la iniciativa popular. Los listados no cubren la legislatura de 2016 a 2019.
 - Fuentes:
   - [JEC: legislatura XIV](https://www.juntaelectoralcentral.es/cs/jec/ilp/legislaturas/Legislatura&sIdLeg=14&p=1379061558559)
   - [JEC: legislatura XV](https://www.juntaelectoralcentral.es/cs/jec/ilp/legislaturas/Legislatura&sIdLeg=15&sLegActual=S&p=1379061558559)
@@ -1566,28 +1593,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [ConSalud](https://www.consalud.es/politica/parlamentos/congreso-respalda-ilp-ratio-segura-enfermeras-espana_89642_102.html)
   - [Redacción Médica](https://www.redaccionmedica.com/secciones/parlamentarios/el-congreso-aprueba-la-ley-de-ratios-enfermera-con-la-incognita-economica-8299)
 
-### Prestación de ingresos mínimos
-- Parlamento: Congreso
-- Resultado: Bloqueada
-- Firmas: Unas 700.000 firmas
-- Promotores: CCOO y UGT
-- Votación: Admitida en febrero de 2017.
-- Partidos que la frenaron o votaron en contra: —
-- Qué pasó: Acumuló unas 20 ampliaciones del plazo de enmiendas y nunca se aprobó. En la práctica la sustituyó el Ingreso Mínimo Vital de 2020, aprobado por decreto.
-- Matiz: Las fuentes no aclaran qué grupos la frenaron en cada momento.
-- Fuentes:
-  - [UGT](https://www.ugt.es/ugt-valora-los-avances-para-evitar-bloqueos-legislativos-de-los-que-ha-sido-victima)
-
 ### Multiconsulta ciudadana de Barcelona
 - Parlamento: Ayuntamientos
 - Resultado: Otros
-- Firmas: Iniciativa de entidades, que necesitaban 15.000 firmas
+- Firmas: Unas 23.000 firmas la del agua y 15.000 la de la plaza
 - Promotores: Entidades ciudadanas
-- Votación: Rechazada en abril de 2018 por PDeCAT y CUP; aprobada en octubre con BComú, ERC y CUP, con PP y Cs en contra y PSC y PDeCAT abstenidos.
-- Partidos que la frenaron o votaron en contra: Junts, Otros, PP, Cs
-- Qué pasó: Preguntaba por la gestión pública del agua y el nombre de una plaza. Aunque se aprobó, no llegó a celebrarse porque la ley prohíbe consultas en los seis meses previos a las municipales.
-- Matiz: El PDeCAT alegó falta de garantías.
+- Votación: Rechazada el 10 de abril de 2018: la del agua solo la apoyaron BComú y ERC (PSC, PP, Cs, PDeCAT y CUP en contra; Ardanuy se abstuvo) y la de la plaza, BComú, ERC y CUP. Aprobada en octubre con BComú, ERC, CUP y Puigcorbé; PP y Cs en contra; PSC, PDeCAT y Ardanuy se abstuvieron.
+- Partidos que la frenaron o votaron en contra: Junts, Otros, PP, Cs, PSOE
+- Qué pasó: Preguntaba por la gestión pública del agua y el nombre de la plaza Antonio López. Aunque se aprobó en octubre, no llegó a celebrarse porque el reglamento municipal de participación impide convocar consultas en los seis meses previos a las municipales.
+- Matiz: El PDeCAT, que la había apoyado antes, alegó falta de garantías; la CUP se opuso a la pregunta sobre el agua. Colau acusó a ambos de incoherencia.
 - Fuentes:
   - [Crónica Global: el rechazo](https://cronicaglobal.elespanol.com/politica/20180411/colau-atribuye-pdecat-la-cup-fracaso-multiconsulta/298970115_0.html)
   - [Crónica Global: la aprobación](https://cronicaglobal.elespanol.com/politica/20181026/colau-la-multiconsulta-gracias-abstencion-psc-pdecat/348465174_0.html)
+  - [Catalunya Press: la votación de abril](https://www.catalunyapress.es/texto-diario/mostrar/1049973/multiconsulta-colau-tocada-hundida)
+
+### Prestación de ingresos mínimos
+- Parlamento: Congreso
+- Resultado: Bloqueada
+- Firmas: Más de 700.000 firmas
+- Promotores: CCOO y UGT
+- Votación: Tomada en consideración el 2 de febrero de 2017 con el voto en contra de PP y Ciudadanos.
+- Partidos que la frenaron o votaron en contra: PP, Cs
+- Qué pasó: Proponía una prestación de 426 euros al mes para personas en paro sin ingresos. Acumuló unas 20 ampliaciones del plazo de enmiendas y nunca se aprobó. En la práctica la sustituyó el Ingreso Mínimo Vital de 2020, aprobado por decreto.
+- Matiz: PP y Ciudadanos alegaron su coste y su financiación. Las fuentes no aclaran qué grupos la frenaron en cada prórroga. Formalmente no ha caducado: se ha ido trasladando de legislatura.
+- Fuentes:
+  - [UGT](https://www.ugt.es/ugt-valora-los-avances-para-evitar-bloqueos-legislativos-de-los-que-ha-sido-victima)
+  - [Público: el Congreso la toma en consideración (feb 2017)](https://www.publico.es/politica/congreso-aprueba-consideracion-renta-minima.html)
 

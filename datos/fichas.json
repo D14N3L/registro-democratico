@@ -9,7 +9,7 @@
   "c": "Financiación y corrupción",
   "pr": "med",
   "s": "En sus primeros cinco meses, Vox recibió unos 972.000 euros en 141 transferencias de simpatizantes del Consejo Nacional de Resistencia de Irán (CNRI), un grupo opositor en el exilio. El dinero pagó el alquiler de la sede, muebles y sueldos, incluido el de Santiago Abascal. Según Público, cubrió el 80% de la campaña europea de 2014.",
-  "n": "Es la oposición iraní en el exilio, no el Gobierno de Irán. La ley prohíbe financiación de gobiernos extranjeros; no consta ninguna sanción por estas donaciones. Los hechos son anteriores al periodo del registro, pero ayudan a entender el patrón de financiación exterior junto al préstamo húngaro.",
+  "n": "Es la oposición iraní en el exilio, no el Gobierno de Irán. La ley de financiación de partidos prohíbe los fondos de gobiernos extranjeros, y la Ley Electoral impide recibir donaciones de personas o entidades extranjeras una vez convocadas las elecciones; no consta ninguna sanción por estas donaciones. Los hechos son anteriores al periodo del registro, pero ayudan a entender el patrón de financiación exterior junto al préstamo húngaro.",
   "src": [
    [
     "elDiario.es: el millón del exilio iraní",
@@ -224,15 +224,15 @@
  },
  {
   "d": "2019-11-19",
-  "dl": "2019 · 2022 · 2024",
+  "dl": "2019 – 2026",
   "t": "Caso ERE: condenas a expresidentes andaluces, anuladas en parte por el TC",
   "p": [
    "PSOE"
   ],
   "c": "Financiación y corrupción",
-  "pr": "firme",
-  "s": "La Audiencia de Sevilla condenó en 2019 a Manuel Chaves (prevaricación) y José Antonio Griñán (malversación) por el sistema de ayudas de los ERE en la Junta de Andalucía. El Supremo lo ratificó en 2022.",
-  "n": "En julio de 2024 el TC, por 7 votos a 4, anuló esas condenas en parte por vulnerar la presunción de inocencia y la legalidad penal, y ordenó dictar nuevas sentencias. Úsalo con este matiz.",
+  "pr": "tc",
+  "s": "La Audiencia de Sevilla condenó en 2019 a Manuel Chaves, por prevaricación, a nueve años de inhabilitación, y a José Antonio Griñán, por prevaricación y malversación, a seis años de prisión, por el sistema de ayudas de los ERE en la Junta de Andalucía. El Supremo lo ratificó en 2022.",
+  "n": "En julio de 2024 el TC, por 7 votos a 4, anuló esas condenas en parte por vulnerar derechos fundamentales, entre ellos el principio de legalidad penal, y ordenó a la Audiencia de Sevilla dictar nuevas sentencias. En julio de 2025 la Audiencia llevó las sentencias del TC al TJUE, por ver riesgo de impunidad, y suspendió su ejecución hasta que responda; en abril de 2026 la Comisión Europea pidió inadmitir la cuestión porque el dinero era del presupuesto andaluz y no de la UE. A octubre de 2026 el TJUE no ha resuelto.",
   "src": [
    [
     "Noticias de Navarra: el TC anula",
@@ -241,6 +241,18 @@
    [
     "elEconomista",
     "https://www.eleconomista.es/legal/noticias/12911733/07/24/el-tribunal-constitucional-anula-la-condena-a-manuel-chaves-en-el-caso-de-los-ere.html"
+   ],
+   [
+    "Infobae: el TC anula las condenas (jul 2024)",
+    "https://www.infobae.com/espana/2024/07/16/el-constitucional-anula-la-condena-al-expresidente-andaluz-manuel-chaves-por-el-caso-ere/"
+   ],
+   [
+    "Poder Judicial: la Audiencia de Sevilla lleva el caso al TJUE (jul 2025)",
+    "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE"
+   ],
+   [
+    "Público: la Comisión Europea pide inadmitir la cuestión (abr 2026)",
+    "https://www.publico.es/politica/tribunales/comision-europea-rechaza-tjue-pronuncie-sobre-sentencias-caso-ere.html"
    ]
   ],
   "a": ""
@@ -369,7 +381,7 @@
   "c": "Control parlamentario",
   "pr": "med",
   "s": "La comisión de investigación sobre las residencias de mayores que pedía el PP fue rechazada por el PSOE, IU y Podemos, que gobernaban la comunidad.",
-  "n": "El PSOE acusó al PP de querer sacar rédito político de los muertos y dijo que las preguntas podían hacerse directamente al Gobierno.",
+  "n": "El PSOE (Raúl Díaz) acusó al PP de querer «sacar rédito político con un uso chabacano y partidista de un drama»; IU (Henar Moreno) dijo que bastaba con formular preguntas al Gobierno. Ciudadanos apoyó la comisión.",
   "src": [
    [
     "elDiario.es",
@@ -664,8 +676,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "Más Madrid, PSOE y Unidas Podemos pidieron investigar los contratos de emergencia del covid, incluido el que dio una comisión al hermano de Ayuso. La Mesa no la admitió con el voto en contra del PP y la abstención de Vox. Era la segunda iniciativa parecida que tumbaba.",
-  "n": "El PP alegó defectos de forma en el escrito.",
+  "s": "Más Madrid, PSOE y Unidas Podemos pidieron investigar los contratos de emergencia del covid, incluido el de 1,5 millones en mascarillas adjudicado a Priviet Sportive, empresa que pagó una comisión al hermano de Ayuso. La Mesa no la admitió con el voto en contra del PP y la abstención de Vox. Era la segunda iniciativa parecida que tumbaba.",
+  "n": "El PP alegó defectos de forma en el escrito. En marzo de 2023 la Fiscalía Europea archivó la investigación sobre ese contrato: no vio acreditado que el precio fuera desproporcionado.",
   "src": [
    [
     "Telemadrid",
@@ -674,6 +686,10 @@
    [
     "Madridiario",
     "https://www.madridiario.es/rechazada-asamblea-comision-investigacion-contratos-hermano-ayuso"
+   ],
+   [
+    "elDiario.es: la Fiscalía Europea archiva (mar 2023)",
+    "https://www.eldiario.es/politica/fiscalia-europea-archiva-investigacion-comisiones-hermano-ayuso-compra-mascarillas_1_10032733.html"
    ]
   ],
   "a": "Madrid"
@@ -918,15 +934,15 @@
   ],
   "c": "Control parlamentario",
   "pr": "tc",
-  "s": "El Gobierno y sus socios introdujeron, como enmiendas a la ley que derogaba la sedición, cambios en cómo el CGPJ elige magistrados del TC. A petición del PP, el TC suspendió su tramitación en el Senado (ATC 177/2022) por falta de relación con la ley.",
-  "n": "Fue la primera vez que el TC paralizó un debate parlamentario, por 6 votos a 5, y la decisión también recibió fuertes críticas por invadir al legislador y porque votaron magistrados afectados.",
+  "s": "El Gobierno y sus socios introdujeron, como enmiendas a la ley que derogaba la sedición, cambios en cómo el CGPJ elige magistrados del TC. A petición del PP, que alegaba que esas enmiendas no guardaban relación con la ley, el TC suspendió cautelarmente su tramitación en el Senado (ATC 177/2022, 19 de diciembre de 2022).",
+  "n": "Fue la primera vez en más de 40 años que el TC paralizó un debate parlamentario. Lo decidió por 6 votos a 5, con la mayoría conservadora frente a la progresista, La decisión recibió fuertes críticas de buena parte de la doctrina por invadir la función del legislador y porque participaron dos magistrados recusados, González-Trevijano y Narváez, a los que afectaba la reforma; otros juristas la defendieron. Es una medida cautelar, no una sentencia sobre el fondo.",
   "src": [
    [
     "El Confidencial Digital (Europa Press)",
     "https://www.elconfidencialdigital.com/articulo/ultima-hora/comision-justicia-senado-da-luz-verde-reforma-que-deroga-sedicion-enmiendas-vetadas-tc/20221220131313495069.html"
    ],
    [
-    "Dialnet: análisis del ATC 177/2022",
+    "Teoría y Realidad Constitucional: análisis crítico del ATC 177/2022 (Artemi Rallo, exportavoz socialista en el Senado)",
     "https://dialnet.unirioja.es/descarga/articulo/9633561.pdf"
    ]
   ],
@@ -1049,8 +1065,8 @@
   ],
   "c": "Medios públicos y propaganda",
   "pr": "med",
-  "s": "Según la Plataforma de Contratación del Sector Público, analizada por La Marea, el Instituto Tecnológico Agrario de Castilla y León, dependiente de la Consejería de Agricultura dirigida por Vox, firmó en 2023 más de cien contratos con medios. Entre ellos, casi 15.000 euros a EDATV de Javier Negre, 14.900 a Periodista Digital y 14.500 a OKDiario, todos justo por debajo del límite de 15.000 euros a partir del cual hay que sacar el contrato a concurso.",
-  "n": "Los contratos menores son legales; lo que se señala es el patrón de quedarse justo por debajo del umbral y el reparto a medios afines. En 2024, la Diputación de Ciudad Real, de PP y Vox, también incluyó el portal de Negre en una campaña de publicidad para medios locales, pese a no ser un medio local. Ninguna de las dos administraciones respondió a los periodistas.",
+  "s": "Según la Plataforma de Contratación del Sector Público, analizada por La Marea, el Instituto Tecnológico Agrario de Castilla y León, dependiente de la Consejería de Agricultura dirigida por Vox, firmó en 2023 más de un centenar de contratos de publicidad. Entre ellos, 14.995 euros a EDATV de Javier Negre, 14.900 a Periodista Digital y 14.500 a OKDiario, sin IVA, todos justo por debajo de los 15.000 euros a partir de los cuales hay que sacar el contrato a concurso.",
+  "n": "Los contratos menores son legales; lo que se señala es el patrón de quedarse justo por debajo del umbral y el reparto a medios afines. En 2024, la Diputación de Ciudad Real (Castilla-La Mancha), de PP y Vox, también incluyó el portal de Negre en una campaña de publicidad para medios locales, pese a no ser un medio local. La Diputación no respondió a Público cuando le preguntó por qué lo había incluido.",
   "src": [
    [
     "La Marea",
@@ -1073,8 +1089,8 @@
   ],
   "c": "Gestión pública y derechos",
   "pr": "med",
-  "s": "Según un estudio del IVIE con datos del Ministerio de Educación, en 2023 Madrid fue la comunidad que menos gastó por alumno (menos de 6.000 euros, frente a más de 9.000 en el País Vasco). A la vez, desde el curso 2022-23, pactado con Vox, las ayudas para estudiar Bachillerato en centros concertados y privados llegan a familias con hasta 35.913 euros de renta por persona: una pareja con un hijo que gane hasta 107.739 euros al año puede pedirla. El presupuesto de estas ayudas pasó de 64,6 a 127 millones.",
-  "n": "Madrid es la que menos paga por cada alumno de la concertada y dice que el 94,5% de las familias consigue plaza en su primera opción. El País Vasco, gobernado por el PNV, es la comunidad que más proporción de su gasto educativo destina a la concertada (26%, frente al 18% de Madrid). CCOO denuncia el cierre de 88 aulas públicas de Infantil y Primaria en 2025-26; la Comunidad dice que hay 244 aulas y 517 docentes más.",
+  "s": "Según un estudio del IVIE con datos del Ministerio de Educación, en 2023 Madrid fue la comunidad que menos gastó por alumno (menos de 6.000 euros, frente a más de 9.000 en el País Vasco). A la vez, desde el curso 2022-23, por el acuerdo de presupuestos con Vox, las ayudas para estudiar Bachillerato en centros concertados y privados llegan a familias con hasta 35.913 euros de renta por persona: una pareja con un hijo que gane hasta 107.739 euros al año puede pedirla. El presupuesto de las becas de Bachillerato pasó de 9 a 43,5 millones.",
+  "n": "Madrid es la que menos paga por cada alumno de la concertada (3.400 euros en 2023, frente a una media de 4.705) y dice que el 95,3% de los alumnos obtuvo plaza en su primera opción en el curso 2025-26. El País Vasco, gobernado por el PNV, es la comunidad que más proporción de su gasto educativo destina a la concertada (26%, frente al 18% de Madrid). CCOO denuncia el cierre de 88 aulas públicas de Infantil y Primaria en 2025-26; la Comunidad dice que hay 244 aulas y 517 docentes más.",
   "src": [
    [
     "Infobae: estudio del IVIE",
@@ -1091,6 +1107,14 @@
    [
     "elDiario.es: cierre de aulas según CCOO",
     "https://www.eldiario.es/sociedad/ccoo-denuncia-ayuso-cerrado-88-aulas-infantil-primaria-curso-mayoria-municipios-obreros-sur_1_13301791.html"
+   ],
+   [
+    "elDiario.es: el acuerdo con Vox y los 43,5 millones (jun 2022)",
+    "https://www.eldiario.es/madrid/comunidad-amplia-limite-renta-becas-0-3-bachillerato-privada-35-000-euros-persona_1_9043632.html"
+   ],
+   [
+    "Comunidad de Madrid: el 95,3% obtiene su primera opción",
+    "https://www.comunidad.madrid/noticias/2025/10/23/comunidad-madrid-defiende-libertad-eleccion-centro-educativo-familias-region"
    ]
   ],
   "a": ""
@@ -1192,8 +1216,8 @@
   ],
   "c": "Financiación y corrupción",
   "pr": "med",
-  "s": "El Parlament balear, con los votos de PP y Vox, eliminó la Oficina de Prevención y Lucha contra la Corrupción creada en la legislatura anterior a impulso de Podemos. Baleares se convirtió en la primera comunidad autónoma en suprimir su organismo anticorrupción.",
-  "n": "PP y Vox la calificaron de parcial e irrelevante y alegaron que duplicaba otros controles, como la Sindicatura de Comptes. Es una decisión parlamentaria legal; lo que se cuestiona es su efecto sobre el control de la corrupción.",
+  "s": "El Parlament balear, con los votos de PP y Vox, eliminó la Oficina de Prevención y Lucha contra la Corrupción, creada por ley en 2016, en el primer mandato de Francina Armengol, con el impulso de Podemos. Baleares se convirtió en la primera comunidad autónoma en suprimir su organismo anticorrupción. El cierre era parte del acuerdo de PP y Vox de junio de 2023.",
+  "n": "PP y Vox la calificaron de parcial e irrelevante y alegaron que duplicaba otros controles, como la Sindicatura de Comptes; el PP (Mauricio Rovira) la llamó «oficina socialista de persecución de la oposición». Cuando se aceleró el cierre, la oficina investigaba al director general de Emergencias del Govern, Sebastià Sureda, por una presunta trama urbanística. Es una decisión parlamentaria legal; lo que se cuestiona es su efecto sobre el control de la corrupción.",
   "src": [
    [
     "elDiario.es: primera autonomía en eliminarla",
@@ -1220,8 +1244,8 @@
   ],
   "c": "Derechos fundamentales y control judicial",
   "pr": "org",
-  "s": "Tres relatores especiales de la ONU concluyeron que las leyes de concordia de PP y Vox en Aragón, Castilla y León y la Comunitat Valenciana podían invisibilizar violaciones graves de derechos humanos de la dictadura y no respetaban estándares internacionales.",
-  "n": "Es una opinión no vinculante de expertos independientes, emitida tras una denuncia del Gobierno central. Los gobiernos autonómicos alegan que amplían el reconocimiento a todas las víctimas. Además, a recurso del Gobierno, el TC suspendió cautelarmente la derogación de la ley de memoria de Aragón (junio de 2024) y varios artículos de la ley valenciana (mayo de 2025); no consta aún sentencia de fondo.",
+  "s": "Tres relatores especiales de la ONU concluyeron que las leyes y proposiciones de concordia de PP y Vox en Aragón, Castilla y León y la Comunitat Valenciana podían invisibilizar violaciones graves de derechos humanos de la dictadura y no respetaban estándares internacionales.",
+  "n": "Es una opinión no vinculante de expertos independientes, emitida tras una denuncia del Gobierno central. Los gobiernos autonómicos alegan que amplían el reconocimiento a todas las víctimas. La de Castilla y León no llegó a aprobarse: en septiembre de 2024, tras romper con Vox, el PP votó con el PSOE en contra de tramitarla. Además, a recurso del Gobierno, el TC suspendió cautelarmente la derogación de la ley de memoria de Aragón (junio de 2024) y varios artículos de la ley valenciana (mayo de 2025); no consta aún sentencia de fondo.",
   "src": [
    [
     "Newtral",
@@ -1238,6 +1262,10 @@
    [
     "elDiario.es: el TC suspende parte de la ley valenciana",
     "https://www.eldiario.es/comunitat-valenciana/constitucional-tumba-parte-ley-valenciana-concordia-aprobada-pp-vox-equipara-franquismo-democracia_1_12334449.html"
+   ],
+   [
+    "elDiario.es: el PP vota contra tramitar la ley de concordia de Castilla y León (sep 2024)",
+    "https://www.eldiario.es/castilla-y-leon/politica/pp-vota-psoe-rechazar-ley-concordia-castilla-leon-pacto-vox_1_11680082.html"
    ]
   ],
   "a": ""
@@ -1251,8 +1279,8 @@
   ],
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
-  "s": "Madrid reformó en diciembre de 2023 sus leyes trans y LGTBI: abrió excepciones a la prohibición de las terapias de conversión, volvió a tratar como patología a los menores trans y excluyó a las asociaciones LGTBI de los procedimientos. El Gobierno las recurrió y en abril de 2025 el TC, por 11 votos a 1, anuló la exclusión de las asociaciones por invadir competencias del Estado y contradecir la ley estatal de igualdad.",
-  "n": "No consta todavía sentencia sobre el resto de artículos recurridos.",
+  "s": "Madrid reformó en diciembre de 2023 sus leyes trans y LGTBI: abrió excepciones a la prohibición de las terapias de conversión, exigió a los menores trans apoyo de profesionales de salud mental y, si había otras patologías, un informe favorable antes del tratamiento hormonal, y excluyó a las asociaciones LGTBI de los procedimientos. El Gobierno las recurrió y en abril de 2025 el TC, por 11 votos a 1, anuló la exclusión de las asociaciones por invadir competencias del Estado y contradecir la ley estatal de igualdad.",
+  "n": "El Gobierno y la oposición calificaron de patologización los requisitos para los menores. En julio de 2024 el TC suspendió cautelarmente los artículos recurridos, y en octubre de 2024 el PP registró una reforma que suavizaba esos requisitos. No consta todavía sentencia sobre el resto de artículos recurridos.",
   "src": [
    [
     "Público: el recurso",
@@ -1261,6 +1289,10 @@
    [
     "El Español: la sentencia",
     "https://www.elespanol.com/espana/tribunales/20250409/tc-estima-recurso-pedro-sanchez-tumba-ley-lgtbi-ayuso-invadir-competencias/1003743706496_0.html"
+   ],
+   [
+    "elDiario.es: el PP suaviza la ley tras la suspensión del TC (oct 2024)",
+    "https://www.eldiario.es/madrid/ayuso-modifica-leyes-trans-lgtbi-madrid-esquivar-recursos-gobierno-constitucional_1_11726609.html"
    ]
   ],
   "a": "Madrid"
@@ -1474,8 +1506,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "El PSOE andaluz pidió investigar los contratos de emergencia del Servicio Andaluz de Salud entre 2020 y 2023. El PP votó en contra con su mayoría absoluta; Vox se abstuvo y Adelante y Por Andalucía votaron a favor. En 2023 el PP ya se había opuesto a otra comisión sobre los contratos de emergencia de la Junta.",
-  "n": "El PP dijo que no se puede investigar lo que no existe y que la contratación de emergencia era obligatoria para salvar vidas.",
+  "s": "El PSOE andaluz pidió investigar los contratos de emergencia del Servicio Andaluz de Salud entre 2020 y 2023. El PP votó en contra con su mayoría absoluta; Vox se abstuvo y Adelante y Por Andalucía votaron a favor.",
+  "n": "La diputada del PP Beatriz Jurado vino a decir que no se investiga la corrupción en Andalucía porque no existe; el PSOE (María Márquez) replicó que la investigan los juzgados y la Fiscalía Anticorrupción, que examina unos 243 millones en contratos. Era la tercera vez en la legislatura que el PP vetaba una comisión sobre la contratación sanitaria.",
   "src": [
    [
     "Infobae (Europa Press)",
@@ -1484,6 +1516,10 @@
    [
     "Teleprensa",
     "https://www.teleprensa.com/articulo/sevilla/pp-rechaza-solitario-comision-investigacion-parlamento-contratos-sanitarios-que-pedia-psoe/202505291452312128965.html"
+   ],
+   [
+    "elDiario.es: «la corrupción en Andalucía no existe»",
+    "https://www.eldiario.es/andalucia/pp-moreno-aisla-parlamento-causas-contratos-sanitarios-corrupcion-andalucia-no-existe_1_12339772.html"
    ]
   ],
   "a": "Andalucía"
@@ -1537,7 +1573,7 @@
  },
  {
   "d": "2025-07-15",
-  "dl": "2025 – hoy",
+  "dl": "2018 – 2026",
   "t": "Caso Montoro: investigación por presuntos favores fiscales a empresas desde Hacienda",
   "p": [
    "PP"
@@ -1545,7 +1581,7 @@
   "c": "Financiación y corrupción",
   "pr": "inv",
   "s": "Un juzgado de Tarragona investiga al exministro de Hacienda Cristóbal Montoro y a la consultora que cofundó, Equipo Económico, por presuntamente favorecer a empresas, sobre todo gasísticas, con cambios normativos a cambio de pagos. Los delitos investigados incluyen cohecho, prevaricación y tráfico de influencias.",
-  "n": "La causa estuvo más de siete años bajo secreto. En enero de 2026 el juez prorrogó la instrucción seis meses más. Sin juicio: rige la presunción de inocencia.",
+  "n": "La causa se abrió en 2018 y estuvo siete años bajo secreto, hasta junio de 2025. El juez ha prorrogado la instrucción en enero y en julio de 2026 por ser «sumamente compleja». Hay 28 investigados (cinco son sociedades): de los 15 citados hasta julio de 2026 solo uno declaró, y el resto se acogió a su derecho a no hacerlo a la espera de que se resuelvan recursos sobre la nulidad de pruebas; quedan 17 por citar, entre ellos Montoro. Sin juicio: rige la presunción de inocencia.",
   "src": [
    [
     "Infobae (Europa Press)",
@@ -1554,6 +1590,14 @@
    [
     "El Boletín",
     "https://www.elboletin.com/el-juez-prorroga-seis-meses-el-caso-montoro-ante-las-diligencias-pendientes-sobre-equipo-economico/amp/"
+   ],
+   [
+    "Público: prórroga de enero de 2026",
+    "https://www.publico.es/politica/tribunales/juez-caso-montoro-amplia-instruccion-otros-seis-meses-espera-nueva-documentacion.html"
+   ],
+   [
+    "Infobae (Europa Press): prórroga de julio de 2026",
+    "https://www.infobae.com/espana/agencias/2026/07/27/el-juez-prorroga-seis-meses-mas-la-causa-sumamente-compleja-en-que-investiga-a-montoro/"
    ]
   ],
   "a": ""
@@ -1726,8 +1770,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "En octubre de 2025, PNV y PSE rechazaron la comisión que pedía el PP sobre los campamentos de Bernedo, con 21 denuncias por agresiones a menores. En mayo de 2026 rechazaron la que pedía Sumar, con apoyo de Bildu, sobre los fondos europeos para plazas de 0 a 3 años, de las que se crearon 252 de 1.518. En ambos casos aprobaron enmiendas alternativas.",
-  "n": "El PNV dijo que estas comisiones solo sirven para juicios mediáticos; el PSE, que el campamento era privado y sin dinero público. El PP también votó contra la de los fondos.",
+  "s": "En octubre de 2025, PNV y PSE rechazaron la comisión que pedía el PP sobre los campamentos de Bernedo, con 21 denuncias por presuntos delitos sexuales, exhibicionismo y coacciones a menores. En mayo de 2026 rechazaron la que pedía Sumar, con apoyo de Bildu, sobre los fondos europeos para plazas de 0 a 3 años, de las que se crearon 252 de 1.518. En ambos casos aprobaron enmiendas alternativas.",
+  "n": "Sobre Bernedo, el PSE dijo que estas comisiones «no valen para nada» y generan «juicios mediáticos paralelos», y que el campamento era privado, no estaba registrado y no recibía dinero público; el PNV, que sus conclusiones suelen estar decididas de antemano. La de los fondos solo la apoyaron Sumar y EH Bildu; el PP defendió dar ayudas también para plazas privadas, y el Gobierno vasco alegó que adapta las plazas a la demanda real.",
   "src": [
    [
     "Orain: Bernedo",
@@ -1836,7 +1880,7 @@
   ],
   "c": "Gestión pública y derechos",
   "pr": "inv",
-  "s": "En marzo de 2020, la Comunidad de Madrid aplicó protocolos que excluían de la derivación hospitalaria a residentes según su grado de dependencia. Las familias cifran en 7.291 los fallecidos en residencias sin traslado. Dos juzgados (Plaza de Castilla y Collado Villalba) investigan a ex altos cargos, y el exdirector general Martínez Peromingo admitió en su declaración que los criterios eran discriminatorios.",
+  "s": "En marzo de 2020, la Comunidad de Madrid aplicó protocolos que excluían de la derivación hospitalaria a residentes según su grado de dependencia. Según datos de la propia Comunidad publicados por infoLibre, en marzo y abril de 2020 murieron en las residencias 7.291 personas sin ser trasladadas al hospital, el 77% de los fallecidos en ellas. Dos juzgados (Plaza de Castilla y Collado Villalba) investigan a ex altos cargos, y el exdirector general Martínez Peromingo admitió en su declaración que los criterios eran discriminatorios.",
   "n": "Ayuso no está investigada. Desde 2020 se han archivado unas 144 causas sobre los protocolos; la última, en septiembre de 2026, cuando la Audiencia Provincial no vio indicios de delito. Las causas abiertas siguen sin juicio.",
   "src": [
    [
@@ -1850,9 +1894,13 @@
    [
     "ConSalud: el último archivo",
     "https://www.consalud.es/autonomias/c-madrid/otro-archivo-judicial-tras-seis-anos-de-ataques-a-ayuso-por-las-residencias.html"
+   ],
+   [
+    "infoLibre: los datos de la Comunidad (jul 2020)",
+    "https://www.infolibre.es/politica/datos-gobierno-ayuso-revelan-7-291-mayores-murieron-madrid-residencia-trasladados-hospital_1_1185966.html"
    ]
   ],
-  "a": ""
+  "a": "Madrid"
  },
  {
   "d": "2025-12-18",
@@ -1883,19 +1931,23 @@
  },
  {
   "d": "2025-12-26",
-  "dl": "dic 2025",
+  "dl": "dic 2025 – feb 2026",
   "t": "El PP veta investigar en la Asamblea la gestión privada del Hospital de Torrejón",
   "p": [
    "PP"
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "Más Madrid pidió una comisión de investigación sobre la gestión de Ribera Salud en el Hospital de Torrejón, después de conocerse audios en los que un directivo pedía rechazar pacientes o prácticas no rentables. El PP presentó su rechazo y lo tumbó con su mayoría absoluta.",
-  "n": "El artículo no recoge los argumentos del PP para rechazarla.",
+  "s": "Más Madrid pidió una comisión de investigación sobre la gestión de Ribera Salud en el Hospital de Torrejón, después de conocerse audios en los que un directivo pedía rechazar pacientes o prácticas no rentables. El PP registró su oposición y el pleno la respaldó el 19 de febrero de 2026 por 69 votos frente a 52, con la abstención de Vox.",
+  "n": "El PP (Raúl Martín) dijo que Torrejón es un hospital público, de acceso universal y control público, que el concierto no es una privatización y que 40 auditorías no han detectado irregularidades; dio datos de mejora en esperas y pruebas. El PSOE defendió la comisión.",
   "src": [
    [
     "El Diario de Madrid",
     "https://www.eldiariodemadrid.es/articulo/politica/pp-veta-comision-investigacion-hospital-torrejon-gestion-ribera-salud/20251226164615117242.html"
+   ],
+   [
+    "Gaceta Médica: la votación en el pleno (feb 2026)",
+    "https://gacetamedica.com/politica/asamblea-madrid-rechaza-abrir-comision-investigacion-hospital-torrejon/"
    ]
   ],
   "a": "Madrid"
@@ -1957,15 +2009,15 @@
  {
   "d": "2026-03-05",
   "dl": "mar – may 2026",
-  "t": "Corts Valencianes: PP y Vox rechazan tres investigaciones sobre sanidad privada, donaciones de la DANA y cribados",
+  "t": "Corts Valencianes: PP y Vox rechazan cuatro investigaciones sobre sanidad privada, una residencia, donaciones de la DANA y cribados",
   "p": [
    "PP",
    "Vox"
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "En 2026 PP y Vox tumbaron en las Corts la comisión sobre la calidad asistencial en el Hospital del Vinalopó, gestionado por Ribera Salud, y la residencia Santa Faz; la del desvío de donaciones de la DANA por parte de Revuelta; y la de los fallos recurrentes en el cribado de cáncer de mama.",
-  "n": "El PP alegó que no había pruebas en el Vinalopó, que Revuelta es una entidad privada fuera de su competencia y que el PSPV dejó fuera del cribado a 177.000 mujeres cuando gobernaba. Vox dijo que las comisiones deben ser las mínimas.",
+  "s": "En 2026 PP y Vox tumbaron en las Corts cuatro comisiones de investigación: sobre la calidad asistencial en el Hospital del Vinalopó, gestionado por Ribera Salud, que pedían PSPV y Compromís, y sobre la residencia Santa Faz de Alicante, que pedía Compromís (marzo); sobre el desvío de donaciones de la DANA por parte de Revuelta (marzo); y sobre los fallos recurrentes en el cribado de cáncer de mama (mayo).",
+  "n": "El PP recordó que el conseller de Sanidad no había hallado pruebas en el Vinalopó, alegó que Revuelta es una entidad privada sin fondos públicos, fuera de la competencia de las Corts, y que el Botànic dejó fuera del cribado a 177.000 mujeres. Vox acusó a la izquierda de querer un «juicio político paralelo», llamó «cortina de humo» a la de Revuelta (dijo haber llevado el caso a la Fiscalía) y, en la de los cribados, defendió que las comisiones sean «las mínimas, las justas» y pidió una auditoría en su lugar.",
   "src": [
    [
     "Valencia Plaza: Vinalopó",
@@ -2092,7 +2144,7 @@
   "c": "Gestión pública y derechos",
   "pr": "med",
   "s": "El Gobierno de Ayuso compró a través de la empresa pública Planifica Madrid un ático de 485 m² en Chamberí con cláusulas de confidencialidad, justificado como oficinas temporales aunque el inmueble solo admitía uso residencial. En julio anunció que lo vendería.",
-  "n": "Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. Sin resolución todavía.",
+  "n": "Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. El 8 de septiembre de 2026 el tribunal admitió a trámite la denuncia de Más Madrid y la pasó a su Sección de Enjuiciamiento, que debe decidir si abre actuaciones. Sin resolución todavía.",
   "src": [
    [
     "elDiario.es: la compra",
@@ -2101,9 +2153,13 @@
    [
     "Público: denuncia del PSOE",
     "https://www.publico.es/politica/tribunales/psoe-lleva-tribunal-cuentas-atico-ayuso-reclama-conocer-ordeno-comprarlo.html"
+   ],
+   [
+    "Infobae (Europa Press): el Tribunal de Cuentas admite a trámite la denuncia (sep 2026)",
+    "https://www.infobae.com/espana/agencias/2026/09/08/el-tribunal-de-cuentas-admite-a-tramite-la-denuncia-de-mas-madrid-por-la-compra-del-atico/"
    ]
   ],
-  "a": ""
+  "a": "Madrid"
  },
  {
   "d": "2026-05-05",
@@ -2205,7 +2261,7 @@
   "c": "Financiación y corrupción",
   "pr": "firme",
   "s": "El exministro de Transportes y ex secretario de Organización del PSOE fue condenado por organización criminal, cohecho, tráfico de influencias y malversación por mordidas en contratos de mascarillas. Koldo García, su asesor, recibió 19 años y 8 meses.",
-  "n": "El cumplimiento efectivo máximo de Ábalos queda en 15 años y 8 meses. Lo juzgó el Supremo por ser diputado aforado. Víctor de Aldama, condenado a cuatro años y medio, no entra en prisión por colaborar con la justicia.",
+  "n": "La pena exacta de Ábalos es de 24 años y 3 meses, y la de Koldo, de 19 años, 8 meses y un día; el tiempo efectivo de prisión será menor por los límites legales de cumplimiento. El tribunal decidió por unanimidad. Lo juzgó el Supremo por ser diputado aforado. Víctor de Aldama, condenado a cuatro años y medio, tiene la pena suspendida por colaborar con la justicia.",
   "src": [
    [
     "elDiario.es",
@@ -2214,6 +2270,10 @@
    [
     "Infobae",
     "https://www.infobae.com/espana/2026/06/22/el-supremo-condena-a-abalos-a-24-anos-de-carcel-por-mordidas-en-contratos-de-mascarillas-y-contratacion-irregular/"
+   ],
+   [
+    "Poder Judicial: nota del Supremo",
+    "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Notas-de-prensa/El-Tribunal-Supremo-condena-al-exministro-Jose-Luis-Abalos-y-a-su-exasesor-Koldo-Garcia-a-24-anos-y-19-anos-de-prision--respectivamente--por-delitos-de-organizacion-criminal--cohecho--malversacion-y-trafico-de-influencias"
    ]
   ],
   "a": ""
@@ -2291,8 +2351,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "Vox pidió en el Senado una comisión de investigación sobre la llamada ley de nietos y sus efectos en el censo electoral. El PP, con mayoría absoluta, la descartó sin llevarla a votación.",
-  "n": "El PP prefirió esperar a que se pronuncie el Supremo. La disolución de las Cortes por las elecciones del 29 de noviembre deja además varias comisiones sin cerrar.",
+  "s": "Vox pidió en el Senado una comisión de investigación sobre la llamada ley de nietos y sus efectos en el censo electoral. El PP, con mayoría absoluta en la cámara, la descartó.",
+  "n": "El portavoz del PP, Borja Sémper, dijo que era razonable esperar la sentencia definitiva del Supremo, que había suspendido cautelarmente el voto de algunos españoles que obtuvieron la nacionalidad por esta vía: «No necesitamos una comisión de investigación para entender que una orden ministerial no está por encima de una ley aprobada en el Congreso».",
   "src": [
    [
     "Infobae (Europa Press)",
@@ -2304,21 +2364,21 @@
  {
   "d": "2026-09-30",
   "dl": "2017 – 2025",
-  "t": "El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a Ferrovial, Dragados y Api",
+  "t": "El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a su socio privado Emesa",
   "p": [
    "PP"
   ],
   "c": "Gestión pública y derechos",
   "pr": "med",
-  "s": "Durante años, el Ayuntamiento de Madrid reclamó a Emesa, la sociedad privada de Ferrovial, Dragados y Api que gestionaba parte de la M-30, el pago de la factura eléctrica de la vía, que fue creciendo hasta unos 112 millones. Al recomprarle su 20% de Madrid Calle 30 a finales de 2025, el Ayuntamiento de Almeida abandonó la reclamación.",
-  "n": "El origen es un contrato de 2005, del Gobierno municipal de Gallardón, que no dejaba claro quién pagaba la luz. La recompra en sí devuelve la M-30 a gestión 100% pública y el Ayuntamiento calcula un ahorro de unos 63 millones al año. Es el Ayuntamiento, no el Gobierno de Ayuso.",
+  "s": "Durante años, el Ayuntamiento de Madrid reclamó a Emesa, el consorcio privado liderado hoy por Serveo que tenía el 20% de Madrid Calle 30, el pago de la factura eléctrica de la vía, que fue creciendo hasta unos 112 millones. Al recomprarle ese 20%, por el que pagó 103,9 millones, el Ayuntamiento de Almeida abandonó la reclamación.",
+  "n": "El origen es un contrato de 2005, del Gobierno municipal de Gallardón, cuyos pliegos se contradecían sobre quién pagaba la luz. El Ayuntamiento dice que reclamaba solo por cautela jurídica, para que no prescribiera, y que en 2005 ya se resolvió que Emesa no la pagaría. La recompra devuelve la M-30 a gestión 100% pública, con un ahorro anunciado de más de 1.000 millones en 15 años. Es el Ayuntamiento, no el Gobierno de Ayuso.",
   "src": [
    [
     "Xataka: la renuncia a los 112 millones",
     "https://www.xataka.com/movilidad/quien-paga-luz-m-30-pregunta-resolver-que-madrid-ha-zanjado-renunciando-a-112-millones-euros"
    ],
    [
-    "elDiario.es: la recompra a Emesa",
+    "elDiario.es: la recompra a Emesa (precio previsto de 112 millones, no confundir con la factura de la luz)",
     "https://www.eldiario.es/madrid/somos/ayuntamiento-madrid-pagara-emesa-112-millones-remunicipalizar-calle-30_1_11770632.html"
    ]
   ],

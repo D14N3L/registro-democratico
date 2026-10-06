@@ -5,7 +5,7 @@
   "m": "Regularización extraordinaria de migrantes",
   "res": "bloq",
   "f": "Unas 700.000 firmas (más de 600.000 válidas)",
-  "pr": "Regularización Ya, con más de 900 organizaciones y la Iglesia católica",
+  "pr": "Regularización Ya y más de 900 organizaciones, con el apoyo de la Conferencia Episcopal",
   "v": "Toma en consideración el 9 de abril de 2024: 310 votos a favor y 33 en contra. Solo Vox votó no.",
   "p": [
    "PSOE",
@@ -13,7 +13,7 @@
    "PP",
    "Vox"
   ],
-  "s": "Tras admitirse a trámite casi por unanimidad, el plazo de enmiendas se amplió una decena de veces. PSOE y Sumar no cerraban el texto, PNV y Junts pedían exigir contrato o historial laboral y Junts lo ligaba a las competencias de inmigración. En 2026 el Gobierno hizo la regularización por real decreto (RD 316/2026), sin pasar por el Congreso.",
+  "s": "Tras admitirse a trámite casi por unanimidad, el plazo de enmiendas se prorrogó una y otra vez: en septiembre de 2024 ya llevaba nueve prórrogas. PSOE y Sumar no cerraban el texto, PNV y Junts pedían exigir contrato o historial laboral y Junts lo ligaba a las competencias de inmigración. En 2026 el Gobierno hizo la regularización por real decreto (RD 316/2026), sin pasar por el Congreso.",
   "n": "El PP apoyó tramitarla y después se opuso a una regularización masiva. La regularización llegó, pero no por la vía de la ILP.",
   "src": [
    [
@@ -23,6 +23,10 @@
    [
     "elDiario.es: un año estancada",
     "https://www.eldiario.es/politica/regularizacion-migrantes-sigue-estancada-congreso-ano-despues-sentimos-frustracion_1_12215350.html"
+   ],
+   [
+    "COPE: nueve prórrogas (sep 2024)",
+    "https://www.cope.es/actualidad/espana/noticias/congreso-prorroga-semana-mas-plazo-enmiendas-ilp-busca-regularizar-500-000-migrantes-20240904_3005016.html"
    ],
    [
     "BOE: Real Decreto 316/2026",
@@ -126,20 +130,27 @@
   ]
  },
  {
-  "d": "2019-06-01",
+  "d": "2017-02-02",
   "a": "Congreso",
   "m": "Prestación de ingresos mínimos",
   "res": "bloq",
-  "f": "Unas 700.000 firmas",
+  "f": "Más de 700.000 firmas",
   "pr": "CCOO y UGT",
-  "v": "Admitida en febrero de 2017.",
-  "p": [],
-  "s": "Acumuló unas 20 ampliaciones del plazo de enmiendas y nunca se aprobó. En la práctica la sustituyó el Ingreso Mínimo Vital de 2020, aprobado por decreto.",
-  "n": "Las fuentes no aclaran qué grupos la frenaron en cada momento.",
+  "v": "Tomada en consideración el 2 de febrero de 2017 con el voto en contra de PP y Ciudadanos.",
+  "p": [
+   "PP",
+   "Cs"
+  ],
+  "s": "Proponía una prestación de 426 euros al mes para personas en paro sin ingresos. Acumuló unas 20 ampliaciones del plazo de enmiendas y nunca se aprobó. En la práctica la sustituyó el Ingreso Mínimo Vital de 2020, aprobado por decreto.",
+  "n": "PP y Ciudadanos alegaron su coste y su financiación. Las fuentes no aclaran qué grupos la frenaron en cada prórroga. Formalmente no ha caducado: se ha ido trasladando de legislatura.",
   "src": [
    [
     "UGT",
     "https://www.ugt.es/ugt-valora-los-avances-para-evitar-bloqueos-legislativos-de-los-que-ha-sido-victima"
+   ],
+   [
+    "Público: el Congreso la toma en consideración (feb 2017)",
+    "https://www.publico.es/politica/congreso-aprueba-consideracion-renta-minima.html"
    ]
   ]
  },
@@ -152,8 +163,8 @@
   "pr": "Varios",
   "v": "Sin votación.",
   "p": [],
-  "s": "Según la Junta Electoral Central, entre 2018 y 2026 caducaron sin llegar a votarse ILP sobre dación en pago, copago farmacéutico de pensionistas, recuperar la sanidad pública, saltos hidroeléctricos o maltrato a mayores, entre otras. La Mesa del Congreso inadmitió otras sobre okupación, CGPJ, natalidad o estatuto del político.",
-  "n": "Muchas no reúnen las firmas a tiempo; la inadmisión suele deberse a que tratan materias excluidas de la iniciativa popular.",
+  "s": "Según los listados de la Junta Electoral Central de las legislaturas XIV y XV (2019-2026), caducaron ILP sobre dación en pago, copago farmacéutico de pensionistas, recuperación de la sanidad pública o maltrato a mayores, entre otras, y la Mesa del Congreso inadmitió otras sobre okupación, CGPJ, natalidad o estatuto del político.",
+  "n": "Una ILP caduca cuando no se entregan las firmas en el plazo legal, no porque el Congreso deje de votarla. La inadmisión suele deberse a que tratan materias excluidas de la iniciativa popular. Los listados no cubren la legislatura de 2016 a 2019.",
   "src": [
    [
     "JEC: legislatura XIV",
@@ -216,9 +227,9 @@
   "a": "País Vasco",
   "m": "Salario mínimo propio para Euskadi",
   "res": "rech",
-  "f": "Más de 100.000 firmas",
+  "f": "138.495 firmas",
   "pr": "Sindicatos ELA, LAB, ESK, Steilas, Hiru y Etxalde",
-  "v": "En contra PNV, PSE-EE, PP y Vox; a favor EH Bildu y Sumar.",
+  "v": "44 en contra (PNV, PSE-EE, PP y Vox) y 27 a favor (EH Bildu y Sumar).",
   "p": [
    "PNV",
    "PSOE",
@@ -226,11 +237,19 @@
    "Vox"
   ],
   "s": "Rechazada en la toma en consideración.",
-  "n": "El Gobierno Vasco emitió un informe económico desfavorable; alegaron que fragmentaría el mercado laboral.",
+  "n": "El Gobierno vasco emitió un informe desfavorable. Se alegó falta de competencia autonómica, la solidez del sistema vasco de garantía de ingresos y la igualdad territorial. El PSE dijo que el salario mínimo estatal ya había subido un 60% desde 2018 y que los derechos laborales no deben territorializarse; el PNV pidió que lo negocien sindicatos y patronal.",
   "src": [
    [
     "Crónica Vasca (El Español)",
     "https://cronicavasca.elespanol.com/economia/20251113/parlamento-vasco-pnv-pse-iniciativa-popular-smi/1003742707010_0.html"
+   ],
+   [
+    "elDiario.es: 138.495 firmas, 44 a 27",
+    "https://www.eldiario.es/euskadi/parlamento-vasco-cierra-puerta-138-495-firmas-sindicatos-crear-salario-minimo-vasco-alto_1_12763622.html"
+   ],
+   [
+    "IDP-UCM: Escrutinio n.º 6 (mayo 2026)",
+    "https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf"
    ],
    [
     "Deia",
@@ -283,18 +302,22 @@
   "a": "Galicia",
   "m": "Una radiotelevisión pública gallega plural",
   "res": "rech",
-  "f": "Casi 25.000 firmas",
-  "pr": "Plataforma 'Por unha CRTVG ao servizo do pobo'",
+  "f": "Más de 24.000 firmas",
+  "pr": "35 entidades bajo el lema «Liberemos a Galega», entre ellas BNG, PSdeG y los sindicatos CIG, UGT, CCOO y CUT",
   "v": "En contra el PP; a favor BNG y PSdeG.",
   "p": [
    "PP"
   ],
-  "s": "Rechazada en la toma en consideración.",
-  "n": "El PP la consideró innecesaria porque ya existía la nueva ley de medios de 2025.",
+  "s": "Rechazada en la toma en consideración. Pedía, entre otras cosas, elegir al director general por mayoría cualificada del Parlamento y crear una autoridad audiovisual independiente.",
+  "n": "El PP (Carmen Pomar) la consideró innecesaria e inoportuna porque ya existía la nueva ley de medios de marzo de 2025. Entre los promotores estaban los dos partidos de la oposición.",
   "src": [
    [
     "Galicia Confidencial",
     "https://www.galiciaconfidencial.com/noticia/5482307-debate-sobre-medios-publicos-galegos-rexeitada-proposta-cidada-mais-24000-sinaturas"
+   ],
+   [
+    "IDP-UCM: Escrutinio n.º 6 (mayo 2026)",
+    "https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf"
    ]
   ]
  },
@@ -376,18 +399,22 @@
   "m": "Climatizar los colegios e institutos",
   "res": "rech",
   "f": "70.895 firmas validadas",
-  "pr": "FRAVM, FAPA Giner de los Ríos, CCOO y UGT",
+  "pr": "FAPA Giner de los Ríos, con el apoyo de CCOO, UGT y la FRAVM",
   "v": "En contra PP, con mayoría absoluta, y Vox; a favor PSOE y Más Madrid.",
   "p": [
    "PP",
    "Vox"
   ],
-  "s": "Rechazada en la toma en consideración: las aulas siguen sin una norma de climatización.",
-  "n": "El PP dijo que una ILP no era el instrumento adecuado; el consejero se ofreció a negociar.",
+  "s": "Rechazada en la toma en consideración. Desde 1986 solo una ILP ha llegado a ley en la Asamblea de Madrid.",
+  "n": "El PP dijo que una ILP no era el instrumento adecuado. Tras el rechazo, el consejero de Educación, Emilio Viciana, se mostró abierto a dialogar con asociaciones y profesores sobre alternativas.",
   "src": [
    [
     "FRAVM",
     "https://fravm.org/noticias/los-votos-de-pp-y-vox-en-la-asamblea-de-madrid-impiden-la-tramitacion-de-la-ilp-por-la-climatizacion-de-los-centros-educativos/"
+   ],
+   [
+    "IDP-UCM: Escrutinio n.º 6 (mayo 2026)",
+    "https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf"
    ],
    [
     "El Salto",
@@ -422,14 +449,14 @@
   "a": "Comunitat Valenciana",
   "m": "Ratios educativas, y endurecimiento de la ley de ILP",
   "res": "rech",
-  "f": "Sin dato",
+  "f": "Más de 23.000 firmas, según STEPV",
   "pr": "Sindicato STEPV",
-  "v": "En contra PP y Vox; a favor PSPV y Compromís.",
+  "v": "En contra PP y Vox, «la mayoría de derechas» según STEPV; a favor PSPV y Compromís.",
   "p": [
    "PP",
    "Vox"
   ],
-  "s": "El mismo día las Corts rechazaron la ILP de ratios educativas y aprobaron por unanimidad tramitar la de enfermería escolar. En 2025, PP y Vox endurecieron la ley de ILP valenciana en la ley de acompañamiento de los presupuestos: menos materias y menos facultades para los promotores.",
+  "s": "El mismo día las Corts rechazaron la ILP de ratios educativas y aprobaron por unanimidad tramitar la de enfermería escolar. En 2025 las Corts endurecieron la ley valenciana de ILP dentro de la ley de acompañamiento de los presupuestos (Ley 5/2025, de 30 de mayo): ya no pueden promoverlas asociaciones ni agentes sociales, se amplían las materias excluidas y la comisión promotora pierde sus facultades durante la tramitación.",
   "n": "El PP la consideró inviable porque exigiría unos 400 centros nuevos. Ese día también se rechazó, con PP, PSPV y Compromís en contra, una ILP de libertad de elección de lengua que solo apoyó Vox.",
   "src": [
    [
@@ -443,6 +470,10 @@
    [
     "IDP-UCM: la reforma de 2025",
     "https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf"
+   ],
+   [
+    "STEPV/Intersindical: Quaderns n.º 85 (mayo 2024)",
+    "https://intersindical.org/docs/2024-05-01_INTERSINDICAL_85_1_DE_MAIG_WEB.pdf"
    ]
   ]
  },
@@ -513,26 +544,26 @@
   ]
  },
  {
-  "d": "2026-09-07",
+  "d": "2026-09-21",
   "a": "Navarra",
   "m": "Bajar las ratios en la escuela pública",
   "res": "tram",
-  "f": "Sin dato",
+  "f": "En recogida: seis meses para reunir firmas del 1% del censo",
   "pr": "Steilas y Plataforma por la Educación Pública",
-  "v": "Admitida a trámite y enviada al Gobierno foral para informe.",
+  "v": "Admitida a trámite por la Mesa y la Junta de Portavoces el 21 de septiembre de 2026, con el único voto en contra del PSN.",
   "p": [
    "PSOE"
   ],
-  "s": "El Gobierno foral calcula un coste de 193 millones. Según Steilas, todos los grupos salvo el PSN apoyaron tramitarla.",
-  "n": "El PSN prefiere dedicar ese dinero a vivienda. La postura formal del Gobierno no está confirmada.",
+  "s": "El Gobierno foral (PSN, Geroa Bai y Contigo-Zurekin) emitió un criterio de disconformidad: calcula un coste de unos 193 millones entre profesorado, nuevas aulas y obras.",
+  "n": "El PSN (Kevin Lucero) dijo que bajar ratios exige profesorado, aulas y obras, y que prefiere dedicar ese dinero a vivienda. Steilas, que es promotora, sostiene que habría dinero si Navarra dedicara el 5% del PIB a educación, como prevé el acuerdo de gobierno.",
   "src": [
    [
     "Steilas",
     "https://steilas.eus/es/2026/09/23/si-hay-dinero-para-bajar-los-ratios/"
    ],
    [
-    "Parlamento de Navarra",
-    "https://parlamentodenavarra.es/es/noticias/sesi%C3%B3n-7-de-septiembre-2026"
+    "Noticias de Navarra: admitida con la disconformidad del Gobierno",
+    "https://www.noticiasdenavarra.com/sociedad/2026/09/21/parlamento-navarra-tramita-iniciativa-reducir-ratios-educacion-disconformidad-gobierno-11568224.html"
    ]
   ]
  },
@@ -587,17 +618,18 @@
   "a": "Ayuntamientos",
   "m": "Multiconsulta ciudadana de Barcelona",
   "res": "otro",
-  "f": "Iniciativa de entidades, que necesitaban 15.000 firmas",
+  "f": "Unas 23.000 firmas la del agua y 15.000 la de la plaza",
   "pr": "Entidades ciudadanas",
-  "v": "Rechazada en abril de 2018 por PDeCAT y CUP; aprobada en octubre con BComú, ERC y CUP, con PP y Cs en contra y PSC y PDeCAT abstenidos.",
+  "v": "Rechazada el 10 de abril de 2018: la del agua solo la apoyaron BComú y ERC (PSC, PP, Cs, PDeCAT y CUP en contra; Ardanuy se abstuvo) y la de la plaza, BComú, ERC y CUP. Aprobada en octubre con BComú, ERC, CUP y Puigcorbé; PP y Cs en contra; PSC, PDeCAT y Ardanuy se abstuvieron.",
   "p": [
    "Junts",
    "Otros",
    "PP",
-   "Cs"
+   "Cs",
+   "PSOE"
   ],
-  "s": "Preguntaba por la gestión pública del agua y el nombre de una plaza. Aunque se aprobó, no llegó a celebrarse porque la ley prohíbe consultas en los seis meses previos a las municipales.",
-  "n": "El PDeCAT alegó falta de garantías.",
+  "s": "Preguntaba por la gestión pública del agua y el nombre de la plaza Antonio López. Aunque se aprobó en octubre, no llegó a celebrarse porque el reglamento municipal de participación impide convocar consultas en los seis meses previos a las municipales.",
+  "n": "El PDeCAT, que la había apoyado antes, alegó falta de garantías; la CUP se opuso a la pregunta sobre el agua. Colau acusó a ambos de incoherencia.",
   "src": [
    [
     "Crónica Global: el rechazo",
@@ -606,6 +638,10 @@
    [
     "Crónica Global: la aprobación",
     "https://cronicaglobal.elespanol.com/politica/20181026/colau-la-multiconsulta-gracias-abstencion-psc-pdecat/348465174_0.html"
+   ],
+   [
+    "Catalunya Press: la votación de abril",
+    "https://www.catalunyapress.es/texto-diario/mostrar/1049973/multiconsulta-colau-tocada-hundida"
    ]
   ]
  },
