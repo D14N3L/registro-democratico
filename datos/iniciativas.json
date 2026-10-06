@@ -263,9 +263,9 @@
   "a": "Galicia",
   "m": "Proteger la pesca y el marisqueo",
   "res": "rech",
-  "f": "Casi 18.000 firmas",
-  "pr": "Cofradías, nueve concellos de la Ría de Arousa (algunos del PP), sindicatos y ecologistas",
-  "v": "En contra el PP; a favor BNG y PSdeG.",
+  "f": "17.838 firmas validadas",
+  "pr": "Cofradías, concellos de la Ría de Arousa, sindicatos (CIG, CCOO, UGT), asociaciones de mariscadoras y entidades culturales",
+  "v": "En contra el PP; a favor BNG y PSdeG; Democracia Ourensana se abstuvo.",
   "p": [
    "PP"
   ],
@@ -342,23 +342,31 @@
   "d": "2025-11-26",
   "a": "Andalucía",
   "m": "Blindar la sanidad pública",
-  "res": "bloq",
+  "res": "tram",
   "f": "Más de 50.000 firmas",
   "pr": "Coordinadora de Mareas Blancas",
   "v": "Toma en consideración aprobada con PP, PSOE, Por Andalucía y Adelante; Vox se abstuvo.",
   "p": [
    "PP"
   ],
-  "s": "Tras admitirla, el PP usó su mayoría para negarle la tramitación de urgencia mientras aceleraba 15 leyes propias. Va por la vía lenta y probablemente decaerá con las elecciones andaluzas.",
-  "n": "El PP dijo apoyar su tramitación porque recoge la preocupación de miles de andaluces.",
+  "s": "Tras admitirla, el PP usó su mayoría para negarle la tramitación de urgencia mientras aceleraba 15 leyes propias. Quedó pendiente al disolverse el Parlamento para las elecciones del 17 de mayo de 2026, y el 9 de septiembre de 2026 la Mesa de la nueva legislatura acordó que siguiera su tramitación.",
+  "n": "El PP (Toni Martín) dijo que apoyaba que se tramitara, pero que «una cosa es la tramitación y otra el contenido» y que no compartía sus críticas a la sanidad andaluza; no garantizó aprobarla.",
   "src": [
    [
     "Teleprensa",
     "https://www.teleprensa.com/articulo/sevilla/parlamento-acepta-tramitar-ilp-mareas-blancas-sanidad-apoyo-pp-grupos-izquierda/202511261817422282101.html"
    ],
    [
+    "El Independiente de Granada: el PP no garantiza su aprobación",
+    "https://www.elindependientedegranada.es/politica/parlamento-andaluz-tramitara-iniciativa-popular-mejorar-calidad-sanidad-pero-pp-no"
+   ],
+   [
     "elDiario.es: el freno",
     "https://www.eldiario.es/andalucia/pp-acelera-15-leyes-moreno-parlamento-echa-freno-iniciativa-popular-impugna-modelo-sanitario_1_12815135.html"
+   ],
+   [
+    "Andalucía Información: sigue en la nueva legislatura (sep 2026)",
+    "https://www.andaluciainformacion.es/articulo/andalucia/parlamento-retoma-nueva-legislatura-tramitacion-ilp-mareas-blancas-calidad-sanidad/202609201141443482607.html"
    ]
   ]
  },
@@ -439,18 +447,18 @@
   ]
  },
  {
-  "d": "2025-11-21",
+  "d": "2025-12-16",
   "a": "Canarias",
   "m": "Proteger el arbolado urbano",
   "res": "apro",
   "f": "Unas 18.000 firmas",
-  "pr": "Colectivos ciudadanos",
-  "v": "Tomada en consideración por unanimidad en 2022 y aprobada como ley en 2025 con todos los votos salvo Vox.",
+  "pr": "Mesa del Árbol de Tejeda y colectivos ciudadanos",
+  "v": "Tomada en consideración por unanimidad en 2022 y aprobada como ley en 2025 con todos los votos salvo Vox, que en comisión se abstuvo.",
   "p": [
    "Vox"
   ],
-  "s": "Se convirtió en la Ley 7/2025. Antes de esta y la de volcanes, de 27 ILP presentadas en Canarias solo 4 habían llegado a ley.",
-  "n": "",
+  "s": "Se convirtió en la Ley 7/2025, de 16 de diciembre, de protección del arbolado urbano: limita las talas, prohíbe la poda drástica, fija sanciones y obliga a los ayuntamientos a inventariar sus árboles. En 2025 Canarias aprobó también la ley de volcanes, nacida de otra ILP.",
+  "n": "Asociaciones ambientales la consideran una «ley de mínimos» porque se rebajó durante la tramitación. Vox la calificó de «ecologismo falso».",
   "src": [
    [
     "Parlamento de Canarias",
@@ -459,6 +467,10 @@
    [
     "Canarias7",
     "https://www.canarias7.es/politica/parlamento-vox-consensua-ley-ejemplar-proteccion-arbolado-20251121164227-nt.html"
+   ],
+   [
+    "IDP-UCM: Escrutinio n.º 6 (mayo 2026)",
+    "https://www.idpucm.com/wp-content/uploads/2026/05/Escrutinio_n6_mayo_26.pdf"
    ]
   ]
  },

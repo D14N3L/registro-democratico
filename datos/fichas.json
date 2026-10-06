@@ -52,7 +52,7 @@
  {
   "d": "2018-06-01",
   "dl": "2018",
-  "t": "Parlament de Catalunya: JxCat, ERC y la CUP bloquean cuatro veces investigar el presunto espionaje de los Mossos",
+  "t": "Parlament de Catalunya: JxCat, ERC y la CUP frenan tres veces investigar el presunto espionaje de los Mossos",
   "p": [
    "Junts",
    "ERC",
@@ -60,8 +60,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "Tras requisar la Policía Nacional papeles de los Mossos con referencias a políticos, periodistas y empresarios contrarios al procés, Cs, PSC, PP y Catalunya en Comú-Podem pidieron una comisión de investigación. Según Ara, JxCat, ERC y la CUP la frenaron en cuatro intentos: la Mesa la rechazó por forma, el pleno tumbó dos iniciativas y la Mesa frenó también la petición conjunta de cuatro grupos que el reglamento obliga a constituir.",
-  "n": "Alegaron que era una investigación sesgada que criminalizaba a la policía catalana y que, de investigar, debía hacerse con todos los cuerpos. Los tribunales archivaron después las querellas contra los Mossos. Las fechas exactas de cada bloqueo no están confirmadas.",
+  "s": "Tras requisar la Policía Nacional papeles de los Mossos con referencias a políticos, periodistas y empresarios contrarios al procés, Cs, PSC, PP y Catalunya en Comú-Podem pidieron una comisión de investigación. Según Ara, la Mesa rechazó la primera petición por un defecto de forma y JxCat, ERC y la CUP tumbaron en el pleno las dos siguientes, primero sacándola del orden del día y después votando en contra. Un cuarto intento, por la vía del reglamento que obliga a crear la comisión si la piden cuatro grupos, hizo que la Mesa la aprobara el 4 de septiembre de 2018, pero nunca se constituyó: los promotores desistieron porque daban por hecho que les vetarían el plan de trabajo.",
+  "n": "Alegaron que era una investigación sesgada que criminalizaba a la policía catalana y que, de investigar, debía hacerse con todos los cuerpos. Según Ara, el juez y la Audiencia de Barcelona concluyeron después que los Mossos actuaron dentro de la ley. Salvo la del 4 de septiembre, las fechas de cada intento no están confirmadas.",
   "src": [
    [
     "Ara",
@@ -76,7 +76,7 @@
  },
  {
   "d": "2018-09-04",
-  "dl": "2018 – 2021",
+  "dl": "2018 – 2022",
   "t": "PSOE, PP, Ciudadanos y Vox vetan en el Congreso investigar al rey Juan Carlos y los GAL",
   "p": [
    "PSOE",
@@ -86,8 +86,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "En 2018 PP, PSOE y Ciudadanos tumbaron en la Mesa del Congreso dos comisiones sobre Juan Carlos I, por Corinna y por su actividad tras abdicar. Entre 2020 y 2021, PSOE, PP y Vox rechazaron varias más sobre sus finanzas, en algún caso aunque los letrados habían avalado su tramitación; en diciembre de 2020 ya era el quinto veto. En 2020 el PSOE también rechazó una comisión sobre los GAL.",
-  "n": "El PSOE alegó que los asuntos estaban en manos de la justicia y que controlar a la Monarquía no es función del Parlamento. Sobre los GAL, su portavoz reconoció que el rechazo respondía a una posición política y no reglamentaria.",
+  "s": "En septiembre de 2018 PP, PSOE y Ciudadanos tumbaron en la Mesa del Congreso la comisión sobre Juan Carlos I que pedía Unidos Podemos tras las grabaciones de Corinna. Desde 2020, PSOE, PP y Vox rechazaron muchas más sobre sus finanzas, en enero de 2021 por primera vez con el aval de los letrados; en noviembre de 2022 Público contaba ya 19 vetos. En junio de 2020 PSOE, PP y Vox rechazaron también en la Mesa una comisión sobre los GAL, aunque los letrados avalaban que la debatiera el Pleno.",
+  "n": "PP, PSOE y Cs alegaron la inviolabilidad del Jefe del Estado, y el PSOE añadió que los asuntos estaban en manos de la justicia y que controlar a la Monarquía no es función del Parlamento. Sobre los GAL, Adriana Lastra alegó que eran hechos «investigados, juzgados y sentenciados hace más de 20 años»; según Europa Press, admitió que el veto respondía a una «posición política» y no a motivos reglamentarios.",
   "src": [
    [
     "elDiario.es: veto de 2018 por Corinna",
@@ -98,12 +98,16 @@
     "https://www.eldiario.es/politica/psoe-pp-vox-juan-carlos_1_6019454.html"
    ],
    [
-    "El Confidencial Digital: veto pese a los letrados",
+    "El Confidencial Digital (Europa Press): veto pese a los letrados",
     "https://www.elconfidencialdigital.com/articulo/ultima-hora/psoe-pp-vox-vuelven-vetar-congreso-investigacion-rey-juan-carlos-obviando-opinion-letrados/20210113102128204249.html"
    ],
    [
-    "Público",
+    "Público: el veto número 19 (nov 2022)",
     "https://www.publico.es/politica/psoe-pp-vox-vuelven-rechazar-investigacion-rey-emerito-congreso.html"
+   ],
+   [
+    "elDiario.es: PSOE, PP y Vox tumban la comisión sobre los GAL",
+    "https://www.eldiario.es/politica/mesa-congreso-felipe-gonzalez-gal_1_6060431.html"
    ]
   ],
   "a": "Congreso"
@@ -118,7 +122,7 @@
   "c": "Independencia de instituciones",
   "pr": "med",
   "s": "Cinco días después del pacto entre PP y PSOE para renovar el CGPJ, con Manuel Marchena como presidente, el portavoz del PP en el Senado, Ignacio Cosidó, escribió a sus senadores para defender el acuerdo: con él controlarían desde detrás la Sala Segunda del Tribunal Supremo, la que juzga a diputados, senadores y miembros del Gobierno.",
-  "n": "Tras publicarse el mensaje, Marchena renunció a presidir el CGPJ para dejar clara su independencia y el pacto se rompió; poco después empezó el bloqueo de cinco años y medio. Ojo: hablaba de la Sala Segunda del Supremo, no del Constitucional. Cosidó dijo sentirse respaldado por la dirección de su partido.",
+  "n": "Tras publicarse el mensaje, Marchena renunció a presidir el CGPJ para dejar clara su independencia y el pacto se rompió; poco después empezó el bloqueo de cinco años y medio. El mensaje se refería a la Sala Segunda del Supremo, no al Constitucional. Cosidó dijo sentirse «respaldado por el presidente de mi partido», Pablo Casado.",
   "src": [
    [
     "infoLibre",
@@ -445,14 +449,14 @@
  {
   "d": "2021-07-08",
   "dl": "2021 · 2026",
-  "t": "Ayuso cambia la ley de Telemadrid para controlar su dirección, y el TC declara que vulneró los derechos de la oposición",
+  "t": "El PP reforma por lectura única la ley de Telemadrid y el TC declara que vulneró los derechos de la oposición",
   "p": [
    "PP"
   ],
   "c": "Medios públicos y propaganda",
   "pr": "tc",
-  "s": "En 2021 el PP aprobó en la Asamblea de Madrid, con la abstención de Vox y por lectura única, una reforma de la ley de Telemadrid que cambió cómo se eligen la dirección y el consejo de administración: rebajó los votos necesarios, de modo que ya no hacía falta el apoyo de la izquierda, y permitió relevar a la dirección anterior. En marzo de 2026 el Tribunal Constitucional, por 7 votos a 5, declaró que tramitarla por lectura única vulneró el derecho de los diputados socialistas a presentar enmiendas.",
-  "n": "La sentencia es declarativa: la legislatura ya había terminado y la ley sigue en vigor. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. La mayoría conservadora del tribunal votó en contra.",
+  "s": "En 2021 el PP aprobó en la Asamblea de Madrid, con la abstención de Vox y por lectura única, una reforma de la ley de Telemadrid que cambió cómo se eligen la dirección y el consejo de administración: rebajó el número de votos exigido para desbloquear su designación, dejó la elección del consejo solo en manos de la Asamblea, permitió que el Gobierno nombrara un administrador provisional y supuso el cese automático del director, José Pablo López. En marzo de 2026 el Tribunal Constitucional, por 7 votos a 5, anuló los acuerdos de la Mesa y el Pleno y declaró que tramitarla por lectura única vulneró el derecho de los diputados socialistas al ejercicio del cargo.",
+  "n": "La sentencia es declarativa: la legislatura ya había terminado, el PSOE solo recurrió el procedimiento y la ley sigue en vigor. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. Votaron a favor los siete magistrados del bloque progresista y en contra los cinco del conservador.",
   "src": [
    [
     "Público: la sentencia del TC",
@@ -729,20 +733,29 @@
  {
   "d": "2022-05-03",
   "dl": "3 may 2022",
-  "t": "PSOE, PP y Ciudadanos tumban la comisión de investigación sobre Pegasus",
+  "t": "Congreso: PSOE, PP, Vox y Ciudadanos tumban la comisión de investigación sobre Pegasus",
   "p": [
    "PSOE",
    "PP",
+   "Vox",
    "Cs"
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "El Congreso rechazó crear una comisión de investigación sobre el espionaje con Pegasus a independentistas, con los votos en contra de PSOE, PP y Ciudadanos. Unidas Podemos, socio del Gobierno, votó a favor junto a ERC, Junts y otros grupos. La investigación quedó limitada a la comisión de secretos oficiales, que es a puerta cerrada.",
-  "n": "El PSOE votó contra investigar en abierto un asunto que afectaba a su propio Gobierno y al CNI.",
+  "s": "La Junta de Portavoces del Congreso rechazó crear una comisión de investigación sobre el espionaje con Pegasus a independentistas, con los votos en contra de PSOE, PP, Vox y Ciudadanos. Unidas Podemos, socio del Gobierno, votó a favor junto a ERC, PNV, Más País y otros grupos. El control quedó en la comisión de secretos oficiales, que es a puerta cerrada. Sí salió adelante que Sánchez compareciera en el Pleno, con el voto en contra de PSOE y Unidas Podemos.",
+  "n": "El caso afectaba al propio Gobierno y al CNI. La portavoz del Gobierno, Isabel Rodríguez, defendió que ya había otras vías: una investigación interna, la del Defensor del Pueblo, la comparecencia de la directora del CNI y de la ministra de Defensa, la comisión de secretos oficiales y la posible desclasificación de documentos para la justicia.",
   "src": [
    [
     "Ara",
     "https://es.ara.cat/politica/psoe-veta-comision-investigacion-congreso-caso-pegasus_25_4359120.html"
+   ],
+   [
+    "Público: PSOE, PP, Vox y Cs votan en contra",
+    "https://www.publico.es/politica/psoe-derechas-bloquean-comision-investigacion-sobre-caso-pegasus.html"
+   ],
+   [
+    "CMM: la Junta de Portavoces rechaza la comisión",
+    "https://www.cmmedia.es/noticias/espana/junta-portavoces-congreso-rechaza-crear-comision-investigacion-sobre-caso-pegasus.html"
    ]
   ],
   "a": "Congreso"
@@ -773,20 +786,30 @@
  },
  {
   "d": "2022-05-30",
-  "dl": "may 2022",
-  "t": "Cataluña aprueba normas para no aplicar la sentencia firme del 25% de castellano en las aulas",
+  "dl": "may – jul 2022",
+  "t": "Cataluña aprueba un decreto-ley y una ley que impiden fijar porcentajes de lengua tras la sentencia firme del 25% de castellano",
   "p": [
    "ERC",
-   "Junts"
+   "Junts",
+   "PSOE",
+   "Podemos/UP"
   ],
   "c": "Incumplimiento de leyes y sentencias",
-  "pr": "firme",
-  "s": "Tras una sentencia firme del TSJ de Cataluña, confirmada por el Supremo, que obligaba a impartir al menos un 25% de las clases en castellano, el Govern aprobó un decreto-ley y el Parlament una ley para evitar fijar porcentajes. En julio de 2022 el TSJC llevó esas normas al Constitucional.",
-  "n": "El Govern defiende el catalán como lengua vehicular y que la nueva ley impide fijar porcentajes. Falta comprobar la sentencia final del TC.",
+  "pr": "jud",
+  "s": "Tras una sentencia firme del TSJ de Cataluña, confirmada por el Supremo, que obligaba a impartir al menos un 25% de las clases en castellano, el Govern de ERC y Junts aprobó un decreto-ley y el Parlament una ley que fijan el catalán como lengua vehicular y el castellano como lengua curricular, sin porcentajes. La ley salió en junio de 2022 con los votos de PSC, ERC, Junts y los comuns; votaron en contra Vox, Cs, PP y la CUP. En julio de 2022 el TSJC, con el apoyo de la Fiscalía y la Abogacía del Estado, llevó esas normas al Constitucional porque veía posible fraude de ley.",
+  "n": "El Govern defiende el catalán como lengua vehicular, y el Consell de Garanties Estatutàries dictaminó que la ley no vulneraba la Constitución ni el Estatut. Ningún tribunal ha declarado todavía que estas normas incumplan la sentencia: el TC no ha resuelto la cuestión del TSJC.",
   "src": [
    [
     "El Independiente",
     "https://www.elindependiente.com/espana/2022/07/28/el-tsj-de-cataluna-lleva-al-constitucional-el-decreto-del-govern-para-incumplir-la-sentencia-del-25-del-castellano/"
+   ],
+   [
+    "infoLibre: la ley sale con PSC, ERC, Junts y comuns",
+    "https://www.infolibre.es/politica/parlament-aprueba-votos-psc-erc-junts-comuns-ley-elude-25-castellano_1_1253073.html"
+   ],
+   [
+    "El Español: el TSJC ve posible fraude de ley",
+    "https://www.elespanol.com/espana/tribunales/20220728/tsj-catalan-govern-bloquea-espanol-opinion-constitucional/691181140_0.html"
    ]
   ],
   "a": "Cataluña"
@@ -861,31 +884,6 @@
   "a": ""
  },
  {
-  "d": "2022-11-22",
-  "dl": "nov – dic 2022",
-  "t": "Parlamento de Navarra: la mayoría de Chivite rechaza investigar las mascarillas de Sodena y la patronal",
-  "p": [
-   "PSOE",
-   "Podemos/UP",
-   "Otros"
-  ],
-  "c": "Control parlamentario",
-  "pr": "med",
-  "s": "Navarra Suma pidió una comisión sobre la compra de mascarillas y material sanitario mediante convenios con Sodena, la patronal CEN y la empresa Albyn. La mayoría que sostenía al Gobierno de Chivite, con PSN, Geroa Bai, Podemos e I-E, la rechazó.",
-  "n": "La mayoría prefirió buscar una salida a las mascarillas almacenadas. El día exacto y el recuento de votos no están confirmados.",
-  "src": [
-   [
-    "elDiario.es: la petición",
-    "https://www.eldiario.es/navarra/navarra-suma-insiste-comision-investigacion-compra-mascarillas_1_9686635.html"
-   ],
-   [
-    "Estella Digital",
-    "https://estelladigital.com/na-insiste-en-pedir-explicaciones-sobre-las-mascarillas-y-el-resto-coinciden-en-solicitar-una-salida-al-material/"
-   ]
-  ],
-  "a": "Navarra"
- },
- {
   "d": "2022-11-23",
   "dl": "23 nov 2022",
   "t": "Parlamento de Canarias: el Pacto de las Flores rechaza investigar el caso mascarillas",
@@ -956,7 +954,7 @@
  },
  {
   "d": "2023-07-01",
-  "dl": "verano 2023",
+  "dl": "jul – dic 2023",
   "t": "Cancelaciones de obras de teatro en ayuntamientos de PP y Vox",
   "p": [
    "PP",
@@ -964,8 +962,8 @@
   ],
   "c": "Derechos fundamentales y control judicial",
   "pr": "med",
-  "s": "Tras las municipales de mayo de 2023, varias compañías denunciaron cancelaciones en ayuntamientos gobernados por PP y Vox, como Orlando de Virginia Woolf en Valdemorillo o una obra en Quintanar de la Orden por salir actores en ropa interior.",
-  "n": "No hay resolución judicial. Algunos ayuntamientos alegaron que las obras no estaban programadas o razones de presupuesto. Úsalo como hecho documentado, no como condena.",
+  "s": "Tras las municipales de mayo de 2023, varias compañías denunciaron cancelaciones en ayuntamientos gobernados por PP y Vox, como Orlando de Virginia Woolf en Valdemorillo o, en Briviesca, una obra sobre un maestro republicano fusilado en la Guerra Civil. En diciembre, Quintanar de la Orden canceló Qué difícil es porque sus actores salían en ropa interior.",
+  "n": "No hay resolución judicial. Valdemorillo alegó motivos económicos; la productora sostiene que molestaba su contenido sobre homosexualidad. En Quintanar, la concejala de Cultura dijo que la obra podía escandalizar al público, y la Junta de Castilla-La Mancha anunció que cambiaría sus ayudas para no financiar a municipios que censuren.",
   "src": [
    [
     "Newtral",
@@ -974,6 +972,10 @@
    [
     "El Español (El Cultural)",
     "https://www.elespanol.com/el-cultural/escenarios/20230706/mundo-cultura-denuncia-cancelaciones-espectaculos-ayuntamientos-pp-vox/776922366_0.html"
+   ],
+   [
+    "Infobae (Europa Press): Quintanar cancela una obra por actores en ropa interior",
+    "https://www.infobae.com/espana/agencias/2023/12/19/ayuntamiento-de-quintanar-pp-vox-cancela-una-obra-porque-actores-estan-en-ropa-interior/"
    ]
   ],
   "a": ""
@@ -987,9 +989,9 @@
    "CC"
   ],
   "c": "Gestión pública y derechos",
-  "pr": "tc",
-  "s": "Madrid, Galicia, Andalucía, Murcia, Castilla y León, Baleares, Cantabria y Canarias no han declarado zonas tensionadas, ni siquiera las que pedían ayuntamientos como Getafe, Fuenlabrada o A Coruña, lo que impide aplicar el límite a las subidas del alquiler. El TC avaló la ley en enero de 2025 y rechazó en septiembre de 2026 el último de los ocho recursos de comunidades del PP.",
-  "n": "Declararlas es voluntario: la ley dice que la comunidad podrá hacerlo. No es incumplir la ley, sino negarse a usar un instrumento que ofrece. Las comunidades alegan que limitar precios reduce la oferta de alquiler.",
+  "pr": "med",
+  "s": "Madrid, Andalucía, Murcia, Castilla y León, Baleares, Cantabria y Canarias no han declarado zonas tensionadas, ni siquiera las que pedían ayuntamientos como Getafe o Fuenlabrada, lo que impide aplicar el límite a las subidas del alquiler. Galicia se negó durante 20 meses a la petición de A Coruña, pero la aceptó en mayo de 2025, siendo la primera comunidad del PP en hacerlo, y en 2026 sumó Santiago. El TC ha avalado la mayor parte de la ley: en mayo de 2024, por un recurso de Andalucía, anuló algunos artículos por invadir competencias autonómicas (entre ellos el de la vivienda protegida), pero no el de las zonas tensionadas; en enero de 2025 avaló el límite de subidas del alquiler en esas zonas frente al recurso del PP, aunque anuló algunos requisitos sobre desahucios, y en septiembre de 2026 su octava y última sentencia sobre la ley desestimó el de la Xunta.",
+  "n": "Declararlas es voluntario: la ley dice que la comunidad podrá hacerlo. No es incumplir la ley, sino negarse a usar un instrumento que ofrece. Las comunidades alegan que limitar precios reduce la oferta de alquiler. A julio de 2026 tienen zonas tensionadas Cataluña, País Vasco, Navarra, Galicia y Asturias.",
   "src": [
    [
     "elDiario.es: las comunidades se niegan",
@@ -998,6 +1000,22 @@
    [
     "elDiario.es: el TC avala la ley",
     "https://www.eldiario.es/economia/constitucional-tumba-recurso-pp-avala-ley-vivienda-limite-subidas-alquiler-zonas-tensionadas_1_12004164.html"
+   ],
+   [
+    "elDiario.es: Galicia rompe el consenso del PP (may 2025)",
+    "https://www.eldiario.es/economia/galicia-rompe-consenso-pp-declarar-zonas-tensionadas-vivienda-criterio-partido_1_12341046.html"
+   ],
+   [
+    "Civio: nuevas zonas tensionadas (jul 2026)",
+    "https://civio.es/el-boe-nuestro-de-cada-dia/2026/07/29/nuevas-zonas-tensionadas-santiago-de-compostela-basauri-y-cinco-municipios-de-asturias/"
+   ],
+   [
+    "Infobae (Europa Press): el TC desestima el recurso de la Xunta",
+    "https://www.infobae.com/espana/agencias/2026/09/23/el-constitucional-desestima-el-recurso-de-la-xunta-de-galicia-contra-la-ley-de-vivienda/"
+   ],
+   [
+    "elDiario.es: el TC anula algunos artículos tras el recurso andaluz (may 2024)",
+    "https://www.eldiario.es/economia/constitucional-avala-mayor-parte-ley-vivienda-tumba-articulo-pisos-protegidos_1_11344760.html"
    ]
   ],
   "a": ""
@@ -1086,8 +1104,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "tc",
-  "s": "Más Madrid pidió en 2024 investigar la contratación sanitaria de emergencia en la pandemia, que incluye contratos con Quirón y la pareja de Ayuso. La Mesa, con mayoría del PP, la inadmitió dos veces. Más Madrid recurrió en amparo al Tribunal Constitucional, que lo admitió y permitió que la petición siguiera adelante. En marzo de 2026 el PP la tumbó en el pleno con su mayoría absoluta.",
-  "n": "El PP alegó razones reglamentarias para inadmitirla y, ya en el pleno, que era una causa general y un ajuste de cuentas político contra quienes decidieron bajo presión.",
+  "s": "Más Madrid pidió en 2024 investigar la compra de material sanitario de emergencia en la pandemia, incluidos los contratos con el grupo Quirón. La Mesa, con mayoría del PP, la inadmitió junto a otras iniciativas de la oposición. Más Madrid recurrió en amparo y en enero de 2026 el Tribunal Constitucional se lo otorgó: la Mesa se había excedido al hacer un juicio de oportunidad sobre el fondo, algo que corresponde al Pleno. En marzo de 2026 el PP la tumbó en el pleno con su mayoría absoluta; Más Madrid, PSOE y Vox criticaron el bloqueo.",
+  "n": "La Mesa alegó que las peticiones eran prospectivas y no estaban suficientemente justificadas. En el pleno, el PP (Raúl Martín Galán) la llamó una causa general contra la Comunidad y un ajuste de cuentas político, y atribuyó la mala gestión a las autoridades nacionales. Dos magistrados conservadores del TC, Arnaldo y Enríquez, votaron en contra del amparo.",
   "src": [
    [
     "Público: recurso al TC",
@@ -1100,13 +1118,21 @@
    [
     "Última Hora",
     "https://www.ultimahora.es/noticias/comunidades/2026/03/05/2583129/tumba-comision-investigacion-pedida-por-mas-madrid-sobre-contratacion-emergencia-covid-rescatada-por-tc.html"
+   ],
+   [
+    "Infobae: Más Madrid recurre al TC por los contratos con Quirón (jul 2024)",
+    "https://www.infobae.com/espana/2024/07/12/mas-madrid-acude-al-constitucional-para-que-ayuso-de-explicaciones-sobre-los-contratos-con-quiron-durante-la-pandemia/"
+   ],
+   [
+    "elDiario.es: el TC otorga el amparo (ene 2026)",
+    "https://www.eldiario.es/madrid/constitucional-asesta-segundo-varapalo-pp-mesa-asamblea-madrid-proteger-ayuso_1_12907097.html"
    ]
   ],
   "a": "Madrid"
  },
  {
   "d": "2024-03-15",
-  "dl": "mar 2024 – 2025",
+  "dl": "mar 2024 – oct 2026",
   "t": "Ley de amnistía: reparos de la Comisión de Venecia",
   "p": [
    "PSOE",
@@ -1119,7 +1145,7 @@
   "c": "Independencia de instituciones",
   "pr": "org",
   "s": "La Comisión de Venecia del Consejo de Europa recomendó que la amnistía no se tramitara por urgencia, que estuviera bien acotada en tiempo y materia y que contara con una mayoría cualificada. La ley se aprobó en mayo de 2024 con PSOE, Sumar y sus socios.",
-  "n": "El dictamen no es vinculante y no la declara contraria al Estado de Derecho. El TC avaló la ley en 2025 y hay cuestiones pendientes ante el TJUE. Es un caso disputado, preséntalo así.",
+  "n": "El dictamen no es vinculante y no la declara contraria al Estado de Derecho. El TC avaló la ley en 2025, y en julio de 2026 la Gran Sala del TJUE, a preguntas del Tribunal de Cuentas y la Audiencia Nacional, la declaró compatible con el Derecho de la UE y concluyó que no afecta a sus intereses financieros; los tribunales españoles deben aplicarla caso por caso. En octubre de 2026 el TC amparó a Dolors Bassa frente al Supremo, que se negaba a amnistiar la malversación. Sigue siendo un caso disputado.",
   "src": [
    [
     "Consejo de Europa: nota oficial",
@@ -1128,6 +1154,10 @@
    [
     "Newtral: claves del dictamen",
     "https://www.newtral.es/dictamen-comision-venecia-ley-amnistia/20240315/"
+   ],
+   [
+    "El Independiente: el TJUE avala la amnistía (jul 2026)",
+    "https://www.elindependiente.com/espana/2026/07/16/tjue-avala-amnistia-concluye-compatible-derecho-europeo/"
    ]
   ],
   "a": ""
@@ -1375,23 +1405,27 @@
  },
  {
   "d": "2025-02-26",
-  "dl": "2025",
-  "t": "Senado: el PP impone sus listas de comparecientes en las comisiones de la DANA y el caso Koldo",
+  "dl": "feb 2025",
+  "t": "Senado: el PP impone su lista de comparecientes en la comisión de la DANA",
   "p": [
    "PP"
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "En la comisión de la DANA, el PP usó su mayoría absoluta para aprobar solo su lista: Sánchez, siete ministros y Mazón, y rechazó a todos los que pedía el PSOE, como Salomé Pradas y otros consellers. En junio, en la comisión Koldo, tumbó las comparecencias de Feijóo, Tellado y Ayuso que pedía el PSOE y, con su abstención, las de Zapatero y Bono que pedía Vox.",
-  "n": "Sobre Ayuso, los letrados dijeron que no había base para citarla. El PP sí propuso que Pradas compareciera en las Corts valencianas. La noticia de la comisión Koldo solo la publica El Debate.",
+  "s": "En la comisión de investigación de la DANA, el PP usó su mayoría absoluta para aprobar solo su lista: Sánchez, siete ministros, la delegada del Gobierno, Ximo Puig y Mazón, a petición propia. Rechazó a todos los que pedía el PSOE, entre ellos la exconsellera de Emergencias Salomé Pradas, otros cargos de la Generalitat y la periodista que comió con Mazón en El Ventorro el día de la DANA.",
+  "n": "El PP sí incluyó a Pradas entre los 71 comparecientes que propuso para la comisión de Les Corts, pero en mayo de 2026 PP y Vox plantearon cerrarla sin que hubiera declarado, alegando que ya había comparecido en otras comisiones.",
   "src": [
    [
     "elDiario.es: la comisión de la DANA",
     "https://www.eldiario.es/politica/pp-rodillo-senado-e-impone-comision-dana-mazon-siete-ministros-consellers_1_12086951.html"
    ],
    [
-    "El Debate: la comisión Koldo",
-    "https://www.eldebate.com/espana/20250623/pp-rechaza-comparecencias-feijoo-tellado-zapatero-bono-comision-caso-psoe-senado_310255.html"
+    "elDiario.es: el PP citará a Pradas en Les Corts (feb 2025)",
+    "https://www.eldiario.es/comunitat-valenciana/pp-descartar-comparecencia-pradas-senado-si-citara-comision-dana-corts-mazon-sanchez_1_12089871.html"
+   ],
+   [
+    "elDiario.es: PP y Vox piden cerrar la comisión sin Pradas (may 2026)",
+    "https://www.eldiario.es/comunitat-valenciana/valencia/pp-vox-piden-dar-carptezazo-comision-investigacion-dana-les-corts-declare-pradas_1_13193606.html"
    ]
   ],
   "a": "Senado"
@@ -1406,7 +1440,7 @@
   "c": "Financiación y corrupción",
   "pr": "org",
   "s": "Vox financió la campaña de 2023 con 6,5 millones de MBH Bank, con participación de un fondo estatal húngaro. El Tribunal de Cuentas señaló que el banco no le informó como exige la ley electoral y que no pudo acreditar si había financiación pública extranjera, que está prohibida.",
-  "n": "El incumplimiento señalado es del banco. Vox alega que la banca española le niega crédito y devolvió el préstamo. La Fiscalía Anticorrupción abrió diligencias; no hay resolución. Ojo: el Supremo anuló dos multas anteriores del Tribunal de Cuentas a Vox (233.324 y 862.496 euros), así que no las cites como vigentes.",
+  "n": "El incumplimiento señalado es del banco. Vox alega que la banca española le niega crédito. En junio de 2025 la Fiscalía Anticorrupción archivó la denuncia del PSOE porque el préstamo se amortizó íntegramente en septiembre de 2024 y, por tanto, «no hubo ninguna donación». Por otras donaciones, el Supremo anuló además dos multas del Tribunal de Cuentas a Vox: 233.324 euros (octubre de 2025) y 862.496 euros (junio de 2026).",
   "src": [
    [
     "elDiario.es",
@@ -1415,6 +1449,18 @@
    [
     "Infobae (Europa Press)",
     "https://www.infobae.com/espana/agencias/2025/06/27/tribunal-de-cuentas-vuelve-a-denunciar-que-el-banco-hungaro-que-financia-a-vox-incumple-la-obligacion-legal-de-informar/"
+   ],
+   [
+    "elDiario.es: Anticorrupción archiva (jun 2025)",
+    "https://www.eldiario.es/politica/anticorrupcion-archiva-investigacion-vox-financiacion-irregular-sancion-tribunal-cuentas_1_12389832.html"
+   ],
+   [
+    "Infobae: el Supremo anula la multa de 233.324 euros",
+    "https://www.infobae.com/espana/2025/10/15/el-supremo-anula-la-multa-de-233000-euros-impuesta-a-vox-por-el-tribunal-de-cuentas-entiende-que-las-donaciones-que-recibio-el-partido-fueron-legales-y-transparentes/"
+   ],
+   [
+    "elDiario.es: el Supremo anula la multa de 862.496 euros",
+    "https://www.eldiario.es/politica/supremo-anula-multa-862-000-euros-tribunal-cuentas-vox_1_13278602.html"
    ]
   ],
   "a": ""
@@ -1607,8 +1653,8 @@
  },
  {
   "d": "2025-10-07",
-  "dl": "oct – dic 2025",
-  "t": "Navarra y Canarias: los gobiernos del PSOE impiden que comparezcan Chivite y Ángel Víctor Torres",
+  "dl": "7 oct 2025",
+  "t": "Parlamento de Navarra: PSN, EH Bildu y Contigo impiden que Chivite comparezca sola en la comisión de obra pública",
   "p": [
    "PSOE",
    "Bildu",
@@ -1616,19 +1662,35 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "En Navarra, PSN, EH Bildu y Contigo rechazaron que la presidenta Chivite compareciera en la comisión sobre obras públicas, y ofrecieron una comparecencia conjunta con dos expresidentas. En Canarias, PSOE, NC y ASG rechazaron una nueva comparecencia del ministro Torres en la comisión de las mascarillas; CC se abstuvo.",
-  "n": "Son vetos de comparecencias dentro de comisiones ya creadas. En Canarias alegaron que Torres ya se había explicado y que no había pruebas contra él.",
+  "s": "En la comisión de investigación sobre licitaciones de obra pública, PSN, EH Bildu y Contigo-Zurekin (23 votos) rechazaron que la presidenta María Chivite compareciera, como pedían UPN y PP. Votaron a favor UPN, PP y Vox (19) y Geroa Bai se abstuvo (7). Los tres grupos que votaron en contra propusieron en su lugar una comparecencia conjunta de Chivite con las expresidentas Yolanda Barcina y Uxue Barkos.",
+  "n": "Es un veto a una comparecencia dentro de una comisión ya creada, no a la comisión. EH Bildu no forma parte del Gobierno de Chivite. La fuente no recoge los argumentos de quienes votaron en contra.",
   "src": [
    [
-    "Naiz: Chivite",
+    "Naiz: la comisión rechaza la comparecencia de Chivite",
     "https://www.naiz.eus/en/info/noticia/20251007/la-comision-rechaza-la-comparecencia-de-chivite-pero-podria-acudir-junto-a-barkos-y-barcina"
-   ],
-   [
-    "Infobae (Europa Press): Torres",
-    "https://www.infobae.com/espana/agencias/2025/12/15/el-parlamento-canario-rechaza-que-torres-comparezca-en-la-comision-de-las-mascarillas/"
    ]
   ],
   "a": "Navarra"
+ },
+ {
+  "d": "2025-12-15",
+  "dl": "15 dic 2025",
+  "t": "Parlamento de Canarias: PSOE, NC y ASG impiden una nueva comparecencia de Ángel Víctor Torres en la comisión de las mascarillas",
+  "p": [
+   "PSOE",
+   "Otros"
+  ],
+  "c": "Control parlamentario",
+  "pr": "med",
+  "s": "PSOE, Nueva Canarias y ASG votaron en contra de que el ministro Ángel Víctor Torres volviera a comparecer en la comisión que investiga la compra de material sanitario en la pandemia, como pedía el PP. CC y AHI se abstuvieron y Vox votó a favor. El Gobierno canario es de CC y PP; el PSOE está en la oposición.",
+  "n": "Torres ya había comparecido antes en esa comisión. El PSOE alegó que había dado explicaciones suficientes en los medios, el Congreso, el Senado y el Parlamento canario, y que la documentación demostraba que no hubo comisiones ni mordidas.",
+  "src": [
+   [
+    "Infobae (Europa Press): el Parlamento canario rechaza que Torres comparezca",
+    "https://www.infobae.com/espana/agencias/2025/12/15/el-parlamento-canario-rechaza-que-torres-comparezca-en-la-comision-de-las-mascarillas/"
+   ]
+  ],
+  "a": "Canarias"
  },
  {
   "d": "2025-10-22",
@@ -1717,7 +1779,7 @@
   "c": "Independencia de instituciones",
   "pr": "firme",
   "s": "El Supremo condenó a Álvaro García Ortiz a dos años de inhabilitación y multa por filtrar datos reservados del caso de la pareja de Isabel Díaz Ayuso. Es el primer fiscal general en ejercicio condenado.",
-  "n": "Es una de las sentencias más discutidas. Fue por 5 votos a 2: las magistradas Ferrer y Polo votaron absolver porque no veían probado que él filtrara el correo, daban credibilidad a los periodistas que dijeron tenerlo por otras vías y consideraban la nota de prensa legal porque no revelaba nada que no fuera público. Juezas y Jueces para la Democracia y la Unión Progresista de Fiscales criticaron que se condenara sin prueba concluyente. No es un dirigente de partido: fue nombrado por el Gobierno de coalición.",
+  "n": "Es una de las sentencias más discutidas. Fue por 5 votos a 2: las magistradas Ferrer y Polo votaron absolver porque no veían probado que él filtrara el correo, daban credibilidad a los periodistas que dijeron tenerlo por otras vías y consideraban la nota de prensa legal porque no revelaba nada que no fuera público. Juezas y Jueces para la Democracia y la Unión Progresista de Fiscales criticaron que se condenara sin prueba concluyente. En abril de 2026 la Fiscalía y la Abogacía del Estado recurrieron en amparo ante el Tribunal Constitucional, alegando, entre otras cosas, vulneración de la presunción de inocencia por no valorar las pruebas de descargo; a 2 de octubre de 2026 el recurso seguía pendiente de admisión. No es un dirigente de partido: fue nombrado por el Gobierno de coalición.",
   "src": [
    [
     "Poder Judicial: sentencia",
@@ -1734,6 +1796,14 @@
    [
     "El Salto: críticas de jueces y fiscales",
     "https://www.elsaltodiario.com/justicia/asociaciones-jueces-fiscales-cuestionan-poca-base-penal-condena-al-fiscal-general"
+   ],
+   [
+    "El Español: la Fiscalía recurre en amparo (abr 2026)",
+    "https://www.elespanol.com/espana/tribunales/20260410/fiscalia-recurre-constitucional-condena-exfiscal-general-garcia-ortiz-vulnerar-derechos/1003744201955_0.html"
+   ],
+   [
+    "El Independiente: el amparo, aún sin estudiar (oct 2026)",
+    "https://www.elindependiente.com/espana/tribunales/2026/10/02/conde-pumpido-evita-confirmar-se-abstendra-recurso-garcia-ortiz-todavia-no-hemos-empezado-a-estudiarlo/"
    ]
   ],
   "a": ""
@@ -1966,9 +2036,9 @@
    "PP"
   ],
   "c": "Gestión pública y derechos",
-  "pr": "inv",
-  "s": "Según documentos internos de la Consejería de Sanidad publicados por elDiario.es, la Comunidad de Madrid no facturó 71.653.032 euros por pacientes derivados desde hospitales públicos a centros concertados entre 2017 y 2023, alegando que no encontraba la documentación clínica. Tras una denuncia del PSOE, el Tribunal de Cuentas abrió una pieza de acción pública.",
-  "n": "El Tribunal de Cuentas decidirá si lo archiva o nombra un instructor. El propio informe atribuye la pérdida a sistemas informáticos de los hospitales públicos que no registraban esos procedimientos de forma automática. Parte del periodo es anterior a Ayuso, que gobierna desde 2019.",
+  "pr": "med",
+  "s": "Según documentos internos de la Consejería de Sanidad publicados por elDiario.es, la Comunidad de Madrid no facturó 71.653.032 euros por pacientes derivados desde hospitales públicos a centros concertados entre 2017 y 2023, alegando que no encontraba la documentación clínica. El PSOE lo denunció ante el Tribunal de Cuentas.",
+  "n": "El 3 de agosto de 2026 el Tribunal de Cuentas archivó la denuncia del PSOE: no vio acreditado perjuicio económico para la Comunidad ni actos de gestión concretos que generen responsabilidad contable, y la Fiscalía del propio tribunal ya había pedido el archivo. El informe interno atribuye la pérdida a sistemas informáticos de los hospitales públicos que no registraban esos procedimientos de forma automática. Parte del periodo es anterior a Ayuso, que gobierna desde 2019.",
   "src": [
    [
     "elDiario.es: el informe interno",
@@ -1977,21 +2047,25 @@
    [
     "elDiario.es: el PSOE va al Tribunal de Cuentas",
     "https://www.eldiario.es/politica/psoe-pedira-tribunal-cuentas-abra-procedimiento-perdon-ayuso-71-millones-quiron-ribera-salud_1_12984122.html"
+   ],
+   [
+    "Telemadrid: el Tribunal de Cuentas archiva la denuncia (ago 2026)",
+    "https://www.telemadrid.es/programas/buenos-dias-madrid/El-Tribunal-de-Cuentas-archiva-la-denuncia-del-PSOE-por-la-supuesta-condonacion-de-71-millones-a-Quiron-y-Ribera-2-2913028676--20260803104208.html"
    ]
   ],
-  "a": ""
+  "a": "Madrid"
  },
  {
   "d": "2026-04-06",
-  "dl": "juicio 2026",
+  "dl": "abr – jul 2026",
   "t": "Operación Kitchen: juicio a la cúpula de Interior del Gobierno de Rajoy",
   "p": [
    "PP"
   ],
   "c": "Independencia de instituciones",
   "pr": "inv",
-  "s": "La Audiencia Nacional juzga al exministro Jorge Fernández Díaz y a su número dos por una presunta operación parapolicial con fondos reservados para espiar a Luis Bárcenas y quitarle documentos del caso Gürtel. La Fiscalía pide 15 años.",
-  "n": "Los hechos son de 2013, fuera del periodo, pero el juicio es de 2026. No he encontrado sentencia publicada todavía; compruébalo antes de usarlo.",
+  "s": "La Audiencia Nacional juzgó entre abril y julio de 2026 al exministro Jorge Fernández Díaz y a su número dos, Francisco Martínez, por una presunta operación parapolicial con fondos reservados para espiar a Luis Bárcenas y quitarle documentos del caso Gürtel. La Fiscalía pide 15 años para cada uno.",
+  "n": "Los hechos son de 2013 a 2015, en parte fuera del periodo, pero el juicio es de 2026. Quedó visto para sentencia el 28 de julio de 2026 y aún no hay sentencia: rige la presunción de inocencia.",
   "src": [
    [
     "Infobae (EFE)",
@@ -2000,6 +2074,10 @@
    [
     "Vigo al minuto",
     "https://www.vigoalminuto.com/2026/04/06/arranca-el-juicio-del-caso-kitchen-la-audiencia-nacional-juzga-a-la-cupula-de-interior-del-gobierno-de-rajoy/"
+   ],
+   [
+    "Telecinco: visto para sentencia (28 jul 2026)",
+    "https://www.telecinco.es/noticias/espana/20260728/fin-juicio-caso-kitchen-cuatro-meses_18_019827260.html"
    ]
   ],
   "a": ""
@@ -2037,16 +2115,12 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "PP y Vox rechazaron prorrogar la comisión de investigación de la DANA en las Corts Valencianes. Según la oposición, solo 32 de los 96 comparecientes previstos llegaron a declarar, y quedaron sin hacerlo figuras clave como la exconsellera Salomé Pradas.",
-  "n": "El PP dijo que quería salir del circo y acusó a la oposición de vivir de la DANA. Vox recordó que Pedro Sánchez, sus ministros y la Confederación del Júcar tampoco comparecieron, y que algunos citados están siendo investigados judicialmente.",
+  "s": "PP y Vox rechazaron prorrogar la comisión de investigación de la DANA en las Corts Valencianes. Solo 32 de los 96 comparecientes previstos llegaron a declarar, y quedaron sin hacerlo figuras clave como la exconsellera Salomé Pradas. El PSPV anunció un recurso al Constitucional.",
+  "n": "El PP (Nando Pastor) dijo que querían salir del circo, acusó a la oposición de vivir de la DANA y alegó que muchos de los que faltaban eran cargos del Gobierno central. Vox (José María Llanos) recordó que Sánchez, sus ministros y la Confederación Hidrográfica del Júcar tampoco comparecieron, y que los investigados Pradas y Argüeso ya habían declarado en el Congreso.",
   "src": [
    [
     "elDiario.es",
     "https://www.eldiario.es/comunitat-valenciana/pp-vox-descartan-prorroga-liquidan-comision-investigacion-dana-67-comparecientes-declarar_1_13196042.html"
-   ],
-   [
-    "Libertad Digital",
-    "https://www.libertaddigital.com/valencia/2026-05-05/pp-y-vox-rechazan-prorrogar-la-comision-de-investigacion-de-la-dana-en-las-cortes-valencianas-1b-7399614/"
    ]
   ],
   "a": "Comunitat Valenciana"
@@ -2104,15 +2178,15 @@
  {
   "d": "2026-06-11",
   "dl": "11 jun 2026",
-  "t": "Cortes de Aragón: PP y Vox investigan a Ábalos pero no los 200 millones de sobrecoste de La Romareda",
+  "t": "Cortes de Aragón: PP y Vox investigan a Ábalos pero no el encarecimiento del estadio de La Romareda",
   "p": [
    "PP",
    "Vox"
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "El mismo día, PP y Vox aprobaron una comisión sobre las visitas de Ábalos a Aragón y rechazaron la que pedía el PSOE sobre los sobrecostes de unos 200 millones en el estadio de La Romareda.",
-  "n": "El PP dijo que el informe de la Cámara de Cuentas ya se analizaba en una ponencia; Vox, que los desvíos tenían explicación técnica.",
+  "s": "El mismo día salió adelante, con el apoyo de todos los grupos salvo IU, que se abstuvo, una comisión sobre los viajes de Ábalos a Aragón durante la pandemia, y PP y Vox rechazaron la que pedía el PSOE sobre el nuevo estadio de La Romareda. El proyecto se presentó sin coste para las arcas públicas; su coste total se acerca ya a los 200 millones (la Cámara de Cuentas lo situó en 178), y según el PSOE la aportación pública ha pasado de cero a 76 millones.",
+  "n": "PP y Vox la consideraron innecesaria porque el informe de la Cámara de Cuentas ya se analizaba en una ponencia; Vox dijo además que las desviaciones tenían explicación técnica y acusó al PSOE de hipocresía. El PSOE votó a favor de la comisión sobre Ábalos.",
   "src": [
    [
     "elDiario.es",
@@ -2153,8 +2227,8 @@
   ],
   "c": "Gestión pública y derechos",
   "pr": "med",
-  "s": "El Plan Estatal de Vivienda 2026-2030, de 7.000 millones, exige que las viviendas protegidas que financia lo sean para siempre, sin pasar al mercado libre. Madrid, Andalucía, Extremadura y Cantabria lo han recurrido, aunque votaron a favor del reparto. En junio de 2026 el Gobierno amenazó con cancelar las transferencias si mantenían la batalla legal, pero en agosto transfirió 800 millones, 127,2 de ellos a Madrid, y Andalucía no renuncia a sus 1.200 millones.",
-  "n": "Recurrir es legal y, según Público, la protección permanente ya fue anulada antes por el TC cuando la recurrieron Andalucía y Madrid. Las comunidades alegan que espanta a los promotores. A día de hoy no consta que ninguna haya perdido fondos: la amenaza no se ha ejecutado.",
+  "s": "El Plan Estatal de Vivienda 2026-2030, de 7.000 millones, exige que las viviendas protegidas que financia lo sean para siempre, sin pasar al mercado libre. Madrid, Andalucía y Extremadura lo han recurrido, aunque las comunidades del PP votaron a favor del reparto en la conferencia sectorial de mayo. En junio de 2026 el Gobierno amenazó con cancelar las transferencias si mantenían la batalla legal, pero en agosto transfirió 800 millones, 127,2 de ellos a Madrid, y Andalucía no renuncia a sus 1.200 millones.",
+  "n": "Recurrir es legal. En mayo de 2024 el TC, por un recurso de Andalucía, ya anuló el artículo de la ley de vivienda de 2023 que imponía la protección permanente, por invadir competencias autonómicas. Las comunidades alegan además que espanta a los promotores. A día de hoy no consta que ninguna haya perdido fondos: la amenaza no se ha ejecutado.",
   "src": [
    [
     "Infobae: la amenaza del Gobierno",
@@ -2171,6 +2245,14 @@
    [
     "Infobae: Andalucía no renuncia a sus fondos",
     "https://www.infobae.com/espana/2026/09/07/andalucia-planta-cara-al-gobierno-por-el-plan-de-vivienda-pero-no-renuncia-a-los-1200-millones-que-le-corresponden/"
+   ],
+   [
+    "idealista: Madrid, Andalucía y Extremadura recurren el plan",
+    "https://www.idealista.com/news/inmobiliario/vivienda/2026/06/24/903419-las-comunidades-del-pp-recurren-ante-la-justicia-el-nuevo-plan-estatal-de-vivienda"
+   ],
+   [
+    "elDiario.es: el TC anula el artículo de la vivienda protegida (may 2024)",
+    "https://www.eldiario.es/economia/constitucional-avala-mayor-parte-ley-vivienda-tumba-articulo-pisos-protegidos_1_11344760.html"
    ]
   ],
   "a": ""
@@ -2284,5 +2366,33 @@
    ]
   ],
   "a": "Madrid"
+ },
+ {
+  "d": "2026-10-06",
+  "dl": "6 oct 2026",
+  "t": "El Constitucional ampara a Dolors Bassa y obliga al Supremo a amnistiar la malversación del procés",
+  "p": [
+   "ERC",
+   "Junts"
+  ],
+  "c": "Derechos fundamentales y control judicial",
+  "pr": "tc",
+  "s": "El Pleno del Tribunal Constitucional estimó por 7 votos a 5 el recurso de amparo de la exconsellera Dolors Bassa: el Supremo vulneró su derecho a la tutela judicial efectiva al negarse a aplicarle la amnistía por malversación con una interpretación «contraria al espíritu y finalidad» de la ley. Señala además una «contradicción flagrante» entre los autos del Supremo y su propia sentencia de 2019, y le ordena declarar amnistiado el delito «con carácter preferente y urgente». El criterio abre la vía para Turull, Junqueras, Romeva, Comín, Puig y Puigdemont.",
+  "n": "El Supremo había negado la amnistía de la malversación alegando que afectaba a los intereses financieros de la UE y que hubo beneficio personal; el TJUE concluyó en julio de 2026 que la amnistía no afecta a esos intereses. Votaron en contra los cinco magistrados del bloque conservador (Enríquez, Arnaldo, Espejel, Tolosa y Macías), que anuncian votos particulares. La aplicación a cada condenado no es automática: debe resolverla el Supremo. Sentencia anunciada el 6 de octubre de 2026; el texto y los votos particulares están pendientes de publicación.",
+  "src": [
+   [
+    "elDiario.es: el TC aplica la amnistía a la malversación",
+    "https://www.eldiario.es/catalunya/constitucional-aplica-amnistia-malversacion-proces-abre-puerta-regreso-puigdemont_1_13565198.html"
+   ],
+   [
+    "Infobae (EFE): el TC avala amnistiar la malversación",
+    "https://www.infobae.com/america/agencias/2026/10/06/el-constitucional-avala-amnistiar-la-malversacion-de-dirigentes-del-proces/"
+   ],
+   [
+    "El Nacional: votación y magistrados",
+    "https://www.elnacional.cat/es/politica/constitucional-avala-amnistia-malversacion-1-o-aprieta-supremo-retorno-puigdemont_1705828_102.html"
+   ]
+  ],
+  "a": ""
  }
 ]
