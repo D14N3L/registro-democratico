@@ -107,10 +107,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Documentado en medios
-- Resumen: La comisión sobre Avalmadrid llegó a crearse, pero la Mesa rechazó que comparecieran Ayuso, Aguirre, González, Cifuentes y Garrido. PP y Ciudadanos votaron en contra, Vox se abstuvo y el PSOE votó a favor.
-- Matiz: No es un veto a crear la comisión sino a sus comparecencias. PP y Cs alegaron que no era el momento procesal y que preferían esperar a tener indicios firmes.
+- Resumen: La comisión sobre Avalmadrid llegó a crearse, pero la Mesa rechazó que comparecieran Ayuso, Aguirre, González, Cifuentes, Garrido y Rollán. PP y Ciudadanos votaron por rechazarlas, Vox se abstuvo y el PSOE votó en contra del rechazo.
+- Matiz: No es un veto a crear la comisión sino a sus comparecencias. PP y Cs dijeron que querían «evitar un circo mediático y hacer una investigación seria»; según fuentes del PSOE, alegaron también que no era el momento procesal.
 - Fuentes:
   - [Público](https://www.publico.es/politica/cs-vox-evitan-ayuso-antecesores-comparezcan-comision-avalmadrid.html)
+  - [Madridiario (Europa Press): la Mesa tumba las comparecencias](https://www.madridiario.es/asamblea-comparecencia-ayuso-expresidentes-avalmadrid)
 
 ### Caso ERE: condenas a expresidentes andaluces, anuladas en parte por el TC
 - Fecha: 2019 – 2026
@@ -156,9 +157,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Extremadura
 - Nivel de prueba: Documentado en medios
 - Resumen: El PSOE, con mayoría absoluta, fue el único grupo que votó contra la comisión de investigación sobre las residencias durante el covid, pedida por el PP con el apoyo de Ciudadanos y Unidas por Extremadura.
-- Matiz: La noticia no recoge el argumento del PSOE.
+- Matiz: El PSOE (Vicente Valle) habló de la «poca altura moral» de la propuesta, dijo que el PP ya había «sentenciado» a los socialistas y atribuyó la situación de las residencias a los «recortes» de los gobiernos del PP en la dependencia.
 - Fuentes:
   - [Público](https://www.publico.es/politica/video-psoe-frena-comision-saber-ocurrido-residencias-ancianos.html)
+  - [Avuelapluma: votación y argumentos](https://avuelapluma.es/no-habra-comision-de-investigacion-sobre-las-residencias-de-mayores-en-la-asamblea/)
 
 ### Congreso: tres comisiones tumbadas en un día (financiación de Podemos, AVE a La Meca y cloacas)
 - Fecha: 8 sep 2020
@@ -214,10 +216,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: La Rioja
 - Nivel de prueba: Documentado en medios
-- Resumen: La comisión de investigación sobre las residencias de mayores que pedía el PP fue rechazada por el PSOE, IU y Podemos, que gobernaban la comunidad.
+- Resumen: La comisión de investigación sobre las residencias de mayores que pedía el PP fue rechazada por 17 votos (PSOE y el Grupo Mixto de IU y Podemos, que gobernaban la comunidad) contra 16 (PP y Ciudadanos).
 - Matiz: El PSOE (Raúl Díaz) acusó al PP de querer «sacar rédito político con un uso chabacano y partidista de un drama»; IU (Henar Moreno) dijo que bastaba con formular preguntas al Gobierno. Ciudadanos apoyó la comisión.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/la-rioja/rechazada-la-comision-de-investigacion-sobre-las-residencias-de-mayores-planteada-por-el-pp_1_11156159.html)
+  - [Parlamento de La Rioja: Diario de Sesiones P-D n.º 28 (30-9-2020)](https://www.parlamento-larioja.org/recursos-de-informacion/publicaciones-oficiales/diarios-de-sesiones/dspr-10-28)
 
 ### Propuesta para renovar el CGPJ por mayoría absoluta, retirada tras advertencias de la UE
 - Fecha: oct 2020 – abr 2021
@@ -410,6 +413,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Se apoyaron en los letrados, que dijeron que el control del CNI corresponde a la comisión de secretos oficiales, que se reúne a puerta cerrada.
 - Fuentes:
   - [Público](https://www.publico.es/politica/congreso-veta-comision-investigacion-sobre-supuesta-relacion-cni-atentados-catalunya-mencionada-villarejo.html)
+  - [ElNacional.cat (Europa Press)](https://www.elnacional.cat/es/politica/congreso-veta-comision-investigacion-cni-17a_701088_102.html)
 
 ### Asamblea de Murcia: dejan caducar la comisión sobre la vacunación irregular de altos cargos
 - Fecha: feb 2022
@@ -505,9 +509,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Castilla y León
 - Nivel de prueba: Documentado en medios
 - Resumen: La oposición, con el PSOE al frente, volvió a pedir una comisión sobre las residencias en la pandemia. PP y Vox votaron en contra y Ciudadanos se abstuvo. Vox la había apoyado en la legislatura anterior, antes de entrar en el Gobierno.
-- Matiz: El PP la consideró extemporánea y Vox alegó que la Fiscalía Superior de Castilla y León había archivado el caso sin consecuencias penales. Cs (Francisco Igea) se abstuvo pidiendo investigar «con un poco menos de rencor».
+- Matiz: El PP la consideró extemporánea y Vox alegó que la Fiscalía Superior de Castilla y León había archivado el caso sin consecuencias penales. Cs (Francisco Igea) se abstuvo: pidió investigar «con un poquito menos de rencor» y sostuvo que la investigación debía hacerse a nivel nacional.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/castilla-y-leon/politica/pp-vox-rechazan-investigar-gestion-residencias-extemporaneo-archivo-fiscalia_1_9296029.html)
+  - [leonoticias (ICAL)](https://www.leonoticias.com/castillayleon/tumban-cortes-comision-20220907133017-nt.html)
 
 ### Congreso: PSOE, PP y Vox vetan dos veces investigar la tragedia de la valla de Melilla
 - Fecha: sep – nov 2022
@@ -515,11 +520,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Congreso
 - Nivel de prueba: Documentado en medios
-- Resumen: En septiembre de 2022, PSOE, PP y Vox tumbaron a la vez tres comisiones: la de la valla de Melilla, donde murieron al menos 23 migrantes según la policía marroquí (unos 40 según organizaciones de derechos humanos), la de la cloaca policial y la de los Uber Files; el PNV se abstuvo. En noviembre, PSOE, PP, Vox y Ciudadanos rechazaron otra vez la de Melilla.
+- Resumen: En septiembre de 2022, en la Junta de Portavoces, el PSOE tumbó a la vez tres comisiones con los votos de PP y Vox (Público añade a Ciudadanos; elDiario.es, la abstención del PNV): la de la valla de Melilla, donde murieron al menos 23 migrantes según la versión marroquí (al menos 37 según las ONG), la de la cloaca policial y la de los Uber Files. En noviembre, PSOE, PP, Vox y Ciudadanos rechazaron otra vez la de Melilla.
 - Matiz: El PSOE (Patxi López) alegó que Marlaska iba a comparecer, que ya existía la comisión Kitchen y que los Uber Files no afectaban a españoles. El PP dijo que prefería escuchar antes a Marlaska.
 - Fuentes:
   - [elDiario.es: septiembre](https://www.eldiario.es/politica/psoe-tumba-comisiones-investigacion-actuacion-policial-melilla-cloaca-policial-apoyo-pp-vox_1_9311381.html)
   - [elDiario.es: noviembre](https://www.eldiario.es/politica/psoe-pp-tumban-peticion-comision-investigacion-tragedia-melilla_1_9723141.html)
+  - [Público: septiembre](https://www.publico.es/politica/psoe-tumba-investigaciones-tragedia-melilla-cloacas-mediaticas-papeles-uber.html)
+  - [Público: noviembre](https://www.publico.es/politica/pp-psoe-vetan-comision-investigacion-tragedia-melilla-diputados-hayan-visto-imagenes.html)
 
 ### Ley del «solo sí es sí»: al menos 1.233 rebajas de pena y 126 excarcelaciones, según el CGPJ
 - Fecha: oct 2022 – nov 2023
@@ -595,6 +602,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es: el Supremo confirma las principales penas](https://www.eldiario.es/euskadi/supremo-confirma-principales-penas-caso-miguel-mayor-corrupcion-euskadi_1_9853978.html)
   - [elDiario.es: la reacción del PNV](https://www.eldiario.es/euskadi/pnv-cambia-nombre-caso-miguel-dice-corrupcion-acreditada-ver-partido_1_9854868.html)
+  - [El Independiente: el Supremo confirma la condena (ene 2023)](https://www.elindependiente.com/espana/2023/01/10/el-supremo-confirma-la-condena-por-corrupcion-a-ex-altos-cargos-del-pnv-por-cobro-de-comisiones/)
 
 ### Castilla y León: el Gobierno requiere a la Junta por las medidas antiaborto anunciadas por su vicepresidente de Vox
 - Fecha: ene 2023
@@ -865,10 +873,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Galicia
 - Nivel de prueba: Documentado en medios
 - Resumen: El BNG pidió investigar contratos de la Xunta, entre ellos los de Eulen, donde trabaja como directiva la hermana de Feijóo, el sobrecoste del hospital Cunqueiro y contratos covid. El PP la tumbó; el BNG la activó igualmente con un tercio de los diputados, pero el PP la controló desde dentro: no comparecieron ni Feijóo ni su hermana y se cerró en cuatro meses con un dictamen que solo votó el PP.
-- Matiz: El PP dijo que se buscaba difundir bulos y que el Consello de Contas ya había fiscalizado los contratos.
+- Matiz: El PP (Alberto Pazos) dijo que el BNG quería «difundir fake news», que el informe del Consello de Contas «no dice» que la fórmula del Cunqueiro supusiera sobrecoste y que Contas había fiscalizado los contratos covid, aunque precisó que solo una parte. El dictamen del PP concluye que no hubo tacha de legalidad. El BNG acudió al Tribunal Constitucional por el control de la comisión; no consta resolución.
 - Fuentes:
   - [elDiario.es: el bloqueo](https://www.eldiario.es/galicia/pp-maniobra-parlamento-gallego-bloquear-investigacion-contratos-xunta-hermana-feijoo_1_11641195.html)
   - [elDiario.es: el cierre](https://www.eldiario.es/galicia/parlamento-zanja-cuatro-meses-investigacion-contratos-xunta-dictamen-apoya-pp_1_12000597.html)
+  - [Atlántico: el PP rechaza la comisión (10-9-2024)](https://www.atlantico.net/vigo/investigacion-parlamento-sobrecoste-cunqueiro_1_20240910-2756022.html)
+  - [Galiciapress (Europa Press): cierre de la comisión (28-1-2025)](https://www.galiciapress.es/articulo/ultima-hora/2025-01-28/5159081-comision-cierra-menos-4-meses-aprobar-pp-dictamen-toda-oposicion-contra)
 
 ### Congreso: PP, Vox y CC dejan caducar la comisión de las mascarillas sin citar a Ábalos ni a Koldo
 - Fecha: sep – oct 2024
@@ -925,10 +935,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Senado
 - Nivel de prueba: Documentado en medios
-- Resumen: En la comisión de investigación de la DANA, el PP usó su mayoría absoluta para aprobar solo su lista: Sánchez, siete ministros, la delegada del Gobierno, Ximo Puig y Mazón, a petición propia. Rechazó a todos los que pedía el PSOE, entre ellos la exconsellera de Emergencias Salomé Pradas, otros cargos de la Generalitat y la periodista que comió con Mazón en El Ventorro el día de la DANA.
+- Resumen: En la comisión de investigación de la DANA, el PP usó su mayoría absoluta para aprobar solo su lista: Sánchez, siete ministros, la delegada del Gobierno, Ximo Puig y Mazón, que se había mostrado dispuesto a comparecer. Rechazó a todos los que pedía el PSOE, entre ellos Salomé Pradas, consellera de Justicia e Interior el día de la DANA, otros cargos de la Generalitat y la periodista que comió con Mazón en El Ventorro el día de la DANA.
 - Matiz: El PP sí incluyó a Pradas entre los 71 comparecientes que propuso para la comisión de Les Corts, pero en mayo de 2026 PP y Vox plantearon cerrarla sin que hubiera declarado, alegando que ya había comparecido en otras comisiones.
 - Fuentes:
   - [elDiario.es: la comisión de la DANA](https://www.eldiario.es/politica/pp-rodillo-senado-e-impone-comision-dana-mazon-siete-ministros-consellers_1_12086951.html)
+  - [Infobae (EFE): Compromís recurre la lista impuesta por el PP (feb 2025)](https://www.infobae.com/espana/agencias/2025/02/27/compromis-recurre-que-el-pp-no-cite-a-cargos-de-la-generalitat-excepto-mazon-en-el-senado/)
+  - [Infobae (Europa Press): el PP cita a Sánchez y Mazón (feb 2025)](https://www.infobae.com/espana/2025/02/17/el-pp-cita-a-pedro-sanchez-y-carlos-mazon-en-la-comision-de-investigacion-del-senado-sobre-la-dana/)
   - [elDiario.es: el PP citará a Pradas en Les Corts (feb 2025)](https://www.eldiario.es/comunitat-valenciana/pp-descartar-comparecencia-pradas-senado-si-citara-comision-dana-corts-mazon-sanchez_1_12089871.html)
   - [elDiario.es: PP y Vox piden cerrar la comisión sin Pradas (may 2026)](https://www.eldiario.es/comunitat-valenciana/valencia/pp-vox-piden-dar-carptezazo-comision-investigacion-dana-les-corts-declare-pradas_1_13193606.html)
 
@@ -1041,10 +1053,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP
 - Categoría: Gestión pública y derechos
 - Nivel de prueba: Documentado en medios
-- Resumen: La Comunidad de Madrid compró por 4,3 millones, ejerciendo un derecho de retracto, una finca de 453 hectáreas junto a El Paular con un chalé con piscina, alegando su valor ecológico y un uso ocasional como sede institucional. Ayuso pasó allí un fin de semana con su familia.
+- Resumen: La Comunidad de Madrid compró por 4.365.000 euros, ejerciendo su derecho de tanteo y retracto, una finca de 453 hectáreas junto a El Paular con un chalé con piscina, alegando su valor ecológico y un uso ocasional como sede institucional. Ayuso pasó allí un fin de semana con su familia.
 - Matiz: Ayuso defendió que fue un uso mínimo y que llevó la comida de casa. No consta investigación ni resolución de ningún organismo: es un hecho documentado, no una irregularidad declarada.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/madrid/somos/ayuso-defiende-chalet-compro-gobierno-sierra-asegura-paso-dias-tupper-casa_1_12479767.html)
+  - [Infobae: la finca y su compra (jul 2025)](https://www.infobae.com/espana/2025/07/18/el-chalet-de-la-comunidad-de-madrid-en-el-que-isabel-diaz-ayuso-paso-el-fin-de-semana-finca-de-453-hectareas-y-expropiedad-del-dueno-de-cortefiel/)
 
 ### Congreso: el PSOE paraliza la comisión de la DANA para evitar citar a Sánchez
 - Fecha: jun – oct 2025
@@ -1066,10 +1079,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Galicia
 - Nivel de prueba: Documentado en medios
-- Resumen: El BNG pidió investigar la gestión de los incendios que quemaron unas 140.000 hectáreas en Galicia en el verano de 2025. El PP la rechazó en solitario.
+- Resumen: El BNG pidió investigar la gestión de los incendios que quemaron unas 140.000 hectáreas en Galicia en el verano de 2025, con el apoyo del PSdeG y Democracia Ourensana. El PP la rechazó en solitario con su mayoría absoluta.
 - Matiz: El PP dijo que la oposición solo buscaba rédito político.
 - Fuentes:
   - [Público](https://www.publico.es/politica/pp-rechaza-parlamento-galicia-investigue-gestion-rueda-fuegos-pasado-verano.html)
+  - [El Progreso (Europa Press)](https://www.elprogreso.es/articulo/galicia/pp-veta-parlamento-gallego-investigar-ola-incendios-mas-100000-hectareas/202509231319101909855.html)
 
 ### Madrid se niega a crear el registro de objetores al aborto que exige la ley
 - Fecha: oct 2025 – hoy
@@ -1230,9 +1244,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Canarias
 - Nivel de prueba: Organismo oficial
 - Resumen: Según la fiscalización de la Cuenta General de 2024 de la Audiencia de Cuentas de Canarias, el Servicio Canario de la Salud pagó 574,6 millones mediante expedientes de nulidad, un mecanismo excepcional para pagar servicios prestados sin contrato válido; 125,4 millones fueron conciertos con clínicas privadas. La serie: 405 millones en 2019, 741 en 2020, 485 en 2021, 454 en 2022, 547 en 2023 y 574,6 en 2024.
-- Matiz: La práctica atraviesa gobiernos: el pico de 2020, en la pandemia, fue con el Gobierno de PSOE, NC, Podemos y ASG, y el récord fuera de la pandemia, en 2024, con CC y PP. El Consejo Consultivo habla de un «uso fraudulento o, cuando menos, abusivo» de ese procedimiento. Los responsables reconocieron que había que corregirlo, pero aún no lo habían hecho. El informe de la Audiencia de Cuentas se cita a través de elDiario.es.
+- Matiz: La práctica atraviesa gobiernos: el pico de 2020, en la pandemia, fue con el Gobierno de PSOE, NC, Podemos y ASG, y el récord fuera de la pandemia, en 2024, con CC y PP. El Consejo Consultivo habla de un «uso fraudulento o, cuando menos, abusivo» de ese procedimiento. Los responsables reconocieron que había que corregirlo, pero aún no lo habían hecho. El informe de 2024 de la Audiencia de Cuentas se cita a través de elDiario.es; el dato de 2023 lo recoge también AtlánticoHoy.
 - Fuentes:
   - [elDiario.es: 574 millones sin contrato válido (ene 2026)](https://www.eldiario.es/canariasahora/sociedad/servicio-canario-salud-convierte-excepcion-norma-paga-574-millones-contratos-validos-125-conciertos_1_12915256.html)
+  - [AtlánticoHoy: la Audiencia de Cuentas y los 547 millones de 2023 (ene 2025)](https://www.atlanticohoy.com/sociedad/audiencia-cuentas-pega-tiron-orejas-servicio-canario-salud_1541123_102.html)
   - [elDiario.es: el Consejo Consultivo (jun 2025)](https://www.eldiario.es/canariasahora/canarias-consejo-consultivo-pagos-clinicas-privadas-fraude-abuso-contratos-expedientes-nulidad-conciertos-concurso_1_12356954.html)
 
 ### Zaldibar: imputada la exalcaldesa de EH Bildu por presuntos delitos urbanísticos en el vertedero
@@ -1253,12 +1268,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Investigación judicial
-- Resumen: En la promoción Les Naus, en la playa de San Juan, 14 de las 140 viviendas protegidas fueron a personas vinculadas al Ayuntamiento de Alicante, gobernado por el PP: concejales, arquitectos municipales, altos funcionarios (entre ellos un interventor que cobraba unos 70.000 euros) e hijos de notarios. Un tercio de los compradores no cumplía el requisito de residencia. Algunos pisos, comprados por unos 200.000 euros, se revendieron o alquilaron a precio de mercado. Un juzgado de Alicante investiga desde febrero de 2026 posibles delitos de prevaricación, tráfico de influencias y uso de información privilegiada.
-- Matiz: Dimitieron la concejala de Urbanismo, Rocío Gómez, y la directora general Ana Pérez-Hickman, y se suspendió de empleo y sueldo a un funcionario de Vivienda de la Generalitat. Tanto el Ayuntamiento, del PP, como el PSPV llevaron las sospechas a la justicia, y la Generalitat endureció los controles. Investigación en curso: rige la presunción de inocencia.
+- Resumen: En la promoción Les Naus, en la playa de San Juan, 14 de las 140 viviendas protegidas fueron a personas con vínculos de poder: concejales y cargos del Ayuntamiento de Alicante, gobernado por el PP, arquitectos municipales, hijos de notarios y altos funcionarios, entre ellos una interventora de la Generalitat con un sueldo de unos 70.000 euros. Un tercio de los compradores no cumplía el requisito de residencia. Algunos pisos, comprados por unos 200.000 euros, se revendieron o alquilaron a precio de mercado. Un juzgado de Alicante investiga desde febrero de 2026 posibles delitos de prevaricación, tráfico de influencias y uso de información privilegiada.
+- Matiz: Dimitieron la concejala de Urbanismo, Rocío Gómez, y la directora general de Organización Interna, Contratación Pública y Gestión de Fondos, María Pérez-Hickman, y se suspendió de empleo y sueldo a un funcionario de Vivienda de la Generalitat. Tanto el Ayuntamiento, del PP, como el PSPV llevaron las sospechas a la justicia, y la Generalitat endureció los controles. Investigación en curso: rige la presunción de inocencia.
 - Fuentes:
   - [elDiario.es: quiénes se adjudicaron los pisos](https://www.eldiario.es/comunitat-valenciana/escandalo-vpo-salpica-elites-alicante-pp-familias-adineradas-sueldos-70-000-euros-adjudicaron-pisos-protegidos_1_12990309.html)
   - [elDiario.es: la investigación judicial](https://www.eldiario.es/comunitat-valenciana/alicante/jueza-investiga-adjudicacion-viviendas-protegidas-alicante-funcionarios-cargos-pp-inicia-pesquisas_1_13001574.html)
   - [elDiario.es: denuncia ante la Fiscalía](https://www.eldiario.es/comunitat-valenciana/alicante/denuncian-fiscalia-cinco-delitos-adjudicacion-viviendas-protegidas-cargos-ayuntamiento-alicante_1_12956923.html)
+  - [elDiario.es: dimite la concejala de Urbanismo](https://www.eldiario.es/comunitat-valenciana/alicante/concejala-urbanismo-alicante-adjudicataria-vivienda-protegida-anuncia-dimision_1_12951613.html)
+  - [TodoAlicante: dimisiones y suspensión del funcionario](https://www.todoalicante.es/alicante-ciudad/generalitat-suspende-empleo-sueldo-funcionario-20260202203716-nt.html)
+  - [El Español: la Fiscalía envía las diligencias al juzgado](https://www.elespanol.com/alicante/alicante-ciudad/20260217/escandalo-viviendas-proteccion-publica-alicante-fiscalia-envia-juzgado-diligencias/1003744133592_0.html)
 
 ### Corts Valencianes: PP y Vox rechazan cuatro investigaciones sobre sanidad privada, una residencia, donaciones de la DANA y cribados
 - Fecha: mar – may 2026
@@ -1341,10 +1359,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Documentado en medios
-- Resumen: PP y Vox rechazaron prorrogar la comisión de investigación de la DANA en las Corts Valencianes. Solo 32 de los 96 comparecientes previstos llegaron a declarar, y quedaron sin hacerlo figuras clave como la exconsellera Salomé Pradas. El PSPV anunció un recurso al Constitucional.
+- Resumen: PP y Vox rechazaron prorrogar la comisión de investigación de la DANA en las Corts Valencianes. Según el cálculo de la oposición, solo 32 de los 96 comparecientes previstos llegaron a declarar, y quedaron sin hacerlo figuras clave como la exconsellera Salomé Pradas. El PSPV anunció un recurso al Constitucional.
 - Matiz: El PP (Nando Pastor) dijo que querían salir del circo, acusó a la oposición de vivir de la DANA y alegó que muchos de los que faltaban eran cargos del Gobierno central. Vox (José María Llanos) recordó que Sánchez, sus ministros y la Confederación Hidrográfica del Júcar tampoco comparecieron, y que los investigados Pradas y Argüeso ya habían declarado en el Congreso.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/pp-vox-descartan-prorroga-liquidan-comision-investigacion-dana-67-comparecientes-declarar_1_13196042.html)
+  - [El Español: PP y Vox cierran la comisión (may 2026)](https://www.elespanol.com/valencia/20260505/pp-vox-cierran-manera-definitiva-comision-dana-corts-citados-sin-comparecer/1003744233943_0.html)
 
 ### Parlamento de La Rioja: el PP rechaza investigar pagos irregulares a altos cargos de la sanidad
 - Fecha: 21 may 2026
@@ -1376,10 +1395,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Aragón
 - Nivel de prueba: Documentado en medios
-- Resumen: El mismo día salió adelante, con el apoyo de todos los grupos salvo IU, que se abstuvo, una comisión sobre los viajes de Ábalos a Aragón durante la pandemia, y PP y Vox rechazaron la que pedía el PSOE sobre el nuevo estadio de La Romareda. El proyecto se presentó sin coste para las arcas públicas; su coste total se acerca ya a los 200 millones (la Cámara de Cuentas lo situó en 178), y según el PSOE la aportación pública ha pasado de cero a 76 millones.
+- Resumen: El mismo día salió adelante, con el apoyo de todos los grupos salvo IU, que se abstuvo, una comisión sobre los viajes de Ábalos a Aragón durante la pandemia, y PP y Vox rechazaron la que pedía el PSOE sobre el nuevo estadio de La Romareda. El proyecto se presentó sin coste para las arcas públicas; la Cámara de Cuentas sitúa su coste en «al menos» 173,2 millones, a los que se sumarían 4,5 millones de urbanización exterior, y el PSOE avisa de que puede superar los 200. Según el PSOE, el dinero público ya suma 152 millones, 76 de ellos del Gobierno de Aragón.
 - Matiz: PP y Vox la consideraron innecesaria porque el informe de la Cámara de Cuentas ya se analizaba en una ponencia; Vox dijo además que las desviaciones tenían explicación técnica y acusó al PSOE de hipocresía. El PSOE votó a favor de la comisión sobre Ábalos.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/aragon/politica/pp-vox-apoyan-investigar-aragon-exministro-abalos-frenan-indagar-200-millones-romareda_1_13293067.html)
+  - [HoyAragón: PP y Vox bloquean la comisión de La Romareda](https://www.hoyaragon.es/articulo/noticias-aragon/pp-vox-bloquean-comision-investigacion-nueva-romareda-posible-sobrecoste-200-millones/20260611134530134137.html)
+  - [Infobae (EFE): la comisión sobre Ábalos](https://www.infobae.com/espana/agencias/2026/06/11/las-cortes-de-aragon-investigaran-los-viajes-de-abalos-a-la-comunidad-durante-la-pandemia/)
+  - [El Español: la Cámara de Cuentas cifra el coste en al menos 173,2 millones (may 2026)](https://www.elespanol.com/aragon/actualidad/zaragoza/20260508/camara-cuentas-cifra-millones-coste-nueva-romareda-pide-plan-negocio-claro/1003744238302_0.html)
 
 ### Caso mascarillas: el Supremo condena a Ábalos a 24 años de cárcel
 - Fecha: 22 jun 2026
@@ -1694,8 +1716,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Votación: Aprobada por unanimidad.
 - Partidos que la frenaron o votaron en contra: —
 - Qué pasó: Aprobada con el Gobierno de CC y PP.
+- Matiz: RTVC da algo más de 18.000 firmas y Europa Press, más de 19.000.
 - Fuentes:
   - [Diario de Avisos](https://diariodeavisos.elespanol.com/2025/09/ley-de-volcanes-canarias-2/)
+  - [RTVC: el Parlamento aprueba la ley por consenso](https://rtvc.es/pleno-del-parlamento-de-canarias-24-de-septiembre-2025/)
+  - [Infobae (Europa Press): más de 19.000 firmas](https://www.infobae.com/espana/agencias/2025/09/19/el-parlamento-de-canarias-ultima-la-nueva-ley-de-volcanes-con-consenso-de-los-grupos-y-el-aval-de-mas-de-19000-firmas/)
+  - [Parlamento de Canarias: BOPC núm. 301 (2025), ley aprobada 10L/PPLP-0036](https://www.parcan.es/files/pub/bop/11l/2025/301/bo301.pdf)
 
 ### Climatizar los colegios e institutos
 - Parlamento: Madrid
@@ -1738,14 +1764,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Consulta en Valdenuño Fernández sobre el gasto en toros de las fiestas
 - Parlamento: Ayuntamientos
 - Resultado: Consulta denegada
-- Firmas: Pedida por el pleno municipal por mayoría absoluta
+- Firmas: Aprobada por el pleno municipal en noviembre de 2024
 - Promotores: Ayuntamiento de Valdenuño Fernández (Guadalajara)
 - Votación: El Consejo de Ministros, con Gobierno de PSOE y Sumar, la denegó.
 - Partidos que la frenaron o votaron en contra: PSOE, Sumar
-- Qué pasó: Los vecinos querían decidir si el dinero de los festejos taurinos se dedicaba a otras actividades.
-- Matiz: El Gobierno alegó que es un asunto de Hacienda local, que la ley excluye de las consultas.
+- Qué pasó: Los vecinos querían decidir si los unos 16.000 euros de los festejos taurinos se dedicaban a otras actividades.
+- Matiz: El Gobierno alegó que es un asunto de Hacienda local, que la ley excluye de las consultas (artículo 71 de la Ley de Bases de Régimen Local).
 - Fuentes:
   - [El Español](https://www.elespanol.com/eldigitalcastillalamancha/region/guadalajara/20241224/gobierno-impide-pueblo-castilla-la-mancha-hacer-votacion-popular-gasto-taurino-fiestas/911158889_0.html)
+  - [La Moncloa: referencia del Consejo de Ministros (23-12-2024)](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2024/20241223-referencia-consejo-ministros.aspx)
+  - [La Cerca (Europa Press): los motivos](https://www.lacerca.com/noticias/guadalajara/gobierno-autorizacion-consulta-valdenuno-fernandez-cambiar-presupuesto-taurino-747004-1.html)
 
 ### Proteger la pesca y el marisqueo
 - Parlamento: Galicia
@@ -1842,7 +1870,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Bajar las ratios de alumnos por aula
 - Parlamento: Andalucía
 - Resultado: Rechazada
-- Firmas: Más de 52.000 firmas
+- Firmas: 52.846 firmas (hacían falta 40.000)
 - Promotores: Unas 30 organizaciones educativas
 - Votación: En contra el PP, con mayoría absoluta; Vox se abstuvo; a favor PSOE, Por Andalucía y Adelante.
 - Partidos que la frenaron o votaron en contra: PP
@@ -1850,6 +1878,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: La Junta (PP) cifró el coste en 1.362 millones y la Consejería de Educación sostiene que la ratio media ya está por debajo del máximo legal; el portavoz del PP, Jorge Saavedra, añadió que hay menos alumnos que nunca y la mayor plantilla docente.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/andalucia/parlamento-andaluz-orilla-primera-iniciativa-civil-cuatro-anos-rechaza-bajar-numero-alumnos-aula_1_9794042.html)
+  - [Última Hora (Europa Press): votación y coste](https://www.ultimahora.es/noticias/comunidades/2022/12/14/1846665/parlamento-rechaza-mayoria-del-tramitar-ilp-para-impulsar-bajada-ratios-colegios-andaluces.html)
+  - [La Voz del Sur: firmas y promotores](https://www.lavozdelsur.es/actualidad/educacion/pp-tumba-iniciativa-popular-ratio-escuela-andalucia_287549_102.html)
 
 ### Consulta en La Línea de la Concepción para pedir ser comunidad autónoma
 - Parlamento: Ayuntamientos
@@ -1875,6 +1905,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Alegaron que ya estaba en marcha la reforma de la renta de garantía de ingresos.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/euskadi/parlamento-vasco-rechaza-renta-basica-universal-900-euros-vuelve-apelar-reforma-rgi_1_8967395.html)
+  - [EITB (orain.eus): firmas y votación](https://orain.eus/es/actualidad/sociedad/2022/05/05/la-defensora-de-ilp-para-renta-basica-incondicional-ha-llegado-momento-de-acabar-con-pobreza/)
 
 ### Personalidad jurídica del Mar Menor
 - Parlamento: Congreso
@@ -1896,10 +1927,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promotores: —
 - Votación: Aprobado con PP, Cs y Vox; en contra Más Madrid y PSOE.
 - Partidos que la frenaron o votaron en contra: PP, Cs, Vox
-- Qué pasó: El Ayuntamiento de Almeida sustituyó los Foros Locales, abiertos a cualquier vecino, por Consejos de Proximidad con una participación más restringida.
-- Matiz: No es el rechazo de una iniciativa concreta, sino un recorte del cauce de participación.
+- Qué pasó: El Ayuntamiento de Almeida sustituyó los Foros Locales, que podía constituir cualquier grupo de al menos 25 vecinos inscritos, por Consejos de Proximidad.
+- Matiz: No es el rechazo de una iniciativa concreta, sino un cambio del cauce de participación. Más Madrid sostuvo que la norma restringe la participación de las asociaciones «hasta extremos hasta ahora desconocidos»; el Gobierno municipal llamó a los Foros «instrumento más de un determinado partido político» y defendió que los Consejos permiten una intervención vecinal «neutral, organizada y eficaz».
 - Fuentes:
   - [Público](https://www.publico.es/politica/almeida-echa-cerrojazo-definitivo-participacion-ciudadana-madrid.html)
+  - [Telemadrid (EFE): el pleno aprueba los Consejos de Proximidad](https://www.telemadrid.es/noticias/madrid/Almeida-Locales-Carmena-Consejos-Proximidad-0-2346365365--20210601014822.html)
 
 ### Ratios seguras de enfermeras por paciente
 - Parlamento: Congreso
