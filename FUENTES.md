@@ -22,10 +22,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Sentencia firme
 - Resumen: La Audiencia Nacional condenó a 29 personas por la primera época de la trama Gürtel (1999-2005) y declaró al PP beneficiario a título lucrativo por actos electorales en Majadahonda y Pozuelo pagados por el grupo Correa. El Supremo lo confirmó en octubre de 2020.
-- Matiz: El Supremo eliminó de la sentencia las referencias a una caja B y precisó que la condena a título lucrativo no implica que el partido conociera los delitos. La sentencia de 2018 provocó la moción de censura contra Rajoy.
+- Matiz: El Supremo aceptó en parte el recurso del PP contra las afirmaciones de la Audiencia sobre una caja B del partido, aunque sin efecto en el fallo, y precisó que la condena a título lucrativo no implica que el partido conociera los delitos. A la vez dio por probada la existencia de una «Caja B» o contabilidad extracontable del PP al mantener la condena de Bárcenas. La sentencia de 2018 provocó la moción de censura contra Rajoy.
 - Fuentes:
   - [Poder Judicial: el TS confirma Gürtel](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-)
   - [elDiario.es](https://www.eldiario.es/politica/supremo-confirma-condena-pp-caso-guertel-elimina-alusiones-caja-b_1_6287711.html)
+  - [Poder Judicial: nota del Supremo (oct 2020)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-confirma-penas-de-hasta-51-anos-de-prision-para-los-procesados-en-el--caso-Gurtel-)
 
 ### Parlament de Catalunya: JxCat, ERC y la CUP frenan tres veces investigar el presunto espionaje de los Mossos
 - Fecha: 2018
@@ -72,10 +73,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Independencia de instituciones
 - Nivel de prueba: Organismo oficial
 - Resumen: El mandato del órgano de gobierno de los jueces caducó en diciembre de 2018 y no se renovó hasta julio de 2024. La Comisión Europea pidió la renovación inmediata en sus informes de Estado de Derecho de 2022 y 2023, y acabó mediando el acuerdo en Bruselas.
-- Matiz: Los dos partidos se culparon mutuamente, pero según Maldita los acuerdos se frustraron en el último momento por el PP, que fue cambiando sus condiciones. El PP condicionaba la renovación a cambiar antes el sistema para que los jueces elijan a los vocales, algo que la propia Comisión Europea también recomendaba.
+- Matiz: Los dos partidos se culparon mutuamente, pero según Maldita los acuerdos se frustraron en el último momento por el PP, que fue cambiando sus condiciones. El PP condicionaba la renovación a cambiar antes el sistema para que los jueces elijan a los vocales. La Comisión Europea también recomendaba esa reforma, pero en otro orden: renovar el CGPJ con carácter prioritario y, inmediatamente después, adaptar el nombramiento de los vocales judiciales a los estándares europeos.
 - Fuentes:
   - [Maldita: claves de la renovación](https://maldita.es/malditateexplica/20240625/renovacion-cgpj-claves-gobierno-psoe-pp/)
   - [Newtral](https://www.newtral.es/claves-renovacion-cgpj/20240626/)
+  - [Comisión Europea: informe sobre el Estado de Derecho 2023, capítulo de España](https://commission.europa.eu/system/files/2023-07/23_1_52576_coun_chap_spain_en.pdf)
 
 ### Parlamento Vasco: PNV y PSE rechazan investigar la OPE de Osakidetza
 - Fecha: 21 mar 2019
@@ -95,7 +97,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Cataluña
 - Nivel de prueba: Sentencia firme
 - Resumen: El Supremo condenó a líderes independentistas por los hechos de otoño de 2017, con penas de hasta 13 años para Oriol Junqueras (ERC) por sedición en concurso con malversación. Descartó el delito de rebelión.
-- Matiz: Los hechos son de 2017, pero la sentencia cae dentro del periodo. Es una de las sentencias más discutidas: el independentismo y parte de la doctrina la consideran desproporcionada o un caso de persecución política, mientras otros la ven como la respuesta legal a un referéndum declarado ilegal. Después llegaron los indultos (2021), la reforma penal que suprimió la sedición (2023) y la ley de amnistía (2024).
+- Matiz: Los hechos son de 2017, pero la sentencia cae dentro del periodo. Es una de las sentencias más discutidas: el independentismo y parte de la doctrina la consideran desproporcionada o un caso de persecución política, mientras otros la ven como la respuesta legal a un referéndum declarado ilegal. Después llegaron los indultos (2021), la reforma penal que suprimió la sedición (aprobada en diciembre de 2022, en vigor en enero de 2023) y la ley de amnistía (2024).
 - Fuentes:
   - [Orain (EFE): las condenas](https://orain.eus/es/politica/2019/10/14/sentencia-del-proces-de-cataluna-condenas-por-sedicion-a-lideres-catalanes/)
 
@@ -153,7 +155,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Congreso
 - Nivel de prueba: Documentado en medios
-- Resumen: En la Junta de Portavoces cayeron tres comisiones a la vez. La de la financiación de Podemos, pedida por el PP, la rechazaron PSOE, Unidas Podemos, ERC y Bildu. La de las comisiones del AVE a La Meca la rechazaron PSOE, PP, Vox y Ciudadanos. La de las cloacas del Estado y el espionaje a políticos la tumbó el PSOE con la mayoría de la derecha.
+- Resumen: En la Junta de Portavoces cayeron tres comisiones a la vez. La de la financiación de Podemos, pedida por el PP, la rechazaron PSOE, Unidas Podemos, ERC y Bildu. La de las comisiones del AVE a La Meca la rechazaron PSOE, PP, Vox y Ciudadanos. La de las cloacas del Estado y el espionaje a políticos, pedida por Unidas Podemos, ERC, Junts, la CUP, PNV, Bildu, BNG, Más País y Compromís, no salió adelante por la oposición del PSOE.
 - Matiz: El PSOE había admitido días antes en la Mesa la de Podemos para no contradecir a los letrados y la tumbó después; la llamó cortina de humo frente al caso Kitchen. Sobre las cloacas, dijo que no era pertinente y que tocaba centrarse en la pandemia.
 - Fuentes:
   - [Público](https://www.publico.es/politica/psoe-tumba-comisiones-investigacion-sobre-ave-meca-cloacas-podemos.html)
@@ -660,9 +662,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Congreso
 - Nivel de prueba: Documentado en medios
 - Resumen: La comisión del Congreso sobre la compra de mascarillas, impulsada por el PSOE, caducó en octubre de 2024 porque PP, Vox y Coalición Canaria, que sumaban mayoría en el voto ponderado, no apoyaron prorrogarla. Quedaron unos 110 comparecientes sin citar, entre ellos Ábalos y Koldo.
-- Matiz: CC dijo que su prioridad era la crisis migratoria. El PP investigaba el caso Koldo en paralelo en el Senado, donde tiene mayoría.
+- Matiz: CC dijo que su prioridad era la crisis migratoria. El PP investigaba el caso Koldo en paralelo en el Senado, donde tiene mayoría. La prórroga no llegó a votarse: al saber que CC votaría con PP y Vox, el presidente socialista de la comisión desconvocó la reunión. El PSOE no había incluido a Ábalos en su lista de comparecientes; aceptó citarlo por exigencia de sus socios. También quedaron sin comparecer Tellado, Bendodo, Ayuso y Moreno.
 - Fuentes:
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2024/09/28/el-psoe-certifica-el-fin-de-la-comision-de-mascarillas-del-congreso-y-lamenta-no-haber-convencido-a-cc-para-la-prorroga/)
+  - [Infobae (Europa Press): la comisión caduca sin interrogar a Ábalos y Koldo (oct 2024)](https://www.infobae.com/espana/agencias/2024/10/02/la-comision-del-congreso-sobre-compras-de-mascarillas-caduca-hoy-sin-conclusiones-y-sin-interrogar-a-abalos-y-koldo/)
 
 ### Asamblea de Madrid: el PP investiga a Begoña Gómez pero veta investigar los contratos del novio de Ayuso
 - Fecha: 2023 – 2024
@@ -760,7 +763,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Asturias
 - Nivel de prueba: Documentado en medios
 - Resumen: Tras el accidente de la mina de Cerredo, con cinco muertos, PSOE e IU acabaron aceptando la comisión de investigación que pedían PP y Foro. Pero de 97 comparecencias se aprobaron 92 y quedaron fuera el presidente Barbón, dos consejeros y la exministra Teresa Ribera, que según las crónicas no tuvieron el apoyo de la izquierda.
-- Matiz: El PSOE dijo que no tenían relación directa con los hechos; la presidenta de la comisión, que se habían aplazado por motivos técnicos. El dictamen final reprobó a cuatro exconsejeros con el PSOE como único voto en contra. No está confirmado el voto de cada grupo.
+- Matiz: El PSOE dijo que no tenían relación directa con los hechos; la presidenta de la comisión, Covadonga Tomé, que algunas solicitudes se aplazaron por motivos técnicos y que las de Barbón y Ribera «no fueron apoyadas, porque no se ajustan» al objeto de la comisión. El dictamen final reprobó a cuatro exconsejeros con el PSOE como único voto en contra. No está confirmado el voto de cada grupo.
 - Fuentes:
   - [Heraldo de León](https://www.heraldodeleon.es/articulo/provincia-leon/comision-accidente-cerredo-da-luz-verde-92-comparecencias-mientras-avanza-investigacion-judicial/20250622094143033420.html)
   - [elDiario.es: el dictamen](https://www.eldiario.es/asturias/psoe-desmarca-vota-dictamen-reprueba-cuatro-exconsejeros-accidente-minero-zarreu_1_13247604.html)
@@ -794,11 +797,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Congreso
 - Nivel de prueba: Documentado en medios
-- Resumen: Compromís, Podemos y la derecha pedían citar a Sánchez en la comisión de la DANA del Congreso. El PSOE, con Sumar hasta octubre, no cerraba el plan de trabajo y la presidenta socialista no la convocaba; Àgueda Micó dejó el grupo de Sumar por ello. En octubre pactaron 127 comparecientes con Sánchez al final, y la comisión decae con la disolución sin que él compareciera.
+- Resumen: Compromís, Podemos y la derecha pedían citar a Sánchez en la comisión de la DANA del Congreso. El PSOE, con Sumar hasta octubre, no cerraba el plan de trabajo y la presidenta socialista no la convocaba; Àgueda Micó dejó el grupo de Sumar por ello. En octubre de 2025 PSOE, Sumar y sus socios, entre ellos Compromís y Podemos, pactaron 127 comparecientes con Sánchez el último, previsto para el verano de 2026, y la comisión decayó con la disolución de las Cortes sin que él compareciera.
 - Matiz: El PSOE alegó que citar a Sánchez igualaba la responsabilidad del Gobierno central con la de la Generalitat, que era la competente en la emergencia.
 - Fuentes:
   - [El Español](https://www.elespanol.com/valencia/20250918/psoe-bloquea-congreso-comision-dana-no-acuda-sanchez-enfada-socios-compromis/1003743928751_0.html)
   - [Infobae (Europa Press): el plan pactado](https://www.infobae.com/espana/agencias/2025/10/07/psoe-y-sumar-pactan-un-plan-para-la-comision-del-congreso-sobre-la-dana-y-preven-llamar-a-sanchez-en-ultimo-lugar/)
+  - [Infobae (Europa Press): 127 comparecientes con Sánchez el último (oct 2025)](https://www.infobae.com/espana/agencias/2025/10/15/psoe-y-socios-pactan-citar-a-127-comparecientes-a-la-comision-del-congreso-sobre-la-dana-con-mazon-y-feijoo-al-principio/)
   - [Valencia Plaza: decaen con el adelanto](https://valenciaplaza.com/valenciaplaza/nacional/las-investigaciones-del-congreso-sobre-la-dana-las-cloacas-el-apagon-y-atentado-del-17a-decaen-con-el-adelanto)
 
 ### Parlamento de Galicia: el PP rechaza investigar los incendios del verano de 2025
@@ -930,12 +934,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP
 - Categoría: Medios públicos y propaganda
 - Nivel de prueba: Investigación judicial
-- Resumen: En 2016 OKdiario publicó que el Gobierno de Maduro había pagado 272.000 dólares a Pablo Iglesias en una cuenta en Granadinas, con información de fuentes policiales. En audios publicados en 2022, el comisario Villarejo reconoce a Antonio García Ferreras que el documento era falso, y Ferreras admite que le pareció burdo pero lo difundió. El exnúmero dos de Interior con Rajoy, Francisco Martínez, dijo en privado que sabían que era mentira.
+- Resumen: En 2016 OKdiario publicó que el Gobierno de Maduro había pagado 272.000 dólares a Pablo Iglesias en una cuenta en Granadinas, con información de fuentes policiales. En audios publicados en 2022, el comisario Villarejo llama «chapuza» a la supuesta cuenta y atribuye la información al entonces DAO de la Policía, Eugenio Pino, y Antonio García Ferreras admite que le dijo a Inda que era «demasiado burdo» pero «yo voy con ello». En un audio publicado en 2025, el exnúmero dos de Interior con Rajoy, Francisco Martínez, dice: «Lo de Granadinas, eso es un asunto que sabíamos perfectamente que era mentira, que era una falsificación».
 - Matiz: En diciembre de 2025 el Supremo condenó en firme a OKdiario y a Eduardo Inda a indemnizar a Iglesias con 18.000 euros por intromisión en el honor. Esa condena es civil y contra el medio, no contra el PP. La implicación de mandos de Interior se investiga en la Audiencia Nacional (juez Pedraz); no hay sentencia sobre ella.
 - Fuentes:
   - [elDiario.es: la condena del Supremo](https://www.eldiario.es/politica/supremo-condena-inda-okdiario-pagar-18-000-euros-pablo-iglesias-difundir-bulo-falsa-cuenta-granadinas_1_12855412.html)
   - [infoLibre](https://www.infolibre.es/medios/eduardo-inda-condenado-indemnizar-pablo-iglesias-publicar-noticia-falsa-cuenta-granadinas_1_2116633.html)
   - [El Salto: los audios de Ferreras](https://www.elsaltodiario.com/medios/ultimos-audios-villarejo-ferreras-epicentro-debate-cloacas-estado-podemos)
+  - [elDiario.es: los audios de Villarejo y Ferreras (2022)](https://www.eldiario.es/politica/audios-grabados-villarejo-ferreras-destapan-origen-noticias-cuenta-falsa-pablo-iglesias_1_9159425.html)
+  - [elDiario.es: «sabíamos perfectamente que era mentira» (jun 2025)](https://www.eldiario.es/politica/ex-numero-interior-pp-cuenta-granadinas-pablo-iglesias-sabiamos-mentira_1_12363018.html)
 
 ### El PP veta investigar en la Asamblea la gestión privada del Hospital de Torrejón
 - Fecha: dic 2025 – feb 2026
@@ -1310,7 +1316,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Resultado: Rechazada
 - Firmas: 19.047 firmas
 - Promotores: Vía Galega y Federación Galiza Cultura
-- Votación: 36 en contra (PP) y 34 a favor (BNG, PSdeG y Oxea).
+- Votación: 36 en contra (PP) y 34 a favor (BNG, PSdeG y el diputado de Democracia Ourensana).
 - Partidos que la frenaron o votaron en contra: PP
 - Qué pasó: Rechazada en la toma en consideración.
 - Matiz: El PP acusó a los nacionalistas de usar a Castelao contra el PP. La fuente, Nós Diario, es próxima al BNG.
@@ -1466,12 +1472,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Resultado: Bloqueada
 - Firmas: Unas 740.000 firmas
 - Promotores: CERMI, plataforma de entidades de personas con discapacidad
-- Votación: Admitida en noviembre de 2020 y, de nuevo, el 8 de octubre de 2024 por unanimidad (341 votos a favor).
-- Partidos que la frenaron o votaron en contra: PNV
-- Qué pasó: Pese a la unanimidad de 2024, sigue sin aprobarse.
-- Matiz: El PNV y grupos catalanes alegan que invade competencias autonómicas sobre servicios sociales.
+- Votación: Tomada en consideración el 8 de octubre de 2024 por unanimidad: 341 votos a favor, ninguno en contra. Era su cuarto registro desde 2015 y ya se había admitido a trámite dos veces antes.
+- Partidos que la frenaron o votaron en contra: —
+- Qué pasó: Pese a la unanimidad de 2024, no llegó a aprobarse antes de la disolución de las Cortes el 6 de octubre de 2026. La reforma de las leyes de dependencia y discapacidad aprobada en septiembre de 2026 era otra iniciativa, del Ministerio de Derechos Sociales, y en ella el Gobierno vetó una enmienda para eximir del copago a los dependientes de grado III+ alegando que superaba el gasto presupuestado.
+- Matiz: Todos votaron a favor de tramitarla, pero PNV y Junts advirtieron de que invade competencias autonómicas sobre servicios sociales. Las fuentes no aclaran quién frenó después su tramitación.
 - Fuentes:
   - [Servimedia](https://www.servimedia.es/noticias/congreso-acuerda-unanimidad-tramitar-reforma-dependencia-para-acabar-copagos-confiscatorios/1410275147)
+  - [Infobae (Europa Press): la reforma de dependencia y el veto a la enmienda del copago (sep 2026)](https://www.infobae.com/america/agencias/2026/09/16/el-congreso-aprueba-definitivamente-la-reforma-de-las-leyes-de-discapacidad-y-dependencia/)
 
 ### Regularización extraordinaria de migrantes
 - Parlamento: Congreso
@@ -1507,11 +1514,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento: Aragón
 - Resultado: Rechazada
 - Firmas: 13.000 firmas
-- Promotores: Teruel Existe
-- Votación: En contra PP, Vox y PAR; a favor PSOE, Teruel Existe, CHA, IU y Podemos.
+- Promotores: Movimiento ciudadano Teruel Existe (13.000 firmas)
+- Votación: En contra PP, Vox y PAR; a favor PSOE, Aragón-Teruel Existe, CHA, IU y Podemos.
 - Partidos que la frenaron o votaron en contra: PP, Vox, Otros
 - Qué pasó: Rechazada en la toma en consideración.
-- Matiz: El Gobierno de PP y Vox alegó que los problemas venían de los contratos del anterior gobierno socialista.
+- Matiz: El PP (Jesús Fuertes) alegó que el contrato que adjudicó en junio de 2023 el anterior Gobierno de Lambán tenía «condiciones nefastas» y que el nuevo Gobierno resolvió los problemas en 72 días.
 - Fuentes:
   - [Diario de Teruel](https://www.diariodeteruel.es/teruel/rechazada-en-cortes-la-iniciativa-legislativa-popular-del-transporte-sanitario-de-teruel-existe)
 
@@ -1532,7 +1539,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento: Galicia
 - Resultado: Rechazada
 - Firmas: Más de 55.000 firmas, récord en Galicia
-- Promotores: SOS Sanidade Pública y más de 30 colectivos
+- Promotores: SOS Sanidade Pública y los colectivos que la integran
 - Votación: En contra el PP, con mayoría absoluta; a favor PSdeG y BNG.
 - Partidos que la frenaron o votaron en contra: PP
 - Qué pasó: Rechazada en la toma en consideración.
@@ -1548,7 +1555,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Votación: En contra el PP, con mayoría absoluta; Vox se abstuvo; a favor PSOE, Por Andalucía y Adelante.
 - Partidos que la frenaron o votaron en contra: PP
 - Qué pasó: No se tomó en consideración. Era la primera ILP que llegaba al Parlamento andaluz en cuatro años.
-- Matiz: El PP alegó un coste de 1.362 millones y que la media de alumnos ya está por debajo del máximo legal.
+- Matiz: La Junta (PP) cifró el coste en 1.362 millones y la Consejería de Educación sostiene que la ratio media ya está por debajo del máximo legal; el portavoz del PP, Jorge Saavedra, añadió que hay menos alumnos que nunca y la mayor plantilla docente.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/andalucia/parlamento-andaluz-orilla-primera-iniciativa-civil-cuatro-anos-rechaza-bajar-numero-alumnos-aula_1_9794042.html)
 

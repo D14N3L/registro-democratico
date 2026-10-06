@@ -124,16 +124,18 @@
   "res": "bloq",
   "f": "Unas 740.000 firmas",
   "pr": "CERMI, plataforma de entidades de personas con discapacidad",
-  "v": "Admitida en noviembre de 2020 y, de nuevo, el 8 de octubre de 2024 por unanimidad (341 votos a favor).",
-  "p": [
-   "PNV"
-  ],
-  "s": "Pese a la unanimidad de 2024, sigue sin aprobarse.",
-  "n": "El PNV y grupos catalanes alegan que invade competencias autonómicas sobre servicios sociales.",
+  "v": "Tomada en consideración el 8 de octubre de 2024 por unanimidad: 341 votos a favor, ninguno en contra. Era su cuarto registro desde 2015 y ya se había admitido a trámite dos veces antes.",
+  "p": [],
+  "s": "Pese a la unanimidad de 2024, no llegó a aprobarse antes de la disolución de las Cortes el 6 de octubre de 2026. La reforma de las leyes de dependencia y discapacidad aprobada en septiembre de 2026 era otra iniciativa, del Ministerio de Derechos Sociales, y en ella el Gobierno vetó una enmienda para eximir del copago a los dependientes de grado III+ alegando que superaba el gasto presupuestado.",
+  "n": "Todos votaron a favor de tramitarla, pero PNV y Junts advirtieron de que invade competencias autonómicas sobre servicios sociales. Las fuentes no aclaran quién frenó después su tramitación.",
   "src": [
    [
     "Servimedia",
     "https://www.servimedia.es/noticias/congreso-acuerda-unanimidad-tramitar-reforma-dependencia-para-acabar-copagos-confiscatorios/1410275147"
+   ],
+   [
+    "Infobae (Europa Press): la reforma de dependencia y el veto a la enmienda del copago (sep 2026)",
+    "https://www.infobae.com/america/agencias/2026/09/16/el-congreso-aprueba-definitivamente-la-reforma-de-las-leyes-de-discapacidad-y-dependencia/"
    ]
   ]
  },
@@ -275,7 +277,7 @@
   "m": "Salvar la Atención Primaria",
   "res": "rech",
   "f": "Más de 55.000 firmas, récord en Galicia",
-  "pr": "SOS Sanidade Pública y más de 30 colectivos",
+  "pr": "SOS Sanidade Pública y los colectivos que la integran",
   "v": "En contra el PP, con mayoría absoluta; a favor PSdeG y BNG.",
   "p": [
    "PP"
@@ -340,7 +342,7 @@
   "res": "rech",
   "f": "19.047 firmas",
   "pr": "Vía Galega y Federación Galiza Cultura",
-  "v": "36 en contra (PP) y 34 a favor (BNG, PSdeG y Oxea).",
+  "v": "36 en contra (PP) y 34 a favor (BNG, PSdeG y el diputado de Democracia Ourensana).",
   "p": [
    "PP"
   ],
@@ -365,7 +367,7 @@
    "PP"
   ],
   "s": "No se tomó en consideración. Era la primera ILP que llegaba al Parlamento andaluz en cuatro años.",
-  "n": "El PP alegó un coste de 1.362 millones y que la media de alumnos ya está por debajo del máximo legal.",
+  "n": "La Junta (PP) cifró el coste en 1.362 millones y la Consejería de Educación sostiene que la ratio media ya está por debajo del máximo legal; el portavoz del PP, Jorge Saavedra, añadió que hay menos alumnos que nunca y la mayor plantilla docente.",
   "src": [
    [
     "elDiario.es",
@@ -440,15 +442,15 @@
   "m": "Transporte sanitario urgente",
   "res": "rech",
   "f": "13.000 firmas",
-  "pr": "Teruel Existe",
-  "v": "En contra PP, Vox y PAR; a favor PSOE, Teruel Existe, CHA, IU y Podemos.",
+  "pr": "Movimiento ciudadano Teruel Existe (13.000 firmas)",
+  "v": "En contra PP, Vox y PAR; a favor PSOE, Aragón-Teruel Existe, CHA, IU y Podemos.",
   "p": [
    "PP",
    "Vox",
    "Otros"
   ],
   "s": "Rechazada en la toma en consideración.",
-  "n": "El Gobierno de PP y Vox alegó que los problemas venían de los contratos del anterior gobierno socialista.",
+  "n": "El PP (Jesús Fuertes) alegó que el contrato que adjudicó en junio de 2023 el anterior Gobierno de Lambán tenía «condiciones nefastas» y que el nuevo Gobierno resolvió los problemas en 72 días.",
   "src": [
    [
     "Diario de Teruel",
