@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (138)
+## Fichas del registro (158)
 
 ### Vox nace financiado casi un millón de euros por simpatizantes del exilio iraní
 - Fecha: dic 2013 – abr 2014
@@ -15,6 +15,253 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: el millón del exilio iraní](https://www.eldiario.es/politica/exiliados-millon-fundar-financiar-vox_1_1740433.html)
   - [Público: el 80% de la campaña de 2014](https://www.publico.es/politica/exilio-irani-financio-80-campana-europea-vox-2014.html)
   - [elDiario.es: quién es el CNRI](https://www.eldiario.es/internacional/vox-financiacion-iran_1_2739305.html)
+
+### Congreso: el Gobierno en funciones se niega a ser controlado y el TC declara que vulneró las atribuciones del Congreso
+- Fecha: mar 2016 – nov 2018
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: Con Rajoy en funciones tras las elecciones de diciembre de 2015, el Gobierno comunicó el 10 de marzo de 2016 que el Congreso no podía someterlo a iniciativas de control porque «no existe relación de confianza» entre un Gobierno en funciones y la Cámara, y el ministro de Defensa no acudió a la comisión. El Pleno aprobó llevarlo al TC por 218 votos a 113. El TC declaró en 2018 (STC 124/2018) que ese criterio «vulneró la atribución que al Congreso de los Diputados confiere el artículo 66.2 CE».
+- Matiz: El Gobierno sostuvo que controlar a un Gobierno cesado no tenía sentido sin relación de confianza. Mientras tanto sí compareció a petición propia o del PP.
+- Fuentes:
+  - [BOE: STC 124/2018](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17131)
+
+### Tres decretos-ley de los Gobiernos de Rajoy de 2016 y 2017, anulados después por el TC
+- Fecha: 2016 – 2024
+- Partidos: PP
+- Categoría: Incumplimiento de leyes y sentencias
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El TC anuló el Real Decreto-ley 2/2016, aprobado en funciones, sobre los pagos fraccionados del impuesto de sociedades (STC 78/2020); parte del artículo 3.1 del Real Decreto-ley 3/2016 (STC 11/2024), y dos preceptos del Real Decreto-ley 1/2017 sobre cláusulas suelo, entre ellos el inciso que limitaba su aplicación a personas físicas (STC 156/2021, recurso de Unidos Podemos).
+- Matiz: En los tres casos el motivo es haber usado el decreto-ley fuera de sus límites constitucionales, no un abuso de poder; las situaciones firmes no se revisan.
+- Fuentes:
+  - [BOE: STC 78/2020](https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8959)
+  - [BOE: STC 11/2024](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3277)
+  - [BOE: STC 156/2021](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-17105)
+
+### Mesa del Parlament: desobediencia al TC en 2016 y 2017, condenas y amnistía
+- Fecha: 2016 – jul 2026
+- Partidos: Junts, ERC, Otros
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: El TC anuló varias resoluciones del Parlament sobre el proceso constituyente y el referéndum (ATC 170/2016 y 24/2017, entre otros) y pidió deducir testimonio contra la presidenta, Carme Forcadell, y miembros de la Mesa por incumplir sus mandatos. Tras anular el Supremo un primer juicio, el TSJC condenó en mayo de 2023 a Lluís Corominas, Anna Simó, Ramona Barrufet y Lluís Guinó a cuatro meses de inhabilitación y 1.200 euros de multa por desobediencia. En julio de 2026 el Supremo les aplicó la amnistía.
+- Matiz: Los letrados del Parlament alegaron que la actuación de la Mesa estaba amparada por la inviolabilidad parlamentaria. La condena de Forcadell por sedición está en la ficha de la sentencia del procés.
+- Fuentes:
+  - [BOE: ATC 170/2016](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-10671)
+  - [BOE: ATC 24/2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3258)
+  - [La Nación (Europa Press): nueva condena del TSJC (may 2023)](https://www.lanacion.com.ar/agencias/el-tsjc-vuelve-a-condenar-por-desobediencia-a-4-exmiembros-de-la-mesa-de-forcadell-nid31052023/)
+  - [El Progreso (EFE): el Supremo aplica la amnistía (jul 2026)](https://www.elprogreso.es/articulo/espana/supremo-aplica-amnistia-cuatro-miembros-mesa-parlament-2017/202607281344041988157.html)
+
+### Congreso: el Gobierno de Rajoy veta más de 60 leyes de la oposición y el TC da la razón al Congreso
+- Fecha: oct 2016 – feb 2019
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El Gobierno usó el artículo 134.6 de la Constitución, que le permite oponerse a leyes que aumenten el gasto o reduzcan los ingresos del presupuesto, para frenar proposiciones de ley de la oposición: 43 en el primer año de legislatura y 57 a marzo de 2018, con el respaldo de PP y Ciudadanos en la Mesa. En octubre de 2016 la Mesa rechazó dos de esos vetos (suspender el calendario de la LOMCE y una reforma sobre trabajadores subcontratados) y el Gobierno los llevó al TC, que le quitó la razón en 2018 (STC 34/2018 y 44/2018): el veto solo vale si afecta al «presupuesto en vigor». En 2019 el TC amparó a Unidos Podemos y anuló dos acuerdos de la Mesa que habían aceptado otro veto (STC 17/2019).
+- Matiz: El Gobierno alegó un uso parlamentario reiterado y la protección del presupuesto; Rajoy dijo que no vetaba «porque sí», sino porque esas leyes supondrían «un incremento de 3 puntos en el déficit público». Según Europa Press, el último Gobierno de Zapatero vetó unas 27 iniciativas y los de Aznar ninguna. El Gobierno de Sánchez también perdió en 2025 un conflicto por un veto, esta vez contra el Senado (ficha aparte).
+- Fuentes:
+  - [BOE: STC 34/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-6826)
+  - [BOE: STC 44/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-7140)
+  - [BOE: STC 17/2019](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-3978)
+  - [Público: 43 leyes vetadas en un año (oct 2017)](https://www.publico.es/politica/record-vetos-gobierno-asi-frenado-rajoy-43-leyes-ano.html)
+  - [elDiario.es: 57 proposiciones frenadas (mar 2018)](https://www.eldiario.es/politica/pp-ciudadanos-iniciativas-congreso-presupuestos_1_2204862.html)
+
+### Congreso: Fernández Díaz, reprobado, y una comisión concluye que Interior creó una estructura policial contra adversarios políticos
+- Fecha: jun 2016 – sep 2017
+- Partidos: PP
+- Categoría: Independencia de instituciones
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: En junio de 2016 se difundieron grabaciones del ministro del Interior, Jorge Fernández Díaz, con el director de la Oficina Antifraude de Cataluña. El 18 de octubre la Comisión de Interior aprobó por 23 votos a 14 una proposición para reprobarlo e instar a su cese. La comisión de investigación del Congreso concluyó que, bajo su mandato, «se creó una estructura policial» por orden del DAO Eugenio Pino «con el conocimiento y consentimiento del Ministro», destinada a obstaculizar investigaciones de corrupción del PP y a seguir a adversarios políticos (PSOE, nacionalistas catalanes, Podemos), y que el Gobierno entregó la documentación «de forma impuntual e incompleta». El Pleno aprobó el dictamen el 21 de septiembre de 2017 por 172 votos a 132 y 29 abstenciones.
+- Matiz: Es una conclusión parlamentaria, no judicial. En diciembre de 2016 el Supremo inadmitió la querella contra el ministro: sobre las grabaciones dijo que, por su obtención subrepticia, no era posible determinar si habían sido editadas o manipuladas. El PP sostuvo en el Pleno que nunca hubo una utilización partidista de Interior y que todas las denuncias se habían archivado. La investigación judicial posterior está en la ficha de la Operación Kitchen.
+- Fuentes:
+  - [Congreso: Diario de Sesiones de la Comisión de Interior, núm. 41 (18 oct 2016)](https://www.congreso.es/public_oficiales/L12/CONG/DS/CO/DSCD-12-CO-41.PDF)
+  - [Congreso: dictamen de la comisión (BOCG D-225)](https://www.congreso.es/public_oficiales/L12/CONG/BOCG/D/BOCG-12-D-225.PDF)
+  - [Congreso: Diario de Sesiones del Pleno, núm. 76 (21 sep 2017)](https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-76.PDF)
+  - [Segre: el Supremo archiva la querella (dic 2016)](https://www.segre.com/es/nacional-internacional/161216/el-supremo-archiva-querella-contra-fernandez-diaz-de-alfonso_8078.html)
+
+### Gürtel-Fitur: condena firme de nueve años a la exconsejera valenciana de Turismo Milagrosa Martínez
+- Fecha: feb 2017 – may 2018
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Sentencia firme
+- Resumen: El Tribunal Superior de Justicia valenciano condenó el 8 de febrero de 2017 a la exconsejera de Turismo del Gobierno de Camps, Milagrosa Martínez, y a los cabecillas de la trama Gürtel en la pieza Gürtel-Fitur, el primer juicio a la trama. En mayo de 2018 el Supremo confirmó íntegramente las condenas, entre ellas los nueve años de prisión de Martínez.
+- Matiz: Es la primera causa de la trama Gürtel con sentencia firme del Supremo; los hechos son anteriores a 2016.
+- Fuentes:
+  - [Poder Judicial: el Supremo confirma las condenas de Gürtel-Fitur (may 2018)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-todas-las-condenas-del--caso-Gurtel-Fitur---primer-juicio-a-la-trama)
+
+### Parlamento de Galicia: el PP rechaza por cuarta vez investigar el accidente del Alvia
+- Fecha: feb 2017
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Documentado en medios
+- Resumen: En votación secreta, el PP rechazó con sus 39 votos la comisión de investigación sobre el accidente del Alvia en Angrois, que causó 80 muertos en 2013; BNG y En Marea votaron a favor (20) y el PSdeG se abstuvo (15). Según elDiario.es, era la cuarta vez que el PP la rechazaba.
+- Matiz: El PP alegó que el Parlamento gallego no es el «foro adecuado» porque carece de competencias y que los directivos de la Administración General del Estado no responden ante los parlamentos autonómicos. El PSdeG sostuvo que el lugar era el Congreso.
+- Fuentes:
+  - [El Progreso: la Cámara rechaza de nuevo investigar Angrois (feb 2017)](https://www.elprogreso.es/articulo/galicia/la-camara-gallega-rechaza-de-nuevo-investigar-el-accidente-de-angrois/20170221191522398210.html)
+  - [elDiario.es: por cuarta vez, no](https://www.eldiario.es/galicia/politica/cuarto-pp-investigar-accidente-alvia_1_3569734.html)
+
+### Tarjetas black: condena firme a consejeros de Caja Madrid y Bankia propuestos por PP, PSOE, IU y los sindicatos
+- Fecha: feb 2017 – oct 2018
+- Partidos: PP, PSOE, Otros
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia Nacional condenó en febrero de 2017 por apropiación indebida a los consejeros y directivos que usaron las tarjetas opacas de Caja Madrid y Bankia entre 2003 y 2012, con un gasto de 12,5 millones. En octubre de 2018 el Supremo confirmó las condenas, entre ellas cuatro años y medio de prisión para Rodrigo Rato. Hubo 64 condenados en firme, entre ellos consejeros propuestos por PP, PSOE, IU, CCOO y UGT.
+- Matiz: Miguel Blesa, expresidente de Caja Madrid, murió antes de la sentencia del Supremo. A Rato se le aplicó la atenuante de reparación del daño.
+- Fuentes:
+  - [El Español: el Supremo confirma la condena de Rato (oct 2018)](https://www.elespanol.com/espana/tribunales/20181003/supremo-confirma-condena-meses-prision-rato-black/331717143_0.html)
+  - [elDiario.es: los 64 condenados y su filiación](https://www.eldiario.es/economia/dedican-condenados-supremo-tarjetas-black_1_1905729.html)
+
+### Murcia: Pedro Antonio Sánchez dimite como presidente en 2017 y el Supremo confirma su condena por el auditorio de Puerto Lumbreras
+- Fecha: abr 2017 – sep 2026
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Sentencia firme
+- Resumen: El presidente de Murcia dimitió en abril de 2017, investigado por el auditorio de Puerto Lumbreras, cuando el PSOE iba a presentar una moción de censura con el apoyo de Ciudadanos. En marzo de 2023 la Audiencia de Murcia lo condenó y en septiembre de 2026 el Supremo desestimó su recurso: tres años de prisión, 17 años y tres meses de inhabilitación y 3.600 euros de multa por dos delitos de prevaricación.
+- Matiz: Sánchez justificó su dimisión en evitar un «tripartito» de PSOE, Podemos y Ciudadanos. Su defensa declinó comentar la sentencia del Supremo. Su imputación en el caso Púnica se archivó.
+- Fuentes:
+  - [Deia: el Supremo confirma la condena (sep 2026)](https://www.deia.eus/politica/2026/09/24/supremo-confirma-tres-anos-carcel-11580067.html)
+  - [ORM: la sentencia del Supremo (sep 2026)](https://www.orm.es/informativos/el-supremo-confirma-la-condena-de-3-anos-de-prision-a-pedro-antonio-sanchez-por-el-auditorio-de-puerto-lumbreras/)
+  - [infoLibre: la dimisión (abr 2017)](https://www.infolibre.es/noticias/politica/2017/04/04/pedro_antonio_sanchez_punica_mocion_censura_renuncia_dimision_murcia_pp_63385_1012.html)
+  - [Murcia Plaza: archivo de Púnica](https://murciaplaza.com/murciaplaza/el-caso-punica-ya-es-historia-para-pedro-antonio-sanchez-la-audiencia-archiva-las-acusaciones)
+
+### Caso Lezo: diez años después, empieza el juicio por la compra de Inassa por el Canal de Isabel II
+- Fecha: abr 2017 – oct 2026
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Investigación judicial
+- Resumen: La investigación sobre el Canal de Isabel II llevó en 2017 a la detención del expresidente madrileño Ignacio González. En septiembre de 2026 empezó en la Audiencia Nacional el primer juicio, por la compra en 2001 de la colombiana Inassa con un presunto sobreprecio de al menos 19 millones; la Fiscalía Anticorrupción pide entre 6 y 7 años para 22 acusados, entre ellos el exgerente del Canal Arturo Canalda. González, apartado de esta pieza en 2019, afronta otras: en la de Canal Golf la petición es de seis años.
+- Matiz: No hay sentencia: rige la presunción de inocencia. El caso Lezo está en el origen de la reprobación del fiscal Moix en 2017 (ficha aparte).
+- Fuentes:
+  - [Infobae (agencias): arranca el primer juicio (sep 2026)](https://www.infobae.com/espana/agencias/2026/09/06/arranca-el-primer-juicio-del-caso-lezo-sobre-el-canal-de-isabel-ii-diez-anos-despues/)
+  - [elDiario.es: la Audiencia Nacional empieza a juzgar el caso Lezo](https://www.eldiario.es/madrid/audiencia-nacional-comienza-juzgar-caso-lezo-canal-isabel-ii-diez-anos-despues_1_13491733.html)
+
+### Congreso: reprobados el ministro Catalá y los fiscales Maza y Moix; Moix dimite
+- Fecha: may – jun 2017
+- Partidos: PP
+- Categoría: Independencia de instituciones
+- Parlamento o territorio: Congreso
+- Nivel de prueba: Documentado en medios
+- Resumen: El Congreso reprobó al ministro de Justicia, Rafael Catalá, y pidió el cese del fiscal general, José Manuel Maza, y del fiscal jefe Anticorrupción, Manuel Moix, por 207 votos a 134, todos del PP. Se les reprochaba que Maza nombrara a Moix pese a conocer escuchas del caso Lezo en las que Ignacio González abogaba por colocarlo en ese puesto, y sus movimientos en ese caso. El 1 de junio Moix dimitió, tras conocerse que era copropietario de una sociedad en Panamá; llevaba 87 días en el cargo.
+- Matiz: Catalá respondió que solo el presidente del Gobierno nombra y cesa ministros: «Este es nuestro modelo democrático». Maza defendió que Moix no había cometido ninguna irregularidad.
+- Fuentes:
+  - [Público: la reprobación (may 2017)](https://publico.es/politica/congreso-reprueba-catala-fiscales-maza.html)
+  - [elDiario.es: los motivos de la reprobación](https://www.eldiario.es/politica/congreso-catala-injerencias-gobierno-pp_1_3397097.html)
+  - [elDiario.es (EFE): Moix dimite (jun 2017)](https://www.eldiario.es/politica/manuel-moix-presenta-fiscalia-anticorrupcion_1_3369270.html)
+
+### El TC anula la amnistía fiscal de 2012 y el Congreso reprueba a Montoro
+- Fecha: 2012 – jun 2017
+- Partidos: PP
+- Categoría: Incumplimiento de leyes y sentencias
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El TC declaró por unanimidad inconstitucional y nula la «regularización» fiscal aprobada por decreto-ley en 2012 (STC 73/2017, recurso del PSOE): dijo que supuso «la abdicación del Estado ante su obligación de hacer efectivo el deber de todos de concurrir al sostenimiento de los gastos públicos». No obstante, las regularizaciones ya firmes no se revisan. Ese mes el Congreso reprobó al ministro Cristóbal Montoro por 197 votos a 135, con la abstención del PNV.
+- Matiz: La nulidad se basa en que una materia que afecta al deber de contribuir no puede regularse por decreto-ley. Montoro defendió que no hubo «ninguna amnistía fiscal» ni «ninguna medida injusta»; la reprobación no obliga a dimitir.
+- Fuentes:
+  - [BOE: STC 73/2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-8345)
+  - [elDiario.es: el Congreso reprueba a Montoro (jun 2017)](https://www.eldiario.es/economia/montoro-reprobado-oposicion-amnistia-inconstitucional_1_3309480.html)
+
+### Senado y Congreso: el PP veta que sus dirigentes comparezcan en la comisión del Senado sobre financiación; PP y PSOE cierran la del Congreso sin citar a Rajoy
+- Fecha: 2017 – feb 2019
+- Partidos: PP, PSOE
+- Categoría: Control parlamentario
+- Parlamento o territorio: Senado
+- Nivel de prueba: Documentado en medios
+- Resumen: En 2017 el Congreso creó una comisión sobre la financiación ilegal del PP y el Senado, con mayoría absoluta del PP, otra sobre la financiación de todos los partidos. En la del Senado el PP vetó la comparecencia de sus dirigentes, alegando que era «absurdo duplicar las comparecencias», y PSOE, Podemos, Ciudadanos y ERC la abandonaron por considerarla una «pantomima». En febrero de 2019 PP y PSOE, con el presidente de la comisión, Pedro Quevedo, votaron cerrar la del Congreso sin citar a Rajoy; Unidos Podemos y Ciudadanos votaron en contra.
+- Matiz: El PP alegó que sus cargos ya declaraban en la comisión del Congreso. La comisión del Congreso se disolvió sin dictamen.
+- Fuentes:
+  - [elDiario.es: el PP veta comparecencias en el Senado (jun 2017)](https://www.eldiario.es/politica/pp-comparecencia-investigacion-financiacion-senado_1_3310810.html)
+  - [elDiario.es: cierre de la comisión del Congreso (feb 2019)](https://www.eldiario.es/politica/comision-financiacion-pp-congreso-comparecencia-rajoy-conclusiones_1_1703294.html)
+  - [Senado: Diario de Sesiones núm. 153 (jul 2017)](https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_C_12_153.PDF)
+
+### Asturias, caso Riopedre: condena firme al exconsejero de Educación del PSOE por corrupción en contratos
+- Fecha: sep 2017 – sep 2019
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Asturias
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia Provincial de Oviedo condenó en septiembre de 2017 a seis años de cárcel por prevaricación, fraude y cohecho a José Luis Iglesias Riopedre, exconsejero de Educación del Gobierno asturiano del PSOE, junto a su número dos, una funcionaria y dos empresarios. En septiembre de 2019 el Supremo rebajó su pena a cinco años y dos meses y consideró probado que «quedó sustancialmente corrompido» el procedimiento de adjudicación de contratos en cuatro consejerías.
+- Matiz: La causa duró seis años hasta la primera sentencia. Se conoce también como caso Renedo o caso Marea.
+- Fuentes:
+  - [elDiario.es: condena al exconsejero (sep 2017)](https://www.eldiario.es/politica/exconsejero-asturiano-psoe-condenado-prevaricacion_1_3215670.html)
+  - [COPE: el Supremo rebaja las condenas (sep 2019)](https://www.cope.es/emisoras/asturias/noticias/supremo-rebaja-las-condenas-por-caso-riopedre-excepcion-marta-renedo-20190913_497701)
+
+### Parlament de Catalunya: JxSí y la CUP aprueban las leyes del referéndum y de transitoriedad y el TC las anula por vulnerar los derechos de la oposición
+- Fecha: sep 2017 – mar 2019
+- Partidos: Junts, ERC, Otros
+- Categoría: Control parlamentario
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El 6 de septiembre de 2017 el Parlament aprobó la Ley del referéndum por 72 votos (JxSí, CUP y un diputado no adscrito) y 11 abstenciones, y en la madrugada del 8 la de transitoriedad por 71 votos a 10; Cs, PSC y PP abandonaron el salón. El TC anuló las dos leyes por unanimidad (STC 114/2017 y 124/2017) y dijo que la mayoría impuso «un atípico ‘procedimiento’» con «muy graves quiebras» que afectaron «a los derechos de las minorías». También amparó a los diputados del PSC (STC 10/2018 y 27/2018) y de Cs (STC 41/2019 y 42/2019), porque la Mesa les impidió pedir dictamen al Consell de Garanties Estatutàries pese a las advertencias del Secretario General y del Letrado Mayor.
+- Matiz: El Parlament no presentó alegaciones en los recursos de inconstitucionalidad. En los amparos sostuvo que pedir dictamen al Consell no forma parte del núcleo de los derechos de los diputados. JxSí agrupaba entonces a CDC (hoy Junts) y ERC.
+- Fuentes:
+  - [Parlament: aprobación de la Ley del referéndum (6 sep 2017)](https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270285302)
+  - [Parlament: aprobación de la Ley de transitoriedad](https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270285508)
+  - [BOE: STC 114/2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12206)
+  - [TC: STC 124/2017](https://hj.tribunalconstitucional.es/es/Resolucion/Show/25489)
+  - [TC: STC 10/2018](https://hj.tribunalconstitucional.es/es-ES/Resolucion/Show/25572)
+  - [BOE: STC 27/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-5054)
+  - [BOE: STC 41/2019](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-6197)
+
+### 1-O: el Consejo de Europa pide investigar las cargas policiales; 46 policías, amnistiados
+- Fecha: oct 2017 – oct 2026
+- Partidos: PP
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: El 4 de octubre de 2017 el Comisario de Derechos Humanos del Consejo de Europa pidió por carta al ministro del Interior, Juan Ignacio Zoido, investigaciones «swift, independent and effective» sobre las denuncias de uso desproporcionado de la fuerza en el referéndum del 1 de octubre. En julio de 2024 un juzgado de Barcelona amnistió a los 46 policías nacionales investigados por las cargas, a petición de la Fiscalía y de la Abogacía del Estado, y en febrero de 2025 la Audiencia de Barcelona lo confirmó: reconoce que en algunos casos la fuerza fue «excesiva o desproporcionada», pero que «las lesiones no fueron graves».
+- Matiz: Zoido respondió que las fuerzas de seguridad, siguiendo instrucciones judiciales, actuaron «with caution and proportionality». El juez consideró que las actuaciones fueron «de escasa duración individual» y no superaron el «umbral de gravedad». En octubre de 2026 se juzga a cuatro policías por la pérdida de un ojo de Roger Español; alegan que estaban en «peligro extremo» y la Fiscalía pide su absolución. No hay cifra oficial de heridos verificada.
+- Fuentes:
+  - [Síndic de Greuges: carta del Comisario de Derechos Humanos y respuesta de Zoido](https://www.sindic.cat/en/page.asp?id=53&ui=4753&prevNode=368)
+  - [El Español: el juez amnistía a 46 policías (jul 2024)](https://www.elespanol.com/espana/tribunales/20240702/juez-amnistia-policias-nacionales-investigados-cargas-barcelona/867413371_0.html)
+  - [Diario de León: la Audiencia confirma la amnistía (feb 2025)](https://www.diariodeleon.es/nacional/250214/1849142/confirmada-amnistia-46-policias-investigados-cargas-1.html)
+  - [Infobae (agencias): juicio por el caso de Roger Español (oct 2026)](https://www.infobae.com/espana/agencias/2026/10/01/los-policias-acusados-de-lesionar-a-roger-espanol-aducen-que-estaban-en-peligro-extremo/)
+
+### Parlament de Catalunya: el TC anula la declaración de independencia del 27 de octubre y ampara al PSC
+- Fecha: oct 2017 – abr 2018
+- Partidos: Junts, ERC, Otros
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El 27 de octubre de 2017 el Parlament aprobó en votación secreta, con los grupos Socialista, Popular y Ciudadanos ausentes del salón, las resoluciones «Declaración de los representantes de Cataluña» y «Proceso constituyente». El TC las anuló (ATC 144/2017) y pidió deducir testimonio contra la Mesa. En 2018 amparó al PSC y anuló los acuerdos de la Mesa que admitieron esas propuestas (STC 47/2018) y la comparecencia del president para valorar el resultado del referéndum (STC 46/2018).
+- Matiz: El letrado del Parlament alegó que el recurso de amparo no sirve para controlar si los actos de los poderes públicos se ajustan al ordenamiento.
+- Fuentes:
+  - [BOE: ATC 144/2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-13230)
+  - [BOE: STC 47/2018](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7143)
+  - [BOE: STC 46/2018](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-7142)
+
+### Senado: PP, PSOE y Cs aprueban el artículo 155 en Cataluña y el TC lo avala casi entero
+- Fecha: oct 2017 – jul 2019
+- Partidos: PP, PSOE, Cs
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: Senado
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El 27 de octubre de 2017 el Senado aprobó las medidas del Gobierno al amparo del artículo 155 por 214 votos a favor, 47 en contra y 1 abstención: a favor PP, PSOE, Ciudadanos, UPN, Foro, CC-AHI y ASG; en contra, entre otros, ERC, PNV, PDeCAT, Compromís y EH Bildu. El Gobierno cesó al president y a los consellers y convocó elecciones para el 21 de diciembre. El TC desestimó por unanimidad los recursos de Unidos Podemos y del Parlament (STC 89/2019 y 90/2019), salvo un punto: anuló que lo publicado sin autorización en los diarios oficiales catalanes quedara sin efecto.
+- Matiz: Es la primera aplicación del artículo 155. El TC consideró constitucionales los ceses y la disolución del Parlament.
+- Fuentes:
+  - [Senado: Diario de Sesiones del Pleno, núm. 45 (27 oct 2017)](https://www.senado.es/legis12/publicaciones/pdf/senado/ds/DS_P_12_45.PDF)
+  - [EITB: votación por partidos](https://orain.eus/es/politica/2017/10/27/el-senado-aprueba-aplicar-articulo-155-y-suspender-autonomia-de-cataluna/)
+  - [BOE: Real Decreto 946/2017, convocatoria de elecciones](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-12330)
+  - [BOE: STC 89/2019](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-11901)
+  - [BOE: STC 90/2019](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-11902)
+
+### Cortes de Castilla y León: el TC declara que la paralización de la comisión eólica vulneró los derechos de los procuradores del PSOE
+- Fecha: 2016 – ene 2019
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Castilla y León
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: La comisión de investigación sobre los parques eólicos, la Perla Negra y otros asuntos aprobó en febrero de 2016 su lista de comparecientes, pero en febrero de 2018 seguía sin calendario pese a los escritos del PSOE de diciembre de 2016 y de todo 2017. En diciembre de 2017 la Mesa de las Cortes les denegó el amparo. El TC lo anuló en 2019 (STC 12/2019): la comisión siguió «una dinámica que paraliza, perturba, obstruye o cuando menos dilata y demora su finalidad».
+- Matiz: El TC aclara que eso «no significa afirmar que exista intencionalidad lesiva». La Mesa alegó que la facultad de pedir la convocatoria «no está sujeta a plazo en el Reglamento». Según elDiario.es, la comisión la presidía el PP.
+- Fuentes:
+  - [Tribunal Constitucional: STC 12/2019](https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2019_005/2018-799STC.pdf)
+  - [elDiario.es: la investigación eólica](https://www.eldiario.es/castilla-y-leon/politica/silencios-ausencias-reproches-acaparan-segunda-investigacion-parlamentaria-corrupcion-eolica-castilla-leon_1_8147707.html)
 
 ### Caso Gürtel: el PP, condenado como partícipe a título lucrativo
 - Fecha: 24 may 2018
@@ -1004,9 +1251,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Documentado en medios
 - Resumen: El 27 de junio de 2024 las Corts aprobaron, con los votos de PP y Vox y en contra de PSPV y Compromís, la nueva ley de À Punt: siete de los ocho consejeros los eligen las Corts por tres quintos o, si no se alcanzan, por mayoría absoluta. El 19 de diciembre de 2024 las Corts eligieron en segunda votación, solo con los votos de PP y Vox, a cinco consejeros propuestos por el PP y dos por Vox. PSPV y Compromís no presentaron candidatos y votaron nulo.
-- Matiz: El PP presentó a sus candidatos como perfiles técnicos y justificó la prisa por el vacío que dejó la dimisión del director general, Alfred Costa. La oposición habló de «control político».
+- Matiz: El PP presentó a sus candidatos como perfiles técnicos y justificó la prisa por el vacío que dejó la dimisión del director general, Alfred Costa. La oposición habló de «control político». Para comparar: la ley de 2016 del Botànic exigía que Les Corts eligieran la presidencia de la corporación «por mayoría de dos tercios» en primera votación.
 - Fuentes:
   - [El Español: PP y Vox aprueban la ley (jun 2024)](https://www.elespanol.com/valencia/20240627/pp-vox-aprueban-primeras-leyes-conjuntas-libertad-educativa-punt-antifraude/866163631_0.html)
+  - [BOE: Ley 6/2016 de À Punt](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7691)
   - [elDiario.es: las Corts eligen a los candidatos de PP y Vox (dic 2024)](https://www.eldiario.es/comunitat-valenciana/politica/corts-eligen-siete-candidatos-pp-vox-consejo-administracion-punt_1_11914717.html)
 
 ### El TC anula en parte el protocolo canario que dejaba fuera de protección a menores rescatados en el mar
@@ -1168,6 +1416,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2025/05/29/el-parlamento-andaluz-rechaza-investigar-los-contratos-del-sas-con-los-votos-del-pp/)
   - [Teleprensa](https://www.teleprensa.com/articulo/sevilla/pp-rechaza-solitario-comision-investigacion-parlamento-contratos-sanitarios-que-pedia-psoe/202505291452312128965.html)
   - [elDiario.es: «la corrupción en Andalucía no existe»](https://www.eldiario.es/andalucia/pp-moreno-aisla-parlamento-causas-contratos-sanitarios-corrupcion-andalucia-no-existe_1_12339772.html)
+
+### Senado: el TC rechaza el conflicto del Gobierno de Sánchez contra el Senado por el veto a la derogación del impuesto de sucesiones
+- Fecha: 2024 – jun 2025
+- Partidos: PSOE, Sumar
+- Categoría: Control parlamentario
+- Parlamento o territorio: Senado
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: El Gobierno vetó la proposición de ley del Grupo Popular para derogar el impuesto de sucesiones alegando que reducía los ingresos; la Mesa del Senado, con mayoría del PP, la tomó en consideración igualmente y el Gobierno planteó un conflicto de atribuciones. El TC lo desestimó (STC 135/2025, de 11 de junio): el veto debe referirse al presupuesto en vigor.
+- Matiz: Es el mismo criterio que el TC aplicó en 2018 contra los vetos del Gobierno de Rajoy (ficha aparte).
+- Fuentes:
+  - [BOE: STC 135/2025](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14588)
 
 ### El TC anula parte de la ley antipandemia vasca por limitar derechos fundamentales sin ley orgánica
 - Fecha: jun 2021 – jun 2025
