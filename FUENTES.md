@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (157)
+## Fichas del registro (193)
 
 ### Congreso: el Gobierno en funciones se niega a ser controlado y el TC declara que vulneró las atribuciones del Congreso
 - Fecha: mar 2016 – nov 2018
@@ -69,6 +69,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Congreso: dictamen de la comisión (BOCG D-225)](https://www.congreso.es/public_oficiales/L12/CONG/BOCG/D/BOCG-12-D-225.PDF)
   - [Congreso: Diario de Sesiones del Pleno, núm. 76 (21 sep 2017)](https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-76.PDF)
   - [Segre: el Supremo archiva la querella (dic 2016)](https://www.segre.com/es/nacional-internacional/161216/el-supremo-archiva-querella-contra-fernandez-diaz-de-alfonso_8078.html)
+
+### Andalucía: 31.212 personas con derecho a la dependencia murieron sin tener aprobada su prestación
+- Fecha: dic 2016
+- Partidos: PSOE
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Organismo oficial
+- Resumen: Con datos del IMSERSO, el Defensor del Pueblo señaló que a diciembre de 2016 constaban en Andalucía 95.933 personas reconocidas como dependientes que llevaban más de seis meses sin su plan de atención aprobado, y que «han fallecido 31.212 sin tener reconocida su prestación». Recomendó abrir de oficio expedientes de responsabilidad patrimonial.
+- Matiz: Gobernaba el PSOE. Según el Defensor del Pueblo, la Junta respondió de forma favorable a sus recomendaciones.
+- Fuentes:
+  - [Defensor del Pueblo: resolución sobre la dependencia en Andalucía](https://www.defensordelpueblo.es/resoluciones/adoptar-medidas-para-no-retrasar-el-acceso-de-los-interesados-a-los-derechos-derivados-de-su-reconocimiento-como-personas-en-situacion-de-dependencia/)
 
 ### Gürtel-Fitur: condena firme de nueve años a la exconsejera valenciana de Turismo Milagrosa Martínez
 - Fecha: feb 2017 – may 2018
@@ -210,6 +221,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Español: el juez amnistía a 46 policías (jul 2024)](https://www.elespanol.com/espana/tribunales/20240702/juez-amnistia-policias-nacionales-investigados-cargas-barcelona/867413371_0.html)
   - [Diario de León: la Audiencia confirma la amnistía (feb 2025)](https://www.diariodeleon.es/nacional/250214/1849142/confirmada-amnistia-46-policias-investigados-cargas-1.html)
   - [Infobae (agencias): juicio por el caso de Roger Español (oct 2026)](https://www.infobae.com/espana/agencias/2026/10/01/los-policias-acusados-de-lesionar-a-roger-espanol-aducen-que-estaban-en-peligro-extremo/)
+
+### Bono social de Rajoy: el Supremo anula su financiación y el nuevo modelo pasa de 2,5 millones de beneficiarios a 650.000 solicitudes
+- Fecha: 2016 – feb 2022
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Sentencia firme
+- Resumen: El Gobierno de Rajoy reguló la financiación del bono social eléctrico por decreto-ley en 2016 y un nuevo modelo en 2017. En 2022 el Supremo anuló la financiación de 2016 por discriminar a unas empresas eléctricas frente a otras, contra el derecho europeo. Según la CNMC, a finales de julio de 2018 «solo 650.000 usuarios habían solicitado el nuevo bono social, frente los 2,5 millones de clientes que eran beneficiarios del antiguo».
+- Matiz: La anulación afecta a quién paga el bono, no al descuento de los consumidores, que siguió en vigor. La transición al nuevo modelo terminó ya con el Gobierno de Sánchez.
+- Fuentes:
+  - [Poder Judicial: el Supremo anula la financiación del bono social (feb 2022)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-anula-el-modelo-de-financiacion-del--bono-social--en-aplicacion-de-jurisprudencia-del-Tribunal-de-Justicia-europeo)
+  - [CNMC: solo 650.000 clientes en el nuevo bono social (sep 2018)](https://blog.cnmc.es/2018/09/10/solo-650-000-clientes-estan-apuntados-al-nuevo-bono-social-electrico-comprueba-aqui-si-puedes-solicitarlo/)
 
 ### Parlament de Catalunya: el TC anula la declaración de independencia del 27 de octubre y ampara al PSC
 - Fecha: oct 2017 – abr 2018
@@ -430,6 +452,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Poder Judicial: la Audiencia de Sevilla lleva el caso al TJUE (jul 2025)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE)
   - [Público: la Comisión Europea pide inadmitir la cuestión (abr 2026)](https://www.publico.es/politica/tribunales/comision-europea-rechaza-tjue-pronuncie-sobre-sentencias-caso-ere.html)
 
+### Madrid: los tribunales anulan en firme la venta de 2.935 viviendas protegidas del IVIMA a un fondo
+- Fecha: 2013 – 2021
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Sentencia firme
+- Resumen: En 2013 el Gobierno de Ignacio González vendió 2.935 viviendas del IVIMA, con sus garajes y trasteros, a Encasa Cibeles, sociedad de Azora y Goldman Sachs. Los tribunales anularon la venta de las 32 promociones y el Supremo confirmó la nulidad.
+- Matiz: La venta es anterior al periodo; la anulación firme es posterior. En 2021 el Supremo rechazó un desahucio instado por Encasa Cibeles contra una inquilina de una de esas viviendas.
+- Fuentes:
+  - [elDiario.es: el Supremo confirma la nulidad](https://www.eldiario.es/madrid/supremo-confirma-viviendas-comunidad-madrid_1_1032476.html)
+  - [Poder Judicial: el Supremo rechaza un desahucio de Encasa Cibeles (2021)](https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-Tribunal-Supremo-rechaza-el-desahucio-instado-por-Encasa-Cibeles-contra-la-arrendataria-de-una-vivienda-protegida-que-adquirio-al-IVIMA-)
+
 ### Murcia: la justicia suspende cautelarmente el «pin parental» que Vox exigió al Gobierno de PP y Cs
 - Fecha: 2019 – 2020
 - Partidos: PP, Vox
@@ -476,6 +510,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Público](https://www.publico.es/politica/psoe-tumba-comisiones-investigacion-sobre-ave-meca-cloacas-podemos.html)
   - [El Español](https://www.elespanol.com/espana/politica/20200902/psoe-peticion-pp-comision-investigacion-cuentas-podemos/517698729_0.html)
+
+### Aragón: los tribunales condenan al Gobierno por no dar EPI a los sanitarios de Teruel
+- Fecha: jun – sep 2020
+- Partidos: PSOE, Podemos/UP, Otros
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Aragón
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: Un juzgado de lo social de Teruel y después el TSJ de Aragón condenaron al Gobierno de Aragón y al Salud por no dotar de equipos de protección a los sanitarios al inicio de la pandemia. El TSJA escribió que la epidemia «puede ser inevitable –aunque fuera previsible-, pero no el cumplimiento de las medidas preventivas del riesgo laboral».
+- Matiz: Gobernaban PSOE, Podemos, CHA y PAR. No se ha confirmado si hubo recurso ante el Supremo.
+- Fuentes:
+  - [elDiario.es: la justicia confirma la condena (sep 2020)](https://www.eldiario.es/aragon/sociedad/justicia-confirma-sentencia-condenaba-gobierno-aragon-no-dotar-epi-sanitarios-teruel_1_6250811.html)
 
 ### Parlamento de Galicia: el PP rechaza en solitario investigar las muertes en residencias
 - Fecha: 22 sep 2020
@@ -525,6 +570,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/la-rioja/rechazada-la-comision-de-investigacion-sobre-las-residencias-de-mayores-planteada-por-el-pp_1_11156159.html)
   - [Parlamento de La Rioja: Diario de Sesiones P-D n.º 28 (30-9-2020)](https://www.parlamento-larioja.org/recursos-de-informacion/publicaciones-oficiales/diarios-de-sesiones/dspr-10-28)
 
+### El Supremo constata la falta de material de protección de los sanitarios al inicio de la pandemia
+- Fecha: oct 2020
+- Partidos: PSOE, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Sentencia firme
+- Resumen: Por un recurso del sindicato médico CESM, el Supremo constató la «falta inicial de medios de protección individual con el consiguiente riesgo para los derechos fundamentales de esos profesionales».
+- Matiz: La sentencia aclara que no supone «ningún juicio de culpabilidad ni imputación de responsabilidad» y atribuye la carencia al Sistema Nacional de Salud en su conjunto, formado por las comunidades y el Ministerio. Rechazó la reclamación por inactividad contra el Ministerio por un defecto de procedimiento.
+- Fuentes:
+  - [elDiario.es: la sentencia del Supremo (oct 2020)](https://www.eldiario.es/politica/supremo-constata-falta-proteccion-puso-riesgo-sanitarios-inicio-pandemia-rechaza-fuese-culpa-sanidad_1_6278055.html)
+
 ### Propuesta para renovar el CGPJ por mayoría absoluta, retirada tras advertencias de la UE
 - Fecha: oct 2020 – abr 2021
 - Partidos: PSOE, Podemos/UP
@@ -535,6 +590,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [El Español: el Gobierno promete a la UE retirarla](https://www.elespanol.com/espana/politica/20210420/gobierno-promete-ue-retirar-mayorias-renovar-cgpj/575193020_0.html)
   - [Newtral: la propuesta de PSOE y UP](https://www.newtral.es/cgpj-nombramientos-psoe-podemos-congreso/20201215/)
+
+### Comunitat Valenciana: los tribunales anulan la supresión de aulas concertadas de Bachillerato decidida por el Botànic
+- Fecha: may 2017 – oct 2020
+- Partidos: PSOE, Otros
+- Categoría: Incumplimiento de leyes y sentencias
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Sentencia firme
+- Resumen: La Conselleria de Educación suprimió unidades concertadas de Bachillerato. El TSJ de la Comunitat Valenciana anuló la decisión y el Supremo desestimó en octubre de 2020 el recurso de la Generalitat, que tuvo que devolver esas aulas.
+- Matiz: Gobernaba el Botànic (PSPV y Compromís), con la consejería de Educación en manos de Compromís. El secretario autonómico de Educación dijo que «los tribunales han dicho lo que han dicho».
+- Fuentes:
+  - [Valencia Plaza: cumplimiento de la sentencia](https://valenciaplaza.com/valenciaplaza/educacion-publica-una-resolucion-en-cumplimiento-de-la-sentencia-que-devuelve-aulas-concertadas-de-bachillerato)
 
 ### Parlamento Vasco: PNV y PSE eligen en solitario al director de EITB, exdirector de comunicación de Urkullu
 - Fecha: oct 2020
@@ -620,6 +686,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Naiz: PNV y PSE impiden la investigación](https://www.naiz.eus/eu/info/noticia/20210610/pnv-y-pse-impiden-que-el-parlamento-inste-a-investigar-el-cartel-de-las-consultoras)
   - [Crónica Vasca: Bilbao tampoco investiga](https://cronicavasca.elespanol.com/economia/20210611/bilbao-niega-investigar-cartel-consultoras-contratos-amanados/588191189_0.html)
+
+### Melilla: más de 150 menores sin escolarizar, según el Defensor del Pueblo y la ONU
+- Fecha: 2018 – 2022
+- Partidos: PP, PSOE, Podemos/UP
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Organismo oficial
+- Resumen: La educación en Melilla depende del Ministerio de Educación. El Defensor del Pueblo, que lo denunciaba desde 2018, recogió en 2021 que «se calcula que más de 150 menores siguen excluidos del sistema educativo público», según un dictamen del Comité de los Derechos del Niño de la ONU. En febrero de 2022 el Ministerio retiró el requisito de empadronamiento que impedía su escolarización.
+- Matiz: El problema empezó con el Gobierno de Rajoy y siguió con los de Sánchez hasta 2022.
+- Fuentes:
+  - [Defensor del Pueblo: escolarización de menores en Melilla (jun 2021)](https://www.defensordelpueblo.es/noticias/escolarizacion-menores-melilla/)
+  - [Público: Educación retira las medidas (feb 2022)](https://www.publico.es/sociedad/educacion-retira-medidas-sesgaban-acceso-escolarizacion-melilla.html)
 
 ### El PP reforma por lectura única la ley de Telemadrid y el TC declara que vulneró los derechos de la oposición
 - Fecha: 2021 · 2026
@@ -730,6 +807,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Dijeron compartir el objetivo pero no el mecanismo, y que un grupo de trabajo sería más rápido. En la legislatura anterior sí se había aprobado una comisión, que decayó con la disolución.
 - Fuentes:
   - [Ara](https://www.ara.cat/politica/jxcat-erc-psc-frenen-comissio-d-investigacio-parlament-residencies_1_4170288.html)
+
+### Cataluña: la Sindicatura señala 7,9 millones pagados de más por respiradores en los contratos covid
+- Fecha: 2020 – 2022
+- Partidos: Junts, ERC
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Organismo oficial
+- Resumen: La Sindicatura de Comptes revisó los contratos de emergencia de la Generalitat en la pandemia. En la compra de respiradores (expediente 69), adjudicada a «una empresa estrangera unipersonal que té un únic treballador, i el seu objecte social no inclou l'activitat objecte de contracte», un fallo informático hizo que se pagaran al proveedor, «incorrectament, els 7,91 M€» en lugar de compensarlos con el anticipo; a septiembre de 2021 no se habían recuperado.
+- Matiz: El Institut Català de la Salut alegó que el saldo pendiente correspondía a Tresoreria y que fue un problema técnico. En 2020 gobernaban Junts y ERC, con la consejería de Salud en manos de ERC.
+- Fuentes:
+  - [Sindicatura de Comptes: informe 32/2021](https://www.sindicatura.cat/documents/36414/85841/2021_32_ca.pdf)
+  - [elDiario.es: pagos indebidos y sobrecostes (feb 2022)](https://www.eldiario.es/catalunya/pagos-indebidos-sobrecostes-desorden-sindicatura-saca-colores-contratacion-covid-govern_1_8731398.html)
 
 ### Congreso: PSOE, PP y Vox vetan investigar la relación del CNI con los atentados del 17-A
 - Fecha: 25 ene 2022
@@ -857,6 +946,26 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [infoLibre: la ley sale con PSC, ERC, Junts y comuns](https://www.infolibre.es/politica/parlament-aprueba-votos-psc-erc-junts-comuns-ley-elude-25-castellano_1_1253073.html)
   - [El Español: el TSJC ve posible fraude de ley](https://www.elespanol.com/espana/tribunales/20220728/tsj-catalan-govern-bloquea-espanol-opinion-constitucional/691181140_0.html)
 
+### Tribunal de Cuentas: solicitantes de dependencia que murieron sin resolución, en mayor medida en Extremadura, Cataluña y Andalucía
+- Fecha: 2018 – jul 2022
+- Partidos: PSOE, Junts, ERC, PP, Otros
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: El Tribunal de Cuentas fiscalizó la dependencia en 2018. De los solicitantes que murieron cuando ya había vencido el plazo de seis meses para resolver, no tenían resuelta su prestación el 47% en Extremadura, el 35% en Cataluña, el 30% en Andalucía, el 21,1% en Castilla-La Mancha, el 12% en Baleares y el 1% en Cantabria. El plazo de seis meses solo se cumplía «en las Comunidades de Castilla y León, Madrid, Foral de Navarra y País Vasco».
+- Matiz: En 2018 gobernaban el PSOE en Andalucía, Extremadura y Castilla-La Mancha, PSOE y Més en Baleares, PRC y PSOE en Cantabria y Junts y ERC en Cataluña (tras el 155). El Tribunal atribuye parte de la demora a problemas técnicos y de organización, como la conexión con el sistema estatal.
+- Fuentes:
+  - [Tribunal de Cuentas: informe n.º 1.484 (jul 2022)](https://www.congreso.es/entradap/l14p/e22/e_0229019_n_000_m.pdf)
+
+### Tribunal de Cuentas: el Estado dejó de financiar parte de la dependencia y cargó el coste a las comunidades
+- Fecha: 2012 – 2021
+- Partidos: PP, PSOE
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: El Tribunal de Cuentas constata que desde 2012 se recortó un 13,24% la aportación del Estado al nivel mínimo de la dependencia y se suprimió, año tras año en los Presupuestos, la financiación del nivel acordado con las comunidades, lo que «ha provocado un desplazamiento de la carga financiera en el sostenimiento del sistema hacia las CCAA».
+- Matiz: Los recortes son del Gobierno de Rajoy. En 2019 y 2020, ya con Sánchez, siguieron prorrogados los Presupuestos de 2018; el nivel acordado volvió con los Presupuestos de 2021.
+- Fuentes:
+  - [Tribunal de Cuentas: informe n.º 1.484 (jul 2022)](https://www.congreso.es/entradap/l14p/e22/e_0229019_n_000_m.pdf)
+
 ### Cortes de Castilla y León: PP y Vox rechazan investigar las residencias
 - Fecha: 7 sep 2022
 - Partidos: PP, Vox
@@ -882,6 +991,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: noviembre](https://www.eldiario.es/politica/psoe-pp-tumban-peticion-comision-investigacion-tragedia-melilla_1_9723141.html)
   - [Público: septiembre](https://www.publico.es/politica/psoe-tumba-investigaciones-tragedia-melilla-cloacas-mediaticas-papeles-uber.html)
   - [Público: noviembre](https://www.publico.es/politica/pp-psoe-vetan-comision-investigacion-tragedia-melilla-diputados-hayan-visto-imagenes.html)
+
+### Tribunal de Cuentas: incidencias en los contratos covid de Castilla-La Mancha, Extremadura, La Rioja, Murcia y Cantabria
+- Fecha: 2020 – sep 2022
+- Partidos: PSOE, PP, Cs, Otros, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: En un mismo informe sobre los contratos de emergencia de 2020, el Tribunal de Cuentas señala que en Castilla-La Mancha varias adjudicatarias «pudieron haber actuado como meras intermediarias» y la Administración habría podido pagar menos contratando directamente; en Murcia, en tres contratos de diez con el mismo objeto «se produjo un incremento en el precio del objeto sin que conste ninguna justificación»; en Extremadura, devoluciones de material defectuoso sin que conste la reclamación de daños; y otras incidencias en La Rioja y Cantabria.
+- Matiz: En 2020 gobernaban el PSOE en Castilla-La Mancha y Extremadura, PSOE y Podemos en La Rioja, PRC y PSOE en Cantabria y PP y Cs en Murcia. El informe no siempre separa los contratos sanitarios del resto.
+- Fuentes:
+  - [Tribunal de Cuentas: informe n.º 1.488 (sep 2022)](https://www.congreso.es/docu/inf_fiscTC/LegXV/251-33.pdf)
 
 ### Ley del «solo sí es sí»: al menos 1.233 rebajas de pena y 126 excarcelaciones, según el CGPJ
 - Fecha: oct 2022 – nov 2023
@@ -982,6 +1101,26 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Alegaron los precedentes y el respeto a las competencias autonómicas: investigar a un gobierno autonómico corresponde a su parlamento.
 - Fuentes:
   - [Onda Vasca](https://www.ondavasca.com/psoe-y-pnv-frenan-en-el-senado-la-peticion-del-pp-de-crear-una-investigacion-parlamentaria-a-ximo-puig/)
+
+### Defensor del Pueblo: esperas de hasta tres años para valorar la discapacidad en varias comunidades
+- Fecha: 2022
+- Partidos: PSOE, PP, ERC, Junts, Otros
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: El informe de 2022 del Defensor del Pueblo recoge «plazos de espera de hasta dos y tres años en la Comunidad Autónoma de Canarias», catorce meses en Castilla-La Mancha, hasta tres años en Asturias y Extremadura, de uno a dos años en Andalucía y Madrid, en torno a un año en Cataluña y año y medio en Murcia para obtener la valoración de discapacidad.
+- Matiz: Se deduce de las quejas recibidas, no de una estadística. En 2022 gobernaba el PSOE (con socios) en Canarias, Castilla-La Mancha, Asturias y Extremadura; el PP en Andalucía, Madrid y Murcia; ERC y Junts en Cataluña hasta octubre.
+- Fuentes:
+  - [Defensor del Pueblo: anexo del informe anual de 2022](https://www.defensordelpueblo.es/wp-content/uploads/2023/03/13032023-Anexo_Informe_Anual_2022.pdf)
+
+### Defensor del Pueblo: dificultades generalizadas para conseguir cita en la Seguridad Social
+- Fecha: 2022 – 2023
+- Partidos: PSOE, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: El Defensor del Pueblo constató en 2022 que los ciudadanos «siguen encontrando importantes dificultades para obtener cita previa en la mayoría de provincias, por no estar disponibles, o por significativas demoras en su concesión».
+- Matiz: El Ministerio respondió con un plan de choque que incluía la incorporación de 1.600 empleados en el primer trimestre de 2023.
+- Fuentes:
+  - [Defensor del Pueblo: anexo del informe anual de 2022](https://www.defensordelpueblo.es/wp-content/uploads/2023/03/13032023-Anexo_Informe_Anual_2022.pdf)
 
 ### Congreso: PSOE, Unidas Podemos, ERC y Bildu frenan la comisión del PP sobre el caso Mediador
 - Fecha: mar – may 2023
@@ -1093,6 +1232,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [La Marea](https://www.lamarea.com/2023/12/07/los-contratos-a-dedo-de-vox-a-medios-ultras-desde-un-chiringuito-del-gobierno-de-castilla-y-leon/)
   - [Público: Diputación de Ciudad Real](https://www.publico.es/politica/pp-vox-cuelan-portal-negre-reparto-publicidad-institucional-medios-locales-regionales-ciudad-real.html)
+
+### Tribunal de Cuentas: incidencias en el 21% de los contratos covid del Ministerio de Sanidad
+- Fecha: 2020 – dic 2023
+- Partidos: PSOE, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: El Tribunal de Cuentas fiscalizó los contratos de emergencia del Ministerio de Sanidad en la pandemia (80 contratos, 512,9 millones). Concluye que «en la ejecución del 21% de los contratos fiscalizados del MISAN se han producido diversas incidencias e irregularidades por demora en el cumplimiento de la obligación o por defectuoso cumplimiento»; que hubo que reponer 27,1 millones de mascarillas de mala calidad, y que «en cinco de los contratos fiscalizados el objeto social de la empresa adjudicataria carecía de relación con el suministro que se le adjudicó».
+- Matiz: El Tribunal considera ajustado a derecho el uso de la emergencia salvo en una pequeña parte de los contratos. El Ministerio no aplicó penalidades porque consideró que el colapso del mercado mundial no era imputable a los proveedores.
+- Fuentes:
+  - [Tribunal de Cuentas: informe n.º 1.542 (dic 2023)](https://www.congreso.es/entradap/l15p/e0/e_0007524_n_000_m.pdf)
 
 ### Madrid, la que menos gasta por alumno, da ayudas para estudiar en colegios privados a rentas altas
 - Fecha: 2019 – 2026
@@ -1245,6 +1394,28 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 6/2016 de À Punt](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7691)
   - [elDiario.es: las Corts eligen a los candidatos de PP y Vox (dic 2024)](https://www.eldiario.es/comunitat-valenciana/politica/corts-eligen-siete-candidatos-pp-vox-consejo-administracion-punt_1_11914717.html)
 
+### Tribunal de Cuentas: el Plan Estatal de Vivienda 2018-2021 no tenía objetivos cuantificados
+- Fecha: 2018 – mar 2025
+- Partidos: PP, PSOE, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: El Tribunal de Cuentas concluye que «los objetivos definidos en el Plan Estatal de Vivienda 2018-2021 no estaban cuantificados, lo que ha impedido conocer en qué grado se ha avanzado hacia su consecución», que el Ministerio «ha dado prioridad al seguimiento de la ejecución presupuestaria sobre el seguimiento del cumplimiento de los objetivos» y que los porcentajes de reparto entre comunidades se aplican «ininterrumpidamente, desde 1992» sin documento que los justifique.
+- Matiz: El plan lo aprobó el Gobierno de Rajoy en marzo de 2018 y lo ejecutaron los Gobiernos de Sánchez. El Congreso y el Senado asumieron el informe en 2025.
+- Fuentes:
+  - [Tribunal de Cuentas: informe n.º 1.574 (jul 2024)](https://www.congreso.es/entradap/l15p/e3/e_0034843_n_000_m.pdf)
+  - [BOE: resolución de la Comisión Mixta (mar 2025)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-6460)
+
+### Murcia: el Tribunal de Cuentas señala 23 millones adjudicados por La Arrixaca a la privada al margen de la Ley de Contratos
+- Fecha: 2022 – jul 2024
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Organismo oficial
+- Resumen: Según el informe del Tribunal de Cuentas sobre la Cuenta General de Murcia de 2022, el hospital La Arrixaca destinó 30,7 millones a medios ajenos, de los que 23 millones se habrían adjudicado al margen de la Ley de Contratos del Sector Público.
+- Matiz: La Consejería de Salud sostiene que «todas las actuaciones se desarrollan al amparo de la legislación» y que Murcia destina a la concertada el 5,5% de su presupuesto sanitario, frente a una media del 8,8%.
+- Fuentes:
+  - [elDiario.es: el Tribunal de Cuentas detecta derivaciones irregulares (jul 2024)](https://www.eldiario.es/murcia/sociedad/tribunal-cuentas-detecta-derivaciones-irregulares-sanidad-privada-region-murcia_1_11559715.html)
+
 ### El TC anula en parte el protocolo canario que dejaba fuera de protección a menores rescatados en el mar
 - Fecha: sep 2024 – feb 2025
 - Partidos: CC, PP
@@ -1256,6 +1427,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [BOE: STC 43/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5740)
   - [Diario de Avisos: el Supremo y los mil menores solicitantes de asilo (may 2025)](https://diariodeavisos.elespanol.com/2025/05/el-supremo-cita-al-gobierno-para-explicar-como-acogera-los-1-000-menores-solicitantes-de-asilo-que-estan-en-canarias/)
+
+### Andalucía: la Cámara de Cuentas ve injustificables 2.159 contratos covid de emergencia en 2021 y un juzgado investiga 243 millones
+- Fecha: 2021 – 2024
+- Partidos: PP, Cs
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Investigación judicial
+- Resumen: La Cámara de Cuentas concluyó que los 2.159 contratos de emergencia covid de 2021, por unos 397 millones, suponen un volumen que «se considera elevado y no resulta conciliable con la evolución dinámica y progresiva de la pandemia en dicho ejercicio». El Juzgado de Instrucción n.º 13 de Sevilla admitió la denuncia del PSOE andaluz e investiga si hubo prevaricación y malversación en 243 millones adjudicados a clínicas privadas con una norma ya derogada.
+- Matiz: La causa está en investigación: rige la presunción de inocencia. Cs formaba parte del Gobierno en 2021. No se ha localizado en una fuente verificada la respuesta de la Junta al informe.
+- Fuentes:
+  - [elDiario.es: el informe de la Cámara de Cuentas](https://www.eldiario.es/andalucia/camara-cuentas-alerto-gobierno-andaluz-abuso-contratos-dedo-2021-valiendose-leyes-derogadas_1_11655608.html)
+  - [BOJA n.º 171 (3 sep 2024): informe de la Cámara de Cuentas](https://www.juntadeandalucia.es/boja/2024/171/13)
+  - [elDiario.es: el juzgado abre investigación](https://www.eldiario.es/andalucia/justicia-abre-investigacion-gobierno-moreno-adjudicar-dedo-243-millones-clinicas-privadas-ley-derogada_1_11702608.html)
+  - [Infobae: 300 millones adjudicados a dedo (sep 2024)](https://www.infobae.com/espana/2024/09/10/el-sistema-andaluz-de-salud-adjudico-300-millones-a-dedo-un-ano-despues-de-la-pandemia/)
 
 ### Parlamento de Galicia: el PP frena y luego cierra en exprés la investigación sobre contratos de la Xunta
 - Fecha: sep 2024 – ene 2025
@@ -1299,6 +1484,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [infoLibre: el PP elige a sus consejeros en el Senado](https://www.infolibre.es/medios/senado-elige-cuatro-consejeros-propuestos-pp-culmina-renovacion-rtve_1_1902798.html)
   - [Infobae: José Pablo López, presidente (nov 2024)](https://www.infobae.com/espana/2024/11/28/jose-pablo-lopez-nuevo-presidente-de-rtve-el-congreso-respalda-la-eleccion-del-exdirectivo-cesado-por-elena-sanchez/)
 
+### Canarias: 4 millones pagados por mascarillas que nunca llegaron; el informe se rechazó en 2022 con los votos de PSOE y NC
+- Fecha: 2020 – nov 2024
+- Partidos: PSOE, Otros, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Organismo oficial
+- Resumen: En 2020 el Servicio Canario de Salud pagó 4 millones a la empresa RR7 por un millón de mascarillas que no se entregaron. La Audiencia de Cuentas de Canarias aprecia indicios de responsabilidad contable; su presidente dijo: «El perjuicio está claro, toda vez que se pagaron 4 millones de euros y no se sirvió nada en el contrato». En mayo de 2022 el pleno de la Audiencia rechazó el informe con los votos en contra de los consejeros propuestos por PSOE y Nueva Canarias; en noviembre de 2024, tras el cambio de Gobierno, se aprobó con los votos de los propuestos por CC y PP.
+- Matiz: En 2020 gobernaban PSOE, NC, Podemos y ASG. El PSOE criticó el informe aprobado en 2024; el presidente de la Audiencia negó injerencias del Gobierno canario.
+- Fuentes:
+  - [Canarias7: la Audiencia de Cuentas aprueba el informe (nov 2024)](https://www.canarias7.es/canarias/audiencia-cuentas-aprueba-informe-alerto-responsabilidad-contable-20241111190041-nt.html)
+  - [elDiario.es: la Audiencia niega injerencias en el caso RR7](https://www.eldiario.es/canariasahora/politica/caso-mascarillas-audiencia-cuentas-niega-injerencias-gobierno-canario-contrato-rr7_1_12105060.html)
+
 ### Asamblea de Madrid: el PP investiga a Begoña Gómez pero veta investigar los contratos del novio de Ayuso
 - Fecha: 2023 – 2024
 - Partidos: PP
@@ -1336,6 +1533,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Ministerio de Sanidad: peso de los conciertos](https://www.sanidad.gob.es/estadEstudios/sanidadDatos/tablas/tabla31.htm)
   - [Redacción Médica: listas de espera](https://www.redaccionmedica.com/politica/ministerio-sanidad/20260415/la-espera-quirurgica-de-deja-notables-diferencias-por-regiones/272056_0.html)
 
+### Cataluña: la vivienda pública de la Generalitat cubre el 4% de las solicitudes, según la Sindicatura
+- Fecha: 2021 – 2022
+- Partidos: ERC, Junts
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Organismo oficial
+- Resumen: La Sindicatura de Comptes concluye que en 2021 y 2022 las adjudicaciones de vivienda protegida, unas 3.450 al año, solo pudieron «cobrir un 4% anual de les sol·licituds inscrites»; el parque de la Agència de l'Habitatge respondió al 0,32% de ellas. La Agència no tiene el contrato programa que exige la ley.
+- Matiz: La propia Sindicatura considera satisfactoria la ocupación del parque. Gobernaban ERC y Junts hasta octubre de 2022 y ERC en solitario después.
+- Fuentes:
+  - [Sindicatura de Comptes: informe 30/2024](https://www.sindicatura.cat/documents/36414/85841/2024_30_ca.pdf)
+
 ### Senado: el PP impone su lista de comparecientes en la comisión de la DANA
 - Fecha: feb 2025
 - Partidos: PP
@@ -1350,6 +1558,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Infobae (Europa Press): el PP cita a Sánchez y Mazón (feb 2025)](https://www.infobae.com/espana/2025/02/17/el-pp-cita-a-pedro-sanchez-y-carlos-mazon-en-la-comision-de-investigacion-del-senado-sobre-la-dana/)
   - [elDiario.es: el PP citará a Pradas en Les Corts (feb 2025)](https://www.eldiario.es/comunitat-valenciana/pp-descartar-comparecencia-pradas-senado-si-citara-comision-dana-corts-mazon-sanchez_1_12089871.html)
   - [elDiario.es: PP y Vox piden cerrar la comisión sin Pradas (may 2026)](https://www.eldiario.es/comunitat-valenciana/valencia/pp-vox-piden-dar-carptezazo-comision-investigacion-dana-les-corts-declare-pradas_1_13193606.html)
+
+### Cañada Real: seis años sin luz y condena del Comité Europeo de Derechos Sociales
+- Fecha: 2020 – oct 2026
+- Partidos: PSOE, Sumar, PP
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Organismo oficial
+- Resumen: Unas 4.500 personas, entre ellas 1.800 niños, viven sin suministro eléctrico en la Cañada Real (Madrid), con cortes que empezaron en octubre de 2020. El Comité Europeo de Derechos Sociales del Consejo de Europa condenó a España por vulnerar varios derechos de la Carta Social Europea: un domicilio sin luz no puede considerarse una vivienda digna.
+- Matiz: La condena es a España como Estado, pero intervienen el Gobierno central (PSOE con Unidas Podemos y luego con Sumar), la Comunidad de Madrid y el Ayuntamiento de Madrid (PP). Es una condena simbólica, sin sanciones.
+- Fuentes:
+  - [Público: el Consejo de Europa condena a España (feb 2025)](https://www.publico.es/sociedad/gente/consejo-europa-condena-espana-canada-real-cuatro-anos-luz.html)
+  - [elDiario.es: un año después, sin luz](https://www.eldiario.es/madrid/somos/espana-ano-viola-tratado-europeo-luz-canada-real-juegan-hacerse-sordos_1_13016124.html)
 
 ### Ayuntamiento de València: Anticorrupción investiga una veintena de contratos del concejal de Vox Juanma Badenas
 - Fecha: 2025 – 2026
@@ -1378,6 +1598,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Correo Gallego: Concha Pombo, elegida en tercera votación (jul 2025)](https://www.elcorreogallego.es/galicia/2025/07/08/concha-pombo-elegida-nueva-directora-119478216.html)
   - [elDiario.es: a la tercera bastará la mayoría absoluta](https://www.eldiario.es/galicia/pp-quema-etapas-relevo-frente-tvg-tercera-le-bastara-mayoria-absoluta_1_12371086.html)
 
+### Comunitat Valenciana: el Síndic de Greuges alerta de un aumento «descomunal» de las quejas por dependencia
+- Fecha: 2024 – mar 2025
+- Partidos: PP, Vox
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Organismo oficial
+- Resumen: En su informe de 2024 el Síndic de Greuges alertó de un aumento «descomunal» de las quejas en servicios sociales, en las que la dependencia supone la mitad.
+- Matiz: La vicepresidenta Susana Camarero atribuyó las quejas a los «últimos coletazos de la gestión del Botánico» y destacó un récord de personas atendidas. Vox formó parte del Consell hasta julio de 2024.
+- Fuentes:
+  - [elDiario.es: el Síndic alerta del aumento de las quejas (mar 2025)](https://www.eldiario.es/comunitat-valenciana/defensor-pueblo-valenciano-alerta-descomunal-aumento-quejas-dependencia-copan-50-total_1_12162327.html)
+
 ### Vox se financia con un banco húngaro ligado al Gobierno de Orbán que el Tribunal de Cuentas no pudo verificar
 - Fecha: 2023 – 2025
 - Partidos: Vox
@@ -1391,6 +1622,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: Anticorrupción archiva (jun 2025)](https://www.eldiario.es/politica/anticorrupcion-archiva-investigacion-vox-financiacion-irregular-sancion-tribunal-cuentas_1_12389832.html)
   - [Infobae: el Supremo anula la multa de 233.324 euros](https://www.infobae.com/espana/2025/10/15/el-supremo-anula-la-multa-de-233000-euros-impuesta-a-vox-por-el-tribunal-de-cuentas-entiende-que-las-donaciones-que-recibio-el-partido-fueron-legales-y-transparentes/)
   - [elDiario.es: el Supremo anula la multa de 862.496 euros](https://www.eldiario.es/politica/supremo-anula-multa-862-000-euros-tribunal-cuentas-vox_1_13278602.html)
+
+### Cataluña: la Sindicatura considera nulas las prórrogas con las que se pagó la hospitalización concertada en 2022
+- Fecha: 2022 – abr 2025
+- Partidos: ERC, Junts
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Organismo oficial
+- Resumen: Según la Sindicatura de Comptes, la financiación de la hospitalización de agudos en centros concertados en 2022 se articuló de forma extemporánea mediante prórrogas que convierten esos actos en «actes nuls de ple dret»; la asignación de parte del pago tiene elementos de discrecionalidad y los servicios podrían haberse comprado más baratos.
+- Matiz: En 2022 gobernaban ERC y Junts hasta octubre y ERC en solitario después. El sistema de conciertos sanitarios en Cataluña viene de décadas atrás.
+- Fuentes:
+  - [Sindicatura de Comptes: informe 5/2025](https://www.sindicatura.cat/documents/36414/85841/2025_05_ca.pdf)
+  - [Social.cat: ilegalidades graves en la financiación de hospitales concertados](https://www.social.cat/noticia/23162/sindicatura-comptes-veu-illegalitats-greus-financament-hospitals-concertats)
 
 ### Parlamento de Andalucía: el PP rechaza investigar los contratos de emergencia del SAS
 - Fecha: 29 may 2025
@@ -1428,6 +1671,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: STC 133/2025](https://www.boe.es/buscar/doc.php?id=BOE-A-2025-14586)
   - [Orain (EITB): el Parlamento Vasco aprueba la ley (jun 2021)](https://orain.eus/es/politica/2021/06/24/el-parlamento-vasco-aprueba-ley-antipandemia/)
   - [elDiario.es: el TC anula las restricciones (jun 2025)](https://www.eldiario.es/euskadi/constitucional-anula-restricciones-disenadas-gobierno-urkullu-ley-antipandemia-2021_1_12382681.html)
+
+### Andalucía: la Cámara de Cuentas concluye que la gestión del Bono Alquiler Joven «no se ha demostrado eficaz»
+- Fecha: 2022 – jun 2025
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Organismo oficial
+- Resumen: La Cámara de Cuentas fiscalizó la convocatoria de 2022 del Bono Alquiler Joven: el plazo medio de resolución fue de 11,6 meses, frente a un máximo de seis; a marzo de 2024 se había resuelto el 51,3% de las 17.288 solicitudes y reconocido el 36% de los 68,4 millones.
+- Matiz: El bono es estatal y lo gestionan las comunidades.
+- Fuentes:
+  - [El Español: el informe de la Cámara de Cuentas (jun 2025)](https://www.elespanol.com/invertia/economia/20250613/camara-cuentas-echa-tierra-gestion-bono-alquiler-joven-andalucia-lenta-limitada-resolucion/1003743803091_0.html)
 
 ### Congreso: la comisión del caso Koldo que registró el PSOE nunca llegó a debatirse
 - Fecha: jun 2025 – oct 2026
@@ -1467,6 +1721,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [La Voz del Sur: la lista aprobada y la abstención ante Vox](https://www.lavozdelsur.es/actualidad/politica/senado-amplia-comparecencias-caso-koldo-con-nuevos-nombres-vinculados-psoe-andaluz_336802_102.html)
   - [Infobae (Europa Press): el PP incluye a Zapatero (dic 2025)](https://www.infobae.com/espana/agencias/2025/12/30/el-pp-convoca-hoy-a-la-comision-koldo-del-senado-para-incluir-a-zapatero-en-el-listado-de-comparecientes/)
 
+### Ingreso mínimo vital: el retraso es la primera queja ante el Defensor del Pueblo y más de la mitad de quien tiene derecho no lo pide
+- Fecha: 2023 – jul 2025
+- Partidos: PSOE, Sumar
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: El Defensor del Pueblo informó de que en 2023 «la demora del Instituto Nacional de la Seguridad Social en resolver los expedientes relacionados con el ingreso mínimo vital ha sido el motivo más frecuente de queja», con cerca de 1.000 quejas. En 2025 la AIReF estimó que no solicitan la ayuda el 55% de los hogares con derecho al IMV y el 72% de los que tienen derecho al complemento por infancia.
+- Matiz: La AIReF señala también una elevada complejidad administrativa y revisiones frecuentes. El IMV se creó en 2020 (ver la votación en la pestaña «Qué votó cada partido»).
+- Fuentes:
+  - [Infobae (EFE): el Defensor del Pueblo y las quejas por el IMV (mar 2024)](https://www.infobae.com/espana/agencias/2024/03/22/el-defensor-del-pueblo-dice-que-quejas-por-imv-van-en-aumento-y-pide-cambios-organizativos/)
+  - [El Independiente (Europa Press): la opinión de la AIReF (jul 2025)](https://www.elindependiente.com/economia/2025/07/09/airef-concluye-cobrar-ingreso-minimo-vital-reduce-12-probabilidades-trabajar/)
+
 ### Caso Montoro: investigación por presuntos favores fiscales a empresas desde Hacienda
 - Fecha: 2018 – 2026
 - Partidos: PP
@@ -1490,6 +1755,28 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/madrid/somos/ayuso-defiende-chalet-compro-gobierno-sierra-asegura-paso-dias-tupper-casa_1_12479767.html)
   - [Infobae: la finca y su compra (jul 2025)](https://www.infobae.com/espana/2025/07/18/el-chalet-de-la-comunidad-de-madrid-en-el-que-isabel-diaz-ayuso-paso-el-fin-de-semana-finca-de-453-hectareas-y-expropiedad-del-dueno-de-cortefiel/)
+
+### BOSCO: el Supremo obliga al Gobierno a dar el código del programa que decide el bono social y meses después no lo ha entregado
+- Fecha: 2018 – may 2026
+- Partidos: PSOE, Sumar
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Sentencia firme
+- Resumen: La fundación Civio pidió el código de BOSCO, la aplicación del Ministerio para la Transición Ecológica que decide quién tiene derecho al bono social eléctrico. El Gobierno se negó y en septiembre de 2025 el Supremo le condenó a darlo: el acceso a la información «adquiere especial relevancia ante los riesgos que entraña el uso de las nuevas tecnologías» en el ejercicio del poder público. En mayo de 2026 Civio denunció que ocho meses después «aún no lo tenemos».
+- Matiz: El Ministerio para la Transición Ecológica existe desde junio de 2018, con los Gobiernos de Sánchez.
+- Fuentes:
+  - [Poder Judicial: el Supremo condena a la Administración a facilitar el código (sep 2025)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-condena-a-la-Administracion-a-facilitar-a-una-Fundacion-Ciudadana-el-codigo-fuente-de-la-aplicacion-informatica-que-acredita-a-los-beneficiarios-del-bono-social-electrico)
+  - [Civio: ocho meses sin el código (may 2026)](https://civio.es/novedades/2026/05/14/ocho-meses-desde-la-sentencia-de-bosco-y-seguimos-sin-tener-acceso-al-codigo/)
+
+### Cataluña: la Sindicatura señala incumplimientos en el programa de digitalización educativa de 150 millones
+- Fecha: 2021 – sep 2025
+- Partidos: ERC
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Organismo oficial
+- Resumen: En el programa de digitalización de las escuelas con fondos europeos (149,96 millones), dos expedientes «es van tramitar de forma urgent sense que, a parer de la Sindicatura, quedessin suficientment justificats els motius de la urgència», y se superó el plazo legal entre el suministro y su aceptación, «el que suposa un incompliment de la Llei de contractes del sector públic».
+- Matiz: La propia Sindicatura dice que la gestión del programa se ajustó en general a la normativa. Gobernaba ERC, con Junts hasta octubre de 2022.
+- Fuentes:
+  - [Sindicatura de Comptes: nota del informe 13/2025](https://www.sindicatura.cat/documents/36414/85847/NR_2025_13_ca.pdf/c17b2b5d-a2d3-9906-6fd1-5d12e5016c3c?version=1.0&t=1761116086009)
 
 ### Congreso: el PSOE paraliza la comisión de la DANA para evitar citar a Sánchez
 - Fecha: jun – oct 2025
@@ -1516,6 +1803,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Público](https://www.publico.es/politica/pp-rechaza-parlamento-galicia-investigue-gestion-rueda-fuegos-pasado-verano.html)
   - [El Progreso (Europa Press)](https://www.elprogreso.es/articulo/galicia/pp-veta-parlamento-gallego-investigar-ola-incendios-mas-100000-hectareas/202509231319101909855.html)
+
+### País Vasco: el Tribunal Vasco de Cuentas señala que Osakidetza fracciona compras para no sacarlas a concurso
+- Fecha: 2021 – 2025
+- Partidos: PNV, PSOE
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: País Vasco
+- Nivel de prueba: Organismo oficial
+- Resumen: En su fiscalización de Osakidetza de 2023, el Tribunal Vasco de Cuentas Públicas concluye que se tramitaron como contratos menores, fraccionando el objeto, compras que requerían procedimiento abierto: medicamentos por 27,7 millones, otros suministros por 73 millones e inversiones por 1,2 millones. Es una deficiencia que repite en sus informes de años anteriores.
+- Matiz: Osakidetza alegó que casi el 70% son medicamentos «de comercialización exclusiva y/o de naturaleza biológica», con un único proveedor posible.
+- Fuentes:
+  - [Tribunal Vasco de Cuentas Públicas: Osakidetza 2023](https://hkee-tvcp.eus/wp-content/uploads/Osakidetza-2023.pdf)
+  - [elDiario.es: deficiencias continuadas en la contratación (sep 2025)](https://www.eldiario.es/euskadi/tribunal-cuentas-vasco-senala-osakidetza-deficiencias-continuadas-contratacion-farmacos-obras_1_12625702.html)
+
+### Andalucía: un fallo en los cribados de cáncer de mama afecta al menos a 2.000 mujeres y dimite la consejera de Salud
+- Fecha: oct 2025
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Documentado en medios
+- Resumen: La Junta reconoció un fallo por el que al menos 2.000 mujeres con mamografías no concluyentes no recibieron a tiempo la comunicación de su resultado. La consejera de Salud, Rocío Hernández, dimitió el 8 de octubre de 2025.
+- Matiz: La Junta lo atribuyó a un fallo en la comunicación de los resultados.
+- Fuentes:
+  - [Infobae: al menos 2.000 mujeres afectadas (oct 2025)](https://www.infobae.com/espana/2025/10/02/al-menos-2000-mujeres-afectadas-por-un-fallo-en-el-cribado-del-cancer-de-mama-en-andalucia/)
+  - [RTVC (EFE): dimite la consejera (oct 2025)](https://rtvc.es/consejera-salud-andalucia-cribado-cancer-de-mama-8-octubre-2025/)
 
 ### Madrid se niega a crear el registro de objetores al aborto que exige la ley
 - Fecha: oct 2025 – hoy
@@ -1630,6 +1941,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Infobae (Europa Press): el Parlamento canario rechaza que Torres comparezca](https://www.infobae.com/espana/agencias/2025/12/15/el-parlamento-canario-rechaza-que-torres-comparezca-en-la-comision-de-las-mascarillas/)
 
+### Comunitat Valenciana: el Tribunal de Cuentas investiga pagos dobles por pacientes oncológicos de hospitales privatizados
+- Fecha: 2013 – dic 2025
+- Partidos: PP, PSOE, Otros
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Organismo oficial
+- Resumen: Tras un informe de la Sindicatura de Comptes, el Tribunal de Cuentas abrió diligencias preprocesales por los tratamientos que la Generalitat pagó a la Fundación IVO entre 2013 y 2023 por pacientes de departamentos de salud gestionados por concesionarias privadas, que ya estaban cubiertos por lo que cobraban esas empresas. En 2025 Sanidad reclamó 45,4 millones a las concesionarias.
+- Matiz: El periodo abarca gobiernos del PP hasta 2015, del Botànic (PSPV y Compromís) de 2015 a 2023 y del PP después. Las empresas han recurrido la reclamación.
+- Fuentes:
+  - [elDiario.es: el Tribunal de Cuentas investiga el cobro indebido (dic 2025)](https://www.eldiario.es/comunitat-valenciana/tribunal-cuentas-investiga-cobro-indebido-ribera-salud-sanitas-pacientes-oncologicos-valencianos_1_12864049.html)
+
 ### El bulo de la cuenta de Pablo Iglesias en Granadinas y la 'brigada política' de Interior
 - Fecha: 2016 · 2022 · 2025
 - Partidos: PP
@@ -1669,6 +1991,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [CTXT: el reparto de 2025](https://ctxt.es/es/20260901/Politica/55209/Diego-Delgado-Ayuso-CAM-Madrid-medios-pseudomedios-EDATV-OKdiario.htm)
   - [El Salto: la publicidad del Canal de Isabel II](https://www.elsaltodiario.com/medios/asi-ha-regado-ayuso-publicidad-canal-de-isabel-ii-medios-afinidad)
 
+### Baleares: la Sindicatura reprocha la «inacción» del Pacte ante 3,7 millones en mascarillas defectuosas
+- Fecha: 2020 – ene 2026
+- Partidos: PSOE, Podemos/UP, Otros
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Baleares
+- Nivel de prueba: Organismo oficial
+- Resumen: La Sindicatura de Comptes reprocha la «inacción» de los responsables del Servicio de Salud entre 2020 y 2023 ante mascarillas compradas en la pandemia que no cumplían los requisitos. El Govern actual exige a la empresa que devuelva 3,7 millones.
+- Matiz: Gobernaba el Pacte (PSIB, Unidas Podemos y Més) hasta julio de 2023.
+- Fuentes:
+  - [Última Hora: la Sindicatura reprocha al Pacte su inacción (ene 2026)](https://www.ultimahora.es/noticias/local/2026/01/11/2546489/sindicatura-reprocha-pacte-inaccion-ante-mascarillas-defectuosas.html)
+
 ### RTVE: el Consejo de Informativos denuncia sesgo a favor del Gobierno en «Mañaneros 360» y «Malas lenguas»
 - Fecha: ene – feb 2026
 - Partidos: PSOE
@@ -1693,6 +2026,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: 574 millones sin contrato válido (ene 2026)](https://www.eldiario.es/canariasahora/sociedad/servicio-canario-salud-convierte-excepcion-norma-paga-574-millones-contratos-validos-125-conciertos_1_12915256.html)
   - [AtlánticoHoy: la Audiencia de Cuentas y los 547 millones de 2023 (ene 2025)](https://www.atlanticohoy.com/sociedad/audiencia-cuentas-pega-tiron-orejas-servicio-canario-salud_1541123_102.html)
   - [elDiario.es: el Consejo Consultivo (jun 2025)](https://www.eldiario.es/canariasahora/canarias-consejo-consultivo-pagos-clinicas-privadas-fraude-abuso-contratos-expedientes-nulidad-conciertos-concurso_1_12356954.html)
+
+### Comunitat Valenciana: 40.998 demandantes de vivienda protegida para un parque público de unas 14.000
+- Fecha: 2023 – 2024
+- Partidos: PP, Vox, PSOE, Otros
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Organismo oficial
+- Resumen: Según la Sindicatura de Comptes, a final de 2024 había 40.998 unidades de convivencia demandantes de vivienda protegida, un 186% más que al inicio del periodo, para un parque autonómico que «apenas roza las 14.000 unidades».
+- Matiz: El periodo abarca el final del Botànic (hasta julio de 2023), el Gobierno de PP y Vox (hasta julio de 2024) y el del PP. La vicepresidenta Susana Camarero destacó su plan de vivienda.
+- Fuentes:
+  - [Valencia Plaza: la Sindicatura alerta del déficit de vivienda pública](https://valenciaplaza.com/valenciaplaza/plaza-inmobiliaria/la-sindicatura-alerta-del-deficit-de-vivienda-publica-con-una-lista-de-41000-demandantes-en-2024)
+  - [elDiario.es: el déficit estructural de vivienda protegida](https://www.eldiario.es/comunitat-valenciana/sindic-comptes-retrata-generalitat-valencianos-sufren-deficit-estructural-vivienda-protegida_1_12918412.html)
 
 ### Zaldibar: imputada la exalcaldesa de EH Bildu por presuntos delitos urbanísticos en el vertedero
 - Fecha: ene – sep 2026
@@ -1746,6 +2091,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/galicia/pp-bloquea-comision-investigacion-altri-parlamento-galicia_1_13055288.html)
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/03/10/el-pp-rechaza-crear-comision-de-investigacion-sobre-altri-y-acusa-a-la-oposicion-de-mentir/)
+
+### Aragón: sin registro unificado de vivienda protegida desde 2013 y datos en hojas de Excel, según la Cámara de Cuentas
+- Fecha: 2013 – mar 2026
+- Partidos: PP, PSOE, Vox, Otros, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Aragón
+- Nivel de prueba: Organismo oficial
+- Resumen: La Cámara de Cuentas de Aragón constata que el registro de solicitantes de vivienda protegida está suspendido desde 2013 y que el parque se lleva en hojas de Excel dispersas.
+- Matiz: La suspensión es de 2013 (PP y PAR) y siguió con el PSOE y sus socios (2015-2023) y con el PP (con Vox de 2023 a 2024). La directora general de Vivienda en funciones justificó que la prioridad era otra.
+- Fuentes:
+  - [elDiario.es: el Gobierno admite que no hay registro unificado (mar 2026)](https://www.eldiario.es/aragon/sociedad/descontrol-vivienda-protegida-aragon-gobierno-admite-no-hay-registro-unificado-2013_1_13056344.html)
+  - [Aragón Digital: la respuesta del Gobierno](https://www.aragondigital.es/articulo/politica/dga-defiende-gestion-vpo-aragon-tiene-que-ser-parte-solucion-problema/20260310134658971463.html)
 
 ### DANA de Valencia: la gestión de la emergencia, en los tribunales
 - Fecha: oct 2024 – hoy
@@ -1809,6 +2166,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/pp-vox-descartan-prorroga-liquidan-comision-investigacion-dana-67-comparecientes-declarar_1_13196042.html)
   - [El Español: PP y Vox cierran la comisión (may 2026)](https://www.elespanol.com/valencia/20260505/pp-vox-cierran-manera-definitiva-comision-dana-corts-citados-sin-comparecer/1003744233943_0.html)
 
+### Cantabria: condena firme a dos ex altos cargos del Servicio Cántabro de Salud por fraccionar contratos
+- Fecha: 2015 – may 2026
+- Partidos: Otros, PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cantabria
+- Nivel de prueba: Sentencia firme
+- Resumen: El Supremo confirmó 14 y 11 años de inhabilitación por prevaricación a un exsubdirector de Gestión Económica y a un exgerente de Atención Primaria del Servicio Cántabro de Salud, que de manera reiterada «resolvió promover la celebración de múltiples convenios, fraccionándolos indebidamente» para eludir el procedimiento ordinario de contratación.
+- Matiz: Los hechos son de la etapa del Gobierno de PRC y PSOE. Los condenados eran altos cargos de la administración sanitaria, no consejeros.
+- Fuentes:
+  - [elDiario.es: el Supremo confirma las condenas (may 2026)](https://www.eldiario.es/cantabria/supremo-confirma-14-11-anos-inhabilitacion-exaltos-cargos-scs-fraccionaron-contratos-menores_1_13196442.html)
+
 ### Parlamento de La Rioja: el PP rechaza investigar pagos irregulares a altos cargos de la sanidad
 - Fecha: 21 may 2026
 - Partidos: PP
@@ -1832,6 +2200,28 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: imputaciones](https://www.eldiario.es/politica/uco-persona-sede-psoe-ferraz-investigacion-audiencia-nacional_1_13252759.html)
   - [elDiario.es: 25 imputados más](https://www.eldiario.es/politica/juez-caso-leire-imputa-presidenta-sepi-24-personas-supuestos-amanos-contratacion-publica_1_13342324.html)
   - [Público: el auto](https://www.publico.es/politica/auto-pedraz-dinamita-coartadas-leire-diez.html)
+
+### Tribunal de Cuentas: el suelo para vivienda protegida de SEPES (hoy Casa 47) tarda demasiado
+- Fecha: 2018 – jun 2026
+- Partidos: PP, PSOE
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: Las Cortes, a partir de un informe del Tribunal de Cuentas sobre la empresa pública estatal de suelo, constatan que la tramitación urbanística para obtener suelo residencial «se alargan excesivamente en el tiempo» y que su respuesta a la demanda de vivienda protegida «se viene produciendo demasiado a largo plazo».
+- Matiz: El periodo fiscalizado abarca el final del Gobierno de Rajoy y los de Sánchez. Parte del retraso se debe al reparto de competencias y a la tramitación urbanística, que no depende solo de la empresa.
+- Fuentes:
+  - [BOE: resolución de la Comisión Mixta sobre SEPES (jun 2026)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-12494)
+
+### Cantabria: el Tribunal de Cuentas ve insuficiente la política de vivienda de Santander, Torrelavega y Castro Urdiales
+- Fecha: 2022 – oct 2026
+- Partidos: PP, PSOE, Otros
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Cantabria
+- Nivel de prueba: Organismo oficial
+- Resumen: Según el Tribunal de Cuentas, ninguno de los tres ayuntamientos tenía en 2022 y 2023 «una política municipal de vivienda global e integrada». Santander terminó dos promociones de 186 viviendas, Torrelavega sumó 58 a su parque y Castro Urdiales no ejecutó ninguna; su alcaldesa fue multada por no aportar la documentación.
+- Matiz: Santander lo gobierna el PP y Castro Urdiales el PSOE (alcaldesa Susana Herrán). El Gobierno de Cantabria era de PRC y PSOE hasta julio de 2023 y del PP después.
+- Fuentes:
+  - [elDiario.es: multa a la alcaldesa de Castro (jun 2026)](https://www.eldiario.es/cantabria/cortes-multan-alcaldesa-castro-susana-herran-calificar-insuficientes-politicas-vivienda-municipio-santander-torrelavega_1_13286339.html)
+  - [Infobae (agencias): la Comisión Mixta insta a reforzar la gestión (oct 2026)](https://www.infobae.com/espana/agencias/2026/10/06/la-comision-mixta-del-tribunal-de-cuentas-insta-a-cantabria-y-tres-ayuntamientos-a-reforzar-la-gestion-de-vivienda/)
 
 ### Junta General de Asturias: la RTPA pasa siete años con director en funciones y PSOE e IU eligen a la nueva en segunda votación
 - Fecha: mar 2019 – jun 2026
@@ -1931,6 +2321,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Tribunal Constitucional: nota informativa 89/2026](https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2026_089/NOTA%20INFORMATIVA%20N%C2%BA%2089-2026.pdf)
   - [elDiario.es: el TC enmienda a la Mesa (sep 2026)](https://www.eldiario.es/aragon/politica/constitucional-enmienda-mesa-cortes-aragon-vetar-pregunta-inmigracion-nolasco-vox_1_13543933.html)
+
+### Navarra: la vivienda protegida cubre el 3% de la demanda, según la Cámara de Comptos
+- Fecha: 2023 – sep 2026
+- Partidos: PSOE, Otros, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Navarra
+- Nivel de prueba: Organismo oficial
+- Resumen: La Cámara de Comptos concluye que la oferta de vivienda protegida «sigue siendo muy insuficiente respecto a la demanda»: en 2025 se ofertaron 831 viviendas para más de 24.700 solicitantes, en torno al 3%. Entre 2023 y 2025 el Gobierno de Navarra gastó 247 millones en vivienda y el órgano de coordinación previsto en la ley de 2010 no se ha llegado a crear.
+- Matiz: Gobiernan PSN, Geroa Bai y Contigo-Zurekin.
+- Fuentes:
+  - [elDiario.es: el informe de Comptos (sep 2026)](https://www.eldiario.es/navarra/informe-tribunal-cuentas-navarro-apunta-oferta-vpo-alcanza-3-demanda_1_13538031.html)
+  - [COPE Navarra (sep 2026)](https://www.cope.es/emisoras/navarra/noticias/oferta-vivienda-protegida-navarra-cubre-3-demanda-evidentemente-ese-derecho-constitucional-no-cumpliendo-20260928_3444919.html)
 
 ### El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a su socio privado Emesa
 - Fecha: 2017 – 2025
