@@ -1,283 +1,779 @@
 [
  {
+  "id": "bonosocial2017",
+  "tema": "Energía",
+  "m": "Financiación del bono social eléctrico",
+  "dl": "31 ene 2017",
+  "r": "Convalidado 248 a 77, 15 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "sd", "Cs": "si", "ERC": "no", "Junts": "ab", "Bildu": "no", "PNV": "ab"},
+  "s": "Real Decreto-ley 7/2016 del Gobierno de Rajoy: fijaba cómo se financia el bono social, el descuento en la factura de la luz para consumidores vulnerables.",
+  "n": "Gobierno de Rajoy (PP). Votaron a favor PP, PSOE, Ciudadanos, UPN, CC, Foro y NC; en contra Unidos Podemos, ERC y Bildu; se abstuvieron PNV, PDeCAT y Compromís. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial (31 ene 2017)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion024/20170131/Votacion003/VOT_20201204142719.json"]
+  ]
+ },
+ {
+  "id": "okupa2017",
+  "tema": "Vivienda",
+  "m": "Desahucio exprés de viviendas ocupadas (toma en consideración)",
+  "dl": "14 mar 2017",
+  "r": "Tomada en consideración 176 a 162",
+  "v": {"PSOE": "no", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "sd", "Cs": "si", "ERC": "no", "Junts": "si", "Bildu": "no", "PNV": "si"},
+  "s": "Proposición de ley del PDeCAT para crear un procedimiento civil rápido con el que recuperar viviendas ocupadas sin título. Acabó en la Ley 5/2018.",
+  "n": "Gobierno de Rajoy (PP). La propuso el PDeCAT (hoy Junts), con el apoyo de PP, Ciudadanos, PNV, UPN y Foro; votaron en contra PSOE, Unidos Podemos, ERC, Bildu, Compromís, CC y NC. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial (14 mar 2017)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion035/20170314/Votacion001/VOT_20201204141748.json"]
+  ]
+ },
+ {
+  "id": "hipotecas2017",
+  "tema": "Vivienda",
+  "m": "Prórroga de la suspensión de desahucios hipotecarios a familias vulnerables",
+  "dl": "30 mar 2017",
+  "r": "Convalidado 237 a 0, 77 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "ab", "Podemos": "ab", "PP": "si", "Vox": "sd", "Cs": "si", "ERC": "ab", "Junts": "sd", "Bildu": "ab", "PNV": "si"},
+  "s": "Real Decreto-ley 5/2017 del Gobierno de Rajoy: prorrogaba la suspensión de los lanzamientos por impago de hipoteca para deudores vulnerables.",
+  "n": "Gobierno de Rajoy (PP). Nadie votó en contra; se abstuvieron Unidos Podemos, ERC, Compromís y Bildu. El PDeCAT no votó: en el fichero oficial de esa legislatura sus diputados aparecen con «No», pero el total oficial no recoge ningún voto en contra. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial (30 mar 2017)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion042/20170330/Votacion002/VOT_20201204141558.json"]
+  ]
+ },
+ {
+  "id": "pge2017",
+  "tema": "Presupuestos",
+  "m": "Presupuestos Generales del Estado de 2017",
+  "dl": "30 may 2017",
+  "r": "Aprobados (Título I) 176 a 173",
+  "v": {"PSOE": "no", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "sd", "Cs": "si", "ERC": "no", "Junts": "no", "Bildu": "no", "PNV": "si"},
+  "s": "Presupuestos del Gobierno de Rajoy. En los Presupuestos no hay una votación de conjunto: se recoge la del Título I del dictamen como votación representativa.",
+  "n": "Gobierno de Rajoy (PP). Los sacaron adelante PP, Ciudadanos, PNV, CC, UPN, Foro y NC. Las enmiendas a la totalidad habían empatado a 175 votos el 4 de mayo y, con el empate, no prosperaron. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial del Título I (30 may 2017)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion056/20170530/Votacion015/VOT_20201204133516.json"],
+   ["Congreso: enmiendas a la totalidad (4 may 2017)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion047/20170504/Votacion003/VOT_20201204140841.json"]
+  ]
+ },
+ {
+  "id": "pge2018",
+  "tema": "Presupuestos",
+  "m": "Presupuestos Generales del Estado de 2018",
+  "dl": "22 may 2018",
+  "r": "Aprobados (Título I) 176 a 171",
+  "v": {"PSOE": "no", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "sd", "Cs": "si", "ERC": "no", "Junts": "no", "Bildu": "no", "PNV": "si"},
+  "s": "Presupuestos del Gobierno de Rajoy, que incluían la subida del 1,6% de las pensiones pactada con el PNV, el alza del salario mínimo y de los sueldos de los funcionarios.",
+  "n": "Gobierno de Rajoy (PP): el Congreso los aprobó el 22 de mayo, antes de la moción de censura del 1 de junio. Los apoyaron PP, Ciudadanos, PNV, CC, NC, UPN y Foro. Las enmiendas del Senado se votaron el 28 de junio, ya con Sánchez en el Gobierno. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial del Título I (22 may 2018)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion117/20180522/Votacion002/VOT_20201204120844.json"],
+   ["elDiario.es: aprobación definitiva", "https://www.eldiario.es/economia/congreso-definitivamente-presupuestos-pp-psoe_1_2056663.html"]
+  ]
+ },
+ {
+  "id": "sanidad2018",
+  "tema": "Sanidad",
+  "m": "Sanidad universal",
+  "dl": "6 sep 2018",
+  "r": "Convalidado 177 a 133, 31 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "sd", "Cs": "ab", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 7/2018: devolvía el derecho a la atención sanitaria pública a todos los residentes, incluidos los extranjeros en situación irregular, que quedaron excluidos en 2012.",
+  "n": "Primer Gobierno de Sánchez (PSOE). La ministra Carmen Montón dijo: «Para el Gobierno anterior era urgente recortar derechos, para éste lo urgente es recuperarlos». El PP votó en contra y Ciudadanos se abstuvo. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial (6 sep 2018)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion137/20180906/Votacion003/VOT_20201204113602.json"],
+   ["Público", "https://www.publico.es/politica/psoe-comienza-curso-parlamentario-recuperando-sanidad-universal.html"]
+  ]
+ },
+ {
+  "id": "energia2018",
+  "tema": "Energía",
+  "m": "Fin del «impuesto al sol» y medidas contra la subida de la luz",
+  "dl": "18 oct 2018",
+  "r": "Convalidado 180 a 2, 160 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "ab", "Vox": "sd", "Cs": "ab", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 15/2018: suprimía el peaje al autoconsumo, suspendía seis meses el impuesto del 7% a la generación eléctrica y ampliaba el bono social.",
+  "n": "Primer Gobierno de Sánchez (PSOE). PP y Ciudadanos se abstuvieron; el diputado del PP Guillermo Mariscal expresó «dudas» sobre el volumen de autoconsumo que puede asumir el sistema. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial (18 oct 2018)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion150/20181018/Votacion003/VOT_20201204112546.json"],
+   ["elDiario.es", "https://www.eldiario.es/economia/congreso-aprueba-impuesto-ampliacion-abaratar_1_1888018.html"]
+  ]
+ },
+ {
+  "id": "alquiler2019",
+  "tema": "Vivienda",
+  "m": "Decreto de alquiler de 2018 (contratos de 5 años)",
+  "dl": "22 ene 2019",
+  "r": "Derogado 103 a 243",
+  "v": {"PSOE": "si", "UP / Sumar": "no", "Podemos": "no", "PP": "no", "Vox": "sd", "Cs": "no", "ERC": "no", "Junts": "si", "Bildu": "no", "PNV": "si"},
+  "s": "Real Decreto-ley 21/2018: alargaba los contratos de alquiler de 3 a 5 años (7 si el casero es una empresa) y limitaba las fianzas.",
+  "n": "Primer Gobierno de Sánchez (PSOE). Lo tumbaron PP, Ciudadanos, Unidos Podemos, ERC y Bildu. Unidos Podemos dijo que «no tiene sentido» alargar los contratos si no se limitan las subidas de precio; el PP, que no resolvía «el verdadero problema, la falta de vivienda y de seguridad jurídica». En abril de 2019 la Diputación Permanente convalidó un nuevo decreto (7/2019) que limitaba las subidas al IPC, con el apoyo de Podemos y el voto en contra de PP y Ciudadanos. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial (22 ene 2019)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion168/20190122/Votacion001/VOT_20201204111026.json"],
+   ["elDiario.es: la votación", "https://www.eldiario.es/economia/pp-ciudadanos-unidos-podemos-erc_1_1740829.html"],
+   ["elDiario.es: el decreto de abril de 2019", "https://www.eldiario.es/economia/pnv-suspenso-convalidacion-decreto-alquiler_1_1617336.html"]
+  ]
+ },
+ {
+  "id": "pensiones2019",
+  "tema": "Empleo y pensiones",
+  "m": "Revalorización de las pensiones para 2019",
+  "dl": "22 ene 2019",
+  "r": "Convalidado 181 a 1, 164 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "ab", "Vox": "sd", "Cs": "ab", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 28/2018: subía las pensiones un 1,6% y las mínimas un 3%, y subía las bases de cotización de los autónomos.",
+  "n": "Primer Gobierno de Sánchez (PSOE). PP y Ciudadanos se abstuvieron; no se ha localizado su argumento en una fuente verificada. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial (22 ene 2019)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion168/20190122/Votacion014/VOT_20201204111047.json"]
+  ]
+ },
+ {
+  "id": "pge2019",
+  "tema": "Presupuestos",
+  "m": "Presupuestos Generales del Estado de 2019",
+  "dl": "13 feb 2019",
+  "r": "Devueltos al Gobierno 191 a 158",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "sd", "Cs": "no", "ERC": "no", "Junts": "no", "Bildu": "no", "PNV": "si"},
+  "s": "Presupuestos del primer Gobierno de Sánchez, que el Gobierno presentaba como «los más sociales de la historia». Se votaban las enmiendas a la totalidad: votar a favor de devolverlos cuenta aquí como «No».",
+  "n": "Primer Gobierno de Sánchez (PSOE). Los tumbaron PP, Ciudadanos, ERC, PDeCAT, Bildu, CC, UPN y Foro, con dos diputadas de Unidos Podemos; NC se abstuvo. Su caída llevó a las elecciones de abril de 2019. Vox no tenía escaño.",
+  "src": [
+   ["Congreso: votación oficial (13 feb 2019)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion170/20190213/Votacion001/VOT_20201204110943.json"],
+   ["elDiario.es", "https://www.eldiario.es/politica/congreso-tumba-presupuestos-pedro-sanchez_1_1704281.html"]
+  ]
+ },
+ {
+  "id": "escudo2020",
+  "tema": "Vivienda",
+  "m": "Escudo social de la pandemia (moratoria de alquileres)",
+  "dl": "9 abr 2020",
+  "r": "Convalidado 171 a 2, 174 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "ab", "Vox": "ab", "Cs": "si", "ERC": "ab", "Junts": "ab", "Bildu": "ab", "PNV": "ab"},
+  "s": "Real Decreto-ley 11/2020: moratoria del alquiler para inquilinos vulnerables, suspensión de desahucios y otras medidas sociales al inicio de la pandemia.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Salió con el apoyo de PSOE, Unidas Podemos y Ciudadanos, entre otros; se abstuvieron PP, Vox, ERC, Bildu, PNV y Junts, y votó en contra la CUP.",
+  "src": [
+   ["Congreso: votación oficial (9 abr 2020)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion016/20200409/Votacion014/VOT_20201204105618.json"]
+  ]
+ },
+ {
   "id": "erte",
+  "tema": "Empleo y pensiones",
   "m": "Prórroga de los ERTE hasta el 30 de junio",
   "dl": "27 may 2020",
   "r": "Aprobada 295 a 0, 55 abstenciones",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "si",
-   "Vox": "ab",
-   "Cs": "si",
-   "ERC": "si",
-   "Junts": "si",
-   "Bildu": "si",
-   "PNV": "si"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "si", "Vox": "ab", "Cs": "si", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
   "s": "Convalidación del decreto, pactado con patronal y sindicatos, que alargaba los ERTE de la pandemia y los desvinculaba del estado de alarma.",
   "n": "El PP votó a favor de los ERTE y de sus prórrogas; Newtral desmintió a Yolanda Díaz cuando dijo lo contrario. Vox, CUP y BNG se abstuvieron.",
   "src": [
-   [
-    "elDiario.es",
-    "https://www.eldiario.es/economia/erte-adelante-congreso-abstencion-vox_1_5976067.html"
-   ],
-   [
-    "Newtral: el PP sí apoyó los ERTE",
-    "https://www.newtral.es/yolanda-diaz-erte-pp-decreto-factcheck/20210716/"
-   ],
-   [
-    "Congreso: resultado oficial de la votación (27 may 2020)",
-    "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion023/20200527/Votacion001/VOT_20200528113245.pdf"
-   ]
+   ["elDiario.es", "https://www.eldiario.es/economia/erte-adelante-congreso-abstencion-vox_1_5976067.html"],
+   ["Newtral: el PP sí apoyó los ERTE", "https://www.newtral.es/yolanda-diaz-erte-pp-decreto-factcheck/20210716/"],
+   ["Congreso: resultado oficial de la votación (27 may 2020)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion023/20200527/Votacion001/VOT_20200528113245.pdf"]
   ]
  },
  {
   "id": "imv",
+  "tema": "Empleo y pensiones",
   "m": "Ingreso Mínimo Vital",
   "dl": "10 jun 2020",
   "r": "Aprobado sin votos en contra",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "si",
-   "Vox": "ab",
-   "Cs": "si",
-   "ERC": "si",
-   "Junts": "si",
-   "Bildu": "si",
-   "PNV": "si"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "si", "Vox": "ab", "Cs": "si", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
   "s": "Convalidación del decreto que creó una renta mínima garantizada contra la pobreza, de 461,50 euros al mes para un hogar de una persona y hasta 1.015 euros para hogares grandes.",
   "n": "Salió con el apoyo de todos los grupos menos Vox, que se abstuvo con sus 52 diputados.",
   "src": [
-   [
-    "elDiario.es",
-    "https://www.eldiario.es/economia/congreso-decreto-ingreso-minimo-vital_1_6024757.html"
-   ],
-   [
-    "Infobae: qué votaron PP y Vox",
-    "https://www.infobae.com/espana/2023/05/31/que-votaron-pp-y-vox-cuando-se-convalido-el-ingreso-minimo-vital-en-el-congreso/"
-   ]
+   ["elDiario.es", "https://www.eldiario.es/economia/congreso-decreto-ingreso-minimo-vital_1_6024757.html"],
+   ["Infobae: qué votaron PP y Vox", "https://www.infobae.com/espana/2023/05/31/que-votaron-pp-y-vox-cuando-se-convalido-el-ingreso-minimo-vital-en-el-congreso/"]
+  ]
+ },
+ {
+  "id": "lomloe",
+  "tema": "Educación",
+  "m": "Ley de educación (LOMLOE, «ley Celaá»)",
+  "dl": "19 nov 2020",
+  "r": "Aprobada 177 a 148, 17 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "ab", "Bildu": "ab", "PNV": "si"},
+  "s": "Ley Orgánica 3/2020: quitaba la mención al castellano como lengua vehicular, limitaba la cesión de suelo público a la concertada y ampliaba la etapa de 0 a 3 años. Votación de conjunto en el Congreso, por mayoría absoluta.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, CC, PRC, Foro y UPN; se abstuvieron Bildu, Junts, PDeCAT, BNG, la CUP y Teruel Existe. El voto en contra de un diputado de Unidas Podemos fue un error, según Maldita.",
+  "src": [
+   ["Congreso: votación oficial (19 nov 2020)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion061/20201119/Votacion205/VOT_20201119170933.json"],
+   ["Maldita: errores en votaciones", "https://maldita.es/malditahemeroteca/20220721/errores-votaciones-congreso-senado/"]
+  ]
+ },
+ {
+  "id": "pge2021",
+  "tema": "Presupuestos",
+  "m": "Presupuestos Generales del Estado de 2021",
+  "dl": "3 dic 2020",
+  "r": "Aprobados (Título I) 188 a 150",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
+  "s": "Primeros Presupuestos del Gobierno de coalición, ocho años después de los últimos que no eran del PP. Se recoge la votación del Título I del dictamen.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Los apoyaron también ERC, PNV, Bildu, PDeCAT, Más País, Compromís, Teruel Existe, PRC y NC; votaron en contra PP, Vox, Ciudadanos, Junts, BNG, la CUP, CC, Foro y UPN.",
+  "src": [
+   ["Congreso: votación oficial del Título I (3 dic 2020)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion065/20201203/Votacion001/VOT_20201211162324.json"],
+   ["El Salto", "https://www.elsaltodiario.com/pge/aprobacion-primeros-presupuestos-pedro-sanchez"]
   ]
  },
  {
   "id": "fondos",
+  "tema": "Economía e impuestos",
   "m": "Decreto de gestión de los fondos europeos de recuperación",
   "dl": "28 ene 2021",
   "r": "Aprobado 170 a 126, 52 abstenciones",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "no",
-   "Vox": "ab",
-   "Cs": "no",
-   "ERC": "no",
-   "Junts": "no",
-   "Bildu": "si",
-   "PNV": "si"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "ab", "Cs": "no", "ERC": "no", "Junts": "no", "Bildu": "si", "PNV": "si"},
   "s": "Marco para gestionar y ejecutar los fondos europeos Next Generation tras la pandemia.",
   "n": "Salió adelante gracias a la abstención de Vox. El PP votó no alegando falta de transparencia y riesgo de clientelismo en el reparto. ERC y Junts también votaron en contra.",
   "src": [
-   [
-    "elDiario.es",
-    "https://www.eldiario.es/economia/gobierno-salva-decreto-ley-fondos-europeos-abstencion-vox-apoyo-pnv-bildu_1_7175720.html"
-   ],
-   [
-    "Público: 170 a 126 con la abstención de Vox",
-    "https://www.publico.es/politica/gobierno-saca-adelante-congreso-decreto-fondos-europeos-gracias-abstencion-vox.html"
-   ]
+   ["elDiario.es", "https://www.eldiario.es/economia/gobierno-salva-decreto-ley-fondos-europeos-abstencion-vox-apoyo-pnv-bildu_1_7175720.html"],
+   ["Público: 170 a 126 con la abstención de Vox", "https://www.publico.es/politica/gobierno-saca-adelante-congreso-decreto-fondos-europeos-gracias-abstencion-vox.html"]
+  ]
+ },
+ {
+  "id": "desahucios2021",
+  "tema": "Vivienda",
+  "m": "Suspensión de desahucios de familias vulnerables",
+  "dl": "28 ene 2021",
+  "r": "Convalidado 198 a 146, 4 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "si", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "ab"},
+  "s": "Real Decreto-ley 37/2020: suspendía durante el estado de alarma los desahucios de familias vulnerables sin alternativa habitacional.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Junts, UPN y Foro; el PNV se abstuvo. Un diputado de Vox votó a favor.",
+  "src": [
+   ["Congreso: votación oficial (28 ene 2021)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion070/20210128/Votacion007/VOT_20210128190135.json"]
+  ]
+ },
+ {
+  "id": "eutanasia",
+  "tema": "Sanidad",
+  "m": "Ley de eutanasia",
+  "dl": "18 mar 2021",
+  "r": "Aprobada 202 a 141, 2 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "si", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Ley Orgánica 3/2021: regula la ayuda para morir con requisitos y comisiones de garantía. Votación final tras el Senado.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. La ministra Carolina Darias dijo: «Hoy damos un paso más para tener una sociedad más decente». PP y Vox la llamaron «poco garantista» y criticaron su tramitación «en tiempo récord». Consta un voto a favor de un diputado de Vox en el registro oficial.",
+  "src": [
+   ["Congreso: votación oficial (18 mar 2021)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion085/20210318/Votacion012/VOT_20210318133141.json"],
+   ["El Español", "https://www.elespanol.com/espana/20210318/pleno-congreso-aprueba-definitivamente-ley-eutanasia/566943771_0.html"]
+  ]
+ },
+ {
+  "id": "ivaluz2021",
+  "tema": "Energía",
+  "m": "Rebaja del IVA de la luz al 10%",
+  "dl": "21 jul 2021",
+  "r": "Convalidado 193 a 3, 152 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "ab", "Vox": "ab", "Cs": "si", "ERC": "si", "Junts": "si", "Bildu": "ab", "PNV": "si"},
+  "s": "Real Decreto-ley 12/2021: bajaba el IVA de la factura eléctrica del 21% al 10% para la mayoría de consumidores.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. El PP (Juan Diego Requena) dijo que «la luz jamás estuvo tan alta durante tanto tiempo» y se abstuvo, como Vox. Bildu también se abstuvo y criticó que el Gobierno actuara «sobre la parte más pequeña en lugar de parar al oligopolio de la energía».",
+  "src": [
+   ["Congreso: votación oficial (21 jul 2021)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion113/20210721/Votacion001/VOT_20210721165612.json"],
+   ["El Español", "https://www.elespanol.com/espana/politica/20210721/gobierno-aprueba-rebaja-iva-socios-pidiendo-nacionalizacion/598190539_0.html"]
+  ]
+ },
+ {
+  "id": "caidos2021",
+  "tema": "Energía",
+  "m": "Recorte de los «beneficios caídos del cielo» de las eléctricas",
+  "dl": "14 oct 2021",
+  "r": "Convalidado 182 a 150, 13 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "ab", "Bildu": "si", "PNV": "ab"},
+  "s": "Real Decreto-ley 17/2021: recortaba los ingresos extraordinarios que las centrales no emisoras obtenían por la subida del gas.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, UPN y Foro; se abstuvieron PNV y Junts.",
+  "src": [
+   ["Congreso: votación oficial (14 oct 2021)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion124/20211014/Votacion005/VOT_20211014194846.json"]
+  ]
+ },
+ {
+  "id": "escudo2021",
+  "tema": "Vivienda",
+  "m": "Prórroga del escudo social",
+  "dl": "11 nov 2021",
+  "r": "Convalidado 285 a 11, 52 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "si", "Vox": "ab", "Cs": "no", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 21/2021: prorrogaba la suspensión de desahucios de vulnerables y otras medidas sociales de la pandemia.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Votaron a favor también el PP y casi todos los grupos; Vox se abstuvo y Ciudadanos votó en contra.",
+  "src": [
+   ["Congreso: votación oficial (11 nov 2021)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion131/20211111/Votacion007/VOT_20230303102858.json"]
+  ]
+ },
+ {
+  "id": "pge2022",
+  "tema": "Presupuestos",
+  "m": "Presupuestos Generales del Estado de 2022",
+  "dl": "25 nov 2021",
+  "r": "Aprobados (Título I) 188 a 158, 1 abstención",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
+  "s": "Presupuestos del Gobierno de coalición para 2022. Se recoge la votación del Título I del dictamen.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, Junts, la CUP, CC, Foro y UPN; el BNG se abstuvo.",
+  "src": [
+   ["Congreso: votación oficial del Título I (25 nov 2021)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion135/20211125/Votacion001/VOT_20230303115448.json"]
+  ]
+ },
+ {
+  "id": "pensionesipc",
+  "tema": "Empleo y pensiones",
+  "m": "Pensiones ligadas al IPC",
+  "dl": "2 dic 2021",
+  "r": "Aprobada 176 a 148, 6 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "si", "Bildu": "ab", "PNV": "si"},
+  "s": "Ley 21/2021: revaloriza las pensiones según el IPC, deroga el factor de sostenibilidad y crea el Mecanismo de Equidad Intergeneracional.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. El ministro José Luis Escrivá dijo que garantiza «de una vez y para siempre» el poder adquisitivo de las pensiones. Votaron en contra PP, Vox, Ciudadanos, BNG, la CUP, Foro y UPN; Bildu se abstuvo.",
+  "src": [
+   ["Congreso: votación oficial (2 dic 2021)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion138/20211202/Votacion083/VOT_20230303120316.json"],
+   ["elDiario.es", "https://www.eldiario.es/politica/congreso-aprueba-reforma-garantiza-revalorizacion-pensiones-ipc_1_8548144.html"]
+  ]
+ },
+ {
+  "id": "fp",
+  "tema": "Educación",
+  "m": "Ley de Formación Profesional",
+  "dl": "16 dic 2021",
+  "r": "Aprobada 180 a 88, 75 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "ab", "Cs": "si", "ERC": "ab", "Junts": "ab", "Bildu": "si", "PNV": "si"},
+  "s": "Ley Orgánica 3/2022: integra la FP del sistema educativo y la de empleo y extiende la formación en empresas.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. El PP fue el único gran grupo que votó en contra; se abstuvieron Vox, ERC, Junts, PDeCAT, BNG, UPN y la CUP.",
+  "src": [
+   ["Congreso: votación oficial (16 dic 2021)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion141/20211216/Votacion047/VOT_20230303115101.json"],
+   ["elDiario.es", "https://www.eldiario.es/sociedad/congreso-aprueba-nueva-ley-fp-unicos-votos-pp_1_8584073.html"]
   ]
  },
  {
   "id": "laboral",
+  "tema": "Empleo y pensiones",
   "m": "Reforma laboral",
   "dl": "3 feb 2022",
   "r": "Aprobada 175 a 174",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "no",
-   "Vox": "no",
-   "Cs": "si",
-   "ERC": "no",
-   "Junts": "no",
-   "Bildu": "no",
-   "PNV": "no"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "si", "ERC": "no", "Junts": "no", "Bildu": "no", "PNV": "no"},
   "s": "Convalidación del Real Decreto-ley 32/2021: prioriza el contrato indefinido, elimina el contrato por obra y servicio y devuelve prioridad a los convenios de sector. La temporalidad bajó unos 7 puntos en 2022.",
   "n": "Salió por un voto, gracias al error del diputado del PP Alberto Casero, que votó sí por equivocación. ERC, Bildu, PNV, BNG y CUP votaron no desde la izquierda o por otras razones: varios la consideraban insuficiente frente a la reforma de 2012. Ciudadanos votó sí.",
   "src": [
-   [
-    "Wikipedia: reforma laboral de 2022",
-    "https://es.wikipedia.org/wiki/Reforma_laboral_espa%C3%B1ola_de_2022"
-   ],
-   [
-    "Congreso: resultado oficial de la votación (3 feb 2022)",
-    "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion149/20220203/Votacion020/VOT_20230303100523.pdf"
-   ]
+   ["Wikipedia: reforma laboral de 2022", "https://es.wikipedia.org/wiki/Reforma_laboral_espa%C3%B1ola_de_2022"],
+   ["Congreso: resultado oficial de la votación (3 feb 2022)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion149/20220203/Votacion020/VOT_20230303100523.pdf"]
+  ]
+ },
+ {
+  "id": "guerra2022",
+  "tema": "Energía",
+  "m": "Plan de respuesta a la guerra de Ucrania (20 céntimos al combustible)",
+  "dl": "28 abr 2022",
+  "r": "Convalidado 176 a 172, 1 abstención",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "no", "Junts": "no", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 6/2022: bonificación de 20 céntimos por litro de combustible, ayudas a sectores afectados y limitación de la subida de los alquileres.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, Junts y la CUP, y también ERC, en protesta por el espionaje a independentistas.",
+  "src": [
+   ["Congreso: votación oficial (28 abr 2022)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion174/20220428/Votacion031/VOT_20230302190916.json"],
+   ["idealista/news (Europa Press)", "https://www.idealista.com/news/finanzas/economia/2022/04/28/796335-el-congreso-convalida-pese-al-rechazo-de-pp-y-erc-el-decreto-de-respuesta-economica-a-la-guerra-de"]
+  ]
+ },
+ {
+  "id": "topegas2022",
+  "tema": "Energía",
+  "m": "Tope al gas («excepción ibérica»)",
+  "dl": "9 jun 2022",
+  "r": "Convalidado 197 a 2, 143 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "ab", "Vox": "ab", "Cs": "si", "ERC": "si", "Junts": "ab", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 10/2022: limitaba el precio del gas usado para producir electricidad, para abaratar la factura de la luz.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. La vicepresidenta Teresa Ribera lo llamó «un cortafuegos» ante el encarecimiento del gas. Se abstuvieron PP, Vox, Junts y UPN; votaron en contra NC y Foro.",
+  "src": [
+   ["Congreso: votación oficial (9 jun 2022)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion186/20220609/Votacion070/VOT_20230302184604.json"],
+   ["Público", "https://www.publico.es/economia/congreso-avala-decreto-ley-tope-gas-abstencion-pp-vox.html"]
+  ]
+ },
+ {
+  "id": "ahorro2022",
+  "tema": "Energía",
+  "m": "Plan de ahorro energético",
+  "dl": "25 ago 2022",
+  "r": "Convalidado 187 a 161, 1 abstención",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 14/2022: límites a la climatización en edificios públicos y comercios, apagado de escaparates y otras medidas de ahorro.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Cuca Gamarra (PP): «No respaldaremos parches que tienen consecuencias negativas para los españoles». Votaron en contra PP, Vox, Ciudadanos, Junts, la CUP, CC, NC, UPN y Foro.",
+  "src": [
+   ["Congreso: votación oficial (25 ago 2022)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion196/20220825/Votacion004/VOT_20230302181506.json"],
+   ["elDiario.es", "https://www.eldiario.es/politica/congreso-convalida-plan-ahorro-energetico-no-pp-vox-ciudadanos_1_9266035.html"]
   ]
  },
  {
   "id": "impuestos",
+  "tema": "Economía e impuestos",
   "m": "Impuestos a banca, energéticas y grandes fortunas",
   "dl": "24 nov 2022",
   "r": "Aprobada 186 a 152, 10 abstenciones (PNV y PDeCAT)",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "no",
-   "Vox": "no",
-   "Cs": "no",
-   "ERC": "si",
-   "Junts": "si",
-   "Bildu": "si",
-   "PNV": "ab"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "ab"},
   "s": "Gravámenes temporales a la banca (unos 1.500 millones al año previstos) y a las energéticas, y un impuesto de solidaridad a patrimonios de más de 3 millones de euros.",
   "n": "PP, Vox y Ciudadanos votaron en contra alegando doble imposición y que era un modelo contrario a Europa. El impuesto a las energéticas se rebajó con enmiendas que excluyeron la actividad regulada.",
   "src": [
-   [
-    "elDiario.es",
-    "https://www.eldiario.es/economia/gobierno-asegura-aprobacion-impuestos-banca-energeticas-grandes-fortunas_1_9742281.html"
-   ],
-   [
-    "idealista/news",
-    "https://www.idealista.com/news/finanzas/economia/2022/11/25/800323-el-congreso-aprueba-el-impuesto-a-grandes-fortunas-y-lo-remite-al-senado"
-   ],
-   [
-    "Público: 186 a 152 con 10 abstenciones",
-    "https://www.publico.es/politica/mayoria-congreso-aprueba-impuestos-banca-energeticas-ricos.amp.html"
-   ]
+   ["elDiario.es", "https://www.eldiario.es/economia/gobierno-asegura-aprobacion-impuestos-banca-energeticas-grandes-fortunas_1_9742281.html"],
+   ["idealista/news", "https://www.idealista.com/news/finanzas/economia/2022/11/25/800323-el-congreso-aprueba-el-impuesto-a-grandes-fortunas-y-lo-remite-al-senado"],
+   ["Público: 186 a 152 con 10 abstenciones", "https://www.publico.es/politica/mayoria-congreso-aprueba-impuestos-banca-energeticas-ricos.amp.html"]
+  ]
+ },
+ {
+  "id": "pge2023",
+  "tema": "Presupuestos",
+  "m": "Presupuestos Generales del Estado de 2023",
+  "dl": "24 nov 2022",
+  "r": "Aprobados (Título I) 186 a 149, 1 abstención",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
+  "s": "Últimos Presupuestos aprobados en la legislatura. Se recoge la votación del Título I del dictamen.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, Junts, la CUP, Foro, UPN y Teruel Existe; el BNG se abstuvo. Entre 2023 y 2026 no se aprobó ningún Presupuesto.",
+  "src": [
+   ["Congreso: votación oficial del Título I (24 nov 2022)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion217/20221124/Votacion386/VOT_20230302165306.json"]
+  ]
+ },
+ {
+  "id": "okupapp2022",
+  "tema": "Vivienda",
+  "m": "Ley del PP contra la okupación (toma en consideración)",
+  "dl": "29 nov 2022",
+  "r": "Rechazada 160 a 178, 6 abstenciones",
+  "v": {"PSOE": "no", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "si", "Cs": "si", "ERC": "no", "Junts": "no", "Bildu": "no", "PNV": "ab"},
+  "s": "Proposición de ley orgánica del PP para agilizar el desalojo de viviendas ocupadas.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Apoyaron PP, Vox, Ciudadanos, PDeCAT, UPN, Foro, CC, NC, PRC y Teruel Existe; el PNV se abstuvo.",
+  "src": [
+   ["Congreso: votación oficial (29 nov 2022)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion219/20221129/Votacion002/VOT_20230302163009.json"]
+  ]
+ },
+ {
+  "id": "losu",
+  "tema": "Educación",
+  "m": "Ley de universidades (LOSU)",
+  "dl": "9 mar 2023",
+  "r": "Aprobada 182 a 157, 8 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "ab", "Bildu": "ab", "PNV": "si"},
+  "s": "Ley Orgánica 2/2023 del Sistema Universitario. Votación de conjunto tras el Senado.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. El ministro Joan Subirats dijo que se tramitó con «un talante inequívoco de diálogo y consenso». Votaron en contra PP, Vox, Ciudadanos, BNG, PRC, Foro, UPN y la CUP; Junts se abstuvo y Bildu, salvo una diputada, también. No se ha localizado el argumento del PP en una fuente verificada.",
+  "src": [
+   ["Congreso: votación oficial (9 mar 2023)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion242/20230309/Votacion025/VOT_20230309144336.json"],
+   ["Servimedia", "https://www.servimedia.es/noticias/congreso-aprueba-nueva-ley-universidades-satisfaccion-independentistas-republicanos/3638466"]
+  ]
+ },
+ {
+  "id": "pensiones2023",
+  "tema": "Empleo y pensiones",
+  "m": "Reforma de las pensiones de 2023",
+  "dl": "30 mar 2023",
+  "r": "Convalidada 179 a 104, 61 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "ab", "Cs": "no", "ERC": "si", "Junts": "ab", "Bildu": "ab", "PNV": "si"},
+  "s": "Real Decreto-ley 2/2023: sube las bases máximas de cotización, mejora las pensiones mínimas y permite elegir los últimos 25 o 29 años para calcular la pensión.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Ciudadanos, BNG, la CUP, Foro y UPN; se abstuvieron Vox, Bildu y Junts. No se ha localizado el argumento del PP en una fuente verificada.",
+  "src": [
+   ["Congreso: votación oficial (30 mar 2023)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion250/20230330/Votacion020/VOT_20230330124303.json"]
+  ]
+ },
+ {
+  "id": "okupavox2023",
+  "tema": "Vivienda",
+  "m": "Ley de Vox contra la okupación (toma en consideración)",
+  "dl": "25 abr 2023",
+  "r": "Rechazada 150 a 186, 3 abstenciones",
+  "v": {"PSOE": "no", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "si", "Cs": "si", "ERC": "no", "Junts": "no", "Bildu": "no", "PNV": "no"},
+  "s": "Proposición de ley orgánica de Vox contra la ocupación ilegal de viviendas.",
+  "n": "Gobierno de coalición PSOE–Unidas Podemos. Solo la apoyaron PP, Vox, Ciudadanos, UPN y Foro; se abstuvieron CC, NC y PRC.",
+  "src": [
+   ["Congreso: votación oficial (25 abr 2023)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion254/20230425/Votacion002/VOT_20230425210938.json"]
   ]
  },
  {
   "id": "vivienda",
+  "tema": "Vivienda",
   "m": "Ley de vivienda (tope al alquiler)",
   "dl": "27 abr 2023",
   "r": "Aprobada 176 a 167, 1 abstención",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "no",
-   "Vox": "no",
-   "Cs": "no",
-   "ERC": "si",
-   "Junts": "no",
-   "Bildu": "si",
-   "PNV": "no"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "no", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "no"},
   "s": "Limita al 3% la subida anual de los alquileres en 2024, permite declarar zonas tensionadas con topes de precio y prevé un nuevo índice para actualizar rentas.",
   "n": "PP, Vox y Ciudadanos argumentaron que reduciría la oferta de alquiler. PNV, Junts y PDeCAT también votaron no; el PNV alegó que invadía competencias autonómicas. La abstención fue del BNG. Los economistas discrepan sobre los efectos de los topes.",
   "src": [
-   [
-    "elDiario.es",
-    "https://www.eldiario.es/economia/congreso-aprueba-ley-vivienda-votos-derechas_1_10155945.html"
-   ],
-   [
-    "idealista/news",
-    "https://www.idealista.com/news/inmobiliario/vivienda/2023/04/27/805657-aprobada-la-ley-de-vivienda-en-el-congreso-con-el-tope-al-alquiler-y-el-adios-al-IPC"
-   ]
+   ["elDiario.es", "https://www.eldiario.es/economia/congreso-aprueba-ley-vivienda-votos-derechas_1_10155945.html"],
+   ["idealista/news", "https://www.idealista.com/news/inmobiliario/vivienda/2023/04/27/805657-aprobada-la-ley-de-vivienda-en-el-congreso-con-el-tope-al-alquiler-y-el-adios-al-IPC"],
+   ["Congreso: votación oficial (27 abr 2023)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion256/20230427/Votacion173/VOT_20230427151734.json"]
+  ]
+ },
+ {
+  "id": "anticrisis2024",
+  "tema": "Energía",
+  "m": "Decreto anticrisis con IVA reducido de la luz y el gas",
+  "dl": "10 ene 2024",
+  "r": "Convalidado 172 a 171, 7 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "ab", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 8/2023: prorrogaba la rebaja del IVA de alimentos básicos, la luz y el gas, las ayudas al transporte y el escudo social.",
+  "n": "Gobierno de PSOE y Sumar. La primera votación empató a 171 sin que votara Junts; se repitió por llamamiento y salió por un voto con la abstención de los 7 diputados de Junts. Votaron en contra PP, Vox y UPN. Ciudadanos ya no tenía escaño.",
+  "src": [
+   ["Congreso: primera votación oficial (10 ene 2024)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/Votacion004/VOT_20240111114815.json"],
+   ["Telecinco: 172 a 171 con la abstención de Junts", "https://www.telecinco.es/noticias/espana/20240110/aprobacion-convalidacion-decreto-anticrisis-abstencion-junts_18_011404172.html"]
+  ]
+ },
+ {
+  "id": "subsidio2024a",
+  "tema": "Empleo y pensiones",
+  "m": "Reforma del subsidio de desempleo (primer decreto)",
+  "dl": "10 ene 2024",
+  "r": "Derogado 167 a 176",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "no", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "sd", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 7/2023: reformaba el subsidio de desempleo, ampliando a quién llega y su cuantía.",
+  "n": "Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox, UPN y los diputados de Podemos, que rechazaban el recorte en la cotización de los mayores de 52 años: «No tenemos nada por escrito», dijo Belarra. Junts no votó. Yolanda Díaz criticó que votaran «junto a la extrema derecha y el PP». Un nuevo decreto se convalidó en junio de 2024.",
+  "src": [
+   ["Congreso: votación oficial (10 ene 2024)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/Votacion003/VOT_20240111114814.json"],
+   ["elDiario.es", "https://www.eldiario.es/politica/confirma-no-tumba-decreto-subsidios-desempleo_1_10826150.html"]
+  ]
+ },
+ {
+  "id": "lanzamientos2024",
+  "tema": "Vivienda",
+  "m": "Suspensión de desahucios hipotecarios hasta 2028",
+  "dl": "13 jun 2024",
+  "r": "Convalidado 347 a 0, 1 abstención",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "si", "Vox": "si", "Cs": "sd", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 1/2024: prorrogaba hasta mayo de 2028 la suspensión de los lanzamientos hipotecarios a deudores vulnerables. No afecta al alquiler.",
+  "n": "Gobierno de PSOE y Sumar. Prácticamente por unanimidad; Ione Belarra (Podemos) lo llamó «una tirita» ante el problema de la vivienda.",
+  "src": [
+   ["Congreso: votación oficial (13 jun 2024)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion046/20240613/Votacion024/VOT_20240613125236.json"],
+   ["elDiario.es", "https://www.eldiario.es/politica/congreso-suspende-2028-desahucios-hipotecarios-unanimidad_1_11447368.html"]
+  ]
+ },
+ {
+  "id": "subsidio2024b",
+  "tema": "Empleo y pensiones",
+  "m": "Reforma del subsidio de desempleo",
+  "dl": "20 jun 2024",
+  "r": "Convalidado 178 a 0, 171 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "ab", "Vox": "ab", "Cs": "sd", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 2/2024: nueva versión de la reforma del subsidio de desempleo tras la caída del primer decreto en enero.",
+  "n": "Gobierno de PSOE y Sumar. Esta vez Podemos y Junts votaron a favor; PP, Vox y UPN se abstuvieron.",
+  "src": [
+   ["Congreso: votación oficial (20 jun 2024)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion049/20240620/Votacion019/VOT_20240620132741.json"]
+  ]
+ },
+ {
+  "id": "ela",
+  "tema": "Dependencia",
+  "m": "Ley ELA",
+  "dl": "10 oct 2024",
+  "r": "Aprobada 344 a 0",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "si", "Vox": "si", "Cs": "sd", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Ley 3/2024: cuidados de 24 horas en fase avanzada de ELA, agilización de la valoración de discapacidad y protección de los cuidadores.",
+  "n": "Gobierno de PSOE y Sumar. Era una proposición de todos los grupos y salió por unanimidad, tras casi tres años de tramitación; la financiación llegó después por decreto.",
+  "src": [
+   ["Congreso: votación oficial (10 oct 2024)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion066/20241010/Votacion015/VOT_20241010194930.json"],
+   ["elEconomista", "https://www.eleconomista.es/actualidad/noticias/13027143/10/24/el-congreso-aprueba-la-ley-ela-por-unanimidad-de-todos-los-grupos.html"]
+  ]
+ },
+ {
+  "id": "temporada2024",
+  "tema": "Vivienda",
+  "m": "Regular el alquiler de temporada y por habitaciones (toma en consideración)",
+  "dl": "17 dic 2024",
+  "r": "Tomada en consideración 176 a 169",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Proposición de ley de Sumar, ERC, Bildu y otros grupos para regular los alquileres de temporada y por habitaciones.",
+  "n": "Gobierno de PSOE y Sumar. En septiembre de 2024 una propuesta similar de Sumar había caído por el voto en contra de PP, Vox, Junts y UPN; en diciembre Junts cambió a favor. La ley no llegó a aprobarse antes de la disolución de las Cortes.",
+  "src": [
+   ["Congreso: votación oficial (17 dic 2024)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion086/20241217/Votacion001/VOT_20241217205720.json"],
+   ["Congreso: votación de septiembre de 2024", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json"]
   ]
  },
  {
   "id": "omnibus25",
+  "tema": "Empleo y pensiones",
   "m": "Decreto ómnibus con subida de pensiones",
   "dl": "22 ene 2025",
   "r": "Derogado 171 a 177, 1 abstención",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "no",
-   "Vox": "no",
-   "Cs": "sd",
-   "ERC": "si",
-   "Junts": "no",
-   "Bildu": "si",
-   "PNV": "si"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
   "s": "Un único decreto juntaba la revalorización del 2,8% de las pensiones, las ayudas al transporte, el bono social eléctrico y la suspensión de desahucios a familias vulnerables, junto a medidas sin relación como la cesión de un palacete en París al PNV.",
-  "n": "PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Se abstuvo UPN; Cs ya no tenía escaño. El 12 de febrero de 2025 se convalidó un nuevo decreto ómnibus que mantenía las pensiones, el transporte, las ayudas por la DANA, la suspensión de desahucios y la devolución del palacete al PNV, con 315 votos a favor, incluidos PP y Junts, y solo Vox en contra.",
+  "n": "PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Se abstuvo UPN; Cs ya no tenía escaño. El 12 de febrero de 2025 se convalidó un nuevo decreto ómnibus que mantenía las pensiones, el transporte, las ayudas por la DANA, la suspensión de desahucios y la devolución del palacete al PNV, con 315 votos a favor, incluidos PP y Junts, y solo Vox en contra; el PP dijo que votaba sí «por los pensionistas, los valencianos y los usuarios de transporte».",
   "src": [
-   [
-    "elDiario.es",
-    "https://www.eldiario.es/politica/junts-anuncia-voto-decretos-gobierno-deja-pensiones-manos-pp_1_11983907.html"
-   ],
-   [
-    "Servimedia: la votación por grupos",
-    "https://www.servimedia.es/noticias/pp-vox-junts-tumban-decreto-omnibus-revalorizaba-pensiones-prorrogaba-ayudas-transporte/1411446794"
-   ],
-   [
-    "Infobae: el nuevo decreto ómnibus, convalidado (feb 2025)",
-    "https://www.infobae.com/espana/2025/02/12/el-congreso-aprueba-de-nuevo-el-decreto-omnibus-con-la-subida-de-pensiones/"
-   ]
+   ["elDiario.es", "https://www.eldiario.es/politica/junts-anuncia-voto-decretos-gobierno-deja-pensiones-manos-pp_1_11983907.html"],
+   ["Servimedia: la votación por grupos", "https://www.servimedia.es/noticias/pp-vox-junts-tumban-decreto-omnibus-revalorizaba-pensiones-prorrogaba-ayudas-transporte/1411446794"],
+   ["Infobae: el PP votará a favor del nuevo decreto (ene 2025)", "https://www.infobae.com/espana/2025/01/29/el-pp-votara-ahora-a-favor-del-nuevo-decreto-omnibus-tras-quedar-fuera-de-foco-por-el-pacto-entre-el-gobierno-y-junts/"],
+   ["Congreso: votación oficial (22 ene 2025)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/Votacion001/VOT_20250122154425.json"],
+   ["Congreso: votación oficial del nuevo decreto (12 feb 2025)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion012/VOT_20250212154047.json"]
+  ]
+ },
+ {
+  "id": "gravamen2025",
+  "tema": "Energía",
+  "m": "Prórroga del impuesto a las energéticas",
+  "dl": "22 ene 2025",
+  "r": "Derogado 165 a 183, 1 abstención",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "no"},
+  "s": "Real Decreto-ley 10/2024: mantenía en 2025 el gravamen temporal a las grandes energéticas.",
+  "n": "Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox, Junts, UPN y el PNV, que alegó: «no podemos apoyar estas figuras que no se pueden concertar». La ministra María Jesús Montero defendió que «quienes más ganan más tienen que contribuir».",
+  "src": [
+   ["Congreso: votación oficial (22 ene 2025)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/Votacion002/VOT_20250122154427.json"],
+   ["elDiario.es", "https://www.eldiario.es/economia/1-000-millones-arcas-publicas-pnv-junts-tumban-impuesto-energeticas_1_11984026.html"]
+  ]
+ },
+ {
+  "id": "okupajunts2025",
+  "tema": "Vivienda",
+  "m": "Ley de Junts contra la multirreincidencia y la okupación (toma en consideración)",
+  "dl": "18 mar 2025",
+  "r": "Tomada en consideración 300 a 44",
+  "v": {"PSOE": "si", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "si", "Cs": "sd", "ERC": "no", "Junts": "si", "Bildu": "no", "PNV": "si"},
+  "s": "Proposición de ley de Junts que incluía medidas contra la ocupación de viviendas.",
+  "n": "Gobierno de PSOE y Sumar. El PSOE votó a favor junto a PP, Vox y Junts; Sumar, su socio de Gobierno, votó en contra con ERC, Bildu, Podemos y BNG.",
+  "src": [
+   ["Congreso: votación oficial (18 mar 2025)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion099/20250318/Votacion001/VOT_20250318201321.json"]
+  ]
+ },
+ {
+  "id": "apagon2025",
+  "tema": "Energía",
+  "m": "Decreto «antiapagones»",
+  "dl": "22 jul 2025",
+  "r": "Derogado 165 a 183",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "no", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 7/2025, tras el apagón de abril de 2025: medidas para reforzar el sistema eléctrico.",
+  "n": "Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox, Junts, Podemos, BNG y UPN. Ione Belarra (Podemos): «Es un real decreto que podría haber escrito Sánchez Galán». La ministra Sara Aagesen defendió que había «un enorme consenso social» sobre su contenido.",
+  "src": [
+   ["Congreso: votación oficial (22 jul 2025)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/Votacion017/VOT_20250722200830.json"],
+   ["elDiario.es", "https://www.eldiario.es/politica/pp-vox-junts-tumban-decreto-gobierno-evitar-nuevo-apagon-total_1_12484195.html"]
   ]
  },
  {
   "id": "jornada",
+  "tema": "Empleo y pensiones",
   "m": "Reducción de jornada a 37,5 horas",
   "dl": "10 sep 2025",
   "r": "Devuelta al Gobierno 178 a 170",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "no",
-   "Vox": "no",
-   "Cs": "sd",
-   "ERC": "si",
-   "Junts": "no",
-   "Bildu": "si",
-   "PNV": "si"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
   "s": "Bajaba la jornada máxima legal de 40 a 37,5 horas semanales sin reducción de sueldo y obligaba a un registro horario digital.",
   "n": "Prosperaron las enmiendas a la totalidad de PP, Vox y Junts, con el apoyo de UPN. PP alegó que debía pactarse con la patronal y que se trasladaría a los convenios; PP y Vox advirtieron de que acabaría en bajadas de sueldo. Junts argumentó que el 96% de las empresas catalanas tienen menos de 10 trabajadores y que el coste recaería sobre ellas.",
   "src": [
-   [
-    "El Español",
-    "https://www.elespanol.com/espana/20250910/congreso-tumba-gobierno-reduccion-jornada-laboral-votos-pp-vox-junts-frente/1003743919055_0.html"
-   ],
-   [
-    "idealista/news",
-    "https://www.idealista.com/news/finanzas/economia/2025/09/11/859545-el-congreso-tumba-la-reduccion-de-jornada-laboral-al-prosperar-el-veto-de-pp-vox-y"
-   ]
+   ["El Español", "https://www.elespanol.com/espana/20250910/congreso-tumba-gobierno-reduccion-jornada-laboral-votos-pp-vox-junts-frente/1003743919055_0.html"],
+   ["idealista/news", "https://www.idealista.com/news/finanzas/economia/2025/09/11/859545-el-congreso-tumba-la-reduccion-de-jornada-laboral-al-prosperar-el-veto-de-pp-vox-y"],
+   ["Congreso: votación oficial (10 sep 2025)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion130/20250910/Votacion010/VOT_20250910213544.json"]
   ]
  },
  {
   "id": "omnibus26",
+  "tema": "Empleo y pensiones",
   "m": "Decreto con pensiones y freno a desahucios",
   "dl": "27 ene 2026",
   "r": "Derogado 171 a 178",
-  "v": {
-   "PSOE": "si",
-   "UP / Sumar": "si",
-   "PP": "no",
-   "Vox": "no",
-   "Cs": "sd",
-   "ERC": "si",
-   "Junts": "no",
-   "Bildu": "si",
-   "PNV": "si"
-  },
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
   "s": "Real Decreto-ley 16/2025. Incluía la subida del 2,7% de las pensiones ya aplicada en enero, la suspensión de desahucios a personas vulnerables y la congelación de cuotas de autónomos.",
-  "n": "PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno separó las medidas: el 26 de febrero de 2026 la subida de las pensiones se convalidó con el voto en contra solo de Vox, y el decreto del escudo social, con la suspensión de desahucios, volvió a caer con el voto en contra de Vox y Junts.",
+  "n": "PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno separó las medidas: el 26 de febrero de 2026 la subida de las pensiones se convalidó con el voto en contra solo de Vox, y el decreto del escudo social, con la suspensión de desahucios, volvió a caer con el voto en contra de PP, Vox y Junts.",
   "src": [
-   [
-    "Congreso: resultado oficial de la votación (27 ene 2026)",
-    "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153132.pdf"
-   ],
-   [
-    "Euronews",
-    "https://es.euronews.com/2026/01/27/pensiones-ocupaciones-oposicion-tumba-decreto-omnibus-gobierno"
-   ],
-   [
-    "Canal Sur: el nuevo decreto de pensiones",
-    "https://www.canalsur.es/noticias/espana/congreso-desbloquea-revalorizacion-pensiones-apoyo_1_1385986.html"
-   ],
-   [
-    "Euronews: pensiones aprobadas y escudo social tumbado (26 feb 2026)",
-    "https://es.euronews.com/2026/02/26/el-congreso-aprueba-la-revalorizacion-de-las-pensiones-en-2026-y-tumba-el-escudo-social"
-   ]
+   ["Congreso: resultado oficial de la votación (27 ene 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153132.pdf"],
+   ["Euronews", "https://es.euronews.com/2026/01/27/pensiones-ocupaciones-oposicion-tumba-decreto-omnibus-gobierno"],
+   ["Canal Sur: el nuevo decreto de pensiones", "https://www.canalsur.es/noticias/espana/congreso-desbloquea-revalorizacion-pensiones-apoyo_1_1385986.html"],
+   ["Euronews: pensiones aprobadas y escudo social tumbado (26 feb 2026)", "https://es.euronews.com/2026/02/26/el-congreso-aprueba-la-revalorizacion-de-las-pensiones-en-2026-y-tumba-el-escudo-social"]
+  ]
+ },
+ {
+  "id": "escudo2026",
+  "tema": "Vivienda",
+  "m": "Escudo social sin las pensiones (suspensión de desahucios)",
+  "dl": "26 feb 2026",
+  "r": "Derogado 172 a 177, 1 abstención",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 2/2026: mantenía la suspensión de desahucios de personas vulnerables y otras medidas sociales, ya separadas de la subida de las pensiones.",
+  "n": "Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox y Junts, que asociaban la suspensión de desahucios a la okupación; UPN se abstuvo. El ministro Félix Bolaños pidió a quienes decían que beneficiaba a los okupas que «no mientan a la ciudadanía».",
+  "src": [
+   ["Congreso: votación oficial (26 feb 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion164/20260226/Votacion022/VOT_20260226153428.json"],
+   ["Público", "https://www.publico.es/politica/congreso/pp-junts-vox-tumban-escudo-social-decreto-topar-precios-situaciones-emergencia.html"]
+  ]
+ },
+ {
+  "id": "oriente2026",
+  "tema": "Energía",
+  "m": "Plan por la crisis de Oriente Medio (IVA de la luz, el gas y los carburantes)",
+  "dl": "26 mar 2026",
+  "r": "Convalidado 175 a 33, 141 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "ab", "PP": "ab", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 7/2026: rebajaba al 10% el IVA de la luz, el gas y los carburantes y prorrogaba el bono social, ante la subida de precios por la guerra con Irán.",
+  "n": "Gobierno de PSOE y Sumar. El ministro Carlos Cuerpo defendió la necesidad de «proteger y preparar» la economía. Vox votó en contra y se abstuvieron PP y Podemos. En julio de 2026 se convalidó su prórroga con el mismo reparto de votos.",
+  "src": [
+   ["Congreso: votación oficial (26 mar 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion170/20260326/Votacion001/VOT_20260326165354.json"],
+   ["elDiario.es", "https://www.eldiario.es/politica/congreso-convalida-decreto-paliar-efectos-economicos-guerra-iran_1_13100625.html"]
+  ]
+ },
+ {
+  "id": "suelo2026",
+  "tema": "Vivienda",
+  "m": "Ley del suelo del PP (toma en consideración)",
+  "dl": "21 abr 2026",
+  "r": "Tomada en consideración 178 a 163, 6 abstenciones",
+  "v": {"PSOE": "no", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "si", "Cs": "sd", "ERC": "no", "Junts": "si", "Bildu": "no", "PNV": "ab"},
+  "s": "Proposición de ley del PP sobre suelo y urbanismo para facilitar la construcción de vivienda.",
+  "n": "Gobierno de PSOE y Sumar. Salió con PP, Vox, Junts y UPN; se abstuvieron PNV y CC.",
+  "src": [
+   ["Congreso: votación oficial (21 abr 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion173/20260421/Votacion001/VOT_20260421201008.json"]
+  ]
+ },
+ {
+  "id": "alquiler2026",
+  "tema": "Vivienda",
+  "m": "Prórroga de los alquileres al mismo precio por la guerra con Irán",
+  "dl": "28 abr 2026",
+  "r": "Derogado 166 a 177, 5 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "ab"},
+  "s": "Real Decreto-ley 8/2026: permitía prorrogar los contratos de alquiler que vencían sin subir la renta.",
+  "n": "Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox, Junts y UPN; el PNV se abstuvo. Marta Madrenas (Junts) lo llamó «operación de propaganda» «jurídicamente muy defectuosa»; el ministro Pablo Bustinduy respondió que «no todo son fichas en un tablero».",
+  "src": [
+   ["Congreso: votación oficial (28 abr 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json"],
+   ["elDiario.es", "https://www.eldiario.es/politica/congreso-rechazara-prorroga-alquileres-voto-pp-vox-junts-abstencion-pnv_1_13180051.html"]
+  ]
+ },
+ {
+  "id": "okupapp2026",
+  "tema": "Vivienda",
+  "m": "Ley del PP contra la okupación (toma en consideración)",
+  "dl": "19 may 2026",
+  "r": "Tomada en consideración 171 a 164, 11 abstenciones",
+  "v": {"PSOE": "no", "UP / Sumar": "no", "Podemos": "no", "PP": "si", "Vox": "si", "Cs": "sd", "ERC": "no", "Junts": "ab", "Bildu": "no", "PNV": "ab"},
+  "s": "Proposición de ley orgánica del PP contra la ocupación de viviendas.",
+  "n": "Gobierno de PSOE y Sumar. Salió con PP, Vox, UPN y CC; se abstuvieron PNV y Junts.",
+  "src": [
+   ["Congreso: votación oficial (19 may 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion179/20260519/Votacion001/VOT_20260519203502.json"]
+  ]
+ },
+ {
+  "id": "ratios2026",
+  "tema": "Educación",
+  "m": "Ley de ratios y horas lectivas (enmiendas a la totalidad)",
+  "dl": "18 jun 2026",
+  "r": "Vetos rechazados 11 a 329, 7 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "si", "Vox": "si", "Cs": "sd", "ERC": "ab", "Junts": "no", "Bildu": "si", "PNV": "no"},
+  "s": "Proyecto de ley para bajar el número de alumnos por aula y las horas lectivas del profesorado. Se votaban las enmiendas a la totalidad de PNV y Junts: votar a favor de devolverla cuenta aquí como «No».",
+  "n": "Gobierno de PSOE y Sumar. PNV y Junts alegaron que invadía competencias autonómicas; ERC y CC se abstuvieron. La ley no llegó a aprobarse antes de la disolución de las Cortes.",
+  "src": [
+   ["Congreso: votación oficial (18 jun 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion188/20260618/Votacion021/VOT_20260618162244.json"],
+   ["Deia (EFE)", "https://www.deia.eus/actualidad/sociedad/2026/06/18/ley-rebaja-ratios-escolares-supera-11219658.html"]
+  ]
+ },
+ {
+  "id": "dependencia2026",
+  "tema": "Dependencia",
+  "m": "Refuerzo de la financiación de la dependencia",
+  "dl": "14 jul 2026",
+  "r": "Convalidado 317 a 33",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "si", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "si", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 17/2026: 6.200 millones adicionales para las comunidades autónomas entre 2026 y 2027 para la atención a la dependencia.",
+  "n": "Gobierno de PSOE y Sumar. Solo Vox votó en contra: su diputada María Ruiz lo llamó «otro engaño de este Gobierno miserable». El ministro Pablo Bustinduy dijo al PP que tenía «6.200 millones de razones» para apoyarlo, y el PP votó a favor.",
+  "src": [
+   ["Congreso: votación oficial (14 jul 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion192/20260714/Votacion052/VOT_20260714202058.json"],
+   ["El Independiente", "https://www.elindependiente.com/espana/2026/07/14/congreso-giro-historico-dependencia-financiacion-desburocratizacion-bustinduy/"]
+  ]
+ },
+ {
+  "id": "vivienda26",
+  "tema": "Vivienda",
+  "m": "Desahucios por grandes tenedores y tope del 2% al alquiler",
+  "dl": "2 oct 2026",
+  "r": "Derogado 172 a 178 (votación a viva voz)",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "si"},
+  "s": "Real Decreto-ley 26/2026: suspendía hasta 2030 los desahucios cuando el dueño es un fondo o gran tenedor, permitía una prórroga extraordinaria de dos años y limitaba al 2% la subida de las rentas.",
+  "n": "Gobierno de PSOE y Sumar. Votación a viva voz, aún no publicada en los datos abiertos: el recuento es el de la prensa. Lo tumbaron PP, Junts y Vox. El ministro Pablo Bustinduy dijo que cada desahucio desde esa votación llevaría «los nombres y los apellidos» de quienes votaron no. El 6 de octubre el Gobierno aprobó nuevos decretos que debe votar la Diputación Permanente.",
+  "src": [
+   ["Infobae: las medidas que decaen", "https://www.infobae.com/espana/2026/10/02/los-fondos-seguiran-desahuciando-los-propietarios-subiran-la-renta-y-el-alquiler-de-temporada-no-se-regulara-las-medidas-que-decaen-con-el-no-de-pp-junts-y-vox-al-decreto/"],
+   ["elDiario.es", "https://www.eldiario.es/politica/junts-pp-vox-tumban-decretos-vivienda-congreso_1_13557141.html"]
+  ]
+ },
+ {
+  "id": "vivienda27",
+  "tema": "Vivienda",
+  "m": "Prórroga automática de los contratos de alquiler",
+  "dl": "2 oct 2026",
+  "r": "Derogado 166 a 184 (votación a viva voz)",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "si", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "no"},
+  "s": "Real Decreto-ley 27/2026: prórroga automática de los contratos de alquiler hasta 5 o 7 años e indemnización al inquilino.",
+  "n": "Gobierno de PSOE y Sumar. Votación a viva voz, aún no publicada en los datos abiertos: el recuento es el de la prensa. Votaron en contra PP, Vox, Junts, PNV, Coalición Canaria y UPN; a favor PSOE, Sumar, ERC, Bildu, Podemos, BNG y Compromís.",
+  "src": [
+   ["Andalucía Información: el Congreso rechaza los dos decretos", "https://www.andaluciainformacion.es/articulo/espana/congreso-rechaza-dos-decretos-vivienda/202610021610373495690.html"],
+   ["elDiario.es", "https://www.eldiario.es/politica/junts-pp-vox-tumban-decretos-vivienda-congreso_1_13557141.html"]
   ]
  }
 ]

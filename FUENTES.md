@@ -1979,9 +1979,115 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Infobae (EFE): el TC avala amnistiar la malversación](https://www.infobae.com/america/agencias/2026/10/06/el-constitucional-avala-amnistiar-la-malversacion-de-dirigentes-del-proces/)
   - [El Nacional: votación y magistrados](https://www.elnacional.cat/es/politica/constitucional-avala-amnistia-malversacion-1-o-aprieta-supremo-retorno-puigdemont_1705828_102.html)
 
-## Qué votó cada partido (9)
+## Qué votó cada partido (56)
 
 "Sí" = a favor de que la medida saliera adelante. s/d = sin dato verificado.
+
+### Financiación del bono social eléctrico
+- Fecha: 31 ene 2017
+- Resultado: Convalidado 248 a 77, 15 abstenciones
+- Votos: PSOE Sí · UP / Sumar No · PP Sí · Vox s/d · Cs Sí · ERC No · Junts Abst. · Bildu No · PNV Abst.
+- Qué decía: Real Decreto-ley 7/2016 del Gobierno de Rajoy: fijaba cómo se financia el bono social, el descuento en la factura de la luz para consumidores vulnerables.
+- Contexto: Gobierno de Rajoy (PP). Votaron a favor PP, PSOE, Ciudadanos, UPN, CC, Foro y NC; en contra Unidos Podemos, ERC y Bildu; se abstuvieron PNV, PDeCAT y Compromís. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial (31 ene 2017)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion024/20170131/Votacion003/VOT_20201204142719.json)
+
+### Desahucio exprés de viviendas ocupadas (toma en consideración)
+- Fecha: 14 mar 2017
+- Resultado: Tomada en consideración 176 a 162
+- Votos: PSOE No · UP / Sumar No · PP Sí · Vox s/d · Cs Sí · ERC No · Junts Sí · Bildu No · PNV Sí
+- Qué decía: Proposición de ley del PDeCAT para crear un procedimiento civil rápido con el que recuperar viviendas ocupadas sin título. Acabó en la Ley 5/2018.
+- Contexto: Gobierno de Rajoy (PP). La propuso el PDeCAT (hoy Junts), con el apoyo de PP, Ciudadanos, PNV, UPN y Foro; votaron en contra PSOE, Unidos Podemos, ERC, Bildu, Compromís, CC y NC. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial (14 mar 2017)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion035/20170314/Votacion001/VOT_20201204141748.json)
+
+### Prórroga de la suspensión de desahucios hipotecarios a familias vulnerables
+- Fecha: 30 mar 2017
+- Resultado: Convalidado 237 a 0, 77 abstenciones
+- Votos: PSOE Sí · UP / Sumar Abst. · PP Sí · Vox s/d · Cs Sí · ERC Abst. · Junts s/d · Bildu Abst. · PNV Sí
+- Qué decía: Real Decreto-ley 5/2017 del Gobierno de Rajoy: prorrogaba la suspensión de los lanzamientos por impago de hipoteca para deudores vulnerables.
+- Contexto: Gobierno de Rajoy (PP). Nadie votó en contra; se abstuvieron Unidos Podemos, ERC, Compromís y Bildu. El PDeCAT no votó: en el fichero oficial de esa legislatura sus diputados aparecen con «No», pero el total oficial no recoge ningún voto en contra. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial (30 mar 2017)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion042/20170330/Votacion002/VOT_20201204141558.json)
+
+### Presupuestos Generales del Estado de 2017
+- Fecha: 30 may 2017
+- Resultado: Aprobados (Título I) 176 a 173
+- Votos: PSOE No · UP / Sumar No · PP Sí · Vox s/d · Cs Sí · ERC No · Junts No · Bildu No · PNV Sí
+- Qué decía: Presupuestos del Gobierno de Rajoy. En los Presupuestos no hay una votación de conjunto: se recoge la del Título I del dictamen como votación representativa.
+- Contexto: Gobierno de Rajoy (PP). Los sacaron adelante PP, Ciudadanos, PNV, CC, UPN, Foro y NC. Las enmiendas a la totalidad habían empatado a 175 votos el 4 de mayo y, con el empate, no prosperaron. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial del Título I (30 may 2017)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion056/20170530/Votacion015/VOT_20201204133516.json)
+  - [Congreso: enmiendas a la totalidad (4 may 2017)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion047/20170504/Votacion003/VOT_20201204140841.json)
+
+### Presupuestos Generales del Estado de 2018
+- Fecha: 22 may 2018
+- Resultado: Aprobados (Título I) 176 a 171
+- Votos: PSOE No · UP / Sumar No · PP Sí · Vox s/d · Cs Sí · ERC No · Junts No · Bildu No · PNV Sí
+- Qué decía: Presupuestos del Gobierno de Rajoy, que incluían la subida del 1,6% de las pensiones pactada con el PNV, el alza del salario mínimo y de los sueldos de los funcionarios.
+- Contexto: Gobierno de Rajoy (PP): el Congreso los aprobó el 22 de mayo, antes de la moción de censura del 1 de junio. Los apoyaron PP, Ciudadanos, PNV, CC, NC, UPN y Foro. Las enmiendas del Senado se votaron el 28 de junio, ya con Sánchez en el Gobierno. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial del Título I (22 may 2018)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion117/20180522/Votacion002/VOT_20201204120844.json)
+  - [elDiario.es: aprobación definitiva](https://www.eldiario.es/economia/congreso-definitivamente-presupuestos-pp-psoe_1_2056663.html)
+
+### Sanidad universal
+- Fecha: 6 sep 2018
+- Resultado: Convalidado 177 a 133, 31 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox s/d · Cs Abst. · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 7/2018: devolvía el derecho a la atención sanitaria pública a todos los residentes, incluidos los extranjeros en situación irregular, que quedaron excluidos en 2012.
+- Contexto: Primer Gobierno de Sánchez (PSOE). La ministra Carmen Montón dijo: «Para el Gobierno anterior era urgente recortar derechos, para éste lo urgente es recuperarlos». El PP votó en contra y Ciudadanos se abstuvo. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial (6 sep 2018)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion137/20180906/Votacion003/VOT_20201204113602.json)
+  - [Público](https://www.publico.es/politica/psoe-comienza-curso-parlamentario-recuperando-sanidad-universal.html)
+
+### Fin del «impuesto al sol» y medidas contra la subida de la luz
+- Fecha: 18 oct 2018
+- Resultado: Convalidado 180 a 2, 160 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Abst. · Vox s/d · Cs Abst. · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 15/2018: suprimía el peaje al autoconsumo, suspendía seis meses el impuesto del 7% a la generación eléctrica y ampliaba el bono social.
+- Contexto: Primer Gobierno de Sánchez (PSOE). PP y Ciudadanos se abstuvieron; el diputado del PP Guillermo Mariscal expresó «dudas» sobre el volumen de autoconsumo que puede asumir el sistema. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial (18 oct 2018)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion150/20181018/Votacion003/VOT_20201204112546.json)
+  - [elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-impuesto-ampliacion-abaratar_1_1888018.html)
+
+### Decreto de alquiler de 2018 (contratos de 5 años)
+- Fecha: 22 ene 2019
+- Resultado: Derogado 103 a 243
+- Votos: PSOE Sí · UP / Sumar No · PP No · Vox s/d · Cs No · ERC No · Junts Sí · Bildu No · PNV Sí
+- Qué decía: Real Decreto-ley 21/2018: alargaba los contratos de alquiler de 3 a 5 años (7 si el casero es una empresa) y limitaba las fianzas.
+- Contexto: Primer Gobierno de Sánchez (PSOE). Lo tumbaron PP, Ciudadanos, Unidos Podemos, ERC y Bildu. Unidos Podemos dijo que «no tiene sentido» alargar los contratos si no se limitan las subidas de precio; el PP, que no resolvía «el verdadero problema, la falta de vivienda y de seguridad jurídica». En abril de 2019 la Diputación Permanente convalidó un nuevo decreto (7/2019) que limitaba las subidas al IPC, con el apoyo de Podemos y el voto en contra de PP y Ciudadanos. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial (22 ene 2019)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion168/20190122/Votacion001/VOT_20201204111026.json)
+  - [elDiario.es: la votación](https://www.eldiario.es/economia/pp-ciudadanos-unidos-podemos-erc_1_1740829.html)
+  - [elDiario.es: el decreto de abril de 2019](https://www.eldiario.es/economia/pnv-suspenso-convalidacion-decreto-alquiler_1_1617336.html)
+
+### Revalorización de las pensiones para 2019
+- Fecha: 22 ene 2019
+- Resultado: Convalidado 181 a 1, 164 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Abst. · Vox s/d · Cs Abst. · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 28/2018: subía las pensiones un 1,6% y las mínimas un 3%, y subía las bases de cotización de los autónomos.
+- Contexto: Primer Gobierno de Sánchez (PSOE). PP y Ciudadanos se abstuvieron; no se ha localizado su argumento en una fuente verificada. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial (22 ene 2019)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion168/20190122/Votacion014/VOT_20201204111047.json)
+
+### Presupuestos Generales del Estado de 2019
+- Fecha: 13 feb 2019
+- Resultado: Devueltos al Gobierno 191 a 158
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox s/d · Cs No · ERC No · Junts No · Bildu No · PNV Sí
+- Qué decía: Presupuestos del primer Gobierno de Sánchez, que el Gobierno presentaba como «los más sociales de la historia». Se votaban las enmiendas a la totalidad: votar a favor de devolverlos cuenta aquí como «No».
+- Contexto: Primer Gobierno de Sánchez (PSOE). Los tumbaron PP, Ciudadanos, ERC, PDeCAT, Bildu, CC, UPN y Foro, con dos diputadas de Unidos Podemos; NC se abstuvo. Su caída llevó a las elecciones de abril de 2019. Vox no tenía escaño.
+- Fuentes:
+  - [Congreso: votación oficial (13 feb 2019)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion170/20190213/Votacion001/VOT_20201204110943.json)
+  - [elDiario.es](https://www.eldiario.es/politica/congreso-tumba-presupuestos-pedro-sanchez_1_1704281.html)
+
+### Escudo social de la pandemia (moratoria de alquileres)
+- Fecha: 9 abr 2020
+- Resultado: Convalidado 171 a 2, 174 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Abst. · Vox Abst. · Cs Sí · ERC Abst. · Junts Abst. · Bildu Abst. · PNV Abst.
+- Qué decía: Real Decreto-ley 11/2020: moratoria del alquiler para inquilinos vulnerables, suspensión de desahucios y otras medidas sociales al inicio de la pandemia.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Salió con el apoyo de PSOE, Unidas Podemos y Ciudadanos, entre otros; se abstuvieron PP, Vox, ERC, Bildu, PNV y Junts, y votó en contra la CUP.
+- Fuentes:
+  - [Congreso: votación oficial (9 abr 2020)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion016/20200409/Votacion014/VOT_20201204105618.json)
 
 ### Prórroga de los ERTE hasta el 30 de junio
 - Fecha: 27 may 2020
@@ -2004,6 +2110,26 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/economia/congreso-decreto-ingreso-minimo-vital_1_6024757.html)
   - [Infobae: qué votaron PP y Vox](https://www.infobae.com/espana/2023/05/31/que-votaron-pp-y-vox-cuando-se-convalido-el-ingreso-minimo-vital-en-el-congreso/)
 
+### Ley de educación (LOMLOE, «ley Celaá»)
+- Fecha: 19 nov 2020
+- Resultado: Aprobada 177 a 148, 17 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts Abst. · Bildu Abst. · PNV Sí
+- Qué decía: Ley Orgánica 3/2020: quitaba la mención al castellano como lengua vehicular, limitaba la cesión de suelo público a la concertada y ampliaba la etapa de 0 a 3 años. Votación de conjunto en el Congreso, por mayoría absoluta.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, CC, PRC, Foro y UPN; se abstuvieron Bildu, Junts, PDeCAT, BNG, la CUP y Teruel Existe. El voto en contra de un diputado de Unidas Podemos fue un error, según Maldita.
+- Fuentes:
+  - [Congreso: votación oficial (19 nov 2020)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion061/20201119/Votacion205/VOT_20201119170933.json)
+  - [Maldita: errores en votaciones](https://maldita.es/malditahemeroteca/20220721/errores-votaciones-congreso-senado/)
+
+### Presupuestos Generales del Estado de 2021
+- Fecha: 3 dic 2020
+- Resultado: Aprobados (Título I) 188 a 150
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Primeros Presupuestos del Gobierno de coalición, ocho años después de los últimos que no eran del PP. Se recoge la votación del Título I del dictamen.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Los apoyaron también ERC, PNV, Bildu, PDeCAT, Más País, Compromís, Teruel Existe, PRC y NC; votaron en contra PP, Vox, Ciudadanos, Junts, BNG, la CUP, CC, Foro y UPN.
+- Fuentes:
+  - [Congreso: votación oficial del Título I (3 dic 2020)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion065/20201203/Votacion001/VOT_20201211162324.json)
+  - [El Salto](https://www.elsaltodiario.com/pge/aprobacion-primeros-presupuestos-pedro-sanchez)
+
 ### Decreto de gestión de los fondos europeos de recuperación
 - Fecha: 28 ene 2021
 - Resultado: Aprobado 170 a 126, 52 abstenciones
@@ -2014,6 +2140,82 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/economia/gobierno-salva-decreto-ley-fondos-europeos-abstencion-vox-apoyo-pnv-bildu_1_7175720.html)
   - [Público: 170 a 126 con la abstención de Vox](https://www.publico.es/politica/gobierno-saca-adelante-congreso-decreto-fondos-europeos-gracias-abstencion-vox.html)
 
+### Suspensión de desahucios de familias vulnerables
+- Fecha: 28 ene 2021
+- Resultado: Convalidado 198 a 146, 4 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs Sí · ERC Sí · Junts No · Bildu Sí · PNV Abst.
+- Qué decía: Real Decreto-ley 37/2020: suspendía durante el estado de alarma los desahucios de familias vulnerables sin alternativa habitacional.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Junts, UPN y Foro; el PNV se abstuvo. Un diputado de Vox votó a favor.
+- Fuentes:
+  - [Congreso: votación oficial (28 ene 2021)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion070/20210128/Votacion007/VOT_20210128190135.json)
+
+### Ley de eutanasia
+- Fecha: 18 mar 2021
+- Resultado: Aprobada 202 a 141, 2 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs Sí · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Ley Orgánica 3/2021: regula la ayuda para morir con requisitos y comisiones de garantía. Votación final tras el Senado.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. La ministra Carolina Darias dijo: «Hoy damos un paso más para tener una sociedad más decente». PP y Vox la llamaron «poco garantista» y criticaron su tramitación «en tiempo récord». Consta un voto a favor de un diputado de Vox en el registro oficial.
+- Fuentes:
+  - [Congreso: votación oficial (18 mar 2021)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion085/20210318/Votacion012/VOT_20210318133141.json)
+  - [El Español](https://www.elespanol.com/espana/20210318/pleno-congreso-aprueba-definitivamente-ley-eutanasia/566943771_0.html)
+
+### Rebaja del IVA de la luz al 10%
+- Fecha: 21 jul 2021
+- Resultado: Convalidado 193 a 3, 152 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Abst. · Vox Abst. · Cs Sí · ERC Sí · Junts Sí · Bildu Abst. · PNV Sí
+- Qué decía: Real Decreto-ley 12/2021: bajaba el IVA de la factura eléctrica del 21% al 10% para la mayoría de consumidores.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. El PP (Juan Diego Requena) dijo que «la luz jamás estuvo tan alta durante tanto tiempo» y se abstuvo, como Vox. Bildu también se abstuvo y criticó que el Gobierno actuara «sobre la parte más pequeña en lugar de parar al oligopolio de la energía».
+- Fuentes:
+  - [Congreso: votación oficial (21 jul 2021)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion113/20210721/Votacion001/VOT_20210721165612.json)
+  - [El Español](https://www.elespanol.com/espana/politica/20210721/gobierno-aprueba-rebaja-iva-socios-pidiendo-nacionalizacion/598190539_0.html)
+
+### Recorte de los «beneficios caídos del cielo» de las eléctricas
+- Fecha: 14 oct 2021
+- Resultado: Convalidado 182 a 150, 13 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts Abst. · Bildu Sí · PNV Abst.
+- Qué decía: Real Decreto-ley 17/2021: recortaba los ingresos extraordinarios que las centrales no emisoras obtenían por la subida del gas.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, UPN y Foro; se abstuvieron PNV y Junts.
+- Fuentes:
+  - [Congreso: votación oficial (14 oct 2021)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion124/20211014/Votacion005/VOT_20211014194846.json)
+
+### Prórroga del escudo social
+- Fecha: 11 nov 2021
+- Resultado: Convalidado 285 a 11, 52 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Sí · Vox Abst. · Cs No · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 21/2021: prorrogaba la suspensión de desahucios de vulnerables y otras medidas sociales de la pandemia.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Votaron a favor también el PP y casi todos los grupos; Vox se abstuvo y Ciudadanos votó en contra.
+- Fuentes:
+  - [Congreso: votación oficial (11 nov 2021)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion131/20211111/Votacion007/VOT_20230303102858.json)
+
+### Presupuestos Generales del Estado de 2022
+- Fecha: 25 nov 2021
+- Resultado: Aprobados (Título I) 188 a 158, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Presupuestos del Gobierno de coalición para 2022. Se recoge la votación del Título I del dictamen.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, Junts, la CUP, CC, Foro y UPN; el BNG se abstuvo.
+- Fuentes:
+  - [Congreso: votación oficial del Título I (25 nov 2021)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion135/20211125/Votacion001/VOT_20230303115448.json)
+
+### Pensiones ligadas al IPC
+- Fecha: 2 dic 2021
+- Resultado: Aprobada 176 a 148, 6 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts Sí · Bildu Abst. · PNV Sí
+- Qué decía: Ley 21/2021: revaloriza las pensiones según el IPC, deroga el factor de sostenibilidad y crea el Mecanismo de Equidad Intergeneracional.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. El ministro José Luis Escrivá dijo que garantiza «de una vez y para siempre» el poder adquisitivo de las pensiones. Votaron en contra PP, Vox, Ciudadanos, BNG, la CUP, Foro y UPN; Bildu se abstuvo.
+- Fuentes:
+  - [Congreso: votación oficial (2 dic 2021)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion138/20211202/Votacion083/VOT_20230303120316.json)
+  - [elDiario.es](https://www.eldiario.es/politica/congreso-aprueba-reforma-garantiza-revalorizacion-pensiones-ipc_1_8548144.html)
+
+### Ley de Formación Profesional
+- Fecha: 16 dic 2021
+- Resultado: Aprobada 180 a 88, 75 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox Abst. · Cs Sí · ERC Abst. · Junts Abst. · Bildu Sí · PNV Sí
+- Qué decía: Ley Orgánica 3/2022: integra la FP del sistema educativo y la de empleo y extiende la formación en empresas.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. El PP fue el único gran grupo que votó en contra; se abstuvieron Vox, ERC, Junts, PDeCAT, BNG, UPN y la CUP.
+- Fuentes:
+  - [Congreso: votación oficial (16 dic 2021)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion141/20211216/Votacion047/VOT_20230303115101.json)
+  - [elDiario.es](https://www.eldiario.es/sociedad/congreso-aprueba-nueva-ley-fp-unicos-votos-pp_1_8584073.html)
+
 ### Reforma laboral
 - Fecha: 3 feb 2022
 - Resultado: Aprobada 175 a 174
@@ -2023,6 +2225,36 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Wikipedia: reforma laboral de 2022](https://es.wikipedia.org/wiki/Reforma_laboral_espa%C3%B1ola_de_2022)
   - [Congreso: resultado oficial de la votación (3 feb 2022)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion149/20220203/Votacion020/VOT_20230303100523.pdf)
+
+### Plan de respuesta a la guerra de Ucrania (20 céntimos al combustible)
+- Fecha: 28 abr 2022
+- Resultado: Convalidado 176 a 172, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC No · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 6/2022: bonificación de 20 céntimos por litro de combustible, ayudas a sectores afectados y limitación de la subida de los alquileres.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, Junts y la CUP, y también ERC, en protesta por el espionaje a independentistas.
+- Fuentes:
+  - [Congreso: votación oficial (28 abr 2022)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion174/20220428/Votacion031/VOT_20230302190916.json)
+  - [idealista/news (Europa Press)](https://www.idealista.com/news/finanzas/economia/2022/04/28/796335-el-congreso-convalida-pese-al-rechazo-de-pp-y-erc-el-decreto-de-respuesta-economica-a-la-guerra-de)
+
+### Tope al gas («excepción ibérica»)
+- Fecha: 9 jun 2022
+- Resultado: Convalidado 197 a 2, 143 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Abst. · Vox Abst. · Cs Sí · ERC Sí · Junts Abst. · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 10/2022: limitaba el precio del gas usado para producir electricidad, para abaratar la factura de la luz.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. La vicepresidenta Teresa Ribera lo llamó «un cortafuegos» ante el encarecimiento del gas. Se abstuvieron PP, Vox, Junts y UPN; votaron en contra NC y Foro.
+- Fuentes:
+  - [Congreso: votación oficial (9 jun 2022)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion186/20220609/Votacion070/VOT_20230302184604.json)
+  - [Público](https://www.publico.es/economia/congreso-avala-decreto-ley-tope-gas-abstencion-pp-vox.html)
+
+### Plan de ahorro energético
+- Fecha: 25 ago 2022
+- Resultado: Convalidado 187 a 161, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 14/2022: límites a la climatización en edificios públicos y comercios, apagado de escaparates y otras medidas de ahorro.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Cuca Gamarra (PP): «No respaldaremos parches que tienen consecuencias negativas para los españoles». Votaron en contra PP, Vox, Ciudadanos, Junts, la CUP, CC, NC, UPN y Foro.
+- Fuentes:
+  - [Congreso: votación oficial (25 ago 2022)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion196/20220825/Votacion004/VOT_20230302181506.json)
+  - [elDiario.es](https://www.eldiario.es/politica/congreso-convalida-plan-ahorro-energetico-no-pp-vox-ciudadanos_1_9266035.html)
 
 ### Impuestos a banca, energéticas y grandes fortunas
 - Fecha: 24 nov 2022
@@ -2035,6 +2267,52 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [idealista/news](https://www.idealista.com/news/finanzas/economia/2022/11/25/800323-el-congreso-aprueba-el-impuesto-a-grandes-fortunas-y-lo-remite-al-senado)
   - [Público: 186 a 152 con 10 abstenciones](https://www.publico.es/politica/mayoria-congreso-aprueba-impuestos-banca-energeticas-ricos.amp.html)
 
+### Presupuestos Generales del Estado de 2023
+- Fecha: 24 nov 2022
+- Resultado: Aprobados (Título I) 186 a 149, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Últimos Presupuestos aprobados en la legislatura. Se recoge la votación del Título I del dictamen.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Vox, Ciudadanos, Junts, la CUP, Foro, UPN y Teruel Existe; el BNG se abstuvo. Entre 2023 y 2026 no se aprobó ningún Presupuesto.
+- Fuentes:
+  - [Congreso: votación oficial del Título I (24 nov 2022)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion217/20221124/Votacion386/VOT_20230302165306.json)
+
+### Ley del PP contra la okupación (toma en consideración)
+- Fecha: 29 nov 2022
+- Resultado: Rechazada 160 a 178, 6 abstenciones
+- Votos: PSOE No · UP / Sumar No · PP Sí · Vox Sí · Cs Sí · ERC No · Junts No · Bildu No · PNV Abst.
+- Qué decía: Proposición de ley orgánica del PP para agilizar el desalojo de viviendas ocupadas.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Apoyaron PP, Vox, Ciudadanos, PDeCAT, UPN, Foro, CC, NC, PRC y Teruel Existe; el PNV se abstuvo.
+- Fuentes:
+  - [Congreso: votación oficial (29 nov 2022)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion219/20221129/Votacion002/VOT_20230302163009.json)
+
+### Ley de universidades (LOSU)
+- Fecha: 9 mar 2023
+- Resultado: Aprobada 182 a 157, 8 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs No · ERC Sí · Junts Abst. · Bildu Abst. · PNV Sí
+- Qué decía: Ley Orgánica 2/2023 del Sistema Universitario. Votación de conjunto tras el Senado.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. El ministro Joan Subirats dijo que se tramitó con «un talante inequívoco de diálogo y consenso». Votaron en contra PP, Vox, Ciudadanos, BNG, PRC, Foro, UPN y la CUP; Junts se abstuvo y Bildu, salvo una diputada, también. No se ha localizado el argumento del PP en una fuente verificada.
+- Fuentes:
+  - [Congreso: votación oficial (9 mar 2023)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion242/20230309/Votacion025/VOT_20230309144336.json)
+  - [Servimedia](https://www.servimedia.es/noticias/congreso-aprueba-nueva-ley-universidades-satisfaccion-independentistas-republicanos/3638466)
+
+### Reforma de las pensiones de 2023
+- Fecha: 30 mar 2023
+- Resultado: Convalidada 179 a 104, 61 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox Abst. · Cs No · ERC Sí · Junts Abst. · Bildu Abst. · PNV Sí
+- Qué decía: Real Decreto-ley 2/2023: sube las bases máximas de cotización, mejora las pensiones mínimas y permite elegir los últimos 25 o 29 años para calcular la pensión.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Votaron en contra PP, Ciudadanos, BNG, la CUP, Foro y UPN; se abstuvieron Vox, Bildu y Junts. No se ha localizado el argumento del PP en una fuente verificada.
+- Fuentes:
+  - [Congreso: votación oficial (30 mar 2023)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion250/20230330/Votacion020/VOT_20230330124303.json)
+
+### Ley de Vox contra la okupación (toma en consideración)
+- Fecha: 25 abr 2023
+- Resultado: Rechazada 150 a 186, 3 abstenciones
+- Votos: PSOE No · UP / Sumar No · PP Sí · Vox Sí · Cs Sí · ERC No · Junts No · Bildu No · PNV No
+- Qué decía: Proposición de ley orgánica de Vox contra la ocupación ilegal de viviendas.
+- Contexto: Gobierno de coalición PSOE–Unidas Podemos. Solo la apoyaron PP, Vox, Ciudadanos, UPN y Foro; se abstuvieron CC, NC y PRC.
+- Fuentes:
+  - [Congreso: votación oficial (25 abr 2023)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion254/20230425/Votacion002/VOT_20230425210938.json)
+
 ### Ley de vivienda (tope al alquiler)
 - Fecha: 27 abr 2023
 - Resultado: Aprobada 176 a 167, 1 abstención
@@ -2044,17 +2322,108 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/economia/congreso-aprueba-ley-vivienda-votos-derechas_1_10155945.html)
   - [idealista/news](https://www.idealista.com/news/inmobiliario/vivienda/2023/04/27/805657-aprobada-la-ley-de-vivienda-en-el-congreso-con-el-tope-al-alquiler-y-el-adios-al-IPC)
+  - [Congreso: votación oficial (27 abr 2023)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion256/20230427/Votacion173/VOT_20230427151734.json)
+
+### Decreto anticrisis con IVA reducido de la luz y el gas
+- Fecha: 10 ene 2024
+- Resultado: Convalidado 172 a 171, 7 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts Abst. · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 8/2023: prorrogaba la rebaja del IVA de alimentos básicos, la luz y el gas, las ayudas al transporte y el escudo social.
+- Contexto: Gobierno de PSOE y Sumar. La primera votación empató a 171 sin que votara Junts; se repitió por llamamiento y salió por un voto con la abstención de los 7 diputados de Junts. Votaron en contra PP, Vox y UPN. Ciudadanos ya no tenía escaño.
+- Fuentes:
+  - [Congreso: primera votación oficial (10 ene 2024)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/Votacion004/VOT_20240111114815.json)
+  - [Telecinco: 172 a 171 con la abstención de Junts](https://www.telecinco.es/noticias/espana/20240110/aprobacion-convalidacion-decreto-anticrisis-abstencion-junts_18_011404172.html)
+
+### Reforma del subsidio de desempleo (primer decreto)
+- Fecha: 10 ene 2024
+- Resultado: Derogado 167 a 176
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts s/d · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 7/2023: reformaba el subsidio de desempleo, ampliando a quién llega y su cuantía.
+- Contexto: Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox, UPN y los diputados de Podemos, que rechazaban el recorte en la cotización de los mayores de 52 años: «No tenemos nada por escrito», dijo Belarra. Junts no votó. Yolanda Díaz criticó que votaran «junto a la extrema derecha y el PP». Un nuevo decreto se convalidó en junio de 2024.
+- Fuentes:
+  - [Congreso: votación oficial (10 ene 2024)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion015/20240110/Votacion003/VOT_20240111114814.json)
+  - [elDiario.es](https://www.eldiario.es/politica/confirma-no-tumba-decreto-subsidios-desempleo_1_10826150.html)
+
+### Suspensión de desahucios hipotecarios hasta 2028
+- Fecha: 13 jun 2024
+- Resultado: Convalidado 347 a 0, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP Sí · Vox Sí · Cs s/d · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 1/2024: prorrogaba hasta mayo de 2028 la suspensión de los lanzamientos hipotecarios a deudores vulnerables. No afecta al alquiler.
+- Contexto: Gobierno de PSOE y Sumar. Prácticamente por unanimidad; Ione Belarra (Podemos) lo llamó «una tirita» ante el problema de la vivienda.
+- Fuentes:
+  - [Congreso: votación oficial (13 jun 2024)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion046/20240613/Votacion024/VOT_20240613125236.json)
+  - [elDiario.es](https://www.eldiario.es/politica/congreso-suspende-2028-desahucios-hipotecarios-unanimidad_1_11447368.html)
+
+### Reforma del subsidio de desempleo
+- Fecha: 20 jun 2024
+- Resultado: Convalidado 178 a 0, 171 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Abst. · Vox Abst. · Cs s/d · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 2/2024: nueva versión de la reforma del subsidio de desempleo tras la caída del primer decreto en enero.
+- Contexto: Gobierno de PSOE y Sumar. Esta vez Podemos y Junts votaron a favor; PP, Vox y UPN se abstuvieron.
+- Fuentes:
+  - [Congreso: votación oficial (20 jun 2024)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion049/20240620/Votacion019/VOT_20240620132741.json)
+
+### Ley ELA
+- Fecha: 10 oct 2024
+- Resultado: Aprobada 344 a 0
+- Votos: PSOE Sí · UP / Sumar Sí · PP Sí · Vox Sí · Cs s/d · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Ley 3/2024: cuidados de 24 horas en fase avanzada de ELA, agilización de la valoración de discapacidad y protección de los cuidadores.
+- Contexto: Gobierno de PSOE y Sumar. Era una proposición de todos los grupos y salió por unanimidad, tras casi tres años de tramitación; la financiación llegó después por decreto.
+- Fuentes:
+  - [Congreso: votación oficial (10 oct 2024)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion066/20241010/Votacion015/VOT_20241010194930.json)
+  - [elEconomista](https://www.eleconomista.es/actualidad/noticias/13027143/10/24/el-congreso-aprueba-la-ley-ela-por-unanimidad-de-todos-los-grupos.html)
+
+### Regular el alquiler de temporada y por habitaciones (toma en consideración)
+- Fecha: 17 dic 2024
+- Resultado: Tomada en consideración 176 a 169
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Proposición de ley de Sumar, ERC, Bildu y otros grupos para regular los alquileres de temporada y por habitaciones.
+- Contexto: Gobierno de PSOE y Sumar. En septiembre de 2024 una propuesta similar de Sumar había caído por el voto en contra de PP, Vox, Junts y UPN; en diciembre Junts cambió a favor. La ley no llegó a aprobarse antes de la disolución de las Cortes.
+- Fuentes:
+  - [Congreso: votación oficial (17 dic 2024)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion086/20241217/Votacion001/VOT_20241217205720.json)
+  - [Congreso: votación de septiembre de 2024](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json)
 
 ### Decreto ómnibus con subida de pensiones
 - Fecha: 22 ene 2025
 - Resultado: Derogado 171 a 177, 1 abstención
 - Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
 - Qué decía: Un único decreto juntaba la revalorización del 2,8% de las pensiones, las ayudas al transporte, el bono social eléctrico y la suspensión de desahucios a familias vulnerables, junto a medidas sin relación como la cesión de un palacete en París al PNV.
-- Contexto: PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Se abstuvo UPN; Cs ya no tenía escaño. El 12 de febrero de 2025 se convalidó un nuevo decreto ómnibus que mantenía las pensiones, el transporte, las ayudas por la DANA, la suspensión de desahucios y la devolución del palacete al PNV, con 315 votos a favor, incluidos PP y Junts, y solo Vox en contra.
+- Contexto: PP y Junts dijeron que votaban contra la mezcla de medidas, no contra las pensiones, y pidieron un decreto separado. Se abstuvo UPN; Cs ya no tenía escaño. El 12 de febrero de 2025 se convalidó un nuevo decreto ómnibus que mantenía las pensiones, el transporte, las ayudas por la DANA, la suspensión de desahucios y la devolución del palacete al PNV, con 315 votos a favor, incluidos PP y Junts, y solo Vox en contra; el PP dijo que votaba sí «por los pensionistas, los valencianos y los usuarios de transporte».
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/politica/junts-anuncia-voto-decretos-gobierno-deja-pensiones-manos-pp_1_11983907.html)
   - [Servimedia: la votación por grupos](https://www.servimedia.es/noticias/pp-vox-junts-tumban-decreto-omnibus-revalorizaba-pensiones-prorrogaba-ayudas-transporte/1411446794)
-  - [Infobae: el nuevo decreto ómnibus, convalidado (feb 2025)](https://www.infobae.com/espana/2025/02/12/el-congreso-aprueba-de-nuevo-el-decreto-omnibus-con-la-subida-de-pensiones/)
+  - [Infobae: el PP votará a favor del nuevo decreto (ene 2025)](https://www.infobae.com/espana/2025/01/29/el-pp-votara-ahora-a-favor-del-nuevo-decreto-omnibus-tras-quedar-fuera-de-foco-por-el-pacto-entre-el-gobierno-y-junts/)
+  - [Congreso: votación oficial (22 ene 2025)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/Votacion001/VOT_20250122154425.json)
+  - [Congreso: votación oficial del nuevo decreto (12 feb 2025)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion091/20250212/Votacion012/VOT_20250212154047.json)
+
+### Prórroga del impuesto a las energéticas
+- Fecha: 22 ene 2025
+- Resultado: Derogado 165 a 183, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV No
+- Qué decía: Real Decreto-ley 10/2024: mantenía en 2025 el gravamen temporal a las grandes energéticas.
+- Contexto: Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox, Junts, UPN y el PNV, que alegó: «no podemos apoyar estas figuras que no se pueden concertar». La ministra María Jesús Montero defendió que «quienes más ganan más tienen que contribuir».
+- Fuentes:
+  - [Congreso: votación oficial (22 ene 2025)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion089/20250122/Votacion002/VOT_20250122154427.json)
+  - [elDiario.es](https://www.eldiario.es/economia/1-000-millones-arcas-publicas-pnv-junts-tumban-impuesto-energeticas_1_11984026.html)
+
+### Ley de Junts contra la multirreincidencia y la okupación (toma en consideración)
+- Fecha: 18 mar 2025
+- Resultado: Tomada en consideración 300 a 44
+- Votos: PSOE Sí · UP / Sumar No · PP Sí · Vox Sí · Cs s/d · ERC No · Junts Sí · Bildu No · PNV Sí
+- Qué decía: Proposición de ley de Junts que incluía medidas contra la ocupación de viviendas.
+- Contexto: Gobierno de PSOE y Sumar. El PSOE votó a favor junto a PP, Vox y Junts; Sumar, su socio de Gobierno, votó en contra con ERC, Bildu, Podemos y BNG.
+- Fuentes:
+  - [Congreso: votación oficial (18 mar 2025)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion099/20250318/Votacion001/VOT_20250318201321.json)
+
+### Decreto «antiapagones»
+- Fecha: 22 jul 2025
+- Resultado: Derogado 165 a 183
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 7/2025, tras el apagón de abril de 2025: medidas para reforzar el sistema eléctrico.
+- Contexto: Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox, Junts, Podemos, BNG y UPN. Ione Belarra (Podemos): «Es un real decreto que podría haber escrito Sánchez Galán». La ministra Sara Aagesen defendió que había «un enorme consenso social» sobre su contenido.
+- Fuentes:
+  - [Congreso: votación oficial (22 jul 2025)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion128/20250722/Votacion017/VOT_20250722200830.json)
+  - [elDiario.es](https://www.eldiario.es/politica/pp-vox-junts-tumban-decreto-gobierno-evitar-nuevo-apagon-total_1_12484195.html)
 
 ### Reducción de jornada a 37,5 horas
 - Fecha: 10 sep 2025
@@ -2065,18 +2434,107 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [El Español](https://www.elespanol.com/espana/20250910/congreso-tumba-gobierno-reduccion-jornada-laboral-votos-pp-vox-junts-frente/1003743919055_0.html)
   - [idealista/news](https://www.idealista.com/news/finanzas/economia/2025/09/11/859545-el-congreso-tumba-la-reduccion-de-jornada-laboral-al-prosperar-el-veto-de-pp-vox-y)
+  - [Congreso: votación oficial (10 sep 2025)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion130/20250910/Votacion010/VOT_20250910213544.json)
 
 ### Decreto con pensiones y freno a desahucios
 - Fecha: 27 ene 2026
 - Resultado: Derogado 171 a 178
 - Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
 - Qué decía: Real Decreto-ley 16/2025. Incluía la subida del 2,7% de las pensiones ya aplicada en enero, la suspensión de desahucios a personas vulnerables y la congelación de cuotas de autónomos.
-- Contexto: PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno separó las medidas: el 26 de febrero de 2026 la subida de las pensiones se convalidó con el voto en contra solo de Vox, y el decreto del escudo social, con la suspensión de desahucios, volvió a caer con el voto en contra de Vox y Junts.
+- Contexto: PP y Junts dijeron que apoyaban las pensiones pero no la suspensión de desahucios, que asociaban a la okupación. El Gobierno separó las medidas: el 26 de febrero de 2026 la subida de las pensiones se convalidó con el voto en contra solo de Vox, y el decreto del escudo social, con la suspensión de desahucios, volvió a caer con el voto en contra de PP, Vox y Junts.
 - Fuentes:
   - [Congreso: resultado oficial de la votación (27 ene 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion156/20260127/Votacion001/VOT_20260127153132.pdf)
   - [Euronews](https://es.euronews.com/2026/01/27/pensiones-ocupaciones-oposicion-tumba-decreto-omnibus-gobierno)
   - [Canal Sur: el nuevo decreto de pensiones](https://www.canalsur.es/noticias/espana/congreso-desbloquea-revalorizacion-pensiones-apoyo_1_1385986.html)
   - [Euronews: pensiones aprobadas y escudo social tumbado (26 feb 2026)](https://es.euronews.com/2026/02/26/el-congreso-aprueba-la-revalorizacion-de-las-pensiones-en-2026-y-tumba-el-escudo-social)
+
+### Escudo social sin las pensiones (suspensión de desahucios)
+- Fecha: 26 feb 2026
+- Resultado: Derogado 172 a 177, 1 abstención
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 2/2026: mantenía la suspensión de desahucios de personas vulnerables y otras medidas sociales, ya separadas de la subida de las pensiones.
+- Contexto: Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox y Junts, que asociaban la suspensión de desahucios a la okupación; UPN se abstuvo. El ministro Félix Bolaños pidió a quienes decían que beneficiaba a los okupas que «no mientan a la ciudadanía».
+- Fuentes:
+  - [Congreso: votación oficial (26 feb 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion164/20260226/Votacion022/VOT_20260226153428.json)
+  - [Público](https://www.publico.es/politica/congreso/pp-junts-vox-tumban-escudo-social-decreto-topar-precios-situaciones-emergencia.html)
+
+### Plan por la crisis de Oriente Medio (IVA de la luz, el gas y los carburantes)
+- Fecha: 26 mar 2026
+- Resultado: Convalidado 175 a 33, 141 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Abst. · Vox No · Cs s/d · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 7/2026: rebajaba al 10% el IVA de la luz, el gas y los carburantes y prorrogaba el bono social, ante la subida de precios por la guerra con Irán.
+- Contexto: Gobierno de PSOE y Sumar. El ministro Carlos Cuerpo defendió la necesidad de «proteger y preparar» la economía. Vox votó en contra y se abstuvieron PP y Podemos. En julio de 2026 se convalidó su prórroga con el mismo reparto de votos.
+- Fuentes:
+  - [Congreso: votación oficial (26 mar 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion170/20260326/Votacion001/VOT_20260326165354.json)
+  - [elDiario.es](https://www.eldiario.es/politica/congreso-convalida-decreto-paliar-efectos-economicos-guerra-iran_1_13100625.html)
+
+### Ley del suelo del PP (toma en consideración)
+- Fecha: 21 abr 2026
+- Resultado: Tomada en consideración 178 a 163, 6 abstenciones
+- Votos: PSOE No · UP / Sumar No · PP Sí · Vox Sí · Cs s/d · ERC No · Junts Sí · Bildu No · PNV Abst.
+- Qué decía: Proposición de ley del PP sobre suelo y urbanismo para facilitar la construcción de vivienda.
+- Contexto: Gobierno de PSOE y Sumar. Salió con PP, Vox, Junts y UPN; se abstuvieron PNV y CC.
+- Fuentes:
+  - [Congreso: votación oficial (21 abr 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion173/20260421/Votacion001/VOT_20260421201008.json)
+
+### Prórroga de los alquileres al mismo precio por la guerra con Irán
+- Fecha: 28 abr 2026
+- Resultado: Derogado 166 a 177, 5 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Abst.
+- Qué decía: Real Decreto-ley 8/2026: permitía prorrogar los contratos de alquiler que vencían sin subir la renta.
+- Contexto: Gobierno de PSOE y Sumar. Lo tumbaron PP, Vox, Junts y UPN; el PNV se abstuvo. Marta Madrenas (Junts) lo llamó «operación de propaganda» «jurídicamente muy defectuosa»; el ministro Pablo Bustinduy respondió que «no todo son fichas en un tablero».
+- Fuentes:
+  - [Congreso: votación oficial (28 abr 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json)
+  - [elDiario.es](https://www.eldiario.es/politica/congreso-rechazara-prorroga-alquileres-voto-pp-vox-junts-abstencion-pnv_1_13180051.html)
+
+### Ley del PP contra la okupación (toma en consideración)
+- Fecha: 19 may 2026
+- Resultado: Tomada en consideración 171 a 164, 11 abstenciones
+- Votos: PSOE No · UP / Sumar No · PP Sí · Vox Sí · Cs s/d · ERC No · Junts Abst. · Bildu No · PNV Abst.
+- Qué decía: Proposición de ley orgánica del PP contra la ocupación de viviendas.
+- Contexto: Gobierno de PSOE y Sumar. Salió con PP, Vox, UPN y CC; se abstuvieron PNV y Junts.
+- Fuentes:
+  - [Congreso: votación oficial (19 may 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion179/20260519/Votacion001/VOT_20260519203502.json)
+
+### Ley de ratios y horas lectivas (enmiendas a la totalidad)
+- Fecha: 18 jun 2026
+- Resultado: Vetos rechazados 11 a 329, 7 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Sí · Vox Sí · Cs s/d · ERC Abst. · Junts No · Bildu Sí · PNV No
+- Qué decía: Proyecto de ley para bajar el número de alumnos por aula y las horas lectivas del profesorado. Se votaban las enmiendas a la totalidad de PNV y Junts: votar a favor de devolverla cuenta aquí como «No».
+- Contexto: Gobierno de PSOE y Sumar. PNV y Junts alegaron que invadía competencias autonómicas; ERC y CC se abstuvieron. La ley no llegó a aprobarse antes de la disolución de las Cortes.
+- Fuentes:
+  - [Congreso: votación oficial (18 jun 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion188/20260618/Votacion021/VOT_20260618162244.json)
+  - [Deia (EFE)](https://www.deia.eus/actualidad/sociedad/2026/06/18/ley-rebaja-ratios-escolares-supera-11219658.html)
+
+### Refuerzo de la financiación de la dependencia
+- Fecha: 14 jul 2026
+- Resultado: Convalidado 317 a 33
+- Votos: PSOE Sí · UP / Sumar Sí · PP Sí · Vox No · Cs s/d · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 17/2026: 6.200 millones adicionales para las comunidades autónomas entre 2026 y 2027 para la atención a la dependencia.
+- Contexto: Gobierno de PSOE y Sumar. Solo Vox votó en contra: su diputada María Ruiz lo llamó «otro engaño de este Gobierno miserable». El ministro Pablo Bustinduy dijo al PP que tenía «6.200 millones de razones» para apoyarlo, y el PP votó a favor.
+- Fuentes:
+  - [Congreso: votación oficial (14 jul 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion192/20260714/Votacion052/VOT_20260714202058.json)
+  - [El Independiente](https://www.elindependiente.com/espana/2026/07/14/congreso-giro-historico-dependencia-financiacion-desburocratizacion-bustinduy/)
+
+### Desahucios por grandes tenedores y tope del 2% al alquiler
+- Fecha: 2 oct 2026
+- Resultado: Derogado 172 a 178 (votación a viva voz)
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 26/2026: suspendía hasta 2030 los desahucios cuando el dueño es un fondo o gran tenedor, permitía una prórroga extraordinaria de dos años y limitaba al 2% la subida de las rentas.
+- Contexto: Gobierno de PSOE y Sumar. Votación a viva voz, aún no publicada en los datos abiertos: el recuento es el de la prensa. Lo tumbaron PP, Junts y Vox. El ministro Pablo Bustinduy dijo que cada desahucio desde esa votación llevaría «los nombres y los apellidos» de quienes votaron no. El 6 de octubre el Gobierno aprobó nuevos decretos que debe votar la Diputación Permanente.
+- Fuentes:
+  - [Infobae: las medidas que decaen](https://www.infobae.com/espana/2026/10/02/los-fondos-seguiran-desahuciando-los-propietarios-subiran-la-renta-y-el-alquiler-de-temporada-no-se-regulara-las-medidas-que-decaen-con-el-no-de-pp-junts-y-vox-al-decreto/)
+  - [elDiario.es](https://www.eldiario.es/politica/junts-pp-vox-tumban-decretos-vivienda-congreso_1_13557141.html)
+
+### Prórroga automática de los contratos de alquiler
+- Fecha: 2 oct 2026
+- Resultado: Derogado 166 a 184 (votación a viva voz)
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV No
+- Qué decía: Real Decreto-ley 27/2026: prórroga automática de los contratos de alquiler hasta 5 o 7 años e indemnización al inquilino.
+- Contexto: Gobierno de PSOE y Sumar. Votación a viva voz, aún no publicada en los datos abiertos: el recuento es el de la prensa. Votaron en contra PP, Vox, Junts, PNV, Coalición Canaria y UPN; a favor PSOE, Sumar, ERC, Bildu, Podemos, BNG y Compromís.
+- Fuentes:
+  - [Andalucía Información: el Congreso rechaza los dos decretos](https://www.andaluciainformacion.es/articulo/espana/congreso-rechaza-dos-decretos-vivienda/202610021610373495690.html)
+  - [elDiario.es](https://www.eldiario.es/politica/junts-pp-vox-tumban-decretos-vivienda-congreso_1_13557141.html)
 
 ## Iniciativas ciudadanas (27)
 

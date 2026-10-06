@@ -169,7 +169,14 @@ table.votes{border-collapse:collapse;width:100%;min-width:760px;font-size:13.5px
   </section>
 
   <section class="panel" id="panel-votaciones" role="tabpanel" aria-labelledby="tab-votaciones" hidden>
-    <p class="lede">Votaciones del Congreso en medidas que afectan directamente a trabajadores, inquilinos y pensionistas. Solo el voto y lo que decía la ley: las conclusiones las saca quien lo lea.</p>
+    <p class="lede">Votaciones del Congreso desde 2016 en lo que pagamos con nuestros impuestos y nos toca el bolsillo: sanidad, educación, vivienda, luz y gas, dependencia, pensiones y Presupuestos. El voto de cada partido sale del registro oficial del Congreso, diputado por diputado. Solo el voto y lo que decía la medida: las conclusiones las saca quien lo lea.</p>
+    <section class="filters" aria-label="Filtros de votaciones">
+      <div class="frow">
+        <span class="flabel">Filtrar</span>
+        <select id="temaSel" aria-label="Tema"></select>
+      </div>
+      <div class="status" id="voteCount" aria-live="polite"></div>
+    </section>
     <div class="legend">
       <span><span class="v v-si">Sí</span> a favor de la medida</span>
       <span><span class="v v-no">No</span> en contra</span>
@@ -178,7 +185,7 @@ table.votes{border-collapse:collapse;width:100%;min-width:760px;font-size:13.5px
     </div>
     <div class="tablewrap"><table class="votes" id="votesTable"></table></div>
     <div class="list" id="voteList"></div>
-    <p class="note">"Sí" significa a favor de que la medida saliera adelante. En la reducción de jornada se votaban enmiendas para devolver la ley: quien votó esas enmiendas aparece como "No". UP / Sumar recoge el grupo de Unidas Podemos hasta 2023 y el de Sumar después. Las casillas sin dato se irán rellenando con el Diario de Sesiones.</p>
+    <p class="note">"Sí" significa a favor de que la medida saliera adelante. En la reducción de jornada se votaban enmiendas para devolver la ley: quien votó esas enmiendas aparece como "No". En las enmiendas a la totalidad (Presupuestos de 2019, ratios), votar a favor de devolver el texto cuenta como "No". En los Presupuestos se recoge la votación del Título I. UP / Sumar recoge el grupo de Unidas Podemos hasta 2023 y el de Sumar después. Podemos votaba dentro de Unidas Podemos hasta 2023 (su casilla repite la del grupo) y por separado desde entonces. Junts recoge al PDeCAT hasta 2019. Vox no tuvo escaño hasta mayo de 2019 y Ciudadanos no lo tiene desde 2023: ahí aparece "s/d". El voto de los partidos pequeños (CC, BNG, UPN, Compromís, CUP…) va en el texto de cada votación.</p>
   </section>
 
   <section class="panel" id="panel-registro" role="tabpanel" aria-labelledby="tab-registro">
@@ -329,22 +336,31 @@ function fallback(txt,btn){
 render();
 
 /* ---------- Votaciones ---------- */
-const VPARTIES=["PSOE","UP / Sumar","PP","Vox","Cs","ERC","Junts","Bildu","PNV"];
+const VPARTIES=["PSOE","UP / Sumar","Podemos","PP","Vox","Cs","ERC","Junts","Bildu","PNV"];
 const VLABEL={si:"Sí",no:"No",ab:"Abst.",sd:"s/d"};
 VOTES.reverse(); /* la más reciente primero */
+const TEMAS=[...new Set(VOTES.map(m=>m.tema))].sort((a,b)=>a.localeCompare(b,"es"));
+const temaSel=document.getElementById("temaSel");
+temaSel.innerHTML='<option value="">Todos los temas</option>'+TEMAS.map(t=>'<option value="'+esc(t)+'">'+esc(t)+'</option>').join("");
 function voteCell(x){return '<span class="v v-'+x+'">'+VLABEL[x]+'</span>'}
-document.getElementById("votesTable").innerHTML=
- '<thead><tr><th scope="col">Medida</th>'+VPARTIES.map(p=>'<th scope="col">'+p+'</th>').join("")+'</tr></thead><tbody>'+
- VOTES.map(m=>'<tr><td><span class="mname">'+esc(m.m)+'</span><span class="mdate">'+m.dl+' · '+esc(m.r)+'</span></td>'+VPARTIES.map(p=>'<td>'+voteCell(m.v[p]||"sd")+'</td>').join("")+'</tr>').join("")+'</tbody>';
+function renderVotes(){
+ const t=temaSel.value;
+ const sel=VOTES.map((m,i)=>[m,i]).filter(([m])=>!t||m.tema===t);
+ document.getElementById("voteCount").textContent=sel.length+" de "+VOTES.length+" votaciones";
+ document.getElementById("votesTable").innerHTML=
+  '<thead><tr><th scope="col">Medida</th>'+VPARTIES.map(p=>'<th scope="col">'+p+'</th>').join("")+'</tr></thead><tbody>'+
+  sel.map(([m])=>'<tr><td><span class="mname">'+esc(m.m)+'</span><span class="mdate">'+esc(m.tema)+' · '+m.dl+' · '+esc(m.r)+'</span></td>'+VPARTIES.map(p=>'<td>'+voteCell(m.v[p]||"sd")+'</td>').join("")+'</tr>').join("")+'</tbody>';
+ document.getElementById("voteList").innerHTML=sel.map(([m,i])=>voteEntry(m,i)).join("");
+}
 function voteText(m){
   const pos={si:[],no:[],ab:[]};VPARTIES.forEach(p=>{const x=m.v[p];if(pos[x])pos[x].push(p)});
   return "**"+m.m+"** ("+m.dl+"): "+m.r+"\n\n"+m.s+"\n\nA favor: "+(pos.si.join(", ")||"-")+". En contra: "+(pos.no.join(", ")||"-")+(pos.ab.length?". Abstención: "+pos.ab.join(", "):"")+".\n\n*Contexto:* "+m.n+"\n\nFuentes: "+m.src.map(s=>"["+s[0]+"]("+s[1]+")").join(" · ");
 }
-document.getElementById("voteList").innerHTML=VOTES.map((m,i)=>`
+function voteEntry(m,i){return `
   <article class="entry">
     <div class="date">${m.dl}</div>
     <div class="body">
-      <div class="top"><span class="cat">${esc(m.r)}</span></div>
+      <div class="top"><span class="cat">${esc(m.tema)}</span><span class="cat">${esc(m.r)}</span></div>
       <h2>${esc(m.m)}</h2>
       <p>${esc(m.s)}</p>
       <p class="nuance">${esc(m.n)}</p>
@@ -353,7 +369,9 @@ document.getElementById("voteList").innerHTML=VOTES.map((m,i)=>`
         <button type="button" class="copy" data-v="${i}">Copiar para Reddit</button>
       </div>
     </div>
-  </article>`).join("");
+  </article>`}
+temaSel.addEventListener("change",renderVotes);
+renderVotes();
 document.getElementById("voteList").addEventListener("click",ev=>{
   const btn=ev.target.closest(".copy");if(!btn)return;
   const txt=voteText(VOTES[+btn.dataset.v]);

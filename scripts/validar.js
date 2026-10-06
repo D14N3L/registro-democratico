@@ -70,7 +70,7 @@ leer("fichas").forEach((e, i) => {
 
 leer("votaciones").forEach((e, i) => {
   comunes("votaciones", i, e);
-  for (const k of ["id", "m", "dl", "r", "s"]) if (!e[k]) error("votaciones", i, e, `falta ${k}`);
+  for (const k of ["id", "tema", "m", "dl", "r", "s"]) if (!e[k]) error("votaciones", i, e, `falta ${k}`);
   for (const [p, v] of Object.entries(e.v || {})) {
     if (!PARTIDOS_VOTO.includes(p)) error("votaciones", i, e, `partido desconocido: ${p}`);
     if (!VOTOS.includes(v)) error("votaciones", i, e, `voto desconocido: ${p}=${v}`);
