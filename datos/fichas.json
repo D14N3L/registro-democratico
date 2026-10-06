@@ -337,8 +337,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "BNG y PSdeG pidieron una comisión de investigación sobre las residencias en la pandemia. El PP la rechazó con su mayoría absoluta y propuso a cambio una comisión de estudio.",
-  "n": "El PP dijo que una comisión de investigación no era la herramienta adecuada y que Galicia no destacaba por la gravedad de lo ocurrido en sus residencias.",
+  "s": "El BNG, con el apoyo del PSdeG, pidió una comisión de investigación sobre las residencias en la pandemia, donde se produjeron cerca del 45% de las muertes por covid en Galicia. El PP la rechazó con su mayoría absoluta y propuso a cambio una comisión de estudio.",
+  "n": "El PP dijo que una comisión de investigación no era la herramienta adecuada, recordó el fracaso de otras anteriores y que Galicia no destacaba por la gravedad de lo ocurrido en sus residencias. También recordó que la oposición puede activar por sí sola una comisión de investigación una vez por legislatura.",
   "src": [
    [
     "El Correo Gallego",
@@ -357,7 +357,7 @@
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "firme",
   "s": "El Supremo confirmó por unanimidad la inhabilitación del president de la Generalitat por negarse de forma reiterada a retirar pancartas de edificios públicos en periodo electoral, como le había ordenado la Junta Electoral Central para garantizar la neutralidad.",
-  "n": "El Síndic de Greuges de Cataluña consideró la pena desproporcionada. El Supremo confirmó después una segunda condena por desobediencia.",
+  "n": "El Síndic de Greuges de Cataluña, Rafael Ribó, consideró la pena «completamente desproporcionada» por retrasar tres días el cumplimiento de la orden y anunció que lo llevaría a instancias europeas de derechos humanos. En febrero de 2024 el Supremo confirmó una segunda condena por desobediencia, por no retirar una pancarta del Palau de la Generalitat: 15 meses de inhabilitación y 24.000 euros de multa.",
   "src": [
    [
     "Infobae (AFP)",
@@ -366,6 +366,14 @@
    [
     "El Independiente",
     "https://www.elindependiente.com/espana/2020/09/28/el-tribunal-supremo-inhabilita-a-quim-torra-que-debera-abandonar-la-generalitat/"
+   ],
+   [
+    "El Catalán: el Síndic lo considera desproporcionado (oct 2020)",
+    "https://www.elcatalan.es/el-sindic-de-gregues-lleva-a-europa-la-inhabilitacion-de-quim-torra"
+   ],
+   [
+    "Público: segunda condena (feb 2024)",
+    "https://www.publico.es/politica/supremo-confirma-segunda-condena-torra-desobediencia.html"
    ]
   ],
   "a": "Cataluña"
@@ -505,6 +513,10 @@
    [
     "Revista ICADE (Comillas)",
     "https://revistas.comillas.edu/index.php/revistaicade/article/view/17590"
+   ],
+   [
+    "elDiario.es: el TC tumba el confinamiento a petición de Vox (jul 2021)",
+    "https://www.eldiario.es/politica/tribunal-constitucional-tumba-alarma-peticion-vox_1_8128384.html"
    ]
   ],
   "a": ""
@@ -520,7 +532,7 @@
   "c": "Control parlamentario",
   "pr": "med",
   "s": "La comisión de investigación sobre lo ocurrido en las residencias de Madrid durante la primera ola del covid fue rechazada con el voto en contra del PP y la abstención de Vox.",
-  "n": "El PP alegó que la oposición ya tenía sus conclusiones y buscaba usar la tragedia políticamente. En octubre de 2022 la Mesa, con PP y Vox, volvió a tumbar otra petición alegando un defecto de procedimiento, y después ambos rechazaron una comisión de estudio propuesta por el PSOE.",
+  "n": "El PP alegó que la oposición ya tenía sus conclusiones y buscaba usar la tragedia políticamente. El 24 de octubre de 2022 la Mesa, con PP y Vox, volvió a tumbar otra petición, alegando que era de una legislatura anterior. En marzo de 2024 PP y Vox rechazaron por octava vez revisar la atención en las residencias, esta vez una comisión de estudio del PSOE: el PP habló de «revisionismo» y Vox de «revanchismo».",
   "src": [
    [
     "Madridiario",
@@ -529,6 +541,14 @@
    [
     "Público",
     "https://www.publico.es/politica/pp-y-vox-tumban-comision-investigacion-residencias-asamblea-madrid.html/amp"
+   ],
+   [
+    "infoLibre: la Mesa la rechaza de nuevo (oct 2022)",
+    "https://www.infolibre.es/politica/rechazan-nuevo-comision-investigacion-residencias-asamblea-madrid-izquierda_1_1347390.html"
+   ],
+   [
+    "elDiario.es: el octavo rechazo (mar 2024)",
+    "https://www.eldiario.es/madrid/politica/pp-vox-madrid-rechazan-comision-estudio-situacion-residencias-mayores-propuesta-psoe_1_10978582.html"
    ]
   ],
   "a": "Madrid"
@@ -568,7 +588,7 @@
   "c": "Control parlamentario",
   "pr": "med",
   "s": "Ciudadanos y Vox pidieron una comisión sobre más de 1,2 millones en pagos indebidos en la empresa pública MARE. PRC y PSOE, que gobernaban con mayoría absoluta, la rechazaron por 18 votos; el PP se abstuvo. Dos semanas después, PRC, PSOE y PP rechazaron enviar el caso al Tribunal de Cuentas.",
-  "n": "Alegaron que el Tribunal de Cuentas ya tenía la documentación y que eran pagos indebidos, no sobresueldos.",
+  "n": "En el debate sobre enviarlo al Tribunal de Cuentas, el PSOE alegó que el Tribunal ya tenía la información, y PRC, PSOE y PP dijeron que eran pagos indebidos, no sobresueldos, y acusaron a Vox y Cs de criminalizar a los trabajadores. Desde 2008 sumaban al menos 1,3 millones.",
   "src": [
    [
     "Parlamento de Cantabria",
@@ -714,7 +734,7 @@
     "https://rtvc.es/el-congreso-rechaza-la-comision-sobre-abusos-en-la-iglesia/"
    ],
    [
-    "elDiario.es",
+    "elDiario.es: fase previa en la Mesa (feb 2022)",
     "https://www.eldiario.es/politica/pp-vox-quedan-solos-congreso-rechazo-investigar-abusos-iglesia_1_8706505.html"
    ]
   ],
@@ -787,7 +807,7 @@
   "c": "Independencia de instituciones",
   "pr": "inv",
   "s": "Tras el informe de Citizen Lab sobre teléfonos de independentistas infectados, el Gobierno destituyó a la directora del CNI, Paz Esteban, que había reconocido escuchas a varios dirigentes con autorización judicial. Un juzgado la imputó en 2023 por la querella de Pere Aragonès.",
-  "n": "El CNI sostiene que sus intervenciones tuvieron control judicial. Hay causas abiertas y nada juzgado. El Gobierno también fue víctima: Pegasus se detectó en los móviles de Sánchez y Robles.",
+  "n": "El CNI sostiene que sus intervenciones tuvieron control judicial. La Fiscalía y la Abogacía del Estado pidieron archivar la causa de Aragonès, pero en octubre de 2024 la Audiencia de Barcelona lo consideró prematuro, y en febrero de 2025 Esteban fue imputada en una tercera causa, por el presunto espionaje al exeurodiputado de ERC Jordi Solé. Hay causas abiertas y nada juzgado. El Gobierno también fue víctima: Pegasus se detectó en los móviles de Sánchez y Robles.",
   "src": [
    [
     "elDiario.es: destitución",
@@ -796,6 +816,14 @@
    [
     "El Español: imputación",
     "https://www.elespanol.com/espana/tribunales/20231016/juez-imputa-exdirectora-cni-paz-esteban-espionaje-pegasus-aragones/802419787_0.html"
+   ],
+   [
+    "elDiario.es: la Audiencia mantiene la imputación (oct 2024)",
+    "https://www.eldiario.es/catalunya/justicia-mantiene-imputada-exjefa-cni-espiar-aragones-investigacion-no-agotada_1_11761570.html"
+   ],
+   [
+    "Infobae: tercera imputación (feb 2025)",
+    "https://www.infobae.com/espana/2025/02/14/la-exdirectora-del-cni-paz-esteban-imputada-en-una-tercera-causa-por-espionaje-a-dirigentes-de-erc/"
    ]
   ],
   "a": ""
@@ -841,7 +869,7 @@
   "c": "Control parlamentario",
   "pr": "med",
   "s": "La oposición, con el PSOE al frente, volvió a pedir una comisión sobre las residencias en la pandemia. PP y Vox votaron en contra y Ciudadanos se abstuvo. Vox la había apoyado en la legislatura anterior, antes de entrar en el Gobierno.",
-  "n": "El PP dijo que era extemporánea, que la Fiscalía había archivado y que no hacía falta investigar lo que había sido transparente.",
+  "n": "El PP la consideró extemporánea y Vox alegó que la Fiscalía Superior de Castilla y León había archivado el caso sin consecuencias penales. Cs (Francisco Igea) se abstuvo pidiendo investigar «con un poco menos de rencor».",
   "src": [
    [
     "elDiario.es",
@@ -853,7 +881,7 @@
  {
   "d": "2022-09-13",
   "dl": "sep – nov 2022",
-  "t": "Congreso: PSOE y PP vetan dos veces investigar la tragedia de la valla de Melilla",
+  "t": "Congreso: PSOE, PP y Vox vetan dos veces investigar la tragedia de la valla de Melilla",
   "p": [
    "PSOE",
    "PP",
@@ -862,8 +890,8 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "En septiembre de 2022, PSOE, PP y Vox tumbaron a la vez tres comisiones: la de la valla de Melilla, donde murieron al menos 23 migrantes, la de la cloaca policial y la de los Uber Files. En noviembre, PSOE, PP, Vox y Ciudadanos rechazaron otra vez la de Melilla.",
-  "n": "El PSOE alegó que Marlaska iba a comparecer, que ya existía la comisión Kitchen y que los Uber Files no afectaban a españoles. El PP dijo que prefería escuchar antes a Marlaska.",
+  "s": "En septiembre de 2022, PSOE, PP y Vox tumbaron a la vez tres comisiones: la de la valla de Melilla, donde murieron al menos 23 migrantes según la policía marroquí (unos 40 según organizaciones de derechos humanos), la de la cloaca policial y la de los Uber Files; el PNV se abstuvo. En noviembre, PSOE, PP, Vox y Ciudadanos rechazaron otra vez la de Melilla.",
+  "n": "El PSOE (Patxi López) alegó que Marlaska iba a comparecer, que ya existía la comisión Kitchen y que los Uber Files no afectaban a españoles. El PP dijo que prefería escuchar antes a Marlaska.",
   "src": [
    [
     "elDiario.es: septiembre",
@@ -897,7 +925,7 @@
     "https://www.infobae.com/espana/2025/10/06/madrid-anuncia-la-apertura-de-cinco-nuevos-centros-de-salud-mientras-faltan-medicos-en-194-estas-seran-las-ubicaciones/"
    ]
   ],
-  "a": ""
+  "a": "Madrid"
  },
  {
   "d": "2022-11-23",
@@ -911,7 +939,7 @@
   "c": "Control parlamentario",
   "pr": "med",
   "s": "CC y PP pidieron investigar el pago por adelantado de 4 millones por mascarillas que nunca llegaron. PSOE, NC, Podemos y ASG, que gobernaban, la rechazaron por 35 votos a 30.",
-  "n": "Alegaron que el caso estaba bajo secreto judicial y en manos de la Fiscalía Europea. Con el cambio de mayoría en 2023, CC y PP crearon la comisión.",
+  "n": "El Gobierno canario (Julio Pérez) alegó que había una investigación judicial bajo secreto de sumario, que una comisión poco podría hacer y que la responsabilidad política ya se había asumido con el cese del director del Servicio Canario de la Salud. Tras el cambio de mayoría de 2023, CC y PP crearon la comisión, constituida en mayo de 2024.",
   "src": [
    [
     "Canarias7",
@@ -920,6 +948,14 @@
    [
     "elDiario.es",
     "https://www.eldiario.es/canariasahora/politica/psoe-nc-asg-rechazan-creacion-comision-investigacion-caso-mascarillas_1_9709542.html"
+   ],
+   [
+    "elDiario.es: el Gobierno canario alega el secreto de sumario (nov 2022)",
+    "https://www.eldiario.es/canariasahora/politica/gobierno-canario-rechaza-crear-comision-investigacion-caso-mascarillas_1_9699906.html"
+   ],
+   [
+    "Canarias7: la comisión, constituida en mayo de 2024, amplía plazo (mar 2026)",
+    "https://www.canarias7.es/politica/comision-mascarillas-amplia-julio-plazo-presentar-dictamen-20260302111916-nt.html"
    ]
   ],
   "a": "Canarias"
@@ -1045,12 +1081,16 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "Podemos pidió una comisión de investigación sobre el incendio de las discotecas de Atalayas, en el que murieron 13 personas. La Mesa, donde el PP tenía tres de cinco puestos, la rechazó. Después PP y Vox tumbaron otra iniciativa parecida.",
-  "n": "Se apoyaron en un informe jurídico que veía defectos de redacción y en que las licencias de ocio nocturno son competencia municipal.",
+  "s": "Podemos pidió una comisión de investigación sobre el incendio de las discotecas de Atalayas, en el que murieron 13 personas. La Mesa, donde el PP tenía tres de cinco puestos, la rechazó. El 8 de noviembre de 2023 PP y Vox tumbaron en el pleno, por 29 votos a 15, otra petición de comisión que Podemos presentó a través del Grupo Mixto.",
+  "n": "La Mesa se apoyó en un informe jurídico que veía defectos de redacción y en que las licencias de ocio nocturno son competencia municipal. En el pleno, el PP alegó que ya investigaban la Fiscalía, la Policía, el juzgado y el Ayuntamiento y acusó a Podemos de oportunismo político; Vox dijo no ver la utilidad de la comisión.",
   "src": [
    [
     "elDiario.es",
     "https://www.eldiario.es/murcia/politica/asamblea-regional-murcia-rechaza-crear-comision-investigacion-incendio-atalayas_1_10583468.html"
+   ],
+   [
+    "Público: PP y Vox tumban la comisión en el pleno (nov 2023)",
+    "https://www.publico.es/politica/pp-vox-tumban-comision-investigacion-sobre-incendio-discotecas-murcia.html"
    ]
   ],
   "a": "Murcia"
@@ -1197,11 +1237,15 @@
   "c": "Control parlamentario",
   "pr": "med",
   "s": "UPN pidió, con el apoyo de PP y Vox, una comisión sobre la compra de mascarillas en Navarra y sus conexiones con el caso Koldo. La rechazaron PSN, Geroa Bai y Contigo-Zurekin, con la abstención de EH Bildu.",
-  "n": "La nota oficial del Parlamento no recoge sus argumentos. En 2025 sí se creó una comisión amplia sobre obras públicas tras el caso Cerdán.",
+  "n": "La nota oficial del Parlamento no recoge sus argumentos. En julio de 2025 sí se constituyó una comisión de investigación sobre las adjudicaciones de obra pública de las últimas cuatro legislaturas a empresas señaladas en el caso Cerdán.",
   "src": [
    [
     "Parlamento de Navarra",
     "https://parlamentodenavarra.es/es/noticias/rechazada-la-creaci%C3%B3n-de-una-comisi%C3%B3n-de-investigaci%C3%B3n-sobre-la-compra-y-distribuci%C3%B3n-de"
+   ],
+   [
+    "Infobae (Europa Press): se constituye la comisión del caso Cerdán (jul 2025)",
+    "https://www.infobae.com/espana/agencias/2025/07/03/el-parlamento-de-navarra-constituye-este-jueves-la-comision-de-investigacion-por-las-adjudicaciones-del-caso-cerdan/"
    ]
   ],
   "a": "Navarra"
@@ -1308,11 +1352,15 @@
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
   "s": "El Gobierno canario de CC y PP aprobó en 2024 un acuerdo y un protocolo que dejaban fuera de su sistema de protección a los menores migrantes rescatados en el mar. El Gobierno central lo recurrió y el TC lo anuló en parte en febrero de 2025 (STC 43/2025).",
-  "n": "Canarias soporta una presión migratoria muy superior a su capacidad, algo que también reconoció el Supremo al obligar al Estado a hacerse cargo de cerca de mil menores solicitantes de asilo.",
+  "n": "Canarias soporta una presión migratoria muy superior a su capacidad, algo que también reconoció el Supremo cuando en marzo de 2025 obligó al Estado a hacerse cargo de cerca de mil menores solicitantes de asilo.",
   "src": [
    [
     "BOE: STC 43/2025",
     "https://www.boe.es/buscar/doc.php?id=BOE-A-2025-5740"
+   ],
+   [
+    "Diario de Avisos: el Supremo y los mil menores solicitantes de asilo (may 2025)",
+    "https://diariodeavisos.elespanol.com/2025/05/el-supremo-cita-al-gobierno-para-explicar-como-acogera-los-1-000-menores-solicitantes-de-asilo-que-estan-en-canarias/"
    ]
   ],
   "a": "Canarias"
@@ -1326,7 +1374,7 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "El BNG pidió investigar contratos de la Xunta, entre ellos los de Eulen, donde trabaja como directiva la hermana de Feijóo, el sobrecoste del hospital Cunqueiro y contratos covid. El PP la tumbó; el BNG la activó igualmente con un tercio de los diputados, pero el PP la controló desde dentro: no comparecieron ni Feijóo ni su hermana y se cerró en menos de cuatro meses con un dictamen que solo votó el PP.",
+  "s": "El BNG pidió investigar contratos de la Xunta, entre ellos los de Eulen, donde trabaja como directiva la hermana de Feijóo, el sobrecoste del hospital Cunqueiro y contratos covid. El PP la tumbó; el BNG la activó igualmente con un tercio de los diputados, pero el PP la controló desde dentro: no comparecieron ni Feijóo ni su hermana y se cerró en cuatro meses con un dictamen que solo votó el PP.",
   "n": "El PP dijo que se buscaba difundir bulos y que el Consello de Contas ya había fiscalizado los contratos.",
   "src": [
    [
@@ -1371,7 +1419,7 @@
   "c": "Control parlamentario",
   "pr": "med",
   "s": "Con su mayoría absoluta, el PP aprobó en la Asamblea de Madrid una comisión de investigación sobre Begoña Gómez, esposa de Pedro Sánchez, mientras rechazaba las que pedía la oposición sobre los negocios de la pareja de Ayuso y las residencias.",
-  "n": "La lista completa de comisiones vetadas está tras el muro de pago de infoLibre; aquí solo constan las que nombra el titular. PSOE y Más Madrid acabaron abandonando la comisión sobre Begoña Gómez calificándola de circo.",
+  "n": "La lista completa de comisiones vetadas está tras el muro de pago de infoLibre; aquí solo constan las que nombra el titular. PSOE y Más Madrid abandonaron la comisión sobre Begoña Gómez en febrero de 2025: el PSOE la llamó «circo» y Más Madrid, «show».",
   "src": [
    [
     "infoLibre",
@@ -1394,12 +1442,16 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "La comisión sobre el aeropuerto de Corvera se creó a propuesta de Vox, pero PP y Vox rechazaron las comparecencias que pedía el PSOE. Podemos se abstuvo.",
-  "n": "No es un veto a crear la comisión sino a quién declara en ella.",
+  "s": "La comisión sobre el aeropuerto de Corvera se creó a propuesta de Vox, anunciada en octubre de 2024, pero PP y Vox rechazaron parte de las comparecencias que pedía el PSOE. Podemos se abstuvo en ellas.",
+  "n": "No es un veto a crear la comisión sino a quién declara en ella. La versión de los hechos es la del PSOE, recogida por El Español.",
   "src": [
    [
     "El Español",
     "https://www.elespanol.com/espana/murcia/20241122/psoe-murcia-critica-pp-vox-ponen-acuerdo-tapar-pufos-aeropuerto-corvera/902909883_0.html"
+   ],
+   [
+    "ORM: Vox propone la comisión (oct 2024)",
+    "https://www.orm.es/noticias-2024/vox-propone-una-comision-de-investigacion-sobre-el-aeropuerto-de-corvera/"
    ]
   ],
   "a": "Murcia"
@@ -1413,7 +1465,7 @@
   ],
   "c": "Gestión pública y derechos",
   "pr": "org",
-  "s": "Según el Ministerio de Sanidad, en 2024 la media de gasto sanitario público fue de 2.084 euros por habitante. Las que menos gastaron fueron Andalucía (1.658), Madrid (1.779) y la Comunitat Valenciana (1.867), las tres gobernadas por el PP. Las que más, País Vasco (2.332), Asturias (2.322) y Extremadura (2.246). Madrid es además la segunda comunidad que más gasto sanitario destina a conciertos con la privada (11,4%), tras Cataluña (21,1%).",
+  "s": "Según el Ministerio de Sanidad, en 2024 la media de gasto sanitario público fue de 2.084 euros por habitante. Las que menos gastaron fueron Andalucía (1.658), Madrid (1.779) y la Comunitat Valenciana (1.867), las tres gobernadas por el PP. Las que más, País Vasco (2.332), Asturias (2.322) y Extremadura (2.246). Madrid es además la segunda comunidad que más gasto sanitario destina a conciertos con la privada (11,4% en 2023), tras Cataluña (21,1%).",
   "n": "Madrid tiene la menor espera quirúrgica de España según el Ministerio (50 días, frente a 173 en Andalucía), aunque el propio Ministerio advierte de que su sistema de datos está obsoleto. Las diferencias de gasto también dependen del envejecimiento y de la financiación autonómica. Es una decisión de gestión, no un hecho antidemocrático.",
   "src": [
    [
@@ -1691,6 +1743,14 @@
    [
     "El Español: Sanidad pide más medidas",
     "https://www.elespanol.com/invertia/observatorios/sanidad/20260922/sanidad-pide-abogacia-actue-obligar-madrid-crear-registro-objetores-aborto/1003744392657_0.html"
+   ],
+   [
+    "El Español: Ayuso, «no voy a hacer una lista negra de médicos nunca» (oct 2025)",
+    "https://www.elespanol.com/espana/politica/20251009/ayuso-opone-identificar-sanidad-medicos-objetores-realizar-abortos-no-voy-hacer-lista-negra-nunca/1003743961616_0.html"
+   ],
+   [
+    "Infobae (Europa Press): Asturias lo tramita por decreto (oct 2025)",
+    "https://www.infobae.com/espana/agencias/2025/10/06/el-principado-trabaja-en-la-elaboracion-del-registro-de-sanitarios-objetores-del-aborto-via-decreto/"
    ]
   ],
   "a": "Madrid"
@@ -1988,8 +2048,8 @@
   ],
   "c": "Financiación y corrupción",
   "pr": "inv",
-  "s": "En la promoción Les Naus, en la playa de San Juan, 14 de las 140 viviendas protegidas fueron a personas vinculadas al Ayuntamiento de Alicante, gobernado por el PP: concejales, arquitectos municipales, altos funcionarios con sueldos de hasta 70.000 euros e hijos de notarios. Un tercio de los compradores no cumplía el requisito de residencia. Algunos pisos, comprados por unos 200.000 euros, se revendieron o alquilaron a precio de mercado. Un juzgado de Alicante investiga desde febrero de 2026 posibles delitos de prevaricación, tráfico de influencias y uso de información privilegiada.",
-  "n": "Dimitió el concejal de Urbanismo y se suspendió a un alto cargo autonómico de Vivienda. El propio alcalde, Luis Barcala, del PP, presentó denuncia junto al PSPV, y la Generalitat endureció los controles. Investigación en curso: rige la presunción de inocencia.",
+  "s": "En la promoción Les Naus, en la playa de San Juan, 14 de las 140 viviendas protegidas fueron a personas vinculadas al Ayuntamiento de Alicante, gobernado por el PP: concejales, arquitectos municipales, altos funcionarios (entre ellos un interventor que cobraba unos 70.000 euros) e hijos de notarios. Un tercio de los compradores no cumplía el requisito de residencia. Algunos pisos, comprados por unos 200.000 euros, se revendieron o alquilaron a precio de mercado. Un juzgado de Alicante investiga desde febrero de 2026 posibles delitos de prevaricación, tráfico de influencias y uso de información privilegiada.",
+  "n": "Dimitieron la concejala de Urbanismo, Rocío Gómez, y la directora general Ana Pérez-Hickman, y se suspendió de empleo y sueldo a un funcionario de Vivienda de la Generalitat. Tanto el Ayuntamiento, del PP, como el PSPV llevaron las sospechas a la justicia, y la Generalitat endureció los controles. Investigación en curso: rige la presunción de inocencia.",
   "src": [
    [
     "elDiario.es: quiénes se adjudicaron los pisos",
@@ -2066,7 +2126,7 @@
   ],
   "c": "Gestión pública y derechos",
   "pr": "inv",
-  "s": "La riada del 29 de octubre de 2024 dejó más de 220 muertos. Mientras se gestaba la emergencia, el president Carlos Mazón estuvo en una larga comida en el restaurante El Ventorro. La jueza de Catarroja investiga a la exconsellera de Justicia e Interior Salomé Pradas, responsable de la emergencia.",
+  "s": "La riada del 29 de octubre de 2024 dejó más de 220 muertos. Mientras se gestaba la emergencia, el president Carlos Mazón estuvo en una comida en el restaurante El Ventorro que, según la periodista que comió con él, duró casi cuatro horas, hasta entre las 18.30 y las 18.45. La jueza de Catarroja investiga a la exconsellera de Justicia e Interior Salomé Pradas, responsable de la emergencia.",
   "n": "En marzo de 2026 el TSJ valenciano rechazó imputar a Mazón: concluyó que no tenía posición de garante y no vio indicios penales. La jueza lo ha citado como testigo. La responsabilidad política es otra cosa: Mazón ya no es president.",
   "src": [
    [
@@ -2076,6 +2136,10 @@
    [
     "El Español: el auto del TSJCV",
     "https://www.elespanol.com/valencia/20260317/dureza-tsj-valenciano-conjeturas-jueza-dana-dificultan-seguir-investigando-mazon/1003744171812_0.html"
+   ],
+   [
+    "elDiario.es: la comida en El Ventorro, según Maribel Vilaplana",
+    "https://www.eldiario.es/comunitat-valenciana/maribel-vilpalana-desvela-comida-dana-mazon-ventorro-duro-cuatro-horas-pasadas-18-30_1_12581884.html"
    ]
   ],
   "a": ""
@@ -2184,14 +2248,14 @@
  {
   "d": "2026-05-21",
   "dl": "21 may 2026",
-  "t": "Parlamento de La Rioja: el PP rechaza investigar sobresueldos de altos cargos de la sanidad",
+  "t": "Parlamento de La Rioja: el PP rechaza investigar pagos irregulares a altos cargos de la sanidad",
   "p": [
    "PP"
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "El PSOE pidió, con apoyo de Vox y Podemos-IU, investigar los sobresueldos de altos cargos del Servicio Riojano de Salud. El PP la rechazó con su mayoría absoluta.",
-  "n": "El PP dijo que la normativa permite a los directivos hacer actividad asistencial y que el PSOE hizo lo mismo cuando gobernaba.",
+  "s": "El PSOE pidió investigar los pagos indebidos a altos cargos del Servicio Riojano de Salud, reconocidos en auditorías de 2023 y 2024. El PP la rechazó con su mayoría absoluta.",
+  "n": "El PSOE habló de opacidad del Gobierno de Gonzalo Capellán. Los argumentos del PP no constan en las fuentes que se han podido leer (Nuevecuatrouno bloquea el acceso).",
   "src": [
    [
     "Nuevecuatrouno",
@@ -2329,7 +2393,7 @@
   "c": "Independencia de instituciones",
   "pr": "org",
   "s": "La Comisión Europea pide más medidas contra la corrupción de alto nivel, recoge la preocupación del Supremo y el CGPJ por los ataques públicos a jueces, señala que la reforma de elección del CGPJ sigue sin consenso y recoge críticas por sesgo percibido en los informativos públicos.",
-  "n": "El informe de 2025 no identificó amenazas estructurales al Estado de Derecho en España. Las recomendaciones apuntan sobre todo al Gobierno, y la del CGPJ exige acuerdo con el PP.",
+  "n": "El informe de 2025 no identificó amenazas estructurales al Estado de Derecho en España. La mayoría de las recomendaciones dependen del Gobierno, y la reforma del CGPJ requiere un consenso que no existe.",
   "src": [
    [
     "Swissinfo (EFE): claves 2026",
@@ -2394,12 +2458,16 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "PP y Vox votaron contra la comisión de investigación que pedía el PSOE andaluz sobre la prevención y extinción de los incendios de 2026, incluidos el de Los Gallardos (Almería), con 15 muertos, y el de Niebla (Huelva).",
-  "n": "El PP alegó que el Gobierno ya se había sometido al control parlamentario y que no tenía sentido abrirla en plena temporada de riesgo. Vox dijo que no quería que la tragedia se usara políticamente.",
+  "s": "PP y Vox votaron contra la comisión de investigación que pedía el PSOE andaluz sobre la prevención y extinción de los incendios de 2026, incluidos el de Los Gallardos (Almería), el 9 de julio, con 15 muertos y unas 5.200 hectáreas, y el de Niebla (Huelva), con unas 33.000. Por Andalucía y Adelante Andalucía votaron a favor.",
+  "n": "El PP (Manuel Santiago Bonilla) alegó que el Gobierno ya había dado todas las explicaciones posibles en comparecencias y respuestas parlamentarias. Vox (Benito Morillo) dijo que el asunto no se debía manosear y que el PSOE no hizo nada en prevención cuando gobernaba.",
   "src": [
    [
     "Teleprensa",
     "https://www.teleprensa.com/andalucia/sevilla/pp-vox-evitan-que-parlamento-cree-comision-investigacion-incendios-ano-pedida-psoe/202610011702312522062.html"
+   ],
+   [
+    "1minutohuelva: el Parlamento rechaza la comisión",
+    "https://www.1minutohuelva.com/2026/10/el-parlamento-andaluz-rechaza-crear-una-comision-de-investigacion-sobre-los-incendios-de-este-verano/"
    ]
   ],
   "a": "Andalucía"
@@ -2413,7 +2481,7 @@
   ],
   "c": "Control parlamentario",
   "pr": "med",
-  "s": "El PP rechazó con su mayoría absoluta la comisión que pedía el PSOE sobre el préstamo público de 80 millones de 2011 a Madrid Network, la asociación creada en la etapa de Esperanza Aguirre, que dejó más de 70 millones sin devolver. Era el segundo intento del PSOE.",
+  "s": "El PP rechazó con su mayoría absoluta la comisión que pedía el PSOE sobre los préstamos de 80 millones de la Administración General del Estado concedidos en 2011 a Madrid Network, la asociación creada en la etapa de Esperanza Aguirre, que dejó más de 70 millones sin devolver. No era el primer intento: ya se había rechazado en junio de 2026.",
   "n": "El PP alegó que el préstamo es de hace quince años, que el Gobierno ha actuado con total transparencia y que la oposición solo busca desgastar a Ayuso.",
   "src": [
    [

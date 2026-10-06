@@ -3,7 +3,7 @@
   "id": "erte",
   "m": "Prórroga de los ERTE hasta el 30 de junio",
   "dl": "27 may 2020",
-  "r": "Aprobada sin votos en contra",
+  "r": "Aprobada 295 a 0, 55 abstenciones",
   "v": {
    "PSOE": "si",
    "UP / Sumar": "si",
@@ -11,7 +11,7 @@
    "Vox": "ab",
    "Cs": "si",
    "ERC": "si",
-   "Junts": "sd",
+   "Junts": "si",
    "Bildu": "si",
    "PNV": "si"
   },
@@ -25,6 +25,10 @@
    [
     "Newtral: el PP sí apoyó los ERTE",
     "https://www.newtral.es/yolanda-diaz-erte-pp-decreto-factcheck/20210716/"
+   ],
+   [
+    "Congreso: resultado oficial de la votación (27 may 2020)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion023/20200527/Votacion001/VOT_20200528113245.pdf"
    ]
   ]
  },
@@ -110,8 +114,8 @@
     "https://es.wikipedia.org/wiki/Reforma_laboral_espa%C3%B1ola_de_2022"
    ],
    [
-    "El Salto: los votos de PDeCAT y UPN",
-    "https://www.elsaltodiario.com/reforma-laboral/votos-pdecat-upn-amarran-convalidacion-reforma-laboral"
+    "Congreso: resultado oficial de la votación (3 feb 2022)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion149/20220203/Votacion020/VOT_20230303100523.pdf"
    ]
   ]
  },
@@ -119,7 +123,7 @@
   "id": "impuestos",
   "m": "Impuestos a banca, energéticas y grandes fortunas",
   "dl": "24 nov 2022",
-  "r": "Aprobada con 186 votos a favor",
+  "r": "Aprobada 186 a 152, 10 abstenciones (PNV y PDeCAT)",
   "v": {
    "PSOE": "si",
    "UP / Sumar": "si",
@@ -141,6 +145,10 @@
    [
     "idealista/news",
     "https://www.idealista.com/news/finanzas/economia/2022/11/25/800323-el-congreso-aprueba-el-impuesto-a-grandes-fortunas-y-lo-remite-al-senado"
+   ],
+   [
+    "Público: 186 a 152 con 10 abstenciones",
+    "https://www.publico.es/politica/mayoria-congreso-aprueba-impuestos-banca-energeticas-ricos.amp.html"
    ]
   ]
  },
