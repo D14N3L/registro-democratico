@@ -343,7 +343,7 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
     <div class="sel"><select id="bulTema" aria-label="Tema"><option value="">Todos los temas</option></select></div>
     <div class="bar"><span class="mono muted" id="bulStatus" aria-live="polite"></span><span><button type="button" id="bulOpenAll">Abrir todos</button></span></div>
     <div id="bulList"></div>
-    <p class="foot-note">El verificador es quien califica la afirmación; aquí se recoge su calificación literal. Si quien lo dijo rectificó o borró el mensaje, lo verás en la ficha.</p>
+    <p class="foot-note">El verificador es quien califica la afirmación; aquí se recoge su calificación literal. Si quien lo dijo rectificó o borró el mensaje, lo verás en la ficha. Quienes más hablan en público (presidentes, líderes de la oposición, portavoces) son también los más verificados, así que es normal que acumulen más entradas.</p>
   </section>
 
   <!-- ===== Programas ===== -->
@@ -709,7 +709,7 @@ if(BUL.length){
     $("bulList").innerHTML=rows.length?rows.map(([e,i])=>`
     <details class="row">
       <summary>
-        <span class="d">${fechaC(e.d)}</span>
+        <span class="d">${esc(e.dl||fechaC(e.d))}</span>
         <span class="t">${esc(e.dicho)}<span class="who">${esc(e.quien)} · ${esc(e.cargo)}  —  ${esc(e.p.join(" · "))}</span></span>
         <span class="pr pr-${BULK[(e.calif||"").toLowerCase()]||2}">${esc(e.verif)}: ${esc(e.calif)}</span>
       </summary>
@@ -717,13 +717,13 @@ if(BUL.length){
         <span class="cat">${esc(e.tema)} · ${esc(e.canal)}</span>
         ${e.cita?'<p>«'+esc(e.cita)+'»</p>':''}
         <p><strong style="font-weight:500">Qué dicen los datos.</strong> ${esc(e.datos)}</p>
-        ${e.rect?'<p class="matiz"><b>Rectificación.</b> '+esc(e.rect)+'</p>':''}
+        ${e.rect?'<p class="matiz"><b>Matiz.</b> '+esc(e.rect)+'</p>':''}
         ${srcList(e.src)}
         <div class="act">${copyBtn('data-b="'+i+'"')}</div>
       </div></div>
     </details>`).join(""):'<div class="empty">No hay nada con estos filtros. Prueba a quitar alguno.</div>';
   };
-  $("bulList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(!b)return;const e=BUL[+b.dataset.b];copyTo(b,"**"+e.quien+" ("+e.cargo+", "+e.p.join(", ")+"), "+fechaC(e.d)+"**: "+e.dicho+"\n\n*Qué dicen los datos:* "+e.datos+"\n\n"+e.verif+": "+e.calif+(e.rect?"\n\n*Rectificación:* "+e.rect:"")+"\n\nFuentes: "+e.src.map(s=>"["+s[0]+"]("+s[1]+")").join(" · "))});
+  $("bulList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(!b)return;const e=BUL[+b.dataset.b];copyTo(b,"**"+e.quien+" ("+e.cargo+", "+e.p.join(", ")+"), "+(e.dl||fechaC(e.d))+"**: "+e.dicho+"\n\n*Qué dicen los datos:* "+e.datos+"\n\n"+e.verif+": "+e.calif+(e.rect?"\n\n*Matiz:* "+e.rect:"")+"\n\nFuentes: "+e.src.map(s=>"["+s[0]+"]("+s[1]+")").join(" · "))});
   $("bulOpenAll").addEventListener("click",ev=>{const r=$("bulList").querySelectorAll("details.row");const o=[...r].some(x=>!x.open);r.forEach(x=>x.open=o);ev.target.textContent=o?"Cerrar todos":"Abrir todos"});
   renderBul();
 }

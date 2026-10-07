@@ -1,0 +1,1303 @@
+[
+ {
+  "d": "2019-11-04",
+  "dl": "4 nov 2019",
+  "quien": "Albert Rivera",
+  "cargo": "presidente de Ciudadanos y candidato",
+  "p": [
+   "Cs"
+  ],
+  "canal": "Debate electoral a cinco",
+  "tema": "Elecciones",
+  "dicho": "Que en todos los países de Europa los partidos con menos del 3% de los votos se quedan fuera del parlamento.",
+  "datos": "Portugal no tiene umbral: en octubre de 2019 entraron en su parlamento tres partidos con entre el 1,1% y el 1,3% de los votos.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las afirmaciones falsas de Rivera en el debate del 4-N",
+    "https://maldita.es/malditodato/20191106/las-afirmaciones-falsas-de-albert-rivera-durante-el-debate-del-4-n/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-02-08",
+  "dl": "8 feb 2021",
+  "quien": "Cuca Gamarra",
+  "cargo": "portavoz del PP en el Congreso",
+  "p": [
+   "PP"
+  ],
+  "canal": "Entrevista",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que Sánchez llevaba «más de un mes» sin ir al Congreso.",
+  "datos": "Sánchez había estado en la sesión de control del 3 de febrero de 2021, cinco días antes, según el Diario de Sesiones.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Sánchez sí estuvo en el Congreso",
+    "https://www.newtral.es/fact-check-pedro-sanchez-congreso-cuca-gamarra/20210211/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-11-26",
+  "dl": "26 nov 2020",
+  "quien": "Javier Ortega Smith",
+  "cargo": "diputado y secretario general de Vox",
+  "p": [
+   "Vox"
+  ],
+  "canal": "La Hora de La 1 (TVE)",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que El País había sido «condenado por mentir» por una querella de Espinosa de los Monteros y Monasterio.",
+  "datos": "La sentencia no juzgó si la noticia era cierta: el tribunal dijo expresamente que no lo valoraría.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la sentencia no condena a El País por mentir",
+    "https://www.newtral.es/factcheck-el-pais-mentir-sentencia-vox-rocio-monasterio/20201127/"
+   ]
+  ]
+ },
+ {
+  "d": "2024-09-18",
+  "dl": "18 sep 2024",
+  "quien": "Cuca Gamarra",
+  "cargo": "secretaria general del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Sesión de control del Congreso",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que el acuerdo entre PSC y ERC para investir a Illa no se había hecho público.",
+  "datos": "El acuerdo estaba publicado en la web del PSC desde el 3 de agosto de 2024.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: el acuerdo PSC-ERC sí es público",
+    "https://www.newtral.es/acuerdo-psc-erc-publico-cuca-gamarra-factcheck/20240919/"
+   ]
+  ]
+ },
+ {
+  "d": "2026-02-23",
+  "dl": "23 feb 2026",
+  "quien": "Alberto Núñez Feijóo",
+  "cargo": "presidente del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Entrevista en Onda Cero",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que las elecciones en Aragón llegaron porque Vox y PSOE votaron contra el presupuesto.",
+  "datos": "Los presupuestos aragoneses de 2026 nunca llegaron a votarse en las Cortes de Aragón. Abascal también lo desmintió.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: los presupuestos de Aragón no se votaron",
+    "https://www.newtral.es/presupuestos-aragon-feijoo-factcheck/20260225/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-11-03",
+  "dl": "3 nov 2025",
+  "quien": "Carlos Mazón",
+  "cargo": "presidente de la Generalitat Valenciana",
+  "p": [
+   "PP"
+  ],
+  "canal": "Comparecencia en Les Corts (en la que anunció su dimisión)",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que pidió ayuda al Gobierno por la DANA y «jamás» la recibió.",
+  "datos": "La UME salió hacia Valencia el 29 de octubre de 2024; el 31 había más de 1.100 efectivos de la UME, 1.800 policías y 750 guardias civiles, y el primer paquete de ayudas se aprobó el 5 de noviembre.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: los recursos que el Estado envió tras la DANA",
+    "https://www.newtral.es/recursos-dana-mazon-factcheck/20251104/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-10-29",
+  "dl": "29 oct 2025",
+  "quien": "Macarena Montesinos",
+  "cargo": "diputada del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Sesión de control del Congreso",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que la Aemet «falló en sus predicciones» en la DANA y que la Confederación Hidrográfica del Júcar no informó a nadie.",
+  "datos": "La Aemet no falló en sus avisos y la Confederación sí informó a Protección Civil.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la Aemet y la CHJ en la DANA",
+    "https://www.newtral.es/aemet-chj-dana-factcheck/20251030/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-01-15",
+  "dl": "ene 2021",
+  "quien": "Isabel Díaz Ayuso",
+  "cargo": "presidenta de la Comunidad de Madrid",
+  "p": [
+   "PP"
+  ],
+  "canal": "Declaraciones sobre la nevada Filomena",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que «nadie», ni la Aemet ni el 112, fue capaz de detectar la borrasca Filomena.",
+  "datos": "La Aemet dio aviso rojo con más de un 80% de probabilidad desde el 6 de enero, y el 112 de la propia Comunidad alertaba desde el 27 de diciembre.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la Aemet sí avisó de la nevada",
+    "https://www.newtral.es/factcheck-falso-aemet-detectar-nevada-madrid-isabel-diaz-ayuso/20210115/"
+   ]
+  ]
+ },
+ {
+  "d": "2026-08-26",
+  "dl": "26 ago 2026",
+  "quien": "Rafael Hernando, Rafael Núñez Huesca y Jaime de Olano",
+  "cargo": "diputados del PP (Congreso y Asamblea de Madrid)",
+  "p": [
+   "PP"
+  ],
+  "canal": "X",
+  "tema": "Otros",
+  "dicho": "Difundieron una foto de Sánchez en un telesilla en Andorra como si fuera de sus vacaciones de agosto de 2026, en plena crisis de Ceuta.",
+  "datos": "La foto es del 31 de agosto de 2024, un fotograma de laSexta durante el Mundial de bicicleta de montaña.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "Núñez Huesca reconoció el error sin borrar el mensaje; De Olano lo borró; de Hernando no consta.",
+  "src": [
+   [
+    "Maldita.es: la foto del telesilla es de 2024",
+    "https://maldita.es/desinfo/20260827/esta-imagen-muestra-a-pedro-sanchez-en-un-telesilla-en-andorra-durante-la-crisis-migratoria-de-ceuta-de-2026/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-11-04",
+  "dl": "4 nov 2019",
+  "quien": "Santiago Abascal",
+  "cargo": "presidente de Vox y candidato",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Debate electoral a cinco y X",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que el 70% de los imputados en violaciones en grupo son extranjeros.",
+  "datos": "No hay datos oficiales por nacionalidad de esos delitos. La cifra sale de un estudio de 2010 sobre agresiones entre desconocidos, en el que los casos en grupo eran solo el 4%.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las afirmaciones falsas de Abascal en el debate del 4-N",
+    "https://maldita.es/malditodato/20191106/las-afirmaciones-falsas-de-santiago-abascal-durante-el-debate-del-4-n/"
+   ],
+   [
+    "Newtral: por qué es falso el 70% de violadores en manada extranjeros",
+    "https://www.newtral.es/explicamos-por-que-es-falso-afirmar-que-el-70-de-los-violadores-en-manada-son-extranjeros/20190508/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-10-26",
+  "dl": "oct 2019",
+  "quien": "Santiago Abascal y la cuenta oficial de Vox",
+  "cargo": "presidente de Vox",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Mitin en Granada y X (@vox_es)",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que las ayudas al alquiler de Madrid «discriminan» a los españoles «con arraigo».",
+  "datos": "Ni el Plan Estatal de Vivienda ni las bases recogían el «arraigo», y el 81,5% de los admitidos en el listado provisional eran españoles, según la Consejería de Vivienda.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: los bulos de Vox sobre inmigración",
+    "https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-11-01",
+  "dl": "2019",
+  "quien": "Ignacio Garriga",
+  "cargo": "diputado de Vox en el Congreso",
+  "p": [
+   "Vox"
+  ],
+  "canal": "X",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que los miembros de la «manada de Manresa» eran menores extranjeros no acompañados.",
+  "datos": "Maldita.es lo califica de falso en su recopilación de bulos de Vox sobre inmigración.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: los bulos de Vox sobre inmigración",
+    "https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-12-21",
+  "dl": "21 dic 2020",
+  "quien": "Ignacio Garriga",
+  "cargo": "diputado de Vox y candidato a la Generalitat",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Cafè d'idees (TVE Catalunya)",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que el independentismo «ha importado» inmigración ilegal para crear «nuevos catalanes».",
+  "datos": "La Generalitat no tiene competencias de extranjería, quien acaba de llegar no vota y la población extranjera subió unas 60.000 personas en diez años.",
+  "verif": "Verificat",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Verificat: el independentismo no ha importado inmigración ilegal",
+    "https://www.verificat.cat/es/fact-check/el-independentismo-no-ha-importado-inmigracion-ilegal-como-afirma-vox"
+   ]
+  ]
+ },
+ {
+  "d": "2021-05-28",
+  "dl": "may 2021",
+  "quien": "Santiago Abascal",
+  "cargo": "diputado y presidente de Vox",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Acto en Sevilla",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que los españoles siempre emigraron «con papeles» y respetando las leyes.",
+  "datos": "Entre 1959 y 1966, la mitad de los emigrantes españoles a Alemania, Francia, Suiza y otros países salió de forma irregular, según el Instituto Español de Emigración.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la emigración española irregular",
+    "https://www.newtral.es/factcheck-emigracion-espanola-irregular-santiago-abascal-vox/20210529/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-07-16",
+  "dl": "jul 2025",
+  "quien": "Alberto Núñez Feijóo",
+  "cargo": "presidente del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Intervención pública",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que España fue el país de la UE donde más inmigración irregular entró en 2023 y 2024.",
+  "datos": "Italia recibió más llegadas irregulares los dos años: 157.651 frente a 56.852 en 2023 y 66.317 frente a 63.970 en 2024.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Italia recibió más inmigración irregular",
+    "https://www.newtral.es/feijoo-inmigracion-irregular-espana-factcheck/20250717/"
+   ]
+  ]
+ },
+ {
+  "d": "2022-10-12",
+  "dl": "oct 2022",
+  "quien": "Eva Parera",
+  "cargo": "concejala de Barcelona y presidenta de Valents",
+  "p": [
+   "Otros"
+  ],
+  "canal": "Entrevista y vídeo en X",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que según la Guardia Urbana el 80% de los delitos de Barcelona los cometen menores no acompañados.",
+  "datos": "La Guardia Urbana lo desmintió: no publica datos de delitos por nacionalidad.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la Guardia Urbana no da ese dato",
+    "https://www.newtral.es/delitos-barcelona-menas-factcheck/20221013/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-03-08",
+  "dl": "mar 2021",
+  "quien": "Carla Toscano (difundido por @VOX_Congreso)",
+  "cargo": "diputada de Vox",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Vídeo en la cuenta del grupo de Vox",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que el 80% de las denuncias por violencia de género se archivan «porque no hay pruebas ni indicios».",
+  "datos": "El CGPJ explica que un archivo no significa falta de pruebas: a veces la víctima se acoge a su derecho a no declarar.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: los archivos de denuncias de violencia de género",
+    "https://www.newtral.es/fact-check-denuncias-violencia-genero-cgpj-vox-toscano/20210312/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-06-20",
+  "dl": "jun-jul 2023",
+  "quien": "Alberto Núñez Feijóo",
+  "cargo": "presidente y candidato del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Hora 25 (SER) y debates electorales",
+  "tema": "Pensiones",
+  "dicho": "Que «siempre» que ha gobernado, el PP subió las pensiones conforme al IPC.",
+  "datos": "Con Rajoy las pensiones subieron por debajo del IPC en 2012, 2013 y 2017, y la reforma de 2013 las desligó del IPC con un mínimo del 0,25%.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "Publicó un mensaje para aclarar que el PP «subió las pensiones cada año», sin hablar del IPC; Newtral mantiene que lo del IPC es falso.",
+  "src": [
+   [
+    "Newtral: el PP no siempre subió las pensiones con el IPC",
+    "https://www.newtral.es/pp-pensiones-ipc-feijoo-factcheck/20230623/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-12-15",
+  "dl": "15 dic 2025",
+  "quien": "Alberto Núñez Feijóo",
+  "cargo": "presidente del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Cena de Navidad del PP de Madrid",
+  "tema": "Economía y empleo",
+  "dicho": "«Nunca ha habido más pobres que con Sánchez».",
+  "datos": "La tasa de riesgo de pobreza o exclusión de 2024 (25,8%) es la más baja desde 2014, según el INE.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la pobreza con Sánchez",
+    "https://www.newtral.es/pobreza-feijoo-sanchez-factcheck/20251217/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-06-18",
+  "dl": "18 jun 2025",
+  "quien": "Santiago Abascal",
+  "cargo": "diputado y presidente de Vox",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Sesión de control del Congreso",
+  "tema": "Economía y empleo",
+  "dicho": "Que cada vez más españoles están en riesgo de pobreza extrema.",
+  "datos": "La tasa de riesgo de pobreza o exclusión bajó del 27,3% en 2018 al 25,8% en 2024 (INE). La pobreza infantil sí subió.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la pobreza en España",
+    "https://www.newtral.es/pobreza-espana-abascal-factcheck/20250619/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-06-03",
+  "dl": "3 jun 2025",
+  "quien": "Alberto Núñez Feijóo",
+  "cargo": "presidente del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Rueda de prensa",
+  "tema": "Economía y empleo",
+  "dicho": "Que en el primer trimestre de 2025 se pagaron 13.000 millones más en impuestos.",
+  "datos": "La recaudación subió 5.828 millones, según la Agencia Tributaria.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la recaudación del primer trimestre",
+    "https://www.newtral.es/13000-millones-impuestos-feijoo-factcheck/20250605/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-04-19",
+  "dl": "19 abr 2023",
+  "quien": "Iván Espinosa de los Monteros",
+  "cargo": "portavoz de Vox en el Congreso",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Sesión de control del Congreso",
+  "tema": "Economía y empleo",
+  "dicho": "Que había «68.000 empresas menos que antes de la pandemia».",
+  "datos": "Había 67.466 empresas más en 2022 que en 2019, según el Directorio Central de Empresas del INE.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: hay más empresas que antes de la pandemia",
+    "https://www.newtral.es/empresas-pandemia-espinosa-de-los-monteros-vox-factcheck/20230422/"
+   ]
+  ]
+ },
+ {
+  "d": "2024-05-27",
+  "dl": "27 may 2024",
+  "quien": "Isabel Díaz Ayuso",
+  "cargo": "presidenta de la Comunidad de Madrid",
+  "p": [
+   "PP"
+  ],
+  "canal": "Entrevista en Telecinco",
+  "tema": "Economía y empleo",
+  "dicho": "Que Madrid «era la cuarta comunidad en PIB» cuando ella llegó.",
+  "datos": "Madrid es la primera en PIB por habitante en toda la serie desde 2000 y nunca fue cuarta en aportación al PIB, según el INE.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: el PIB de Madrid",
+    "https://www.newtral.es/pib-madrid-ayuso-factcheck/20240528/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-01-15",
+  "dl": "15 ene 2025",
+  "quien": "Isabel Díaz Ayuso",
+  "cargo": "presidenta de la Comunidad de Madrid",
+  "p": [
+   "PP"
+  ],
+  "canal": "Rueda de prensa",
+  "tema": "Sanidad",
+  "dicho": "Que el Gobierno de Sánchez no ha creado «una sola plaza para médicos».",
+  "datos": "Las plazas MIR subieron en casi 2.500 entre 2018 y 2025, un 38%, según las convocatorias del Ministerio de Sanidad.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: las plazas MIR",
+    "https://www.newtral.es/medicos-gobierno-sanchez-numero-plazas-mir-espana/20250117/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-12-12",
+  "dl": "12 dic 2020",
+  "quien": "Ignacio Aguado (y la cuenta @CiudadanosCs)",
+  "cargo": "vicepresidente de la Comunidad de Madrid",
+  "p": [
+   "Cs"
+  ],
+  "canal": "Acto en Barcelona y X",
+  "tema": "Sanidad",
+  "dicho": "Que el presupuesto de sanidad de Madrid creció más de un 30% desde que gobernaba Ciudadanos.",
+  "datos": "Subió un 12% entre 2015 y 2020, según el Ministerio de Sanidad.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: el presupuesto sanitario de Madrid",
+    "https://www.newtral.es/fact-check-presupuesto-sanidad-madrid-ignacio-aguado/20201217/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-01-21",
+  "dl": "21 ene 2021",
+  "quien": "Pablo Casado",
+  "cargo": "presidente del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Al Rojo Vivo (laSexta)",
+  "tema": "Sanidad",
+  "dicho": "Que a Madrid se le impuso el estado de alarma con la mitad de la incidencia de la COVID que tenía entonces España.",
+  "datos": "Madrid tenía unos 637 casos por 100.000 habitantes y España 736: no era la mitad, según Sanidad.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las afirmaciones falsas de Casado sobre la incidencia",
+    "https://maldita.es/malditodato/20210128/afirmaciones-falsas-casado-incidencia-acumulada-madrid-vacuna-coronavirus/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-04-15",
+  "dl": "15 abr 2021",
+  "quien": "Rocío Monasterio",
+  "cargo": "portavoz de Vox en la Asamblea de Madrid",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Espejo Público",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que Vox fue «el único partido» que se opuso «siempre» al estado de alarma.",
+  "datos": "Vox votó a favor de la primera prórroga del estado de alarma en marzo de 2020.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Vox votó la primera prórroga",
+    "https://www.newtral.es/fact-check-vox-estado-de-alarma-rocio-monasterio/20210419/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-02-12",
+  "dl": "feb 2025",
+  "quien": "Isabel Díaz Ayuso",
+  "cargo": "presidenta de la Comunidad de Madrid",
+  "p": [
+   "PP"
+  ],
+  "canal": "Acto del Plan Vive",
+  "tema": "Vivienda",
+  "dicho": "Que el Gobierno no ha construido «una sola» vivienda pública en seis años.",
+  "datos": "El Ministerio de Vivienda dio a Newtral promociones con participación estatal. No hay una cifra oficial total.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la vivienda pública del Gobierno",
+    "https://www.newtral.es/ayuso-vivienda-publica-gobierno-factcheck/20250213/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-04-28",
+  "dl": "28 abr 2025",
+  "quien": "Luis «Alvise» Pérez",
+  "cargo": "eurodiputado de SALF",
+  "p": [
+   "Otros"
+  ],
+  "canal": "Telegram",
+  "tema": "Otros",
+  "dicho": "Que el Gobierno atribuía el apagón a una «vibración atmosférica inducida».",
+  "datos": "Ningún miembro del Gobierno lo dijo: Sánchez insistió en que no se conocían las causas.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: el Gobierno no habló de vibración atmosférica",
+    "https://www.newtral.es/gobierno-vibracion-atmosferica-factcheck/20250430/"
+   ]
+  ]
+ },
+ {
+  "d": "2026-10-05",
+  "dl": "5 oct 2026",
+  "quien": "Isabel Díaz Ayuso",
+  "cargo": "presidenta de la Comunidad de Madrid",
+  "p": [
+   "PP"
+  ],
+  "canal": "Desayuno informativo (Fórum Europa)",
+  "tema": "Elecciones",
+  "dicho": "Pidió a todo el mundo que «ni se le ocurra votar por correo» y habló de una posible adulteración de los censos.",
+  "datos": "No hay ninguna prueba de fraude en el voto por correo en España; la ley electoral fija sus garantías y el control de la Junta Electoral.",
+  "verif": "Verificat",
+  "calif": "Teoría de la conspiración",
+  "rect": "Ninguno de los dos verificadores lo califica de «falso»: Verificat lo llama teoría de la conspiración «ampliamente desmentida» y Newtral dice que se dijo «sin aportar pruebas». Al día siguiente Ayuso dijo «Yo no he dicho eso», pero insistió en que la gente «no se confíe» y habló de «trampas» y «censos inflados». El portavoz del PP, Borja Sémper, defendió las garantías del sistema.",
+  "src": [
+   [
+    "Verificat: Abascal y Ayuso alimentan la teoría del fraude en el voto por correo",
+    "https://www.verificat.cat/es/abascal-ayuso-voto-por-correo-fraude/"
+   ],
+   [
+    "Newtral: cómo funciona el voto por correo",
+    "https://www.newtral.es/sistema-voto-correo/20261006/"
+   ],
+   [
+    "elDiario.es: Ayuso dice que no acusó al Gobierno y a la vez insiste",
+    "https://www.eldiario.es/madrid/ayuso-dice-no-acuso-gobierno-manipular-voto-correo-vez-insiste-pido-gente-no-confie_1_13565607.html"
+   ],
+   [
+    "El Diario de Madrid: el voto por correo abre el choque Sánchez-Ayuso",
+    "https://www.eldiariodemadrid.es/articulo/politica/voto-correo-abre-primer-gran-choque-entre-sanchez-ayuso-cara-29-n/20261006164317143518.html"
+   ]
+  ]
+ },
+ {
+  "d": "2026-10-05",
+  "dl": "5 oct 2026",
+  "quien": "Santiago Abascal",
+  "cargo": "presidente de Vox",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Entrevista en Antena 3",
+  "tema": "Elecciones",
+  "dicho": "Pidió votar en persona y no por correo para «votar con seguridad».",
+  "datos": "No hay ninguna prueba de fraude en el voto por correo en España; la ley electoral fija sus garantías y el control de la Junta Electoral.",
+  "verif": "Verificat",
+  "calif": "Teoría de la conspiración",
+  "rect": "Ninguno de los dos verificadores lo califica de «falso»: Verificat lo llama teoría de la conspiración «ampliamente desmentida» y Newtral dice que se dijo «sin aportar pruebas».",
+  "src": [
+   [
+    "Verificat: Abascal y Ayuso alimentan la teoría del fraude en el voto por correo",
+    "https://www.verificat.cat/es/abascal-ayuso-voto-por-correo-fraude/"
+   ],
+   [
+    "Newtral: cómo funciona el voto por correo",
+    "https://www.newtral.es/sistema-voto-correo/20261006/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-05-30",
+  "dl": "may-jun 2025",
+  "quien": "Óscar Puente, Mónica García, Óscar López, Pilar Alegría, María Jesús Montero, Ángel Víctor Torres y la cuenta del PSOE",
+  "cargo": "ministros del Gobierno",
+  "p": [
+   "PSOE",
+   "Sumar"
+  ],
+  "canal": "X, Bluesky, radio y actos de partido",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que un excapitán de la UCO fantaseaba con atentar contra Sánchez con una «bomba lapa»; Torres añadió que un mando de la UCO habló de «matar a los rojomorados».",
+  "datos": "Los mensajes completos muestran que el guardia civil bromeaba sobre que alguien le atentara a él, y la frase de los «rojomorados» es del confidente, no del guardia civil. Varios medios rectificaron.",
+  "verif": "Maldita.es",
+  "calif": "Bulo",
+  "rect": "Mónica García borró sus mensajes en X y Facebook pero no rectificó; Puente y López los mantuvieron; Alegría dijo después que «algún medio» lo interpretó «de otra manera».",
+  "src": [
+   [
+    "Maldita.es: los bulos difundidos por ministros sobre el excapitán de la UCO",
+    "https://maldita.es/malditahemeroteca/20250604/bulos-ministros-excapitan-uco-bonilla/"
+   ],
+   [
+    "Maldita.es: el falso mensaje de la bomba lapa",
+    "https://maldita.es/malditobulo/20250602/falso-mensaje-guardia-civil-bomba-lapa/"
+   ]
+  ]
+ },
+ {
+  "d": "2024-10-08",
+  "dl": "8 oct 2024",
+  "quien": "Pilar Alegría",
+  "cargo": "portavoz del Gobierno y ministra de Educación",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Rueda de prensa del Consejo de Ministros",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que la Audiencia Provincial de Madrid había llamado a la causa de Begoña Gómez «prospectiva, genérica e imprecisa».",
+  "datos": "El auto de la Audiencia Provincial del 7 de octubre de 2024 descarta expresamente que la investigación sea prospectiva.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las afirmaciones falsas de Pilar Alegría",
+    "https://maldita.es/malditobulo/20241009/afirmaciones-falsas-descontextualizadas-pilar-alegria/"
+   ]
+  ]
+ },
+ {
+  "d": "2026-09-09",
+  "dl": "9 sep 2026",
+  "quien": "Fernando Grande-Marlaska",
+  "cargo": "ministro del Interior (independiente en el Gobierno del PSOE)",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Sesión de control del Congreso",
+  "tema": "Instituciones y justicia",
+  "dicho": "Sobre el informe de Interior con fichas de 280 periodistas, que «no se define a las personas por ideología».",
+  "datos": "El documento anota a periodistas como de «ideología de izquierdas» o de «posiciones de derechas».",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "Reconoció el informe y pidió disculpas, pero no corrigió esa frase.",
+  "src": [
+   [
+    "Newtral: el informe de Interior sí anota la ideología",
+    "https://www.newtral.es/informe-interior-periodistas-factcheck/20260909/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-11-30",
+  "dl": "nov 2023",
+  "quien": "Pedro Sánchez",
+  "cargo": "presidente del Gobierno",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "La Hora de La 1 (TVE)",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que el informe de la Comisión Europea sobre el Estado de derecho señalaba al PP como el que bloquea la renovación del CGPJ.",
+  "datos": "El informe solo describe las negociaciones y menciona en una nota al pie que el PP las suspendió; la Comisión dice que no hace juicios de valor.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la Comisión Europea no señala al PP",
+    "https://www.newtral.es/pp-comision-europea-renovacion-cgpj-pedro-sanchez-factcheck/20231201/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-12-02",
+  "dl": "2 dic 2020",
+  "quien": "Salvador Illa",
+  "cargo": "ministro de Sanidad",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Rueda de prensa en La Moncloa",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que Sanidad y el Gobierno respondieron «a todas las peticiones de información».",
+  "datos": "El Consejo de Transparencia había resuelto 55 de 101 reclamaciones por silencio administrativo, 17 de ellas de Sanidad.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: Sanidad no respondió a todas las peticiones de información",
+    "https://maldita.es/malditodato/20201203/falso-ministerio-sanidad-gobierno-espana-respondan-todas-peticiones-informacion-transparencia-dice-salvador-illa/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-07-19",
+  "dl": "19 jul 2023",
+  "quien": "Pedro Sánchez",
+  "cargo": "presidente del Gobierno y candidato del PSOE",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Debate a tres en RTVE",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que PP y Vox votaron en contra de nueve leyes sociales y las recurrieron «todas» ante el Constitucional.",
+  "datos": "Tres de esas leyes no se recurrieron, el PP votó a favor de la Ley de Dependencia y la ley de violencia de género se aprobó por unanimidad.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las verificaciones del debate a tres",
+    "https://maldita.es/malditodato/20230719/verificaciones-debate-a-tres-rtve/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-07-19",
+  "dl": "19 jul 2023",
+  "quien": "Pedro Sánchez",
+  "cargo": "presidente del Gobierno y candidato del PSOE",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Debate a tres en RTVE",
+  "tema": "Economía y empleo",
+  "dicho": "Que nunca hubo tantos jóvenes empleados y que el paro juvenil estaba en su mínimo.",
+  "datos": "El paro de 16 a 29 años era del 22,6% en el primer trimestre de 2023; el mínimo fue del 12,5% en 2007, y el máximo de jóvenes ocupados también fue en 2006.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las verificaciones del debate a tres",
+    "https://maldita.es/malditodato/20230719/verificaciones-debate-a-tres-rtve/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-07-19",
+  "dl": "19 jul 2023",
+  "quien": "Yolanda Díaz",
+  "cargo": "vicepresidenta segunda y candidata de Sumar",
+  "p": [
+   "Sumar"
+  ],
+  "canal": "Debate a tres en RTVE",
+  "tema": "Economía y empleo",
+  "dicho": "Que había más trabajadores en la agricultura que nunca: 750.000.",
+  "datos": "Había 748.200 ocupados en el primer trimestre de 2023; el máximo fue de 870.100 en 2008, según la EPA.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las verificaciones del debate a tres",
+    "https://maldita.es/malditodato/20230719/verificaciones-debate-a-tres-rtve/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-07-10",
+  "dl": "10 jul 2023",
+  "quien": "Pedro Sánchez",
+  "cargo": "presidente del Gobierno y candidato del PSOE",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Cara a cara con Feijóo",
+  "tema": "Pensiones",
+  "dicho": "Que Zapatero no congeló las pensiones.",
+  "datos": "Un real decreto-ley de mayo de 2010 congeló para 2011 las pensiones contributivas; quedaron fuera las mínimas y las no contributivas.",
+  "verif": "Maldita.es",
+  "calif": "Falso pero…",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: el cara a cara Sánchez-Feijóo",
+    "https://maldita.es/malditodato/20230711/fact-checking-cara-a-cara-sanchez-feijoo/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-07-27",
+  "dl": "27 jul 2020",
+  "quien": "Pedro Sánchez",
+  "cargo": "presidente del Gobierno",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Entrevista en Informativos Telecinco",
+  "tema": "Sanidad",
+  "dicho": "Que la incidencia de la COVID en la mayor parte de España era menor que en Reino Unido y que el fondo europeo de 140.000 millones era «en torno al 60%» del PIB.",
+  "datos": "Diez comunidades, con el 73% de la población, superaban la incidencia de Reino Unido, y los 140.000 millones eran el 11,24% del PIB de 2019.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las afirmaciones falsas de Sánchez en Telecinco",
+    "https://maldita.es/malditodato/20200728/afirmaciones-falsas-pedro-sanchez-coronavirus-espana-reino-unido-fondo-recuperacion-europeo-entrevista-informativos-telecinco/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-02-06",
+  "dl": "6 feb 2021",
+  "quien": "Pedro Sánchez",
+  "cargo": "presidente del Gobierno",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Mitin del PSC en Lleida",
+  "tema": "Sanidad",
+  "dicho": "Que la Generalitat gastó en sanidad menos en 2020 que en 2010 y que Cataluña dedica un 3,7% del PIB frente al 6,2% de España.",
+  "datos": "Según el Ministerio de Sanidad, fueron 9.789 millones en 2020 y 9.888 en 2010, y Cataluña gasta el 4,7% del PIB; las cifras de España y Cataluña que usó no son comparables.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: los datos de Sánchez sobre la sanidad catalana",
+    "https://www.newtral.es/fact-check-pedro-sanchez-equivocados-sanidad-catalana/20210211/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-11-04",
+  "dl": "4 nov 2019",
+  "quien": "Pedro Sánchez",
+  "cargo": "presidente del Gobierno en funciones",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Debate electoral a cinco",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que quien indultó a los terroristas de Terra Lliure fue el PP.",
+  "datos": "Hubo indultos a miembros de Terra Lliure con González y con Aznar.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las 17 falsedades del debate de la Academia de TV",
+    "https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/"
+   ]
+  ]
+ },
+ {
+  "d": "2024-10-23",
+  "dl": "oct 2024",
+  "quien": "María Jesús Montero",
+  "cargo": "vicepresidenta primera y ministra de Hacienda",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Sesión de control del Congreso",
+  "tema": "Economía y empleo",
+  "dicho": "Que la temporalidad del empleo en España está «por debajo de la media de la UE».",
+  "datos": "Según Eurostat era del 13,3% en España frente al 10,1% de la UE, y España no ha estado por debajo desde 2009.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la temporalidad en España y la UE",
+    "https://www.newtral.es/tasa-temporalidad-espana-maria-jesus-montero-factcheck/20241024/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-06-12",
+  "dl": "12 jun 2021",
+  "quien": "Salvador Illa",
+  "cargo": "líder del PSC y jefe de la oposición en el Parlament",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "RAC1",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que en la mesa de diálogo de 2020 no había nadie de fuera del Govern.",
+  "datos": "Participaron tres diputados sin cargo en el Govern, según el comunicado de la propia Generalitat.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: quién estuvo en la mesa de diálogo",
+    "https://www.newtral.es/factcheck-mesa-dialogo-generalitat-gobierno-junqueras-salvador-illa/20210616/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-02-09",
+  "dl": "feb 2025",
+  "quien": "Óscar Puente",
+  "cargo": "ministro de Transportes",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "X",
+  "tema": "Otros",
+  "dicho": "Difundió una foto manipulada de Abascal «de puntillas» junto a Le Pen para burlarse de su estatura.",
+  "datos": "Los pies estaban sustituidos con los de otra foto de noviembre de 2024.",
+  "verif": "Maldita.es",
+  "calif": "Bulo",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: la foto de Abascal de puntillas está manipulada",
+    "https://maldita.es/malditobulo/20250210/abascal-foto-puntillas-patriots/"
+   ]
+  ]
+ },
+ {
+  "d": "2022-07-05",
+  "dl": "jul 2022",
+  "quien": "Ione Belarra",
+  "cargo": "ministra de Derechos Sociales y secretaria general de Podemos",
+  "p": [
+   "Podemos/UP"
+  ],
+  "canal": "Acto de partido",
+  "tema": "Economía y empleo",
+  "dicho": "Que el gasto militar ya estaba «en niveles récord».",
+  "datos": "Según Eurostat bajó del 1,4% del PIB en 1995 al 0,9% en 2020, y otras series también bajan.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "Su gabinete se remitió a los datos del Centre Delàs.",
+  "src": [
+   [
+    "Newtral: el gasto militar en España",
+    "https://www.newtral.es/gasto-militar-espana-factcheck/20220712/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-11-04",
+  "dl": "4 nov 2019",
+  "quien": "Pablo Iglesias",
+  "cargo": "secretario general de Podemos y candidato de Unidas Podemos",
+  "p": [
+   "Podemos/UP"
+  ],
+  "canal": "Debate electoral a cinco",
+  "tema": "Pensiones",
+  "dicho": "Que el artículo 50 de la Constitución obliga a subir las pensiones con el IPC.",
+  "datos": "La Constitución no dice eso: habla de pensiones «adecuadas y periódicamente actualizadas», sin mencionar el IPC.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las 17 falsedades del debate de la Academia de TV",
+    "https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-04-23",
+  "dl": "23 abr 2021",
+  "quien": "Mónica García",
+  "cargo": "portavoz de Más Madrid en la Asamblea y candidata",
+  "p": [
+   "Otros"
+  ],
+  "canal": "Entrevista en elDiario.es",
+  "tema": "Sanidad",
+  "dicho": "Que no se sabía dónde se había producido el 85% de los contagios en Madrid.",
+  "datos": "Según el informe de Sanidad del día anterior, la trazabilidad era del 54,7%; el 85% correspondía a enero y febrero.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "Más Madrid se remitió a un artículo de prensa de febrero.",
+  "src": [
+   [
+    "Newtral: el rastreo de contagios en Madrid",
+    "https://www.newtral.es/fact-check-madrid-rastreo-contagios-monica-garcia/20210428/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-04-07",
+  "dl": "abr-may 2019",
+  "quien": "Ada Colau",
+  "cargo": "alcaldesa de Barcelona (BComú)",
+  "p": [
+   "Otros"
+  ],
+  "canal": "Salvados y debate en Cuatro",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que había puesto más agentes de la Guardia Urbana.",
+  "datos": "Había 2.888 agentes en mayo de 2015 y 2.784 en mayo de 2019, el mínimo desde 2011, según datos obtenidos por reclamación de transparencia.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: Colau no puso más agentes",
+    "https://maldita.es/malditodato/20190812/es-falso-que-ada-colau-haya-puesto-mas-agentes-de-policia-en-barcelona-como-decia-la-alcaldesa-en-campana-electoral/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-11-12",
+  "dl": "12 nov 2025",
+  "quien": "Gabriel Rufián",
+  "cargo": "portavoz de ERC en el Congreso",
+  "p": [
+   "ERC"
+  ],
+  "canal": "Pleno del Congreso",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que Feijóo había dicho que fue la primera persona que habló con Mazón durante la DANA.",
+  "datos": "Feijóo dijo que habló con Mazón antes que Sánchez, no que fuera el primero. Sánchez repitió la misma afirmación en ese pleno.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: lo que dijo Feijóo sobre Mazón",
+    "https://www.newtral.es/rufian-feijoo-hablo-mazon-factcheck/20251113/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-07-23",
+  "dl": "23 jul 2019",
+  "quien": "Gabriel Rufián",
+  "cargo": "portavoz de ERC en el Congreso",
+  "p": [
+   "ERC"
+  ],
+  "canal": "Debate de investidura",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que ERC votó a favor de 28 de los 29 decretos de Sánchez.",
+  "datos": "Votó a favor de 22, se abstuvo en 5 y votó en contra de 2.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "Sobre otra de sus frases de esa sesión, ERC respondió a Maldita.es: «Tenéis razón».",
+  "src": [
+   [
+    "Maldita.es: las mentiras de la segunda sesión de investidura",
+    "https://maldita.es/malditodato/20190724/las-mentiras-y-datos-falsos-de-la-segunda-sesion-del-debate-de-investidura-de-pedro-sanchez/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-01-31",
+  "dl": "31 ene 2021",
+  "quien": "Pere Aragonès",
+  "cargo": "vicepresident en funciones de president y candidato de ERC",
+  "p": [
+   "ERC"
+  ],
+  "canal": "Debate de RTVE",
+  "tema": "Economía y empleo",
+  "dicho": "Que el Estado había dado «cero ayudas» a los sectores afectados por la pandemia.",
+  "datos": "Hubo ERTE, avales del ICO por 115.000 millones y un fondo COVID de 16.000 millones, 3.166 de ellos para Cataluña.",
+  "verif": "Verificat",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Verificat: los argumentos del debate de RTVE sobre las ayudas",
+    "https://www.verificat.cat/els-arguments-del-debat-de-rtve-sobre-els-ajuts-de-la-pandemia-verificats/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-01-10",
+  "dl": "ene 2023",
+  "quien": "Laura Borràs",
+  "cargo": "presidenta de Junts y presidenta suspendida del Parlament",
+  "p": [
+   "Junts"
+  ],
+  "canal": "Cafè d'idees (RTVE)",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que Aragonès fue el presidente de la Generalitat con más apoyos en su investidura, con 74 votos.",
+  "datos": "Pujol tuvo 75 votos en 1980 y 87 en 1984, y Maragall 74 en 2003.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "Su gabinete dijo que se refería a los presidentes independentistas.",
+  "src": [
+   [
+    "Newtral: los apoyos de los presidentes catalanes",
+    "https://www.newtral.es/presidente-cataluna-apoyos-factcheck/20230112/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-07-23",
+  "dl": "23 jul 2019",
+  "quien": "Mertxe Aizpurua",
+  "cargo": "portavoz de EH Bildu en el Congreso",
+  "p": [
+   "Bildu"
+  ],
+  "canal": "Debate de investidura",
+  "tema": "Elecciones",
+  "dicho": "Que EH Bildu tenía «más de 120 alcaldías».",
+  "datos": "Eran 118, según el Ministerio de Política Territorial y el Gobierno Vasco.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las mentiras de la segunda sesión de investidura",
+    "https://maldita.es/malditodato/20190724/las-mentiras-y-datos-falsos-de-la-segunda-sesion-del-debate-de-investidura-de-pedro-sanchez/"
+   ]
+  ]
+ },
+ {
+  "d": "2024-07-17",
+  "dl": "17 jul 2024",
+  "quien": "Aitor Esteban",
+  "cargo": "portavoz del PNV en el Congreso",
+  "p": [
+   "PNV"
+  ],
+  "canal": "Pleno del Congreso",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que La Rioja «tiene cero» menores extranjeros no acompañados.",
+  "datos": "La Consejería riojana tenía 9 a 17 de julio de 2024.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: los menores no acompañados en La Rioja",
+    "https://www.newtral.es/menores-no-acompanados-la-rioja-factcheck/20240722/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-12-03",
+  "dl": "3 dic 2020",
+  "quien": "Néstor Rego",
+  "cargo": "diputado del BNG",
+  "p": [
+   "Otros"
+  ],
+  "canal": "X",
+  "tema": "Economía y empleo",
+  "dicho": "Que PSOE y Podemos «aumentaron» 300 millones la partida del CNI.",
+  "datos": "La partida de 2021 era de 299,87 millones, 2,7 más que el año anterior.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "Su equipo dijo que quería decir «hasta» 300 millones.",
+  "src": [
+   [
+    "Newtral: la partida del CNI en 2021",
+    "https://www.newtral.es/factcheck-presupuestos-millones-cni-2021/20201211/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-06-11",
+  "dl": "jun 2019",
+  "quien": "Ana Oramas",
+  "cargo": "diputada y líder de Coalición Canaria",
+  "p": [
+   "CC"
+  ],
+  "canal": "Rueda de prensa y esRadio",
+  "tema": "Otros",
+  "dicho": "Que Podemos decía que había que «exterminar» a Coalición Canaria, con esos «términos exactos».",
+  "datos": "No hay constancia de esa frase y CC no aportó ninguna fuente.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: no hay constancia de esa frase de Podemos",
+    "https://www.newtral.es/ana-oramas-podemos-dice-que-hay-que-exterminar-a-coalicion-canaria-y-son-los-terminos-exactos/20190620/"
+   ]
+  ]
+ }
+]
