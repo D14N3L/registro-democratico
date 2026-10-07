@@ -9178,7 +9178,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 1/2016, de transparencia y buen gobierno](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3190)
   - [BOE (ELI): Ley 1/2016](https://www.boe.es/eli/es-ga/l/2016/01/18/1)
 
-## Bulos (61)
+## Bulos (72)
 
 ### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Pidió a todo el mundo que «ni se le ocurra votar por correo» y habló de una posible adulteración de los censos.
 - Fecha: 5 oct 2026
@@ -9224,6 +9224,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: la foto del telesilla es de 2024](https://maldita.es/desinfo/20260827/esta-imagen-muestra-a-pedro-sanchez-en-un-telesilla-en-andorra-durante-la-crisis-migratoria-de-ceuta-de-2026/)
 
+### Cuenta oficial del PP en X (cuenta oficial de partido): Que la ministra Margarita Robles le dijo al embajador de EE. UU. que ella «está con Trump».
+- Fecha: mar 2026
+- Partido: PP
+- Canal: X · Tema: Otros
+- Qué dicen los datos: En el vídeo de la reunión del 4-mar-2026 (imágenes de EFE y Europa Press) Robles habla de la temperatura del despacho y dice «estoy cómoda»; no se la oye mencionar a Trump. Newtral señala que el Partido Popular difundió el mensaje en su cuenta de X.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Robles no dice que está «con Trump»](https://www.newtral.es/robles-trump/20260306/)
+  - [Maldita.es: qué sabemos del «estoy con Trump»](https://maldita.es/malditobulo/20260306/microfono-abierto-delata-a-margarita-robles-yo-estoy-con-trump/)
+
 ### Alberto Núñez Feijóo (presidente del PP): Que las elecciones en Aragón llegaron porque Vox y PSOE votaron contra el presupuesto.
 - Fecha: 23 feb 2026
 - Partido: PP
@@ -9268,6 +9278,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Newtral: Falso
 - Fuentes:
   - [Newtral: la Aemet y la CHJ en la DANA](https://www.newtral.es/aemet-chj-dana-factcheck/20251030/)
+
+### Irene Montero (eurodiputada y secretaria política de Podemos): Que el Gobierno confirmó que cumplirá el objetivo de gasto militar del 5% del PIB asignado por la OTAN.
+- Fecha: oct 2025
+- Partido: Podemos/UP
+- Canal: X · Tema: Otros
+- Qué dicen los datos: El ministro Cuerpo dijo que España cumpliría «los gastos que nos han atribuido» en la OTAN, pero el fragmento que compartió Montero corta la parte en la que estima ese gasto en el 2,1% del PIB.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Cuerpo no confirma el 5% del PIB en defensa](https://www.newtral.es/gobierno-objetivo-gasto-defensa-militar-otan-irene-montero-factcheck/20251023/)
 
 ### Alberto Núñez Feijóo (presidente del PP): Que España fue el país de la UE donde más inmigración irregular entró en 2023 y 2024.
 - Fecha: jul 2025
@@ -9514,6 +9533,33 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: el gasto militar en España](https://www.newtral.es/gasto-militar-espana-factcheck/20220712/)
 
+### Carlos Carrizosa (y la cuenta oficial de Cs) (presidente del grupo de Cs en el Parlament): Que el Reglamento del Parlament se modificó a instancias de Cs para suspender a diputados con juicio oral por corrupción.
+- Fecha: oct 2021
+- Partido: Cs
+- Canal: Rueda de prensa y X · Tema: Instituciones y justicia
+- Qué dicen los datos: El artículo 25.4 entró en 2017 por una enmienda de la CUP.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Carrizosa y el Reglamento del Parlament](https://www.newtral.es/reglamento-parlament-catalunya-corrpcion-carrizosa-factcheck/20211029/)
+
+### Santiago Abascal (diputado y presidente de Vox): Que la nueva ley de infancia de Andalucía garantiza «pagas a los menas» hasta los 25 años.
+- Fecha: 30 ago 2021
+- Partido: Vox
+- Canal: Rueda de prensa en la sede de Vox · Tema: Inmigración y seguridad
+- Qué dicen los datos: La ley no recoge esa paga: su artículo 132 solo da preferencia en ciertas ayudas para independizarse a jóvenes de hasta 25 años que estuvieron tutelados por la Junta.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la ley de infancia de Andalucía no garantiza pagas a los menas](https://www.newtral.es/paga-menas-andalucia-santiago-abascal/20210902/)
+
+### Jaume Asens (presidente del grupo de Unidas Podemos en el Congreso): Que con Rajoy uno de cada cuatro indultos fue por corrupción.
+- Fecha: 22 jun 2021
+- Partido: Podemos/UP
+- Canal: Pleno del Congreso · Tema: Instituciones y justicia
+- Qué dicen los datos: Según los datos de Civio, Rajoy concedió 962 indultos y 16 fueron por delitos de corrupción.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Asens y los indultos de Rajoy](https://www.newtral.es/factcheck-indultos-gobierno-rajoy-corrupcion-jaume-asens/20210630/)
+
 ### Salvador Illa (líder del PSC y jefe de la oposición en el Parlament): Que en la mesa de diálogo de 2020 no había nadie de fuera del Govern.
 - Fecha: 12 jun 2021
 - Partido: PSOE
@@ -9651,6 +9697,24 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: la sentencia no condena a El País por mentir](https://www.newtral.es/factcheck-el-pais-mentir-sentencia-vox-rocio-monasterio/20201127/)
 
+### Cuenta de Podemos en redes (cuenta oficial de partido): Que Juanma Moreno estaba investigado por presunta corrupción por 1,7 millones de su etapa en Sanidad.
+- Fecha: sep 2020
+- Partido: Podemos/UP
+- Canal: Redes sociales · Tema: Instituciones y justicia
+- Qué dicen los datos: Se refería a una fiscalización del Tribunal de Cuentas sobre el Imserso, que no es una investigación por corrupción contra Moreno.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Juanma Moreno no está investigado por corrupción](https://www.newtral.es/bulo-podemos-juanma-moreno-imputado/20200908/)
+
+### José Luis Ábalos (ministro de Transportes y secretario de Organización del PSOE): Que el PP vinculaba su negativa a renovar el CGPJ a las críticas a la monarquía.
+- Fecha: 7 sep 2020
+- Partido: PSOE
+- Canal: Rueda de prensa · Tema: Instituciones y justicia
+- Qué dicen los datos: Newtral concluye que el argumento atribuido al PP no se corresponde con lo que decía su nota.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Ábalos y la renovación del CGPJ](https://www.newtral.es/factcheck-abalos-pp-renovacion-cgpj-criticas-monarquia-psoe/20200910/)
+
 ### Pedro Sánchez (presidente del Gobierno): Que la incidencia de la COVID en la mayor parte de España era menor que en Reino Unido y que el fondo europeo de 140.000 millones era «en torno al 60%» del PIB.
 - Fecha: 27 jul 2020
 - Partido: PSOE
@@ -9659,6 +9723,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: las afirmaciones falsas de Sánchez en Telecinco](https://maldita.es/malditodato/20200728/afirmaciones-falsas-pedro-sanchez-coronavirus-espana-reino-unido-fondo-recuperacion-europeo-entrevista-informativos-telecinco/)
+
+### Patricia Rueda (diputada de Vox por Málaga): Que Alemania «nos veta» recomendando no viajar a España.
+- Fecha: 10 jun 2020
+- Partido: Vox
+- Canal: Pleno del Congreso · Tema: Economía y empleo
+- Qué dicen los datos: La embajada alemana explicó a Newtral que el aviso se debía al estado de alarma y las fronteras cerradas, no a una recomendación contra España para el verano.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Patricia Rueda y el supuesto veto de Alemania](https://www.newtral.es/fact-check-patricia-rueda-veto-alemania-turismo/20200617/)
 
 ### Albert Rivera (presidente de Ciudadanos y candidato): Que en todos los países de Europa los partidos con menos del 3% de los votos se quedan fuera del parlamento.
 - Fecha: 4 nov 2019
@@ -9734,6 +9807,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: las mentiras de la segunda sesión de investidura](https://maldita.es/malditodato/20190724/las-mentiras-y-datos-falsos-de-la-segunda-sesion-del-debate-de-investidura-de-pedro-sanchez/)
 
+### Juan Carlos Girauta (diputado de Ciudadanos): Que «el 80% de los españoles» apoya la gestación subrogada.
+- Fecha: jul 2019
+- Partido: Cs
+- Canal: Televisión · Tema: Otros
+- Qué dicen los datos: No hay ningún estudio oficial con ese dato. La única encuesta del CIS que lo trata (2014) preguntaba solo por el caso de un hombre solo, y un 50,4% estaba «más bien a favor».
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que el 80% apoye la gestación subrogada](https://maldita.es/malditodato/20190708/es-falso-que-el-80-de-los-espanoles-apoya-la-gestacion-subrogada-como-dice-juan-carlos-girauta/)
+
 ### Ana Oramas (diputada y líder de Coalición Canaria): Que Podemos decía que había que «exterminar» a Coalición Canaria, con esos «términos exactos».
 - Fecha: jun 2019
 - Partido: CC
@@ -9743,6 +9825,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: no hay constancia de esa frase de Podemos](https://www.newtral.es/ana-oramas-podemos-dice-que-hay-que-exterminar-a-coalicion-canaria-y-son-los-terminos-exactos/20190620/)
 
+### Cuenta oficial de Ciudadanos en la Comunitat Valenciana (y Toni Cantó, su candidato) (cuenta oficial de partido): Que Cs era el único partido con representación que crecía en Les Corts, que sería líder de la oposición y que era «el partido que más ha crecido».
+- Fecha: 28 abr – 6 may 2019
+- Partido: Cs
+- Canal: X · Tema: Elecciones
+- Qué dicen los datos: El PSOE también creció (de 23 a 27 escaños) y el PP tenía un escaño más que Cs.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las afirmaciones falsas de Cantó y Cs Valencia sobre el 28A](https://maldita.es/malditodato/20190506/las-afirmaciones-falsas-de-toni-canto-y-ciudadanos-valencia-sobre-los-resultados-del-28a/)
+
 ### Ada Colau (alcaldesa de Barcelona (BComú)): Que había puesto más agentes de la Guardia Urbana.
 - Fecha: abr-may 2019
 - Partido: Otros
@@ -9751,6 +9842,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: Colau no puso más agentes](https://maldita.es/malditodato/20190812/es-falso-que-ada-colau-haya-puesto-mas-agentes-de-policia-en-barcelona-como-decia-la-alcaldesa-en-campana-electoral/)
+
+### Inés Arrimadas (líder de Cs en Cataluña y diputada del Parlament): Que el Gobierno de Sánchez «indulta a golpistas».
+- Fecha: feb 2019
+- Partido: Cs
+- Canal: Declaraciones · Tema: Instituciones y justicia
+- Qué dicen los datos: No había indultado a nadie: el juicio del procés seguía en curso y no había condena.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Sánchez haya indultado a «golpistas»](https://maldita.es/malditodato/20190301/es-falso-que-el-gobierno-de-pedro-sanchez-haya-indultado-a-golpistas-como-dice-arrimadas/)
 
 ## Huelgas y movilizaciones (38)
 

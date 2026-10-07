@@ -1381,5 +1381,251 @@
     "https://maldita.es/malditobulo/20251028/ropa-alfafar-vertedero-dana-valencia/"
    ]
   ]
+ },
+ {
+  "d": "2026-03-06",
+  "dl": "mar 2026",
+  "quien": "Cuenta oficial del PP en X",
+  "cargo": "cuenta oficial de partido",
+  "p": [
+   "PP"
+  ],
+  "canal": "X",
+  "tema": "Otros",
+  "dicho": "Que la ministra Margarita Robles le dijo al embajador de EE. UU. que ella «está con Trump».",
+  "datos": "En el vídeo de la reunión del 4-mar-2026 (imágenes de EFE y Europa Press) Robles habla de la temperatura del despacho y dice «estoy cómoda»; no se la oye mencionar a Trump. Newtral señala que el Partido Popular difundió el mensaje en su cuenta de X.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Robles no dice que está «con Trump»",
+    "https://www.newtral.es/robles-trump/20260306/"
+   ],
+   [
+    "Maldita.es: qué sabemos del «estoy con Trump»",
+    "https://maldita.es/malditobulo/20260306/microfono-abierto-delata-a-margarita-robles-yo-estoy-con-trump/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-08-30",
+  "dl": "30 ago 2021",
+  "quien": "Santiago Abascal",
+  "cargo": "diputado y presidente de Vox",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Rueda de prensa en la sede de Vox",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que la nueva ley de infancia de Andalucía garantiza «pagas a los menas» hasta los 25 años.",
+  "datos": "La ley no recoge esa paga: su artículo 132 solo da preferencia en ciertas ayudas para independizarse a jóvenes de hasta 25 años que estuvieron tutelados por la Junta.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: la ley de infancia de Andalucía no garantiza pagas a los menas",
+    "https://www.newtral.es/paga-menas-andalucia-santiago-abascal/20210902/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-06-10",
+  "dl": "10 jun 2020",
+  "quien": "Patricia Rueda",
+  "cargo": "diputada de Vox por Málaga",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Pleno del Congreso",
+  "tema": "Economía y empleo",
+  "dicho": "Que Alemania «nos veta» recomendando no viajar a España.",
+  "datos": "La embajada alemana explicó a Newtral que el aviso se debía al estado de alarma y las fronteras cerradas, no a una recomendación contra España para el verano.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Patricia Rueda y el supuesto veto de Alemania",
+    "https://www.newtral.es/fact-check-patricia-rueda-veto-alemania-turismo/20200617/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-09-07",
+  "dl": "7 sep 2020",
+  "quien": "José Luis Ábalos",
+  "cargo": "ministro de Transportes y secretario de Organización del PSOE",
+  "p": [
+   "PSOE"
+  ],
+  "canal": "Rueda de prensa",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que el PP vinculaba su negativa a renovar el CGPJ a las críticas a la monarquía.",
+  "datos": "Newtral concluye que el argumento atribuido al PP no se corresponde con lo que decía su nota.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Ábalos y la renovación del CGPJ",
+    "https://www.newtral.es/factcheck-abalos-pp-renovacion-cgpj-criticas-monarquia-psoe/20200910/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-10-21",
+  "dl": "oct 2025",
+  "quien": "Irene Montero",
+  "cargo": "eurodiputada y secretaria política de Podemos",
+  "p": [
+   "Podemos/UP"
+  ],
+  "canal": "X",
+  "tema": "Otros",
+  "dicho": "Que el Gobierno confirmó que cumplirá el objetivo de gasto militar del 5% del PIB asignado por la OTAN.",
+  "datos": "El ministro Cuerpo dijo que España cumpliría «los gastos que nos han atribuido» en la OTAN, pero el fragmento que compartió Montero corta la parte en la que estima ese gasto en el 2,1% del PIB.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Cuerpo no confirma el 5% del PIB en defensa",
+    "https://www.newtral.es/gobierno-objetivo-gasto-defensa-militar-otan-irene-montero-factcheck/20251023/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-06-22",
+  "dl": "22 jun 2021",
+  "quien": "Jaume Asens",
+  "cargo": "presidente del grupo de Unidas Podemos en el Congreso",
+  "p": [
+   "Podemos/UP"
+  ],
+  "canal": "Pleno del Congreso",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que con Rajoy uno de cada cuatro indultos fue por corrupción.",
+  "datos": "Según los datos de Civio, Rajoy concedió 962 indultos y 16 fueron por delitos de corrupción.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Asens y los indultos de Rajoy",
+    "https://www.newtral.es/factcheck-indultos-gobierno-rajoy-corrupcion-jaume-asens/20210630/"
+   ]
+  ]
+ },
+ {
+  "d": "2020-09-08",
+  "dl": "sep 2020",
+  "quien": "Cuenta de Podemos en redes",
+  "cargo": "cuenta oficial de partido",
+  "p": [
+   "Podemos/UP"
+  ],
+  "canal": "Redes sociales",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que Juanma Moreno estaba investigado por presunta corrupción por 1,7 millones de su etapa en Sanidad.",
+  "datos": "Se refería a una fiscalización del Tribunal de Cuentas sobre el Imserso, que no es una investigación por corrupción contra Moreno.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Juanma Moreno no está investigado por corrupción",
+    "https://www.newtral.es/bulo-podemos-juanma-moreno-imputado/20200908/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-07-08",
+  "dl": "jul 2019",
+  "quien": "Juan Carlos Girauta",
+  "cargo": "diputado de Ciudadanos",
+  "p": [
+   "Cs"
+  ],
+  "canal": "Televisión",
+  "tema": "Otros",
+  "dicho": "Que «el 80% de los españoles» apoya la gestación subrogada.",
+  "datos": "No hay ningún estudio oficial con ese dato. La única encuesta del CIS que lo trata (2014) preguntaba solo por el caso de un hombre solo, y un 50,4% estaba «más bien a favor».",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: es falso que el 80% apoye la gestación subrogada",
+    "https://maldita.es/malditodato/20190708/es-falso-que-el-80-de-los-espanoles-apoya-la-gestacion-subrogada-como-dice-juan-carlos-girauta/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-02-28",
+  "dl": "feb 2019",
+  "quien": "Inés Arrimadas",
+  "cargo": "líder de Cs en Cataluña y diputada del Parlament",
+  "p": [
+   "Cs"
+  ],
+  "canal": "Declaraciones",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que el Gobierno de Sánchez «indulta a golpistas».",
+  "datos": "No había indultado a nadie: el juicio del procés seguía en curso y no había condena.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: es falso que Sánchez haya indultado a «golpistas»",
+    "https://maldita.es/malditodato/20190301/es-falso-que-el-gobierno-de-pedro-sanchez-haya-indultado-a-golpistas-como-dice-arrimadas/"
+   ]
+  ]
+ },
+ {
+  "d": "2021-10-29",
+  "dl": "oct 2021",
+  "quien": "Carlos Carrizosa (y la cuenta oficial de Cs)",
+  "cargo": "presidente del grupo de Cs en el Parlament",
+  "p": [
+   "Cs"
+  ],
+  "canal": "Rueda de prensa y X",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que el Reglamento del Parlament se modificó a instancias de Cs para suspender a diputados con juicio oral por corrupción.",
+  "datos": "El artículo 25.4 entró en 2017 por una enmienda de la CUP.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Newtral: Carrizosa y el Reglamento del Parlament",
+    "https://www.newtral.es/reglamento-parlament-catalunya-corrpcion-carrizosa-factcheck/20211029/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-04-28",
+  "dl": "28 abr – 6 may 2019",
+  "quien": "Cuenta oficial de Ciudadanos en la Comunitat Valenciana (y Toni Cantó, su candidato)",
+  "cargo": "cuenta oficial de partido",
+  "p": [
+   "Cs"
+  ],
+  "canal": "X",
+  "tema": "Elecciones",
+  "dicho": "Que Cs era el único partido con representación que crecía en Les Corts, que sería líder de la oposición y que era «el partido que más ha crecido».",
+  "datos": "El PSOE también creció (de 23 a 27 escaños) y el PP tenía un escaño más que Cs.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las afirmaciones falsas de Cantó y Cs Valencia sobre el 28A",
+    "https://maldita.es/malditodato/20190506/las-afirmaciones-falsas-de-toni-canto-y-ciudadanos-valencia-sobre-los-resultados-del-28a/"
+   ]
+  ]
  }
 ]
