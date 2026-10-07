@@ -79,5 +79,26 @@ ${fuentes(i.src)}
 `;
 }
 
+const mayorias = leer("mayorias.json");
+const APOYO = { unan: "Sin votos en contra", pacto: "Con el principal partido de la oposición", socio: "Con otros grupos", solo: "Solo el partido con mayoría", sd: "Voto sin desglosar" };
+o += `## Mayorías absolutas (${mayorias.length})
+
+`;
+for (const m of [...mayorias].sort((a, b) => b.d.localeCompare(a.d))) {
+  o += `### ${m.ley}
+- Fecha: ${m.d}
+- Cámara: ${m.a} · Mayoría absoluta: ${m.g}
+- Tema: ${m.tema}
+- Tramitación: ${(m.tram || []).join(", ") || "ordinaria o sin dato"}
+- Apoyos: ${APOYO[m.ap]}
+- Votación: ${m.voto}
+- Qué cambia: ${m.s}${m.rec ? `\n- Tribunales y recursos: ${m.rec}` : ""}
+- Matiz: ${m.n}
+- Fuentes:
+${fuentes(m.src)}
+
+`;
+}
+
 fs.writeFileSync(path.join(raiz, "FUENTES.md"), o);
-console.log(`FUENTES.md: ${fichas.length} fichas, ${votaciones.length} votaciones, ${iniciativas.length} iniciativas`);
+console.log(`FUENTES.md: ${fichas.length} fichas, ${votaciones.length} votaciones, ${iniciativas.length} iniciativas, ${mayorias.length} normas de mayorías absolutas`);

@@ -184,6 +184,7 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
   <div class="wrap" role="tablist">
     <button type="button" class="tab" role="tab" id="tab-registro" aria-controls="panel-registro" aria-selected="true">Registro<sup id="n-registro"></sup></button>
     <button type="button" class="tab" role="tab" id="tab-votaciones" aria-controls="panel-votaciones" aria-selected="false">Qué votó cada partido<sup id="n-votaciones"></sup></button>
+    <button type="button" class="tab" role="tab" id="tab-mayorias" aria-controls="panel-mayorias" aria-selected="false">Mayorías absolutas<sup id="n-mayorias"></sup></button>
     <button type="button" class="tab" role="tab" id="tab-ilp" aria-controls="panel-ilp" aria-selected="false">Iniciativas ciudadanas<sup id="n-ilp"></sup></button>
     <button type="button" class="tab" role="tab" id="tab-bienestar" aria-controls="panel-bienestar" aria-selected="false">Cómo nos ha ido<sup id="n-bienestar"></sup></button>
   </div>
@@ -255,6 +256,67 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
     <div class="bar"><span class="mono muted" id="voteCount" aria-live="polite"></span><span class="mono muted">Pulsa una fila y verás el detalle</span></div>
     <div id="voteList"></div>
     <p class="foot-note">Cuando ves «a favor», quiere decir a favor de que la medida saliera adelante: si lo que se votaba era una enmienda para devolver la ley, quien la votó aparece «en contra». En los Presupuestos cuenta la votación del Título I. Ten en cuenta también que UP / Sumar es Unidas Podemos hasta 2023 y Sumar después; que Podemos votaba dentro de Unidas Podemos hasta 2023 y por su cuenta desde entonces; que Junts incluye al PDeCAT hasta 2019, y que Vox no tuvo escaño hasta mayo de 2019 ni Ciudadanos desde 2023. El voto de los partidos pequeños lo tienes en el texto de cada votación.</p>
+  </section>
+
+  <!-- ===== Mayorías absolutas ===== -->
+  <section class="panel" id="panel-mayorias" role="tabpanel" aria-labelledby="tab-mayorias" hidden>
+    <p class="lede">Cuando un partido tiene mayoría absoluta no necesita a nadie para aprobar leyes. Esa mayoría es legítima, porque la dan los votos; lo que puedes mirar aquí es cómo la usó. Tienes todas las leyes y decretos-ley que salieron en las cámaras donde un solo partido tenía mayoría absoluta entre 2016 y 2026, también las de consenso y las rutinarias, no solo las polémicas. En cada una ves qué cambió, si se tramitó por una vía rápida que recorta el debate, con qué apoyos salió y qué dijeron después los tribunales.</p>
+
+    <details class="fold">
+      <summary>Quién tuvo mayoría absoluta y dónde</summary>
+      <div class="in" style="max-width:none">
+        <div class="tw"><table class="serie">
+          <thead><tr><th scope="col">Cámara</th><th scope="col">Partido</th><th scope="col">Periodo</th></tr></thead>
+          <tbody>
+            <tr><td>Congreso</td><td>Ninguno</td><td>2016 – 2026</td></tr>
+            <tr><td>Senado</td><td>PP</td><td>2016 – mar 2019 · ago 2023 – oct 2026</td></tr>
+            <tr><td>Senado</td><td>PSOE</td><td>may – sep 2019</td></tr>
+            <tr><td>Galicia</td><td>PP</td><td>Todo el periodo</td></tr>
+            <tr><td>Andalucía</td><td>PP</td><td>jun 2022 – may 2026</td></tr>
+            <tr><td>Madrid</td><td>PP</td><td>Desde jun 2023</td></tr>
+            <tr><td>La Rioja</td><td>PP</td><td>Desde jun 2023</td></tr>
+            <tr><td>Castilla-La Mancha</td><td>PSOE</td><td>Desde jun 2019</td></tr>
+            <tr><td>Extremadura</td><td>PSOE</td><td>2019 – 2023</td></tr>
+          </tbody>
+        </table></div>
+        <p class="muted">Verás más normas del PP porque tuvo mayoría absoluta en más cámaras y durante más tiempo, no porque se haya buscado de forma distinta. Para comparar, fíjate en las proporciones de cada cámara en el resumen de abajo.</p>
+      </div>
+    </details>
+
+    <div class="mx" style="max-height:none;margin:0 0 8px"><table class="serie" id="mayResumen"></table></div>
+    <p class="mono muted" style="margin:0 0 32px">Cuenta solo lo que consta en las fuentes. «Sin desglosar» son normas cuyo voto por grupos aún no se ha podido confirmar.</p>
+
+    <div class="search">
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8.5" cy="8.5" r="6" stroke="currentColor" stroke-width="1.5"/><path d="M13 13l5 5" stroke="currentColor" stroke-width="1.5"/></svg>
+      <input type="search" id="mayQ" placeholder="Busca una ley: Sucesiones, Telemadrid, litio, Doñana…" aria-label="Buscar en mayorías absolutas" autocomplete="off">
+    </div>
+    <div class="sel">
+      <select id="mayAmb" aria-label="Cámara"><option value="">Todas las cámaras</option></select>
+      <select id="mayTema" aria-label="Tema"><option value="">Todos los temas</option></select>
+      <select id="mayAp" aria-label="Con qué apoyos"><option value="">Con cualquier apoyo</option></select>
+    </div>
+    <div class="fl"><span class="lab">Mostrar</span>
+      <button type="button" class="tog" id="mayTram" aria-pressed="false">Solo por vía rápida</button>
+      <button type="button" class="tog" id="mayRec" aria-pressed="false">Solo con recurso o en el Constitucional</button>
+    </div>
+    <div class="bar"><span class="mono muted" id="mayStatus" aria-live="polite"></span><span><button type="button" id="mayOpenAll">Abrir todas</button></span></div>
+    <div id="mayList"></div>
+
+    <details class="fold" style="margin-top:40px">
+      <summary>Qué significa cada forma de tramitación</summary>
+      <div class="in">
+        <dl>
+          <dt>Lectura única</dt><dd>La ley se vota directamente en el pleno, sin pasar por comisión y sin fase de enmiendas.</dd>
+          <dt>Urgencia</dt><dd>Los plazos de la tramitación se reducen a la mitad.</dd>
+          <dt>Decreto-ley</dt><dd>Lo aprueba el Gobierno y entra en vigor al momento. El parlamento solo puede convalidarlo o tumbarlo entero. Solo se puede usar ante una «extraordinaria y urgente necesidad».</dd>
+          <dt>Ómnibus</dt><dd>Una sola norma cambia a la vez muchas leyes de temas distintos, lo que la hace más difícil de debatir y de seguir.</dd>
+          <dt>Proposición del grupo del Gobierno</dt><dd>La ley la presenta el grupo parlamentario y no el Gobierno, y así se evitan los informes obligatorios (consejos consultivos, consulta pública) que necesita un proyecto de ley.</dd>
+          <dt>Enmienda de última hora</dt><dd>Se mete un contenido nuevo durante la tramitación, a veces sin relación con el resto de la ley.</dd>
+        </dl>
+        <p>Ninguna de estas vías es ilegal por sí misma y todos los partidos las usan. Lo que puedes valorar tú es cuánto y para qué se usan.</p>
+      </div>
+    </details>
+    <p class="foot-note">«Con qué apoyos» se refiere al voto final en el pleno. «Con la oposición» quiere decir que la apoyó también el principal partido de la oposición; «con otros grupos», que la apoyó algún grupo además del partido con mayoría, pero no el principal de la oposición; «solo su partido», que únicamente votó a favor el partido con mayoría. Las cifras de coste o de beneficiarios que da un partido van atribuidas a ese partido.</p>
   </section>
 
   <!-- ===== Iniciativas ===== -->
@@ -329,9 +391,9 @@ function fallback(txt,btn){
   btn.addEventListener("click",()=>{root.dataset.theme=isDark()?"light":"dark";try{localStorage.setItem("rd-theme",root.dataset.theme)}catch(_){};label()});
 })();
 
-let DATA=[],VOTES=[],ILP=[],BIEN=[],GOB={};
-Promise.all(["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json","datos/bienestar.json"].map(u=>fetch(u,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(u);return r.json()})))
- .then(([d,v,i,b])=>{DATA=d;VOTES=v;ILP=i;BIEN=b.indicadores;GOB=b.gobiernos;init()})
+let DATA=[],VOTES=[],ILP=[],BIEN=[],GOB={},MAY=[];
+Promise.all(["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json","datos/bienestar.json","datos/mayorias.json"].map(u=>fetch(u,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(u);return r.json()})))
+ .then(([d,v,i,b,m])=>{DATA=d;VOTES=v;ILP=i;BIEN=b.indicadores;GOB=b.gobiernos;MAY=m;init()})
  .catch(err=>{$("list").innerHTML='<div class="empty">No se han podido cargar los datos ('+esc(err.message)+'). Recarga la página.</div>'});
 
 function init(){
@@ -482,7 +544,8 @@ function decimales(ind){
 }
 function fmt(v,d){return v==null?"–":v.toLocaleString("es-ES",{minimumFractionDigits:d,maximumFractionDigits:d})}
 function spark(ind,d){
-  const lines=ind.filas.filter(f=>["España","UE-27","Media de las comunidades"].includes(f.ambito));
+  let lines=ind.filas.filter(f=>["España","UE-27","Media de las comunidades"].includes(f.ambito));
+  if(!lines.length&&ind.filas.length<=3)lines=ind.filas;
   if(!lines.length)return "";
   const W=560,H=120,PX=2,PT=10,PB=18,all=lines.flatMap(f=>f.valores).filter(v=>v!=null);
   const lo=Math.min(...all),hi=Math.max(...all),n=ind.periodos.length;
@@ -506,7 +569,7 @@ function renderBien(){
     <h3>${esc(ind.nombre)}</h3>
     <p class="mide">${esc(ind.mide)}</p>
     ${spark(ind,d)}
-    <details class="fold" style="margin:0"><summary>Datos por comunidad</summary><div class="in" style="max-width:none">
+    <details class="fold" style="margin:0"><summary>Ver todos los datos, año a año</summary><div class="in" style="max-width:none">
       <div class="tw"><table class="serie"><thead><tr><th scope="col"></th>${ind.periodos.map(x=>'<th scope="col">'+esc(x)+'</th>').join("")}</tr></thead><tbody>${
         ind.filas.map(f=>{const g=GOB[f.ambito.replace(/ \((hasta|desde) \d+\)$/,"")];return '<tr'+(["España","UE-27","Media de las comunidades"].includes(f.ambito)?' class="ref"':'')+'><td>'+esc(f.ambito)+'</td>'+f.valores.map((v,k)=>{const a=parseInt(ind.periodos[k],10);const t=g&&g[a]?' title="'+esc(f.ambito+", "+a+": gobernaba "+g[a])+'"':'';return '<td'+(v==null?' class="nd"':'')+t+'>'+fmt(v,d)+'</td>'}).join("")+'</tr>'}).join("")
       }</tbody></table></div>
@@ -523,8 +586,63 @@ renderBien();
     Object.keys(GOB).sort((a,b)=>a.localeCompare(b,"es")).map(c=>'<tr><td>'+esc(c)+'</td>'+anios.map(a=>'<td style="text-align:left">'+esc(GOB[c][a]||"–")+'</td>').join("")+'</tr>').join("")+'</tbody>';
 })();
 
-/* ---------- Pestañas, con enlace directo (#votaciones, #iniciativas, #bienestar) ---------- */
-const TABS={registro:["tab-registro","panel-registro",""],votaciones:["tab-votaciones","panel-votaciones","#votaciones"],ilp:["tab-ilp","panel-ilp","#iniciativas"],bienestar:["tab-bienestar","panel-bienestar","#bienestar"]};
+/* ---------- Mayorías absolutas ---------- */
+const MAYAP={unan:"Sin votos en contra",pacto:"Con la oposición",socio:"Con otros grupos",solo:"Solo su partido",sd:"Sin desglosar"};
+const MAYK={solo:1,socio:2,pacto:2,unan:2,sd:3};
+const RAPIDA=["lectura única","urgencia","ómnibus","decreto-ley","enmienda de última hora","proposición del grupo del Gobierno"];
+const MESES=["ene","feb","mar","abr","may","jun","jul","ago","sep","oct","nov","dic"];
+const fechaC=d=>{const [y,m,dd]=d.split("-");return (+dd)+" "+MESES[+m-1]+" "+y};
+const camara=e=>e.a+" · "+e.g;
+const conRec=e=>/\bTC\b|Constitucional|recurs|STC/i.test(e.rec||"");
+const rapida=e=>(e.tram||[]).some(t=>RAPIDA.includes(t));
+MAY.sort((a,b)=>b.d.localeCompare(a.d));
+$("n-mayorias").textContent=MAY.length;
+const mayState={amb:"",tema:"",ap:"",tram:false,rec:false,q:""};
+(function(){
+  const cnt=f=>{const c={};MAY.forEach(e=>{const k=f(e);if(k)c[k]=(c[k]||0)+1});return c};
+  const add=(id,obj,order,label,key)=>{const sel=$(id);order.filter(k=>obj[k]).forEach(k=>{const o=document.createElement("option");o.value=k;o.textContent=label(k)+"  ·  "+obj[k];sel.appendChild(o)});sel.addEventListener("change",e=>{mayState[key]=e.target.value;renderMay()})};
+  const a=cnt(camara);add("mayAmb",a,Object.keys(a).sort((x,y)=>(x.startsWith("Senado")?-1:y.startsWith("Senado")?1:x.localeCompare(y,"es"))),k=>k,"amb");
+  const t=cnt(e=>e.tema);add("mayTema",t,Object.keys(t).sort((x,y)=>x.localeCompare(y,"es")),k=>k,"tema");
+  const p=cnt(e=>e.ap);add("mayAp",p,Object.keys(MAYAP),k=>MAYAP[k],"ap");
+  ["mayTram","mayRec"].forEach(id=>$(id).addEventListener("click",ev=>{const b=ev.currentTarget,on=b.getAttribute("aria-pressed")!=="true";b.setAttribute("aria-pressed",on);mayState[id==="mayTram"?"tram":"rec"]=on;renderMay()}));
+  let qT;$("mayQ").addEventListener("input",e=>{clearTimeout(qT);qT=setTimeout(()=>{mayState.q=e.target.value.trim().toLowerCase();renderMay()},120)});
+  /* Resumen por cámara: solo recuentos de lo que consta en los datos */
+  const cams=Object.keys(a).sort((x,y)=>(x.startsWith("Senado")?-1:y.startsWith("Senado")?1:x.localeCompare(y,"es")));
+  const col=[["Normas",()=>true],["Decreto-ley",e=>(e.tram||[]).includes("decreto-ley")],["Lectura única o urgencia",e=>(e.tram||[]).some(t=>t==="lectura única"||t==="urgencia")],["Solo con su partido",e=>e.ap==="solo"],["Sin votos en contra",e=>e.ap==="unan"],["Con recurso o TC",conRec],["Sin desglosar",e=>e.ap==="sd"]];
+  $("mayResumen").innerHTML='<thead><tr><th scope="col">Cámara · mayoría</th>'+col.map(c=>'<th scope="col">'+c[0]+'</th>').join("")+'</tr></thead><tbody>'+
+    cams.map(c=>{const r=MAY.filter(e=>camara(e)===c);return '<tr><td>'+esc(c)+'</td>'+col.map(([,f])=>'<td>'+r.filter(f).length+'</td>').join("")+'</tr>'}).join("")+'</tbody>';
+})();
+function mayText(e){
+  return "**"+e.ley+"** ("+e.a+", mayoría absoluta del "+e.g+", "+fechaC(e.d)+")\n\n"+e.s+"\n\n*Votación:* "+e.voto+(e.rec?"\n\n*Tribunales:* "+e.rec:"")+"\n\n*Matiz:* "+e.n+"\n\nFuentes: "+e.src.map(x=>"["+x[0]+"]("+x[1]+")").join(" · ");
+}
+function renderMay(){
+  const s=mayState;
+  const rows=MAY.map((e,i)=>[e,i]).filter(([e])=>(!s.amb||camara(e)===s.amb)&&(!s.tema||e.tema===s.tema)&&(!s.ap||e.ap===s.ap)&&(!s.tram||rapida(e))&&(!s.rec||conRec(e))&&(!s.q||(e.ley+" "+e.s+" "+e.n+" "+(e.rec||"")+" "+e.a+" "+e.tema).toLowerCase().includes(s.q)));
+  $("mayStatus").textContent=rows.length===MAY.length?MAY.length+" normas":rows.length+" de "+MAY.length+" normas";
+  $("mayList").innerHTML=rows.length?rows.map(([e,i])=>`
+  <details class="row">
+    <summary>
+      <span class="d">${fechaC(e.d)}</span>
+      <span class="t">${esc(e.ley)}<span class="who">${esc(camara(e))}${(e.tram||[]).length?"  —  "+esc(e.tram.join(" · ")):""}</span></span>
+      <span class="pr pr-${MAYK[e.ap]||3}">${MAYAP[e.ap]||""}</span>
+    </summary>
+    <div class="x"><div>
+      <span class="cat">${esc(e.tema)}</span>
+      <p><strong style="font-weight:500">Votación.</strong> ${esc(e.voto)}</p>
+      <p>${esc(e.s)}</p>
+      ${e.rec?'<p><strong style="font-weight:500">Tribunales y recursos.</strong> '+esc(e.rec)+'</p>':''}
+      <p class="matiz"><b>Matiz.</b> ${esc(e.n)}</p>
+      ${srcList(e.src)}
+      <div class="act"><button type="button" data-m="${i}">Copiar para compartir</button></div>
+    </div></div>
+  </details>`).join(""):'<div class="empty">No hay ninguna norma con estos filtros. Prueba a quitar alguno.</div>';
+}
+$("mayList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(b)copyTo(b,mayText(MAY[+b.dataset.m]),"Copiar para compartir")});
+$("mayOpenAll").addEventListener("click",ev=>{const rows=$("mayList").querySelectorAll("details.row");const open=[...rows].some(r=>!r.open);rows.forEach(r=>r.open=open);ev.target.textContent=open?"Cerrar todas":"Abrir todas"});
+renderMay();
+
+/* ---------- Pestañas, con enlace directo (#votaciones, #mayorias, #iniciativas, #bienestar) ---------- */
+const TABS={registro:["tab-registro","panel-registro",""],votaciones:["tab-votaciones","panel-votaciones","#votaciones"],mayorias:["tab-mayorias","panel-mayorias","#mayorias"],ilp:["tab-ilp","panel-ilp","#iniciativas"],bienestar:["tab-bienestar","panel-bienestar","#bienestar"]};
 function showTab(k,push){
   Object.entries(TABS).forEach(([key,[t,p]])=>{const on=key===k;$(t).setAttribute("aria-selected",on?"true":"false");$(t).tabIndex=on?0:-1;$(p).hidden=!on});
   if(push)history.replaceState(null,"",TABS[k][2]||location.pathname+location.search);
@@ -535,7 +653,7 @@ document.querySelector('[role="tablist"]').addEventListener("keydown",ev=>{
   const ks=Object.keys(TABS),cur=ks.findIndex(k=>$(TABS[k][0]).getAttribute("aria-selected")==="true");
   const nx=ks[(cur+(ev.key==="ArrowRight"?1:ks.length-1))%ks.length];showTab(nx,true);$(TABS[nx][0]).focus();
 });
-const fromHash={"#votaciones":"votaciones","#iniciativas":"ilp","#bienestar":"bienestar"}[location.hash];
+const fromHash={"#votaciones":"votaciones","#mayorias":"mayorias","#iniciativas":"ilp","#bienestar":"bienestar"}[location.hash];
 showTab(fromHash||"registro",false);
 }
 </script>

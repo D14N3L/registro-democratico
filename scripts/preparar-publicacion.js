@@ -12,6 +12,7 @@ const ficheros = [
   "datos/votaciones.json",
   "datos/iniciativas.json",
   "datos/bienestar.json",
+  "datos/mayorias.json",
 ];
 
 fs.rmSync(destino, { recursive: true, force: true });

@@ -86,6 +86,20 @@ leer("iniciativas").forEach((e, i) => {
   for (const p of e.p || []) if (!PARTIDOS.includes(p)) error("iniciativas", i, e, `partido desconocido: ${p}`);
 });
 
+const APOYOS = [...html.match(/const MAYAP\s*=\s*\{([^}]*)\}/)[1].matchAll(/(\w+):"/g)].map((m) => m[1]);
+const TRAMITES = ["lectura única", "urgencia", "ómnibus", "decreto-ley", "proposición del grupo del Gobierno",
+  "enmienda de última hora", "sin informes preceptivos", "reforma del reglamento", "veto"];
+leer("mayorias").forEach((e, i) => {
+  e.t = e.ley;
+  comunes("mayorias", i, e);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(e.d)) error("mayorias", i, e, `fecha d inválida: ${e.d}`);
+  else if (e.d < INICIO_PERIODO) error("mayorias", i, e, `fecha anterior al periodo: ${e.d}`);
+  for (const k of ["a", "g", "ley", "tema", "voto", "s", "n"]) if (!e[k]) error("mayorias", i, e, `falta ${k}`);
+  if (!PARTIDOS.includes(e.g)) error("mayorias", i, e, `partido desconocido: ${e.g}`);
+  if (!APOYOS.includes(e.ap)) error("mayorias", i, e, `apoyo desconocido: ${e.ap}`);
+  for (const t of e.tram || []) if (!TRAMITES.includes(t)) error("mayorias", i, e, `tramitación desconocida: ${t}`);
+});
+
 if (avisos.length) console.warn(avisos.join("\n") + `\n${avisos.length} avisos: buscar otra fuente del mismo hecho\n`);
 if (errores.length) {
   console.error(errores.join("\n"));
