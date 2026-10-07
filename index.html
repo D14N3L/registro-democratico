@@ -348,12 +348,12 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
 
   <!-- ===== Programas ===== -->
   <section class="panel" id="panel-programas" role="tabpanel" aria-labelledby="tab-programas" hidden>
-    <p class="lede">Lo que te prometieron y lo que hicieron. Cada partido se evalúa donde gobernó, porque solo quien gobierna puede cumplir: cinco promesas por partido, las que el propio partido presentó como principales, con la norma o el dato oficial que dice si se cumplieron.</p>
+    <p class="lede">Lo que te prometieron y lo que hicieron. Cada partido se evalúa donde gobernó, porque solo quien gobierna puede cumplir, y en las mismas cinco áreas para todos: vivienda, sanidad, educación, pensiones y dependencia, e impuestos. En cada una ves la promesa, la norma o el dato oficial que dice si se cumplió y, en impuestos, a quién beneficia según los datos oficiales.</p>
     <details class="fold">
       <summary>Cómo se han elegido y evaluado</summary>
       <div class="in">
-        <p>Las promesas no las elige esta página: son las que cada partido destacó en el resumen de su programa o en su presentación oficial. Se evalúan con el BOE, los boletines autonómicos, los presupuestos o los datos oficiales.</p>
-        <p><strong>Cumplida</strong>: se aprobó lo prometido. <strong>A medias</strong>: se aprobó una parte o algo menor de lo prometido. <strong>No cumplida</strong>: no se aprobó. <strong>En trámite</strong>: estaba en marcha cuando se disolvió el parlamento. En cada promesa ves si el partido gobernaba solo o en coalición y si dependía de otros.</p>
+        <p>Las promesas no las elige esta página: en cada área es la primera medida concreta del capítulo correspondiente, en el orden en que la presenta el propio partido. Si un programa no tiene promesa en un área, lo verás indicado. Se evalúan con el BOE, los boletines autonómicos, los presupuestos o los datos oficiales.</p>
+        <p><strong>Cumplida</strong>: se aprobó lo prometido. <strong>A medias</strong>: se aprobó una parte o algo menor de lo prometido. <strong>No cumplida</strong>: no se aprobó. <strong>En trámite</strong>: estaba en marcha cuando se disolvió el parlamento. <strong>En curso</strong>: la legislatura no ha terminado, así que se cuenta lo hecho hasta ahora sin veredicto final. En cada promesa ves si el partido gobernaba solo o en coalición y si dependía de otros.</p>
       </div>
     </details>
     <div class="mx" style="max-height:none;margin:0 0 32px"><table class="serie" id="progResumen"></table></div>
@@ -729,7 +729,7 @@ if(BUL.length){
 }
 
 /* ---------- Programas ---------- */
-const PROGV={cumplida:["Cumplida",1],medias:["A medias",2],no:["No cumplida",1],tramite:["En trámite",3]};
+const PROGV={cumplida:["Cumplida",1],medias:["A medias",2],no:["No cumplida",1],tramite:["En trámite",3],curso:["En curso",3],sin:["Sin promesa",3]};
 if(PROG.length){
   $("tab-programas").hidden=false;$("n-programas").textContent=PROG.length;
   const clave=e=>e.p+" · "+e.ambito;
@@ -744,7 +744,7 @@ if(PROG.length){
     <details class="row">
       <summary>
         <span class="d">${esc(e.programa)}</span>
-        <span class="t">${esc(e.promesa)}<span class="who">${esc(clave(e))}  —  ${esc(e.gobierno)}</span></span>
+        <span class="t">${esc(e.promesa)}<span class="who">${esc(e.area||"")} · ${esc(clave(e))}  —  ${esc(e.gobierno)}</span></span>
         <span class="pr pr-${(PROGV[e.veredicto]||[0,3])[1]}">${(PROGV[e.veredicto]||["",0])[0]}</span>
       </summary>
       <div class="x"><div>

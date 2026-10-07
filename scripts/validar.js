@@ -112,7 +112,7 @@ if (existe("bulos")) leer("bulos").forEach((e, i) => {
   if (!VERIFICADORES.includes(e.verif)) error("bulos", i, e, `verificador fuera de la EFCSN: ${e.verif}`);
   if (!(e.src || []).some(([, u]) => /maldita\.es|newtral\.es|verifica\.efe\.com|verificat\.cat/.test(u))) error("bulos", i, e, "falta el enlace al verificador");
 });
-const VEREDICTOS = ["cumplida", "medias", "no", "tramite"];
+const VEREDICTOS = ["cumplida", "medias", "no", "tramite", "curso", "sin"];
 if (existe("programas")) leer("programas").forEach((e, i) => {
   e.t = e.promesa;
   comunes("programas", i, e);
