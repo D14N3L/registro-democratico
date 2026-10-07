@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (248)
+## Fichas del registro (249)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -1251,6 +1251,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Los recortes son del Gobierno de Rajoy. En 2019 y 2020, ya con Sánchez, siguieron prorrogados los Presupuestos de 2018; el nivel acordado volvió con los Presupuestos de 2021.
 - Fuentes:
   - [Tribunal de Cuentas: informe n.º 1.484 (jul 2022)](https://www.congreso.es/entradap/l14p/e22/e_0229019_n_000_m.pdf)
+
+### Dinero público para contratar empleadas del hogar: el Estado rebaja cotizaciones sin límite de renta y Madrid paga las cuotas a familias de hasta 20.000 euros por persona
+- Fecha: 2022 – 2026
+- Partidos: PSOE, Podemos/UP, PP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: Desde septiembre de 2022, el Real Decreto-ley 16/2022 del Gobierno de PSOE y Unidas Podemos da a cualquiera que contrate a una empleada del hogar una reducción del 20% en la cotización empresarial por contingencias comunes y del 80% en la de desempleo y Fogasa, sin límite de renta; solo una bonificación mayor, del 45% o el 30%, depende de la renta y el patrimonio del hogar. Por su parte, la Comunidad de Madrid (Ayuso, PP) paga desde 2023 hasta 4.000 euros al año en cuotas a familias que contratan a una empleada para cuidar de menores de 12 años, menores con discapacidad o personas dependientes: el 100% si la renta familiar es inferior a 20.000 euros por persona (30.000 en las monoparentales). En 2026 destina 2,3 millones y desde 2023 ha concedido 6,2 millones a unas 3.500 familias.
+- Matiz: El Real Decreto-ley 16/2022 reconoció a las empleadas del hogar el derecho al paro, y las rebajas compensan a los empleadores parte de las nuevas cotizaciones; el Gobierno debía evaluar su eficacia a los dos años. Madrid presenta su ayuda como apoyo a la conciliación y para sacar este empleo de la economía sumergida. Como el límite de Madrid es por persona, una familia de cuatro miembros con unos ingresos de hasta 80.000 euros puede cobrar el 100%. No se ha encontrado un desglose oficial de los beneficiarios de ninguna de las dos medidas por nivel de renta.
+- Fuentes:
+  - [BOE: Real Decreto-ley 16/2022, disposición adicional primera](https://www.boe.es/buscar/act.php?id=BOE-A-2022-14680)
+  - [Comunidad de Madrid: 2,3 millones en ayudas a la contratación de empleadas del hogar](https://www.comunidad.madrid/noticias/2025/12/13/comunidad-madrid-destina-23-millones-ayudas-contratacion-personas-empleadas-hogar-facilitar-conciliacion)
+  - [Infobae: requisitos de la ayuda de Madrid (abr 2026)](https://www.infobae.com/espana/2026/04/24/el-gobierno-de-ayuso-da-hasta-4000-euros-de-ayuda-a-familias-con-hijos-que-contraten-a-empleadas-del-hogar/)
 
 ### Cortes de Castilla y León: PP y Vox rechazan investigar las residencias
 - Fecha: 7 sep 2022
