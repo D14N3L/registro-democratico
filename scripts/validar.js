@@ -100,6 +100,27 @@ leer("mayorias").forEach((e, i) => {
   for (const t of e.tram || []) if (!TRAMITES.includes(t)) error("mayorias", i, e, `tramitación desconocida: ${t}`);
 });
 
+// Pestañas opcionales: solo se validan si el fichero existe.
+const existe = (f) => fs.existsSync(path.join(raiz, "datos", f + ".json"));
+const VERIFICADORES = ["Maldita.es", "Newtral", "EFE Verifica", "Verificat"];
+if (existe("bulos")) leer("bulos").forEach((e, i) => {
+  e.t = e.dicho;
+  comunes("bulos", i, e);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(e.d) || e.d < INICIO_PERIODO) error("bulos", i, e, `fecha inválida o anterior al periodo: ${e.d}`);
+  for (const k of ["quien", "cargo", "canal", "tema", "dicho", "datos", "verif", "calif"]) if (!e[k]) error("bulos", i, e, `falta ${k}`);
+  for (const p of e.p || []) if (!PARTIDOS.includes(p)) error("bulos", i, e, `partido desconocido: ${p}`);
+  if (!VERIFICADORES.includes(e.verif)) error("bulos", i, e, `verificador fuera de la EFCSN: ${e.verif}`);
+  if (!(e.src || []).some(([, u]) => /maldita\.es|newtral\.es|verifica\.efe\.com|verificat\.cat/.test(u))) error("bulos", i, e, "falta el enlace al verificador");
+});
+const VEREDICTOS = ["cumplida", "medias", "no", "tramite"];
+if (existe("programas")) leer("programas").forEach((e, i) => {
+  e.t = e.promesa;
+  comunes("programas", i, e);
+  for (const k of ["p", "ambito", "programa", "gobierno", "promesa", "hecho", "explicacion"]) if (!e[k]) error("programas", i, e, `falta ${k}`);
+  if (!PARTIDOS.includes(e.p)) error("programas", i, e, `partido desconocido: ${e.p}`);
+  if (!VEREDICTOS.includes(e.veredicto)) error("programas", i, e, `veredicto desconocido: ${e.veredicto}`);
+});
+
 if (avisos.length) console.warn(avisos.join("\n") + `\n${avisos.length} avisos: buscar otra fuente del mismo hecho\n`);
 if (errores.length) {
   console.error(errores.join("\n"));

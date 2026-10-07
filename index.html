@@ -188,6 +188,8 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
     <button type="button" class="tab" role="tab" id="tab-registro" aria-controls="panel-registro" aria-selected="true">Registro<sup id="n-registro"></sup></button>
     <button type="button" class="tab" role="tab" id="tab-votaciones" aria-controls="panel-votaciones" aria-selected="false">Qué votó cada partido<sup id="n-votaciones"></sup></button>
     <button type="button" class="tab" role="tab" id="tab-mayorias" aria-controls="panel-mayorias" aria-selected="false">Mayorías absolutas<sup id="n-mayorias"></sup></button>
+    <button type="button" class="tab" role="tab" id="tab-bulos" aria-controls="panel-bulos" aria-selected="false" hidden>Bulos<sup id="n-bulos"></sup></button>
+    <button type="button" class="tab" role="tab" id="tab-programas" aria-controls="panel-programas" aria-selected="false" hidden>Programas<sup id="n-programas"></sup></button>
     <button type="button" class="tab" role="tab" id="tab-ilp" aria-controls="panel-ilp" aria-selected="false">Iniciativas ciudadanas<sup id="n-ilp"></sup></button>
     <button type="button" class="tab" role="tab" id="tab-bienestar" aria-controls="panel-bienestar" aria-selected="false">Cómo nos ha ido<sup id="n-bienestar"></sup></button>
   </div>
@@ -322,6 +324,45 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
     <p class="foot-note">«Con qué apoyos» se refiere al voto final en el pleno. «Con la oposición» quiere decir que la apoyó también el principal partido de la oposición; «con otros grupos», que la apoyó algún grupo además del partido con mayoría, pero no el principal de la oposición; «solo su partido», que únicamente votó a favor el partido con mayoría. Las cifras de coste o de beneficiarios que da un partido van atribuidas a ese partido.</p>
   </section>
 
+  <!-- ===== Bulos ===== -->
+  <section class="panel" id="panel-bulos" role="tabpanel" aria-labelledby="tab-bulos" hidden>
+    <p class="lede">Para votar sabiendo lo que votas necesitas datos ciertos. Aquí tienes afirmaciones falsas que difundieron cargos públicos o cuentas oficiales de partidos y que un verificador independiente desmintió con datos. En cada una ves qué se dijo, qué dicen los datos, quién lo comprobó y si se rectificó.</p>
+    <details class="fold">
+      <summary>Cómo se han elegido</summary>
+      <div class="in">
+        <p>Solo entran afirmaciones de <strong>cargos públicos</strong> (ministros, diputados, senadores, consejeros, presidentes autonómicos, alcaldes de capitales, eurodiputados, portavoces) o de <strong>cuentas oficiales</strong> de partidos, grupos parlamentarios y gobiernos, entre 2016 y 2026.</p>
+        <p>Cada una tiene que estar desmentida por un verificador miembro de la red europea de verificadores (EFCSN): Maldita.es, Newtral, EFE Verifica o Verificat. Se ha buscado igual para todos los partidos y no se fuerza el mismo número para cada uno.</p>
+        <p>No entran las opiniones, las predicciones ni lo que el verificador solo califica de «engañoso» sin un dato falso. Si un partido tiene más entradas, no es una conclusión de esta página: es lo que salió con el mismo método.</p>
+      </div>
+    </details>
+    <div class="search">
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8.5" cy="8.5" r="6" stroke="currentColor" stroke-width="1.5"/><path d="M13 13l5 5" stroke="currentColor" stroke-width="1.5"/></svg>
+      <input type="search" id="bulQ" placeholder="Busca: voto por correo, inmigración, paro, pensiones…" aria-label="Buscar bulos" autocomplete="off">
+    </div>
+    <div class="fl" id="bulParty"><span class="lab">Partido</span></div>
+    <div class="sel"><select id="bulTema" aria-label="Tema"><option value="">Todos los temas</option></select></div>
+    <div class="bar"><span class="mono muted" id="bulStatus" aria-live="polite"></span><span><button type="button" id="bulOpenAll">Abrir todos</button></span></div>
+    <div id="bulList"></div>
+    <p class="foot-note">El verificador es quien califica la afirmación; aquí se recoge su calificación literal. Si quien lo dijo rectificó o borró el mensaje, lo verás en la ficha.</p>
+  </section>
+
+  <!-- ===== Programas ===== -->
+  <section class="panel" id="panel-programas" role="tabpanel" aria-labelledby="tab-programas" hidden>
+    <p class="lede">Lo que te prometieron y lo que hicieron. Cada partido se evalúa donde gobernó, porque solo quien gobierna puede cumplir: cinco promesas por partido, las que el propio partido presentó como principales, con la norma o el dato oficial que dice si se cumplieron.</p>
+    <details class="fold">
+      <summary>Cómo se han elegido y evaluado</summary>
+      <div class="in">
+        <p>Las promesas no las elige esta página: son las que cada partido destacó en el resumen de su programa o en su presentación oficial. Se evalúan con el BOE, los boletines autonómicos, los presupuestos o los datos oficiales.</p>
+        <p><strong>Cumplida</strong>: se aprobó lo prometido. <strong>A medias</strong>: se aprobó una parte o algo menor de lo prometido. <strong>No cumplida</strong>: no se aprobó. <strong>En trámite</strong>: estaba en marcha cuando se disolvió el parlamento. En cada promesa ves si el partido gobernaba solo o en coalición y si dependía de otros.</p>
+      </div>
+    </details>
+    <div class="mx" style="max-height:none;margin:0 0 32px"><table class="serie" id="progResumen"></table></div>
+    <div class="sel" style="padding-top:0"><select id="progPar" aria-label="Partido"><option value="">Todos los partidos</option></select></div>
+    <div class="bar"><span class="mono muted" id="progStatus" aria-live="polite"></span><span><button type="button" id="progOpenAll">Abrir todas</button></span></div>
+    <div id="progList"></div>
+    <p class="foot-note">Cumplir o no una promesa depende a veces de tener mayoría en el parlamento o de que la competencia sea de otra administración. Lo tienes indicado en cada una para que lo valores tú.</p>
+  </section>
+
   <!-- ===== Iniciativas ===== -->
   <section class="panel" id="panel-ilp" role="tabpanel" aria-labelledby="tab-ilp" hidden>
     <p class="lede">Entre elección y elección, una de las pocas formas que tienes de proponer una ley es reunir firmas. Aquí ves qué pasó con las leyes que propuso la gente y con las consultas que pidieron los vecinos, y quién decidió en cada caso. Para llevar una ley al Congreso hacen falta 500.000 firmas; en los parlamentos autonómicos, bastantes menos.</p>
@@ -397,9 +438,10 @@ function fallback(txt,btn){
   btn.addEventListener("click",()=>{root.dataset.theme=isDark()?"light":"dark";try{localStorage.setItem("rd-theme",root.dataset.theme)}catch(_){};label()});
 })();
 
-let DATA=[],VOTES=[],ILP=[],BIEN=[],GOB={},MAY=[];
-Promise.all(["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json","datos/bienestar.json","datos/mayorias.json"].map(u=>fetch(u,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(u);return r.json()})))
- .then(([d,v,i,b,m])=>{DATA=d;VOTES=v;ILP=i;BIEN=b.indicadores;GOB=b.gobiernos;MAY=m;init()})
+let DATA=[],VOTES=[],ILP=[],BIEN=[],GOB={},MAY=[],BUL=[],PROG=[];
+const opcional=u=>fetch(u,{cache:"no-cache"}).then(r=>r.ok?r.json():[]).catch(()=>[]); /* pestañas que solo aparecen si hay datos */
+Promise.all([...["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json","datos/bienestar.json","datos/mayorias.json"].map(u=>fetch(u,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(u);return r.json()})),opcional("datos/bulos.json"),opcional("datos/programas.json")])
+ .then(([d,v,i,b,m,bu,pr])=>{DATA=d;VOTES=v;ILP=i;BIEN=b.indicadores;GOB=b.gobiernos;MAY=m;BUL=bu;PROG=pr;init()})
  .catch(err=>{$("list").innerHTML='<div class="empty">No se han podido cargar los datos ('+esc(err.message)+'). Recarga la página.</div>'});
 
 function init(){
@@ -647,8 +689,83 @@ $("mayList").addEventListener("click",ev=>{const b=ev.target.closest(".act butto
 $("mayOpenAll").addEventListener("click",ev=>{const rows=$("mayList").querySelectorAll("details.row");const open=[...rows].some(r=>!r.open);rows.forEach(r=>r.open=open);ev.target.textContent=open?"Cerrar todas":"Abrir todas"});
 renderMay();
 
-/* ---------- Pestañas, con enlace directo (#votaciones, #mayorias, #iniciativas, #bienestar) ---------- */
+/* ---------- Bulos ---------- */
+const BULK={falso:1,bulo:1,"engañoso":2};
+const bulState={parties:new Set(),tema:"",q:""};
+if(BUL.length){
+  BUL.sort((a,b)=>b.d.localeCompare(a.d));
+  $("tab-bulos").hidden=false;$("n-bulos").textContent=BUL.length;
+  const row=$("bulParty");
+  const mk=(label,key)=>{const b=document.createElement("button");b.type="button";b.className="tog";b.setAttribute("aria-pressed","false");b.innerHTML=esc(label)+(key?'<span class="n">'+BUL.filter(e=>e.p.includes(key)).length+'</span>':"");b.addEventListener("click",()=>{if(!key)bulState.parties.clear();else bulState.parties.has(key)?bulState.parties.delete(key):bulState.parties.add(key);renderBul()});row.appendChild(b);return [key,b]};
+  const bAll=mk("Todos",null);const bTogs=PARTIES.filter(p=>BUL.some(e=>e.p.includes(p))).map(p=>mk(p,p));
+  const t={};BUL.forEach(e=>t[e.tema]=(t[e.tema]||0)+1);
+  Object.keys(t).sort((a,b)=>a.localeCompare(b,"es")).forEach(k=>{const o=document.createElement("option");o.value=k;o.textContent=k+"  ·  "+t[k];$("bulTema").appendChild(o)});
+  $("bulTema").addEventListener("change",e=>{bulState.tema=e.target.value;renderBul()});
+  let qT;$("bulQ").addEventListener("input",e=>{clearTimeout(qT);qT=setTimeout(()=>{bulState.q=e.target.value.trim().toLowerCase();renderBul()},120)});
+  var renderBul=function(){
+    bAll[1].setAttribute("aria-pressed",bulState.parties.size?"false":"true");bTogs.forEach(([p,b])=>b.setAttribute("aria-pressed",bulState.parties.has(p)?"true":"false"));
+    const rows=BUL.map((e,i)=>[e,i]).filter(([e])=>(!bulState.parties.size||e.p.some(p=>bulState.parties.has(p)))&&(!bulState.tema||e.tema===bulState.tema)&&(!bulState.q||(e.dicho+" "+e.datos+" "+e.quien+" "+e.cargo+" "+e.tema).toLowerCase().includes(bulState.q)));
+    $("bulStatus").textContent=rows.length===BUL.length?BUL.length+" bulos":rows.length+" de "+BUL.length+" bulos";
+    $("bulList").innerHTML=rows.length?rows.map(([e,i])=>`
+    <details class="row">
+      <summary>
+        <span class="d">${fechaC(e.d)}</span>
+        <span class="t">${esc(e.dicho)}<span class="who">${esc(e.quien)} · ${esc(e.cargo)}  —  ${esc(e.p.join(" · "))}</span></span>
+        <span class="pr pr-${BULK[(e.calif||"").toLowerCase()]||2}">${esc(e.verif)}: ${esc(e.calif)}</span>
+      </summary>
+      <div class="x"><div>
+        <span class="cat">${esc(e.tema)} · ${esc(e.canal)}</span>
+        ${e.cita?'<p>«'+esc(e.cita)+'»</p>':''}
+        <p><strong style="font-weight:500">Qué dicen los datos.</strong> ${esc(e.datos)}</p>
+        ${e.rect?'<p class="matiz"><b>Rectificación.</b> '+esc(e.rect)+'</p>':''}
+        ${srcList(e.src)}
+        <div class="act">${copyBtn('data-b="'+i+'"')}</div>
+      </div></div>
+    </details>`).join(""):'<div class="empty">No hay nada con estos filtros. Prueba a quitar alguno.</div>';
+  };
+  $("bulList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(!b)return;const e=BUL[+b.dataset.b];copyTo(b,"**"+e.quien+" ("+e.cargo+", "+e.p.join(", ")+"), "+fechaC(e.d)+"**: "+e.dicho+"\n\n*Qué dicen los datos:* "+e.datos+"\n\n"+e.verif+": "+e.calif+(e.rect?"\n\n*Rectificación:* "+e.rect:"")+"\n\nFuentes: "+e.src.map(s=>"["+s[0]+"]("+s[1]+")").join(" · "))});
+  $("bulOpenAll").addEventListener("click",ev=>{const r=$("bulList").querySelectorAll("details.row");const o=[...r].some(x=>!x.open);r.forEach(x=>x.open=o);ev.target.textContent=o?"Cerrar todos":"Abrir todos"});
+  renderBul();
+}
+
+/* ---------- Programas ---------- */
+const PROGV={cumplida:["Cumplida",1],medias:["A medias",2],no:["No cumplida",1],tramite:["En trámite",3]};
+if(PROG.length){
+  $("tab-programas").hidden=false;$("n-programas").textContent=PROG.length;
+  const clave=e=>e.p+" · "+e.ambito;
+  const grupos=[...new Set(PROG.map(clave))];
+  $("progResumen").innerHTML='<thead><tr><th scope="col">Partido · dónde gobernó</th><th scope="col">Programa</th>'+Object.values(PROGV).map(v=>'<th scope="col">'+v[0]+'</th>').join("")+'</tr></thead><tbody>'+
+    grupos.map(g=>{const r=PROG.filter(e=>clave(e)===g);return '<tr><td>'+esc(g)+'</td><td>'+esc([...new Set(r.map(e=>e.programa))].join(", "))+'</td>'+Object.keys(PROGV).map(k=>'<td>'+r.filter(e=>e.veredicto===k).length+'</td>').join("")+'</tr>'}).join("")+'</tbody>';
+  grupos.forEach(g=>{const o=document.createElement("option");o.value=g;o.textContent=g;$("progPar").appendChild(o)});
+  var renderProg=function(){
+    const sel=$("progPar").value;const rows=PROG.map((e,i)=>[e,i]).filter(([e])=>!sel||clave(e)===sel);
+    $("progStatus").textContent=rows.length+" promesas";
+    $("progList").innerHTML=rows.map(([e,i])=>`
+    <details class="row">
+      <summary>
+        <span class="d">${esc(e.programa)}</span>
+        <span class="t">${esc(e.promesa)}<span class="who">${esc(clave(e))}  —  ${esc(e.gobierno)}</span></span>
+        <span class="pr pr-${(PROGV[e.veredicto]||[0,3])[1]}">${(PROGV[e.veredicto]||["",0])[0]}</span>
+      </summary>
+      <div class="x"><div>
+        ${e.cita?'<p>«'+esc(e.cita)+'»</p>':''}
+        <p><strong style="font-weight:500">Qué se hizo.</strong> ${esc(e.hecho)}</p>
+        <p class="matiz"><b>Por qué este veredicto.</b> ${esc(e.explicacion)}</p>
+        ${srcList(e.src)}
+        <div class="act">${copyBtn('data-g="'+i+'"')}</div>
+      </div></div>
+    </details>`).join("");
+  };
+  $("progPar").addEventListener("change",renderProg);
+  $("progList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(!b)return;const e=PROG[+b.dataset.g];copyTo(b,"**"+e.p+" ("+e.programa+")**: "+e.promesa+"\n\n*Veredicto:* "+PROGV[e.veredicto][0]+". "+e.explicacion+"\n\n*Qué se hizo:* "+e.hecho+"\n\nFuentes: "+e.src.map(s=>"["+s[0]+"]("+s[1]+")").join(" · "))});
+  $("progOpenAll").addEventListener("click",ev=>{const r=$("progList").querySelectorAll("details.row");const o=[...r].some(x=>!x.open);r.forEach(x=>x.open=o);ev.target.textContent=o?"Cerrar todas":"Abrir todas"});
+  renderProg();
+}
+
+/* ---------- Pestañas, con enlace directo (#votaciones, #mayorias, #bulos, #programas, #iniciativas, #bienestar) ---------- */
 const TABS={registro:["tab-registro","panel-registro",""],votaciones:["tab-votaciones","panel-votaciones","#votaciones"],mayorias:["tab-mayorias","panel-mayorias","#mayorias"],ilp:["tab-ilp","panel-ilp","#iniciativas"],bienestar:["tab-bienestar","panel-bienestar","#bienestar"]};
+if(BUL.length)TABS.bulos=["tab-bulos","panel-bulos","#bulos"];
+if(PROG.length)TABS.programas=["tab-programas","panel-programas","#programas"];
 function showTab(k,push){
   Object.entries(TABS).forEach(([key,[t,p]])=>{const on=key===k;$(t).setAttribute("aria-selected",on?"true":"false");$(t).tabIndex=on?0:-1;$(p).hidden=!on});
   if(push)history.replaceState(null,"",TABS[k][2]||location.pathname+location.search);
@@ -656,10 +773,11 @@ function showTab(k,push){
 Object.entries(TABS).forEach(([k,[t]])=>$(t).addEventListener("click",()=>{showTab(k,true);const nav=document.querySelector(".nav");if(nav.getBoundingClientRect().top<=0)window.scrollTo({top:nav.offsetTop})}));
 document.querySelector('[role="tablist"]').addEventListener("keydown",ev=>{
   if(!["ArrowRight","ArrowLeft"].includes(ev.key))return;
-  const ks=Object.keys(TABS),cur=ks.findIndex(k=>$(TABS[k][0]).getAttribute("aria-selected")==="true");
+  const orden=[...document.querySelectorAll(".tab")].map(b=>b.id);
+  const ks=Object.keys(TABS).sort((a,b)=>orden.indexOf(TABS[a][0])-orden.indexOf(TABS[b][0])),cur=ks.findIndex(k=>$(TABS[k][0]).getAttribute("aria-selected")==="true");
   const nx=ks[(cur+(ev.key==="ArrowRight"?1:ks.length-1))%ks.length];showTab(nx,true);$(TABS[nx][0]).focus();
 });
-const fromHash={"#votaciones":"votaciones","#mayorias":"mayorias","#iniciativas":"ilp","#bienestar":"bienestar"}[location.hash];
-showTab(fromHash||"registro",false);
+const fromHash={"#votaciones":"votaciones","#mayorias":"mayorias","#bulos":"bulos","#programas":"programas","#iniciativas":"ilp","#bienestar":"bienestar"}[location.hash];
+showTab(fromHash&&TABS[fromHash]?fromHash:"registro",false);
 }
 </script>
