@@ -3,243 +3,228 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Registro Democrático 2016–2026</title>
+<meta name="description" content="Hechos documentados sobre el Estado de derecho y el Estado del bienestar en España, 2016–2026. Mismo criterio para todos los partidos.">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&family=Public+Sans:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Geist:wght@400;500;600;700&family=Geist+Mono:wght@400;500&display=swap">
 <style>
-/* Layout: un registro tipo expediente; cabecera sobria, barra de filtros, una ficha por hecho con fecha en margen izquierdo */
+/* Tinta sobre papel. Sin color a propósito: en España cada color es de un partido. */
 :root{
-  --bg:#f5f6f7; --surface:#ffffff; --fg:#1b2129; --muted:#5b6673; --line:#dde1e6;
-  --accent:#1f4f7a; --accent-soft:#e3ecf5;
-  --p-firme:#1d6b3f; --p-firme-bg:#e2f2e8;
-  --p-tc:#1f4f7a; --p-tc-bg:#e3ecf5;
-  --p-org:#7a5a12; --p-org-bg:#f6eed9;
-  --p-inv:#8a3b12; --p-inv-bg:#f8e6db;
-  --p-med:#5b6673; --p-med-bg:#eceef1;
-  --f-display:"Source Serif 4", Georgia, "Times New Roman", serif;
-  --f-body:"Public Sans", system-ui, -apple-system, "Segoe UI", sans-serif;
-  --f-mono:"JetBrains Mono", ui-monospace, Menlo, Consolas, monospace;
+  --bg:#ffffff; --ink:#3a3a3a; --muted:#7a7a7a; --faint:#b0b0b0; --line:#e9e9e9; --hover:#f6f6f6;
+  --f:"Geist", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --m:"Geist Mono", ui-monospace, Menlo, Consolas, monospace;
+  color-scheme:light;
 }
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]){
-  --bg:#12161b; --surface:#1a2028; --fg:#e4e8ed; --muted:#98a3b0; --line:#2b333e;
-  --accent:#8db8e0; --accent-soft:#1f2e3d;
-  --p-firme:#7fd3a0; --p-firme-bg:#16301f;
-  --p-tc:#8db8e0; --p-tc-bg:#1f2e3d;
-  --p-org:#e0c27a; --p-org-bg:#332a14;
-  --p-inv:#efa07a; --p-inv-bg:#3a2216;
-  --p-med:#a9b3bf; --p-med-bg:#252c35;
-  color-scheme:dark}}
-:root[data-theme="dark"]{
-  --bg:#12161b; --surface:#1a2028; --fg:#e4e8ed; --muted:#98a3b0; --line:#2b333e;
-  --accent:#8db8e0; --accent-soft:#1f2e3d;
-  --p-firme:#7fd3a0; --p-firme-bg:#16301f;
-  --p-tc:#8db8e0; --p-tc-bg:#1f2e3d;
-  --p-org:#e0c27a; --p-org-bg:#332a14;
-  --p-inv:#efa07a; --p-inv-bg:#3a2216;
-  --p-med:#a9b3bf; --p-med-bg:#252c35;
-  color-scheme:dark}
+  --bg:#262626; --ink:#dcdcdc; --muted:#9e9e9e; --faint:#6e6e6e; --line:#383838; --hover:#2e2e2e; color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#262626; --ink:#dcdcdc; --muted:#9e9e9e; --faint:#6e6e6e; --line:#383838; --hover:#2e2e2e; color-scheme:dark}
+
 *{box-sizing:border-box}
-body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:15px;line-height:1.55}
-.wrap{max-width:980px;margin:0 auto;padding-inline:16px;padding-block:32px 64px;display:flex;flex-direction:column;gap:24px}
-header{display:flex;flex-direction:column;gap:10px}
-.eyebrow{font-family:var(--f-mono);font-size:12px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
-h1{font-family:var(--f-display);font-size:clamp(28px,5vw,40px);line-height:1.1;margin:0;text-wrap:balance}
-.lede{max-width:66ch;color:var(--muted);margin:0}
-.criteria{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:8px;margin:0;padding:0;list-style:none}
-.criteria li{display:flex;gap:8px;align-items:flex-start;font-size:13px;color:var(--muted)}
-.pill{display:inline-flex;align-items:center;gap:6px;font-size:12px;font-weight:600;padding:3px 9px;border-radius:999px;white-space:nowrap}
-.pill::before{content:"";width:7px;height:7px;border-radius:50%;background:currentColor}
-.pr-firme{color:var(--p-firme);background:var(--p-firme-bg)}
-.pr-tc{color:var(--p-tc);background:var(--p-tc-bg)}
-.pr-org{color:var(--p-org);background:var(--p-org-bg)}
-.pr-inv{color:var(--p-inv);background:var(--p-inv-bg)}
-.pr-med{color:var(--p-med);background:var(--p-med-bg)}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--ink);font:400 15px/1.6 var(--f);-webkit-font-smoothing:antialiased}
+a{color:inherit;text-decoration:underline;text-decoration-color:var(--faint);text-underline-offset:3px}
+a:hover{text-decoration-color:var(--ink)}
+:focus-visible{outline:2px solid var(--ink);outline-offset:3px}
+.wrap{max-width:1040px;margin:0 auto;padding:0 16px}
+.mono{font-family:var(--m);font-size:12px;letter-spacing:.02em}
+.muted{color:var(--muted)}
 
-.filters{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:16px;display:flex;flex-direction:column;gap:14px;position:sticky;top:env(safe-area-inset-top,0px);z-index:2}
-.frow{display:flex;flex-wrap:wrap;gap:8px;align-items:center}
-.flabel{font-family:var(--f-mono);font-size:11px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);min-width:76px}
-.chip{font:inherit;font-size:13px;font-weight:500;border:1px solid var(--line);background:transparent;color:var(--fg);padding:5px 11px;border-radius:999px;cursor:pointer;display:inline-flex;gap:6px;align-items:center}
-.chip .n{font-family:var(--f-mono);font-size:11px;color:var(--muted)}
-.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
-.chip[aria-pressed="true"] .n{color:var(--surface);opacity:.8}
-.chip:focus-visible,select:focus-visible,input:focus-visible,.copy:focus-visible,a:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-select,input[type=search]{font:inherit;font-size:14px;color:var(--fg);background:var(--bg);border:1px solid var(--line);border-radius:8px;padding:7px 10px}
-input[type=search]{flex:1;min-width:0}
-.status{font-size:13px;color:var(--muted)}
+/* ---------- Cabecera ---------- */
+.masthead{padding:72px 0 40px}
+.kicker{font-family:var(--m);font-size:12px;color:var(--muted);display:flex;gap:16px;flex-wrap:wrap}
+h1{font-weight:600;font-size:clamp(40px,8vw,88px);line-height:.95;letter-spacing:-.045em;margin:20px 0 0}
+h1 span{color:var(--faint)}
+.claim{font-size:clamp(17px,2.2vw,21px);line-height:1.45;letter-spacing:-.01em;max-width:34ch;margin:24px 0 0}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));border-top:1px solid var(--ink);margin-top:48px}
+.stat{padding:14px 16px 0 0}
+.stat b{display:block;font-weight:500;font-size:clamp(28px,4vw,40px);letter-spacing:-.04em;line-height:1;font-variant-numeric:tabular-nums}
+.stat span{font-family:var(--m);font-size:12px;color:var(--muted)}
 
-.list{display:flex;flex-direction:column;gap:12px}
-.entry{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:18px;display:grid;grid-template-columns:110px minmax(0,1fr);gap:6px 20px}
-.date{font-family:var(--f-mono);font-size:13px;color:var(--muted);font-variant-numeric:tabular-nums;padding-top:3px}
-.body{display:flex;flex-direction:column;gap:10px;min-width:0}
-.top{display:flex;flex-wrap:wrap;gap:8px;align-items:center;justify-content:space-between}
-h2{font-family:var(--f-display);font-size:19px;line-height:1.25;margin:0;text-wrap:balance}
-.meta{display:flex;flex-wrap:wrap;gap:6px;align-items:center}
-.party{font-size:12px;font-weight:600;border:1px solid var(--line);padding:2px 8px;border-radius:4px;color:var(--fg)}
-.cat{font-family:var(--f-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted)}
-.body p{margin:0;max-width:70ch}
-.nuance{font-size:13.5px;color:var(--muted);border-left:2px solid var(--line);padding-left:10px}
-.foot{display:flex;flex-wrap:wrap;gap:8px 16px;align-items:center;justify-content:space-between;border-top:1px solid var(--line);padding-top:10px}
-.sources{display:flex;flex-wrap:wrap;gap:4px 14px;font-size:13px}
-.sources a{color:var(--accent);text-underline-offset:2px}
-.copy{font:inherit;font-size:12.5px;font-weight:600;color:var(--accent);background:var(--accent-soft);border:0;border-radius:6px;padding:6px 10px;cursor:pointer}
-.empty{background:var(--surface);border:1px dashed var(--line);border-radius:10px;padding:24px;color:var(--muted);text-align:center}
-.note{font-size:13px;color:var(--muted);max-width:75ch}
-@media (max-width:620px){
-  .entry{grid-template-columns:1fr}
-  .flabel{min-width:100%}
-  .filters{position:static}
-}
-@media (prefers-reduced-motion:no-preference){.chip,.copy{transition:background .15s,color .15s}}
-.tabs{display:flex;gap:4px;border-bottom:1px solid var(--line)}
-.tab{font:inherit;font-size:14.5px;font-weight:600;color:var(--muted);background:transparent;border:0;border-bottom:2px solid transparent;padding:10px 14px;margin-bottom:-1px;cursor:pointer}
-.tab[aria-selected="true"]{color:var(--fg);border-bottom-color:var(--accent)}
-.tab:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.panel{display:flex;flex-direction:column;gap:20px}
+/* ---------- Navegación ---------- */
+.nav{position:sticky;top:0;z-index:5;background:var(--bg);border-bottom:1px solid var(--line)}
+.nav .wrap{display:flex;gap:28px;overflow-x:auto;scrollbar-width:none}
+.nav .wrap::-webkit-scrollbar{display:none}
+.tab{font:inherit;font-size:14px;font-weight:500;color:var(--muted);background:none;border:0;padding:16px 0 14px;border-bottom:2px solid transparent;cursor:pointer;white-space:nowrap}
+.tab sup{font-family:var(--m);font-size:10.5px;font-weight:400;margin-left:3px;color:var(--faint)}
+.tab:hover{color:var(--ink)}
+.tab[aria-selected="true"]{color:var(--ink);border-bottom-color:var(--ink)}
+
+/* ---------- Paneles ---------- */
+.panel{padding:40px 0 96px}
 .panel[hidden]{display:none}
-.tablewrap{overflow-x:auto;background:var(--surface);border:1px solid var(--line);border-radius:10px}
-table.votes{border-collapse:collapse;width:100%;min-width:760px;font-size:13.5px}
-.votes th,.votes td{padding:10px 8px;border-bottom:1px solid var(--line);text-align:center;vertical-align:middle}
-.votes th{font-family:var(--f-mono);font-size:11px;letter-spacing:.06em;text-transform:uppercase;color:var(--muted);font-weight:500}
-.votes th:first-child,.votes td:first-child{text-align:left;padding-left:14px;min-width:220px}
-.votes tr:last-child td{border-bottom:0}
-.votes .mname{font-weight:600}
-.votes .mdate{display:block;font-family:var(--f-mono);font-size:11.5px;color:var(--muted);font-variant-numeric:tabular-nums}
+.lede{font-size:clamp(16px,1.9vw,18px);line-height:1.55;letter-spacing:-.005em;max-width:62ch;margin:0 0 32px}
+
+/* ---------- Filtros ---------- */
+.search{display:flex;align-items:center;gap:12px;border-bottom:1px solid var(--ink);padding-bottom:10px}
+.search svg{flex:none;color:var(--muted)}
+.search input{flex:1;min-width:0;font:inherit;font-size:clamp(18px,2.4vw,24px);letter-spacing:-.02em;border:0;background:none;color:var(--ink);padding:4px 0}
+.search input::placeholder{color:var(--faint)}
+.search input:focus-visible{outline:none}
+.fl{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:baseline;padding:14px 0 0}
+.fl .lab{font-family:var(--m);font-size:11.5px;color:var(--faint);width:72px;flex:none}
+.tog{font:inherit;font-size:13.5px;color:var(--muted);background:none;border:0;padding:2px 0;cursor:pointer;border-bottom:1px solid transparent}
+.tog .n{font-family:var(--m);font-size:11px;color:var(--faint);margin-left:4px}
+.tog:hover{color:var(--ink)}
+.tog[aria-pressed="true"]{color:var(--ink);border-bottom-color:var(--ink)}
+.sel{display:flex;flex-wrap:wrap;gap:10px 24px;padding-top:14px}
+select{font:inherit;font-size:13.5px;color:var(--ink);background:transparent;border:0;border-bottom:1px solid var(--line);padding:4px 18px 4px 0;appearance:none;-webkit-appearance:none;
+  background-image:linear-gradient(45deg,transparent 50%,currentColor 50%),linear-gradient(135deg,currentColor 50%,transparent 50%);
+  background-position:right 5px center,right 1px center;background-size:4px 4px;background-repeat:no-repeat;cursor:pointer;max-width:100%}
+select:hover{border-bottom-color:var(--ink)}
+.bar{display:flex;justify-content:space-between;align-items:baseline;gap:16px;margin:36px 0 0;padding-bottom:8px;border-bottom:1px solid var(--ink)}
+.bar button{font:inherit;font-family:var(--m);font-size:12px;color:var(--muted);background:none;border:0;cursor:pointer;padding:0}
+.bar button:hover{color:var(--ink)}
+
+/* ---------- Fichas (filas desplegables) ---------- */
+.row{border-bottom:1px solid var(--line)}
+.row>summary{list-style:none;cursor:pointer;display:grid;grid-template-columns:128px minmax(0,1fr) 168px;gap:4px 24px;padding:18px 0;align-items:baseline}
+.row>summary::-webkit-details-marker{display:none}
+.row>summary:hover{background:linear-gradient(90deg,transparent,var(--hover) 8%,var(--hover) 92%,transparent)}
+.row .d{font-family:var(--m);font-size:12px;color:var(--muted);font-variant-numeric:tabular-nums}
+.row .t{font-size:17px;font-weight:500;line-height:1.35;letter-spacing:-.015em;text-wrap:pretty}
+.row .who{display:block;font-family:var(--m);font-size:11.5px;color:var(--muted);margin-top:6px;font-weight:400;letter-spacing:.01em}
+.row .pr{font-family:var(--m);font-size:11.5px;text-align:right;white-space:nowrap}
+.row .pr::after{content:"+";display:inline-block;width:14px;text-align:right;color:var(--faint);margin-left:8px;transition:transform .2s}
+.row[open] .pr::after{content:"−"}
+.pr-1{color:var(--ink)} .pr-2{color:var(--muted)} .pr-3{color:var(--faint)}
+.x{display:grid;grid-template-columns:128px minmax(0,1fr);gap:0 24px;padding:0 0 28px}
+.x>div{grid-column:2;display:flex;flex-direction:column;gap:14px;max-width:68ch}
+.x p{margin:0}
+.x .cat{font-family:var(--m);font-size:11.5px;color:var(--muted)}
+.matiz{font-size:14px;color:var(--muted);padding-left:14px;border-left:1px solid var(--ink)}
+.matiz b{font-weight:500;color:var(--ink)}
+.src{display:flex;flex-direction:column;gap:4px;font-size:13px;margin:0;padding:0;list-style:none}
+.src li::before{content:"↗ ";color:var(--faint);font-family:var(--m)}
+.act{display:flex;gap:20px;padding-top:4px}
+.act button{font:inherit;font-family:var(--m);font-size:12px;color:var(--ink);background:none;border:0;border-bottom:1px solid var(--ink);padding:0 0 1px;cursor:pointer}
+.empty{padding:48px 0;color:var(--muted);font-size:15px}
+.foot-note{font-size:13px;color:var(--muted);max-width:70ch;margin:32px 0 0;line-height:1.6}
+
+/* ---------- Leyenda ---------- */
+.legend{display:flex;flex-wrap:wrap;gap:8px 24px;font-family:var(--m);font-size:11.5px;color:var(--muted);margin:16px 0 0}
+.legend i{font-style:normal;margin-right:6px}
+
+/* ---------- Votaciones: matriz ---------- */
+.mx{overflow:auto;max-height:72vh;margin-top:24px;border-top:1px solid var(--ink);border-bottom:1px solid var(--ink)}
+table.vt{border-collapse:separate;border-spacing:0;width:100%;min-width:780px}
+.vt th{font-family:var(--m);font-size:11px;font-weight:400;color:var(--muted);text-align:center;padding:12px 4px 10px;border-bottom:1px solid var(--ink);white-space:nowrap;position:sticky;top:0;background:var(--bg);z-index:1}
+.vt th:first-child{text-align:left;padding-left:0;left:0;z-index:2}
+.vt td{padding:12px 4px;border-bottom:1px solid var(--line);text-align:center;vertical-align:middle}
+.vt td:first-child{text-align:left;padding-left:0;min-width:240px;position:sticky;left:0;background:var(--bg)}
+.vt .mn{font-size:14px;font-weight:500;letter-spacing:-.01em;line-height:1.3;display:block}
+.vt .md{font-family:var(--m);font-size:11px;color:var(--muted)}
+.vt tbody tr{cursor:pointer}
+.vt tbody tr:hover td{background:var(--hover)}
+.c{display:inline-block;width:20px;height:20px;vertical-align:middle;border:1.5px solid var(--ink)}
+.c-si{background:var(--ink)}
+.c-no{background:transparent}
+.c-ab{background:repeating-linear-gradient(135deg,var(--ink) 0 1.5px,transparent 1.5px 5px)}
+.c-sd{border:0;width:auto;height:auto;color:var(--faint);font-family:var(--m);font-size:12px}
+.c-sd::before{content:"·"}
+
+/* ---------- Cómo nos ha ido ---------- */
+.ind{border-bottom:1px solid var(--line);padding:32px 0}
+.ind h3{font-size:22px;font-weight:500;letter-spacing:-.025em;line-height:1.2;margin:6px 0 10px}
+.ind .mide{max-width:68ch;margin:0 0 18px;color:var(--muted)}
+.spark{display:block;width:100%;max-width:560px;height:auto;overflow:visible}
+.spark text{font-family:var(--m);font-size:10px;fill:var(--muted)}
+.keys{font-family:var(--m);font-size:11.5px;color:var(--muted);display:flex;gap:18px;flex-wrap:wrap;margin:8px 0 18px}
+.tw{overflow-x:auto}
 table.serie{border-collapse:collapse;width:100%;font-size:13px;font-variant-numeric:tabular-nums}
-.serie th,.serie td{padding:7px 9px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
-.serie th{font-family:var(--f-mono);font-size:11px;color:var(--muted);font-weight:500}
-.serie th:first-child,.serie td:first-child{text-align:left;position:sticky;left:0;background:var(--surface)}
+.serie th,.serie td{padding:7px 10px;border-bottom:1px solid var(--line);text-align:right;white-space:nowrap}
+.serie th{font-family:var(--m);font-size:11px;font-weight:400;color:var(--muted)}
+.serie th:first-child,.serie td:first-child{text-align:left;padding-left:0;position:sticky;left:0;background:var(--bg)}
 .serie tr.ref td{font-weight:600}
-.serie tr:last-child td{border-bottom:0}
-.serie td.nd{color:var(--muted)}
-.spark{display:block;margin:6px 0 2px}
-.spark text{font-family:var(--f-mono);font-size:10px;fill:var(--muted)}
-.v{display:inline-block;min-width:42px;font-size:12px;font-weight:600;padding:3px 6px;border-radius:4px}
-.v-si{color:var(--p-firme);background:var(--p-firme-bg)}
-.v-no{color:var(--p-inv);background:var(--p-inv-bg)}
-.v-ab{color:var(--p-org);background:var(--p-org-bg)}
-.v-sd{color:var(--p-med);background:transparent;font-weight:400}
-.intro{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px 18px;max-width:78ch}
-.intro summary{cursor:pointer;font-weight:600;font-family:var(--f-display);font-size:17px}
-.intro summary:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
-.intro-body{display:flex;flex-direction:column;gap:10px;padding-top:10px;font-size:14.5px}
-.intro-body p{margin:0}
-.intro-body ul{margin:0;padding-left:20px;display:flex;flex-direction:column;gap:6px}
-.legend{display:flex;flex-wrap:wrap;gap:8px 16px;font-size:13px;color:var(--muted);align-items:center}
+.serie td.nd{color:var(--faint)}
+.serie td[title]{cursor:help}
+.ind .aviso{font-size:13.5px;color:var(--muted);padding-left:14px;border-left:1px solid var(--ink);max-width:68ch;margin:18px 0 10px}
+
+/* ---------- Plegables de texto ---------- */
+.fold{border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:0 0 32px}
+.fold>summary{list-style:none;cursor:pointer;padding:14px 0;font-weight:500;display:flex;justify-content:space-between}
+.fold>summary::-webkit-details-marker{display:none}
+.fold>summary::after{content:"+";font-family:var(--m);color:var(--muted)}
+.fold[open]>summary::after{content:"−"}
+.fold .in{padding:0 0 24px;display:flex;flex-direction:column;gap:12px;max-width:68ch}
+.fold .in p{margin:0}
+.fold dl{margin:0;display:grid;grid-template-columns:minmax(0,220px) minmax(0,1fr);gap:10px 24px}
+.fold dt{font-weight:500}
+.fold dd{margin:0;color:var(--muted)}
+
+footer{border-top:1px solid var(--ink);padding:24px 0 56px;font-family:var(--m);font-size:12px;color:var(--muted)}
+footer .wrap{display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap}
+footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:pointer;padding:0;text-decoration:underline;text-underline-offset:3px}
+
+@media (max-width:720px){
+  .masthead{padding:40px 0 28px}
+  .stats{grid-template-columns:repeat(2,minmax(0,1fr))}
+  .stat{padding-bottom:14px}
+  .row>summary{grid-template-columns:minmax(0,1fr);gap:6px}
+  .row .pr{text-align:left;order:-1;display:flex;justify-content:space-between}
+  .row .d{order:-2}
+  .x{grid-template-columns:minmax(0,1fr)}
+  .x>div{grid-column:1}
+  .fl .lab{width:100%}
+  .fold dl{grid-template-columns:minmax(0,1fr)}
+  .fold dd{margin-bottom:6px}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
 </style>
 
-<div class="wrap">
-  <header>
-    <div class="eyebrow">España · 2016–2026 · Actualizado el 6 de octubre de 2026</div>
-    <h1>Registro Democrático 2016–2026</h1>
-    <details class="intro">
-      <summary>Qué mide este registro</summary>
-      <div class="intro-body">
-        <p>La Constitución dice en su primer artículo que España es un «Estado social y democrático de Derecho». Son tres ideas distintas:</p>
-        <ul>
-          <li><strong>Democrático</strong>: quién manda. La ciudadanía elige a sus representantes y puede cambiarlos.</li>
-          <li><strong>De Derecho</strong>: cómo se manda. Las leyes obligan también a quien gobierna, y el poder está repartido para que unos vigilen a otros: el <em>legislativo</em> (Congreso, Senado y parlamentos autonómicos) hace leyes y controla al Gobierno; el <em>ejecutivo</em> gobierna; el <em>judicial</em> decide si alguien, incluido el Gobierno, ha incumplido la ley; y el Tribunal Constitucional vigila que todo respete la Constitución.</li>
-          <li><strong>Social</strong>: el Estado debe garantizar servicios como la sanidad, la educación o las pensiones.</li>
-        </ul>
-        <p>Se puede ganar elecciones limpias y, aun así, debilitar el Estado de derecho usando la mayoría para que nadie te vigile. Por eso este registro mira sobre todo cómo funcionan esos contrapesos:</p>
-        <ul>
-          <li><strong>Control parlamentario</strong>: si el Parlamento puede investigar y controlar a quien gobierna.</li>
-          <li><strong>Independencia de instituciones</strong>: si jueces, fiscalía y órganos de control actúan sin injerencias.</li>
-          <li><strong>Incumplimiento de leyes y sentencias</strong>: si quien gobierna cumple las leyes y las sentencias.</li>
-          <li><strong>Derechos fundamentales y control judicial</strong>: lo que han dicho el Constitucional y el Supremo.</li>
-          <li><strong>Medios públicos y propaganda</strong>: la prensa no es un poder del Estado, pero sin información libre no se puede votar con conocimiento.</li>
-          <li><strong>Financiación y corrupción</strong>: si se compite con reglas limpias.</li>
-          <li><strong>Gestión pública y derechos</strong>: cómo se cumple la parte «social». Son decisiones políticas que se pueden criticar, no hechos antidemocráticos.</li>
-          <li><strong>Qué votó cada partido</strong> (pestaña aparte): sanidad, educación, vivienda, luz y gas, dependencia, pensiones y Presupuestos, con el voto oficial de cada grupo en el Congreso.</li>
-          <li><strong>Iniciativas ciudadanas</strong> (pestaña aparte): cuánto pesa la gente entre elecciones.</li>
-        </ul>
-        <p>Cubre los diez años que van de 2016 a 2026: los gobiernos de Rajoy y de Sánchez y los de todas las comunidades. Cada hecho se atribuye a quien gobernaba en esa fecha.</p>
-        <p>Aquí no hay rankings ni conclusiones: solo hechos con su fuente y su matiz. Filtra por partido, parlamento o categoría y saca tus propias conclusiones.</p>
-      </div>
-    </details>
-  </header>
-
-  <div class="tabs" role="tablist">
-    <button type="button" class="tab" role="tab" id="tab-registro" aria-controls="panel-registro" aria-selected="true">Registro</button>
-    <button type="button" class="tab" role="tab" id="tab-votaciones" aria-controls="panel-votaciones" aria-selected="false">Qué votó cada partido</button>
-    <button type="button" class="tab" role="tab" id="tab-ilp" aria-controls="panel-ilp" aria-selected="false">Iniciativas ciudadanas</button>
-    <button type="button" class="tab" role="tab" id="tab-bienestar" aria-controls="panel-bienestar" aria-selected="false">Cómo nos ha ido</button>
+<header class="masthead">
+  <div class="wrap">
+    <div class="kicker"><span>España</span><span>2016 – 2026</span><span id="updated">Actualizado el 7 de octubre de 2026</span></div>
+    <h1>Registro<br>Democrático <span>16–26</span></h1>
+    <p class="claim">Diez años de hechos con fuente oficial. El mismo criterio para todos los partidos. Las conclusiones, tuyas.</p>
+    <div class="stats" id="stats"></div>
   </div>
+</header>
 
-  <section class="panel" id="panel-bienestar" role="tabpanel" aria-labelledby="tab-bienestar" hidden>
-    <p class="lede">Lo que se hace con nuestros impuestos se nota en la sanidad, el colegio, la vivienda, la dependencia y la factura de la luz. Aquí están los datos oficiales, año a año, de 2016 al último publicado: la media de España, la de la Unión Europea cuando existe y cada comunidad por orden alfabético. Sanidad, educación, vivienda y dependencia son sobre todo competencia de las comunidades. Una serie no prueba por sí sola que un gobierno lo hiciera bien o mal: cada indicador dice qué mide y qué no.</p>
-    <section class="filters" aria-label="Filtros de indicadores">
-      <div class="frow">
-        <span class="flabel">Filtrar</span>
-        <select id="pilarSel" aria-label="Tema"></select>
-      </div>
-      <div class="status" id="bienCount" aria-live="polite"></div>
-    </section>
-    <details class="intro">
-      <summary>Quién gobernaba cada comunidad</summary>
-      <div class="intro-body">
-        <p>Partidos con consejeros en el gobierno autonómico a 31 de diciembre de cada año (en 2026, a día de hoy). En las tablas de abajo, al pasar el ratón por un dato de una comunidad se ve quién gobernaba ese año. Fuente: Reales Decretos de nombramiento (BOE) y dosieres del Senado.</p>
-        <div class="tablewrap"><table class="serie" id="gobTable"></table></div>
+<nav class="nav" aria-label="Secciones">
+  <div class="wrap" role="tablist">
+    <button type="button" class="tab" role="tab" id="tab-registro" aria-controls="panel-registro" aria-selected="true">Registro<sup id="n-registro"></sup></button>
+    <button type="button" class="tab" role="tab" id="tab-votaciones" aria-controls="panel-votaciones" aria-selected="false">Qué votó cada partido<sup id="n-votaciones"></sup></button>
+    <button type="button" class="tab" role="tab" id="tab-ilp" aria-controls="panel-ilp" aria-selected="false">Iniciativas ciudadanas<sup id="n-ilp"></sup></button>
+    <button type="button" class="tab" role="tab" id="tab-bienestar" aria-controls="panel-bienestar" aria-selected="false">Cómo nos ha ido<sup id="n-bienestar"></sup></button>
+  </div>
+</nav>
+
+<main class="wrap">
+
+  <!-- ===== Registro ===== -->
+  <section class="panel" id="panel-registro" role="tabpanel" aria-labelledby="tab-registro">
+    <p class="lede">Actuaciones de partidos y gobiernos que un tribunal, un organismo oficial o una votación documentada han dejado por escrito. Cada ficha dice qué la prueba, qué alega la otra parte y dónde comprobarlo.</p>
+
+    <details class="fold">
+      <summary>Qué mide este registro</summary>
+      <div class="in">
+        <p>La Constitución define España como un «Estado social y democrático de Derecho». Son tres cosas distintas: <strong>democrático</strong> es quién manda; <strong>de Derecho</strong>, que las leyes obligan también a quien gobierna y que unos poderes vigilan a otros; <strong>social</strong>, que el Estado garantiza sanidad, educación o pensiones.</p>
+        <p>Se pueden ganar elecciones limpias y aun así debilitar los contrapesos. Este registro los mira uno a uno:</p>
+        <dl>
+          <dt>Control parlamentario</dt><dd>Si el Parlamento puede investigar y controlar a quien gobierna.</dd>
+          <dt>Independencia de instituciones</dt><dd>Si jueces, fiscalía y órganos de control actúan sin injerencias.</dd>
+          <dt>Incumplimiento de leyes y sentencias</dt><dd>Si quien gobierna cumple las leyes y las sentencias.</dd>
+          <dt>Derechos fundamentales y control judicial</dt><dd>Lo que han dicho el Constitucional y el Supremo.</dd>
+          <dt>Medios públicos y propaganda</dt><dd>Sin información libre no se vota con conocimiento.</dd>
+          <dt>Financiación y corrupción</dt><dd>Si se compite con reglas limpias.</dd>
+          <dt>Gestión pública y derechos</dt><dd>Cómo se cumple la parte «social». Son decisiones políticas criticables, no hechos antidemocráticos.</dd>
+        </dl>
+        <p>Cubre de 2016 a 2026: los gobiernos de Rajoy y de Sánchez y los de todas las comunidades. Cada hecho se atribuye a quien gobernaba en esa fecha. No hay rankings ni conclusiones.</p>
+        <p><strong>Nivel de prueba.</strong> En negro, lo más sólido: sentencia firme y Tribunal Constitucional. En gris, organismo oficial y resolución judicial no firme. En gris claro, investigación judicial abierta (rige la presunción de inocencia) y hechos documentados en medios o votaciones.</p>
       </div>
     </details>
-    <div class="list" id="bienList"></div>
-    <p class="note">Todos los datos vienen de organismos oficiales: Ministerio de Sanidad, Ministerio de Educación, IMSERSO, INE, Ministerio de Vivienda, Banco de España y Eurostat. Las cifras en euros son corrientes, sin descontar la inflación, salvo que se indique. Una casilla vacía es un dato que la fuente no publica; no se rellena ni se estima.</p>
-  </section>
 
-  <section class="panel" id="panel-ilp" role="tabpanel" aria-labelledby="tab-ilp" hidden>
-    <p class="lede">Leyes que propuso la gente con sus firmas (las Iniciativas Legislativas Populares) y consultas que pidieron los vecinos: qué pasó con ellas y quién decidió. En el Congreso hacen falta 500.000 firmas; en los parlamentos autonómicos, bastantes menos.</p>
-    <section class="filters" aria-label="Filtros de iniciativas">
-      <div class="frow">
-        <span class="flabel">Filtrar</span>
-        <select id="ilpRes" aria-label="Resultado"><option value="">Todos los resultados</option></select>
-        <select id="ilpAmb" aria-label="Parlamento"><option value="">Todos los parlamentos</option></select>
-        <select id="ilpPar" aria-label="Partido que la frenó"><option value="">Cualquier partido</option></select>
-      </div>
-      <div class="status" id="ilpStatus" aria-live="polite"></div>
-    </section>
-    <div class="list" id="ilpList"></div>
-    <p class="note">"Partido que la frenó" recoge a quienes votaron en contra o la bloquearon; en las aprobadas, a quienes votaron en contra. Una iniciativa bloqueada es la que se admitió a trámite pero no se llegó a aprobar: suele quedarse años en fase de enmiendas, prorrogándose plazo tras plazo.</p>
-  </section>
-
-  <section class="panel" id="panel-votaciones" role="tabpanel" aria-labelledby="tab-votaciones" hidden>
-    <p class="lede">Votaciones del Congreso desde 2016 en lo que pagamos con nuestros impuestos y nos toca el bolsillo: sanidad, educación, vivienda, luz y gas, dependencia, pensiones y Presupuestos. El voto de cada partido sale del registro oficial del Congreso, diputado por diputado. Solo el voto y lo que decía la medida: las conclusiones las saca quien lo lea.</p>
-    <section class="filters" aria-label="Filtros de votaciones">
-      <div class="frow">
-        <span class="flabel">Filtrar</span>
-        <select id="temaSel" aria-label="Tema"></select>
-      </div>
-      <div class="status" id="voteCount" aria-live="polite"></div>
-    </section>
-    <div class="legend">
-      <span><span class="v v-si">Sí</span> a favor de la medida</span>
-      <span><span class="v v-no">No</span> en contra</span>
-      <span><span class="v v-ab">Abst.</span> abstención</span>
-      <span><span class="v v-sd">s/d</span> sin dato verificado o sin escaño</span>
+    <div class="search">
+      <svg width="20" height="20" viewBox="0 0 20 20" fill="none" aria-hidden="true"><circle cx="8.5" cy="8.5" r="6" stroke="currentColor" stroke-width="1.5"/><path d="M13 13l5 5" stroke="currentColor" stroke-width="1.5"/></svg>
+      <input type="search" id="q" placeholder="Buscar: CGPJ, amnistía, Pegasus, residencias…" aria-label="Buscar en el registro" autocomplete="off">
     </div>
-    <div class="tablewrap"><table class="votes" id="votesTable"></table></div>
-    <div class="list" id="voteList"></div>
-    <p class="note">"Sí" significa a favor de que la medida saliera adelante. En la reducción de jornada se votaban enmiendas para devolver la ley: quien votó esas enmiendas aparece como "No". En las enmiendas a la totalidad (Presupuestos de 2019, ratios), votar a favor de devolver el texto cuenta como "No". En los Presupuestos se recoge la votación del Título I. UP / Sumar recoge el grupo de Unidas Podemos hasta 2023 y el de Sumar después. Podemos votaba dentro de Unidas Podemos hasta 2023 (su casilla repite la del grupo) y por separado desde entonces. Junts recoge al PDeCAT hasta 2019. Vox no tuvo escaño hasta mayo de 2019 y Ciudadanos no lo tiene desde 2023: ahí aparece "s/d". El voto de los partidos pequeños (CC, BNG, UPN, Compromís, CUP…) va en el texto de cada votación.</p>
-  </section>
-
-  <section class="panel" id="panel-registro" role="tabpanel" aria-labelledby="tab-registro">
-    <p class="lede">Actuaciones de partidos y gobiernos que tribunales u organismos oficiales han cuestionado desde el punto de vista democrático o de Estado de Derecho. Mismo criterio para todos. Cada ficha indica qué nivel de prueba tiene.</p>
-    <ul class="criteria" aria-label="Niveles de prueba">
-      <li><span class="pill pr-firme">Sentencia firme</span></li>
-      <li><span class="pill pr-tc">Tribunal Constitucional</span></li>
-      <li><span class="pill pr-org">Organismo oficial</span></li>
-      <li><span class="pill pr-inv">Resolución judicial no firme</span></li>
-      <li><span class="pill pr-inv">Investigación judicial</span></li>
-      <li><span class="pill pr-med">Documentado en medios</span></li>
-    </ul>
-
-  <section class="filters" aria-label="Filtros">
-    <div class="frow" id="partyRow"><span class="flabel">Partido</span></div>
-    <div class="frow">
-      <span class="flabel">Prueba</span>
+    <div class="fl" id="partyRow"><span class="lab">Partido</span></div>
+    <div class="sel">
       <select id="proofSel" aria-label="Nivel de prueba">
-        <option value="">Todos los niveles</option>
-        <option value="firme">Solo sentencia firme</option>
-        <option value="tc">Solo Tribunal Constitucional</option>
-        <option value="strong">Sentencia o TC (lo más sólido)</option>
+        <option value="">Cualquier prueba</option>
+        <option value="strong">Sentencia firme o TC</option>
+        <option value="firme">Sentencia firme</option>
+        <option value="tc">Tribunal Constitucional</option>
         <option value="org">Organismo oficial</option>
         <option value="jud">Resolución judicial no firme</option>
         <option value="inv">Investigación judicial</option>
@@ -247,74 +232,134 @@ table.serie{border-collapse:collapse;width:100%;font-size:13px;font-variant-nume
       </select>
       <select id="catSel" aria-label="Categoría"><option value="">Todas las categorías</option></select>
       <select id="ambSel" aria-label="Parlamento o territorio"><option value="">Todos los parlamentos</option></select>
-      <input type="search" id="q" placeholder="Buscar: CGPJ, amnistía, Pegasus…" aria-label="Buscar">
+      <select id="sortSel" aria-label="Orden"><option value="desc">Más recientes primero</option><option value="asc">Más antiguos primero</option></select>
     </div>
-    <div class="status" id="status" aria-live="polite"></div>
+    <div class="bar"><span class="mono muted" id="status" aria-live="polite"></span><span><button type="button" id="openAll">Abrir todas</button></span></div>
+    <div id="list"></div>
+    <p class="foot-note">Aparecer aquí no convierte a un partido en antidemocrático: recoge hechos concretos que un tribunal u organismo ha cuestionado, muchos aún en debate jurídico y político. Tener pocas fichas tampoco significa estar limpio: el registro es un trabajo en curso. Lo marcado como investigación judicial está sin juzgar.</p>
   </section>
 
-  <div class="list" id="list"></div>
-
-  <p class="note">Aparecer en este registro no convierte a un partido en antidemocrático: recoge hechos concretos que un tribunal u organismo ha cuestionado, y muchos de ellos siguen siendo objeto de debate jurídico y político. Que un partido tenga pocas fichas aquí no significa que esté limpio: el registro es un trabajo en curso y hay parlamentos, ayuntamientos y temas todavía por revisar. Todo lo marcado como investigación judicial está sin juzgar y rige la presunción de inocencia.</p>
+  <!-- ===== Votaciones ===== -->
+  <section class="panel" id="panel-votaciones" role="tabpanel" aria-labelledby="tab-votaciones" hidden>
+    <p class="lede">Votaciones del Congreso en lo que pagamos con nuestros impuestos: sanidad, educación, vivienda, luz y gas, dependencia, pensiones y Presupuestos. El voto de cada partido sale del registro oficial del Congreso, contado diputado a diputado.</p>
+    <div class="sel" style="padding-top:0">
+      <select id="temaSel" aria-label="Tema"></select>
+    </div>
+    <div class="legend">
+      <span><i class="c c-si"></i>A favor</span>
+      <span><i class="c c-no"></i>En contra</span>
+      <span><i class="c c-ab"></i>Abstención</span>
+      <span><i class="c c-sd"></i> Sin dato o sin escaño</span>
+    </div>
+    <div class="mx"><table class="vt" id="votesTable"></table></div>
+    <div class="bar"><span class="mono muted" id="voteCount" aria-live="polite"></span><span class="mono muted">Pulsa una fila para ver el detalle</span></div>
+    <div id="voteList"></div>
+    <p class="foot-note">«A favor» es a favor de que la medida saliera adelante: en enmiendas a la totalidad o de devolución, votarlas cuenta como «en contra». En Presupuestos se recoge el Título I. UP / Sumar es Unidas Podemos hasta 2023 y Sumar después; Podemos votaba dentro de Unidas Podemos hasta 2023 y por separado desde entonces. Junts recoge al PDeCAT hasta 2019. Vox no tuvo escaño hasta mayo de 2019 ni Ciudadanos desde 2023. El voto de los partidos pequeños va en el texto de cada votación.</p>
   </section>
-</div>
+
+  <!-- ===== Iniciativas ===== -->
+  <section class="panel" id="panel-ilp" role="tabpanel" aria-labelledby="tab-ilp" hidden>
+    <p class="lede">Leyes que propuso la gente con sus firmas y consultas que pidieron los vecinos: qué pasó con ellas y quién decidió. En el Congreso hacen falta 500.000 firmas; en los parlamentos autonómicos, bastantes menos.</p>
+    <div class="sel" style="padding-top:0">
+      <select id="ilpRes" aria-label="Resultado"><option value="">Cualquier resultado</option></select>
+      <select id="ilpAmb" aria-label="Parlamento"><option value="">Todos los parlamentos</option></select>
+      <select id="ilpPar" aria-label="Partido que la frenó"><option value="">Cualquier partido</option></select>
+    </div>
+    <div class="bar"><span class="mono muted" id="ilpStatus" aria-live="polite"></span></div>
+    <div id="ilpList"></div>
+    <p class="foot-note">Los partidos de cada iniciativa son quienes votaron en contra o la bloquearon. Bloqueada es la que se admitió a trámite pero no llegó a aprobarse: suele quedarse años en plazo de enmiendas, prórroga tras prórroga.</p>
+  </section>
+
+  <!-- ===== Cómo nos ha ido ===== -->
+  <section class="panel" id="panel-bienestar" role="tabpanel" aria-labelledby="tab-bienestar" hidden>
+    <p class="lede">Lo que se hace con nuestros impuestos se nota en la sanidad, el colegio, la vivienda, la dependencia y la factura de la luz. Datos oficiales año a año, de 2016 al último publicado. Una serie no prueba por sí sola que un gobierno lo hiciera bien o mal: cada indicador dice qué mide y qué no.</p>
+    <div class="sel" style="padding-top:0">
+      <select id="pilarSel" aria-label="Tema"></select>
+    </div>
+    <details class="fold" style="margin-top:24px">
+      <summary>Quién gobernaba cada comunidad</summary>
+      <div class="in" style="max-width:none">
+        <p class="muted">Partidos con consejeros en el gobierno autonómico a 31 de diciembre de cada año (en 2026, a día de hoy). En las tablas, al pasar el ratón por un dato se ve quién gobernaba ese año. Fuente: reales decretos de nombramiento (BOE) y dosieres del Senado.</p>
+        <div class="tw"><table class="serie" id="gobTable"></table></div>
+      </div>
+    </details>
+    <div class="bar" style="margin-top:0"><span class="mono muted" id="bienCount" aria-live="polite"></span></div>
+    <div id="bienList"></div>
+    <p class="foot-note">Todos los datos vienen de organismos oficiales: Ministerio de Sanidad, Ministerio de Educación, IMSERSO, INE, Ministerio de Vivienda, Banco de España y Eurostat. Euros corrientes salvo que se indique. Una casilla vacía es un dato que la fuente no publica; no se rellena ni se estima.</p>
+  </section>
+</main>
+
+<footer>
+  <div class="wrap">
+    <span>Fuentes completas en <a href="FUENTES.md">FUENTES.md</a> · Sin rankings ni conclusiones</span>
+    <button type="button" id="themeBtn">Cambiar a modo oscuro</button>
+  </div>
+</footer>
 
 <script>
-const PROOF = {
-  firme:{label:"Sentencia firme",cls:"pr-firme"},
-  tc:{label:"Tribunal Constitucional",cls:"pr-tc"},
-  org:{label:"Organismo oficial",cls:"pr-org"},
-  jud:{label:"Resolución judicial no firme",cls:"pr-inv"},
-  inv:{label:"Investigación judicial",cls:"pr-inv"},
-  med:{label:"Documentado en medios",cls:"pr-med"}
+const PROOF={
+  firme:{label:"Sentencia firme",k:1},
+  tc:{label:"Tribunal Constitucional",k:1},
+  org:{label:"Organismo oficial",k:2},
+  jud:{label:"Resolución no firme",k:2},
+  inv:{label:"Investigación judicial",k:3},
+  med:{label:"Documentado en medios",k:3}
 };
-const PARTIES = ["PSOE","PP","Vox","Podemos/UP","Sumar","Cs","ERC","Junts","Bildu","PNV","CC","Otros"];
+const PARTIES=["PSOE","PP","Vox","Podemos/UP","Sumar","Cs","ERC","Junts","Bildu","PNV","CC","Otros"];
+const $=id=>document.getElementById(id);
+function esc(s){return String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
+function srcList(src){return '<ul class="src">'+src.map(s=>'<li><a href="'+esc(s[1])+'" target="_blank" rel="noopener">'+esc(s[0])+'</a></li>').join("")+'</ul>'}
+function copyTo(btn,txt,label){
+  const done=()=>{btn.textContent="Copiado";setTimeout(()=>btn.textContent=label,1600)};
+  try{navigator.clipboard.writeText(txt).then(done).catch(()=>fallback(txt,btn))}catch(_){fallback(txt,btn)}
+}
+function fallback(txt,btn){
+  const ta=document.createElement("textarea");ta.value=txt;ta.style.width="100%";ta.rows=6;ta.setAttribute("aria-label","Texto para copiar");
+  btn.parentElement.after(ta);ta.focus();ta.select();btn.textContent="Selecciona y copia";
+}
 
+/* Tema: claro/oscuro con preferencia guardada por visitante */
+(function(){
+  const root=document.documentElement,btn=$("themeBtn");
+  let saved=null;try{saved=localStorage.getItem("rd-theme")}catch(_){}
+  if(saved)root.dataset.theme=saved;
+  const isDark=()=>root.dataset.theme?root.dataset.theme==="dark":matchMedia("(prefers-color-scheme: dark)").matches;
+  const label=()=>btn.textContent=isDark()?"Cambiar a modo claro":"Cambiar a modo oscuro";
+  label();
+  btn.addEventListener("click",()=>{root.dataset.theme=isDark()?"light":"dark";try{localStorage.setItem("rd-theme",root.dataset.theme)}catch(_){};label()});
+})();
 
 let DATA=[],VOTES=[],ILP=[],BIEN=[],GOB={};
-Promise.all(["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json","datos/bienestar.json"].map(u=>fetch(u).then(r=>{if(!r.ok)throw new Error(u);return r.json()})))
+Promise.all(["datos/fichas.json","datos/votaciones.json","datos/iniciativas.json","datos/bienestar.json"].map(u=>fetch(u,{cache:"no-cache"}).then(r=>{if(!r.ok)throw new Error(u);return r.json()})))
  .then(([d,v,i,b])=>{DATA=d;VOTES=v;ILP=i;BIEN=b.indicadores;GOB=b.gobiernos;init()})
- .catch(err=>{document.getElementById("list").innerHTML='<div class="empty">No se han podido cargar los datos ('+err.message+'). Recarga la página.</div>'});
+ .catch(err=>{$("list").innerHTML='<div class="empty">No se han podido cargar los datos ('+esc(err.message)+'). Recarga la página.</div>'});
+
 function init(){
-DATA.sort((a,b)=>a.d.localeCompare(b.d));
+/* ---------- Cabecera ---------- */
+const nParl=new Set(DATA.map(e=>e.a).filter(Boolean)).size;
+$("stats").innerHTML=[[DATA.length,"hechos documentados"],[VOTES.length,"votaciones del Congreso"],[ILP.length,"iniciativas ciudadanas"],[BIEN.length,"indicadores oficiales"]]
+  .map(([n,l])=>'<div class="stat"><b>'+n+'</b><span>'+l+'</span></div>').join("");
+$("n-registro").textContent=DATA.length;$("n-votaciones").textContent=VOTES.length;$("n-ilp").textContent=ILP.length;$("n-bienestar").textContent=BIEN.length;
 
-const state={parties:new Set(),proof:"",cat:"",amb:"",q:""};
-(function(){
-  const sel=document.getElementById("ambSel");
-  const n={};DATA.forEach(e=>{if(e.a)n[e.a]=(n[e.a]||0)+1});
-  const first=["Congreso","Senado"];
-  Object.keys(n).sort((x,y)=>(first.indexOf(x)+1||99)-(first.indexOf(y)+1||99)||x.localeCompare(y,"es")).forEach(a=>{const o=document.createElement("option");o.value=a;o.textContent=a+" ("+n[a]+")";sel.appendChild(o)});
-  sel.addEventListener("change",e=>{state.amb=e.target.value;render()});
-})();
-(function(){
-  const sel=document.getElementById("catSel");
-  const cats={};DATA.forEach(e=>{cats[e.c]=(cats[e.c]||0)+1});
-  Object.keys(cats).sort((a,b)=>a.localeCompare(b,"es")).forEach(c=>{
-    const o=document.createElement("option");o.value=c;o.textContent=c+" ("+cats[c]+")";sel.appendChild(o);
-  });
-  sel.addEventListener("change",e=>{state.cat=e.target.value;render()});
-})();
-const partyRow=document.getElementById("partyRow");
-const listEl=document.getElementById("list");
-const statusEl=document.getElementById("status");
+/* ---------- Registro ---------- */
+const state={parties:new Set(),proof:"",cat:"",amb:"",q:"",sort:"desc"};
+const fill=(id,counts,order,key)=>{const sel=$(id);order(Object.keys(counts)).forEach(k=>{const o=document.createElement("option");o.value=k;o.textContent=k+"  ·  "+counts[k];sel.appendChild(o)});sel.addEventListener("change",e=>{state[key]=e.target.value;render()})};
+const count=f=>{const c={};DATA.forEach(e=>{const k=f(e);if(k)c[k]=(c[k]||0)+1});return c};
+fill("catSel",count(e=>e.c),ks=>ks.sort((a,b)=>a.localeCompare(b,"es")),"cat");
+fill("ambSel",count(e=>e.a),ks=>ks.sort((x,y)=>(["Congreso","Senado"].indexOf(x)+1||99)-(["Congreso","Senado"].indexOf(y)+1||99)||x.localeCompare(y,"es")),"amb");
+$("proofSel").addEventListener("change",e=>{state.proof=e.target.value;render()});
+$("sortSel").addEventListener("change",e=>{state.sort=e.target.value;render()});
+let qT;$("q").addEventListener("input",e=>{clearTimeout(qT);qT=setTimeout(()=>{state.q=e.target.value.trim().toLowerCase();render()},120)});
 
-function countFor(p){return DATA.filter(e=>e.p.includes(p)).length}
-function mkChip(label,key){
-  const b=document.createElement("button");
-  b.type="button";b.className="chip";b.id="chip-"+key.replace(/\W/g,"");
-  b.setAttribute("aria-pressed","false");
-  b.innerHTML=label+(key!=="__all"?' <span class="n">'+countFor(key)+'</span>':"");
-  b.addEventListener("click",()=>{
-    if(key==="__all"){state.parties.clear()}
-    else{state.parties.has(key)?state.parties.delete(key):state.parties.add(key)}
-    render();
-  });
+const partyRow=$("partyRow");
+function mkTog(label,key){
+  const b=document.createElement("button");b.type="button";b.className="tog";b.setAttribute("aria-pressed","false");
+  b.innerHTML=esc(label)+(key?'<span class="n">'+DATA.filter(e=>e.p.includes(key)).length+'</span>':"");
+  b.addEventListener("click",()=>{if(!key)state.parties.clear();else state.parties.has(key)?state.parties.delete(key):state.parties.add(key);render()});
   partyRow.appendChild(b);return b;
 }
-const allChip=mkChip("Todos","__all");
-const chips=PARTIES.map(p=>[p,mkChip(p,p)]);
-
-document.getElementById("proofSel").addEventListener("change",e=>{state.proof=e.target.value;render()});
-document.getElementById("q").addEventListener("input",e=>{state.q=e.target.value.trim().toLowerCase();render()});
+const allTog=mkTog("Todos",null);
+const togs=PARTIES.map(p=>[p,mkTog(p,p)]);
 
 function matches(e){
   if(state.parties.size&&!e.p.some(p=>state.parties.has(p)))return false;
@@ -322,127 +367,111 @@ function matches(e){
   else if(state.proof&&e.pr!==state.proof)return false;
   if(state.cat&&e.c!==state.cat)return false;
   if(state.amb&&e.a!==state.amb)return false;
-  if(state.q){const hay=(e.t+" "+e.s+" "+e.n+" "+e.c+" "+e.p.join(" ")).toLowerCase();if(!hay.includes(state.q))return false}
+  if(state.q){const hay=(e.t+" "+e.s+" "+e.n+" "+e.c+" "+e.a+" "+e.p.join(" ")).toLowerCase();if(!hay.includes(state.q))return false}
   return true;
 }
-function esc(s){return s.replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]))}
-
 function redditText(e){
   return "**"+e.t+"** ("+e.dl+")\n\n"+e.s+"\n\n*Matiz:* "+e.n+"\n\nNivel de prueba: "+PROOF[e.pr].label+"\n\nFuentes: "+e.src.map(s=>"["+s[0]+"]("+s[1]+")").join(" · ");
 }
-
+const listEl=$("list");
 function render(){
-  allChip.setAttribute("aria-pressed",state.parties.size===0?"true":"false");
-  chips.forEach(([p,b])=>b.setAttribute("aria-pressed",state.parties.has(p)?"true":"false"));
-  const rows=DATA.filter(matches);
-  statusEl.textContent=rows.length+" de "+DATA.length+" fichas";
-  if(!rows.length){listEl.innerHTML='<div class="empty">Ninguna ficha con estos filtros todavía. Prueba a quitar alguno.</div>';return}
-  listEl.innerHTML=rows.map((e,i)=>`
-    <article class="entry">
-      <div class="date">${esc(e.dl)}</div>
-      <div class="body">
-        <div class="top"><span class="cat">${esc(e.c)}</span><span class="pill ${PROOF[e.pr].cls}">${PROOF[e.pr].label}</span></div>
-        <h2>${esc(e.t)}</h2>
-        <div class="meta">${e.p.map(p=>'<span class="party">'+esc(p)+'</span>').join("")}</div>
-        <p>${esc(e.s)}</p>
-        <p class="nuance">${esc(e.n)}</p>
-        <div class="foot">
-          <div class="sources">${e.src.map(s=>'<a href="'+s[1]+'" target="_blank" rel="noopener">'+esc(s[0])+'</a>').join("")}</div>
-          <button type="button" class="copy" data-i="${DATA.indexOf(e)}">Copiar para Reddit</button>
-        </div>
-      </div>
-    </article>`).join("");
+  allTog.setAttribute("aria-pressed",state.parties.size?"false":"true");
+  togs.forEach(([p,b])=>b.setAttribute("aria-pressed",state.parties.has(p)?"true":"false"));
+  const rows=DATA.map((e,i)=>[e,i]).filter(([e])=>matches(e)).sort(([a],[b])=>state.sort==="desc"?b.d.localeCompare(a.d):a.d.localeCompare(b.d));
+  $("status").textContent=rows.length===DATA.length?DATA.length+" fichas":rows.length+" de "+DATA.length+" fichas";
+  if(!rows.length){listEl.innerHTML='<div class="empty">Nada con estos filtros. Prueba a quitar alguno.</div>';return}
+  listEl.innerHTML=rows.map(([e,i])=>{const pr=PROOF[e.pr];return `
+  <details class="row">
+    <summary>
+      <span class="d">${esc(e.dl)}</span>
+      <span class="t">${esc(e.t)}<span class="who">${esc(e.p.join(" · "))}${e.a?"  —  "+esc(e.a):""}</span></span>
+      <span class="pr pr-${pr.k}">${pr.label}</span>
+    </summary>
+    <div class="x"><div>
+      <span class="cat">${esc(e.c)}</span>
+      <p>${esc(e.s)}</p>
+      <p class="matiz"><b>Matiz.</b> ${esc(e.n)}</p>
+      ${srcList(e.src)}
+      <div class="act"><button type="button" data-i="${i}">Copiar para Reddit</button></div>
+    </div></div>
+  </details>`}).join("");
 }
-listEl.addEventListener("click",ev=>{
-  const btn=ev.target.closest(".copy");if(!btn)return;
-  const txt=redditText(DATA[+btn.dataset.i]);
-  const done=()=>{btn.textContent="Copiado";setTimeout(()=>btn.textContent="Copiar para Reddit",1600)};
-  try{
-    navigator.clipboard.writeText(txt).then(done).catch(()=>fallback(txt,btn));
-  }catch(_){fallback(txt,btn)}
-});
-function fallback(txt,btn){
-  const ta=document.createElement("textarea");ta.value=txt;ta.style.width="100%";ta.rows=6;ta.setAttribute("aria-label","Texto para copiar");
-  btn.parentElement.after(ta);ta.focus();ta.select();btn.textContent="Selecciona y copia";
-}
+listEl.addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(b)copyTo(b,redditText(DATA[+b.dataset.i]),"Copiar para Reddit")});
+$("openAll").addEventListener("click",ev=>{const rows=listEl.querySelectorAll("details.row");const open=[...rows].some(r=>!r.open);rows.forEach(r=>r.open=open);ev.target.textContent=open?"Cerrar todas":"Abrir todas"});
 render();
 
 /* ---------- Votaciones ---------- */
 const VPARTIES=["PSOE","UP / Sumar","Podemos","PP","Vox","Cs","ERC","Junts","Bildu","PNV"];
-const VLABEL={si:"Sí",no:"No",ab:"Abst.",sd:"s/d"};
-VOTES.reverse(); /* la más reciente primero */
+const VLABEL={si:"A favor",no:"En contra",ab:"Abstención",sd:"Sin dato"};
+VOTES.reverse();
+const temaSel=$("temaSel");
 const TEMAS=[...new Set(VOTES.map(m=>m.tema))].sort((a,b)=>a.localeCompare(b,"es"));
-const temaSel=document.getElementById("temaSel");
 temaSel.innerHTML='<option value="">Todos los temas</option>'+TEMAS.map(t=>'<option value="'+esc(t)+'">'+esc(t)+'</option>').join("");
-function voteCell(x){return '<span class="v v-'+x+'">'+VLABEL[x]+'</span>'}
-function renderVotes(){
- const t=temaSel.value;
- const sel=VOTES.map((m,i)=>[m,i]).filter(([m])=>!t||m.tema===t);
- document.getElementById("voteCount").textContent=sel.length+" de "+VOTES.length+" votaciones";
- document.getElementById("votesTable").innerHTML=
-  '<thead><tr><th scope="col">Medida</th>'+VPARTIES.map(p=>'<th scope="col">'+p+'</th>').join("")+'</tr></thead><tbody>'+
-  sel.map(([m])=>'<tr><td><span class="mname">'+esc(m.m)+'</span><span class="mdate">'+esc(m.tema)+' · '+m.dl+' · '+esc(m.r)+'</span></td>'+VPARTIES.map(p=>'<td>'+voteCell(m.v[p]||"sd")+'</td>').join("")+'</tr>').join("")+'</tbody>';
- document.getElementById("voteList").innerHTML=sel.map(([m,i])=>voteEntry(m,i)).join("");
-}
+function cell(x,p){x=x||"sd";return '<i class="c c-'+x+'" role="img" aria-label="'+esc(p)+': '+VLABEL[x]+'" title="'+esc(p)+': '+VLABEL[x]+'"></i>'}
 function voteText(m){
   const pos={si:[],no:[],ab:[]};VPARTIES.forEach(p=>{const x=m.v[p];if(pos[x])pos[x].push(p)});
   return "**"+m.m+"** ("+m.dl+"): "+m.r+"\n\n"+m.s+"\n\nA favor: "+(pos.si.join(", ")||"-")+". En contra: "+(pos.no.join(", ")||"-")+(pos.ab.length?". Abstención: "+pos.ab.join(", "):"")+".\n\n*Contexto:* "+m.n+"\n\nFuentes: "+m.src.map(s=>"["+s[0]+"]("+s[1]+")").join(" · ");
 }
-function voteEntry(m,i){return `
-  <article class="entry">
-    <div class="date">${m.dl}</div>
-    <div class="body">
-      <div class="top"><span class="cat">${esc(m.tema)}</span><span class="cat">${esc(m.r)}</span></div>
-      <h2>${esc(m.m)}</h2>
+function renderVotes(){
+  const t=temaSel.value;
+  const sel=VOTES.map((m,i)=>[m,i]).filter(([m])=>!t||m.tema===t);
+  $("voteCount").textContent=sel.length+" de "+VOTES.length+" votaciones";
+  $("votesTable").innerHTML='<thead><tr><th scope="col">Medida</th>'+VPARTIES.map(p=>'<th scope="col">'+esc(p)+'</th>').join("")+'</tr></thead><tbody>'+
+    sel.map(([m,i])=>'<tr data-v="'+i+'"><td><span class="mn">'+esc(m.m)+'</span><span class="md">'+esc(m.dl)+' · '+esc(m.tema)+'</span></td>'+VPARTIES.map(p=>'<td>'+cell(m.v[p],p)+'</td>').join("")+'</tr>').join("")+'</tbody>';
+  $("voteList").innerHTML=sel.map(([m,i])=>`
+  <details class="row" id="v-${i}">
+    <summary>
+      <span class="d">${esc(m.dl)}</span>
+      <span class="t">${esc(m.m)}<span class="who">${esc(m.tema)}</span></span>
+      <span class="pr pr-2">${esc(m.r)}</span>
+    </summary>
+    <div class="x"><div>
       <p>${esc(m.s)}</p>
-      <p class="nuance">${esc(m.n)}</p>
-      <div class="foot">
-        <div class="sources">${m.src.map(s=>'<a href="'+s[1]+'" target="_blank" rel="noopener">'+esc(s[0])+'</a>').join("")}</div>
-        <button type="button" class="copy" data-v="${i}">Copiar para Reddit</button>
-      </div>
-    </div>
-  </article>`}
+      <p class="matiz"><b>Contexto.</b> ${esc(m.n)}</p>
+      ${srcList(m.src)}
+      <div class="act"><button type="button" data-v="${i}">Copiar para Reddit</button></div>
+    </div></div>
+  </details>`).join("");
+}
 temaSel.addEventListener("change",renderVotes);
 renderVotes();
-document.getElementById("voteList").addEventListener("click",ev=>{
-  const btn=ev.target.closest(".copy");if(!btn)return;
-  const txt=voteText(VOTES[+btn.dataset.v]);
-  const done=()=>{btn.textContent="Copiado";setTimeout(()=>btn.textContent="Copiar para Reddit",1600)};
-  try{navigator.clipboard.writeText(txt).then(done).catch(()=>fallback(txt,btn))}catch(_){fallback(txt,btn)}
-});
+$("votesTable").addEventListener("click",ev=>{const tr=ev.target.closest("tr[data-v]");if(!tr)return;const d=$("v-"+tr.dataset.v);d.open=true;d.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth",block:"start"})});
+$("voteList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(b)copyTo(b,voteText(VOTES[+b.dataset.v]),"Copiar para Reddit")});
 
-/* ---------- Iniciativas ciudadanas ---------- */
-const ILPRES={rech:["Rechazada","pr-inv"],bloq:["Bloqueada","pr-org"],apro:["Aprobada","pr-firme"],tram:["En trámite","pr-tc"],deneg:["Consulta denegada","pr-inv"],otro:["Otros","pr-med"]};
+/* ---------- Iniciativas ---------- */
+const ILPRES={rech:["Rechazada",1],bloq:["Bloqueada",1],apro:["Aprobada",2],tram:["En trámite",3],deneg:["Consulta denegada",1],otro:["Otros",3]};
 ILP.sort((a,b)=>b.d.localeCompare(a.d));
 const ilpState={res:"",amb:"",par:""};
 (function(){
-  const addOpts=(id,vals,label,key)=>{const sel=document.getElementById(id);vals.forEach(v=>{const o=document.createElement("option");o.value=v;o.textContent=label(v);sel.appendChild(o)});sel.addEventListener("change",e=>{ilpState[key]=e.target.value;renderILP()})};
+  const add=(id,vals,label,key)=>{const sel=$(id);vals.forEach(v=>{const o=document.createElement("option");o.value=v;o.textContent=label(v);sel.appendChild(o)});sel.addEventListener("change",e=>{ilpState[key]=e.target.value;renderILP()})};
   const cnt=f=>{const c={};ILP.forEach(i=>[].concat(f(i)).forEach(k=>{if(k)c[k]=(c[k]||0)+1}));return c};
-  const r=cnt(i=>i.res);addOpts("ilpRes",Object.keys(ILPRES).filter(k=>r[k]),k=>ILPRES[k][0]+" ("+r[k]+")","res");
-  const a=cnt(i=>i.a);addOpts("ilpAmb",Object.keys(a).sort((x,y)=>x.localeCompare(y,"es")),k=>k+" ("+a[k]+")","amb");
-  const p=cnt(i=>i.p);addOpts("ilpPar",PARTIES.filter(k=>p[k]),k=>k+" ("+p[k]+")","par");
+  const r=cnt(i=>i.res);add("ilpRes",Object.keys(ILPRES).filter(k=>r[k]),k=>ILPRES[k][0]+"  ·  "+r[k],"res");
+  const a=cnt(i=>i.a);add("ilpAmb",Object.keys(a).sort((x,y)=>x.localeCompare(y,"es")),k=>k+"  ·  "+a[k],"amb");
+  const p=cnt(i=>i.p);add("ilpPar",PARTIES.filter(k=>p[k]),k=>k+"  ·  "+p[k],"par");
 })();
 function renderILP(){
   const rows=ILP.filter(i=>(!ilpState.res||i.res===ilpState.res)&&(!ilpState.amb||i.a===ilpState.amb)&&(!ilpState.par||i.p.includes(ilpState.par)));
-  document.getElementById("ilpStatus").textContent=rows.length+" de "+ILP.length+" iniciativas";
-  document.getElementById("ilpList").innerHTML=rows.length?rows.map(i=>`
-  <article class="entry">
-    <div class="date">${esc(i.a)}</div>
-    <div class="body">
-      <div class="top"><span class="cat">${esc(i.f)}</span><span class="pill ${ILPRES[i.res][1]}">${ILPRES[i.res][0]}</span></div>
-      <h2>${esc(i.m)}</h2>
-      <p class="nuance" style="border-left:0;padding-left:0">Promotores: ${esc(i.pr)}</p>
-      <p><strong>Votación:</strong> ${esc(i.v)}</p>
+  $("ilpStatus").textContent=rows.length+" de "+ILP.length+" iniciativas";
+  $("ilpList").innerHTML=rows.length?rows.map(i=>`
+  <details class="row">
+    <summary>
+      <span class="d">${esc(i.d.slice(0,4))} · ${esc(i.a)}</span>
+      <span class="t">${esc(i.m)}<span class="who">${esc(i.f)}${i.p.length?"  —  "+esc(i.p.join(" · ")):""}</span></span>
+      <span class="pr pr-${ILPRES[i.res][1]}">${ILPRES[i.res][0]}</span>
+    </summary>
+    <div class="x"><div>
+      <span class="cat">Promotores: ${esc(i.pr)}</span>
+      <p><strong style="font-weight:500">Votación.</strong> ${esc(i.v)}</p>
       <p>${esc(i.s)}</p>
-      ${i.n?'<p class="nuance">'+esc(i.n)+'</p>':''}
-      <div class="foot"><div class="sources">${i.src.map(s=>'<a href="'+s[1]+'" target="_blank" rel="noopener">'+esc(s[0])+'</a>').join("")}</div></div>
-    </div>
-  </article>`).join(""):'<div class="empty">Ninguna iniciativa con estos filtros.</div>';
+      ${i.n?'<p class="matiz"><b>Matiz.</b> '+esc(i.n)+'</p>':''}
+      ${srcList(i.src)}
+    </div></div>
+  </details>`).join(""):'<div class="empty">Ninguna iniciativa con estos filtros.</div>';
 }
 renderILP();
 
 /* ---------- Cómo nos ha ido ---------- */
-const pilarSel=document.getElementById("pilarSel");
+const pilarSel=$("pilarSel");
 const PILARES=[...new Set(BIEN.map(i=>i.pilar))];
 pilarSel.innerHTML='<option value="">Todos los temas</option>'+PILARES.map(p=>'<option value="'+esc(p)+'">'+esc(p)+'</option>').join("");
 function decimales(ind){
@@ -452,58 +481,61 @@ function decimales(ind){
   return Math.min(dec,max>=1000?0:max>=100?1:2);
 }
 function fmt(v,d){return v==null?"–":v.toLocaleString("es-ES",{minimumFractionDigits:d,maximumFractionDigits:d})}
-function spark(ind){
-  const lines=ind.filas.filter(f=>f.ambito==="España"||f.ambito==="UE-27"||f.ambito==="Media de las comunidades");
+function spark(ind,d){
+  const lines=ind.filas.filter(f=>["España","UE-27","Media de las comunidades"].includes(f.ambito));
   if(!lines.length)return "";
-  const W=320,H=70,P=4,all=lines.flatMap(f=>f.valores).filter(v=>v!=null);
+  const W=560,H=120,PX=2,PT=10,PB=18,all=lines.flatMap(f=>f.valores).filter(v=>v!=null);
   const lo=Math.min(...all),hi=Math.max(...all),n=ind.periodos.length;
-  const x=i=>P+i*(W-2*P)/Math.max(n-1,1),y=v=>H-14-(hi===lo?0.5:(v-lo)/(hi-lo))*(H-24);
-  const col=["var(--fg)","var(--muted)","var(--fg)"];
-  const paths=lines.map((f,k)=>{let d="";f.valores.forEach((v,i)=>{if(v!=null)d+=(d?"L":"M")+x(i).toFixed(1)+" "+y(v).toFixed(1)});return '<path d="'+d+'" fill="none" stroke="'+col[k]+'" stroke-width="2"'+(f.ambito==="UE-27"?' stroke-dasharray="4 3"':"")+'/>'}).join("");
-  return '<svg class="spark" width="'+W+'" height="'+H+'" viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Evolución de '+esc(lines.map(f=>f.ambito).join(" y "))+'">'+paths+'<text x="'+P+'" y="'+(H-2)+'">'+esc(ind.periodos[0])+'</text><text x="'+(W-P)+'" y="'+(H-2)+'" text-anchor="end">'+esc(ind.periodos[n-1])+'</text></svg>'+
-    '<p class="mdate" style="margin:0">'+lines.map(f=>(f.ambito==="UE-27"?"- - ":"— ")+esc(f.ambito)).join(" · ")+'</p>';
+  const x=i=>PX+i*(W-2*PX-60)/Math.max(n-1,1),y=v=>PT+(hi===lo?.5:1-(v-lo)/(hi-lo))*(H-PT-PB);
+  const DASH=[""," stroke-dasharray=\"5 4\""," stroke-dasharray=\"1 3\""],KEY=["—— ","– – ","····· "];
+  const paths=lines.map((f,k)=>{let p="",last=null;f.valores.forEach((v,i)=>{if(v!=null){p+=(p?"L":"M")+x(i).toFixed(1)+" "+y(v).toFixed(1);last=[i,v]}});
+    const dash=DASH[k];
+    return '<path d="'+p+'" fill="none" stroke="currentColor" stroke-width="1.6"'+dash+'/>'+(last?'<circle cx="'+x(last[0]).toFixed(1)+'" cy="'+y(last[1]).toFixed(1)+'" r="2.5" fill="currentColor"/><text x="'+(x(last[0])+8).toFixed(1)+'" y="'+(y(last[1])+3.5).toFixed(1)+'">'+fmt(last[1],d)+'</text>':"")}).join("");
+  return '<svg class="spark" viewBox="0 0 '+W+' '+H+'" role="img" aria-label="Evolución de '+esc(lines.map(f=>f.ambito).join(", "))+'">'+
+    '<line x1="0" x2="'+(W-60)+'" y1="'+(H-PB+4)+'" y2="'+(H-PB+4)+'" stroke="var(--line)"/>'+paths+
+    '<text x="'+PX+'" y="'+(H-2)+'">'+esc(ind.periodos[0])+'</text><text x="'+(W-60)+'" y="'+(H-2)+'" text-anchor="end">'+esc(ind.periodos[n-1])+'</text></svg>'+
+    '<div class="keys">'+lines.map((f,k)=>'<span>'+KEY[k]+esc(f.ambito)+'</span>').join("")+'</div>';
 }
 function renderBien(){
   const p=pilarSel.value;
   const sel=BIEN.filter(i=>!p||i.pilar===p);
-  document.getElementById("bienCount").textContent=sel.length+" de "+BIEN.length+" indicadores";
-  document.getElementById("bienList").innerHTML=sel.map(ind=>{
-    const d=decimales(ind);
-    return `<article class="entry">
-    <div class="date">${esc(ind.pilar)}</div>
-    <div class="body">
-      <h2>${esc(ind.nombre)}</h2>
-      <p>${esc(ind.mide)} <span class="mdate" style="display:inline">(${esc(ind.unidad)})</span></p>
-      ${spark(ind)}
-      <div class="tablewrap"><table class="serie"><thead><tr><th scope="col"></th>${ind.periodos.map(x=>'<th scope="col">'+esc(x)+'</th>').join("")}</tr></thead><tbody>${
+  $("bienCount").textContent=sel.length+" de "+BIEN.length+" indicadores";
+  $("bienList").innerHTML=sel.map(ind=>{const d=decimales(ind);return `
+  <article class="ind">
+    <span class="mono muted">${esc(ind.pilar)} · ${esc(ind.unidad)}</span>
+    <h3>${esc(ind.nombre)}</h3>
+    <p class="mide">${esc(ind.mide)}</p>
+    ${spark(ind,d)}
+    <details class="fold" style="margin:0"><summary>Datos por comunidad</summary><div class="in" style="max-width:none">
+      <div class="tw"><table class="serie"><thead><tr><th scope="col"></th>${ind.periodos.map(x=>'<th scope="col">'+esc(x)+'</th>').join("")}</tr></thead><tbody>${
         ind.filas.map(f=>{const g=GOB[f.ambito.replace(/ \((hasta|desde) \d+\)$/,"")];return '<tr'+(["España","UE-27","Media de las comunidades"].includes(f.ambito)?' class="ref"':'')+'><td>'+esc(f.ambito)+'</td>'+f.valores.map((v,k)=>{const a=parseInt(ind.periodos[k],10);const t=g&&g[a]?' title="'+esc(f.ambito+", "+a+": gobernaba "+g[a])+'"':'';return '<td'+(v==null?' class="nd"':'')+t+'>'+fmt(v,d)+'</td>'}).join("")+'</tr>'}).join("")
       }</tbody></table></div>
-      <p class="nuance">${esc(ind.aviso)}</p>
-      <div class="foot"><div class="sources"><a href="${esc(ind.url)}" target="_blank" rel="noopener">${esc(ind.fuente)}</a></div></div>
-    </div>
+    </div></details>
+    <p class="aviso">${esc(ind.aviso)}</p>
+    <span class="mono muted">Fuente: <a href="${esc(ind.url)}" target="_blank" rel="noopener">${esc(ind.fuente)}</a></span>
   </article>`}).join("");
 }
 pilarSel.addEventListener("change",renderBien);
 renderBien();
 (function(){
   const anios=[...new Set(Object.values(GOB).flatMap(g=>Object.keys(g)))].sort();
-  document.getElementById("gobTable").innerHTML='<thead><tr><th scope="col"></th>'+anios.map(a=>'<th scope="col">'+a+'</th>').join("")+'</tr></thead><tbody>'+
+  $("gobTable").innerHTML='<thead><tr><th scope="col"></th>'+anios.map(a=>'<th scope="col">'+a+'</th>').join("")+'</tr></thead><tbody>'+
     Object.keys(GOB).sort((a,b)=>a.localeCompare(b,"es")).map(c=>'<tr><td>'+esc(c)+'</td>'+anios.map(a=>'<td style="text-align:left">'+esc(GOB[c][a]||"–")+'</td>').join("")+'</tr>').join("")+'</tbody>';
 })();
 
-/* ---------- Pestañas ---------- */
-const TABS={registro:["tab-registro","panel-registro"],votaciones:["tab-votaciones","panel-votaciones"],ilp:["tab-ilp","panel-ilp"],bienestar:["tab-bienestar","panel-bienestar"]};
-function showTab(k){
-  Object.entries(TABS).forEach(([key,[t,p]])=>{
-    const on=key===k;
-    document.getElementById(t).setAttribute("aria-selected",on?"true":"false");
-    document.getElementById(p).hidden=!on;
-  });
+/* ---------- Pestañas, con enlace directo (#votaciones, #iniciativas, #bienestar) ---------- */
+const TABS={registro:["tab-registro","panel-registro",""],votaciones:["tab-votaciones","panel-votaciones","#votaciones"],ilp:["tab-ilp","panel-ilp","#iniciativas"],bienestar:["tab-bienestar","panel-bienestar","#bienestar"]};
+function showTab(k,push){
+  Object.entries(TABS).forEach(([key,[t,p]])=>{const on=key===k;$(t).setAttribute("aria-selected",on?"true":"false");$(t).tabIndex=on?0:-1;$(p).hidden=!on});
+  if(push)history.replaceState(null,"",TABS[k][2]||location.pathname+location.search);
 }
-Object.entries(TABS).forEach(([k,[t]])=>document.getElementById(t).addEventListener("click",()=>showTab(k)));
-if(location.hash==="#votaciones")showTab("votaciones");
-if(location.hash==="#iniciativas")showTab("ilp");
-if(location.hash==="#bienestar")showTab("bienestar");
-
+Object.entries(TABS).forEach(([k,[t]])=>$(t).addEventListener("click",()=>{showTab(k,true);const nav=document.querySelector(".nav");if(nav.getBoundingClientRect().top<=0)window.scrollTo({top:nav.offsetTop})}));
+document.querySelector('[role="tablist"]').addEventListener("keydown",ev=>{
+  if(!["ArrowRight","ArrowLeft"].includes(ev.key))return;
+  const ks=Object.keys(TABS),cur=ks.findIndex(k=>$(TABS[k][0]).getAttribute("aria-selected")==="true");
+  const nx=ks[(cur+(ev.key==="ArrowRight"?1:ks.length-1))%ks.length];showTab(nx,true);$(TABS[nx][0]).focus();
+});
+const fromHash={"#votaciones":"votaciones","#iniciativas":"ilp","#bienestar":"bienestar"}[location.hash];
+showTab(fromHash||"registro",false);
 }
 </script>
