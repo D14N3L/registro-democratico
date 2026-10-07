@@ -461,15 +461,15 @@
  },
  {
   "d": "2021-07-08",
-  "dl": "2021 · 2026",
-  "t": "El PP reforma por lectura única la ley de Telemadrid y el TC declara que vulneró los derechos de la oposición",
+  "dl": "2021 – 2026",
+  "t": "El PP reforma dos veces por lectura única la ley de Telemadrid y el TC declara que vulneró los derechos de la oposición",
   "p": [
    "PP"
   ],
   "c": "Medios públicos y propaganda",
   "pr": "tc",
-  "s": "En 2021 el PP aprobó en la Asamblea de Madrid, con la abstención de Vox y por lectura única, una reforma de la ley de Telemadrid que cambió cómo se eligen la dirección y el consejo de administración: rebajó el número de votos exigido para desbloquear su designación, dejó la elección del consejo solo en manos de la Asamblea, permitió que el Gobierno nombrara un administrador provisional y supuso el cese automático del director, José Pablo López. En marzo de 2026 el Tribunal Constitucional, por 7 votos a 5, anuló los acuerdos de la Mesa y el Pleno y declaró que tramitarla por lectura única vulneró el derecho de los diputados socialistas al ejercicio del cargo.",
-  "n": "La sentencia es declarativa: la legislatura ya había terminado, el PSOE solo recurrió el procedimiento y la ley sigue en vigor. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. Votaron a favor los siete magistrados del bloque progresista y en contra los cinco del conservador.",
+  "s": "En 2021 el PP aprobó en la Asamblea de Madrid, con la abstención de Vox y por lectura única, una reforma de la ley de Telemadrid que cambió cómo se eligen la dirección y el consejo de administración: rebajó el número de votos exigido para desbloquear su designación, dejó la elección del consejo solo en manos de la Asamblea, permitió que el Gobierno nombrara un administrador provisional y supuso el cese automático del director, José Pablo López. En marzo de 2026 el Tribunal Constitucional, por 7 votos a 5, anuló los acuerdos de la Mesa y el Pleno y declaró que tramitarla por lectura única vulneró el derecho de los diputados socialistas al ejercicio del cargo. En 2022 el PP hizo otra reforma de la misma ley también por lectura única (Ley 3/2022), y en junio de 2026 el TC, de nuevo por 7 votos a 5, anuló los acuerdos de la Mesa y del Pleno porque privaron a los diputados de su derecho de enmienda (STC 48/2026).",
+  "n": "Las sentencias son declarativas: la legislatura ya había terminado, el PSOE solo recurrió el procedimiento y las leyes siguen en vigor. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. Votaron a favor los siete magistrados del bloque progresista y en contra los cinco del conservador; en 2026 firmaron votos particulares Enríquez, Espejel, Tolosa y Macías, y aparte Arnaldo.",
   "src": [
    [
     "Público: la sentencia del TC",
@@ -482,6 +482,10 @@
    [
     "elDiario.es: el registro de la ley",
     "https://www.eldiario.es/madrid/ayuso-registra-proposicion-ley-asamblea-cambiar-direccion-telemadrid_1_8059507.html"
+   ],
+   [
+    "BOE: STC 48/2026, segunda reforma",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16244"
    ]
   ],
   "a": "Madrid"
@@ -3421,15 +3425,18 @@
   "a": "Senado"
  },
  {
-  "d": "2016-09-30",
+  "d": "2016-02-18",
   "dl": "2016 – 2024",
-  "t": "Tres decretos-ley de los Gobiernos de Rajoy de 2016 y 2017, anulados después por el TC",
+  "t": "Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024",
   "p": ["PP"],
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
-  "s": "El TC anuló el Real Decreto-ley 2/2016, aprobado en funciones, sobre los pagos fraccionados del impuesto de sociedades (STC 78/2020); parte del artículo 3.1 del Real Decreto-ley 3/2016 (STC 11/2024), y dos preceptos del Real Decreto-ley 1/2017 sobre cláusulas suelo, entre ellos el inciso que limitaba su aplicación a personas físicas (STC 156/2021, recurso de Unidos Podemos).",
-  "n": "En los tres casos el motivo es haber usado el decreto-ley fuera de sus límites constitucionales, no un abuso de poder; las situaciones firmes no se revisan.",
+  "s": "Además de la amnistía fiscal, el armamento de Defensa y el Castor (fichas aparte), el TC anuló entre 2016 y 2024 preceptos de otros seis decretos-ley de Rajoy por usar el decreto-ley fuera de sus límites (art. 86.1 de la Constitución): los requisitos de las universidades del Real Decreto-ley 14/2012 de recortes educativos (STC 26/2016, recurso de la Junta de Andalucía); la reforma de la Ley de Subvenciones del Real Decreto-ley 7/2013, porque «no ha quedado acreditada la existencia de urgente y extraordinaria necesidad» (STC 70/2016, recurso del Gobierno de Canarias); varias disposiciones del Real Decreto-ley 5/2013 sobre los trabajadores de más edad (STC 61/2018, recurso del PSOE); el Real Decreto-ley 2/2016, aprobado en funciones, sobre los pagos fraccionados del impuesto de sociedades (STC 78/2020); parte del artículo 3.1 del Real Decreto-ley 3/2016 (STC 11/2024), y dos preceptos del Real Decreto-ley 1/2017 sobre cláusulas suelo, entre ellos el inciso que limitaba su aplicación a personas físicas (STC 156/2021, recurso de Unidos Podemos).",
+  "n": "En todos los casos el motivo es haber usado el decreto-ley fuera de sus límites constitucionales; el resto de cada norma se mantuvo y las situaciones firmes no se revisan. Hubo votos particulares discrepantes en la STC 26/2016 (Asua y Valdés) y en la 61/2018 (Valdés, Conde-Pumpido y Balaguer). Los Gobiernos de Sánchez también tienen decretos-ley anulados (ficha aparte).",
   "src": [
+   ["BOE: STC 26/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-2907"],
+   ["BOE: STC 70/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-4854"],
+   ["BOE: STC 61/2018", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-9537"],
    ["BOE: STC 78/2020", "https://www.boe.es/buscar/doc.php?id=BOE-A-2020-8959"],
    ["BOE: STC 11/2024", "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-3277"],
    ["BOE: STC 156/2021", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-17105"]
@@ -4152,5 +4159,223 @@
    ["Infobae (agencias): la Comisión Mixta insta a reforzar la gestión (oct 2026)", "https://www.infobae.com/espana/agencias/2026/10/06/la-comision-mixta-del-tribunal-de-cuentas-insta-a-cantabria-y-tres-ayuntamientos-a-reforzar-la-gestion-de-vivienda/"]
   ],
   "a": "Cantabria"
+ },
+ {
+  "d": "2016-07-07",
+  "dl": "2014 – 2016",
+  "t": "El Gobierno de Rajoy paga armamento de Defensa por decreto-ley y el TC lo anula dos veces",
+  "p": ["PP"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "El Gobierno de Rajoy aprobó por real decreto-ley créditos extraordinarios para pagar los programas especiales de armamento de Defensa: el Real Decreto-ley 10/2014 y el 7/2015, este último de 856,4 millones de euros. El TC anuló los dos (SSTC 126/2016 y 169/2016) a recurso de diputados del PSOE, IU y UPyD: el «recurso sistemático al decreto-ley» para financiar esos programas no se ajusta al artículo 86.1 de la Constitución, porque no había una urgencia que impidiera presupuestarlos.",
+  "n": "El TC limitó los efectos: no se anulan los pagos ya hechos, para proteger a los terceros de buena fe que contrataron con la Administración. Las sentencias no discuten el gasto, sino que se aprobara por decreto-ley en vez de en los presupuestos o por ley.",
+  "src": [
+   ["BOE: STC 126/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-7733"],
+   ["BOE: STC 169/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-10667"]
+  ],
+  "a": ""
+ },
+ {
+  "d": "2017-12-21",
+  "dl": "2014 – 2017",
+  "t": "Almacén de gas Castor: el TC anula la indemnización de 1.350 millones aprobada por decreto-ley y cargada al sistema gasista",
+  "p": ["PP"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "Tras los terremotos asociados al almacén Castor, frente a Castellón, el Gobierno de Rajoy aprobó el Real Decreto-ley 13/2014, que fijó una compensación de 1.350.729 miles de euros para la concesionaria, a pagar por Enagás y a recuperar después a través del sistema gasista, es decir, de los consumidores. En diciembre de 2017 el TC (STC 152/2017) anuló esos artículos a recurso del Parlament, la Generalitat y diputados del PSOE: aceptó que hubiera urgencia por los seísmos, pero la compensación y su cobro al sistema gasista no guardaban la necesaria «conexión de sentido» con esa urgencia.",
+  "n": "El TC avaló el resto del decreto-ley y anuló solo la parte de la compensación y su pago. No hubo votos particulares.",
+  "src": [
+   ["BOE: STC 152/2017", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-614"]
+  ],
+  "a": ""
+ },
+ {
+  "d": "2016-07-07",
+  "dl": "2005 – 2016",
+  "t": "El TC anula entero un decreto-ley del Gobierno de Zapatero sobre el patrimonio sindical",
+  "p": ["PSOE"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "El Real Decreto-ley 13/2005, del Gobierno de Zapatero, modificó la ley de cesión a los sindicatos de los bienes del patrimonio sindical acumulado. A recurso de 81 diputados del Grupo Popular, el TC lo declaró inconstitucional y nulo en 2016 (STC 125/2016) porque se dictó sin que concurriera la extraordinaria y urgente necesidad que exige el artículo 86.1 de la Constitución.",
+  "n": "Entra en el registro porque la sentencia es de 2016, aunque el decreto-ley es de 2005: once años de espera. El TC limitó los efectos para no deshacer las situaciones ya consolidadas.",
+  "src": [
+   ["BOE: STC 125/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-7732"]
+  ],
+  "a": ""
+ },
+ {
+  "d": "2021-05-13",
+  "dl": "mar 2020 – may 2021",
+  "t": "El Gobierno mete a Pablo Iglesias en la comisión del CNI en un decreto-ley del covid y el TC lo anula",
+  "p": ["PSOE", "Podemos/UP"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "El Real Decreto-ley 8/2020, el primero de medidas económicas por la pandemia, incluyó una disposición final que daba entrada en la Comisión Delegada del Gobierno para Asuntos de Inteligencia al vicepresidente segundo, Pablo Iglesias, y al director del Gabinete de la Presidencia. A recurso de Vox, el TC la anuló en mayo de 2021 (STC 110/2021): no guardaba «relación discernible, ni directa ni indirecta» con la emergencia sanitaria.",
+  "n": "Voto particular discrepante del magistrado Conde-Pumpido. El resto del decreto-ley no se recurrió aquí. Un recurso posterior del PP sobre la misma disposición se extinguió porque ya estaba anulada (STC 124/2021).",
+  "src": [
+   ["BOE: STC 110/2021", "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10023"]
+  ],
+  "a": ""
+ },
+ {
+  "d": "2020-01-28",
+  "dl": "2020 – 2026",
+  "t": "Tres decretos-ley de los Gobiernos de Sánchez, anulados en parte por el TC",
+  "p": ["PSOE", "Podemos/UP"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "Además de la disposición sobre el CNI (ficha aparte), el TC anuló preceptos de tres decretos-ley de Sánchez por usarlos fuera de sus límites (art. 86.1 de la Constitución): dos disposiciones sobre suelo para alquiler y convenios de transporte del Real Decreto-ley 7/2019 de vivienda, porque «no se justifica el desplazamiento de la potestad legislativa de las Cortes» (STC 14/2020, recurso del PP; Gobierno del PSOE en solitario); el traspaso de la gestión de las clases pasivas al INSS del Real Decreto-ley 15/2020, por falta de urgencia (STC 111/2021, recurso de senadores del PP; Gobierno de PSOE y Unidas Podemos), y dos mandatos de la reforma laboral del Real Decreto-ley 32/2021, el de convocar el diálogo social sobre el estatuto del becario y el de un reglamento de seguridad y salud de los menores trabajadores (STC 40/2026, recurso de Vox).",
+  "n": "En los tres casos el TC avaló el resto de la norma: la reforma laboral quedó en vigor, y el TC rechazó también la queja de Vox por el voto telemático erróneo de un diputado del PP en la convalidación. En clases pasivas difirió la nulidad al 1 de enero de 2022 para que se pudiera sustituir la regulación; hubo voto particular de Conde-Pumpido. Otros decretos-ley de Sánchez recurridos por PP o Vox fueron avalados, entre ellos los de la plusvalía municipal, los riders, la temporalidad en el empleo público y el de igualdad entre mujeres y hombres en el empleo.",
+  "src": [
+   ["BOE: STC 14/2020", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-2941"],
+   ["BOE: STC 111/2021", "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10024"],
+   ["BOE: STC 40/2026", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-13752"]
+  ],
+  "a": ""
+ },
+ {
+  "d": "2016-06-23",
+  "dl": "2016 – 2024",
+  "t": "Leyes de presupuestos con normas ajenas al presupuesto: el TC anula preceptos de los Gobiernos de Rajoy y de Sánchez",
+  "p": ["PP", "PSOE", "Podemos/UP"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "La Constitución limita lo que puede ir en una ley de presupuestos, porque se tramita con plazos y enmiendas restringidos. El TC anuló por ese motivo una disposición sobre prestaciones de la Seguridad Social metida en los presupuestos de 2014 (STC 123/2016, cuestión del TSJ del País Vasco) y dos sobre contratación de personal laboral en los de 2017 (STC 122/2018, recurso de Unidos Podemos), ambas de Rajoy; y dos disposiciones finales de los presupuestos de 2022 del Gobierno de PSOE y Unidas Podemos: una cuestionada por el TSJ de Madrid (STC 145/2022) y otra sobre los funcionarios habilitados nacionales en el País Vasco (STC 67/2024, recurso del PP).",
+  "n": "En la STC 67/2024 el TC protegió los procesos selectivos y nombramientos ya hechos; hubo voto particular de Balaguer. No se ha encontrado ninguna ley estatal anulada por enmiendas intrusas o por lectura única entre 2016 y 2026.",
+  "src": [
+   ["BOE: STC 123/2016", "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7300"],
+   ["BOE: STC 122/2018", "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16723"],
+   ["BOE: STC 145/2022", "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-22247"],
+   ["BOE: STC 67/2024", "https://www.boe.es/buscar/doc.php?id=BOE-A-2024-10945"]
+  ],
+  "a": ""
+ },
+ {
+  "d": "2016-03-03",
+  "dl": "2013 – 2016",
+  "t": "Baleares: el TC anula en parte el decreto-ley del Gobierno de Bauzá para implantar el TIL",
+  "p": ["PP"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "El Govern del PP de José Ramón Bauzá aprobó en septiembre de 2013 el Decreto-ley 5/2013 para aplicar el tratamiento integrado de lenguas (TIL) en el curso 2013-2014. A recurso de senadores del PSOE, el TC anuló en 2016 varios preceptos (STC 38/2016) porque su contenido era «ajeno, o cuando menos muy alejado» de la urgencia que justificaba el decreto-ley y podía tramitarse por la vía ordinaria.",
+  "n": "El TC avaló el resto del decreto-ley, incluido el calendario escolar. Entra en el registro porque la sentencia es de 2016.",
+  "src": [
+   ["BOE: STC 38/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-3404"]
+  ],
+  "a": "Baleares"
+ },
+ {
+  "d": "2021-01-28",
+  "dl": "dic 2019 – ene 2021",
+  "t": "Cataluña: el TC anula parte del decreto-ley de vivienda del Govern de Torra por afectar al derecho de propiedad",
+  "p": ["Junts", "ERC"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "El Govern de JxCat y ERC aprobó el Decreto-ley 17/2019, que obligaba a ofrecer alquiler social y permitía multas y la expropiación temporal del uso de viviendas vacías. A recurso del PP, el TC anuló en 2021 una quincena de preceptos (STC 16/2021) porque afectaban al derecho de propiedad, algo vedado al decreto-ley por el artículo 86.1 de la Constitución y el 64.1 del Estatuto.",
+  "n": "El TC aceptó que había urgencia y avaló el resto del decreto-ley. La propia sentencia recuerda que un decreto-ley anterior de contenido parecido (5/2019) decayó porque el Parlament no lo convalidó. No hubo votos particulares.",
+  "src": [
+   ["BOE: STC 16/2021", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-2835"]
+  ],
+  "a": "Cataluña"
+ },
+ {
+  "d": "2024-09-10",
+  "dl": "mar 2023 – sep 2024",
+  "t": "Aragón: el TC anula entero el decreto-ley de transición energética del Gobierno de Lambán, recurrido por el Gobierno de Sánchez",
+  "p": ["PSOE", "Podemos/UP", "Otros"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "El Gobierno de Javier Lambán (PSOE, Podemos, CHA y PAR) aprobó en marzo de 2023 el Decreto-ley 1/2023 de transición energética y consumo de cercanía. El presidente del Gobierno lo recurrió y en septiembre de 2024 el TC lo anuló entero (STC 113/2024): «no se ha justificado que estemos ante casos objetivos de urgente y extraordinaria necesidad».",
+  "n": "Es un Gobierno del PSOE recurriendo un decreto-ley de un Gobierno autonómico del PSOE. El TC no entró en el motivo de competencias. No hubo votos particulares.",
+  "src": [
+   ["BOE: STC 113/2024", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-20905"]
+  ],
+  "a": "Aragón"
+ },
+ {
+  "d": "2024-10-09",
+  "dl": "jul 2021 – oct 2024",
+  "t": "Cataluña: el TC anula entero el fondo de riesgos del Govern para avalar a cargos públicos, creado por decreto-ley",
+  "p": ["ERC", "Junts"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "El Govern de Pere Aragonès (ERC y Junts) creó en julio de 2021, por el Decreto-ley 15/2021, un fondo complementario de riesgos para avalar a altos cargos, miembros del Gobierno y empleados públicos ante perjuicios económicos que les reclamaran la jurisdicción penal o la contable (el Tribunal de Cuentas). A recurso de Vox, el TC lo anuló entero en octubre de 2024 (STC 121/2024) porque no se justificó la extraordinaria y urgente necesidad.",
+  "n": "Los recurrentes sostenían que el fondo se creó para cubrir las fianzas que el Tribunal de Cuentas reclamaba a excargos del procés. La sentencia se basa solo en la falta de urgencia; hubo votos concurrentes de Enríquez y Tolosa, y de Arnaldo, Espejel y Macías, que querían entrar en más motivos. Un recurso del PP contra el mismo decreto-ley se extinguió.",
+  "src": [
+   ["BOE: STC 121/2024", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-23945"]
+  ],
+  "a": "Cataluña"
+ },
+ {
+  "d": "2024-11-19",
+  "dl": "may 2021 – nov 2024",
+  "t": "Baleares: el TC anula las restricciones covid del Govern de Armengol aprobadas por decreto-ley",
+  "p": ["PSOE", "Podemos/UP", "Otros"],
+  "c": "Derechos fundamentales y control judicial",
+  "pr": "tc",
+  "s": "El Govern de Francina Armengol (PSIB, Unidas Podemos y Més) reformó en mayo de 2021, por el Decreto-ley 5/2021, la ley balear de salud pública para poder imponer aislamientos, cuarentenas, limitaciones de desplazamientos y de reuniones y cribados. A recurso de Vox, el TC anuló esas medidas en noviembre de 2024 (STC 141/2024): afectaban a derechos fundamentales, algo vedado al decreto-ley, y algunas requerían ley orgánica.",
+  "n": "El TC siguió el mismo criterio que con la ley de salud de Galicia del PP (STC 136/2024) y la ley antipandemia vasca. El resto del decreto-ley se mantuvo. No hubo votos particulares.",
+  "src": [
+   ["BOE: STC 141/2024", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-27139"]
+  ],
+  "a": "Baleares"
+ },
+ {
+  "d": "2025-02-11",
+  "dl": "mar 2020 – feb 2025",
+  "t": "Andalucía: el TC anula parte del decreto-ley de simplificación del Gobierno de PP y Cs",
+  "p": ["PP", "Cs"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "El Gobierno de Juanma Moreno (PP y Cs) aprobó en marzo de 2020 el Decreto-ley 2/2020 de simplificación administrativa, convalidado por la Diputación Permanente del Parlamento en plena pandemia. A recurso de senadores del PSOE, el TC anuló en 2025 cuatro artículos (STC 40/2025): tres porque el Gobierno andaluz «no ha justificado específicamente» la urgencia para cambiar reglamentos por decreto-ley, y el que cambiaba las funciones del Consejo Audiovisual, materia que el Estatuto reserva a ley del Parlamento.",
+  "n": "El TC avaló el resto y la convalidación por la Diputación Permanente. Los magistrados Campo, y Balaguer y Sáez, discreparon de la fundamentación porque entendían que esa convalidación vulneraba el principio democrático.",
+  "src": [
+   ["BOE: STC 40/2025", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-5737"]
+  ],
+  "a": "Andalucía"
+ },
+ {
+  "d": "2025-04-09",
+  "dl": "sep 2021 – abr 2025",
+  "t": "Canarias: el TC anula los aislamientos y cuarentenas del decreto-ley covid del Gobierno de Torres",
+  "p": ["PSOE", "Podemos/UP", "Otros"],
+  "c": "Derechos fundamentales y control judicial",
+  "pr": "tc",
+  "s": "El Gobierno de Ángel Víctor Torres (PSOE, NC, Podemos y ASG) aprobó en septiembre de 2021 el Decreto-ley 11/2021 de alerta sanitaria. A recurso de Vox, el TC anuló en 2025 los preceptos sobre aislamiento, cuarentena y permanencia en el domicilio (STC 95/2025): afectaban a la libertad personal (art. 17.1 de la Constitución), lo que supone infringir el límite material del decreto-ley.",
+  "n": "El TC avaló el resto del decreto-ley. No hubo votos particulares.",
+  "src": [
+   ["BOE: STC 95/2025", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-9639"]
+  ],
+  "a": "Canarias"
+ },
+ {
+  "d": "2026-03-25",
+  "dl": "dic 2024 – mar 2026",
+  "t": "Baleares: el TC dice que el Govern de Prohens no puede usar un decreto-ley para corregir una votación del Parlament",
+  "p": ["PP"],
+  "c": "Incumplimiento de leyes y sentencias",
+  "pr": "tc",
+  "s": "En diciembre de 2024 el PP aprobó por error 34 enmiendas de Vox en la ley balear de simplificación (Ley 7/2024), entre ellas algunas sobre el catalán en la sanidad pública. Dos días después, el Govern de Marga Prohens (PP) las revirtió con el Decreto-ley 5/2024. A recurso de diputados del Congreso de varios grupos, el TC anuló en 2026 esos preceptos (STC 28/2026): usar el decreto-ley para eso equivaldría a tratarlo como «un mecanismo gubernamental para enmendar la actuación legislativa del parlamento autonómico».",
+  "n": "El efecto práctico es casi nulo: la Ley 4/2025 ya había derogado esos preceptos, y el TC solo juzgó el uso del decreto-ley. Según el Govern, todos los grupos del Parlament salvo Vox, autor de las enmiendas, reconocían que la votación fue un error. Voto particular discrepante de Macías, que sí veía urgencia, y concurrente de Arnaldo.",
+  "src": [
+   ["BOE: STC 28/2026", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9593"],
+   ["elDiario.es: las enmiendas aprobadas por error", "https://www.eldiario.es/illes-balears/politica/parlament-balear-tumba-enmiendas-vox-catalan-medio-ambiente-pp-aprobo-error_1_11908295.html"]
+  ],
+  "a": "Baleares"
+ },
+ {
+  "d": "2026-07-08",
+  "dl": "oct 2020 – jul 2026",
+  "t": "Asamblea de Madrid: PP y Cs aprueban por lectura única la reforma de la Ley del Suelo y el TC declara que vulneró los derechos de la oposición",
+  "p": ["PP", "Cs"],
+  "c": "Control parlamentario",
+  "pr": "tc",
+  "s": "En octubre de 2020 la mayoría de PP y Cs tramitó por lectura única, sin plazo de enmiendas, el proyecto del Gobierno de Ayuso que reformaba la Ley del Suelo de la Comunidad de Madrid (Ley 1/2020). A recurso de amparo de Más Madrid, el TC declaró en julio de 2026 que se vulneró el derecho de sus diputados al ejercicio del cargo (art. 23.2 de la Constitución) (STC 51/2026).",
+  "n": "El TC rechazó repetir las votaciones o indemnizar: la sentencia es declarativa. Un recurso de inconstitucionalidad del PSOE contra la misma ley se había extinguido porque la ley ómnibus de 2022 la derogó (STC 29/2024). Cinco magistrados firmaron un voto particular en contra (Enríquez, Arnaldo, Espejel, Tolosa y Macías). Es el mismo patrón que las reformas de Telemadrid (ficha aparte).",
+  "src": [
+   ["BOE: STC 51/2026", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16926"],
+   ["BOE: STC 29/2024", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6671"]
+  ],
+  "a": "Madrid"
  }
 ]
