@@ -370,7 +370,7 @@ function matches(e){
   if(state.q){const hay=(e.t+" "+e.s+" "+e.n+" "+e.c+" "+e.a+" "+e.p.join(" ")).toLowerCase();if(!hay.includes(state.q))return false}
   return true;
 }
-function redditText(e){
+function shareText(e){
   return "**"+e.t+"** ("+e.dl+")\n\n"+e.s+"\n\n*Matiz:* "+e.n+"\n\nNivel de prueba: "+PROOF[e.pr].label+"\n\nFuentes: "+e.src.map(s=>"["+s[0]+"]("+s[1]+")").join(" · ");
 }
 const listEl=$("list");
@@ -392,11 +392,11 @@ function render(){
       <p>${esc(e.s)}</p>
       <p class="matiz"><b>Matiz.</b> ${esc(e.n)}</p>
       ${srcList(e.src)}
-      <div class="act"><button type="button" data-i="${i}">Copiar para Reddit</button></div>
+      <div class="act"><button type="button" data-i="${i}">Copiar para compartir</button></div>
     </div></div>
   </details>`}).join("");
 }
-listEl.addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(b)copyTo(b,redditText(DATA[+b.dataset.i]),"Copiar para Reddit")});
+listEl.addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(b)copyTo(b,shareText(DATA[+b.dataset.i]),"Copiar para compartir")});
 $("openAll").addEventListener("click",ev=>{const rows=listEl.querySelectorAll("details.row");const open=[...rows].some(r=>!r.open);rows.forEach(r=>r.open=open);ev.target.textContent=open?"Cerrar todas":"Abrir todas"});
 render();
 
@@ -429,14 +429,14 @@ function renderVotes(){
       <p>${esc(m.s)}</p>
       <p class="matiz"><b>Contexto.</b> ${esc(m.n)}</p>
       ${srcList(m.src)}
-      <div class="act"><button type="button" data-v="${i}">Copiar para Reddit</button></div>
+      <div class="act"><button type="button" data-v="${i}">Copiar para compartir</button></div>
     </div></div>
   </details>`).join("");
 }
 temaSel.addEventListener("change",renderVotes);
 renderVotes();
 $("votesTable").addEventListener("click",ev=>{const tr=ev.target.closest("tr[data-v]");if(!tr)return;const d=$("v-"+tr.dataset.v);d.open=true;d.scrollIntoView({behavior:matchMedia("(prefers-reduced-motion: reduce)").matches?"auto":"smooth",block:"start"})});
-$("voteList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(b)copyTo(b,voteText(VOTES[+b.dataset.v]),"Copiar para Reddit")});
+$("voteList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(b)copyTo(b,voteText(VOTES[+b.dataset.v]),"Copiar para compartir")});
 
 /* ---------- Iniciativas ---------- */
 const ILPRES={rech:["Rechazada",1],bloq:["Bloqueada",1],apro:["Aprobada",2],tram:["En trámite",3],deneg:["Consulta denegada",1],otro:["Otros",3]};
