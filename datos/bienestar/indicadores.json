@@ -244,6 +244,64 @@
   "aviso": "España 2024 es provisional."
  },
  {
+  "id": "pen_media",
+  "pilar": "Pensiones",
+  "nombre": "Pensión media de jubilación",
+  "unidad": "euros al mes",
+  "serie": "ss_pension_media_jubilacion_ccaa.json",
+  "mide": "Lo que cobra de media al mes una pensión de jubilación de la Seguridad Social, en toda España y en cada comunidad, a 1 de diciembre de cada año.",
+  "aviso": "Euros corrientes, sin descontar la inflación: compárala con la gráfica de subida de las pensiones frente al IPC. Las diferencias entre comunidades dependen sobre todo de los salarios y las carreras de cotización de cada territorio. El último dato es de septiembre de 2026, no de diciembre."
+ },
+ {
+  "id": "pen_reval_ipc",
+  "pilar": "Pensiones",
+  "nombre": "Subida de las pensiones frente a la subida de los precios",
+  "unidad": "%",
+  "serie": "revalorizacion_pensiones_ipc.json",
+  "claves": {"Subida general de las pensiones": "revalorizacion.España", "IPC de diciembre sobre diciembre": "ipc_diciembre.España"},
+  "mide": "Cuánto subieron por ley las pensiones contributivas cada año y cuánto subieron los precios ese mismo año. Si los precios suben más que la pensión, el pensionista pierde poder de compra.",
+  "aviso": "La subida de cada año se fija antes de conocer el IPC de ese año. Por 2018 y por 2021 hubo pagas compensatorias por la desviación del IPC que no aparecen aquí. De 2016 a 2018 la ley garantizaba solo un 0,25 % mínimo; desde 2022 la subida es la media del IPC de diciembre a noviembre del año anterior, que no tiene por qué coincidir con el IPC de diciembre que ves aquí. Las pensiones mínimas y no contributivas subieron más en varios años. El IPC de 2026 todavía no se conoce."
+ },
+ {
+  "id": "pen_min_smi",
+  "pilar": "Pensiones",
+  "nombre": "Pensión mínima de jubilación frente al salario mínimo",
+  "unidad": "euros al año",
+  "serie": "pension_minima_smi.json",
+  "claves": {"Pensión mínima de jubilación (65 años, con cónyuge a cargo)": "pension_minima_anual.España", "Salario mínimo interprofesional": "smi_anual.España"},
+  "mide": "La cuantía anual de la pensión mínima de jubilación y del salario mínimo que fija el BOE cada año.",
+  "aviso": "Son las cuantías anuales del BOE (14 pagas). La pensión mínima varía según la edad y si hay cónyuge a cargo: aquí está la de 65 años con cónyuge a cargo. En 2018 y 2022 la cuantía cambió a mitad de año; se recoge la que se acabó pagando. No la cobra todo el mundo: es un complemento para quien no supera un límite de ingresos."
+ },
+ {
+  "id": "pen_afiliados",
+  "pilar": "Pensiones",
+  "nombre": "Afiliados a la Seguridad Social y pensiones que se pagan",
+  "unidad": "personas y pensiones",
+  "serie": "ss_afiliados_por_pensionista.json",
+  "claves": {"Afiliados (media de diciembre)": "afiliados", "Pensiones contributivas en vigor": "pensiones"},
+  "mide": "Cuántas personas cotizan a la Seguridad Social y cuántas pensiones contributivas se pagan. Si divides una cifra por la otra tienes cuántos cotizan por cada pensión.",
+  "aviso": "Cuenta pensiones, no pensionistas: hay personas que cobran más de una. No incluye las pensiones no contributivas ni las de Clases Pasivas de los funcionarios. Diciembre de 2020 está afectado por la pandemia. El último dato es de septiembre de 2026."
+ },
+ {
+  "id": "pen_fondo_reserva",
+  "pilar": "Pensiones",
+  "nombre": "Fondo de Reserva de la Seguridad Social («la hucha de las pensiones»)",
+  "unidad": "millones de euros, a 31 de diciembre",
+  "serie": "ss_fondo_reserva.json",
+  "mide": "El dinero que quedaba en el fondo creado para pagar las pensiones en los años de déficit.",
+  "aviso": "Entre 2012 y 2019 se retiraron del fondo 80.337 millones para pagar pensiones; la última retirada fue en 2019. Desde 2023 vuelve a crecer con las aportaciones del Mecanismo de Equidad Intergeneracional. Valor a precio de adquisición, según el informe anual del Fondo a las Cortes."
+ },
+ {
+  "id": "pen_gasto_pib",
+  "pilar": "Pensiones",
+  "nombre": "Gasto en pensiones",
+  "unidad": "% del PIB",
+  "serie": "eurostat_gasto_pensiones_es_ue.json",
+  "claves": {"España": "total.España", "UE-27": "total.UE-27"},
+  "mide": "Lo que gasta el país en pensiones (jubilación, viudedad e incapacidad) en relación con lo que produce, frente a la media de la Unión Europea.",
+  "aviso": "Definición de Eurostat, que incluye pensiones públicas de todo tipo y no coincide con el gasto de la Seguridad Social. El salto de 2020 se debe sobre todo a la caída del PIB por la pandemia."
+ },
+ {
   "id": "hue_jornadas",
   "pilar": "Huelgas",
   "nombre": "Jornadas de trabajo perdidas por huelga",

@@ -38,7 +38,9 @@ const salida = indicadores.map((ind) => {
   const s = JSON.parse(fs.readFileSync(path.join(dir, "bienestar", "series", ind.serie), "utf8"));
   let datos = s.valores;
   for (const k of ind.ruta || []) datos = datos[k];
-  if (ind.claves) datos = Object.fromEntries(Object.entries(ind.claves).map(([amb, clave]) => [amb, s.valores[clave]]));
+  // Una clave puede ser una ruta con puntos («revalorizacion.España») para series anidadas.
+  if (ind.claves) datos = Object.fromEntries(Object.entries(ind.claves).map(([amb, clave]) =>
+    [amb, s.valores[clave] ?? clave.split(".").reduce((o, k) => (o ? o[k] : undefined), s.valores)]));
   if (ind.ue) datos = { ...datos, "UE-27": s[ind.ue] };
   const re = ind.periodos ? new RegExp(ind.periodos) : null;
   const filas = {};

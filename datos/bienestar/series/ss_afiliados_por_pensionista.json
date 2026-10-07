@@ -1,0 +1,64 @@
+{
+ "id": "ss_afiliados_por_pensionista",
+ "nombre": "Afiliados a la Seguridad Social y pensiones contributivas en vigor (España)",
+ "unidad": "personas (afiliados medios del mes) y número de pensiones",
+ "definicion": "afiliados: afiliados medios en alta laboral del mes de diciembre, Total Sistema (media de los afiliados de cada día del mes). pensiones: número de pensiones contributivas en vigor a 1 de diciembre, Total Sistema (todas las clases: incapacidad permanente, jubilación, viudedad, orfandad y favor de familiares). El periodo 2026-09 usa septiembre de 2026 para ambas series.",
+ "fuente": "Seguridad Social. Afiliados: 'Serie afiliación media por regímenes (Total Sistema)' (Estadísticas de afiliación, afiliados medios totales). Pensiones: ficheros 'Pensiones por CCAA y provincias' del INSS (fila Total, columna Total pensiones / Número), los mismos de ss_pension_media_jubilacion_ccaa.",
+ "url": {
+  "afiliados": "https://www.seg-social.es/wps/wcm/connect/wss/5ccf558a-868f-48b3-b832-04fe9f524960/19_Serie+afiliaci%C3%B3n+media+por+reg%C3%ADmenes+%28Total+Sistema%29.xlsx?MOD=AJPERES",
+  "pensiones": {
+   "2016": "https://www.seg-social.es/wps/wcm/connect/wss/3c813bf5-d2cc-4b1f-b688-930c70c42f26/CA2201612.xlsx?MOD=AJPERES",
+   "2017": "https://www.seg-social.es/wps/wcm/connect/wss/eb692a15-e6a1-434e-b358-e85a87aab264/CA2201712.xlsx?MOD=AJPERES",
+   "2018": "https://www.seg-social.es/wps/wcm/connect/wss/1653a156-895e-409f-b07f-608d4a5ae5e7/CA2201812.xlsx?MOD=AJPERES",
+   "2019": "https://www.seg-social.es/wps/wcm/connect/wss/fa5b5655-4db6-407b-a485-ac17795af28a/CA2201912.xlsx?MOD=AJPERES",
+   "2020": "https://www.seg-social.es/wps/wcm/connect/wss/9f436b35-c949-4883-a1c7-a455701c5372/CA202012.xlsx?MOD=AJPERES",
+   "2021": "https://www.seg-social.es/wps/wcm/connect/wss/3d3e97f1-fce0-4be0-9642-c459c05f53b4/CA202112.xlsx?MOD=AJPERES",
+   "2022": "https://www.seg-social.es/wps/wcm/connect/wss/a50ce48a-75c9-4ee5-98f8-11fa55cb060c/CA202212.xlsx?MOD=AJPERES",
+   "2023": "https://www.seg-social.es/wps/wcm/connect/wss/eec450a9-fe5f-4335-b33d-2d78a2384f56/CA202312.xlsx?MOD=AJPERES",
+   "2024": "https://www.seg-social.es/wps/wcm/connect/wss/919b28a9-8634-4fa1-adb4-e0e29d7a6e23/CA202412.xlsx?MOD=AJPERES",
+   "2025": "https://www.seg-social.es/wps/wcm/connect/wss/d0655793-5221-423f-be89-226b43d22ded/CA202512.xlsx?MOD=AJPERES",
+   "2026-09": "https://www.seg-social.es/wps/wcm/connect/wss/b26cb096-dcbe-42e5-85b1-63953b8d95ec/CA202609.xlsx?MOD=AJPERES"
+  }
+ },
+ "url_pagina_indice": {
+  "afiliados": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST8/EST10/EST290/EST291",
+  "pensiones": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST23/2575"
+ },
+ "fecha_consulta": "2026-10-07",
+ "anios": "2016-2025 (diciembre) y 2026-09",
+ "notas": [
+  "No se calcula el cociente. Se guardan las dos series para que el lector vea la relación. No he encontrado que la Seguridad Social publique como serie estadística propia el ratio afiliados/pensión o afiliados/pensionista (aparece en notas de prensa del Ministerio, que no se usan aquí), así que no hay tercera serie.",
+  "Ojo: se compara número de PENSIONES, no de pensionistas (hay personas con más de una pensión; a 1-sep-2026 había 9.537.978 pensionistas según el Libro 'Evolución mensual de las pensiones', frente a más de 10,5 millones de pensiones). Tampoco incluye pensiones no contributivas ni Clases Pasivas.",
+  "Diciembre, no media anual: la Seguridad Social publica la afiliación media mensual, no la anual. El Boletín de Estadísticas Laborales del Ministerio de Trabajo (AFI-1, PEN-1) publica medias anuales, pero su AFI-1 trae para 2024 una media anual de 18.036,3 miles de afiliados, incoherente con el resto de la serie (2023: 20.547,0; los meses de 2025 superan los 21 millones). Por eso no se usa.",
+  "Los decimales de los afiliados vienen de la propia fuente (media de los valores diarios del mes); no se redondean.",
+  "Diciembre de 2020: afiliación afectada por la pandemia."
+ ],
+ "valores": {
+  "afiliados": {
+   "2016": 17849054.5,
+   "2017": 18460200.56,
+   "2018": 19024165.17,
+   "2019": 19408537.83,
+   "2020": 19048433.31,
+   "2021": 19824911.21,
+   "2022": 20296270.9,
+   "2023": 20836010.444444,
+   "2024": 21337962.222222,
+   "2025": 21844413.68421,
+   "2026-09": 22437553.090909
+  },
+  "pensiones": {
+   "2016": 9473482,
+   "2017": 9581770,
+   "2018": 9696272,
+   "2019": 9801379,
+   "2020": 9809019,
+   "2021": 9916966,
+   "2022": 9994836,
+   "2023": 10111991,
+   "2024": 10281477,
+   "2025": 10434856,
+   "2026-09": 10547417
+  }
+ }
+}

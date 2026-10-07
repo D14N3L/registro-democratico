@@ -5074,6 +5074,618 @@
    ]
   },
   {
+   "id": "pen_media",
+   "pilar": "Pensiones",
+   "nombre": "Pensión media de jubilación",
+   "unidad": "euros al mes",
+   "mide": "Lo que cobra de media al mes una pensión de jubilación de la Seguridad Social, en toda España y en cada comunidad, a 1 de diciembre de cada año.",
+   "aviso": "Euros corrientes, sin descontar la inflación: compárala con la gráfica de subida de las pensiones frente al IPC. Las diferencias entre comunidades dependen sobre todo de los salarios y las carreras de cotización de cada territorio. El último dato es de septiembre de 2026, no de diciembre.",
+   "fuente": "Seguridad Social (INSS, Subdirección General de Gestión Económico-Presupuestaria y Estudios Económicos). Estadísticas de pensiones contributivas en vigor, fichero 'Pensiones por CCAA y provincias' de diciembre de cada año (histórico de estadísticas de pensiones publicadas) y de septiembre de 2026 (último publicado).",
+   "url": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST23/2575",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026-09"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      1050.82,
+      1071.01,
+      1107.49,
+      1143.55,
+      1170.26,
+      1196.17,
+      1259.79,
+      1378.39,
+      1449.86,
+      1512.73,
+      1576.1
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      949.16,
+      965.58,
+      998.21,
+      1031.68,
+      1055.66,
+      1079.28,
+      1136.56,
+      1244.15,
+      1311.44,
+      1371.18,
+      1432.99
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      1095.02,
+      1119.75,
+      1159.82,
+      1196.68,
+      1224.72,
+      1253.8,
+      1322.45,
+      1448.33,
+      1520.42,
+      1583.83,
+      1647.59
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      1279.26,
+      1301.84,
+      1341.45,
+      1380.55,
+      1408.9,
+      1435.44,
+      1505.61,
+      1642.83,
+      1717.89,
+      1779.04,
+      1839.2
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      964.69,
+      984.62,
+      1019.02,
+      1052.23,
+      1079.55,
+      1104.55,
+      1163.46,
+      1272.47,
+      1338.13,
+      1396.13,
+      1454.98
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      991.93,
+      1006.32,
+      1035.51,
+      1067.03,
+      1088.27,
+      1108.23,
+      1164.12,
+      1270.37,
+      1335.98,
+      1397.33,
+      1458.85
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      1115.11,
+      1137.85,
+      1177.84,
+      1216.39,
+      1246.11,
+      1273.04,
+      1340.55,
+      1465.4,
+      1536.93,
+      1599.74,
+      1662.31
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      1027.69,
+      1049.74,
+      1088.2,
+      1126.95,
+      1157.79,
+      1186.13,
+      1251.95,
+      1371.75,
+      1443.91,
+      1507.14,
+      1571.24
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      968.93,
+      987.42,
+      1021.71,
+      1057.68,
+      1085.6,
+      1110.59,
+      1171.44,
+      1283.94,
+      1355.47,
+      1420.34,
+      1488.34
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      1067.98,
+      1089.24,
+      1126.45,
+      1162.83,
+      1191.05,
+      1219.09,
+      1285.91,
+      1408.64,
+      1482.29,
+      1547.21,
+      1611.13
+     ]
+    },
+    {
+     "ambito": "Ceuta",
+     "valores": [
+      1146.8,
+      1159.47,
+      1200.62,
+      1244.28,
+      1272.79,
+      1307.9,
+      1374.58,
+      1514.42,
+      1596.88,
+      1672.91,
+      1754.32
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      957.78,
+      976.78,
+      1011.08,
+      1045.4,
+      1070.74,
+      1094.69,
+      1153.74,
+      1263.5,
+      1330.92,
+      1390.71,
+      1452.27
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      867.43,
+      882.99,
+      914.49,
+      947.33,
+      970.61,
+      994.03,
+      1049.37,
+      1152.01,
+      1218.83,
+      1279.87,
+      1347.46
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      873.52,
+      892.18,
+      926.46,
+      961.04,
+      985.89,
+      1011.38,
+      1068.96,
+      1173.19,
+      1238.3,
+      1298.61,
+      1358.84
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      993.11,
+      1015.08,
+      1053.66,
+      1090.47,
+      1119.1,
+      1146.56,
+      1208.39,
+      1327.98,
+      1399.4,
+      1462.25,
+      1524.51
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      1243.67,
+      1263.87,
+      1301.73,
+      1338.77,
+      1367.79,
+      1392.5,
+      1460.37,
+      1592.34,
+      1669.25,
+      1733.78,
+      1798.64
+     ]
+    },
+    {
+     "ambito": "Melilla",
+     "valores": [
+      1105.81,
+      1119.68,
+      1150.4,
+      1191.01,
+      1230.18,
+      1258.67,
+      1333.22,
+      1458.17,
+      1532.59,
+      1602.54,
+      1670.25
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      927.72,
+      945.77,
+      979.89,
+      1016.2,
+      1041.63,
+      1067.48,
+      1126.11,
+      1234.34,
+      1301.88,
+      1365,
+      1430.04
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      1189.24,
+      1214.32,
+      1254.89,
+      1293.66,
+      1323.39,
+      1350.06,
+      1418.1,
+      1551.16,
+      1628.37,
+      1694.12,
+      1759.66
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      1299.01,
+      1324.2,
+      1367.1,
+      1408,
+      1437.71,
+      1466.97,
+      1543.82,
+      1688.28,
+      1771.55,
+      1841.8,
+      1910.31
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pen_reval_ipc",
+   "pilar": "Pensiones",
+   "nombre": "Subida de las pensiones frente a la subida de los precios",
+   "unidad": "%",
+   "mide": "Cuánto subieron por ley las pensiones contributivas cada año y cuánto subieron los precios ese mismo año. Si los precios suben más que la pensión, el pensionista pierde poder de compra.",
+   "aviso": "La subida de cada año se fija antes de conocer el IPC de ese año. Por 2018 y por 2021 hubo pagas compensatorias por la desviación del IPC que no aparecen aquí. De 2016 a 2018 la ley garantizaba solo un 0,25 % mínimo; desde 2022 la subida es la media del IPC de diciembre a noviembre del año anterior, que no tiene por qué coincidir con el IPC de diciembre que ves aquí. Las pensiones mínimas y no contributivas subieron más en varios años. El IPC de 2026 todavía no se conoce.",
+   "fuente": "Revalorización: BOE (normas de cada año en 'normas'). IPC: INE, Índice de Precios de Consumo, serie IPC251856 (tabla 50902) 'Nacional. Índice general. Variación anual'.",
+   "url": "https://www.boe.es/",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+   ],
+   "filas": [
+    {
+     "ambito": "IPC de diciembre sobre diciembre",
+     "valores": [
+      1.6,
+      1.1,
+      1.2,
+      0.8,
+      -0.5,
+      6.5,
+      5.7,
+      3.1,
+      2.8,
+      2.9,
+      null
+     ]
+    },
+    {
+     "ambito": "Subida general de las pensiones",
+     "valores": [
+      0.25,
+      0.25,
+      1.6,
+      1.6,
+      0.9,
+      0.9,
+      2.5,
+      8.5,
+      3.8,
+      2.8,
+      2.7
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pen_min_smi",
+   "pilar": "Pensiones",
+   "nombre": "Pensión mínima de jubilación frente al salario mínimo",
+   "unidad": "euros al año",
+   "mide": "La cuantía anual de la pensión mínima de jubilación y del salario mínimo que fija el BOE cada año.",
+   "aviso": "Son las cuantías anuales del BOE (14 pagas). La pensión mínima varía según la edad y si hay cónyuge a cargo: aquí está la de 65 años con cónyuge a cargo. En 2018 y 2022 la cuantía cambió a mitad de año; se recoge la que se acabó pagando. No la cobra todo el mundo: es un complemento para quien no supera un límite de ingresos.",
+   "fuente": "BOE: normas de revalorización de pensiones de cada año y reales decretos del SMI de cada año (ver 'normas').",
+   "url": "https://www.boe.es/",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026"
+   ],
+   "filas": [
+    {
+     "ambito": "Pensión mínima de jubilación (65 años, con cónyuge a cargo)",
+     "valores": [
+      10988.6,
+      11016.6,
+      11348.4,
+      11701.2,
+      11807.6,
+      11914,
+      12467,
+      13526.8,
+      14466.2,
+      15786.4,
+      17592.4
+     ]
+    },
+    {
+     "ambito": "Salario mínimo interprofesional",
+     "valores": [
+      9172.8,
+      9907.8,
+      10302.6,
+      12600,
+      13300,
+      13510,
+      14000,
+      15120,
+      15876,
+      16576,
+      17094
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pen_afiliados",
+   "pilar": "Pensiones",
+   "nombre": "Afiliados a la Seguridad Social y pensiones que se pagan",
+   "unidad": "personas y pensiones",
+   "mide": "Cuántas personas cotizan a la Seguridad Social y cuántas pensiones contributivas se pagan. Si divides una cifra por la otra tienes cuántos cotizan por cada pensión.",
+   "aviso": "Cuenta pensiones, no pensionistas: hay personas que cobran más de una. No incluye las pensiones no contributivas ni las de Clases Pasivas de los funcionarios. Diciembre de 2020 está afectado por la pandemia. El último dato es de septiembre de 2026.",
+   "fuente": "Seguridad Social. Afiliados: 'Serie afiliación media por regímenes (Total Sistema)' (Estadísticas de afiliación, afiliados medios totales). Pensiones: ficheros 'Pensiones por CCAA y provincias' del INSS (fila Total, columna Total pensiones / Número), los mismos de ss_pension_media_jubilacion_ccaa.",
+   "url": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/Estadisticas/EST8/EST10/EST290/EST291",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025",
+    "2026-09"
+   ],
+   "filas": [
+    {
+     "ambito": "Afiliados (media de diciembre)",
+     "valores": [
+      17849054.5,
+      18460200.56,
+      19024165.17,
+      19408537.83,
+      19048433.31,
+      19824911.21,
+      20296270.9,
+      20836010.444444,
+      21337962.222222,
+      21844413.68421,
+      22437553.090909
+     ]
+    },
+    {
+     "ambito": "Pensiones contributivas en vigor",
+     "valores": [
+      9473482,
+      9581770,
+      9696272,
+      9801379,
+      9809019,
+      9916966,
+      9994836,
+      10111991,
+      10281477,
+      10434856,
+      10547417
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pen_fondo_reserva",
+   "pilar": "Pensiones",
+   "nombre": "Fondo de Reserva de la Seguridad Social («la hucha de las pensiones»)",
+   "unidad": "millones de euros, a 31 de diciembre",
+   "mide": "El dinero que quedaba en el fondo creado para pagar las pensiones en los años de déficit.",
+   "aviso": "Entre 2012 y 2019 se retiraron del fondo 80.337 millones para pagar pensiones; la última retirada fue en 2019. Desde 2023 vuelve a crecer con las aportaciones del Mecanismo de Equidad Intergeneracional. Valor a precio de adquisición, según el informe anual del Fondo a las Cortes.",
+   "fuente": "Seguridad Social. Informe a las Cortes Generales sobre el Fondo de Reserva de la Seguridad Social (uno por año, 2016 a 2025). Se ha leído la versión en inglés ('Report to Parliament') que publica la propia Seguridad Social, porque es la que sirve su enlace de descarga; las cifras son las mismas del informe.",
+   "url": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/FondoReserva/39728/1726/1727",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      15020.03901565,
+      8095.35601441,
+      5043.14631169,
+      2153.45741508,
+      2137.92302506,
+      2137.92302506,
+      2140.61003589,
+      5578.43915012,
+      9376.64896989,
+      14069.80699773
+     ]
+    }
+   ]
+  },
+  {
+   "id": "pen_gasto_pib",
+   "pilar": "Pensiones",
+   "nombre": "Gasto en pensiones",
+   "unidad": "% del PIB",
+   "mide": "Lo que gasta el país en pensiones (jubilación, viudedad e incapacidad) en relación con lo que produce, frente a la media de la Unión Europea.",
+   "aviso": "Definición de Eurostat, que incluye pensiones públicas de todo tipo y no coincide con el gasto de la Seguridad Social. El salto de 2020 se debe sobre todo a la caída del PIB por la pandemia.",
+   "fuente": "Eurostat, spr_exp_pens. API de difusión de Eurostat, dataset actualizado 2026-10-06T23:00:00+0200",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/spr_exp_pens/default/table",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      12.52,
+      12.35,
+      12.47,
+      12.63,
+      14.39,
+      13.77,
+      12.98,
+      13.16,
+      13.23
+     ]
+    },
+    {
+     "ambito": "UE-27",
+     "valores": [
+      12.88,
+      12.68,
+      12.6,
+      12.59,
+      13.53,
+      12.78,
+      12.22,
+      12.31,
+      null
+     ]
+    }
+   ]
+  },
+  {
    "id": "hue_jornadas",
    "pilar": "Huelgas",
    "nombre": "Jornadas de trabajo perdidas por huelga",

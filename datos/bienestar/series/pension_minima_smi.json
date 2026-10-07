@@ -1,0 +1,124 @@
+{
+ "id": "pension_minima_smi",
+ "nombre": "Pensión mínima de jubilación con cónyuge a cargo y salario mínimo interprofesional",
+ "unidad": "euros/año y euros/mes (14 pagas)",
+ "definicion": "pension_minima_anual: cuantía mínima de la pensión contributiva de jubilación de la Seguridad Social, titular con 65 años, con cónyuge a cargo, en cómputo anual (tabla de cuantías mínimas del BOE). pension_minima_mensual_14_pagas: esa cuantía anual dividida entre 14 (conversión hecha aquí, ver notas). smi_mensual: salario mínimo interprofesional en euros/mes fijado por el real decreto de cada año. smi_anual: cuantía anual mínima que fija el mismo real decreto ('sin que en ningún caso pueda considerarse una cuantía anual inferior a ...'), equivalente a 14 pagas.",
+ "fuente": "BOE: normas de revalorización de pensiones de cada año y reales decretos del SMI de cada año (ver 'normas').",
+ "url": {
+  "pension_minima": {
+   "2016": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-14272",
+   "2017": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12605",
+   "2018": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-9268",
+   "2019": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-17992",
+   "2020": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-501",
+   "2021": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-1135",
+   "2022": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-1189",
+   "2023": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-22694",
+   "2024": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-26452",
+   "2025": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-1560",
+   "2026": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2548"
+  },
+  "smi": {
+   "2016": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-14273",
+   "2017": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12598",
+   "2018": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-15848",
+   "2019": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-17773",
+   "2020": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-1652",
+   "2021": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15770",
+   "2022": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-2851",
+   "2023": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-3982",
+   "2024": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-2251",
+   "2025": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-2576",
+   "2026": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3815"
+  }
+ },
+ "url_pagina_indice": "https://www.boe.es/",
+ "fecha_consulta": "2026-10-07",
+ "anios": "2016-2026",
+ "normas": {
+  "pension_minima": {
+   "2016": "Real Decreto 1170/2015 (BOE-A-2015-14272)",
+   "2017": "Real Decreto 746/2016 (BOE-A-2016-12605)",
+   "2018": "Ley 6/2018 (PGE 2018), DA 51ª.Tres (BOE-A-2018-9268)",
+   "2019": "Real Decreto-ley 28/2018 (BOE-A-2018-17992)",
+   "2020": "Real Decreto-ley 1/2020 (BOE-A-2020-501)",
+   "2021": "Real Decreto 46/2021 (mismo importe en la Ley 11/2020) (BOE-A-2021-1135)",
+   "2022": "Real Decreto 65/2022, anexo I (BOE-A-2022-1189)",
+   "2023": "Real Decreto 1058/2022 (BOE-A-2022-22694)",
+   "2024": "Real Decreto-ley 8/2023 (BOE-A-2023-26452)",
+   "2025": "Real Decreto-ley 1/2025 (BOE-A-2025-1560)",
+   "2026": "Real Decreto-ley 3/2026 (BOE-A-2026-2548)"
+  },
+  "smi": {
+   "2016": "Real Decreto 1171/2015 (BOE-A-2015-14273)",
+   "2017": "Real Decreto 742/2016 (BOE-A-2016-12598)",
+   "2018": "Real Decreto 1077/2017 (BOE-A-2017-15848)",
+   "2019": "Real Decreto 1462/2018 (BOE-A-2018-17773)",
+   "2020": "Real Decreto 231/2020 (BOE-A-2020-1652)",
+   "2021": "Real Decreto 817/2021 (desde el 1-sep-2021) (BOE-A-2021-15770)",
+   "2022": "Real Decreto 152/2022 (BOE-A-2022-2851)",
+   "2023": "Real Decreto 99/2023 (BOE-A-2023-3982)",
+   "2024": "Real Decreto 145/2024 (BOE-A-2024-2251)",
+   "2025": "Real Decreto 87/2025 (BOE-A-2025-2576)",
+   "2026": "Real Decreto 126/2026 (BOE-A-2026-3815)"
+  }
+ },
+ "notas": [
+  "El BOE fija la pensión mínima en cómputo anual, no mensual. La cifra mensual se obtiene dividiendo entre 14 pagas (12 mensualidades + 2 extraordinarias); todas las divisiones son exactas al céntimo. Es la única serie de este fichero que no está tal cual en la fuente; si se prefiere no mostrar nada calculado, comparar pension_minima_anual con smi_anual, que salen ambas literalmente del BOE.",
+  "2018: la cuantía de enero fue 11.044,60 €/año (Real Decreto 1079/2017, subida del 0,25 %). La Ley 6/2018, publicada el 4-jul-2018, la subió un 2,75 % adicional hasta 11.348,40 para 2018; se guarda esta. Ojo: la tabla PEN-31 del Boletín de Estadísticas Laborales (Ministerio de Trabajo) recoge 11.044,60 para 2018.",
+  "2022: la Ley 22/2021 (PGE 2022) fijaba 12.272,40; el Real Decreto 65/2022 la elevó a 12.467,00 al aplicar la subida sobre la cuantía de 2021 ya corregida por la desviación del IPC (su anexo II da 12.103,00 como importe de 2021 a esos efectos). Se guarda la del Real Decreto 65/2022, que es la que se pagó.",
+  "2021 (SMI): de enero a agosto siguió vigente el SMI de 2020 (950 €/mes), prorrogado por la DA 6ª del Real Decreto-ley 38/2020 según la exposición de motivos del RD 817/2021; los 965 €/mes rigen del 1-sep al 31-dic-2021. smi_anual 2021 (13.510) es la cuantía anual que fija el RD 817/2021.",
+  "2017 (SMI): el RD 742/2016 se aplicó todo 2017 (efectos 1-ene a 31-dic-2017).",
+  "2025 y 2026 (pensión mínima): el primer real decreto-ley de cada año (RDL 9/2024 y RDL 16/2025) fue derogado por el Congreso; las cuantías vigentes son las de los RDL 1/2025 y 3/2026.",
+  "La pensión mínima es la cuantía garantizada mediante el complemento a mínimos, que exige no superar un límite de ingresos y residir en España (para pensiones causadas desde 2013); no la cobra todo el mundo.",
+  "Euros corrientes.",
+  "Se ha quitado la pensión mínima mensual (era el importe anual del BOE dividido entre 14): el registro no muestra cifras calculadas. Se comparan las cuantías anuales, literales del BOE."
+ ],
+ "valores": {
+  "pension_minima_anual": {
+   "España": {
+    "2016": 10988.6,
+    "2017": 11016.6,
+    "2018": 11348.4,
+    "2019": 11701.2,
+    "2020": 11807.6,
+    "2021": 11914,
+    "2022": 12467,
+    "2023": 13526.8,
+    "2024": 14466.2,
+    "2025": 15786.4,
+    "2026": 17592.4
+   }
+  },
+  "smi_mensual": {
+   "España": {
+    "2016": 655.2,
+    "2017": 707.7,
+    "2018": 735.9,
+    "2019": 900,
+    "2020": 950,
+    "2021": 965,
+    "2022": 1000,
+    "2023": 1080,
+    "2024": 1134,
+    "2025": 1184,
+    "2026": 1221
+   }
+  },
+  "smi_anual": {
+   "España": {
+    "2016": 9172.8,
+    "2017": 9907.8,
+    "2018": 10302.6,
+    "2019": 12600,
+    "2020": 13300,
+    "2021": 13510,
+    "2022": 14000,
+    "2023": 15120,
+    "2024": 15876,
+    "2025": 16576,
+    "2026": 17094
+   }
+  }
+ }
+}

@@ -1,0 +1,168 @@
+{
+ "id": "eurostat_gasto_pensiones_es_ue",
+ "nombre": "Gasto en pensiones (% del PIB): España vs UE-27",
+ "unidad": "% del PIB",
+ "definicion": "Eurostat, ESSPROS (Sistema Europeo de Estadísticas Integradas de Protección Social), dataset spr_exp_pens \"Expenditure on pensions by type of pension and means-testing\". Gasto en prestaciones de tipo pensión de todos los regímenes de protección social según la metodología ESSPROS (no solo el sistema de la Seguridad Social). spdepm=TOTAL (con y sin condición de recursos).",
+ "fuente": "Eurostat, spr_exp_pens. API de difusión de Eurostat, dataset actualizado 2026-10-06T23:00:00+0200",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/spr_exp_pens?format=JSON&lang=EN&geo=ES&geo=EU27_2020&unit=PC_GDP&sinceTimePeriod=2016",
+ "url_pagina_indice": "https://ec.europa.eu/eurostat/databrowser/view/spr_exp_pens/default/table",
+ "fecha_consulta": "2026-10-07",
+ "anios": "España 2016-2024; UE-27 (EU27_2020) 2016-2023",
+ "notas": [
+  "Series: total = todas las pensiones (spdepb=TOTAL); jubilacion = 'Old age pension' (OLD; no incluye jubilación anticipada AOLD ni parcial PART, que Eurostat publica aparte); supervivencia = SRV (viudedad, orfandad); incapacidad = DIS.",
+  "Definición ESSPROS: no coincide con el gasto en pensiones contributivas de la Seguridad Social que publica el Ministerio; incluye también prestaciones con condición de recursos (means-tested) y otros regímenes.",
+  "Marcas de estado de Eurostat en estado_eurostat (p = provisional, e = estimado). Total UE-27: 2016-2019 y 2022-2023 estimados (e), 2020-2021 provisionales (p). España sin marcas en el total.",
+  "Valores tal como los publica Eurostat (2 decimales), sin recalcular.",
+  "2020: el PIB cayó con la pandemia, por eso el % sube sin que el gasto suba en la misma proporción."
+ ],
+ "valores": {
+  "total": {
+   "UE-27": {
+    "2016": 12.88,
+    "2017": 12.68,
+    "2018": 12.6,
+    "2019": 12.59,
+    "2020": 13.53,
+    "2021": 12.78,
+    "2022": 12.22,
+    "2023": 12.31
+   },
+   "España": {
+    "2016": 12.52,
+    "2017": 12.35,
+    "2018": 12.47,
+    "2019": 12.63,
+    "2020": 14.39,
+    "2021": 13.77,
+    "2022": 12.98,
+    "2023": 13.16,
+    "2024": 13.23
+   }
+  },
+  "jubilacion": {
+   "UE-27": {
+    "2016": 9.58,
+    "2017": 9.49,
+    "2018": 9.47,
+    "2019": 9.42,
+    "2020": 10.18,
+    "2021": 9.65,
+    "2022": 9.27,
+    "2023": 9.39
+   },
+   "España": {
+    "2016": 8.04,
+    "2017": 8,
+    "2018": 8.15,
+    "2019": 8.3,
+    "2020": 9.58,
+    "2021": 9.27,
+    "2022": 8.84,
+    "2023": 9.12,
+    "2024": 9.3
+   }
+  },
+  "supervivencia": {
+   "UE-27": {
+    "2016": 1.65,
+    "2017": 1.6,
+    "2018": 1.57,
+    "2019": 1.55,
+    "2020": 1.63,
+    "2021": 1.52,
+    "2022": 1.43,
+    "2023": 1.42
+   },
+   "España": {
+    "2016": 2.3,
+    "2017": 2.23,
+    "2018": 2.23,
+    "2019": 2.28,
+    "2020": 2.57,
+    "2021": 2.44,
+    "2022": 2.26,
+    "2023": 2.26,
+    "2024": 2.23
+   }
+  },
+  "incapacidad": {
+   "UE-27": {
+    "2016": 0.8,
+    "2017": 0.78,
+    "2018": 0.76,
+    "2019": 0.75,
+    "2020": 0.8,
+    "2021": 0.75,
+    "2022": 0.71,
+    "2023": 0.72
+   },
+   "España": {
+    "2016": 1.32,
+    "2017": 1.29,
+    "2018": 1.27,
+    "2019": 1.26,
+    "2020": 1.39,
+    "2021": 1.3,
+    "2022": 1.21,
+    "2023": 1.18,
+    "2024": 1.12
+   }
+  }
+ },
+ "estado_eurostat": {
+  "total": {
+   "UE-27": {
+    "2016": "e",
+    "2017": "e",
+    "2018": "e",
+    "2019": "e",
+    "2020": "p",
+    "2021": "p",
+    "2022": "e",
+    "2023": "e"
+   },
+   "España": {}
+  },
+  "jubilacion": {
+   "UE-27": {
+    "2016": "e",
+    "2017": "e",
+    "2018": "e",
+    "2019": "e",
+    "2020": "p",
+    "2021": "p",
+    "2022": "p",
+    "2023": "p"
+   },
+   "España": {
+    "2024": "p"
+   }
+  },
+  "supervivencia": {
+   "UE-27": {
+    "2020": "p",
+    "2021": "p",
+    "2022": "p",
+    "2023": "p"
+   },
+   "España": {
+    "2024": "p"
+   }
+  },
+  "incapacidad": {
+   "UE-27": {
+    "2016": "e",
+    "2017": "e",
+    "2018": "e",
+    "2019": "e",
+    "2020": "p",
+    "2021": "p",
+    "2022": "p",
+    "2023": "p"
+   },
+   "España": {
+    "2024": "p"
+   }
+  }
+ }
+}

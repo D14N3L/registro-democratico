@@ -1,0 +1,57 @@
+{
+ "id": "ss_fondo_reserva",
+ "nombre": "Fondo de Reserva de la Seguridad Social: saldo a 31 de diciembre",
+ "unidad": "millones de euros (valor a precio de adquisición)",
+ "definicion": "Valor total del Fondo de Reserva de la Seguridad Social a 31 de diciembre de cada año: activos financieros a precio de adquisición + saldo de la cuenta corriente en el Banco de España (+ intereses de diciembre de la cuenta, desde 2022). Es la línea 'Reserve Fund Total / TOTAL RESERVE FUND' del apartado 'Situación del Fondo a 31 de diciembre' del Informe a las Cortes Generales de cada año.",
+ "fuente": "Seguridad Social. Informe a las Cortes Generales sobre el Fondo de Reserva de la Seguridad Social (uno por año, 2016 a 2025). Se ha leído la versión en inglés ('Report to Parliament') que publica la propia Seguridad Social, porque es la que sirve su enlace de descarga; las cifras son las mismas del informe.",
+ "url": {
+  "2016": "https://www.seg-social.es/wps/wcm/connect/wss/d7a5e41f-00c1-473e-b230-648ab95d758c/INFORME+INGL%C3%89S+18may17+interactiva.pdf?MOD=AJPERES",
+  "2017": "https://www.seg-social.es/wps/wcm/connect/wss/45f4fde6-3d7c-411c-90ca-b5acf2818366/FONDO+DE+RESERVA+2017_DIGITAL_ING.pdf?MOD=AJPERES",
+  "2018": "https://www.seg-social.es/wps/wcm/connect/wss/327d6b3e-dadd-4c57-9ec1-756fb8094ce8/FONDO+DE+RESERVA_ING_WEB.pdf?MOD=AJPERES",
+  "2019": "https://www.seg-social.es/wps/wcm/connect/wss/caa624ac-641f-40b5-a2f8-00aa67e86458/Informe_Cortes-ENG-WEB.pdf?MOD=AJPERES",
+  "2020": "https://www.seg-social.es/wps/wcm/connect/wss/931b82c8-7d48-4b1f-8655-c6c0b0d839f2/FONDO+DE+RESERVA+2020_ING_WEB_r.pdf?MOD=AJPERES",
+  "2021": "https://www.seg-social.es/wps/wcm/connect/wss/22e00e3d-fe7c-41a9-843a-84f2f299cca3/FONDO+DE+RESERVA+2021_ING_WEB.pdf?MOD=AJPERES",
+  "2022": "https://www.seg-social.es/wps/wcm/connect/wss/5b1ef59b-388d-4649-94c1-bb40fd4e2214/FONDO+DE+RESERVA+2022_ING_WEB.pdf?MOD=AJPERES",
+  "2023": "https://www.seg-social.es/wps/wcm/connect/wss/a55c7060-ee31-45fc-9f2b-a52cabb890e8/FONDO+DE+RESERVA+2023_ING_WEB.pdf?MOD=AJPERES",
+  "2024": "https://www.seg-social.es/wps/wcm/connect/wss/dc10db6e-a229-4891-b2c3-9ca15c89b9a9/FONDO+DE+RESERVA+2024_ING_WEB.pdf?MOD=AJPERES",
+  "2025": "https://www.seg-social.es/wps/wcm/connect/wss/74455825-f24f-46c2-95bb-8b7ec1c3f4ea/InformeALasCortes2025_WEB_ENG.pdf?MOD=AJPERES"
+ },
+ "url_pagina_indice": "https://www.seg-social.es/wps/portal/wss/internet/EstadisticasPresupuestosEstudios/FondoReserva/39728/1726/1727",
+ "fecha_consulta": "2026-10-07",
+ "anios": "2016-2025",
+ "notas": [
+  "Cifras exactas en euros en 'valores_euros' (tal como aparecen en cada informe); en 'valores' se pasan a millones dividiendo entre 1.000.000, sin redondear.",
+  "Retiradas para pagar pensiones: según el informe de 2025, las disposiciones acumuladas suman 80.337 millones (la primera en 2012); el informe de 2017 da 74.437 millones de 2012 a 2017 y el de 2018, 77.437 de 2012 a 2018. La última retirada fue en 2019 (la tabla de evolución del informe 2025 pasa de -77.437 en 2018 a -80.337 en 2019 y no cambia después).",
+  "Desde 2023 el Fondo vuelve a crecer por las dotaciones del Mecanismo de Equidad Intergeneracional (MEI): 2.218 millones acumulados en 2023, 5.794 en 2024 y 10.150 en 2025 (informe 2025, tabla de evolución).",
+  "2020 y 2021: el Fondo estaba entero en la cuenta corriente del Banco de España, sin activos financieros (informes 2020 y 2021).",
+  "No hay dato de 31-dic-2026 (el año no ha terminado)."
+ ],
+ "valores": {
+  "España": {
+   "2016": 15020.03901565,
+   "2017": 8095.35601441,
+   "2018": 5043.14631169,
+   "2019": 2153.45741508,
+   "2020": 2137.92302506,
+   "2021": 2137.92302506,
+   "2022": 2140.61003589,
+   "2023": 5578.43915012,
+   "2024": 9376.64896989,
+   "2025": 14069.80699773
+  }
+ },
+ "valores_euros": {
+  "España": {
+   "2016": 15020039015.65,
+   "2017": 8095356014.41,
+   "2018": 5043146311.69,
+   "2019": 2153457415.08,
+   "2020": 2137923025.06,
+   "2021": 2137923025.06,
+   "2022": 2140610035.89,
+   "2023": 5578439150.12,
+   "2024": 9376648969.89,
+   "2025": 14069806997.73
+  }
+ }
+}

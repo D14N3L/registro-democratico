@@ -1,0 +1,216 @@
+{
+ "id": "revalorizacion_pensiones_ipc",
+ "nombre": "Revalorización general de las pensiones contributivas e IPC de diciembre",
+ "unidad": "% (revalorización fijada para el año; variación anual del IPC en diciembre)",
+ "definicion": "revalorizacion: porcentaje general de subida de las pensiones contributivas de la Seguridad Social fijado para cada año por la ley de presupuestos, real decreto o real decreto-ley correspondiente (no incluye la subida específica de las pensiones mínimas ni de las no contributivas, que en varios años fue mayor). ipc_diciembre: variación anual del IPC general nacional en diciembre de cada año (diciembre sobre diciembre del año anterior), INE, serie IPC251856. Para comparar la subida de un año Y con la inflación, mirar ipc_diciembre de Y-1 (inflación del año anterior) y de Y (inflación del propio año).",
+ "fuente": "Revalorización: BOE (normas de cada año en 'normas'). IPC: INE, Índice de Precios de Consumo, serie IPC251856 (tabla 50902) 'Nacional. Índice general. Variación anual'.",
+ "url": {
+  "revalorizacion": {
+   "2016": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-11644",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-14272"
+   ],
+   "2017": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12605",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-7387"
+   ],
+   "2018": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-15854",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-9268"
+   ],
+   "2019": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-17992"
+   ],
+   "2020": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-501"
+   ],
+   "2021": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-17339",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-1135"
+   ],
+   "2022": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-21653",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-1189"
+   ],
+   "2023": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-22128",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-22694"
+   ],
+   "2024": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-26452"
+   ],
+   "2025": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26915",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-1560"
+   ],
+   "2026": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26458",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2548"
+   ]
+  },
+  "ipc_diciembre": "https://servicios.ine.es/wstempus/js/ES/DATOS_SERIE/IPC251856?nult=130"
+ },
+ "url_pagina_indice": {
+  "revalorizacion": "https://www.boe.es/",
+  "ipc_diciembre": "https://www.ine.es/dyngs/INEbase/es/operacion.htm?c=Estadistica_C&cid=1254736176802&menu=ultiDatos&idp=1254735976607"
+ },
+ "fecha_consulta": "2026-10-07",
+ "anios": "revalorizacion 2016-2026; ipc_diciembre 2015-2025",
+ "notas": [
+  "Regla de cada etapa (según los propios BOE): 2016-2018, Índice de Revalorización de Pensiones de la Ley 23/2013 (BOE-A-2013-13617), que no podía dar una subida inferior al 0,25 %. 2019 y 2020: subida fijada por real decreto-ley (1,6 % y 0,9 %). Desde 2022 (2,5 %), la subida es la media de las tasas interanuales del IPC de diciembre a noviembre del año anterior (RD 65/2022: 'valor medio ... de los meses desde diciembre de 2020 hasta noviembre de 2021'); RDL 8/2023, RDL 1/2025 y RDL 3/2026 dicen que el 3,8 %, 2,8 % y 2,7 % equivalen a esa media.",
+  "2018: la Ley 6/2018 (BOE 4-jul-2018) añadió un 1,35 % al 0,25 % ya aplicado en enero 'tomando la cuantía resultante de la revalorización efectuada el 1 de enero de 2018'; se guarda 1,6 % como subida total del año. Las pensiones mínimas subieron un 2,75 % adicional.",
+  "Pagas compensatorias (pago único): (a) por 2018, el RDL 28/2018 ordenó pagar antes del 1-abr-2019 la diferencia entre lo cobrado en 2018 (1,6 %) y la media del IPC dic-2017 a nov-2018 (1,7 %); además la subida de 2019 se aplicó sobre la pensión de 2018 actualizada al 1,7 %. (b) por 2020, el RDL 1/2020 previó un pago antes del 1-abr-2021 solo si la media del IPC dic-2019 a nov-2020 superaba el 0,9 %; no he encontrado en el BOE ninguna norma que lo ejecutara (no se ha confirmado si hubo pago). (c) por 2021, la Ley 11/2020 (DA 46ª) y el RD 65/2022 (DA 1ª) ordenaron pagar antes del 1-abr-2022 la diferencia entre el 0,9 % aplicado y el 2,5 % de la media del IPC dic-2020 a nov-2021; la subida de 2022 se aplicó sobre la pensión de 2021 ya corregida.",
+  "2025 y 2026: el primer real decreto-ley de revalorización fue derogado por el Congreso (no convalidado) y el Gobierno aprobó otro con la misma subida (2,8 % y 2,7 %).",
+  "ipc_diciembre: la tasa interanual de diciembre no es el índice que usa la ley desde 2022 (media dic-nov), por eso no tiene por qué coincidir con la revalorización. Diciembre de 2026 aún no existe. La serie IPC251856 consultada termina en diciembre de 2025.",
+  "Revalorización general: las pensiones mínimas, las no contributivas y el SOVI tuvieron en varios años subidas distintas (ver pension_minima_smi.json para las mínimas)."
+ ],
+ "normas": {
+  "2016": {
+   "norma": "Ley 48/2015 (PGE 2016) y Real Decreto 1170/2015, de 29 de diciembre",
+   "boe": [
+    "BOE-A-2015-11644",
+    "BOE-A-2015-14272"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-11644",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2015-14272"
+   ]
+  },
+  "2017": {
+   "norma": "Real Decreto 746/2016, de 30 de diciembre (después confirmado por la Ley 3/2017, PGE 2017)",
+   "boe": [
+    "BOE-A-2016-12605",
+    "BOE-A-2017-7387"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-12605",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-7387"
+   ]
+  },
+  "2018": {
+   "norma": "Real Decreto 1079/2017 (0,25 %) y Ley 6/2018, de 3 de julio, PGE 2018 (incremento adicional del 1,35 %: total 1,6 %)",
+   "boe": [
+    "BOE-A-2017-15854",
+    "BOE-A-2018-9268"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2017-15854",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-9268"
+   ]
+  },
+  "2019": {
+   "norma": "Real Decreto-ley 28/2018, de 28 de diciembre",
+   "boe": [
+    "BOE-A-2018-17992"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-17992"
+   ]
+  },
+  "2020": {
+   "norma": "Real Decreto-ley 1/2020, de 14 de enero",
+   "boe": [
+    "BOE-A-2020-501"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-501"
+   ]
+  },
+  "2021": {
+   "norma": "Ley 11/2020, PGE 2021, y Real Decreto 46/2021, de 26 de enero",
+   "boe": [
+    "BOE-A-2020-17339",
+    "BOE-A-2021-1135"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-17339",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-1135"
+   ]
+  },
+  "2022": {
+   "norma": "Ley 22/2021, PGE 2022, y Real Decreto 65/2022, de 25 de enero",
+   "boe": [
+    "BOE-A-2021-21653",
+    "BOE-A-2022-1189"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-21653",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-1189"
+   ]
+  },
+  "2023": {
+   "norma": "Ley 31/2022, PGE 2023, y Real Decreto 1058/2022, de 27 de diciembre",
+   "boe": [
+    "BOE-A-2022-22128",
+    "BOE-A-2022-22694"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-22128",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-22694"
+   ]
+  },
+  "2024": {
+   "norma": "Real Decreto-ley 8/2023, de 27 de diciembre (convalidado, BOE-A-2024-666)",
+   "boe": [
+    "BOE-A-2023-26452"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-26452"
+   ]
+  },
+  "2025": {
+   "norma": "Real Decreto-ley 9/2024 (derogado por el Congreso el 22-ene-2025, BOE-A-2025-1136) y Real Decreto-ley 1/2025, de 28 de enero",
+   "boe": [
+    "BOE-A-2024-26915",
+    "BOE-A-2025-1560"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-26915",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-1560"
+   ]
+  },
+  "2026": {
+   "norma": "Real Decreto-ley 16/2025 (derogado por el Congreso el 27-ene-2026, BOE-A-2026-2024) y Real Decreto-ley 3/2026, de 3 de febrero",
+   "boe": [
+    "BOE-A-2025-26458",
+    "BOE-A-2026-2548"
+   ],
+   "url_boe": [
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-26458",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-2548"
+   ]
+  }
+ },
+ "valores": {
+  "revalorizacion": {
+   "España": {
+    "2016": 0.25,
+    "2017": 0.25,
+    "2018": 1.6,
+    "2019": 1.6,
+    "2020": 0.9,
+    "2021": 0.9,
+    "2022": 2.5,
+    "2023": 8.5,
+    "2024": 3.8,
+    "2025": 2.8,
+    "2026": 2.7
+   }
+  },
+  "ipc_diciembre": {
+   "España": {
+    "2015": 0,
+    "2016": 1.6,
+    "2017": 1.1,
+    "2018": 1.2,
+    "2019": 0.8,
+    "2020": -0.5,
+    "2021": 6.5,
+    "2022": 5.7,
+    "2023": 3.1,
+    "2024": 2.8,
+    "2025": 2.9
+   }
+  }
+ }
+}
