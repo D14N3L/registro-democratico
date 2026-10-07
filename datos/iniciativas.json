@@ -13,7 +13,7 @@
    "PP",
    "Vox"
   ],
-  "s": "Tras admitirse a trámite casi por unanimidad, el plazo de enmiendas se prorrogó una y otra vez: en septiembre de 2024 ya llevaba nueve prórrogas. PSOE y Sumar no cerraban el texto, PNV y Junts pedían exigir contrato o historial laboral y Junts lo ligaba a las competencias de inmigración. En 2026 el Gobierno hizo la regularización por real decreto (RD 316/2026), sin pasar por el Congreso.",
+  "s": "Tras admitirse a trámite casi por unanimidad, el plazo de enmiendas se prorrogó una y otra vez: en septiembre de 2024 ya llevaba nueve prórrogas. A finales de ese mes, tras 11 ampliaciones, PSOE y Sumar acordaron cerrar el plazo, pero el texto se quedó en ponencia, sin informe, hasta la disolución de las Cortes. PNV y Junts pedían exigir contrato o historial laboral y Junts lo ligaba a las competencias de inmigración. Antes, en la legislatura anterior, la Mesa inadmitió dos ILP de regularización (octubre de 2021) y la tercera llegó al orden del día del Pleno sin votarse antes de la disolución de 2023. En 2026 el Gobierno hizo la regularización por real decreto (RD 316/2026), sin pasar por el Congreso.",
   "n": "El PP apoyó tramitarla y después se opuso a una regularización masiva. La regularización llegó, pero no por la vía de la ILP.",
   "src": [
    [
@@ -27,6 +27,10 @@
    [
     "COPE: nueve prórrogas (sep 2024)",
     "https://www.cope.es/actualidad/espana/noticias/congreso-prorroga-semana-mas-plazo-enmiendas-ilp-busca-regularizar-500-000-migrantes-20240904_3005016.html"
+   ],
+   [
+    "El Salto: PSOE y Sumar cierran el plazo de enmiendas (sep 2024)",
+    "https://www.elsaltodiario.com/migracion/desbloqueada-ilp-regularizacion-cierre-del-periodo-enmiendas"
    ],
    [
     "BOE: Real Decreto 316/2026",
@@ -95,13 +99,13 @@
   "res": "bloq",
   "f": "Más de 660.000 firmas",
   "pr": "Sindicato de enfermería SATSE",
-  "v": "Admitida en diciembre de 2020 (312 a favor y 10 en contra, PNV y JxCat) y otra vez en diciembre de 2024 (316 a favor).",
+  "v": "Tomada en consideración el 15 de diciembre de 2020: 312 a favor, 10 en contra (los 6 del PNV y 4 diputados del PDeCAT) y 24 abstenciones (ERC, Bildu, BNG, la CUP y los 4 diputados de Junts). Otra vez el 10 de diciembre de 2024: 316 a favor, 5 en contra (PNV) y 21 abstenciones (ERC, Junts, Bildu y CC).",
   "p": [
    "PNV",
-   "Junts"
+   "Otros"
   ],
   "s": "Presentada en 2018, se tuvo que votar dos veces por el cambio de legislatura. En 2024 acumulaba 83 prórrogas del plazo de enmiendas y en 2025 seguía sin aprobarse.",
-  "n": "PNV y Junts alegaron que invade competencias autonómicas y que el problema es de financiación. En febrero de 2025, según fuentes de la Mesa recogidas por Redacción Médica, no era prioritaria frente a otros tres proyectos sanitarios, y PSOE y Sumar querían ampliar las ratios a otros colectivos.",
+  "n": "PNV y Junts alegaron que invade competencias autonómicas y que el problema es de financiación; Junts se abstuvo en las dos votaciones. En febrero de 2025, según fuentes de la Mesa recogidas por Redacción Médica, no era prioritaria frente a otros tres proyectos sanitarios, y PSOE y Sumar querían ampliar las ratios a otros colectivos.",
   "src": [
    [
     "ConSalud",
@@ -114,6 +118,14 @@
    [
     "Redacción Médica: ni prioritaria ni solo en enfermería (feb 2025)",
     "https://www.redaccionmedica.com/secciones/parlamentarios/el-congreso-enmienda-la-ley-de-ratios-ni-prioritaria-ni-solo-en-enfermeria-9976"
+   ],
+   [
+    "Congreso: votación nominal del 15-dic-2020 (datos abiertos)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion066/20201215/Votacion001/VOT_20201216130104.json"
+   ],
+   [
+    "Congreso: votación nominal del 10-dic-2024 (datos abiertos)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion083/20241210/Votacion001/VOT_20241210202031.json"
    ]
   ]
  },
@@ -124,10 +136,12 @@
   "res": "bloq",
   "f": "Unas 740.000 firmas",
   "pr": "CERMI, plataforma de entidades de personas con discapacidad",
-  "v": "Tomada en consideración el 8 de octubre de 2024 por unanimidad: 341 votos a favor, ninguno en contra. Era su cuarto registro desde 2015 y ya se había admitido a trámite dos veces antes.",
-  "p": [],
+  "v": "Se aceptó tramitarla tres veces: el 7 de marzo de 2017 (328 a 5; solo el PNV votó no), el 17 de noviembre de 2020 (342 a 6; solo el PNV votó no) y el 8 de octubre de 2024 (341 a 0; el PNV no votó). Es el mismo expediente, trasladado de legislatura en legislatura desde 2015.",
+  "p": [
+   "PNV"
+  ],
   "s": "Pese a la unanimidad de 2024, no llegó a aprobarse antes de la disolución de las Cortes el 6 de octubre de 2026. La reforma de las leyes de dependencia y discapacidad aprobada en septiembre de 2026 era otra iniciativa, del Ministerio de Derechos Sociales, y en ella el Gobierno vetó una enmienda para eximir del copago a los dependientes de grado III+ alegando que superaba el gasto presupuestado.",
-  "n": "Todos votaron a favor de tramitarla, pero PNV y Junts advirtieron de que invade competencias autonómicas sobre servicios sociales. Las fuentes no aclaran quién frenó después su tramitación.",
+  "n": "El plazo de enmiendas estuvo abierto 19 meses en la legislatura de 2016-2019, dos años y medio en la de 2019-2023 y, en la última, desde octubre de 2024 hasta la disolución. PNV y Junts advirtieron de que invade competencias autonómicas sobre servicios sociales. Las fuentes no aclaran quién frenó después su tramitación.",
   "src": [
    [
     "Servimedia",
@@ -136,6 +150,18 @@
    [
     "Infobae (Europa Press): la reforma de dependencia y el veto a la enmienda del copago (sep 2026)",
     "https://www.infobae.com/america/agencias/2026/09/16/el-congreso-aprueba-definitivamente-la-reforma-de-las-leyes-de-discapacidad-y-dependencia/"
+   ],
+   [
+    "Congreso: votación nominal del 7-mar-2017 (datos abiertos)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion032/20170307/Votacion001/VOT_20201204141837.json"
+   ],
+   [
+    "Congreso: votación nominal del 17-nov-2020 (datos abiertos)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion059/20201117/Votacion001/VOT_20201117203151.json"
+   ],
+   [
+    "Congreso: votación nominal del 8-oct-2024 (datos abiertos)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion064/20241008/Votacion001/VOT_20241008205543.json"
    ]
   ]
  },
@@ -146,13 +172,15 @@
   "res": "bloq",
   "f": "Más de 700.000 firmas",
   "pr": "CCOO y UGT",
-  "v": "Tomada en consideración el 2 de febrero de 2017 con el voto en contra de PP y Ciudadanos.",
+  "v": "Tomada en consideración el 2 de febrero de 2017 por 177 a 165, con el voto en contra de PP, Ciudadanos, UPN y Foro. El 22 de febrero de 2018, la petición de llevarla al Pleno se rechazó por 168 a 170, con el voto en contra de PP, Ciudadanos, PNV, UPN y Foro.",
   "p": [
    "PP",
-   "Cs"
+   "Cs",
+   "PNV",
+   "Otros"
   ],
-  "s": "Proponía una prestación de 426 euros al mes para personas en paro sin ingresos. Acumuló unas 20 ampliaciones del plazo de enmiendas y nunca se aprobó. En la práctica la sustituyó el Ingreso Mínimo Vital de 2020, aprobado por decreto.",
-  "n": "PP y Ciudadanos alegaron su coste y su financiación. Las fuentes no aclaran qué grupos la frenaron en cada prórroga. Formalmente no ha caducado: se ha ido trasladando de legislatura.",
+  "s": "Proponía una prestación de 426 euros al mes para personas en paro sin ingresos. Según Público, la Mesa del Congreso, con mayoría de PP y Ciudadanos, amplió el plazo de enmiendas 19 veces en un año. Nunca se aprobó, y desde 2019 ni siquiera volvió a votarse en el Pleno: se quedó en comisión. En la práctica la sustituyó el Ingreso Mínimo Vital de 2020, aprobado por decreto.",
+  "n": "PP y Ciudadanos alegaron su coste y su financiación; el secretario de Estado Alberto Nadal dijo que supondría la ruina de las arcas públicas. El PNV, que apoyaba la ley, votó contra llevarla al Pleno; según fuentes citadas por El Independiente, porque no se siente cómodo «por principios» con las avocaciones. No se sabe quién pidió las prórrogas después de 2019. Formalmente no ha caducado: se ha ido trasladando de legislatura.",
   "src": [
    [
     "UGT",
@@ -161,21 +189,41 @@
    [
     "Público: el Congreso la toma en consideración (feb 2017)",
     "https://www.publico.es/politica/congreso-aprueba-consideracion-renta-minima.html"
+   ],
+   [
+    "Público: PP y Cs la bloquean 19 veces en un año",
+    "https://www.publico.es/sociedad/pp-c-s-bloquean-19-veces-ano-renta-minima-propuesta-ccoo-ugt.html"
+   ],
+   [
+    "El Independiente: la votación para llevarla al Pleno (feb 2018)",
+    "https://www.elindependiente.com/economia/2018/02/25/ley-renta-minima-psoe/"
+   ],
+   [
+    "Congreso: votación nominal del 2-feb-2017 (datos abiertos)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion026/20170202/Votacion013/VOT_20201204142445.json"
+   ],
+   [
+    "Congreso: votación nominal del 22-feb-2018 (datos abiertos)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion102/20180222/Votacion009/VOT_20201204123054.json"
    ]
   ]
  },
  {
-  "d": "2023-08-01",
+  "d": "2026-10-05",
   "a": "Congreso",
-  "m": "Decenas de ILP caducadas o inadmitidas",
+  "m": "Balance de la década: 111 expedientes de ILP y una sola ley",
   "res": "otro",
   "f": "—",
   "pr": "Varios",
   "v": "Sin votación.",
   "p": [],
-  "s": "Según los listados de la Junta Electoral Central de las legislaturas XIV y XV (2019-2026), caducaron ILP sobre dación en pago, copago farmacéutico de pensionistas, recuperación de la sanidad pública o maltrato a mayores, entre otras, y la Mesa del Congreso inadmitió otras sobre okupación, CGPJ, natalidad o estatuto del político.",
-  "n": "Una ILP caduca cuando no se entregan las firmas en el plazo legal, no porque el Congreso deje de votarla. La inadmisión suele deberse a que tratan materias excluidas de la iniciativa popular. Los listados no cubren la legislatura de 2016 a 2019.",
+  "s": "Entre 2016 y la disolución de las Cortes en octubre de 2026 se registraron en el Congreso 111 expedientes de ILP (unas 93 iniciativas distintas, porque las vivas se vuelven a registrar en cada legislatura). Solo una acabó en ley: la del Mar Menor (2022). Por legislatura: 2016-2019, 20 expedientes (8 inadmitidas y 7 caducadas); 2019, 8 (1 caducada, el resto trasladadas); 2019-2023, 35 (1 aprobada, 15 inadmitidas, 9 caducadas, 3 retiradas y 1 vetada por el Gobierno); 2023-2026, 48 (1 rechazada, 21 inadmitidas, 16 caducadas y 1 retirada). Entre las caducadas hay ILP sobre dación en pago, copago farmacéutico de pensionistas, recuperación de la sanidad pública o maltrato a mayores; entre las inadmitidas, sobre okupación, CGPJ, natalidad, transparencia o estatuto del político.",
+  "n": "Una ILP caduca cuando no se entregan las firmas en el plazo legal, no porque el Congreso deje de votarla. La Mesa no publica el motivo de cada inadmisión; según Europa Press, las causas habituales son materias reservadas a ley orgánica, defectos formales o falta de memoria económica. Las que seguían vivas al disolverse las Cortes no decaen: pasan al próximo Congreso. Recuento propio a partir del buscador de iniciativas del Congreso (tipo 120).",
   "src": [
+   [
+    "Infobae (Europa Press): ninguna de las 42 ILP de la legislatura prosperó (feb 2026)",
+    "https://www.infobae.com/espana/agencias/2026/02/14/ninguna-de-las-42-ilps-tramitadas-esta-legislatura-ha-prosperado-la-mayoria-fueron-inadmitidas-o-les-faltaron-firmas/"
+   ],
    [
     "JEC: legislatura XIV",
     "https://www.juntaelectoralcentral.es/cs/jec/ilp/legislaturas/Legislatura&sIdLeg=14&p=1379061558559"
@@ -714,6 +762,607 @@
    [
     "Telemadrid (EFE): el pleno aprueba los Consejos de Proximidad",
     "https://www.telemadrid.es/noticias/madrid/Almeida-Locales-Carmena-Consejos-Proximidad-0-2346365365--20210601014822.html"
+   ]
+  ]
+ },
+ {
+  "d": "2020-03-03",
+  "a": "Congreso",
+  "m": "Equiparación salarial de Policía Nacional y Guardia Civil con las policías autonómicas",
+  "res": "bloq",
+  "f": "Más de medio millón de firmas",
+  "pr": "Jusapol, asociación de policías y guardias civiles",
+  "v": "Tomada en consideración el 13 de noviembre de 2018 por 318 a 23. En contra ERC, PNV, PDeCAT y Bildu; a favor PSOE, PP, Podemos y Ciudadanos.",
+  "p": [
+   "PSOE",
+   "Podemos/UP"
+  ],
+  "s": "Al volver a registrarse en la nueva legislatura, el Gobierno de PSOE y Unidas Podemos ejerció su veto presupuestario (artículo 134.6 de la Constitución) porque aumentaba el gasto. En marzo de 2020 la Mesa del Congreso dio cuenta del veto y la ILP decayó.",
+  "n": "La portavoz socialista Adriana Lastra dijo que supondría un gasto de cerca de 1.900 millones de euros, «inasumibles» con un Presupuesto ya en trámite. Jusapol acusó al Gobierno de ceder ante el independentismo para que los Mossos siguieran siendo los mejor pagados.",
+  "src": [
+   [
+    "Congreso: BOCG del veto del Gobierno (B-5-2, 2020)",
+    "https://www.congreso.es/public_oficiales/L14/CONG/BOCG/B/BOCG-14-B-5-2.PDF"
+   ],
+   [
+    "El Independiente: el Gobierno veta la ILP",
+    "https://www.elindependiente.com/politica/2020/03/03/el-gobierno-veta-la-ilp-sobre-la-equiparacion-salarial-avalada-por-mas-de-medio-millon-de-firmas/"
+   ],
+   [
+    "El Español: la reacción de Jusapol",
+    "https://www.elespanol.com/espana/20200229/gobierno-iniciativa-policias-guardias-civiles-cobrar-mossos/470954306_0.html"
+   ],
+   [
+    "Congreso: votación nominal del 13-nov-2018 (datos abiertos)",
+    "https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion156/20181113/Votacion001/VOT_20201204112306.json"
+   ]
+  ]
+ },
+ {
+  "d": "2017-06-28",
+  "a": "Cataluña",
+  "m": "Asociaciones de consumidores de cannabis",
+  "res": "apro",
+  "f": "—",
+  "pr": "Comisión promotora de la ILP",
+  "v": "Aprobada por 118 a favor (JxSí, Cs, PSC, CSQP y CUP), 8 en contra (PP) y 1 abstención (diputado no adscrito).",
+  "p": [
+   "PP"
+  ],
+  "s": "El Parlament aprobó la Ley 13/2017. El Gobierno de Rajoy la recurrió y el Tribunal Constitucional la anuló entera (STC 100/2018, de 19 de septiembre) por invadir la competencia del Estado en legislación penal.",
+  "n": "Es un caso de ILP aprobada y anulada después por razones competenciales, no por su contenido.",
+  "src": [
+   [
+    "Parlament de Catalunya: aprobación de la ley",
+    "https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270277152"
+   ],
+   [
+    "BOE: STC 100/2018",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-13998"
+   ]
+  ]
+ },
+ {
+  "d": "2017-07-12",
+  "a": "Cataluña",
+  "m": "Renta garantizada de ciudadanía",
+  "res": "apro",
+  "f": "—",
+  "pr": "Comisión promotora de la ILP, con apoyo de entidades sociales y sindicatos",
+  "v": "Aprobada por unanimidad.",
+  "p": [],
+  "s": "El Parlament aprobó la Ley 14/2017, de la renta garantizada de ciudadanía, nacida de una ILP, con el Govern de JxSí.",
+  "n": "Ningún grupo votó en contra.",
+  "src": [
+   [
+    "Parlament de Catalunya: aprobación por unanimidad",
+    "https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270279594"
+   ]
+  ]
+ },
+ {
+  "d": "2022-04-27",
+  "a": "Cataluña",
+  "m": "Rebaja de los precios universitarios",
+  "res": "apro",
+  "f": "—",
+  "pr": "Sindicatos de estudiantes y entidades educativas",
+  "v": "El articulado lo aprobaron todos los grupos menos el PP, que se abstuvo. La disposición transitoria salió por 88 votos (ERC, Junts, Vox, CUP y PP) y 45 abstenciones (PSC, Cs y En Comú Podem).",
+  "p": [],
+  "s": "El Parlament aprobó la ley de rebaja de los precios públicos universitarios.",
+  "n": "Nadie votó en contra; las abstenciones fueron parciales.",
+  "src": [
+   [
+    "Parlament de Catalunya: aprobación de la ley",
+    "https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270455972"
+   ]
+  ]
+ },
+ {
+  "d": "2023-10-04",
+  "a": "Cataluña",
+  "m": "Mercat dels Ocells de la Rambla como patrimonio inmaterial",
+  "res": "rech",
+  "f": "Más de 56.000 firmas",
+  "pr": "Antiguos paradistas de pájaros de la Rambla",
+  "v": "Prosperaron las enmiendas de devolución de PSC y comuns, con el apoyo de ERC y Junts: 96 a favor, 30 en contra (Vox, CUP, Cs y PP) y 3 sin votar.",
+  "p": [
+   "PSOE",
+   "Sumar",
+   "ERC",
+   "Junts"
+  ],
+  "s": "El Parlament devolvió la ILP, que pedía proteger como patrimonio la venta de pájaros en la Rambla de Barcelona.",
+  "n": "Los comuns (David Cid) dijeron que en el siglo XXI estas actividades no tienen cabida, y el PSC (Assumpta Escarp) que todas las concesiones estaban caducadas. La venta de animales ya chocaba con la ley catalana de protección animal.",
+  "src": [
+   [
+    "Parlament de Catalunya: diario de sesiones del 4-oct-2023",
+    "https://www.parlament.cat/document/trancripcio/394530900.pdf"
+   ]
+  ]
+ },
+ {
+  "d": "2024-11-20",
+  "a": "Cataluña",
+  "m": "Declaración de independencia",
+  "res": "otro",
+  "f": "—",
+  "pr": "Solidaritat Catalana per la Independència",
+  "v": "Mesa del Parlament (20-feb-2024): admitida con los votos de Junts y la CUP, abstención de ERC y voto en contra del PSC.",
+  "p": [
+   "Junts",
+   "Otros"
+  ],
+  "s": "La Mesa la admitió a trámite contra el criterio del letrado del Parlament. A recurso del Gobierno central, el Tribunal Constitucional anuló la admisión el 20 de noviembre de 2024: dijo que la ILP llevaba de forma inequívoca una reforma constitucional y que la Mesa no debió admitirla.",
+  "n": "En esta entrada los partidos señalados son los que la admitieron contra el informe jurídico (Junts y la CUP), no quienes la frenaron. Los promotores la volvieron a registrar después.",
+  "src": [
+   [
+    "Público: la Mesa la admite (feb 2024)",
+    "https://www.publico.es/politica/parlament-catalunya-admite-tramite-iniciativa-legislativa-popular-declarar-independencia.html"
+   ],
+   [
+    "VilaWeb: el TC anula la admisión (nov 2024)",
+    "https://www.vilaweb.cat/noticies/tc-tomba-acord-mesa-parlament-admetia-tramit-ilp-independencia-catalunya/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-02-07",
+  "a": "País Vasco",
+  "m": "Mejorar la renta de garantía de ingresos contra la pobreza",
+  "res": "rech",
+  "f": "51.000 firmas",
+  "pr": "Carta de Derechos Sociales de Euskal Herria (ELA, LAB y otros colectivos)",
+  "v": "En contra PNV, PSE-EE y PP; a favor EH Bildu y Elkarrekin Podemos.",
+  "p": [
+   "PNV",
+   "PSOE",
+   "PP"
+  ],
+  "s": "Pedía bajar de 23 a 18 años la edad mínima para cobrar la RGI, reducir de 3 años a 1 la residencia exigida y subir la cuantía. El Parlamento Vasco la rechazó en la toma en consideración.",
+  "n": "Amaia Arregi (PNV) dijo que la regulación ya contemplaba esas situaciones y que no se pueden «matar moscas a cañonazos». El Gobierno Vasco alegó que ya había una reforma de la RGI de PNV y PSE registrada en la Cámara.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/euskadi/euskadi/ilp-rgi_1_1714900.html"
+   ],
+   [
+    "Orain (EITB)",
+    "https://orain.eus/es/politica/2019/02/07/camara-vasca-rechaza-ilp-pobreza-exclusion-7-febrero-2019/"
+   ]
+  ]
+ },
+ {
+  "d": "2025-03-05",
+  "a": "Navarra",
+  "m": "Que Navarra pueda fijar su propio salario mínimo",
+  "res": "bloq",
+  "f": "—",
+  "pr": "ELA, LAB, ESK, Steilas, Etxalde e Hiru",
+  "v": "Sin votación: la Mesa del Parlamento no la admitió a trámite, siguiendo el informe de sus servicios jurídicos.",
+  "p": [
+   "PSOE",
+   "Otros"
+  ],
+  "s": "La ILP pedía una habilitación competencial para que el Parlamento de Navarra pudiera regular el salario mínimo. La Mesa la inadmitió a principios de 2025, con el Gobierno de PSN, Geroa Bai y Contigo. Los sindicatos anunciaron recurso ante el Constitucional y recogieron firmas por su cuenta. El 12 de marzo de 2026 el Pleno rechazó una propuesta parecida de EH Bildu y Geroa Bai, con el voto en contra de PSN, PPN, Contigo-Zurekin, el Grupo Mixto y una no adscrita, y la abstención de UPN.",
+  "n": "PSN y Contigo alegaron que el salario mínimo forma parte del «núcleo esencial» de la legislación laboral básica, que es competencia del Estado. Geroa Bai, socio del Gobierno, votó a favor. No consta el voto de cada miembro de la Mesa en la inadmisión.",
+  "src": [
+   [
+    "ELA: inadmisión y recurso anunciado",
+    "https://www.ela.eus/es/noticias/ela-lab-esk-steilas-etxalde-e-hiru-convocan-movilizaciones-y-recogeran-firmas-por-el-smi-de-navarra"
+   ],
+   [
+    "Navarra Información: la votación de 2026",
+    "https://www.navarrainformacion.es/2026/03/12/l-parlamento-de-navarra-rechaza-una-iniciativa-legislativa-de-caracter-estatal-para-modificar-la-regulacion-del-smi/"
+   ]
+  ]
+ },
+ {
+  "d": "2023-03-28",
+  "a": "Baleares",
+  "m": "Bienestar de las generaciones presentes y futuras",
+  "res": "apro",
+  "f": "Unas 12.000 firmas",
+  "pr": "GOB y otras entidades",
+  "v": "Aprobada con los votos de PSIB, Unides Podem, Més per Mallorca y Més per Menorca. El PP votó en contra.",
+  "p": [
+   "PP"
+  ],
+  "s": "Fue la primera ILP que acabó en ley en el Parlament balear (Ley 10/2023), con el Govern de PSIB, Més y Unides Podem.",
+  "n": "Vox (Sergio Rodríguez) anunció que, si gobernaba, anularía la ley porque iba «en contra de derechos y libertades». En 2024 el Govern del PP la modificó por decreto ley; según el GOB, que es parte, la dejó casi sin efecto.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/illes-balears/sociedad/balears-aprueba-ley-pionera-centrada-bienestar-generaciones-futuras-emergencia-climatica_1_10078725.html"
+   ],
+   [
+    "BOE: Ley 10/2023",
+    "https://www.boe.es/buscar/doc.php?id=BOE-A-2023-13804"
+   ]
+  ]
+ },
+ {
+  "d": "2025-10-07",
+  "a": "Baleares",
+  "m": "Complemento balear para que las pensiones lleguen al salario mínimo",
+  "res": "tram",
+  "f": "20.099 firmas validadas (mínimo exigido: 7.500)",
+  "pr": "Coordinadora Balear per a la Defensa de les Pensions",
+  "v": "Admitida a trámite el 7 de octubre de 2025.",
+  "p": [],
+  "s": "La Mesa del Parlament la admitió y en octubre de 2026 la Oficina del Censo Electoral validó las firmas. Pendiente de debate.",
+  "n": "Es la misma reivindicación que el País Vasco rechazó en 2025.",
+  "src": [
+   [
+    "Ara Balears: admitida a trámite",
+    "https://es.arabalears.cat/sociedad/parlamento-admite-tramite-iniciativa-legislativa-popular-mejorar-pensiones-bajas-baleares_1_5521512.html"
+   ],
+   [
+    "dBalears: firmas validadas (oct 2026)",
+    "https://www.dbalears.cat/balears/economia/2026/10/05/423109/validen-mes-20000-signatures-per-sol-licitar-complement-balear-les-pensions.html"
+   ]
+  ]
+ },
+ {
+  "d": "2024-03-20",
+  "a": "Comunitat Valenciana",
+  "m": "Libre elección de lengua en la enseñanza ('Hablamos Español')",
+  "res": "rech",
+  "f": "—",
+  "pr": "Asociación Hablamos Español",
+  "v": "En contra PP, PSPV y Compromís; a favor Vox.",
+  "p": [
+   "PP",
+   "PSOE",
+   "Otros"
+  ],
+  "s": "Les Corts rechazaron tomarla en consideración, en el mismo pleno que la ILP de ratios educativas, con el Gobierno de PP y Vox.",
+  "n": "El PP la rechazó porque algunos artículos contradecían el Estatuto de Autonomía. El PSPV defendió la diversidad lingüística en las escuelas. La promotora, Gloria Lago, calificó la enseñanza intensiva en valenciano de «aberración pedagógica».",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/comunitat-valenciana/politica/vox-apoya-corts-valencianes-iniciativa-legislativa-considera-ensenanza-intensiva-valenciano-aberracion-pedagogica_1_11229535.html"
+   ]
+  ]
+ },
+ {
+  "d": "2017-11-23",
+  "a": "La Rioja",
+  "m": "Plan especial de protección del paisaje vitícola de Haro",
+  "res": "bloq",
+  "f": "Unas 8.500 firmas (hacían falta 6.000)",
+  "pr": "Plataforma en defensa del paisaje de Haro, con bodegueros y vecinos",
+  "v": "Tomada en consideración el 23 de noviembre de 2017.",
+  "p": [],
+  "s": "Nueve años después no se ha aprobado: se fue trasladando de legislatura con gobiernos del PP, del PSOE (2019-2023) y otra vez del PP.",
+  "n": "Las fuentes no aclaran qué grupos frenaron después la tramitación.",
+  "src": [
+   [
+    "Parlamento de La Rioja: tramitación en la IX legislatura",
+    "https://www.parlamento-larioja.org/conoce-el-parlamento/legislaturas-anteriores/legislatura-9/iniciativas/pplp/9l-pplp-0003"
+   ],
+   [
+    "Parlamento de La Rioja: ILP en trámite",
+    "https://www.parlamento-larioja.org/actividad-parlamentaria/proposiciones-de-ley/de-iniciativa-popular"
+   ]
+  ]
+ },
+ {
+  "d": "2018-02-15",
+  "a": "La Rioja",
+  "m": "Protección y promoción de la tauromaquia",
+  "res": "apro",
+  "f": "6.054 firmas válidas",
+  "pr": "Comisión promotora de aficionados taurinos",
+  "v": "Toma en consideración (30-mar-2017): a favor PP y PSOE; abstención de Podemos y Ciudadanos.",
+  "p": [],
+  "s": "El Parlamento de La Rioja la aprobó como Ley 3/2018, de 16 de febrero, con el Gobierno del PP.",
+  "n": "No se ha podido confirmar con una fuente fiable el voto de cada grupo en la aprobación final.",
+  "src": [
+   [
+    "COPE: toma en consideración",
+    "https://www.cope.es/actualidad/toros/noticias/admitida-ilp-que-protegera-difundira-tauromaquia-rioja-20170331_38502"
+   ],
+   [
+    "BOE: Ley 3/2018 de La Rioja",
+    "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-3000"
+   ]
+  ]
+ },
+ {
+  "d": "2018-11-22",
+  "a": "La Rioja",
+  "m": "Protección de los animales",
+  "res": "apro",
+  "f": "—",
+  "pr": "Comisión promotora de la ILP",
+  "v": "Tomada en consideración el 28 de abril de 2016 y aprobada en noviembre de 2018.",
+  "p": [],
+  "s": "El Parlamento de La Rioja la aprobó como Ley 6/2018, de 26 de noviembre, con el Gobierno del PP. Prohíbe, entre otras cosas, los circos con animales.",
+  "n": "No se ha podido confirmar el voto de cada grupo.",
+  "src": [
+   [
+    "Parlamento de La Rioja: tramitación",
+    "https://www.parlamento-larioja.org/conoce-el-parlamento/legislaturas-anteriores/legislatura-9/iniciativas/pplp/9l-pplp-0001"
+   ],
+   [
+    "BOE: Ley 6/2018 de La Rioja",
+    "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-17064"
+   ]
+  ]
+ },
+ {
+  "d": "2021-05-20",
+  "a": "Andalucía",
+  "m": "Acceso de los interinos a la función pública por concurso de méritos",
+  "res": "bloq",
+  "f": "—",
+  "pr": "Comisión promotora de interinos de la Junta",
+  "v": "Toma en consideración (25-sep-2019): 50 a favor, ninguno en contra y 57 abstenciones. En comisión (20-may-2021), PP, Cs y Vox rechazaron el dictamen; PSOE y Adelante votaron a favor.",
+  "p": [
+   "PP",
+   "Cs",
+   "Vox"
+  ],
+  "s": "Se admitió en 2018 con el Gobierno del PSOE y se tomó en consideración en 2019, ya con el de PP y Cs. La Comisión de Presidencia la tumbó en 2021 y la Mesa dio el procedimiento por concluido sin votación final en el Pleno. Los promotores recurrieron en amparo al Constitucional.",
+  "n": "Funcionarios y opositores se oponían porque saltaba los principios de igualdad, mérito y capacidad. La Asamblea de Extremadura inadmitió en 2018 ILP parecidas por chocar con el Estatuto Básico del Empleado Público. No consta nominalmente qué grupos se abstuvieron en 2019.",
+  "src": [
+   [
+    "Parlamento de Andalucía: expediente 10-18/ILPA-000001",
+    "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/actividadparlamentaria/tramitacionencurso/legislativas.do?numexp=10-18%2FILPA-000001"
+   ],
+   [
+    "Parlamento de Andalucía: diario de sesiones 30/2019",
+    "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/pdf.do?tipodoc=diario&id=141174"
+   ],
+   [
+    "elDiario.es: los interinos recurren al TC (sep 2021)",
+    "https://www.eldiario.es/andalucia/interinos-andaluces-recurren-tc-parlamento-regional-deje-tramitar-iniciativa-legislativa-popular_1_8304274.html"
+   ]
+  ]
+ },
+ {
+  "d": "2019-05-02",
+  "a": "Andalucía",
+  "m": "Ley contra la pobreza energética (iniciativa de 30 ayuntamientos)",
+  "res": "rech",
+  "f": "Iniciativa municipal, sin firmas",
+  "pr": "30 ayuntamientos andaluces",
+  "v": "49 a favor, 59 en contra y 1 abstención. En contra PP, Cs y Vox.",
+  "p": [
+   "PP",
+   "Cs",
+   "Vox"
+  ],
+  "s": "El Parlamento rechazó tomarla en consideración. El Consejo de Gobierno de PP y Cs había dado criterio contrario porque podía exceder la competencia autonómica.",
+  "n": "Los tres grupos dijeron compartir el fondo. Cs alegó su «presumible inconstitucionalidad», el PP la llamó «extemporánea» porque el Estado ya regula el bono social, y Vox dijo que acabaría en un recurso de inconstitucionalidad.",
+  "src": [
+   [
+    "Parlamento de Andalucía: diario de sesiones 14/2019",
+    "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/pdf.do?tipodoc=diario&id=138314"
+   ]
+  ]
+ },
+ {
+  "d": "2022-04-06",
+  "a": "Andalucía",
+  "m": "Ley de la Cultura de Andalucía (iniciativa de 11 ayuntamientos)",
+  "res": "rech",
+  "f": "Iniciativa municipal, sin firmas",
+  "pr": "11 ayuntamientos, entre ellos Sevilla",
+  "v": "48 a favor, 59 en contra y ninguna abstención.",
+  "p": [
+   "PP",
+   "Cs",
+   "Vox"
+  ],
+  "s": "El Parlamento rechazó tomarla en consideración. El Consejo de Gobierno de PP y Cs dio criterio contrario: «no existe un déficit legislativo en esta materia».",
+  "n": "El PP (López Gabarro) dijo que no hacía falta «ninguna otra ley» sino buena gestión.",
+  "src": [
+   [
+    "Parlamento de Andalucía: diario de sesiones 133/2022",
+    "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/pdf.do?tipodoc=diario&id=164374"
+   ]
+  ]
+ },
+ {
+  "d": "2023-02-08",
+  "a": "Andalucía",
+  "m": "Moratoria de macroproyectos renovables en espacios protegidos (iniciativa de más de 70 ayuntamientos)",
+  "res": "rech",
+  "f": "Iniciativa municipal, sin firmas",
+  "pr": "Más de 70 ayuntamientos",
+  "v": "36 a favor, 56 en contra y 13 abstenciones. En contra el PP, con mayoría absoluta; el PSOE a favor.",
+  "p": [
+   "PP"
+  ],
+  "s": "El Parlamento rechazó tomarla en consideración.",
+  "n": "El PP (Ibáñez) dijo que estigmatizar las renovables «por meros prejuicios» solo genera desinformación. Las 13 abstenciones encajan con Vox, pero no se ha confirmado nominalmente.",
+  "src": [
+   [
+    "Parlamento de Andalucía: diario de sesiones 22/2023",
+    "https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/pdf.do?tipodoc=diario&id=170754"
+   ]
+  ]
+ },
+ {
+  "d": "2017-11-08",
+  "a": "Madrid",
+  "m": "Ley del derecho a la vivienda",
+  "res": "rech",
+  "f": "Más de 77.000 firmas",
+  "pr": "Coordinadora de Vivienda de Madrid, FRAVM y Asociación Libre de Abogados",
+  "v": "Rechazada con los votos en contra de PP y Cs.",
+  "p": [
+   "PP",
+   "Cs"
+  ],
+  "s": "La Asamblea de Madrid rechazó tomarla en consideración, con el Gobierno de Cifuentes (PP) apoyado por Cs.",
+  "n": "Cs (Rubio) pidió no malgastar el tiempo en «un modelo que los tribunales no nos van a dejar implantar». PP y Cs se apoyaron en un informe del Ministerio de Justicia que veía inconstitucionales algunos artículos.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/madrid/pp-ciudadanos-ilp-madrid-asamblea_1_3083970.html"
+   ],
+   [
+    "El Salto",
+    "https://www.elsaltodiario.com/vivienda/pp-y-ciudadanos-tumban-la-ilp-de-vivienda"
+   ]
+  ]
+ },
+ {
+  "d": "2018-11-20",
+  "a": "Galicia",
+  "m": "Bosque autóctono y freno al eucalipto",
+  "res": "rech",
+  "f": "Más de 40.000 firmas",
+  "pr": "ADEGA y unas 60 entidades",
+  "v": "En contra el PP; abstención del PSdeG; a favor En Marea y BNG.",
+  "p": [
+   "PP"
+  ],
+  "s": "El Parlamento de Galicia rechazó tomarla en consideración, con mayoría absoluta del PP.",
+  "n": "El PP prefirió seguir las recomendaciones de la comisión de política forestal y negó una relación directa entre eucalipto e incendios.",
+  "src": [
+   [
+    "El Correo Gallego",
+    "https://www.elcorreogallego.es/hemeroteca/pp-rechaza-tramitar-iniciativa-legislativa-popular-proponia-parar-eucalipto-HPCG1149583"
+   ]
+  ]
+ },
+ {
+  "d": "2022-03-22",
+  "a": "Galicia",
+  "m": "Ley de salud mental",
+  "res": "rech",
+  "f": "Unas 17.000 firmas",
+  "pr": "Fundación Salma",
+  "v": "En contra el PP; abstención del PSdeG; a favor el BNG.",
+  "p": [
+   "PP"
+  ],
+  "s": "El Parlamento de Galicia rechazó tomarla en consideración.",
+  "n": "El PP alegó que el plan gallego de salud mental 2020-2024 ya estaba «perfectamente adaptado a la realidad tras la pandemia».",
+  "src": [
+   [
+    "El Correo Gallego",
+    "https://www.elcorreogallego.es/galicia/2022/03/22/parlamento-rechaza-toma-consideracion-ilp-109718078.html"
+   ]
+  ]
+ },
+ {
+  "d": "2022-11-22",
+  "a": "Galicia",
+  "m": "Montes vecinales en mano común",
+  "res": "rech",
+  "f": "11.696 firmas válidas",
+  "pr": "Organización Galega de Comunidades de Montes",
+  "v": "En contra el PP; a favor BNG y PSdeG.",
+  "p": [
+   "PP"
+  ],
+  "s": "El Parlamento de Galicia rechazó tomarla en consideración.",
+  "n": "El PP dijo que la Xunta ya preparaba un «libro blanco» con el nuevo marco normativo de los montes vecinales.",
+  "src": [
+   [
+    "El Correo Gallego",
+    "https://www.elcorreogallego.es/galicia/2022/11/22/ppdeg-tumba-iniciativa-montes-mancomun-109419584.html"
+   ]
+  ]
+ },
+ {
+  "d": "2023-09-26",
+  "a": "Galicia",
+  "m": "Texto auténtico del himno gallego",
+  "res": "rech",
+  "f": "Unas 16.000 firmas",
+  "pr": "Vía Galega y Galiza Cultura",
+  "v": "En contra PP y PSdeG; a favor el BNG.",
+  "p": [
+   "PP",
+   "PSOE"
+  ],
+  "s": "El Parlamento de Galicia rechazó tomarla en consideración. Pedía corregir lo que los promotores consideran errores en la letra oficial del himno.",
+  "n": "El BNG fue el único grupo a favor.",
+  "src": [
+   [
+    "elDiario.es",
+    "https://www.eldiario.es/galicia/pp-psoe-votan-corregir-errores-himno-gallego_1_10545473.html"
+   ]
+  ]
+ },
+ {
+  "d": "2025-07-08",
+  "a": "Murcia",
+  "m": "Ley del derecho a la vivienda",
+  "res": "rech",
+  "f": "16.000 firmas",
+  "pr": "Unas 20 entidades, con la PAH",
+  "v": "Los 28 votos de PP y Vox en contra; a favor PSOE y Grupo Mixto.",
+  "p": [
+   "PP",
+   "Vox"
+  ],
+  "s": "La Asamblea Regional rechazó tomarla en consideración, con el Gobierno del PP en solitario. El PSOE anunció que la presentaría como propia.",
+  "n": "El PP dijo que la solución era la ley nacional de vivienda que propone su partido, y PP y Vox se apoyaron en los defectos que señalaba el informe jurídico de la Cámara. Solo se ha encontrado la cobertura de la televisión pública regional.",
+  "src": [
+   [
+    "ORM: PP y Vox impiden el debate",
+    "https://www.orm.es/informativos/pp-y-vox-impiden-el-debate-de-la-ilp-por-el-derecho-a-la-vivienda-en-la-asamblea-regional/"
+   ],
+   [
+    "ORM: la víspera",
+    "https://www.orm.es/informativos/el-pp-votara-manana-en-la-asamblea-regional-en-contra-de-la-iniciativa-legislativa-popular-por-el-derecho-a-la-vivienda/"
+   ]
+  ]
+ },
+ {
+  "d": "2024-05-22",
+  "a": "Canarias",
+  "m": "Derechos de los propietarios de viviendas en zonas turísticas",
+  "res": "rech",
+  "f": "22.876 firmas",
+  "pr": "Propietarios afectados por la cesión obligatoria de pisos a explotadores turísticos",
+  "v": "En contra PP, CC, NC-BC y ASG; a favor PSOE y Vox.",
+  "p": [
+   "PP",
+   "CC",
+   "Otros"
+  ],
+  "s": "El Parlamento de Canarias rechazó tomarla en consideración, con el Gobierno de CC y PP, que dio criterio contrario.",
+  "n": "Los grupos en contra dijeron que reflejaba una visión parcial y que la revisión debía hacerse por el procedimiento de la Ley 4/2023.",
+  "src": [
+   [
+    "Parlamento de Canarias: diario de sesiones 38/2024",
+    "https://www.parcan.es/pub/ds.py/2024/38/11/"
+   ],
+   [
+    "Canarias Ahora (elDiario.es)",
+    "https://www.eldiario.es/canariasahora/sociedad/parlamento-canario-rechaza-tramitar-iniciativa-legislativa-afectados-ceder-piso-explotador-turistico_1_11387501.html"
+   ]
+  ]
+ },
+ {
+  "d": "2026-07-13",
+  "a": "Castilla-La Mancha",
+  "m": "Enfermería escolar en los centros educativos",
+  "res": "bloq",
+  "f": "—",
+  "pr": "Federaciones de AMPAS y los sindicatos ANPE, STE y SATSE",
+  "v": "Sin votación: la Mesa de las Cortes no la admitió.",
+  "p": [
+   "PSOE"
+  ],
+  "s": "La Mesa de las Cortes, con mayoría absoluta del PSOE, rechazó el 13 de julio de 2026 que se tramitara y debatiera en el Pleno.",
+  "n": "No se ha encontrado el acuerdo de la Mesa ni su motivo oficial; los promotores hablaron de «deficiencias políticas y democráticas».",
+  "src": [
+   [
+    "Lanza",
+    "https://www.lanzadigital.com/castilla-la-mancha/ampas-y-sindicatos-vuelven-a-pedir-enfermeria-escolar-en-centros-educativos-tras-rechazar-las-cortes-esta-ilp/"
+   ],
+   [
+    "Torrijos Today",
+    "https://torrijostoday.com/castilla-la-mancha/ampas-y-sindicatos-vuelven-a-reclamar-enfermeria-escolar-en-centros-educativos-tras-rechazar-las-cortes-esta-ilp/"
    ]
   ]
  }
