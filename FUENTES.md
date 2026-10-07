@@ -9178,7 +9178,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 1/2016, de transparencia y buen gobierno](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3190)
   - [BOE (ELI): Ley 1/2016](https://www.boe.es/eli/es-ga/l/2016/01/18/1)
 
-## Bulos (132)
+## Bulos (134)
 
 ### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Pidió a todo el mundo que «ni se le ocurra votar por correo» y habló de una posible adulteración de los censos.
 - Fecha: 5 oct 2026
@@ -9631,6 +9631,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que García-Gallardo cobre 101.000 euros al año, como dice Bal](https://maldita.es/malditodato/20220622/edmundo-bal-garcia-gallardo-101000-euros/)
+
+### Juanma Moreno (presidente de la Junta de Andalucía y candidato del PP): Que Andalucía es «la comunidad con más víctimas del terrorismo de ETA».
+- Fecha: 6 jun 2022
+- Partido: PP
+- Canal: Debate electoral de las andaluzas (difundido por la cuenta del PP de Andalucía) · Tema: Otros
+- Qué dicen los datos: Según el libro «Vidas rotas», la referencia que usan los historiadores consultados por Newtral, 121 víctimas mortales de ETA eran de origen andaluz; el País Vasco tiene 178 y Castilla y León 138, así que Andalucía es la tercera.
+- Newtral: Falso
+- Matiz: El PP de Andalucía precisó que hablaba de personas andaluzas asesinadas y citó datos de la Asociación Víctimas del Terrorismo. Newtral consultó a la asociación, que explicó que sus datos se refieren a su número de asociados, y mantuvo la calificación.
+- Fuentes:
+  - [Newtral: Andalucía es la tercera comunidad con más víctimas de ETA](https://www.newtral.es/victimas-eta-andalucia-juanma-moreno-factcheck/20220608/)
 
 ### Míriam Nogueras (portavoz de Junts per Catalunya en el Congreso): Que «el president de nuestro país canta el Happy Birthday al Rey de España».
 - Fecha: mar 2022
@@ -10225,6 +10235,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que Otegi participara en los secuestros de Rupérez y Cisneros, como dice Abascal](https://maldita.es/malditodato/20190722/es-falso-que-arnaldo-otegi-participara-en-los-secuestros-de-javier-ruperez-y-gabriel-cisneros-como-dice-santiago-abascal/)
+
+### Albert Rivera (presidente de Ciudadanos y diputado): Que en Navarra el PSN-PSOE «gobierna con Batasuna».
+- Fecha: 22 jul 2019
+- Partido: Cs
+- Canal: Debate de investidura de Pedro Sánchez (Congreso) · Tema: Instituciones y justicia
+- Qué dicen los datos: En ese momento el PSN-PSOE no gobernaba en Navarra: negociaba un Gobierno con Geroa Bai, Podemos e Izquierda-Ezkerra. Navarra Suma era la primera fuerza, con 20 escaños.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
 
 ### Pablo Iglesias (secretario general de Podemos y diputado): Que había oído a Pedro Sánchez decir «jamás aplicaremos el 155».
 - Fecha: jul 2019

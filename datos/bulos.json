@@ -2963,5 +2963,49 @@
     "https://www.newtral.es/pp-ingreso-minimo-vital-factcheck/20251113/"
    ]
   ]
+ },
+ {
+  "d": "2022-06-06",
+  "dl": "6 jun 2022",
+  "quien": "Juanma Moreno",
+  "cargo": "presidente de la Junta de Andalucía y candidato del PP",
+  "p": [
+   "PP"
+  ],
+  "canal": "Debate electoral de las andaluzas (difundido por la cuenta del PP de Andalucía)",
+  "tema": "Otros",
+  "dicho": "Que Andalucía es «la comunidad con más víctimas del terrorismo de ETA».",
+  "datos": "Según el libro «Vidas rotas», la referencia que usan los historiadores consultados por Newtral, 121 víctimas mortales de ETA eran de origen andaluz; el País Vasco tiene 178 y Castilla y León 138, así que Andalucía es la tercera.",
+  "verif": "Newtral",
+  "calif": "Falso",
+  "rect": "El PP de Andalucía precisó que hablaba de personas andaluzas asesinadas y citó datos de la Asociación Víctimas del Terrorismo. Newtral consultó a la asociación, que explicó que sus datos se refieren a su número de asociados, y mantuvo la calificación.",
+  "src": [
+   [
+    "Newtral: Andalucía es la tercera comunidad con más víctimas de ETA",
+    "https://www.newtral.es/victimas-eta-andalucia-juanma-moreno-factcheck/20220608/"
+   ]
+  ]
+ },
+ {
+  "d": "2019-07-22",
+  "dl": "22 jul 2019",
+  "quien": "Albert Rivera",
+  "cargo": "presidente de Ciudadanos y diputado",
+  "p": [
+   "Cs"
+  ],
+  "canal": "Debate de investidura de Pedro Sánchez (Congreso)",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que en Navarra el PSN-PSOE «gobierna con Batasuna».",
+  "datos": "En ese momento el PSN-PSOE no gobernaba en Navarra: negociaba un Gobierno con Geroa Bai, Podemos e Izquierda-Ezkerra. Navarra Suma era la primera fuerza, con 20 escaños.",
+  "verif": "Maldita.es",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura",
+    "https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/"
+   ]
+  ]
  }
 ]
