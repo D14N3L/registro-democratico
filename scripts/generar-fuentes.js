@@ -100,5 +100,47 @@ ${fuentes(m.src)}
 `;
 }
 
+// Secciones opcionales: solo si existe el fichero, igual que las pestañas de la web.
+const opcional = (f) => (fs.existsSync(path.join(raiz, "datos", f)) ? leer(f) : []);
+const bulos = opcional("bulos.json");
+if (bulos.length) {
+  o += `## Bulos (${bulos.length})
+
+`;
+  for (const b of [...bulos].sort((a, c) => c.d.localeCompare(a.d))) {
+    o += `### ${b.quien} (${b.cargo}): ${b.dicho}
+- Fecha: ${b.dl || b.d}
+- Partido: ${b.p.join(", ")}
+- Canal: ${b.canal} · Tema: ${b.tema}
+- Qué dicen los datos: ${b.datos}
+- ${b.verif}: ${b.calif}${b.rect ? `\n- Matiz: ${b.rect}` : ""}
+- Fuentes:
+${fuentes(b.src)}
+
+`;
+  }
+}
+
+const huelgas = opcional("huelgas.json");
+if (huelgas.length) {
+  o += `## Huelgas y movilizaciones (${huelgas.length})
+
+`;
+  for (const h of [...huelgas].sort((a, c) => c.d.localeCompare(a.d))) {
+    o += `### ${h.t} (${h.ambito})
+- Fecha: ${h.dl} · Sector: ${h.sector}
+- Convocan: ${h.convoca}
+- Qué pedían: ${h.piden}
+- Cifra oficial: ${h.oficial}
+- Según quien convoca: ${h.segconv}
+- Quién gobernaba: ${h.gobierno}
+- En qué acabó: ${h.final}
+- Fuentes:
+${fuentes(h.src)}
+
+`;
+  }
+}
+
 fs.writeFileSync(path.join(raiz, "FUENTES.md"), o);
-console.log(`FUENTES.md: ${fichas.length} fichas, ${votaciones.length} votaciones, ${iniciativas.length} iniciativas, ${mayorias.length} normas de mayorías absolutas`);
+console.log(`FUENTES.md: ${fichas.length} fichas, ${votaciones.length} votaciones, ${iniciativas.length} iniciativas, ${mayorias.length} normas de mayorías absolutas, ${bulos.length} bulos, ${huelgas.length} huelgas`);

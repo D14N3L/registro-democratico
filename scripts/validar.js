@@ -121,6 +121,14 @@ if (existe("programas")) leer("programas").forEach((e, i) => {
   if (!VEREDICTOS.includes(e.veredicto)) error("programas", i, e, `veredicto desconocido: ${e.veredicto}`);
 });
 
+const SECTORES = ["General", "Sanidad", "Educación", "Vivienda", "Pensiones"];
+if (existe("huelgas")) leer("huelgas").forEach((e, i) => {
+  comunes("huelgas", i, e);
+  if (!/^\d{4}-\d{2}-\d{2}$/.test(e.d) || e.d < INICIO_PERIODO) error("huelgas", i, e, `fecha inválida o anterior al periodo: ${e.d}`);
+  for (const k of ["dl", "sector", "ambito", "t", "convoca", "piden", "oficial", "segconv", "gobierno", "final"]) if (!e[k]) error("huelgas", i, e, `falta ${k}`);
+  if (!SECTORES.includes(e.sector)) error("huelgas", i, e, `sector desconocido: ${e.sector}`);
+});
+
 if (avisos.length) console.warn(avisos.join("\n") + `\n${avisos.length} avisos: buscar otra fuente del mismo hecho\n`);
 if (errores.length) {
   console.error(errores.join("\n"));

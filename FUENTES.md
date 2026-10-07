@@ -9177,3 +9177,1027 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 1/2016, de transparencia y buen gobierno](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3190)
   - [BOE (ELI): Ley 1/2016](https://www.boe.es/eli/es-ga/l/2016/01/18/1)
 
+## Bulos (61)
+
+### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Pidió a todo el mundo que «ni se le ocurra votar por correo» y habló de una posible adulteración de los censos.
+- Fecha: 5 oct 2026
+- Partido: PP
+- Canal: Desayuno informativo (Fórum Europa) · Tema: Elecciones
+- Qué dicen los datos: No hay ninguna prueba de fraude en el voto por correo en España; la ley electoral fija sus garantías y el control de la Junta Electoral.
+- Verificat: Teoría de la conspiración
+- Matiz: Ninguno de los dos verificadores lo califica de «falso»: Verificat lo llama teoría de la conspiración «ampliamente desmentida» y Newtral dice que se dijo «sin aportar pruebas». Al día siguiente Ayuso dijo «Yo no he dicho eso», pero insistió en que la gente «no se confíe» y habló de «trampas» y «censos inflados». El portavoz del PP, Borja Sémper, defendió las garantías del sistema.
+- Fuentes:
+  - [Verificat: Abascal y Ayuso alimentan la teoría del fraude en el voto por correo](https://www.verificat.cat/es/abascal-ayuso-voto-por-correo-fraude/)
+  - [Newtral: cómo funciona el voto por correo](https://www.newtral.es/sistema-voto-correo/20261006/)
+  - [elDiario.es: Ayuso dice que no acusó al Gobierno y a la vez insiste](https://www.eldiario.es/madrid/ayuso-dice-no-acuso-gobierno-manipular-voto-correo-vez-insiste-pido-gente-no-confie_1_13565607.html)
+  - [El Diario de Madrid: el voto por correo abre el choque Sánchez-Ayuso](https://www.eldiariodemadrid.es/articulo/politica/voto-correo-abre-primer-gran-choque-entre-sanchez-ayuso-cara-29-n/20261006164317143518.html)
+
+### Santiago Abascal (presidente de Vox): Pidió votar en persona y no por correo para «votar con seguridad».
+- Fecha: 5 oct 2026
+- Partido: Vox
+- Canal: Entrevista en Antena 3 · Tema: Elecciones
+- Qué dicen los datos: No hay ninguna prueba de fraude en el voto por correo en España; la ley electoral fija sus garantías y el control de la Junta Electoral.
+- Verificat: Teoría de la conspiración
+- Matiz: Ninguno de los dos verificadores lo califica de «falso»: Verificat lo llama teoría de la conspiración «ampliamente desmentida» y Newtral dice que se dijo «sin aportar pruebas».
+- Fuentes:
+  - [Verificat: Abascal y Ayuso alimentan la teoría del fraude en el voto por correo](https://www.verificat.cat/es/abascal-ayuso-voto-por-correo-fraude/)
+  - [Newtral: cómo funciona el voto por correo](https://www.newtral.es/sistema-voto-correo/20261006/)
+
+### Fernando Grande-Marlaska (ministro del Interior (independiente en el Gobierno del PSOE)): Sobre el informe de Interior con fichas de 280 periodistas, que «no se define a las personas por ideología».
+- Fecha: 9 sep 2026
+- Partido: PSOE
+- Canal: Sesión de control del Congreso · Tema: Instituciones y justicia
+- Qué dicen los datos: El documento anota a periodistas como de «ideología de izquierdas» o de «posiciones de derechas».
+- Newtral: Falso
+- Matiz: Reconoció el informe y pidió disculpas, pero no corrigió esa frase.
+- Fuentes:
+  - [Newtral: el informe de Interior sí anota la ideología](https://www.newtral.es/informe-interior-periodistas-factcheck/20260909/)
+
+### Rafael Hernando, Rafael Núñez Huesca y Jaime de Olano (diputados del PP (Congreso y Asamblea de Madrid)): Difundieron una foto de Sánchez en un telesilla en Andorra como si fuera de sus vacaciones de agosto de 2026, en plena crisis de Ceuta.
+- Fecha: 26 ago 2026
+- Partido: PP
+- Canal: X · Tema: Otros
+- Qué dicen los datos: La foto es del 31 de agosto de 2024, un fotograma de laSexta durante el Mundial de bicicleta de montaña.
+- Maldita.es: Falso
+- Matiz: Núñez Huesca reconoció el error sin borrar el mensaje; De Olano lo borró; de Hernando no consta.
+- Fuentes:
+  - [Maldita.es: la foto del telesilla es de 2024](https://maldita.es/desinfo/20260827/esta-imagen-muestra-a-pedro-sanchez-en-un-telesilla-en-andorra-durante-la-crisis-migratoria-de-ceuta-de-2026/)
+
+### Alberto Núñez Feijóo (presidente del PP): Que las elecciones en Aragón llegaron porque Vox y PSOE votaron contra el presupuesto.
+- Fecha: 23 feb 2026
+- Partido: PP
+- Canal: Entrevista en Onda Cero · Tema: Instituciones y justicia
+- Qué dicen los datos: Los presupuestos aragoneses de 2026 nunca llegaron a votarse en las Cortes de Aragón. Abascal también lo desmintió.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: los presupuestos de Aragón no se votaron](https://www.newtral.es/presupuestos-aragon-feijoo-factcheck/20260225/)
+
+### Alberto Núñez Feijóo (presidente del PP): «Nunca ha habido más pobres que con Sánchez».
+- Fecha: 15 dic 2025
+- Partido: PP
+- Canal: Cena de Navidad del PP de Madrid · Tema: Economía y empleo
+- Qué dicen los datos: La tasa de riesgo de pobreza o exclusión de 2024 (25,8%) es la más baja desde 2014, según el INE.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la pobreza con Sánchez](https://www.newtral.es/pobreza-feijoo-sanchez-factcheck/20251217/)
+
+### Gabriel Rufián (portavoz de ERC en el Congreso): Que Feijóo había dicho que fue la primera persona que habló con Mazón durante la DANA.
+- Fecha: 12 nov 2025
+- Partido: ERC
+- Canal: Pleno del Congreso · Tema: Instituciones y justicia
+- Qué dicen los datos: Feijóo dijo que habló con Mazón antes que Sánchez, no que fuera el primero. Sánchez repitió la misma afirmación en ese pleno.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: lo que dijo Feijóo sobre Mazón](https://www.newtral.es/rufian-feijoo-hablo-mazon-factcheck/20251113/)
+
+### Carlos Mazón (presidente de la Generalitat Valenciana): Que pidió ayuda al Gobierno por la DANA y «jamás» la recibió.
+- Fecha: 3 nov 2025
+- Partido: PP
+- Canal: Comparecencia en Les Corts (en la que anunció su dimisión) · Tema: Instituciones y justicia
+- Qué dicen los datos: La UME salió hacia Valencia el 29 de octubre de 2024; el 31 había más de 1.100 efectivos de la UME, 1.800 policías y 750 guardias civiles, y el primer paquete de ayudas se aprobó el 5 de noviembre.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: los recursos que el Estado envió tras la DANA](https://www.newtral.es/recursos-dana-mazon-factcheck/20251104/)
+
+### Macarena Montesinos (diputada del PP): Que la Aemet «falló en sus predicciones» en la DANA y que la Confederación Hidrográfica del Júcar no informó a nadie.
+- Fecha: 29 oct 2025
+- Partido: PP
+- Canal: Sesión de control del Congreso · Tema: Instituciones y justicia
+- Qué dicen los datos: La Aemet no falló en sus avisos y la Confederación sí informó a Protección Civil.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la Aemet y la CHJ en la DANA](https://www.newtral.es/aemet-chj-dana-factcheck/20251030/)
+
+### Alberto Núñez Feijóo (presidente del PP): Que España fue el país de la UE donde más inmigración irregular entró en 2023 y 2024.
+- Fecha: jul 2025
+- Partido: PP
+- Canal: Intervención pública · Tema: Inmigración y seguridad
+- Qué dicen los datos: Italia recibió más llegadas irregulares los dos años: 157.651 frente a 56.852 en 2023 y 66.317 frente a 63.970 en 2024.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Italia recibió más inmigración irregular](https://www.newtral.es/feijoo-inmigracion-irregular-espana-factcheck/20250717/)
+
+### Santiago Abascal (diputado y presidente de Vox): Que cada vez más españoles están en riesgo de pobreza extrema.
+- Fecha: 18 jun 2025
+- Partido: Vox
+- Canal: Sesión de control del Congreso · Tema: Economía y empleo
+- Qué dicen los datos: La tasa de riesgo de pobreza o exclusión bajó del 27,3% en 2018 al 25,8% en 2024 (INE). La pobreza infantil sí subió.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la pobreza en España](https://www.newtral.es/pobreza-espana-abascal-factcheck/20250619/)
+
+### Alberto Núñez Feijóo (presidente del PP): Que en el primer trimestre de 2025 se pagaron 13.000 millones más en impuestos.
+- Fecha: 3 jun 2025
+- Partido: PP
+- Canal: Rueda de prensa · Tema: Economía y empleo
+- Qué dicen los datos: La recaudación subió 5.828 millones, según la Agencia Tributaria.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la recaudación del primer trimestre](https://www.newtral.es/13000-millones-impuestos-feijoo-factcheck/20250605/)
+
+### Óscar Puente, Mónica García, Óscar López, Pilar Alegría, María Jesús Montero, Ángel Víctor Torres y la cuenta del PSOE (ministros del Gobierno): Que un excapitán de la UCO fantaseaba con atentar contra Sánchez con una «bomba lapa»; Torres añadió que un mando de la UCO habló de «matar a los rojomorados».
+- Fecha: may-jun 2025
+- Partido: PSOE, Sumar
+- Canal: X, Bluesky, radio y actos de partido · Tema: Instituciones y justicia
+- Qué dicen los datos: Los mensajes completos muestran que el guardia civil bromeaba sobre que alguien le atentara a él, y la frase de los «rojomorados» es del confidente, no del guardia civil. Varios medios rectificaron.
+- Maldita.es: Bulo
+- Matiz: Mónica García borró sus mensajes en X y Facebook pero no rectificó; Puente y López los mantuvieron; Alegría dijo después que «algún medio» lo interpretó «de otra manera».
+- Fuentes:
+  - [Maldita.es: los bulos difundidos por ministros sobre el excapitán de la UCO](https://maldita.es/malditahemeroteca/20250604/bulos-ministros-excapitan-uco-bonilla/)
+  - [Maldita.es: el falso mensaje de la bomba lapa](https://maldita.es/malditobulo/20250602/falso-mensaje-guardia-civil-bomba-lapa/)
+
+### Luis «Alvise» Pérez (eurodiputado de SALF): Que el Gobierno atribuía el apagón a una «vibración atmosférica inducida».
+- Fecha: 28 abr 2025
+- Partido: Otros
+- Canal: Telegram · Tema: Otros
+- Qué dicen los datos: Ningún miembro del Gobierno lo dijo: Sánchez insistió en que no se conocían las causas.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el Gobierno no habló de vibración atmosférica](https://www.newtral.es/gobierno-vibracion-atmosferica-factcheck/20250430/)
+
+### Miguel Ángel Rodríguez (jefe de Gabinete de la presidenta de la Comunidad de Madrid): Que la mujer que contó en el programa de Jordi Évole que su madre murió en una residencia madrileña durante la pandemia mentía y no tenía a su madre en ninguna residencia de la Comunidad de Madrid.
+- Fecha: 16 feb 2025
+- Partido: PP
+- Canal: X (Twitter) · Tema: Sanidad
+- Qué dicen los datos: Según la plataforma Verdad y Justicia 7291 y Marea de Residencias, su madre estaba en una residencia de Getafe y murió allí en abril de 2020.
+- Maldita.es: Desinformación
+- Matiz: Rodríguez rectificó al día siguiente (17-feb-2025), pidió disculpas y reconoció que era «la hija de una fallecida».
+- Fuentes:
+  - [Maldita.es: qué sabemos de la mujer del programa de Évole y la rectificación de Rodríguez](https://maldita.es/malditobulo/20250217/mujer-residencias-madre-evole-miguel-angel-rodriguez/)
+
+### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Que el Gobierno no ha construido «una sola» vivienda pública en seis años.
+- Fecha: feb 2025
+- Partido: PP
+- Canal: Acto del Plan Vive · Tema: Vivienda
+- Qué dicen los datos: El Ministerio de Vivienda dio a Newtral promociones con participación estatal. No hay una cifra oficial total.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la vivienda pública del Gobierno](https://www.newtral.es/ayuso-vivienda-publica-gobierno-factcheck/20250213/)
+
+### Óscar Puente (ministro de Transportes): Difundió una foto manipulada de Abascal «de puntillas» junto a Le Pen para burlarse de su estatura.
+- Fecha: feb 2025
+- Partido: PSOE
+- Canal: X · Tema: Otros
+- Qué dicen los datos: Los pies estaban sustituidos con los de otra foto de noviembre de 2024.
+- Maldita.es: Bulo
+- Fuentes:
+  - [Maldita.es: la foto de Abascal de puntillas está manipulada](https://maldita.es/malditobulo/20250210/abascal-foto-puntillas-patriots/)
+
+### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Que el Gobierno de Sánchez no ha creado «una sola plaza para médicos».
+- Fecha: 15 ene 2025
+- Partido: PP
+- Canal: Rueda de prensa · Tema: Sanidad
+- Qué dicen los datos: Las plazas MIR subieron en casi 2.500 entre 2018 y 2025, un 38%, según las convocatorias del Ministerio de Sanidad.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: las plazas MIR](https://www.newtral.es/medicos-gobierno-sanchez-numero-plazas-mir-espana/20250117/)
+
+### Luis «Alvise» Pérez (eurodiputado de SALF): Que se estaban tirando al vertedero de Catarroja cientos de toneladas de donaciones para los afectados por la DANA, con el apoyo de un concejal del PP de Alfafar; lo presentó como una investigación suya y de Vito Quiles.
+- Fecha: nov 2024
+- Partido: Otros
+- Canal: Redes sociales, con Vito Quiles · Tema: Otros
+- Qué dicen los datos: La Policía Local de Alfafar dijo a Maldita.es que «es un bulo» y que no se tiraba lo donado. El Ayuntamiento explicó que sí se desechó ropa estropeada por la humedad y la lluvia. El audio que difundieron estaba recortado: en la llamada completa (publicada por La Razón el 27-oct-2025) el concejal explica que se tiró parte de la ropa, mojada y con polillas, por motivos sanitarios.
+- Maldita.es: Bulo
+- Fuentes:
+  - [Maldita.es: la ropa donada en Alfafar y cómo se construyó la narrativa del vertedero](https://maldita.es/malditobulo/20251028/ropa-alfafar-vertedero-dana-valencia/)
+
+### María Jesús Montero (vicepresidenta primera y ministra de Hacienda): Que la temporalidad del empleo en España está «por debajo de la media de la UE».
+- Fecha: oct 2024
+- Partido: PSOE
+- Canal: Sesión de control del Congreso · Tema: Economía y empleo
+- Qué dicen los datos: Según Eurostat era del 13,3% en España frente al 10,1% de la UE, y España no ha estado por debajo desde 2009.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la temporalidad en España y la UE](https://www.newtral.es/tasa-temporalidad-espana-maria-jesus-montero-factcheck/20241024/)
+
+### Pilar Alegría (portavoz del Gobierno y ministra de Educación): Que la Audiencia Provincial de Madrid había llamado a la causa de Begoña Gómez «prospectiva, genérica e imprecisa».
+- Fecha: 8 oct 2024
+- Partido: PSOE
+- Canal: Rueda de prensa del Consejo de Ministros · Tema: Instituciones y justicia
+- Qué dicen los datos: El auto de la Audiencia Provincial del 7 de octubre de 2024 descarta expresamente que la investigación sea prospectiva.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las afirmaciones falsas de Pilar Alegría](https://maldita.es/malditobulo/20241009/afirmaciones-falsas-descontextualizadas-pilar-alegria/)
+
+### Cuca Gamarra (secretaria general del PP): Que el acuerdo entre PSC y ERC para investir a Illa no se había hecho público.
+- Fecha: 18 sep 2024
+- Partido: PP
+- Canal: Sesión de control del Congreso · Tema: Instituciones y justicia
+- Qué dicen los datos: El acuerdo estaba publicado en la web del PSC desde el 3 de agosto de 2024.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el acuerdo PSC-ERC sí es público](https://www.newtral.es/acuerdo-psc-erc-publico-cuca-gamarra-factcheck/20240919/)
+
+### Aitor Esteban (portavoz del PNV en el Congreso): Que La Rioja «tiene cero» menores extranjeros no acompañados.
+- Fecha: 17 jul 2024
+- Partido: PNV
+- Canal: Pleno del Congreso · Tema: Inmigración y seguridad
+- Qué dicen los datos: La Consejería riojana tenía 9 a 17 de julio de 2024.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: los menores no acompañados en La Rioja](https://www.newtral.es/menores-no-acompanados-la-rioja-factcheck/20240722/)
+
+### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Que Madrid «era la cuarta comunidad en PIB» cuando ella llegó.
+- Fecha: 27 may 2024
+- Partido: PP
+- Canal: Entrevista en Telecinco · Tema: Economía y empleo
+- Qué dicen los datos: Madrid es la primera en PIB por habitante en toda la serie desde 2000 y nunca fue cuarta en aportación al PIB, según el INE.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el PIB de Madrid](https://www.newtral.es/pib-madrid-ayuso-factcheck/20240528/)
+
+### Miguel Ángel Rodríguez (jefe de Gabinete de la presidenta de la Comunidad de Madrid): Que la Fiscalía había ofrecido un pacto a Alberto González Amador, pareja de la presidenta madrileña, y que luego lo retiró por «órdenes de arriba».
+- Fecha: 13 mar 2024
+- Partido: PP
+- Canal: X (Twitter) y mensajes a periodistas · Tema: Instituciones y justicia
+- Qué dicen los datos: Fue al revés: el abogado de González Amador escribió a la Fiscalía el 2-feb-2024 proponiendo un acuerdo y reconociendo dos delitos fiscales. Maldita.es lo recoge como algo «que se prueba que es falso». La sentencia del Supremo que condenó al fiscal general (9-dic-2025) llama a esa versión «absolutamente falsa e infundada».
+- Maldita.es: Falso (Maldita.es y Tribunal Supremo)
+- Matiz: Ante el Supremo, Rodríguez dijo que lo de las «órdenes de arriba» era una «intuición» suya y que tenía «el pelo blanco». La misma sentencia añade que el fiscal general «no puede responder a una noticia falsa mediante la comisión de un delito». Tras su declaración, el PP (Alma Ezcurra, 13-oct-2025) dijo que Rodríguez era «solo un testigo» y que «mentir no es ilegal»; fuentes de la dirección añadieron que, si hubiera indicio de delito, el juez habría actuado contra él. Días antes, Ester Muñoz (portavoz del PP en el Congreso) había dicho que la mentira «nunca es una herramienta» y que era él quien tenía que dar explicaciones.
+- Fuentes:
+  - [Maldita.es: cronología del caso del fiscal general, González Amador y Miguel Ángel Rodríguez](https://maldita.es/malditateexplica/20251209/cronologia-fiscal-general-gonzalez-amador-mar/)
+  - [Maldita.es: «el pelo blanco» y la «intuición» de Rodríguez ante el Supremo](https://maldita.es/malditateexplica/20260112/mar-pelo-blanco-intucion-fiscal-general/)
+  - [Tribunal Supremo: sentencia de la causa especial 20557/2024 (PDF alojado por Maldita.es)](https://files.maldita.es/maldita/uploads/2025/12/693810e17c9af.pdf)
+  - [elDiario.es: el PP, tras la declaración de Rodríguez: «Mentir no es ilegal»](https://www.eldiario.es/politica/pp-confesar-miguel-angel-rodriguez-bulo-supremo-mentir-no-ilegal_1_12679718.html)
+  - [El Plural: Ezcurra y Ester Muñoz sobre la declaración de Rodríguez](https://www.elplural.com/politica/espana/genova-defiende-mentir-no-ilegal-confesion-bulo-miguel-angel-rodriguez-supremo_362411102)
+
+### Pedro Sánchez (presidente del Gobierno): Que el informe de la Comisión Europea sobre el Estado de derecho señalaba al PP como el que bloquea la renovación del CGPJ.
+- Fecha: nov 2023
+- Partido: PSOE
+- Canal: La Hora de La 1 (TVE) · Tema: Instituciones y justicia
+- Qué dicen los datos: El informe solo describe las negociaciones y menciona en una nota al pie que el PP las suspendió; la Comisión dice que no hace juicios de valor.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la Comisión Europea no señala al PP](https://www.newtral.es/pp-comision-europea-renovacion-cgpj-pedro-sanchez-factcheck/20231201/)
+
+### Pedro Sánchez (presidente del Gobierno y candidato del PSOE): Que PP y Vox votaron en contra de nueve leyes sociales y las recurrieron «todas» ante el Constitucional.
+- Fecha: 19 jul 2023
+- Partido: PSOE
+- Canal: Debate a tres en RTVE · Tema: Instituciones y justicia
+- Qué dicen los datos: Tres de esas leyes no se recurrieron, el PP votó a favor de la Ley de Dependencia y la ley de violencia de género se aprobó por unanimidad.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las verificaciones del debate a tres](https://maldita.es/malditodato/20230719/verificaciones-debate-a-tres-rtve/)
+
+### Pedro Sánchez (presidente del Gobierno y candidato del PSOE): Que nunca hubo tantos jóvenes empleados y que el paro juvenil estaba en su mínimo.
+- Fecha: 19 jul 2023
+- Partido: PSOE
+- Canal: Debate a tres en RTVE · Tema: Economía y empleo
+- Qué dicen los datos: El paro de 16 a 29 años era del 22,6% en el primer trimestre de 2023; el mínimo fue del 12,5% en 2007, y el máximo de jóvenes ocupados también fue en 2006.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las verificaciones del debate a tres](https://maldita.es/malditodato/20230719/verificaciones-debate-a-tres-rtve/)
+
+### Yolanda Díaz (vicepresidenta segunda y candidata de Sumar): Que había más trabajadores en la agricultura que nunca: 750.000.
+- Fecha: 19 jul 2023
+- Partido: Sumar
+- Canal: Debate a tres en RTVE · Tema: Economía y empleo
+- Qué dicen los datos: Había 748.200 ocupados en el primer trimestre de 2023; el máximo fue de 870.100 en 2008, según la EPA.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las verificaciones del debate a tres](https://maldita.es/malditodato/20230719/verificaciones-debate-a-tres-rtve/)
+
+### Pedro Sánchez (presidente del Gobierno y candidato del PSOE): Que Zapatero no congeló las pensiones.
+- Fecha: 10 jul 2023
+- Partido: PSOE
+- Canal: Cara a cara con Feijóo · Tema: Pensiones
+- Qué dicen los datos: Un real decreto-ley de mayo de 2010 congeló para 2011 las pensiones contributivas; quedaron fuera las mínimas y las no contributivas.
+- Maldita.es: Falso pero…
+- Fuentes:
+  - [Maldita.es: el cara a cara Sánchez-Feijóo](https://maldita.es/malditodato/20230711/fact-checking-cara-a-cara-sanchez-feijoo/)
+
+### Alberto Núñez Feijóo (presidente y candidato del PP): Que «siempre» que ha gobernado, el PP subió las pensiones conforme al IPC.
+- Fecha: jun-jul 2023
+- Partido: PP
+- Canal: Hora 25 (SER) y debates electorales · Tema: Pensiones
+- Qué dicen los datos: Con Rajoy las pensiones subieron por debajo del IPC en 2012, 2013 y 2017, y la reforma de 2013 las desligó del IPC con un mínimo del 0,25%.
+- Newtral: Falso
+- Matiz: Publicó un mensaje para aclarar que el PP «subió las pensiones cada año», sin hablar del IPC; Newtral mantiene que lo del IPC es falso.
+- Fuentes:
+  - [Newtral: el PP no siempre subió las pensiones con el IPC](https://www.newtral.es/pp-pensiones-ipc-feijoo-factcheck/20230623/)
+
+### Iván Espinosa de los Monteros (portavoz de Vox en el Congreso): Que había «68.000 empresas menos que antes de la pandemia».
+- Fecha: 19 abr 2023
+- Partido: Vox
+- Canal: Sesión de control del Congreso · Tema: Economía y empleo
+- Qué dicen los datos: Había 67.466 empresas más en 2022 que en 2019, según el Directorio Central de Empresas del INE.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: hay más empresas que antes de la pandemia](https://www.newtral.es/empresas-pandemia-espinosa-de-los-monteros-vox-factcheck/20230422/)
+
+### Laura Borràs (presidenta de Junts y presidenta suspendida del Parlament): Que Aragonès fue el presidente de la Generalitat con más apoyos en su investidura, con 74 votos.
+- Fecha: ene 2023
+- Partido: Junts
+- Canal: Cafè d'idees (RTVE) · Tema: Instituciones y justicia
+- Qué dicen los datos: Pujol tuvo 75 votos en 1980 y 87 en 1984, y Maragall 74 en 2003.
+- Newtral: Falso
+- Matiz: Su gabinete dijo que se refería a los presidentes independentistas.
+- Fuentes:
+  - [Newtral: los apoyos de los presidentes catalanes](https://www.newtral.es/presidente-cataluna-apoyos-factcheck/20230112/)
+
+### Eva Parera (concejala de Barcelona y presidenta de Valents): Que según la Guardia Urbana el 80% de los delitos de Barcelona los cometen menores no acompañados.
+- Fecha: oct 2022
+- Partido: Otros
+- Canal: Entrevista y vídeo en X · Tema: Inmigración y seguridad
+- Qué dicen los datos: La Guardia Urbana lo desmintió: no publica datos de delitos por nacionalidad.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la Guardia Urbana no da ese dato](https://www.newtral.es/delitos-barcelona-menas-factcheck/20221013/)
+
+### Ione Belarra (ministra de Derechos Sociales y secretaria general de Podemos): Que el gasto militar ya estaba «en niveles récord».
+- Fecha: jul 2022
+- Partido: Podemos/UP
+- Canal: Acto de partido · Tema: Economía y empleo
+- Qué dicen los datos: Según Eurostat bajó del 1,4% del PIB en 1995 al 0,9% en 2020, y otras series también bajan.
+- Newtral: Falso
+- Matiz: Su gabinete se remitió a los datos del Centre Delàs.
+- Fuentes:
+  - [Newtral: el gasto militar en España](https://www.newtral.es/gasto-militar-espana-factcheck/20220712/)
+
+### Salvador Illa (líder del PSC y jefe de la oposición en el Parlament): Que en la mesa de diálogo de 2020 no había nadie de fuera del Govern.
+- Fecha: 12 jun 2021
+- Partido: PSOE
+- Canal: RAC1 · Tema: Instituciones y justicia
+- Qué dicen los datos: Participaron tres diputados sin cargo en el Govern, según el comunicado de la propia Generalitat.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: quién estuvo en la mesa de diálogo](https://www.newtral.es/factcheck-mesa-dialogo-generalitat-gobierno-junqueras-salvador-illa/20210616/)
+
+### Santiago Abascal (diputado y presidente de Vox): Que los españoles siempre emigraron «con papeles» y respetando las leyes.
+- Fecha: may 2021
+- Partido: Vox
+- Canal: Acto en Sevilla · Tema: Inmigración y seguridad
+- Qué dicen los datos: Entre 1959 y 1966, la mitad de los emigrantes españoles a Alemania, Francia, Suiza y otros países salió de forma irregular, según el Instituto Español de Emigración.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la emigración española irregular](https://www.newtral.es/factcheck-emigracion-espanola-irregular-santiago-abascal-vox/20210529/)
+
+### Mónica García (portavoz de Más Madrid en la Asamblea y candidata): Que no se sabía dónde se había producido el 85% de los contagios en Madrid.
+- Fecha: 23 abr 2021
+- Partido: Otros
+- Canal: Entrevista en elDiario.es · Tema: Sanidad
+- Qué dicen los datos: Según el informe de Sanidad del día anterior, la trazabilidad era del 54,7%; el 85% correspondía a enero y febrero.
+- Newtral: Falso
+- Matiz: Más Madrid se remitió a un artículo de prensa de febrero.
+- Fuentes:
+  - [Newtral: el rastreo de contagios en Madrid](https://www.newtral.es/fact-check-madrid-rastreo-contagios-monica-garcia/20210428/)
+
+### Rocío Monasterio (portavoz de Vox en la Asamblea de Madrid): Que Vox fue «el único partido» que se opuso «siempre» al estado de alarma.
+- Fecha: 15 abr 2021
+- Partido: Vox
+- Canal: Espejo Público · Tema: Instituciones y justicia
+- Qué dicen los datos: Vox votó a favor de la primera prórroga del estado de alarma en marzo de 2020.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Vox votó la primera prórroga](https://www.newtral.es/fact-check-vox-estado-de-alarma-rocio-monasterio/20210419/)
+
+### Carla Toscano (difundido por @VOX_Congreso) (diputada de Vox): Que el 80% de las denuncias por violencia de género se archivan «porque no hay pruebas ni indicios».
+- Fecha: mar 2021
+- Partido: Vox
+- Canal: Vídeo en la cuenta del grupo de Vox · Tema: Instituciones y justicia
+- Qué dicen los datos: El CGPJ explica que un archivo no significa falta de pruebas: a veces la víctima se acoge a su derecho a no declarar.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: los archivos de denuncias de violencia de género](https://www.newtral.es/fact-check-denuncias-violencia-genero-cgpj-vox-toscano/20210312/)
+
+### Cuca Gamarra (portavoz del PP en el Congreso): Que Sánchez llevaba «más de un mes» sin ir al Congreso.
+- Fecha: 8 feb 2021
+- Partido: PP
+- Canal: Entrevista · Tema: Instituciones y justicia
+- Qué dicen los datos: Sánchez había estado en la sesión de control del 3 de febrero de 2021, cinco días antes, según el Diario de Sesiones.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Sánchez sí estuvo en el Congreso](https://www.newtral.es/fact-check-pedro-sanchez-congreso-cuca-gamarra/20210211/)
+
+### Pedro Sánchez (presidente del Gobierno): Que la Generalitat gastó en sanidad menos en 2020 que en 2010 y que Cataluña dedica un 3,7% del PIB frente al 6,2% de España.
+- Fecha: 6 feb 2021
+- Partido: PSOE
+- Canal: Mitin del PSC en Lleida · Tema: Sanidad
+- Qué dicen los datos: Según el Ministerio de Sanidad, fueron 9.789 millones en 2020 y 9.888 en 2010, y Cataluña gasta el 4,7% del PIB; las cifras de España y Cataluña que usó no son comparables.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: los datos de Sánchez sobre la sanidad catalana](https://www.newtral.es/fact-check-pedro-sanchez-equivocados-sanidad-catalana/20210211/)
+
+### Pere Aragonès (vicepresident en funciones de president y candidato de ERC): Que el Estado había dado «cero ayudas» a los sectores afectados por la pandemia.
+- Fecha: 31 ene 2021
+- Partido: ERC
+- Canal: Debate de RTVE · Tema: Economía y empleo
+- Qué dicen los datos: Hubo ERTE, avales del ICO por 115.000 millones y un fondo COVID de 16.000 millones, 3.166 de ellos para Cataluña.
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: los argumentos del debate de RTVE sobre las ayudas](https://www.verificat.cat/els-arguments-del-debat-de-rtve-sobre-els-ajuts-de-la-pandemia-verificats/)
+
+### Pablo Casado (presidente del PP): Que a Madrid se le impuso el estado de alarma con la mitad de la incidencia de la COVID que tenía entonces España.
+- Fecha: 21 ene 2021
+- Partido: PP
+- Canal: Al Rojo Vivo (laSexta) · Tema: Sanidad
+- Qué dicen los datos: Madrid tenía unos 637 casos por 100.000 habitantes y España 736: no era la mitad, según Sanidad.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las afirmaciones falsas de Casado sobre la incidencia](https://maldita.es/malditodato/20210128/afirmaciones-falsas-casado-incidencia-acumulada-madrid-vacuna-coronavirus/)
+
+### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Que «nadie», ni la Aemet ni el 112, fue capaz de detectar la borrasca Filomena.
+- Fecha: ene 2021
+- Partido: PP
+- Canal: Declaraciones sobre la nevada Filomena · Tema: Instituciones y justicia
+- Qué dicen los datos: La Aemet dio aviso rojo con más de un 80% de probabilidad desde el 6 de enero, y el 112 de la propia Comunidad alertaba desde el 27 de diciembre.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la Aemet sí avisó de la nevada](https://www.newtral.es/factcheck-falso-aemet-detectar-nevada-madrid-isabel-diaz-ayuso/20210115/)
+
+### Ignacio Garriga (diputado de Vox y candidato a la Generalitat): Que el independentismo «ha importado» inmigración ilegal para crear «nuevos catalanes».
+- Fecha: 21 dic 2020
+- Partido: Vox
+- Canal: Cafè d'idees (TVE Catalunya) · Tema: Inmigración y seguridad
+- Qué dicen los datos: La Generalitat no tiene competencias de extranjería, quien acaba de llegar no vota y la población extranjera subió unas 60.000 personas en diez años.
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: el independentismo no ha importado inmigración ilegal](https://www.verificat.cat/es/fact-check/el-independentismo-no-ha-importado-inmigracion-ilegal-como-afirma-vox)
+
+### Ignacio Aguado (y la cuenta @CiudadanosCs) (vicepresidente de la Comunidad de Madrid): Que el presupuesto de sanidad de Madrid creció más de un 30% desde que gobernaba Ciudadanos.
+- Fecha: 12 dic 2020
+- Partido: Cs
+- Canal: Acto en Barcelona y X · Tema: Sanidad
+- Qué dicen los datos: Subió un 12% entre 2015 y 2020, según el Ministerio de Sanidad.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el presupuesto sanitario de Madrid](https://www.newtral.es/fact-check-presupuesto-sanidad-madrid-ignacio-aguado/20201217/)
+
+### Néstor Rego (diputado del BNG): Que PSOE y Podemos «aumentaron» 300 millones la partida del CNI.
+- Fecha: 3 dic 2020
+- Partido: Otros
+- Canal: X · Tema: Economía y empleo
+- Qué dicen los datos: La partida de 2021 era de 299,87 millones, 2,7 más que el año anterior.
+- Newtral: Falso
+- Matiz: Su equipo dijo que quería decir «hasta» 300 millones.
+- Fuentes:
+  - [Newtral: la partida del CNI en 2021](https://www.newtral.es/factcheck-presupuestos-millones-cni-2021/20201211/)
+
+### Salvador Illa (ministro de Sanidad): Que Sanidad y el Gobierno respondieron «a todas las peticiones de información».
+- Fecha: 2 dic 2020
+- Partido: PSOE
+- Canal: Rueda de prensa en La Moncloa · Tema: Instituciones y justicia
+- Qué dicen los datos: El Consejo de Transparencia había resuelto 55 de 101 reclamaciones por silencio administrativo, 17 de ellas de Sanidad.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: Sanidad no respondió a todas las peticiones de información](https://maldita.es/malditodato/20201203/falso-ministerio-sanidad-gobierno-espana-respondan-todas-peticiones-informacion-transparencia-dice-salvador-illa/)
+
+### Javier Ortega Smith (diputado y secretario general de Vox): Que El País había sido «condenado por mentir» por una querella de Espinosa de los Monteros y Monasterio.
+- Fecha: 26 nov 2020
+- Partido: Vox
+- Canal: La Hora de La 1 (TVE) · Tema: Instituciones y justicia
+- Qué dicen los datos: La sentencia no juzgó si la noticia era cierta: el tribunal dijo expresamente que no lo valoraría.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la sentencia no condena a El País por mentir](https://www.newtral.es/factcheck-el-pais-mentir-sentencia-vox-rocio-monasterio/20201127/)
+
+### Pedro Sánchez (presidente del Gobierno): Que la incidencia de la COVID en la mayor parte de España era menor que en Reino Unido y que el fondo europeo de 140.000 millones era «en torno al 60%» del PIB.
+- Fecha: 27 jul 2020
+- Partido: PSOE
+- Canal: Entrevista en Informativos Telecinco · Tema: Sanidad
+- Qué dicen los datos: Diez comunidades, con el 73% de la población, superaban la incidencia de Reino Unido, y los 140.000 millones eran el 11,24% del PIB de 2019.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las afirmaciones falsas de Sánchez en Telecinco](https://maldita.es/malditodato/20200728/afirmaciones-falsas-pedro-sanchez-coronavirus-espana-reino-unido-fondo-recuperacion-europeo-entrevista-informativos-telecinco/)
+
+### Albert Rivera (presidente de Ciudadanos y candidato): Que en todos los países de Europa los partidos con menos del 3% de los votos se quedan fuera del parlamento.
+- Fecha: 4 nov 2019
+- Partido: Cs
+- Canal: Debate electoral a cinco · Tema: Elecciones
+- Qué dicen los datos: Portugal no tiene umbral: en octubre de 2019 entraron en su parlamento tres partidos con entre el 1,1% y el 1,3% de los votos.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las afirmaciones falsas de Rivera en el debate del 4-N](https://maldita.es/malditodato/20191106/las-afirmaciones-falsas-de-albert-rivera-durante-el-debate-del-4-n/)
+
+### Santiago Abascal (presidente de Vox y candidato): Que el 70% de los imputados en violaciones en grupo son extranjeros.
+- Fecha: 4 nov 2019
+- Partido: Vox
+- Canal: Debate electoral a cinco y X · Tema: Inmigración y seguridad
+- Qué dicen los datos: No hay datos oficiales por nacionalidad de esos delitos. La cifra sale de un estudio de 2010 sobre agresiones entre desconocidos, en el que los casos en grupo eran solo el 4%.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las afirmaciones falsas de Abascal en el debate del 4-N](https://maldita.es/malditodato/20191106/las-afirmaciones-falsas-de-santiago-abascal-durante-el-debate-del-4-n/)
+  - [Newtral: por qué es falso el 70% de violadores en manada extranjeros](https://www.newtral.es/explicamos-por-que-es-falso-afirmar-que-el-70-de-los-violadores-en-manada-son-extranjeros/20190508/)
+
+### Pedro Sánchez (presidente del Gobierno en funciones): Que quien indultó a los terroristas de Terra Lliure fue el PP.
+- Fecha: 4 nov 2019
+- Partido: PSOE
+- Canal: Debate electoral a cinco · Tema: Instituciones y justicia
+- Qué dicen los datos: Hubo indultos a miembros de Terra Lliure con González y con Aznar.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las 17 falsedades del debate de la Academia de TV](https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/)
+
+### Pablo Iglesias (secretario general de Podemos y candidato de Unidas Podemos): Que el artículo 50 de la Constitución obliga a subir las pensiones con el IPC.
+- Fecha: 4 nov 2019
+- Partido: Podemos/UP
+- Canal: Debate electoral a cinco · Tema: Pensiones
+- Qué dicen los datos: La Constitución no dice eso: habla de pensiones «adecuadas y periódicamente actualizadas», sin mencionar el IPC.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las 17 falsedades del debate de la Academia de TV](https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/)
+
+### Ignacio Garriga (diputado de Vox en el Congreso): Que los miembros de la «manada de Manresa» eran menores extranjeros no acompañados.
+- Fecha: 2019
+- Partido: Vox
+- Canal: X · Tema: Inmigración y seguridad
+- Qué dicen los datos: Maldita.es lo califica de falso en su recopilación de bulos de Vox sobre inmigración.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: los bulos de Vox sobre inmigración](https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/)
+
+### Santiago Abascal y la cuenta oficial de Vox (presidente de Vox): Que las ayudas al alquiler de Madrid «discriminan» a los españoles «con arraigo».
+- Fecha: oct 2019
+- Partido: Vox
+- Canal: Mitin en Granada y X (@vox_es) · Tema: Inmigración y seguridad
+- Qué dicen los datos: Ni el Plan Estatal de Vivienda ni las bases recogían el «arraigo», y el 81,5% de los admitidos en el listado provisional eran españoles, según la Consejería de Vivienda.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: los bulos de Vox sobre inmigración](https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/)
+
+### Gabriel Rufián (portavoz de ERC en el Congreso): Que ERC votó a favor de 28 de los 29 decretos de Sánchez.
+- Fecha: 23 jul 2019
+- Partido: ERC
+- Canal: Debate de investidura · Tema: Instituciones y justicia
+- Qué dicen los datos: Votó a favor de 22, se abstuvo en 5 y votó en contra de 2.
+- Maldita.es: Falso
+- Matiz: Sobre otra de sus frases de esa sesión, ERC respondió a Maldita.es: «Tenéis razón».
+- Fuentes:
+  - [Maldita.es: las mentiras de la segunda sesión de investidura](https://maldita.es/malditodato/20190724/las-mentiras-y-datos-falsos-de-la-segunda-sesion-del-debate-de-investidura-de-pedro-sanchez/)
+
+### Mertxe Aizpurua (portavoz de EH Bildu en el Congreso): Que EH Bildu tenía «más de 120 alcaldías».
+- Fecha: 23 jul 2019
+- Partido: Bildu
+- Canal: Debate de investidura · Tema: Elecciones
+- Qué dicen los datos: Eran 118, según el Ministerio de Política Territorial y el Gobierno Vasco.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las mentiras de la segunda sesión de investidura](https://maldita.es/malditodato/20190724/las-mentiras-y-datos-falsos-de-la-segunda-sesion-del-debate-de-investidura-de-pedro-sanchez/)
+
+### Ana Oramas (diputada y líder de Coalición Canaria): Que Podemos decía que había que «exterminar» a Coalición Canaria, con esos «términos exactos».
+- Fecha: jun 2019
+- Partido: CC
+- Canal: Rueda de prensa y esRadio · Tema: Otros
+- Qué dicen los datos: No hay constancia de esa frase y CC no aportó ninguna fuente.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: no hay constancia de esa frase de Podemos](https://www.newtral.es/ana-oramas-podemos-dice-que-hay-que-exterminar-a-coalicion-canaria-y-son-los-terminos-exactos/20190620/)
+
+### Ada Colau (alcaldesa de Barcelona (BComú)): Que había puesto más agentes de la Guardia Urbana.
+- Fecha: abr-may 2019
+- Partido: Otros
+- Canal: Salvados y debate en Cuatro · Tema: Inmigración y seguridad
+- Qué dicen los datos: Había 2.888 agentes en mayo de 2015 y 2.784 en mayo de 2019, el mínimo desde 2011, según datos obtenidos por reclamación de transparencia.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: Colau no puso más agentes](https://maldita.es/malditodato/20190812/es-falso-que-ada-colau-haya-puesto-mas-agentes-de-policia-en-barcelona-como-decia-la-alcaldesa-en-campana-electoral/)
+
+## Huelgas y movilizaciones (38)
+
+### Manifestaciones «Hacia la huelga general» por la vivienda (España (54 ciudades))
+- Fecha: 3 oct 2026 · Sector: Vivienda
+- Convocan: Sindicato de Inquilinas
+- Qué pedían: Vivienda asequible y una huelga general
+- Cifra oficial: Delegación del Gobierno: 70.000 personas en Madrid.
+- Según quien convoca: Sindicato de Inquilinas: 500.000 en Madrid.
+- Quién gobernaba: Sánchez, con las Cortes disueltas; el día anterior el Congreso había rechazado dos decretos de vivienda.
+- En qué acabó: Da paso a la convocatoria de huelga general.
+- Fuentes:
+  - [elDiario.es: ahora toca huelga general](https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html)
+  - [El Español: las cifras de la manifestación](https://www.elespanol.com/madrid/capital/20261004/manifestacion-vivienda-supera-queda-debajo-rentistas-poder/1003744407607_0.html)
+
+### Huelgas docentes (Cataluña)
+- Fecha: primavera 2026 · Sector: Educación
+- Convocan: USTEC-STEs, CGT, Intersindical, CNT y COS
+- Qué pedían: Más especialistas de inclusión, salario ligado al IPC, ratios y el 6% del PIB para educación
+- Cifra oficial: Guardia Urbana: 15.200 manifestantes en Barcelona el 5 de junio.
+- Según quien convoca: USTEC: 80% de seguimiento y 90.000 personas.
+- Quién gobernaba: Illa (PSC). Competencia autonómica.
+- En qué acabó: Sin acuerdo con los convocantes a septiembre de 2026.
+- Fuentes:
+  - [3Cat: huelga docente en toda Cataluña](https://www.3cat.cat/3catinfo/vaga-de-docents-a-tot-catalunya-amb-manifestacio-a-barcelona-i-una-reunio-sense-la-ustec/noticia/3413528/)
+  - [betevé: el primer día del curso con huelga](https://beteve.cat/societat/primer-dia-curs-escolar-2026-2027-amb-vaga-educacio/)
+
+### Huelga contra la concertación del Bachillerato (Aragón)
+- Fecha: may 2026 · Sector: Educación
+- Convocan: CSIF, CGT, CCOO, STEA, UGT y ANPE
+- Qué pedían: No concertar el Bachillerato y más inversión en la pública
+- Cifra oficial: Sin cifra oficial en las fuentes leídas.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Azcón (PP). Competencia autonómica.
+- En qué acabó: Sin acuerdo conocido.
+- Fuentes:
+  - [Público: la revuelta de la escuela pública en Aragón](https://www.publico.es/sociedad/educacion/revuelta-escuela-publica-suma-aragon-protestas-batalla-clase-trabajadora.html)
+
+### Huelga indefinida docente (Comunitat Valenciana)
+- Fecha: may-jun 2026 · Sector: Educación
+- Convocan: STEPV, CCOO, UGT, CSIF, CNT, CGT, CSO y COS
+- Qué pedían: Salario, ratios, 5.000 plazas, fin de los barracones e inclusión
+- Cifra oficial: Sin cifra oficial en las fuentes leídas.
+- Según quien convoca: En la consulta sindical votaron 30.238 docentes: el 87% rechazó el acuerdo y el 71% votó suspender la huelga.
+- Quién gobernaba: Pérez Llorca (PP). Competencia autonómica.
+- En qué acabó: Huelga suspendida el 12 de junio, sin acuerdo.
+- Fuentes:
+  - [elDiario.es: los docentes rechazan el acuerdo y suspenden la huelga](https://www.eldiario.es/comunitat-valenciana/docentes-valencianos-rechazan-masivamente-acuerdo-global-educacion-votan-suspender-huelga-indefinida_1_13292179.html)
+  - [Infobae: la Generalitat y la nueva propuesta](https://www.infobae.com/espana/2026/05/25/la-generalitat-ve-inminente-el-fin-de-la-huelga-de-profesores-de-la-comunidad-valenciana-los-sindicatos-han-presentado-una-nueva-propuesta-y-educacion-esta-de-acuerdo-en-lo-fundamental/)
+
+### Huelga general por un salario mínimo propio (País Vasco y Navarra)
+- Fecha: 17 mar 2026 · Sector: General
+- Convocan: ELA, LAB, Steilas, Hiru, Etxalde y ESK
+- Qué pedían: Un salario mínimo de 1.500 € en Euskadi y Navarra
+- Cifra oficial: Sin cifra oficial de seguimiento; el Gobierno Vasco fijó un 30% de servicios mínimos en el transporte.
+- Según quien convoca: ELA: 105.000 personas en las calles.
+- Quién gobernaba: Estado: Sánchez (PSOE y Sumar). Euskadi: Pradales (PNV y PSE). Navarra: Chivite. El salario mínimo es del Estado.
+- En qué acabó: Sin acuerdo.
+- Fuentes:
+  - [Gipuzkoa Gaur: la jornada de huelga](https://www.gipuzkoagaur.com/2026/03/17/euskadi-vive-una-jornada-de-huelga-general-por-un-smi-de-1-500-euros-con-servicios-minimos-del-30-en-transporte/)
+  - [ELA (convocante): cifras de los sindicatos](https://www.ela.eus/es/noticias/105-000-personas-por-el-smi-en-las-calles-de-hego-euskal-herria)
+
+### Huelga indefinida de médicos de atención primaria (Galicia)
+- Fecha: desde mar 2026 · Sector: Sanidad
+- Convocan: O'Mega
+- Qué pedían: Un máximo de 30 pacientes por médico
+- Cifra oficial: Xunta: 5% el primer día y 4,69% en el turno de tarde del 10 de marzo.
+- Según quien convoca: O'Mega: más del 70%.
+- Quién gobernaba: Rueda (PP, mayoría absoluta). Competencia autonómica.
+- En qué acabó: La Xunta firmó un acuerdo con la mayoría de la mesa sectorial; O'Mega lo rechazó.
+- Fuentes:
+  - [Xunta: seguimiento del turno de tarde](https://www.xunta.gal/es/notas-de-prensa/-/nova/022305/seguimiento-turno-tarde-huelga-facultativos-atencion-primaria-consigue-4-69-sanidad)
+  - [Redacción Médica: datos dispares de seguimiento](https://www.redaccionmedica.com/autonomias/galicia/datos-dispares-de-seguimiento-en-la-huelga-medica-gallega-de-un-5-a-un-71--9261)
+
+### Huelga de médicos en la Región de Murcia (Murcia)
+- Fecha: feb 2026 · Sector: Sanidad
+- Convocan: Sindicato Médico CESM Región de Murcia
+- Qué pedían: Cumplir los acuerdos de 2023 y negociar las partes del Estatuto Marco que dependen de la comunidad; coincide con la huelga estatal contra el Estatuto Marco
+- Cifra oficial: Consejería de Salud: 17,81% el 19 de febrero, con 2.552 consultas, 96 cirugías y otras pruebas suspendidas.
+- Según quien convoca: CESM: 65% en hospitales y 30% en atención primaria.
+- Quién gobernaba: Gobierno del PP (López Miras). Competencia autonómica, salvo el Estatuto Marco, que es estatal.
+- En qué acabó: Sin desenlace publicado.
+- Fuentes:
+  - [Onda Regional de Murcia: cifras de la Consejería y del sindicato](https://www.orm.es/informativos/la-huelga-medica-suspende-miles-de-consultas-en-la-region-de-murcia-entre-cifras-dispares-de-seguimiento/)
+  - [Cartagena Actualidad: qué pide el Sindicato Médico](https://www.cartagenaactualidad.com/articulo/region/sindicato-medico-region-murcia-cesm-convoca-huelga-medica-facultativa-regional-exigir-cumplimiento-acuerdos-2023-negociacion-cuestiones-estatuto-marco-que-son-competencia-ejecutivo-autonomico/20260206130518207301.html)
+
+### Huelga de técnicos en cuidados de enfermería (TCAE) (España)
+- Fecha: 28 nov 2025 · Sector: Sanidad
+- Convocan: Plataforma TCAE Unidos por el C1, con CCOO, UGT y TERE
+- Qué pedían: Pasar del grupo profesional C2 al C1, como prometía el acuerdo de 2022
+- Cifra oficial: Sin cifra en las fuentes leídas.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Gobierno de PSOE y Sumar (Función Pública).
+- En qué acabó: Sin reclasificación a octubre de 2026.
+- Fuentes:
+  - [Infobae: la promesa incumplida a los TCAE](https://www.infobae.com/espana/2025/11/28/los-tecnicos-auxiliares-de-enfermeria-aun-cobran-como-graduados-de-la-eso-la-promesa-incumplida-de-hacienda-les-hace-perder-mas-de-7000-euros/)
+
+### Concentración por los fallos del cribado de cáncer de mama (Andalucía (Sevilla))
+- Fecha: 26 oct 2025 · Sector: Sanidad
+- Convocan: Amama Sevilla y asociaciones de toda la comunidad, con apoyo sindical
+- Qué pedían: Responsabilidades, transparencia y más medios para la sanidad pública
+- Cifra oficial: Policía Nacional (Subdelegación del Gobierno): 8.500. Policía Local: 4.500.
+- Según quien convoca: CCOO: 30.000.
+- Quién gobernaba: Junta del PP (Moreno). Competencia autonómica.
+- En qué acabó: La Junta reconoció errores en el seguimiento de 2.317 mujeres. La consejera de Salud, Rocío Hernández, dimitió tras conocerse el caso.
+- Fuentes:
+  - [Público: la concentración ante San Telmo y sus cifras](https://www.publico.es/sociedad/masiva-concentracion-sevilla-arropa-victimas-retrasos-cribado-mejor-lazo-rosa-mamografia.html)
+  - [El Español: 2.317 mujeres afectadas y la dimisión de la consejera](https://www.elespanol.com/sevilla/20251026/personas-claman-san-telmo-fallos-cribado-cancer-mama-andalucia/1003743986451_0.html)
+
+### Paro por Palestina (España)
+- Fecha: 15 oct 2025 · Sector: General
+- Convocan: CCOO y UGT con paros de 2 horas; CGT y Sindicato de Estudiantes, 24 horas
+- Qué pedían: Romper relaciones con Israel y un embargo de armas por la guerra de Gaza
+- Cifra oficial: Policía municipal: 7.500 personas en Barcelona. Gobierno Vasco: 42% en la enseñanza pública.
+- Según quien convoca: Convocantes: más de 1.000 comités secundaron los paros; 50.000 personas en Barcelona.
+- Quién gobernaba: Sánchez (PSOE y Sumar). La política exterior es del Estado.
+- En qué acabó: Movilización; 15 detenidos en Barcelona.
+- Fuentes:
+  - [Infobae: la huelga por Palestina](https://www.infobae.com/espana/2025/10/15/miles-de-manifestantes-salen-a-las-calles-en-la-huelga-general-por-palestina-en-espana-paros-cortes-de-carreteras-y-movilizaciones-estudiantiles/)
+  - [Orain (EITB): paros en Euskadi y Navarra](https://orain.eus/es/actualidad/economia/2025/10/15/paros-y-huelga-palestina-15-octubre-euskadi-y-navarra/)
+
+### Huelga docente por la equiparación salarial (Extremadura)
+- Fecha: 7 oct 2025 · Sector: Educación
+- Convocan: Los cinco sindicatos de la Mesa Sectorial: PIDE, CSIF, ANPE, CCOO y UGT
+- Qué pedían: Equiparar el sueldo del profesorado con la media de España
+- Cifra oficial: Consejería de Educación: 42%.
+- Según quien convoca: Sindicatos: 80%.
+- Quién gobernaba: Junta del PP (Guardiola). Competencia autonómica.
+- En qué acabó: La segunda huelga, del 7 de noviembre, se aplazó por el adelanto electoral (elecciones del 21 de diciembre de 2025).
+- Fuentes:
+  - [elDiario.es: 80% según los sindicatos, 42% según Educación](https://www.eldiario.es/extremadura/educacion/docentes-extremenos-iran-vez-huelga-7-noviembre-exito-primera_1_12701291.html)
+  - [Demócrata: la huelga docente en Extremadura](https://www.democrata.es/economia/huelga-docente-extremadura-alcanza-seguimiento-80-demanda-igualdad-salarial/)
+  - [ANPE Extremadura: comunicado de aplazamiento](https://anpeextremadura.es/notices/198691/HOMOLOGACI%C3%93N-SALARIAL,-APLAZADA-LA-HUELGA-MANIFESTACI%C3%93N-DEL-7-NOVIEMBRE)
+
+### Huelgas docentes en la enseñanza pública gallega (Galicia)
+- Fecha: sep – oct 2025 · Sector: Educación
+- Convocan: CIG-Ensino y STEG
+- Qué pedían: Bajar ratios, recuperar las horas lectivas anteriores a los recortes de 2011-2012, más plantilla y menos burocracia
+- Cifra oficial: Consellería: 14,8% el 25 de septiembre; por debajo del 13% (13,6% según Galiciapress) el 28 y 29 de octubre.
+- Según quien convoca: CIG: más del 60% el 25 de septiembre; en octubre no dio cifra.
+- Quién gobernaba: Xunta del PP (Rueda). Competencia autonómica.
+- En qué acabó: Un día antes de la huelga de octubre, la Consellería anunció 1.500 plazas nuevas de empleo público. Fue la primera huelga docente de 48 horas en Galicia desde los años ochenta.
+- Fuentes:
+  - [Praza: 60% para la CIG, 14,8% para la Consellería](https://praza.gal/acontece/a-folga-educativa-contra-a-xunta-60-de-seguimento-para-a-cig-15-para-a-conselleria)
+  - [Praza: la huelga de octubre](https://praza.gal/politica/o-profesorado-leva-a-rua-as-suas-demandas-nunha-folga-que-a-xunta-reduce-ao-minimo)
+  - [Galiciapress: segundo día de huelga](https://www.galiciapress.es/articulo/politica-galicia/2025-10-29/5542563-profesores-gallegos-segundo-dia-huelga-encierran-centros-educativos-exigen-xunta-dialogo-real)
+
+### Huelgas de médicos contra el Estatuto Marco (España)
+- Fecha: 2025 – 2026 · Sector: Sanidad
+- Convocan: Comité de huelga de CESM, SMA, Metges de Catalunya, AMYTS, SME y O'Mega
+- Qué pedían: Un estatuto propio y una mesa de negociación propia para los médicos, 35 horas, guardias y jubilación
+- Cifra oficial: Primer día de 2026 (16 de febrero), según las consejerías: del 1% en hospitales de Madrid al 44% en la Comunitat Valenciana.
+- Según quien convoca: Sindicatos: por encima del 50%, y hasta el 90% en algunas comunidades.
+- Quién gobernaba: Estado: Ministerio de Sanidad (Mónica García, Sumar), Gobierno de PSOE y Sumar. La aplicación es autonómica.
+- En qué acabó: La huelga indefinida prevista se aplazó el 7 de octubre de 2026 por la disolución de las Cortes.
+- Fuentes:
+  - [COPE: los médicos aplazan la huelga indefinida](https://www.cope.es/emisoras/pais-vasco/noticias/sindicatos-medicos-aplazan-huelga-indefinida-dejan-conflicto-manos-proximo-gobierno-20261007_3451523.html)
+  - [Gaceta Médica: seguimiento del primer día](https://gacetamedica.com/profesion/seguimiento-primer-dia-huelga-medica-estatuto-marco/)
+
+### Huelga docente (Asturias)
+- Fecha: may-jun 2025 · Sector: Educación
+- Convocan: CSIF (indefinida), CCOO, UGT, SUATEA y ANPE
+- Qué pedían: Mantener la jornada reducida, salario, atención a la diversidad y menos burocracia
+- Cifra oficial: Sin cifra oficial en las fuentes leídas. La consejera de Educación dimitió durante la huelga.
+- Según quien convoca: Sindicatos: 30.000 personas en la manifestación de Oviedo.
+- Quién gobernaba: Barbón (PSOE e IU). Competencia autonómica.
+- En qué acabó: Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subida de 140 € al mes.
+- Fuentes:
+  - [RTPA: preacuerdo con el Principado](https://www.rtpa.es/noticias-asturias/2025-06-09/Los-sindicatos-docentes-y-el-Principado-llegan-a-un-preacuerdo-con-el-Principado_111749487659.html)
+  - [El Salto: crónica de la huelga](https://www.elsaltodiario.com/asturias/educacion-pie-guerra-cronica-huelga-ha-sacudido-final-curso-asturias)
+
+### Manifestaciones por la vivienda (España (unas 40 ciudades))
+- Fecha: 5 abr 2025 · Sector: Vivienda
+- Convocan: Sindicatos de Inquilinas, PAH y asociaciones vecinales, con apoyo de CCOO y UGT
+- Qué pedían: Bajar los alquileres, recuperar viviendas vacías y prohibir desahucios sin alternativa
+- Cifra oficial: Delegación del Gobierno: 15.000 en Madrid; autoridades municipales: 12.000 en Barcelona.
+- Según quien convoca: Convocantes: entre 100.000 y 150.000 en Madrid y 100.000 en Barcelona.
+- Quién gobernaba: Estado: Sánchez. Las comunidades tienen la competencia de vivienda.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [El Español: miles de personas por la vivienda en toda España](https://www.elespanol.com/espana/20250405/miles-personas-salen-calle-toda-espana-carestia-vivienda-ciudad-habita/1003743701113_0.html)
+
+### Huelgas en la educación pública vasca (País Vasco)
+- Fecha: mar-abr 2025 · Sector: Educación
+- Convocan: LAB, Steilas, ELA y CCOO
+- Qué pedían: Salario, estabilidad del profesorado interino y permisos
+- Cifra oficial: El Departamento de Educación la calificó de «injustificada»; sin cifra oficial en las fuentes leídas.
+- Según quien convoca: Sindicatos: más del 75%.
+- Quién gobernaba: Pradales (PNV y PSE). Competencia autonómica.
+- En qué acabó: Acuerdo en mayo de 2025 con la mayoría de sindicatos (ELA no firmó).
+- Fuentes:
+  - [Infobae: los sindicatos mantienen la huelga](https://www.infobae.com/espana/2025/03/25/huelga-de-educacion-en-pais-vasco-los-sindicatos-las-mantienen-ante-la-falta-de-acuerdo-con-educacion/)
+  - [Gasteiz Hoy: fin de la huelga con acuerdo](https://www.gasteizhoy.com/fin-huelga-educacion-publica-vasca-acuerdo/)
+
+### Manifestación por la vivienda (Madrid)
+- Fecha: 13 oct 2024 · Sector: Vivienda
+- Convocan: Sindicato de Inquilinas y unas 40 entidades
+- Qué pedían: Bajar los alquileres un 50%, aplicar la Ley de Vivienda y suspender licencias turísticas
+- Cifra oficial: Delegación del Gobierno: 22.000 personas.
+- Según quien convoca: Convocantes: unas 150.000.
+- Quién gobernaba: Estado: Sánchez (Ley de Vivienda). Comunidad: Ayuso (PP).
+- En qué acabó: Movilización.
+- Fuentes:
+  - [El Español: la manifestación por los alquileres](https://www.elespanol.com/invertia/observatorios/vivienda/20241013/manifestacion-alquileres-directo-sindicato-inquilinas-llama-movilizacion-alienta-huelga/893260667_10.html)
+
+### Huelga del profesorado (Castilla-La Mancha)
+- Fecha: 11 sep 2024 · Sector: Educación
+- Convocan: STE-CLM, CCOO y CSIF (UGT y ANPE no se sumaron)
+- Qué pedían: Menos horas lectivas, ratios más bajas y menos burocracia
+- Cifra oficial: Junta: 1,46% (504 docentes).
+- Según quien convoca: Sindicatos: 25%, unos 7.000 de 27.000.
+- Quién gobernaba: Junta del PSOE (García-Page), con mayoría absoluta. Competencia autonómica.
+- En qué acabó: Sin desenlace publicado.
+- Fuentes:
+  - [elDiario.es: los sindicatos cifran el seguimiento en un 25%](https://www.eldiario.es/castilla-la-mancha/social/sindicatos-convocantes-cifran-25-seguimiento-huelga-profesorado-castilla-mancha_1_11645060.html)
+  - [El Español (El Digital CLM): la Junta cifra el seguimiento en el 1,46%](https://www.elespanol.com/eldigitalcastillalamancha/cultura/educacion-y-universidad/20240911/huelga-docentes-pincha-castilla-la-mancha-junta-cifra-seguimiento/885161733_0.html)
+
+### Huelga de tres horas en la sanidad pública andaluza (Andalucía)
+- Fecha: 26 jun 2024 · Sector: Sanidad
+- Convocan: SATSE, CSIF, CCOO y UGT
+- Qué pedían: Cumplir los acuerdos de atención primaria y de carrera profesional, y más plantilla
+- Cifra oficial: Junta de Andalucía: 4,5% (2.768 de 60.655 profesionales del turno de mañana).
+- Según quien convoca: Sindicatos: 75%.
+- Quién gobernaba: Junta del PP con mayoría absoluta. Competencia autonómica.
+- En qué acabó: Según SATSE, la carrera profesional se desbloqueó con un acuerdo en la Mesa Sectorial firmado el 25 de marzo de 2026.
+- Fuentes:
+  - [elDiario.es: la Junta rebaja al 4,5% lo que los sindicatos elevan al 75%](https://www.eldiario.es/andalucia/sindicatos-celebran-exito-rotundo-huelga-sanidad-andaluza-seguimiento-cifran-75_1_11478619.html)
+  - [SATSE Andalucía: acuerdo que desbloquea la carrera profesional](https://andalucia.satse.es/w/acuerdo-carrera-sas)
+
+### Huelgas docentes por un nuevo acuerdo sectorial (Madrid)
+- Fecha: may 2024 · Sector: Educación
+- Convocan: CCOO, ANPE, CSIF y UGT
+- Qué pedían: Menos horas lectivas, ratios más bajas y más plantilla
+- Cifra oficial: Comunidad de Madrid: 24,5% y 23,4% en las dos jornadas.
+- Según quien convoca: Sindicatos: 65% y 67%.
+- Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
+- En qué acabó: Sin acuerdo.
+- Fuentes:
+  - [Gacetín Madrid: seguimiento del 67% según sindicatos](https://gacetinmadrid.com/2024/05/21/seguimiento-67-huelga-educativa-madrid/)
+
+### Manifestaciones «Canarias tiene un límite» (Canarias)
+- Fecha: 20 abr 2024 · Sector: Vivienda
+- Convocan: Colectivos ciudadanos «Canarias tiene un límite»
+- Qué pedían: Moratoria turística, ecotasa y vivienda para los residentes
+- Cifra oficial: Gobierno de Canarias: 14.000 en Gran Canaria y 30.000 en Tenerife.
+- Según quien convoca: Convocantes: 50.000 en Gran Canaria y 80.000 en Tenerife.
+- Quién gobernaba: Clavijo (CC y PP). Vivienda y turismo son competencia autonómica.
+- En qué acabó: Sin medida concreta.
+- Fuentes:
+  - [RTVC: las manifestaciones del 20A](https://rtvc.es/manifestaciones-canarias-tiene-un-limite-20a/)
+
+### Huelga general feminista por los cuidados (País Vasco y Navarra)
+- Fecha: 30 nov 2023 · Sector: General
+- Convocan: ELA, LAB, ESK, Steilas, EHNE, Etxalde, CGT y el Movimiento Feminista de Euskal Herria
+- Qué pedían: Un sistema público de cuidados
+- Cifra oficial: Gobierno Vasco: 39,1% en la educación pública y 5,6% en Osakidetza (turno de día).
+- Según quien convoca: Convocantes: «éxito», con movilizaciones en más de 100 localidades.
+- Quién gobernaba: Estado: Sánchez (PSOE y Sumar). Euskadi: Urkullu. Navarra: Chivite.
+- En qué acabó: Sin medida concreta.
+- Fuentes:
+  - [infoLibre: el seguimiento según sindicatos y Gobierno Vasco](https://www.infolibre.es/igualdad/sindicatos-movimiento-feminista-califican-exito-huelga-general-gobierno-vasco-cifra-40-seguimiento_1_1655722.html)
+
+### Huelga en la sanidad pública, desconvocada tras un acuerdo (Castilla y León)
+- Fecha: may 2023 · Sector: Sanidad
+- Convocan: CCOO, UGT y CSIF
+- Qué pedían: Que la Consejería negociara y firmara lo acordado sobre estabilización y plantillas
+- Cifra oficial: No se celebró.
+- Según quien convoca: —
+- Quién gobernaba: Junta del PP con Vox. Competencia autonómica.
+- En qué acabó: Acuerdo el 8 de mayo, que desconvocó la huelga del día 10, y nuevo acuerdo el 16, que desconvocó la del 17.
+- Fuentes:
+  - [elDiario.es: los sindicatos mantienen la huelga del 17 si no se firma lo acordado](https://www.eldiario.es/castilla-y-leon/politica/ugt-ccoo-csif-encierran-sala-reuniones-sanidad-ausencia-vazquez_1_10205158.html)
+  - [ConSalud: acuerdo y desconvocatoria](https://www.consalud.es/autonomias/castilla-y-leon/castilla-leon-acuerdo-materia-sanitaria-con-principales-sindicatos_129905_102.html)
+
+### Huelga de médicos (Navarra)
+- Fecha: feb 2023 · Sector: Sanidad
+- Convocan: Sindicato Médico de Navarra
+- Qué pedían: Salario, agendas y poder ejercer en la privada
+- Cifra oficial: Sin cifra en las fuentes leídas.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Chivite (PSN, Geroa Bai y Podemos). Competencia autonómica.
+- En qué acabó: Acuerdo: 400 € más al mes y un máximo de 32 pacientes al día.
+- Fuentes:
+  - [elDiario.es: acuerdo para suspender la huelga](https://www.eldiario.es/navarra/gobierno-navarra-llega-auerdo-sindicato-medico-suspender-huelga_1_9963180.html)
+
+### Huelga de médicos (Cataluña)
+- Fecha: ene 2023 · Sector: Sanidad
+- Convocan: Metges de Catalunya
+- Qué pedían: Calidad asistencial, menos carga de trabajo y listas de espera
+- Cifra oficial: Sin cifra en las fuentes leídas.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Aragonès (ERC en solitario). Competencia autonómica.
+- En qué acabó: Acuerdo el 31 de enero de 2023; se desconvocan las jornadas siguientes.
+- Fuentes:
+  - [ElNacional: desconvocada tras el acuerdo](https://www.elnacional.cat/es/salud/desconvocada-la-huelga-de-medicos-despues-de-llegar-a-un-acuerdo-con-salud_961986_102.html)
+
+### Huelga docente de dos días (Cataluña)
+- Fecha: 25 y 26 ene 2023 · Sector: Educación
+- Convocan: USTEC·STEs y otros sindicatos educativos y de estudiantes
+- Qué pedían: Revertir los recortes y cambios introducidos sin consenso por el Departament d'Educació
+- Cifra oficial: Departament d'Educació: 7,7% el primer día (datos hasta mediodía) y 5,11% el segundo (con datos del 66% de los centros).
+- Según quien convoca: USTEC: 20% el primer día. Guardia Urbana: unas 6.500 personas ante el Parlament.
+- Quién gobernaba: Govern de ERC en solitario (Aragonès); conseller Josep Gonzàlez-Cambray. Competencia autonómica.
+- En qué acabó: Gonzàlez-Cambray fue relevado en la remodelación del Govern del 12 de junio de 2023; los sindicatos lo celebraron. El curso 2023-2024 empezó con otra huelga, con menos del 1% de seguimiento según el Departament.
+- Fuentes:
+  - [VilaWeb: directo de la huelga y cifras](https://www.vilaweb.cat/noticies/vaga-educacio-mestres-professors-25-26-gener-2023/)
+  - [VilaWeb: los sindicatos celebran la salida de Cambray](https://www.vilaweb.cat/noticies/sindicats-educatius-celebren-destitucio-cambray/)
+  - [Público: el curso empieza con huelga (sep 2023)](https://www.publico.es/sociedad/curso-escolar-empezado-huelga-docentes-catalunya.html)
+
+### Huelga de médicos de atención primaria (123 días) (Madrid)
+- Fecha: nov 2022 – mar 2023 · Sector: Sanidad
+- Convocan: AMYTS
+- Qué pedían: Diez minutos por paciente y límite de pacientes por agenda
+- Cifra oficial: Servicios mínimos del 100%; sin cifra oficial de seguimiento comprobada.
+- Según quien convoca: Sin cifra comprobada.
+- Quién gobernaba: Ayuso (PP en solitario). Competencia autonómica.
+- En qué acabó: Acuerdo en marzo de 2023 tras 123 días y 15 reuniones: complemento salarial y límite de agendas.
+- Fuentes:
+  - [Telemadrid: firmado el acuerdo tras 123 días](https://www.telemadrid.es/noticias/madrid/Firmado-el-acuerdo-que-pone-fin-a-la-huelga-de-Atencion-Primaria-tras-123-dias-y-15-reuniones-0-2542245831--20230316095246.html)
+  - [Público: la huelga indefinida](https://www.publico.es/sociedad/medicos-atencion-primaria-madrid-deciden-continuar-huelga-manera-indefinida.html)
+
+### Huelga de médicos residentes (MIR) (Madrid)
+- Fecha: jul-ago 2020 · Sector: Sanidad
+- Convocan: Residentes, con AMYTS
+- Qué pedían: Convenio, más supervisión, descanso tras las guardias y subida de la hora de guardia
+- Cifra oficial: Consejería de Sanidad: 43,88% el primer día.
+- Según quien convoca: Convocantes: más de 1.000 personas en la calle.
+- Quién gobernaba: Ayuso (PP y Cs). Competencia autonómica.
+- En qué acabó: Acuerdo en agosto de 2020.
+- Fuentes:
+  - [Redacción Médica: seguimiento de la huelga MIR](https://www.redaccionmedica.com/autonomias/madrid/huelga-mir-madrid-sanidad-seguimiento-9330)
+  - [elDiario.es: los MIR inician la huelga](https://www.eldiario.es/madrid/mir-inician-huelga-indefinida-gobierno-ayuso-grito-no-explotes-formame_1_6100918.html)
+
+### Huelga general por pensiones y salarios (País Vasco y Navarra)
+- Fecha: 30 ene 2020 · Sector: General
+- Convocan: ELA, LAB, Steilas, ESK, Hiru, Etxalde, EHNE y la Carta de Derechos Sociales
+- Qué pedían: Pensión mínima de 1.080 €, salario mínimo de 1.200 €, 35 horas y pensiones ligadas al IPC
+- Cifra oficial: Sin cifra oficial de seguimiento en las fuentes leídas.
+- Según quien convoca: Sindicatos: 145.000 personas en las manifestaciones.
+- Quién gobernaba: Estado: Sánchez (PSOE y UP). Euskadi: Urkullu (PNV y PSE). Navarra: Chivite (PSN, Geroa Bai y Podemos). Pensiones y salario mínimo son del Estado.
+- En qué acabó: Sin medida concreta; 19 detenidos.
+- Fuentes:
+  - [Orain (EITB): la huelga general del 30-E](https://orain.eus/es/actualidad/economia/2020/01/30/huelga-general-hegoalde-30-enero-2020-huelga-euskadi-navarra/)
+
+### Manifestación por la sanidad pública en Granada (Andalucía (Granada))
+- Fecha: 20 oct 2019 · Sector: Sanidad
+- Convocan: Justicia por la Sanidad (Jesús Candel, «Spiriman»)
+- Qué pedían: Frenar el deterioro de la sanidad pública; algunas pancartas pedían la dimisión del consejero Jesús Aguirre
+- Cifra oficial: Fuentes policiales: 6.500 personas.
+- Según quien convoca: Más de 10.000.
+- Quién gobernaba: Junta del PP con Cs (Moreno), a los diez meses de gobierno. Competencia autonómica.
+- En qué acabó: Sin medida concreta.
+- Fuentes:
+  - [elDiario.es: Spiriman reactiva las protestas en Granada](https://www.eldiario.es/andalucia/granada/spiriman-reaparece-granada-manifestacion-multitudinaria_1_1300234.html)
+
+### Huelga general tras la sentencia del procés (Cataluña)
+- Fecha: 18 oct 2019 · Sector: General
+- Convocan: Intersindical-CSC e IAC
+- Qué pedían: Formalmente, un salario mínimo de 1.200 € y derechos laborales; de fondo, la sentencia del procés
+- Cifra oficial: Guardia Urbana: 525.000 personas en Barcelona.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Estado: Sánchez (PSOE), en funciones. Generalitat: Torra (JxCat y ERC).
+- En qué acabó: Sin acuerdo; 17 detenidos.
+- Fuentes:
+  - [France 24: la huelga general en Cataluña](https://www.france24.com/es/20191018-cataluna-independentismo-huelga-general-proces)
+
+### Huelga feminista del 8M (España)
+- Fecha: 8 mar 2019 · Sector: General
+- Convocan: Comisión 8M; CCOO y UGT con paros de 2 horas
+- Qué pedían: Lo mismo que en 2018
+- Cifra oficial: Fuentes oficiales: 375.000 personas en la manifestación de Madrid y 200.000 en Barcelona.
+- Según quien convoca: Sin cifra de seguimiento de los paros en las fuentes leídas.
+- Quién gobernaba: Sánchez (PSOE), con las Cortes recién disueltas.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [infoLibre: el 8M de 2019](https://infolibre.es/noticias/politica/2019/03/08/directo_8m_92670_1012.html)
+
+### Huelga feminista del 8M (España)
+- Fecha: 8 mar 2018 · Sector: General
+- Convocan: Comisión 8M; CCOO y UGT con paros de 2 horas; CGT y CNT, 24 horas
+- Qué pedían: Acabar con la brecha salarial, la precariedad y la violencia machista
+- Cifra oficial: Delegación del Gobierno: 170.000 personas en la manifestación de Madrid; Guardia Urbana: 200.000 en Barcelona. No hubo cifra global oficial de seguimiento.
+- Según quien convoca: CCOO y UGT: 5,9 millones de personas en los paros.
+- Quién gobernaba: Rajoy (PP), en minoría. La legislación laboral es del Estado.
+- En qué acabó: Movilización, sin una medida concreta.
+- Fuentes:
+  - [elDiario.es: 5,9 millones según los sindicatos](https://www.eldiario.es/sociedad/sindicatos-cifran-millones-trabajadores-seguimiento_0_747875584.html)
+  - [La Marea: las cifras del 8M](https://www.lamarea.com/2018/03/09/huelga-feminista-8m-cifras/)
+
+### Movilizaciones de pensionistas (España)
+- Fecha: ene-mar 2018 · Sector: Pensiones
+- Convocan: Coordinadora Estatal por la Defensa del Sistema Público de Pensiones, plataformas locales; CCOO y UGT por separado
+- Qué pedían: Subir las pensiones con el IPC frente al 0,25%
+- Cifra oficial: Sin cifras comprobadas en las fuentes leídas.
+- Según quien convoca: Sin cifras comprobadas en las fuentes leídas.
+- Quién gobernaba: Rajoy (PP), hasta el 1 de junio de 2018. Las pensiones son del Estado.
+- En qué acabó: Los presupuestos de 2018 (ya con Sánchez) subieron las pensiones por encima del 0,25%, y en 2021 una ley las ligó al IPC medio.
+- Fuentes:
+  - [El Independiente: los jubilados y las movilizaciones](https://www.elindependiente.com/economia/2018/03/13/jubilados-ccoo-ugt-ley-mordaza/)
+  - [BOE: Ley 6/2018 de presupuestos](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-9268)
+  - [BOE: Ley 21/2021 de pensiones](https://www.boe.es/buscar/act.php?id=BOE-A-2021-21652)
+
+### «Paro de país» tras las cargas policiales del 1-O (Cataluña)
+- Fecha: 3 oct 2017 · Sector: General
+- Convocan: Taula per la Democràcia (UGT, CCOO, Pimec, Cecot, ANC, Òmnium); huelga registrada por CGT e IAC
+- Qué pedían: Protestar por las cargas policiales del 1 de octubre
+- Cifra oficial: Guardia Urbana: unas 300.000 personas en Barcelona.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Estado: Rajoy (PP). Generalitat: Puigdemont (JxSí, con apoyo de la CUP), antes del 155.
+- En qué acabó: Huelga de carácter político, sin acuerdo.
+- Fuentes:
+  - [Vozpópuli: la convocatoria](https://www.vozpopuli.com/espana/sindicatos-ugt-ccoo-convocada-cataluna_0_1068194206.html)
+  - [La Silla Rota: la jornada](https://lasillarota.com/mundo/2017/10/3/huelga-marchas-colapsan-calles-de-barcelona-109202.html)
+
+### Huelga general de la educación contra la LOMCE y los recortes (España)
+- Fecha: 9 mar 2017 · Sector: Educación
+- Convocan: Plataforma por la Escuela Pública: CCOO, UGT, STES, CGT, organizaciones de estudiantes y CEAPA
+- Qué pedían: Derogar la LOMCE y revertir los recortes
+- Cifra oficial: Ministro Méndez de Vigo: incidencia «mínima». Gobierno de Asturias: 21% del profesorado.
+- Según quien convoca: Plataforma: 65% del personal y 85% del alumnado.
+- Quién gobernaba: Rajoy (PP), en minoría. La ley es estatal; el profesorado depende de las comunidades.
+- En qué acabó: Sin cambio inmediato.
+- Fuentes:
+  - [UGT: comunicado de la plataforma con sus cifras](https://www.ugt.es/el-65-de-trabajadores-de-la-ensenanza-y-el-85-del-alumnado-secundan-la-huelga-general-de-la)
+  - [Público: directo de la jornada](https://publico.es/actualidad/directo-facultades-enteras-cerradas-y.html)
+  - [Crónica Global: la educación pública, a la huelga](https://cronicaglobal.elespanol.com/vida/20170309/la-educacion-publica-la-huelga-lomce-recortes/199480087_0.html)
+
+### Huelga educativa contra las reválidas (España)
+- Fecha: 26 oct 2016 · Sector: Educación
+- Convocan: Sindicato de Estudiantes y CEAPA (familias); en algunas comunidades, como Madrid, también sindicatos docentes
+- Qué pedían: Retirar las evaluaciones finales («reválidas») de ESO y Bachillerato de la LOMCE
+- Cifra oficial: Ministerio de Educación: entre el 30% y el 40% de los estudiantes, y el 12% del profesorado donde se convocó.
+- Según quien convoca: Sindicato de Estudiantes: 90% de media.
+- Quién gobernaba: Rajoy (PP), en funciones (fue investido tres días después). La LOMCE es estatal.
+- En qué acabó: El Real Decreto-ley 5/2016, de 9 de diciembre, aplazó al curso 2017-2018 los efectos académicos de las evaluaciones finales.
+- Fuentes:
+  - [Diariocrítico (Europa Press): la huelga del 26 de octubre](https://www.diariocritico.com/huelga-ensenanza-miercoles-26-octubre-2016)
+  - [BOE: Real Decreto-ley 5/2016](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-11733)
+
+### Manifestaciones por «dos hospitales completos» en Granada (Andalucía (Granada))
+- Fecha: oct 2016 – ene 2017 · Sector: Sanidad
+- Convocan: Plataformas Granada por su Salud y Justicia por la Sanidad (Jesús Candel, «Spiriman»), con decenas de colectivos
+- Qué pedían: Deshacer la fusión hospitalaria y volver a dos hospitales completos
+- Cifra oficial: 16 oct 2016: más de 45.000 según fuentes oficiales. 27 nov: entre 40.000 y 50.000 según la Policía Local. 15 ene 2017: 55.000 según la Subdelegación del Gobierno y 30.000 según la policía autonómica.
+- Según quien convoca: 27 nov: 100.000. 15 ene: 80.000.
+- Quién gobernaba: Junta del PSOE (Susana Díaz). La sanidad es competencia autonómica (SAS).
+- En qué acabó: La Junta revocó la fusión; Granada volvió a tener dos hospitales completos el 26 de marzo de 2018. Salieron de sus cargos los gerentes del hospital y del SAS, el viceconsejero y el consejero de Salud, Aquilino Alonso.
+- Fuentes:
+  - [Granada Digital: las tres manifestaciones y sus cifras](https://www.granadadigital.es/granada-no-se-rinde-tres-manifestaciones-por-dos-hospitales-completos/)
+  - [elDiario.es: Granada recupera sus dos hospitales completos](https://www.eldiario.es/andalucia/granada/granada-recupera-hospitales-completos-personal_1_2213533.html)
+

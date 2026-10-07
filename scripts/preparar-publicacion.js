@@ -16,7 +16,7 @@ const ficheros = [
 ];
 
 // Pestañas opcionales: se publican solo si existen (si no, la página las oculta).
-for (const f of ["datos/bulos.json", "datos/programas.json"]) if (fs.existsSync(path.join(raiz, f))) ficheros.push(f);
+for (const f of ["datos/bulos.json", "datos/programas.json", "datos/huelgas.json"]) if (fs.existsSync(path.join(raiz, f))) ficheros.push(f);
 
 fs.rmSync(destino, { recursive: true, force: true });
 for (const f of ficheros) {
