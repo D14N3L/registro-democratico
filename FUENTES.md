@@ -9178,7 +9178,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 1/2016, de transparencia y buen gobierno](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3190)
   - [BOE (ELI): Ley 1/2016](https://www.boe.es/eli/es-ga/l/2016/01/18/1)
 
-## Bulos (72)
+## Bulos (132)
 
 ### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Pidió a todo el mundo que «ni se le ocurra votar por correo» y habló de una posible adulteración de los censos.
 - Fecha: 5 oct 2026
@@ -9252,6 +9252,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: la pobreza con Sánchez](https://www.newtral.es/pobreza-feijoo-sanchez-factcheck/20251217/)
 
+### Patxi López (portavoz del PSOE en el Congreso): Que el PP votó en contra del ingreso mínimo vital.
+- Fecha: nov 2025
+- Partido: PSOE
+- Canal: Declaración pública · Tema: Otros
+- Qué dicen los datos: El PP votó a favor cuando el Congreso convalidó el decreto-ley en 2020.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el PP sí votó a favor del ingreso mínimo vital](https://www.newtral.es/pp-ingreso-minimo-vital-factcheck/20251113/)
+
 ### Gabriel Rufián (portavoz de ERC en el Congreso): Que Feijóo había dicho que fue la primera persona que habló con Mazón durante la DANA.
 - Fecha: 12 nov 2025
 - Partido: ERC
@@ -9288,6 +9297,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: Cuerpo no confirma el 5% del PIB en defensa](https://www.newtral.es/gobierno-objetivo-gasto-defensa-militar-otan-irene-montero-factcheck/20251023/)
 
+### Oriol Junqueras (presidente de ERC): Que «la economía catalana aportó el 8% de todo el crecimiento del PIB de la Unión Europea el año pasado».
+- Fecha: sep 2025
+- Partido: ERC
+- Canal: Entrevista en «El Matí de Catalunya Ràdio» · Tema: Economía y empleo
+- Qué dicen los datos: Cataluña aportó el 2,7% del crecimiento del PIB de la UE en 2024: su PIB creció un 3,6% (20.251 millones de euros, Idescat) y el de la UE, un 1% (745.704 millones, Eurostat).
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: Catalunya aportó el 2,7% del crecimiento del PIB de la UE en 2024, no el 8%](https://www.verificat.cat/es/catalunya-aporto-el-27-del-crecimiento-del-pib-de-la-ue-en-2024-no-el-8-que-dice-junqueras/)
+
 ### Alberto Núñez Feijóo (presidente del PP): Que España fue el país de la UE donde más inmigración irregular entró en 2023 y 2024.
 - Fecha: jul 2025
 - Partido: PP
@@ -9296,6 +9314,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Newtral: Falso
 - Fuentes:
   - [Newtral: Italia recibió más inmigración irregular](https://www.newtral.es/feijoo-inmigracion-irregular-espana-factcheck/20250717/)
+
+### Ernest Urtasun (ministro de Cultura y portavoz de Sumar): Que España es «el único país de la Unión Europea» que no tiene una agencia propia contra la corrupción.
+- Fecha: 10 jul 2025
+- Partido: Sumar
+- Canal: Entrevista en la Cadena SER · Tema: Instituciones y justicia
+- Qué dicen los datos: Newtral consultó a los ministerios de Interior y Justicia de los 27 países: nueve tienen agencia propia y otros nueve, además de España, no la tienen (Alemania, Bélgica, Croacia, Estonia, Finlandia, Hungría, Irlanda, Luxemburgo y Chequia).
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: al menos nueve países de la UE no cuentan con una agencia propia contra la corrupción](https://www.newtral.es/agencia-corrupcion-espana-urtasun-factcheck/20250717/)
 
 ### Santiago Abascal (diputado y presidente de Vox): Que cada vez más españoles están en riesgo de pobreza extrema.
 - Fecha: 18 jun 2025
@@ -9326,6 +9353,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Maldita.es: los bulos difundidos por ministros sobre el excapitán de la UCO](https://maldita.es/malditahemeroteca/20250604/bulos-ministros-excapitan-uco-bonilla/)
   - [Maldita.es: el falso mensaje de la bomba lapa](https://maldita.es/malditobulo/20250602/falso-mensaje-guardia-civil-bomba-lapa/)
 
+### Patxi López (portavoz del PSOE en el Congreso): Que España será «el único país» de la UE que seguirá creciendo en 2025.
+- Fecha: may 2025
+- Partido: PSOE
+- Canal: Declaración pública · Tema: Economía y empleo
+- Qué dicen los datos: Según la Comisión Europea, España crecerá un 2,6% en 2025 y es la octava de los Estados miembros.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: España no es el único país de la UE que crece en 2025](https://www.newtral.es/union-europea-crecimiento-espana-patxi-lopez-factcheck/20250521/)
+
 ### Luis «Alvise» Pérez (eurodiputado de SALF): Que el Gobierno atribuía el apagón a una «vibración atmosférica inducida».
 - Fecha: 28 abr 2025
 - Partido: Otros
@@ -9334,6 +9370,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Newtral: Falso
 - Fuentes:
   - [Newtral: el Gobierno no habló de vibración atmosférica](https://www.newtral.es/gobierno-vibracion-atmosferica-factcheck/20250430/)
+
+### Patxi López (portavoz del PSOE en el Congreso): Que España tiene la presión fiscal más baja de toda Europa.
+- Fecha: mar 2025
+- Partido: PSOE
+- Canal: Declaración pública · Tema: Economía y empleo
+- Qué dicen los datos: La presión fiscal fue del 37% en 2023 y 14 países europeos tenían una menor.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: España no tiene la presión fiscal más baja como dice Patxi López](https://www.newtral.es/presion-fiscal-patxi-lopez-factcheck/20250312/)
 
 ### Miguel Ángel Rodríguez (jefe de Gabinete de la presidenta de la Comunidad de Madrid): Que la mujer que contó en el programa de Jordi Évole que su madre murió en una residencia madrileña durante la pandemia mentía y no tenía a su madre en ninguna residencia de la Comunidad de Madrid.
 - Fecha: 16 feb 2025
@@ -9371,6 +9416,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Newtral: Falso
 - Fuentes:
   - [Newtral: las plazas MIR](https://www.newtral.es/medicos-gobierno-sanchez-numero-plazas-mir-espana/20250117/)
+
+### Oriol Junqueras (presidente de ERC): Que en las elecciones internas de ERC había obtenido «muchos más votos que nunca».
+- Fecha: 2 dic 2024
+- Partido: ERC
+- Canal: Entrevista en «Els Matins de Catalunya Ràdio» · Tema: Otros
+- Qué dicen los datos: Obtuvo 3.157 votos en 2024, frente a 3.747 en 2022 y 4.589 en 2019 (aquellas con candidatura única); la participación de 2024 fue la más alta (81,35%).
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: Junqueras no ha obtenido más votos que nunca en las elecciones internas de ERC](https://www.verificat.cat/es/junqueras-no-ha-obtenido-mas-votos-que-nunca-en-las-elecciones-internas-de-erc-como-asegura-en-una-entrevista/)
 
 ### Luis «Alvise» Pérez (eurodiputado de SALF): Que se estaban tirando al vertedero de Catarroja cientos de toneladas de donaciones para los afectados por la DANA, con el apoyo de un concejal del PP de Alfafar; lo presentó como una investigación suya y de Vito Quiles.
 - Fecha: nov 2024
@@ -9426,6 +9480,24 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: el PIB de Madrid](https://www.newtral.es/pib-madrid-ayuso-factcheck/20240528/)
 
+### Míriam Nogueras (portavoz de Junts per Catalunya en el Congreso): Que el independentismo es hoy la ideología mayoritaria en el Parlament de Cataluña.
+- Fecha: may 2024
+- Partido: Junts
+- Canal: Declaración pública · Tema: Elecciones
+- Qué dicen los datos: Los partidos independentistas obtuvieron 61 de los 135 escaños, el 45,2%.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el independentismo no es mayoritario en el Parlament de Cataluña](https://www.newtral.es/independentismo-mayoritario-parlament-cataluna-miriam-nogueras-factcheck/20240523/)
+
+### Ignacio Garriga (candidato de Vox a las elecciones catalanas (12-M)): Que «Catalunya en el último año ha protagonizado un incremento del 60% [de] los asesinatos».
+- Fecha: abr 2024
+- Partido: Vox
+- Canal: Entrevistas en COPE y RNE · Tema: Inmigración y seguridad
+- Qué dicen los datos: Según el Balance de Criminalidad del Ministerio del Interior, los asesinatos pasaron de 63 en 2022 a 71 en 2023: un 12,7% más.
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: los asesinatos han aumentado un 12% en Catalunya, no un 60% como asegura Garriga](https://www.verificat.cat/es/los-asesinatos-han-aumentado-un-12-en-catalunya-en-el-ultimo-ano-no-un-60-como-asegura-ignacio-garriga/)
+
 ### Miguel Ángel Rodríguez (jefe de Gabinete de la presidenta de la Comunidad de Madrid): Que la Fiscalía había ofrecido un pacto a Alberto González Amador, pareja de la presidenta madrileña, y que luego lo retiró por «órdenes de arriba».
 - Fecha: 13 mar 2024
 - Partido: PP
@@ -9448,6 +9520,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Newtral: Falso
 - Fuentes:
   - [Newtral: la Comisión Europea no señala al PP](https://www.newtral.es/pp-comision-europea-renovacion-cgpj-pedro-sanchez-factcheck/20231201/)
+
+### Cuenta oficial de Junts per Catalunya en X (cuenta oficial del partido): Que la proposición de ley de amnistía recoge en su artículo 1 a quienes han prestado asistencia o asesoramiento a los líderes independentistas «perseguidos por el lawfare».
+- Fecha: 14 nov 2023
+- Partido: Junts
+- Canal: Vídeo en X · Tema: Instituciones y justicia
+- Qué dicen los datos: El fragmento citado no está en el texto registrado por el PSOE en el Congreso y el término «lawfare» no aparece en la proposición; Jordi Turull admitió que no figura porque es un concepto político.
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: el concepto «lawfare» no aparece en la ley de amnistía, pese a lo que afirma Junts](https://www.verificat.cat/es/el-concepto-lawfare-no-aparece-en-la-ley-de-amnistia-a-pesar-de-lo-que-afirma-junts/)
 
 ### Pedro Sánchez (presidente del Gobierno y candidato del PSOE): Que PP y Vox votaron en contra de nueve leyes sociales y las recurrieron «todas» ante el Constitucional.
 - Fecha: 19 jul 2023
@@ -9523,6 +9604,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: la Guardia Urbana no da ese dato](https://www.newtral.es/delitos-barcelona-menas-factcheck/20221013/)
 
+### Marta Rovira (secretaria general de ERC): Que el acuerdo entre ERC y Junts obliga a que los representantes catalanes en la mesa de diálogo sean miembros del Govern.
+- Fecha: sep 2022
+- Partido: ERC
+- Canal: Declaración pública · Tema: Instituciones y justicia
+- Qué dicen los datos: El acuerdo entre ambos partidos no establece esa condición.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la declaración falsa de Rovira sobre el acuerdo entre ERC y Junts](https://www.newtral.es/mesa-dialogo-govern-marta-rovira-factcheck/20220916/)
+
 ### Ione Belarra (ministra de Derechos Sociales y secretaria general de Podemos): Que el gasto militar ya estaba «en niveles récord».
 - Fecha: jul 2022
 - Partido: Podemos/UP
@@ -9533,6 +9623,35 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: el gasto militar en España](https://www.newtral.es/gasto-militar-espana-factcheck/20220712/)
 
+### Edmundo Bal (diputado de Ciudadanos): Que el vicepresidente de Castilla y León, Juan García-Gallardo, «se lleva 101.000 pavos al año».
+- Fecha: jun 2022
+- Partido: Cs
+- Canal: Declaración pública · Tema: Otros
+- Qué dicen los datos: García-Gallardo cobra 79.570,96 euros como vicepresidente y 220 euros por pleno como procurador (unos 7.920 al año en 36 plenos): 87.490,96. Solo el presidente de las Cortes, Carlos Pollán, supera los 101.000 (101.555,28).
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que García-Gallardo cobre 101.000 euros al año, como dice Bal](https://maldita.es/malditodato/20220622/edmundo-bal-garcia-gallardo-101000-euros/)
+
+### Míriam Nogueras (portavoz de Junts per Catalunya en el Congreso): Que «el president de nuestro país canta el Happy Birthday al Rey de España».
+- Fecha: mar 2022
+- Partido: Junts
+- Canal: Declaración pública · Tema: Instituciones y justicia
+- Qué dicen los datos: En la foto de familia del Mobile World Congress del 28-feb-2022 se cantó el cumpleaños feliz a Pedro Sánchez (nacido el 29 de febrero), no a Felipe VI.
+- Verificat: Falso
+- Matiz: Junts aclaró después que quiso decir «con» el Rey.
+- Fuentes:
+  - [Verificat: Aragonès no cantó el «Happy Birthday» al Rey](https://www.verificat.cat/es/aragones-no-canto-el-happy-birthday-al-rey-el-cumpleanos-feliz-de-las-autoridades-en-el-mwc-era-para-pedro-sanchez/)
+  - [Newtral: Aragonès y el Happy Birthday al Rey](https://www.newtral.es/aragones-happy-birthday-rey-factcheck/20220307/)
+
+### Ignacio Garriga (portavoz de Vox en el Parlament de Catalunya): Que la Generalitat y sus políticas de fronteras abiertas tienen la culpa de situaciones como un desalojo en Badalona.
+- Fecha: 13 ene 2022
+- Partido: Vox
+- Canal: Tuit tras un desalojo en Badalona · Tema: Inmigración y seguridad
+- Qué dicen los datos: La Constitución (art. 149.1.2.ª) da al Estado la competencia exclusiva sobre inmigración y extranjería; el Estatuto catalán limita a la Generalitat a la primera acogida y la integración.
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: el Gobierno de la Generalitat no tiene competencias en política migratoria, como dice Garriga](https://www.verificat.cat/es/el-gobierno-de-la-generalitat-no-tiene-competencias-en-regulacion-de-la-politica-migratoria-como-dice-ignacio-garriga/)
+
 ### Carlos Carrizosa (y la cuenta oficial de Cs) (presidente del grupo de Cs en el Parlament): Que el Reglamento del Parlament se modificó a instancias de Cs para suspender a diputados con juicio oral por corrupción.
 - Fecha: oct 2021
 - Partido: Cs
@@ -9541,6 +9660,34 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Newtral: Falso
 - Fuentes:
   - [Newtral: Carrizosa y el Reglamento del Parlament](https://www.newtral.es/reglamento-parlament-catalunya-corrpcion-carrizosa-factcheck/20211029/)
+
+### Pablo Casado (presidente del PP y diputado): Que hay 4 millones de parados.
+- Fecha: oct 2021
+- Partido: PP
+- Canal: Declaración pública · Tema: Economía y empleo
+- Qué dicen los datos: Según Newtral, Casado mezcla estadísticas de empleo distintas para llegar a esa cifra.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Casado mezcla estadísticas de empleo para decir que hay 4 millones de parados](https://www.newtral.es/parados-espana-casado-pp-factcheck/20211007/)
+
+### Cuca Gamarra (portavoz del PP en el Congreso): Que el PSOE «votó no» al sufragio universal femenino en 1931.
+- Fecha: oct 2021
+- Partido: PP
+- Canal: Declaración pública · Tema: Otros
+- Qué dicen los datos: El PSOE aportó 84 de los 161 votos a favor del artículo sobre el sufragio femenino activo, más de la mitad.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que el PSOE votara no al sufragio femenino en 1931](https://maldita.es/malditodato/20211002/psoe-voto-femenino-cuca-gamarra/)
+  - [Newtral: factcheck sobre el voto femenino y el PSOE](https://www.newtral.es/factcheck-psoe-voto-femenino-pp-falso/20211002/)
+
+### Begoña Villacís (vicealcaldesa de Madrid): Que Madrid es la «única capital europea» que no ha organizado unos Juegos Olímpicos, salvo Lisboa.
+- Fecha: sep 2021
+- Partido: Cs
+- Canal: Declaración pública · Tema: Otros
+- Qué dicen los datos: Otras veinte capitales de la UE están en la misma situación (entre ellas Viena, Bruselas, Praga, Copenhague, Zagreb, Budapest, Dublín y Varsovia); solo siete de las 27 han acogido unos Juegos.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Madrid no es la única capital europea sin Juegos Olímpicos, como dice Villacís](https://www.newtral.es/juegos-olimpicos-madrid-2036-begona-villacis-factcheck/20210927/)
 
 ### Santiago Abascal (diputado y presidente de Vox): Que la nueva ley de infancia de Andalucía garantiza «pagas a los menas» hasta los 25 años.
 - Fecha: 30 ago 2021
@@ -9588,6 +9735,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: el rastreo de contagios en Madrid](https://www.newtral.es/fact-check-madrid-rastreo-contagios-monica-garcia/20210428/)
 
+### Rocío Monasterio (portavoz de Vox en la Asamblea de Madrid y candidata a la presidencia (campaña del 4-M)): Que los inmigrantes irregulares reciben más ayudas que un trabajador en ERTE.
+- Fecha: abr 2021
+- Partido: Vox
+- Canal: Declaración en campaña · Tema: Inmigración y seguridad
+- Qué dicen los datos: La Ley de Extranjería (art. 14) exige residencia legal para las prestaciones de Seguridad Social y servicios sociales; sin papeles solo hay acceso a prestaciones sociales básicas y puntuales (vales de comedor, material escolar, medicinas). Un trabajador en ERTE cobra el 70% de su base reguladora (RDL 2/2021).
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: ayudas a inmigrantes irregulares y ERTE, Rocío Monasterio](https://www.newtral.es/fact-check-rocio-monasterio-ayudas-inmigrantes-erte/20210416/)
+
 ### Rocío Monasterio (portavoz de Vox en la Asamblea de Madrid): Que Vox fue «el único partido» que se opuso «siempre» al estado de alarma.
 - Fecha: 15 abr 2021
 - Partido: Vox
@@ -9597,6 +9753,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: Vox votó la primera prórroga](https://www.newtral.es/fact-check-vox-estado-de-alarma-rocio-monasterio/20210419/)
 
+### Oskar Matute (diputado de EH Bildu): Que Inditex pagó «cero euros» de impuesto de sociedades en España en 2019.
+- Fecha: mar 2021
+- Partido: Bildu
+- Canal: Declaración pública · Tema: Economía y empleo
+- Qué dicen los datos: Inditex pagó 372 millones de euros por impuesto de sociedades en 2019.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Inditex pagara cero euros de impuesto de sociedades en 2019](https://maldita.es/malditodato/20210401/inditex-cero-euros-impuestos-sociedades-espana-2019-oskar-matute/)
+  - [Newtral: Inditex y el impuesto de sociedades, Oskar Matute](https://www.newtral.es/fact-check-inditex-impuesto-sociedades-oskar-matute/20210326/)
+
 ### Carla Toscano (difundido por @VOX_Congreso) (diputada de Vox): Que el 80% de las denuncias por violencia de género se archivan «porque no hay pruebas ni indicios».
 - Fecha: mar 2021
 - Partido: Vox
@@ -9605,6 +9771,33 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Newtral: Falso
 - Fuentes:
   - [Newtral: los archivos de denuncias de violencia de género](https://www.newtral.es/fact-check-denuncias-violencia-genero-cgpj-vox-toscano/20210312/)
+
+### Inés Arrimadas (presidenta de Ciudadanos y portavoz en el Congreso): Que no pudo presentarse a la investidura tras las elecciones catalanas del 21-D.
+- Fecha: feb 2021
+- Partido: Cs
+- Canal: Declaración pública (repetida desde 2017) · Tema: Elecciones
+- Qué dicen los datos: Renunció a presentarse antes de que hubiera ningún candidato propuesto, porque los partidos no independentistas no sumaban mayoría en el Parlament.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: Arrimadas y la afirmación de que no pudo presentarse a la investidura del 21-D](https://maldita.es/malditodato/20210222/falso-arrimadas-presentar-candidata-investidura-elecciones-catalanas-21d/)
+
+### Pablo Casado (presidente del PP y diputado): Que en las elecciones generales el PP duplicó a Vox.
+- Fecha: feb 2021
+- Partido: PP
+- Canal: Declaración tras las elecciones catalanas del 14-F · Tema: Elecciones
+- Qué dicen los datos: En noviembre de 2019 el PP obtuvo 5.047.040 votos (20,81%) y 89 escaños; Vox, 3.656.979 (15,98%) y 52. Para ser el doble, Vox debía haber tenido unos 2,5 millones de votos.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que en las generales el PP duplicara a Vox](https://maldita.es/malditodato/20210221/falso-casado-elecciones-generales-pp-vox-duplico/)
+
+### Ciudadanos (comunicación del partido en la campaña catalana) (cuenta/campaña oficial de Cs (14-F)): Que Cataluña es la comunidad que destina menos dinero per cápita a sanidad y la que más a televisiones públicas.
+- Fecha: feb 2021
+- Partido: Cs
+- Canal: Campaña electoral · Tema: Sanidad
+- Qué dicen los datos: Newtral concluye que ninguna de las dos afirmaciones es correcta.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: es falso que Cataluña destine menos per cápita a sanidad y más a televisiones públicas, como dice Ciudadanos](https://www.newtral.es/fact-check-cataluna-gasto-sanidad-television/20210212/)
 
 ### Cuca Gamarra (portavoz del PP en el Congreso): Que Sánchez llevaba «más de un mes» sin ir al Congreso.
 - Fecha: 8 feb 2021
@@ -9715,6 +9908,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: Ábalos y la renovación del CGPJ](https://www.newtral.es/factcheck-abalos-pp-renovacion-cgpj-criticas-monarquia-psoe/20200910/)
 
+### Ana Oramas (diputada y portavoz de Coalición Canaria): Que España es el «único país europeo» que no publica estadísticas de coronavirus los fines de semana.
+- Fecha: ago 2020
+- Partido: CC
+- Canal: Declaración pública · Tema: Sanidad
+- Qué dicen los datos: Otros países europeos, como Noruega, Dinamarca y Suecia, tampoco publican datos en fin de semana.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que España sea el único país europeo sin estadísticas de covid en fin de semana](https://maldita.es/malditodato/20200827/datos-fin-semana-covid-ana-oramas/)
+
 ### Pedro Sánchez (presidente del Gobierno): Que la incidencia de la COVID en la mayor parte de España era menor que en Reino Unido y que el fondo europeo de 140.000 millones era «en torno al 60%» del PIB.
 - Fecha: 27 jul 2020
 - Partido: PSOE
@@ -9732,6 +9934,69 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Newtral: Falso
 - Fuentes:
   - [Newtral: Patricia Rueda y el supuesto veto de Alemania](https://www.newtral.es/fact-check-patricia-rueda-veto-alemania-turismo/20200617/)
+
+### Pablo Echenique (portavoz de Unidas Podemos en el Congreso): Que el lunes Vox envió «52 diputados» a trabajar al Congreso, obligando a acudir a los trabajadores de la casa.
+- Fecha: abr 2020
+- Partido: Podemos/UP
+- Canal: Pleno del Congreso (prórroga del estado de alarma) · Tema: Instituciones y justicia
+- Qué dicen los datos: Acudieron 16 de los 52 diputados de Vox, según confirmó el Congreso; Vox lo reconoció en un comunicado.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que 52 diputados de Vox fueran a trabajar al Congreso; fueron 16](https://maldita.es/malditodato/20200411/es-falso-que-el-lunes-52-diputados-de-vox-asistieran-a-trabajar-al-congreso-como-dice-pablo-echenique-fueron-16/)
+
+### Laura Borràs (portavoz de Junts per Catalunya en el Congreso): Que «tres de cada cuatro alcaldes» catalanes «han sido imputados» por apoyar el referéndum del 1 de octubre.
+- Fecha: feb 2020
+- Partido: Junts
+- Canal: Declaración pública · Tema: Instituciones y justicia
+- Qué dicen los datos: Los alcaldes afectados fueron unos 80, según la Asociación de Municipios por la Independencia.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que tres de cada cuatro alcaldes catalanes hayan sido imputados por el referéndum](https://maldita.es/malditodato/20200218/es-falso-que-tres-de-cada-cuatro-alcaldes-catalanes-han-sido-imputados-por-apoyar-el-referendum-del-1-de-octubre-como-dice-laura-borras/)
+
+### Pablo Casado (presidente del PP y diputado): Que, en la investidura de Sánchez, «los de los no éramos un millón y pico más de votantes que los del sí».
+- Fecha: ene 2020
+- Partido: PP
+- Canal: Declaración tras la investidura de Sánchez · Tema: Elecciones
+- Qué dicen los datos: Los partidos que votaron «no» (PP, Vox, Cs, JxCat, CUP, Na+, PRC) sumaron 11.299.441 votos y los del «sí» (PSOE, UP, PNV, Más País, BNG, Teruel Existe), 11.013.088: diferencia de 286.353.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que el «no» sumara un millón y pico más de votantes que el «sí»](https://maldita.es/malditodato/20200110/es-falso-que-en-la-votacion-de-investidura-de-pedro-sanchez-los-partidos-que-votaron-no-eramos-un-millon-y-pico-mas-de-votantes-que-los-del-si-como-dice-pablo-casado/)
+
+### Ana Oramas (diputada y portavoz de Coalición Canaria): Que fue «la única» que apoyó a Pedro Sánchez «cuando el acuerdo con Ciudadanos» (investidura fallida de 2016).
+- Fecha: ene 2020
+- Partido: CC
+- Canal: Debate de investidura de Pedro Sánchez (Congreso) · Tema: Instituciones y justicia
+- Qué dicen los datos: El diputado de Nueva Canarias Pedro Quevedo también votó a favor en la primera (2-mar-2016) y en la segunda votación (4-mar-2016).
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Oramas fuera la única que apoyó a Sánchez con el acuerdo con Ciudadanos](https://maldita.es/malditodato/20200107/es-falso-que-ana-oramas-fue-la-unica-que-apoyo-a-pedro-sanchez-cuando-el-acuerdo-con-ciudadanos-como-dice-ella-misma/)
+
+### Santiago Abascal (presidente de Vox y diputado): Que el PNV es «inexistente» en Navarra.
+- Fecha: ene 2020
+- Partido: Vox
+- Canal: Primer debate de investidura de Pedro Sánchez (Congreso) · Tema: Instituciones y justicia
+- Qué dicen los datos: El PNV está en Navarra a través de Geroa Bai: forma parte del Gobierno foral (el consejero Manu Ayerdi es del PNV), tiene 3 de los 9 escaños de Geroa Bai en el Parlamento foral y el alcalde de Alsasua es del PNV.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que el PNV sea inexistente en Navarra, como dice Abascal](https://maldita.es/malditodato/20200107/es-falso-que-el-pnv-es-inexistente-en-navarra-como-dice-santiago-abascal/)
+
+### Meritxell Budó (consellera de la Presidencia y portavoz del Govern): Que la sentencia del TJUE obliga al Tribunal Supremo a «dejar en libertad al vicepresident Oriol Junqueras».
+- Fecha: dic 2019
+- Partido: Junts
+- Canal: Declaración pública · Tema: Instituciones y justicia
+- Qué dicen los datos: El TJUE declaró que Junqueras tenía inmunidad como eurodiputado electo y que debió levantarse la prisión provisional para que asistiera al Parlamento Europeo; no se pronunció sobre la sentencia del procés (13 años) ni pidió su excarcelación.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que el TJUE ordene dejar en libertad a Junqueras, como dice Budó](https://maldita.es/malditodato/20191226/es-falso-que-la-sentencia-del-tribunal-europeo-dicte-que-el-tribunal-supremo-tenga-que-dejar-en-libertad-al-vicepresident-oriol-junqueras-como-dice-meritxell-budo/)
+
+### José Luis Ábalos (ministro de Fomento y secretario de Organización del PSOE (Cortes disueltas)): Que Vox está en el Gobierno de Castilla y León.
+- Fecha: nov 2019
+- Partido: PSOE
+- Canal: Declaración en campaña (10-N) · Tema: Instituciones y justicia
+- Qué dicen los datos: El Gobierno de Castilla y León estaba formado por PP y Ciudadanos.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Vox esté en el Gobierno de Castilla y León, como dijo Ábalos](https://maldita.es/malditodato/20191111/es-falso-que-vox-este-en-el-gobierno-en-castilla-y-leon-como-dice-el-ministro-abalos/)
 
 ### Albert Rivera (presidente de Ciudadanos y candidato): Que en todos los países de Europa los partidos con menos del 3% de los votos se quedan fuera del parlamento.
 - Fecha: 4 nov 2019
@@ -9770,6 +10035,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: las 17 falsedades del debate de la Academia de TV](https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/)
 
+### Santiago Abascal (presidente de Vox y candidato (Cortes disueltas)): Que trabajó «cuatro meses» en la Fundación para el Mecenazgo y el Patrocinio Social de la Comunidad de Madrid.
+- Fecha: nov 2019
+- Partido: Vox
+- Canal: Declaración en campaña (10-N) · Tema: Otros
+- Qué dicen los datos: Fue director de la Fundación de abril a diciembre de 2013: nueve meses.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Abascal trabajara solo cuatro meses en la Fundación para el Mecenazgo](https://maldita.es/malditodato/20191104/es-falso-que-santiago-abascal-trabajara-solo-cuatros-meses-en-la-fundacion-para-el-mecenazgo-y-el-patrocinio-social-de-la-comunidad-de-madrid-como-dice-el-mismo/)
+
 ### Ignacio Garriga (diputado de Vox en el Congreso): Que los miembros de la «manada de Manresa» eran menores extranjeros no acompañados.
 - Fecha: 2019
 - Partido: Vox
@@ -9787,6 +10061,96 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: los bulos de Vox sobre inmigración](https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/)
+
+### Íñigo Errejón (líder de Más País y candidato (Cortes disueltas)): Que hay «cada vez más gente que se va» de España.
+- Fecha: oct 2019
+- Partido: Otros
+- Canal: Declaración en campaña (10-N) · Tema: Economía y empleo
+- Qué dicen los datos: El saldo migratorio total es positivo desde 2016: entra más gente de la que sale.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que haya cada vez más gente que se va de España](https://maldita.es/malditodato/20191017/es-falso-que-haya-cada-vez-mas-gente-que-se-va-de-espana-como-dice-inigo-errejon/)
+
+### Santiago Abascal (presidente de Vox y candidato (Cortes disueltas)): Que «unos MENA cobran, en ocasiones, más que nuestros jubilados, nuestras viudas».
+- Fecha: oct 2019
+- Partido: Vox
+- Canal: Acto de Vox «Plus Ultra» en Vistalegre · Tema: Inmigración y seguridad
+- Qué dicen los datos: Un menor extranjero no acompañado no recibe ayudas económicas; como mucho, una paga de ocio de unos 10 euros semanales según la comunidad (unos 40 al mes). La pensión mínima de jubilación garantizada era de 599 euros y la de viudedad, de 513,1 euros.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que unos MENA cobren más que jubilados o viudas](https://maldita.es/migracion/20191016/es-falso-que-unos-mena-cobran-en-ocasiones-mas-que-nuestros-jubilados-o-nuestras-viudas-como-dice-santiago-abascal-no-reciben-ayudas/)
+
+### Iván Espinosa de los Monteros (portavoz de Vox en el Congreso y candidato (Cortes disueltas)): Que la manifestación por la unidad de España convocada por DENAES en la plaza de Colón en octubre de 2017 reunió a 200.000 personas.
+- Fecha: oct 2019
+- Partido: Vox
+- Canal: Acto de Vox «Plus Ultra» en Vistalegre · Tema: Otros
+- Qué dicen los datos: La Delegación del Gobierno en Madrid cifró la asistencia, según la Policía Nacional, en 50.000 personas.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las falsedades de Abascal y Espinosa de los Monteros en Vistalegre](https://maldita.es/malditodato/20191016/las-falsedades-de-abascal-y-espinosa-de-los-monteros-en-vistalegre-plus-ultra-sobre-los-menores-extranjeros-y-las-manifestaciones-por-la-unidad-de-espana/)
+
+### Pablo Iglesias (secretario general de Podemos y candidato (Cortes disueltas)): Que Podemos no acepta «donaciones privadas».
+- Fecha: oct 2019
+- Partido: Podemos/UP
+- Canal: Declaración en campaña (10-N) · Tema: Elecciones
+- Qué dicen los datos: Podemos ingresó donaciones privadas por crowdfunding (un millón de euros para el 28-A), transferencia bancaria, recibos domiciliados y tarjeta.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Podemos no acepte donaciones privadas](https://maldita.es/malditodato/20191014/es-falso-que-podemos-no-acepte-donaciones-privadas-como-dice-pablo-iglesias/)
+
+### Albert Rivera (presidente de Ciudadanos y candidato (Cortes disueltas)): Que «en las últimas elecciones no hubo una sola encuesta que nos acercara ni a los 50 escaños».
+- Fecha: oct 2019
+- Partido: Cs
+- Canal: Declaración en campaña · Tema: Elecciones
+- Qué dicen los datos: Antes del 28-A, cinco encuestas de casas y medios distintos daban a Cs 49 escaños o más: CIS (42-51), Sigma Dos (48-56), NC Report (55-56), SocioMétrica (49) y Metroscopia (49). Cs obtuvo 57.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Albert Rivera, en las últimas elecciones no hubo una sola encuesta que nos acercara a los 50 escaños](https://www.newtral.es/albert-rivera-en-las-ultimas-elecciones-no-hubo-una-sola-encuesta-que-nos-acercara-ni-a-los-50-escanos/20191008/)
+
+### Inés Arrimadas (diputada y portavoz de Ciudadanos): Que el CEO previo a las elecciones catalanas de 2017 daba 20 escaños a Cs y al final sacaron 36.
+- Fecha: sep 2019
+- Partido: Cs
+- Canal: Declaración pública · Tema: Elecciones
+- Qué dicen los datos: La última encuesta del CEO antes de las elecciones del 21-D daba a Cs entre 25 y 26 escaños, no 20.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las falsedades de Inés Arrimadas sobre las elecciones catalanas](https://maldita.es/malditodato/20190907/las-falsedades-de-ines-arrimadas-sobre-las-elecciones-catalanas/)
+
+### Íñigo Errejón (diputado en la Asamblea de Madrid y líder de Más País): Que «todos los que han sido presidentes del PP en la Comunidad de Madrid han sido imputados».
+- Fecha: sep 2019
+- Partido: Otros
+- Canal: Declaración pública · Tema: Instituciones y justicia
+- Qué dicen los datos: Ángel Garrido y Pedro Rollán, presidentes del PP en la Comunidad de Madrid, no han sido imputados.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que todos los presidentes del PP en Madrid hayan sido imputados](https://maldita.es/malditodato/20190904/es-falso-que-todos-los-que-han-sido-presidentes-del-pp-en-la-comunidad-madrid-han-sido-imputados-como-dice-inigo-errejon/)
+
+### Íñigo Errejón (diputado en la Asamblea de Madrid y líder de Más País): Que el nuevo Ayuntamiento de Madrid provoca que la Comisión Europea multe a España por intentar paralizar Madrid Central.
+- Fecha: ago 2019
+- Partido: Otros
+- Canal: Declaración pública · Tema: Otros
+- Qué dicen los datos: Maldita.es no encuentra ninguna sanción de la Comisión Europea a España vinculada a esa decisión del Ayuntamiento.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que la Comisión multe a España por Madrid Central, como dice Errejón](https://maldita.es/malditodato/20190813/es-falso-que-el-nuevo-ayuntamiento-de-madrid-provoca-que-la-comision-europea-multe-a-espana-por-intentar-paralizar-madrid-central-como-dice-inigo-errejon/)
+
+### Rocío Monasterio (portavoz de Vox en la Asamblea de Madrid): Que se puede ir a operarse a Madrid «desde cualquier parte del mundo» y que la factura no se envía al país de origen.
+- Fecha: ago 2019
+- Partido: Vox
+- Canal: Entrevista · Tema: Sanidad
+- Qué dicen los datos: El INSS traslada la factura al país del paciente tras comprobar su derecho; en 2017 España cobró 331,72 millones de euros a otros países por asistencia sanitaria a sus ciudadanos.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las afirmaciones falsas de Rocío Monasterio sobre la sanidad pública y las personas extranjeras](https://maldita.es/malditodato/20190803/las-afirmaciones-falsas-de-rocio-monasterio-sobre-la-sanidad-publica-y-las-personas-extranjeras-y-migrantes/)
+
+### Rocío Monasterio (portavoz de Vox en la Asamblea de Madrid): Que los migrantes que saltan la valla de Melilla reciben automáticamente una tarjeta sanitaria universal.
+- Fecha: ago 2019
+- Partido: Vox
+- Canal: Entrevista · Tema: Sanidad
+- Qué dicen los datos: Quien acaba de llegar no cumple los requisitos para ser asegurado; desde la recuperación de la sanidad universal en 2018, el derecho se reconoce tras tres meses de residencia efectiva.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las afirmaciones falsas de Rocío Monasterio sobre la sanidad pública y las personas extranjeras](https://maldita.es/malditodato/20190803/las-afirmaciones-falsas-de-rocio-monasterio-sobre-la-sanidad-publica-y-las-personas-extranjeras-y-migrantes/)
 
 ### Gabriel Rufián (portavoz de ERC en el Congreso): Que ERC votó a favor de 28 de los 29 decretos de Sánchez.
 - Fecha: 23 jul 2019
@@ -9807,6 +10171,88 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: las mentiras de la segunda sesión de investidura](https://maldita.es/malditodato/20190724/las-mentiras-y-datos-falsos-de-la-segunda-sesion-del-debate-de-investidura-de-pedro-sanchez/)
 
+### Albert Rivera (presidente de Ciudadanos y diputado): Que Ciudadanos tenía «4.300.000 votantes».
+- Fecha: 22-23 jul 2019
+- Partido: Cs
+- Canal: Debate de investidura de Pedro Sánchez (Congreso) · Tema: Elecciones
+- Qué dicen los datos: Cs obtuvo 4.155.665 votos el 28-A.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
+
+### Pablo Casado (presidente del PP y diputado): Que el Gobierno de Sánchez había subido un 30% el impuesto del diésel.
+- Fecha: 22-23 jul 2019
+- Partido: PP
+- Canal: Debate de investidura de Pedro Sánchez (Congreso) · Tema: Economía y empleo
+- Qué dicen los datos: El Gobierno de Sánchez no aprobó ninguna subida del impuesto sobre el diésel.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
+
+### Pablo Casado (presidente del PP y diputado): Que la cifra de negocios de la industria había caído un 7%.
+- Fecha: 22-23 jul 2019
+- Partido: PP
+- Canal: Debate de investidura de Pedro Sánchez (Congreso) · Tema: Economía y empleo
+- Qué dicen los datos: Según el INE, la cifra de negocios de la industria había caído un 0,7% en el último mes, diez veces menos.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
+
+### Pedro Sánchez (presidente del Gobierno (en funciones) y candidato a la investidura): Que el PSOE tenía más escaños que las dos fuerzas siguientes juntas.
+- Fecha: 22-23 jul 2019
+- Partido: PSOE
+- Canal: Debate de investidura (Congreso) · Tema: Elecciones
+- Qué dicen los datos: El PSOE obtuvo 123 escaños; PP (66) y Ciudadanos (57) sumaban 123.
+- Maldita.es: Falso
+- Matiz: Rectificó en su réplica a Pablo Casado en el mismo debate.
+- Fuentes:
+  - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
+
+### Pablo Iglesias (secretario general de Podemos y diputado): Que hay «un Gobierno de coalición en Alemania y en al menos 20 de los 28 países» de la UE.
+- Fecha: 22-23 jul 2019
+- Partido: Podemos/UP
+- Canal: Debate de investidura de Pedro Sánchez (Congreso) · Tema: Otros
+- Qué dicen los datos: Como mucho hay gobiernos de coalición en 17 de los 28. La fuente de Podemos (CIDOB) hablaba de más de un partido en 19 de los 28 gobiernos, y eso no equivale a coalición.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que haya gobierno de coalición en al menos 20 de los 28 países de la UE](https://maldita.es/malditodato/20190723/es-falso-que-haya-un-gobierno-de-coalicion-en-al-menos-20-de-los-28-paises-de-la-union-europea-como-dice-pablo-iglesias/)
+
+### Santiago Abascal (presidente de Vox y diputado): Que Arnaldo Otegi participó en los secuestros de Javier Rupérez y Gabriel Cisneros.
+- Fecha: 22 jul 2019
+- Partido: Vox
+- Canal: Debate de investidura de Pedro Sánchez (Congreso) · Tema: Instituciones y justicia
+- Qué dicen los datos: Otegi fue juzgado por ambos hechos y absuelto en los dos casos.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Otegi participara en los secuestros de Rupérez y Cisneros, como dice Abascal](https://maldita.es/malditodato/20190722/es-falso-que-arnaldo-otegi-participara-en-los-secuestros-de-javier-ruperez-y-gabriel-cisneros-como-dice-santiago-abascal/)
+
+### Pablo Iglesias (secretario general de Podemos y diputado): Que había oído a Pedro Sánchez decir «jamás aplicaremos el 155».
+- Fecha: jul 2019
+- Partido: Podemos/UP
+- Canal: Entrevista en «Al Rojo Vivo» · Tema: Instituciones y justicia
+- Qué dicen los datos: Podemos remitió a una noticia de El País del 7-jul-2017 con declaraciones de Margarita Robles, no de Sánchez. No hay declaración de Sánchez asegurando que «nunca» apoyaría el 155; antes de que el PSOE lo apoyara en el Senado, sí se había opuesto a aplicarlo.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Iglesias haya oído a Sánchez decir «jamás aplicaremos el 155»](https://maldita.es/malditodato/20190719/es-falso-que-pablo-iglesias-haya-escuchado-a-pedro-sanchez-decir-jamas-aplicaremos-el-155-como-dice-el-lider-de-podemos/)
+
+### Iván Espinosa de los Monteros (portavoz de Vox en el Congreso): Que Arnaldo Otegi tiene antecedentes penales «por intento de asesinato».
+- Fecha: jul 2019
+- Partido: Vox
+- Canal: Declaración pública · Tema: Instituciones y justicia
+- Qué dicen los datos: Las condenas de Otegi son por secuestro (1989, caso Abaitua) y por pertenencia a organización terrorista (2011, rebajada por el Supremo en 2012); en los casos Rupérez y Cisneros fue absuelto.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Otegi tenga antecedentes por intento de asesinato, como dice Espinosa de los Monteros](https://maldita.es/malditodato/20190712/es-falso-que-arnaldo-otegi-tenga-antecedentes-penales-por-intento-de-asesinato-como-dice-espinosa-de-los-monteros/)
+
+### Inés Arrimadas (diputada y portavoz de Ciudadanos): Que Ciudadanos no ha pactado «con ninguna otra fuerza que no sea el PP».
+- Fecha: jul 2019
+- Partido: Cs
+- Canal: Entrevista en ABC · Tema: Elecciones
+- Qué dicen los datos: Cs firmó acuerdos con Vox en Palencia, gobierna con PP y Vox en Badajoz, pactó con el PSOE el reparto de más de veinte alcaldías en Castilla-La Mancha y apoyó a la candidata socialista en Galapagar.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Cs no haya pactado con nadie salvo el PP](https://maldita.es/malditodato/20190711/es-falso-que-ciudadanos-no-haya-pactado-con-ninguna-otra-fuerza-que-no-sea-el-pp-como-dice-ines-arrimadas/)
+
 ### Juan Carlos Girauta (diputado de Ciudadanos): Que «el 80% de los españoles» apoya la gestación subrogada.
 - Fecha: jul 2019
 - Partido: Cs
@@ -9815,6 +10261,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que el 80% apoye la gestación subrogada](https://maldita.es/malditodato/20190708/es-falso-que-el-80-de-los-espanoles-apoya-la-gestacion-subrogada-como-dice-juan-carlos-girauta/)
+
+### Arnaldo Otegi (coordinador general de EH Bildu): Que Bildu es la fuerza «que más alcaldes tiene» en el País Vasco y Navarra.
+- Fecha: jun 2019
+- Partido: Bildu
+- Canal: Declaración pública tras las municipales · Tema: Elecciones
+- Qué dicen los datos: El PNV gobernaba 123 ayuntamientos y EH Bildu, 117.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Bildu sea la fuerza que más alcaldes tiene en el País Vasco y Navarra](https://maldita.es/malditodato/20190629/es-falso-que-bildu-sea-la-fuerza-que-mas-alcaldes-tiene-en-el-pais-vasco-y-navarra-como-dice-arnaldo-otegi/)
 
 ### Ana Oramas (diputada y líder de Coalición Canaria): Que Podemos decía que había que «exterminar» a Coalición Canaria, con esos «términos exactos».
 - Fecha: jun 2019
@@ -9825,6 +10280,33 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: no hay constancia de esa frase de Podemos](https://www.newtral.es/ana-oramas-podemos-dice-que-hay-que-exterminar-a-coalicion-canaria-y-son-los-terminos-exactos/20190620/)
 
+### Begoña Villacís (concejal y candidata de Ciudadanos a la alcaldía de Madrid): Que «Calle 30 ha aumentado el tráfico en 30.000 vehículos diarios» con Madrid Central.
+- Fecha: may 2019
+- Partido: Cs
+- Canal: Declaración en campaña · Tema: Otros
+- Qué dicen los datos: El tráfico en la M-30 no aumentó con Madrid Central; bajó ligeramente respecto a años anteriores.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Villacís, Calle 30 ha aumentado el tráfico en 30.000 vehículos diarios](https://www.newtral.es/villacis-calle-30-ha-aumentado-el-trafico-en-30-000-vehiculos-diarios/20190522/)
+
+### Begoña Villacís (concejal y candidata de Ciudadanos a la alcaldía de Madrid): Que en Madrid solo había 5 puntos de carga rápida para coches eléctricos.
+- Fecha: may 2019
+- Partido: Cs
+- Canal: Debate de candidatos a la alcaldía (El País y SER) · Tema: Otros
+- Qué dicen los datos: El portal de datos abiertos del Ayuntamiento recogía 9 puntos de carga rápida.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: las falsedades de los candidatos a la alcaldía de Madrid en el debate de El País y la SER](https://maldita.es/malditodato/20190509/las-falsedades-de-los-candidatos-a-la-alcaldia-de-madrid-en-el-debate-de-el-pais-y-la-ser/)
+
+### Inés Arrimadas (líder de Ciudadanos en Cataluña y diputada): Que en TV3 era la primera vez que le preguntaban si el resultado de Cs en Cataluña era un fracaso.
+- Fecha: may 2019
+- Partido: Cs
+- Canal: Entrevista en TV3 · Tema: Otros
+- Qué dicen los datos: Maldita.es documenta que la pregunta ya se le había hecho antes en otros medios.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que en TV3 fuera la primera vez que preguntaban a Arrimadas si era un fracaso](https://maldita.es/malditodato/20190501/es-falso-que-en-tv3-haya-sido-la-primera-vez-que-han-preguntado-a-ines-arrimadas-si-es-un-fracaso-el-resultado-de-ciudadanos-en-cataluna-como-ella-misma-asegura/)
+
 ### Cuenta oficial de Ciudadanos en la Comunitat Valenciana (y Toni Cantó, su candidato) (cuenta oficial de partido): Que Cs era el único partido con representación que crecía en Les Corts, que sería líder de la oposición y que era «el partido que más ha crecido».
 - Fecha: 28 abr – 6 may 2019
 - Partido: Cs
@@ -9834,6 +10316,52 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: las afirmaciones falsas de Cantó y Cs Valencia sobre el 28A](https://maldita.es/malditodato/20190506/las-afirmaciones-falsas-de-toni-canto-y-ciudadanos-valencia-sobre-los-resultados-del-28a/)
 
+### Albert Rivera (presidente de Ciudadanos y candidato (Cortes disueltas)): Que era «el único candidato que está diciendo claramente quién está en su preferencia de gobierno».
+- Fecha: 23 abr 2019
+- Partido: Cs
+- Canal: Declaración en campaña (28-A) · Tema: Elecciones
+- Qué dicen los datos: Maldita.es recoge que otros candidatos también habían expresado públicamente con quién querían gobernar.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Rivera sea el único candidato que dice su preferencia de gobierno](https://maldita.es/malditodato/20190423/es-falso-que-albert-rivera-sea-el-unico-candidato-que-esta-diciendo-claramente-quien-esta-en-su-preferencia-de-gobierno-como-dice-el-mismo/)
+
+### Pablo Casado (presidente del PP y candidato (Cortes disueltas)): Que Oriol Junqueras había dicho que quiere indultos a cambio de ofrecer sus escaños a Sánchez.
+- Fecha: abr 2019
+- Partido: PP
+- Canal: Declaración en campaña (28-A) · Tema: Instituciones y justicia
+- Qué dicen los datos: Maldita.es concluye que Junqueras no dijo eso.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Junqueras haya pedido indultos a cambio de escaños](https://maldita.es/malditodato/20190423/es-falso-que-junqueras-haya-dicho-que-quiere-indultos-a-cambio-de-ofrecer-sus-escanos-a-sanchez-como-dice-pablo-casado/)
+
+### Albert Rivera (presidente de Ciudadanos y candidato (Cortes disueltas)): Que Pedro Sánchez había pactado «con Torra 21 medidas».
+- Fecha: 22 abr 2019
+- Partido: Cs
+- Canal: Declaración en campaña (28-A) · Tema: Instituciones y justicia
+- Qué dicen los datos: Las 21 medidas eran una petición planteada por el presidente de la Generalitat; no un acuerdo entre ambos presidentes.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Sánchez haya pactado con Torra 21 medidas](https://maldita.es/malditodato/20190422/es-falso-que-sanchez-haya-pactado-con-torra-21-medidas-como-asegura-albert-rivera/)
+
+### Albert Rivera (presidente de Ciudadanos y candidato (Cortes disueltas)): Que Pedro Sánchez colocó «a dedo» a la presidenta de Televisión Española.
+- Fecha: 22 abr 2019
+- Partido: Cs
+- Canal: Declaración en campaña (28-A) · Tema: Instituciones y justicia
+- Qué dicen los datos: Rosa María Mateo fue elegida en el Pleno del Congreso por mayoría absoluta.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Sánchez colocara a dedo a la presidenta de TVE](https://maldita.es/malditodato/20190422/es-falso-que-sanchez-colocara-a-dedo-a-la-presidenta-de-television-espanola-como-dice-albert-rivera/)
+  - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
+
+### María Jesús Montero (ministra de Hacienda): Que «se han creado en este período de gobierno de Sánchez en torno a 540.000 empleos».
+- Fecha: abr 2019
+- Partido: PSOE
+- Canal: Debate televisivo (campaña 28-A) · Tema: Economía y empleo
+- Qué dicen los datos: Desde la llegada de Sánchez al Gobierno la afiliación a la Seguridad Social subió 127.908 personas. La cifra de 541.488,73 es la variación interanual entre marzo de 2018 y marzo de 2019; el resto hasta esa cifra corresponde al Gobierno de Rajoy (confirmado por el PSOE).
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que se hayan creado 540.000 empleos durante el Gobierno de Sánchez](https://maldita.es/malditodato/20190419/es-falso-que-se-hayan-creado-540-000-empleos-durante-el-gobierno-de-sanchez-como-dice-maria-jesus-montero/)
+
 ### Ada Colau (alcaldesa de Barcelona (BComú)): Que había puesto más agentes de la Guardia Urbana.
 - Fecha: abr-may 2019
 - Partido: Otros
@@ -9842,6 +10370,24 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: Colau no puso más agentes](https://maldita.es/malditodato/20190812/es-falso-que-ada-colau-haya-puesto-mas-agentes-de-policia-en-barcelona-como-decia-la-alcaldesa-en-campana-electoral/)
+
+### Pablo Casado (presidente del PP y candidato (Cortes disueltas)): Que Arnaldo Otegi fue «condenado por secuestrar a Javier Rupérez y por intentar secuestrar y casi asesinar a Gabriel Cisneros».
+- Fecha: abr 2019
+- Partido: PP
+- Canal: Declaración en campaña (28-A) · Tema: Instituciones y justicia
+- Qué dicen los datos: Otegi fue juzgado por ambos hechos y absuelto en los dos casos. Sus condenas son otras: seis años en 1989 por el secuestro del director de Michelin en Vitoria, Luis Abaitua, y la de la Audiencia Nacional de 2011 por pertenencia a ETA (rebajada por el Supremo en 2012).
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Otegi fuera condenado por secuestrar a Rupérez y Cisneros](https://maldita.es/malditodato/20190404/es-falso-que-otegi-fuera-condenado-por-secuestrar-a-javier-ruperez-y-por-intentar-secuestrar-y-casi-asesinar-a-gabriel-cisneros-como-dice-pablo-casado/)
+
+### Pablo Iglesias (secretario general de Podemos y candidato (Cortes disueltas)): Que José Luis Ábalos había dicho que el PSOE prefiere llegar a un acuerdo «siempre con Ciudadanos» antes que con Podemos.
+- Fecha: 27 mar 2019
+- Partido: Podemos/UP
+- Canal: Entrevista · Tema: Elecciones
+- Qué dicen los datos: En una entrevista en El Español, Ábalos respondió, sobre si era preferible pactar con Ciudadanos antes que con partidos independentistas, que el apoyo de Cs sería bienvenido y siempre preferible al de quien cuestiona la unidad de España. No mencionó a Podemos ni se le preguntó por él.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Ábalos haya dicho que el PSOE prefiere siempre a Ciudadanos antes que a Podemos](https://maldita.es/malditodato/20190327/es-falso-que-abalos-haya-dicho-que-el-psoe-prefiere-llegar-a-un-acuerdo-siempre-con-ciudadanos-antes-que-con-podemos-como-afirma-pablo-iglesias/)
 
 ### Inés Arrimadas (líder de Cs en Cataluña y diputada del Parlament): Que el Gobierno de Sánchez «indulta a golpistas».
 - Fecha: feb 2019
