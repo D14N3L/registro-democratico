@@ -1504,10 +1504,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Comunidades del PP se niegan a declarar zonas tensionadas de la ley de vivienda
 - Fecha: 2023 – 2026
-- Partidos: PP, CC
+- Partidos: PP, Vox, CC
 - Categoría: Gestión pública y derechos
 - Nivel de prueba: Documentado en medios
-- Resumen: Madrid, Andalucía, Murcia, Castilla y León, Baleares, Cantabria y Canarias no han declarado zonas tensionadas, ni siquiera las que pedían ayuntamientos como Getafe o Fuenlabrada, lo que impide aplicar el límite a las subidas del alquiler. Galicia se negó durante 20 meses a la petición de A Coruña, pero la aceptó en mayo de 2025, siendo la primera comunidad del PP en hacerlo, y en 2026 sumó Santiago. El TC ha avalado la mayor parte de la ley: en mayo de 2024, por un recurso de Andalucía, anuló algunos artículos por invadir competencias autonómicas (entre ellos el de la vivienda protegida), pero no el de las zonas tensionadas; en enero de 2025 avaló el límite de subidas del alquiler en esas zonas frente al recurso del PP, aunque anuló algunos requisitos sobre desahucios, y en septiembre de 2026 su octava y última sentencia sobre la ley desestimó el de la Xunta.
+- Resumen: Madrid, Andalucía, Murcia, Castilla y León, Baleares, Cantabria y Canarias no han declarado zonas tensionadas, ni siquiera las que pedían ayuntamientos como Getafe o Fuenlabrada, lo que impide aplicar el límite a las subidas del alquiler. En Baleares, el Parlament rechazó el 6 de octubre de 2026, con los 33 votos de PP y Vox frente a 24 (PSOE, MÉS per Mallorca, Més per Menorca y Unidas Podemos), una proposición de ley del PSOE para que los municipios y el Instituto Balear de la Vivienda pudieran tramitar la declaración. Galicia se negó durante 20 meses a la petición de A Coruña, pero la aceptó en mayo de 2025, siendo la primera comunidad del PP en hacerlo, y en 2026 sumó Santiago. El TC ha avalado la mayor parte de la ley: en mayo de 2024, por un recurso de Andalucía, anuló algunos artículos por invadir competencias autonómicas (entre ellos el de la vivienda protegida), pero no el de las zonas tensionadas; en enero de 2025 avaló el límite de subidas del alquiler en esas zonas frente al recurso del PP, aunque anuló algunos requisitos sobre desahucios, y en septiembre de 2026 su octava y última sentencia sobre la ley desestimó el de la Xunta.
 - Matiz: Declararlas es voluntario: la ley dice que la comunidad podrá hacerlo. No es incumplir la ley, sino negarse a usar un instrumento que ofrece. Las comunidades alegan que limitar precios reduce la oferta de alquiler. A julio de 2026 tienen zonas tensionadas Cataluña, País Vasco, Navarra, Galicia y Asturias.
 - Fuentes:
   - [elDiario.es: las comunidades se niegan](https://www.eldiario.es/politica/comunidades-pp-boicotean-ley-vivienda-rechazan-declarar-zonas-tensionadas-limitar-alquileres_1_10614050.html)
@@ -1515,6 +1515,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: Galicia rompe el consenso del PP (may 2025)](https://www.eldiario.es/economia/galicia-rompe-consenso-pp-declarar-zonas-tensionadas-vivienda-criterio-partido_1_12341046.html)
   - [Civio: nuevas zonas tensionadas (jul 2026)](https://civio.es/el-boe-nuestro-de-cada-dia/2026/07/29/nuevas-zonas-tensionadas-santiago-de-compostela-basauri-y-cinco-municipios-de-asturias/)
   - [Infobae (Europa Press): el TC desestima el recurso de la Xunta](https://www.infobae.com/espana/agencias/2026/09/23/el-constitucional-desestima-el-recurso-de-la-xunta-de-galicia-contra-la-ley-de-vivienda/)
+  - [Cadena SER (Radio Ibiza): PP y Vox rechazan en el Parlament la proposición del PSOE (6 oct 2026)](https://cadenaser.com/baleares/2026/10/06/pp-y-vox-rechazan-en-el-parlament-que-los-municipios-de-baleares-puedan-limitar-los-precios-de-los-alquileres-radio-ibiza/)
   - [elDiario.es: el TC anula algunos artículos tras el recurso andaluz (may 2024)](https://www.eldiario.es/economia/constitucional-avala-mayor-parte-ley-vivienda-tumba-articulo-pisos-protegidos_1_11344760.html)
 
 ### Asamblea de Murcia: la Mesa rechaza investigar el incendio de las discotecas de Atalayas
