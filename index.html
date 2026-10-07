@@ -128,7 +128,7 @@ table.vt{border-collapse:separate;border-spacing:0;width:100%;min-width:780px}
 /* ---------- Cómo nos ha ido ---------- */
 .ind{border-bottom:1px solid var(--line);padding:32px 0}
 .ind h3,#hueBlock h3{font-size:22px;font-weight:500;letter-spacing:-.025em;line-height:1.2;margin:6px 0 10px}
-#hueBlock{margin-top:56px}
+#hueBlock{margin:40px 0 56px}
 .ind .mide,#hueBlock .mide{max-width:68ch;margin:0 0 18px;color:var(--muted)}
 .spark{display:block;width:100%;max-width:560px;height:auto;overflow:visible}
 .spark text{font-family:var(--m);font-size:10px;fill:var(--muted)}
@@ -390,15 +390,15 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
         <div class="tw"><table class="serie" id="gobTable"></table></div>
       </div>
     </details>
-    <div class="bar" style="margin-top:0"><span class="mono muted" id="bienCount" aria-live="polite"></span></div>
-    <div id="bienList"></div>
     <div id="hueBlock" hidden>
       <h3>Huelgas y movilizaciones, una a una</h3>
-      <p class="mide">Las grandes huelgas y manifestaciones de sanidad, educación, vivienda y pensiones, y las huelgas generales. En cada una tienes por separado la cifra oficial y la de quien convocó, porque casi nunca coinciden, y quién gobernaba o tenía la competencia. Solo entran las que ya se han celebrado o se desconvocaron con un acuerdo.</p>
+      <p class="mide">Las grandes huelgas y manifestaciones de sanidad, educación, vivienda y pensiones, y las huelgas generales. En cada una tienes por separado la cifra oficial y la de quien convocó, porque casi nunca coinciden, y quién gobernaba o tenía la competencia. Solo entran las que ya se han celebrado o se desconvocaron con un acuerdo. Debajo tienes las series oficiales de huelgas.</p>
       <div class="sel"><select id="hueSector" aria-label="Sector"><option value="">Todos los sectores</option></select><select id="hueAmb" aria-label="Territorio"><option value="">Todos los territorios</option></select></div>
       <div class="bar"><span class="mono muted" id="hueStatus" aria-live="polite"></span><span><button type="button" id="hueOpenAll">Abrir todas</button></span></div>
       <div id="hueList"></div>
     </div>
+    <div class="bar" style="margin-top:0"><span class="mono muted" id="bienCount" aria-live="polite"></span><span><button type="button" id="hueGo" hidden>Ver las huelgas una a una</button></span></div>
+    <div id="bienList"></div>
     <p class="foot-note">Todos los datos vienen de organismos oficiales: Ministerio de Sanidad, Ministerio de Educación, IMSERSO, INE, Ministerio de Vivienda, Banco de España y Eurostat. Las cifras en euros son corrientes, salvo que se indique otra cosa. Si ves una casilla vacía es porque la fuente no publica ese dato: no lo rellenamos ni lo estimamos.</p>
   </section>
 </main>
@@ -644,7 +644,7 @@ if(HUE.length){
   fill("hueSector",e=>e.sector,"sector");fill("hueAmb",terr,"amb");
   const hueText=e=>"**"+e.t+"** ("+e.ambito+", "+e.dl+")\n\n*Convocan:* "+e.convoca+"\n*Qué pedían:* "+e.piden+"\n*Cifra oficial:* "+e.oficial+"\n*Según quien convoca:* "+e.segconv+"\n*Quién gobernaba:* "+e.gobierno+"\n*En qué acabó:* "+e.final+"\n\nFuentes: "+e.src.map(x=>"["+x[0]+"]("+x[1]+")").join(" · ");
   var renderHue=function(){
-    $("hueBlock").hidden=!!pilarSel.value&&pilarSel.value!=="Huelgas";
+    $("hueBlock").hidden=pilarSel.value!=="Huelgas";$("hueGo").hidden=pilarSel.value==="Huelgas";
     const rows=HUE.map((e,i)=>[e,i]).filter(([e])=>(!hs.sector||e.sector===hs.sector)&&(!hs.amb||terr(e)===hs.amb));
     $("hueStatus").textContent=rows.length===HUE.length?HUE.length+" huelgas y movilizaciones":rows.length+" de "+HUE.length;
     $("hueList").innerHTML=rows.length?rows.map(([e,i])=>`
@@ -667,6 +667,7 @@ if(HUE.length){
     </details>`).join(""):'<div class="empty">No hay nada con estos filtros. Prueba a quitar alguno.</div>';
   };
   pilarSel.addEventListener("change",renderHue);
+  $("hueGo").addEventListener("click",()=>{pilarSel.value="Huelgas";renderBien();renderHue();$("hueBlock").scrollIntoView({behavior:"smooth"})});
   $("hueList").addEventListener("click",ev=>{const b=ev.target.closest(".act button");if(b)copyTo(b,hueText(HUE[+b.dataset.h]))});
   $("hueOpenAll").addEventListener("click",ev=>{const r=$("hueList").querySelectorAll("details.row");const o=[...r].some(x=>!x.open);r.forEach(x=>x.open=o);ev.target.textContent=o?"Cerrar todas":"Abrir todas"});
   renderHue();
