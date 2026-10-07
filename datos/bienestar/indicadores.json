@@ -242,5 +242,35 @@
   "claves": {"España": "España | Vivienda y servicios comunitarios: desarrollo de la vivienda", "UE-27": "UE-27 | Vivienda y servicios comunitarios: desarrollo de la vivienda"},
   "mide": "Gasto en promoción y desarrollo de vivienda (no incluye las ayudas al alquiler, que van en protección social).",
   "aviso": "España 2024 es provisional."
+ },
+ {
+  "id": "hue_jornadas",
+  "pilar": "Huelgas",
+  "nombre": "Jornadas de trabajo perdidas por huelga",
+  "unidad": "jornadas no trabajadas al año",
+  "serie": "hue_huelgas_ccaa.json",
+  "ruta": ["jornadas"],
+  "mide": "Cuántas jornadas de trabajo se dejaron de hacer por huelgas cada año, en toda España y en cada comunidad. Es la medida más usada para comparar la conflictividad laboral.",
+  "aviso": "No incluye las huelgas generales. En cada comunidad se suman también las huelgas autonómicas y nacionales que le afectan, así que la suma de comunidades no da el total de España. Son cifras absolutas: una comunidad grande tendrá más jornadas que una pequeña aunque haya la misma conflictividad. 2022 a 2025 son provisionales."
+ },
+ {
+  "id": "hue_participantes",
+  "pilar": "Huelgas",
+  "nombre": "Trabajadores que hicieron huelga",
+  "unidad": "participantes al año",
+  "serie": "hue_huelgas_ccaa.json",
+  "ruta": ["participantes"],
+  "mide": "Cuántos trabajadores secundaron alguna huelga cada año, en toda España y en cada comunidad.",
+  "aviso": "No incluye las huelgas generales. Una persona que hace varias huelgas en el año cuenta varias veces. En cada comunidad se suman también las huelgas autonómicas y nacionales que le afectan. 2022 a 2025 son provisionales."
+ },
+ {
+  "id": "hue_educacion_sanidad",
+  "pilar": "Huelgas",
+  "nombre": "Jornadas perdidas por huelga en educación y en sanidad",
+  "unidad": "jornadas no trabajadas al año",
+  "serie": "hue_huelgas_educacion_sanidad.json",
+  "ruta": ["jornadas"],
+  "mide": "Jornadas de trabajo perdidas por huelgas en la educación y en la sanidad y los servicios sociales, públicos y privados, en toda España.",
+  "aviso": "No incluye las huelgas generales. «Sanidad y servicios sociales» incluye también residencias y otros servicios sociales, no solo hospitales y centros de salud. La estadística no separa lo público de lo privado en esta tabla. 2022 a 2025 son provisionales."
  }
 ]

@@ -1,0 +1,83 @@
+{
+ "id": "hue_huelgas_educacion_sanidad",
+ "nombre": "Huelgas en educación y en sanidad y servicios sociales",
+ "unidad": "personas y jornadas",
+ "definicion": "Participantes y jornadas no trabajadas en huelgas de las secciones P (Educación) y Q (Actividades sanitarias y de servicios sociales) de la CNAE.",
+ "fuente": "Ministerio de Trabajo y Economía Social, Estadística de Huelgas y Cierres Patronales (HUE)",
+ "url": "https://www.mites.gob.es/estadisticas/hue/hue25dicpublicacion/hue_12_25.xls",
+ "url_pagina_indice": "https://www.mites.gob.es/es/estadisticas/condiciones_trabajo_relac_laborales/HUE/welcome.htm",
+ "fecha_consulta": "2026-10-07",
+ "ficheros": [
+  "https://www.mites.gob.es/estadisticas/hue/hue16dicpublicacion/hue_12_16.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue17dicpublicacion/hue_12_17.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue18dicpublicacion/hue_12_18.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue19dicpublicacion/hue_12_19.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue20dicpublicacion/hue_12_20.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue21dicpublicacion/hue_12_21.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue22dicpublicacion/hue_12_22.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue23dicpublicacion/hue_12_23.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue24dicpublicacion/hue_12_24.xls",
+  "https://www.mites.gob.es/estadisticas/hue/hue25dicpublicacion/hue_12_25.xls"
+ ],
+ "notas": [
+  "Secciones de actividad económica de la CNAE-2009: P Educación; Q Actividades sanitarias y de servicios sociales (incluye residencias y servicios sociales, no solo hospitales y centros de salud).",
+  "Cada año sale del fichero enero-diciembre de ese año (tablas resumen HUE-R2 y HUE-R3).",
+  "No incluye las huelgas generales.",
+  "2022 a 2025 son datos provisionales (avance) según el propio Ministerio.",
+  "El avance de enero a junio de 2026 no se incluye: medio año no es comparable con años completos."
+ ],
+ "valores": {
+  "participantes": {
+   "Educación": {
+    "2016": 49604,
+    "2017": 68140,
+    "2018": 88250,
+    "2019": 27552,
+    "2020": 28982,
+    "2021": 116607,
+    "2022": 37883,
+    "2023": 26096,
+    "2024": 54039,
+    "2025": 133311
+   },
+   "Sanidad y servicios sociales": {
+    "2016": 2673,
+    "2017": 7010,
+    "2018": 40647,
+    "2019": 7058,
+    "2020": 8650,
+    "2021": 7333,
+    "2022": 8908,
+    "2023": 106321,
+    "2024": 6812,
+    "2025": 13719
+   }
+  },
+  "jornadas": {
+   "Educación": {
+    "2016": 49254,
+    "2017": 75981,
+    "2018": 105277,
+    "2019": 45907,
+    "2020": 39344,
+    "2021": 120008,
+    "2022": 116080,
+    "2023": 46013,
+    "2024": 71911,
+    "2025": 208413
+   },
+   "Sanidad y servicios sociales": {
+    "2016": 12344,
+    "2017": 25383,
+    "2018": 73120,
+    "2019": 30681,
+    "2020": 85293,
+    "2021": 14553,
+    "2022": 40300,
+    "2023": 306090,
+    "2024": 14340,
+    "2025": 49810
+   }
+  }
+ }
+}

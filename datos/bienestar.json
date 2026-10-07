@@ -5072,6 +5072,681 @@
      ]
     }
    ]
+  },
+  {
+   "id": "hue_jornadas",
+   "pilar": "Huelgas",
+   "nombre": "Jornadas de trabajo perdidas por huelga",
+   "unidad": "jornadas no trabajadas al año",
+   "mide": "Cuántas jornadas de trabajo se dejaron de hacer por huelgas cada año, en toda España y en cada comunidad. Es la medida más usada para comparar la conflictividad laboral.",
+   "aviso": "No incluye las huelgas generales. En cada comunidad se suman también las huelgas autonómicas y nacionales que le afectan, así que la suma de comunidades no da el total de España. Son cifras absolutas: una comunidad grande tendrá más jornadas que una pequeña aunque haya la misma conflictividad. 2022 a 2025 son provisionales.",
+   "fuente": "Ministerio de Trabajo y Economía Social, Estadística de Huelgas y Cierres Patronales (HUE)",
+   "url": "https://www.mites.gob.es/es/estadisticas/condiciones_trabajo_relac_laborales/HUE/welcome.htm",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      388912,
+      594253,
+      907631,
+      858401,
+      540579,
+      422815,
+      709099,
+      987956,
+      703178,
+      709771
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      36656,
+      36337,
+      25545,
+      46422,
+      31098,
+      18527,
+      5820,
+      19215,
+      190782,
+      37275
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      13058,
+      3748,
+      10820,
+      7767,
+      9987,
+      11092,
+      8886,
+      32246,
+      5838,
+      13453
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      2250,
+      16514,
+      3671,
+      16127,
+      4600,
+      3256,
+      24932,
+      29646,
+      12051,
+      51093
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      590,
+      1628,
+      2305,
+      5000,
+      1505,
+      781,
+      223,
+      645,
+      773,
+      187
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      2926,
+      6142,
+      4994,
+      1119,
+      971,
+      3193,
+      828,
+      3238,
+      153,
+      365
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      1448,
+      2269,
+      2950,
+      2014,
+      996,
+      4828,
+      184,
+      21391,
+      586,
+      27930
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      4283,
+      8987,
+      16930,
+      3035,
+      2226,
+      12226,
+      3282,
+      16337,
+      2878,
+      3013
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      2754,
+      5430,
+      3104,
+      2287,
+      2882,
+      1057,
+      1636,
+      112856,
+      8208,
+      44050
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      94449,
+      78325,
+      188392,
+      179704,
+      299807,
+      158712,
+      141014,
+      118897,
+      69765,
+      137088
+     ]
+    },
+    {
+     "ambito": "Ceuta y Melilla",
+     "valores": [
+      0,
+      16,
+      238,
+      166,
+      144,
+      93,
+      133,
+      450,
+      59,
+      0
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      11166,
+      28274,
+      24169,
+      16451,
+      6897,
+      10912,
+      16294,
+      48021,
+      74177,
+      5189
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      920,
+      1694,
+      1201,
+      477,
+      572,
+      404,
+      18779,
+      13022,
+      1042,
+      646
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      17365,
+      159566,
+      61855,
+      56559,
+      20844,
+      17159,
+      41542,
+      19628,
+      12662,
+      45895
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      29,
+      567,
+      611,
+      97,
+      0,
+      175,
+      318,
+      953,
+      13,
+      358
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      117942,
+      128678,
+      425311,
+      111464,
+      60370,
+      28930,
+      47708,
+      361035,
+      196479,
+      162101
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      5100,
+      10692,
+      2419,
+      2420,
+      34650,
+      5135,
+      428,
+      9303,
+      2612,
+      249
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      18881,
+      4750,
+      3407,
+      18668,
+      3653,
+      5068,
+      11964,
+      11673,
+      15439,
+      15444
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      59095,
+      100636,
+      129709,
+      388624,
+      59377,
+      141267,
+      385128,
+      169400,
+      109661,
+      165435
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hue_participantes",
+   "pilar": "Huelgas",
+   "nombre": "Trabajadores que hicieron huelga",
+   "unidad": "participantes al año",
+   "mide": "Cuántos trabajadores secundaron alguna huelga cada año, en toda España y en cada comunidad.",
+   "aviso": "No incluye las huelgas generales. Una persona que hace varias huelgas en el año cuenta varias veces. En cada comunidad se suman también las huelgas autonómicas y nacionales que le afectan. 2022 a 2025 son provisionales.",
+   "fuente": "Ministerio de Trabajo y Economía Social, Estadística de Huelgas y Cierres Patronales (HUE)",
+   "url": "https://www.mites.gob.es/es/estadisticas/condiciones_trabajo_relac_laborales/HUE/welcome.htm",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      183120,
+      225723,
+      338671,
+      264454,
+      151496,
+      199026,
+      192751,
+      294750,
+      231739,
+      329636
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      13205,
+      11005,
+      14119,
+      19540,
+      7312,
+      7296,
+      4589,
+      5892,
+      6319,
+      11208
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      4646,
+      1400,
+      4595,
+      8236,
+      1988,
+      8676,
+      4411,
+      5498,
+      2896,
+      4226
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      1425,
+      5635,
+      2410,
+      8887,
+      2292,
+      1670,
+      2419,
+      3797,
+      2971,
+      14192
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      251,
+      1110,
+      1659,
+      3005,
+      385,
+      361,
+      134,
+      283,
+      202,
+      93
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      1012,
+      1206,
+      2822,
+      1423,
+      865,
+      408,
+      511,
+      118,
+      116,
+      318
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      714,
+      1753,
+      2790,
+      1391,
+      811,
+      896,
+      95,
+      860,
+      319,
+      18128
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      2833,
+      4366,
+      9825,
+      2302,
+      934,
+      4720,
+      1734,
+      2489,
+      2354,
+      852
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      1384,
+      3682,
+      1256,
+      554,
+      223,
+      218,
+      1655,
+      36823,
+      899,
+      17819
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      59512,
+      28907,
+      55902,
+      65874,
+      46747,
+      132737,
+      43214,
+      42117,
+      25300,
+      52438
+     ]
+    },
+    {
+     "ambito": "Ceuta y Melilla",
+     "valores": [
+      0,
+      5,
+      118,
+      523,
+      24,
+      19,
+      68,
+      175,
+      226,
+      0
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      2417,
+      6564,
+      8183,
+      6132,
+      3384,
+      3519,
+      2811,
+      12153,
+      22248,
+      2429
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      303,
+      795,
+      623,
+      223,
+      358,
+      234,
+      881,
+      386,
+      262,
+      135
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      11866,
+      39977,
+      13426,
+      20896,
+      6930,
+      7300,
+      10481,
+      12393,
+      6381,
+      13163
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      17,
+      345,
+      520,
+      82,
+      0,
+      45,
+      123,
+      121,
+      17,
+      144
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      64135,
+      50142,
+      169555,
+      40694,
+      20954,
+      13636,
+      9209,
+      100343,
+      119948,
+      149023
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      1557,
+      7486,
+      1757,
+      2260,
+      31317,
+      1110,
+      380,
+      6308,
+      1412,
+      346
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      4264,
+      1956,
+      2481,
+      5412,
+      1249,
+      2130,
+      2911,
+      6129,
+      10343,
+      8396
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      13579,
+      59389,
+      46630,
+      77020,
+      25723,
+      14051,
+      107125,
+      58865,
+      29526,
+      36726
+     ]
+    }
+   ]
+  },
+  {
+   "id": "hue_educacion_sanidad",
+   "pilar": "Huelgas",
+   "nombre": "Jornadas perdidas por huelga en educación y en sanidad",
+   "unidad": "jornadas no trabajadas al año",
+   "mide": "Jornadas de trabajo perdidas por huelgas en la educación y en la sanidad y los servicios sociales, públicos y privados, en toda España.",
+   "aviso": "No incluye las huelgas generales. «Sanidad y servicios sociales» incluye también residencias y otros servicios sociales, no solo hospitales y centros de salud. La estadística no separa lo público de lo privado en esta tabla. 2022 a 2025 son provisionales.",
+   "fuente": "Ministerio de Trabajo y Economía Social, Estadística de Huelgas y Cierres Patronales (HUE)",
+   "url": "https://www.mites.gob.es/es/estadisticas/condiciones_trabajo_relac_laborales/HUE/welcome.htm",
+   "consulta": "2026-10-07",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "Educación",
+     "valores": [
+      49254,
+      75981,
+      105277,
+      45907,
+      39344,
+      120008,
+      116080,
+      46013,
+      71911,
+      208413
+     ]
+    },
+    {
+     "ambito": "Sanidad y servicios sociales",
+     "valores": [
+      12344,
+      25383,
+      73120,
+      30681,
+      85293,
+      14553,
+      40300,
+      306090,
+      14340,
+      49810
+     ]
+    }
+   ]
   }
  ],
  "gobiernos": {
