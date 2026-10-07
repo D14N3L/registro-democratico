@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (208)
+## Fichas del registro (248)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -117,6 +117,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Congreso: dictamen de la comisión (BOCG D-225)](https://www.congreso.es/public_oficiales/L12/CONG/BOCG/D/BOCG-12-D-225.PDF)
   - [Congreso: Diario de Sesiones del Pleno, núm. 76 (21 sep 2017)](https://www.congreso.es/public_oficiales/L12/CONG/DS/PL/DSCD-12-PL-76.PDF)
   - [Segre: el Supremo archiva la querella (dic 2016)](https://www.segre.com/es/nacional-internacional/161216/el-supremo-archiva-querella-contra-fernandez-diaz-de-alfonso_8078.html)
+
+### Lloret de Mar: el Supremo confirma la condena por cohecho al exalcalde de CiU por regalos de un empresario ruso
+- Fecha: 2003 – 2016
+- Partidos: Junts
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: En octubre de 2016 el Supremo confirmó la condena al exalcalde de Lloret de Mar y diputado Xavier Crespo (CiU) por cohecho, por aceptar regalos de un empresario ruso: inhabilitación y 450.000 euros de multa.
+- Matiz: Fue absuelto de prevaricación. CiU se integra aquí en Junts, su sucesora.
+- Fuentes:
+  - [CGPJ: el Supremo confirma (oct 2016)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-Tribunal-Supremo-condena-al-exalcalde-de-Lloret-de-Mar--Girona--por-recibir-regalos-de-un-empresario-ruso-)
+  - [elEconomista](https://www.eleconomista.es/legislacion/noticias/7923793/10/16/El-TS-confirma-la-condena-por-cohecho-al-exalcalde-de-Lloret-de-Mar-CiU-por-regalos-de-un-empresario-ruso.html)
 
 ### Andalucía: 31.212 personas con derecho a la dependencia murieron sin tener aprobada su prestación
 - Fecha: dic 2016
@@ -331,6 +343,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [BOE: STC 152/2017](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-614)
 
+### Can Domenge: el Supremo confirma la condena por cohecho a la expresidenta del Consell de Mallorca Maria Antònia Munar (UM)
+- Fecha: 2006 – 2018
+- Partidos: Otros
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Baleares
+- Nivel de prueba: Sentencia firme
+- Resumen: El Supremo confirmó la condena de dos años y medio de prisión por cohecho a Maria Antònia Munar, presidenta del Consell de Mallorca y líder de Unió Mallorquina, por pedir dinero a cambio de adjudicar los terrenos públicos de Can Domenge.
+- Matiz: Munar alegó que se la castigaba dos veces por los mismos hechos, porque ya tenía otra condena anterior por la misma adjudicación; el Supremo lo rechazó.
+- Fuentes:
+  - [CGPJ: el Supremo confirma la condena](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-la-expresidenta-del-Consell-de-Mallorca-Maria-Antonia-Munar-por-la-adjudicacion-de-los-terrenos-de--Can-Domenge-)
+  - [Última Hora: la sentencia de 2016](https://www.ultimahora.es/noticias/local/2016/10/21/226860/maria-antonia-munar-condenada-tres-anos-por-caso-can-domenge.html)
+
 ### Caso Gürtel: el PP, condenado como partícipe a título lucrativo
 - Fecha: 24 may 2018
 - Partidos: PP
@@ -355,6 +379,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Ara](https://es.ara.cat/politica/precedentes-no-exitosos-investigar-espionaje-parlament_1_4366361.html)
   - [Crónica Global (El Español)](https://cronicaglobal.elespanol.com/politica/20260510/junts-erc-usaron-mossos-periodistas-abogados-empresarios/1003742759734_0.html)
 
+### Baleares: condenas firmes al expresidente Jaume Matas por Nóos, Palma Arena y Son Espases
+- Fecha: 2016 – 2021
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Baleares
+- Nivel de prueba: Sentencia firme
+- Resumen: Dentro del periodo, el expresidente balear Jaume Matas (PP) sumó tres condenas firmes: en 2017 aceptó la de prevaricación por pagar 350.000 euros sin concurso a la empresa Nimbus en una pieza del Palma Arena; en junio de 2018 el Supremo le mantuvo 3 años y 8 meses de prisión en el caso Nóos, por los fondos del Govern pagados al instituto de Iñaki Urdangarin; y en 2021 el Supremo confirmó su condena por tráfico de influencias en la adjudicación del hospital de Son Espases.
+- Matiz: Matas ya había sido condenado antes de 2016 en otras piezas del Palma Arena. En Son Espases no aceptó todos los cargos y recurrió hasta el Supremo.
+- Fuentes:
+  - [CGPJ: el Supremo, caso Nóos (jun 2018)](https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-Tribunal-Supremo-condena-a-Inaki-Urdangarin-a-5-anos-y-10-meses-de-prision-por-malversacion--prevaricacion--fraude--dos-delitos-fiscales-y-trafico-de-influencias-en-el--caso-Noos-)
+  - [Público: el acuerdo de Matas en el Palma Arena (2017)](https://www.publico.es/politica/jaume-matas-acepta-prevarico-y-primer-acuerdo-palma-arena.html)
+  - [Público: el Supremo confirma Son Espases (2021)](https://www.publico.es/sociedad/tribunal-supremo-confirma-condena-trafico-influencias-jaume-matas-caso-son-espases.html)
+
 ### Congreso: el Gobierno cambia por decreto-ley la elección de RTVE y nombra a una administradora única; el TC anula una parte
 - Fecha: jun 2018 – jun 2021
 - Partidos: PSOE
@@ -368,6 +405,41 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Congreso: convalidación (4 jul 2018)](https://www.congreso.es/web/guest/notas-de-prensa?p_p_id=notasprensa&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_notasprensa_mvcPath=detalle&_notasprensa_notaId=29210)
   - [elDiario.es: Rosa María Mateo, administradora única (jul 2018)](https://www.eldiario.es/vertele/noticias/Rosa-Maria-Mateo-administradora-unica-RTVE_0_2034396549.html)
   - [BOE: STC 134/2021](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-13018)
+
+### Operación Pretoria: condenas firmes al exalcalde socialista de Santa Coloma y a dos exconsellers de CiU
+- Fecha: 2002 – 2021
+- Partidos: PSOE, Junts
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia Nacional condenó en 2018 a los once acusados de la operación Pretoria, por operaciones urbanísticas entre 2002 y 2009 en Santa Coloma de Gramenet, Badalona y Sant Andreu de Llavaneres, con penas de hasta 7 años. Entre ellos, el exalcalde de Santa Coloma Bartomeu Muñoz (PSC), que entró en prisión en 2021 tras confirmarlo el Supremo, y los exconsellers de CiU Macià Alavedra y Lluís Prenafeta.
+- Matiz: CiU se integra aquí en Junts, su sucesora.
+- Fuentes:
+  - [CGPJ: la sentencia de la Audiencia Nacional (2018)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-penas-de-hasta-7-anos-a-los-once-acusados-en-la--operacion-Pretoria-)
+  - [elDiario.es: el exalcalde entra en prisión (dic 2021)](https://www.eldiario.es/catalunya/exalcalde-socialista-santa-coloma-condenado-caso-pretoria-entra-prision_1_8588891.html)
+
+### Caso ITV: Oriol Pujol, ex secretario general de CDC, acepta 2 años y medio de prisión
+- Fecha: 2010 – 2019
+- Partidos: Junts
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: En 2018 Oriol Pujol, ex secretario general de Convergència y diputado, aceptó una condena de 2 años y medio de prisión por tráfico de influencias, cohecho y falsedad: cobró comisiones disfrazadas de asesorías por influir en el reparto de concesiones de ITV.
+- Matiz: Es una sentencia de conformidad. El dinero de las comisiones era privado; el delito es usar su cargo para influir en concesiones públicas.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/catalunya/politica/audiencia-barcelona-prision-oriol-pujol_1_1818329.html)
+
+### Caso Faycán: condenas en Telde y el PP, responsable civil subsidiario
+- Fecha: 2003 – 2018
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: En 2018 la Audiencia de Las Palmas condenó por conformidad a una veintena de acusados por las comisiones en el Ayuntamiento de Telde, gobernado por PP y Ciuca, y declaró al PP responsable civil subsidiario por desviar dinero público para reformar una oficina del partido. Absolvió a los siete acusados que no se conformaron, entre ellos dos exalcaldes del PP.
+- Matiz: La responsabilidad del PP es por una cantidad pequeña, la reforma de un local; el partido dijo que no era una condena. La sentencia la redactó un juez después suspendido y era recurrible.
+- Fuentes:
+  - [elDiario.es (Canarias Ahora)](https://www.eldiario.es/canariasahora/tribunales/audiencia-sentencia-faycan-alba-pp_1_1996384.html)
+  - [Canarias7](https://www.canarias7.es/sociedad/la-audiencia-limita-la-responsabilidad-del-pp-en-el-caso-faycan-a-740-euros-CY5427206)
 
 ### PSOE, PP, Ciudadanos y Vox vetan en el Congreso investigar al rey Juan Carlos y los GAL
 - Fecha: 2018 – 2022
@@ -383,6 +455,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Confidencial Digital (Europa Press): veto pese a los letrados](https://www.elconfidencialdigital.com/articulo/ultima-hora/psoe-pp-vox-vuelven-vetar-congreso-investigacion-rey-juan-carlos-obviando-opinion-letrados/20210113102128204249.html)
   - [Público: el veto número 19 (nov 2022)](https://www.publico.es/politica/psoe-pp-vox-vuelven-rechazar-investigacion-rey-emerito-congreso.html)
   - [elDiario.es: PSOE, PP y Vox tumban la comisión sobre los GAL](https://www.eldiario.es/politica/mesa-congreso-felipe-gonzalez-gal_1_6060431.html)
+
+### Caso Arona: el Supremo confirma 17 años de inhabilitación al exalcalde de CC y seis exconcejales
+- Fecha: 2000 – 2018
+- Partidos: CC, PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Sentencia firme
+- Resumen: En octubre de 2018 el Supremo confirmó 17 años de inhabilitación por prevaricación al exalcalde de Arona José Alberto González Reverón (CC) y a seis exconcejales, por licencias y contratos irregulares. Rebajó las penas de prisión por cohecho a cinco acusados, entre ellos el exconcejal de Urbanismo del PP Félix Sierra.
+- Matiz: La Audiencia de Santa Cruz de Tenerife los había condenado en 2017.
+- Fuentes:
+  - [elDiario.es (Canarias Ahora): el Supremo confirma (oct 2018)](https://www.eldiario.es/canariasahora/tenerifeahora/tribunales/supremo-inhabilitacion-arona-cc-exconcejales_1_1885417.html)
+  - [Iustel](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1161972)
 
 ### El portavoz del PP en el Senado presume por WhatsApp de que controlarán 'desde detrás' la Sala Segunda del Supremo
 - Fecha: 19 nov 2018
@@ -432,6 +516,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [CIC. Cuadernos de Información y Comunicación, 24 (2019), Universidad Complutense](https://revistas.ucm.es/index.php/CIYC/article/view/64638)
 
+### Melilla: condena firme de inhabilitación a la exconsejera del PP María Antonia Garbín, que siguió 15 meses en su escaño
+- Fecha: 2003 – 2019
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Sentencia firme
+- Resumen: Un juzgado de Melilla condenó en 2017 a la exconsejera de Bienestar Social María Antonia Garbín (PP) a inhabilitación por prevaricación en la contratación de abogados, y la Audiencia lo confirmó en enero de 2019. Entre una sentencia y otra siguió 15 meses como diputada en la Asamblea.
+- Matiz: El PP alegó que la primera sentencia solo le impedía ser consejera, no diputada. Garbín dijo que la condena era injusta.
+- Fuentes:
+  - [infoLibre](https://www.infolibre.es/politica/pp-mantuvo-15-meses-escano-diputada-cuya-condena-colocaba-situacion-torra_1_1178781.html)
+  - [El Faro de Melilla](https://elfarodemelilla.es/maria-antonia-garbin-condena-hay-algo-que-no-encaja/)
+
 ### Parlamento Vasco: PNV y PSE rechazan investigar la OPE de Osakidetza
 - Fecha: 21 mar 2019
 - Partidos: PNV, PSOE
@@ -442,6 +537,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El PSE dijo que el pleno no podía convertirse en un tribunal político; el PNV lo presentó como una ofensiva de la oposición contra su partido.
 - Fuentes:
   - [Naiz](https://www.naiz.eus/es/info/noticia/20190321/pnv-pse-y-pp-impiden-una-vez-mas-que-se-investigue-en-la-camara-la-ope-de-osakidetza)
+
+### Las Teresitas: 7 años firmes para el exalcalde de Santa Cruz de Tenerife Miguel Zerolo (CC)
+- Fecha: 2001 – 2019
+- Partidos: CC
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Sentencia firme
+- Resumen: En 2019 el Supremo confirmó 7 años de prisión por malversación y prevaricación para el exalcalde de Santa Cruz de Tenerife Miguel Zerolo y el exconcejal de Urbanismo Manuel Parejo (CC) por la compra municipal de los terrenos de la playa de Las Teresitas: el ayuntamiento pagó 52,5 millones de euros, muy por encima de su valor.
+- Matiz: La condena es firme. El ayuntamiento lo gobernaba CC.
+- Fuentes:
+  - [elDiario.es (Canarias Ahora)](https://www.eldiario.es/canariasahora/tenerifeahora/politica/supremo-confirma-teresitas-zerolo-parejo_1_1631933.html)
+  - [Público](https://www.publico.es/politica/ts-confirma-penas-prision-implicados-caso-teresitas.html)
 
 ### Junta Electoral Central y Supremo: TV3 vulneró la neutralidad en la campaña de abril de 2019
 - Fecha: mar 2019 – feb 2021
@@ -460,6 +567,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [AraInfo: nueva prohibición para el 10-N (oct 2019)](https://arainfo.org/la-junta-electoral-prohibe-a-tv3-decir-presos-politicos-exilio-y-consell-de-la-republica/)
   - [3Cat: nueva prohibición para el 14-F (feb 2021)](https://www.3cat.cat/324/la-junta-electoral-tornar-a-prohibir-a-tv3-i-catalunya-radio-dir-presos-politics-i-exili/noticia/3075457/)
   - [Parlament de Catalunya: renovación del consejo de la CCMA (mar 2022)](https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270449760)
+
+### Gürtel: condena firme por la financiación ilegal del PP valenciano en las campañas de 2007 y 2008
+- Fecha: 2007 – 2019
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Sentencia firme
+- Resumen: En junio de 2018 el Juzgado Central de lo Penal condenó al ex secretario general del PP de la Comunitat Valenciana Ricardo Costa a 4 años de prisión, y a otros dirigentes del partido, cabecillas de la trama y empresarios, por financiar las campañas autonómica y general de 2007 y 2008 con dinero de contratistas de la Generalitat. La Audiencia Nacional lo confirmó en 2019.
+- Matiz: Los empresarios condenados tuvieron que devolver el dinero aportado. La pena de Costa se podía sustituir por multa y trabajos en beneficio de la comunidad.
+- Fuentes:
+  - [Valencia Plaza: la sentencia (jun 2018)](https://valenciaplaza.com/valenciaplaza/ricardo-costa-condenado-a-4-anos-por-la-financiacion-ilegal-del-pp-valenciano)
+  - [elDiario.es: la Audiencia Nacional la confirma (2019)](https://www.eldiario.es/comunitat-valenciana/politica/audiencia-nacional-financiacion-pp-valenciano_1_1494955.html)
 
 ### Asamblea Regional de Murcia: PP, Cs y Vox eligen al director de 7TV en segunda votación
 - Fecha: oct 2019 – mar 2024
@@ -502,13 +621,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Tribunal Constitucional
 - Resumen: La Audiencia de Sevilla condenó en 2019 a Manuel Chaves, por prevaricación, a nueve años de inhabilitación, y a José Antonio Griñán, por prevaricación y malversación, a seis años de prisión, por el sistema de ayudas de los ERE en la Junta de Andalucía. El Supremo lo ratificó en 2022.
-- Matiz: En julio de 2024 el TC, por 7 votos a 4, anuló esas condenas en parte por vulnerar derechos fundamentales, entre ellos el principio de legalidad penal, y ordenó a la Audiencia de Sevilla dictar nuevas sentencias. En julio de 2025 la Audiencia llevó las sentencias del TC al TJUE, por ver riesgo de impunidad, y suspendió su ejecución hasta que responda; en abril de 2026 la Comisión Europea pidió inadmitir la cuestión porque el dinero era del presupuesto andaluz y no de la UE. A octubre de 2026 el TJUE no ha resuelto.
+- Matiz: En julio de 2024 el TC, por 7 votos a 4, anuló esas condenas en parte por vulnerar derechos fundamentales, entre ellos el principio de legalidad penal, y ordenó a la Audiencia de Sevilla dictar nuevas sentencias. En julio de 2025 la Audiencia llevó las sentencias del TC al TJUE, por ver riesgo de impunidad, y suspendió su ejecución hasta que responda; en abril de 2026 la Comisión Europea pidió inadmitir la cuestión porque el dinero era del presupuesto andaluz y no de la UE. A octubre de 2026 el TJUE no ha resuelto. Siguen juzgándose piezas separadas: en mayo de 2026 la Audiencia de Sevilla condenó a 3 años y 1 día de prisión al exdirector general de Trabajo Daniel Alberto Rivera por una ayuda irregular de 262.500 euros a la empresa Consyproan, recurrible.
 - Fuentes:
   - [Noticias de Navarra: el TC anula](https://www.noticiasdenavarra.com/politica/2024/07/16/ere-constitucional-anula-chaves-grinan-8485049.html)
   - [elEconomista](https://www.eleconomista.es/legal/noticias/12911733/07/24/el-tribunal-constitucional-anula-la-condena-a-manuel-chaves-en-el-caso-de-los-ere.html)
   - [Infobae: el TC anula las condenas (jul 2024)](https://www.infobae.com/espana/2024/07/16/el-constitucional-anula-la-condena-al-expresidente-andaluz-manuel-chaves-por-el-caso-ere/)
   - [Poder Judicial: la Audiencia de Sevilla lleva el caso al TJUE (jul 2025)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Sevilla-acuerda-plantear-una-cuestion-prejudicial-ante-el-TJUE-tras-las-sentencias-del-Tribunal-Constitucional-sobre-el-caso-ERE)
   - [Público: la Comisión Europea pide inadmitir la cuestión (abr 2026)](https://www.publico.es/politica/tribunales/comision-europea-rechaza-tjue-pronuncie-sobre-sentencias-caso-ere.html)
+  - [Andalucía Información: condena en la pieza Consyproan (may 2026)](https://www.andaluciainformacion.es/articulo/sevilla/condenado-exdirector-trabajo-ayuda-irregular-ere/202605181645343388554.html)
+  - [El Español: la pieza Consyproan](https://www.elespanol.com/espana/andalucia/20260518/condenado-exdirector-trabajo-junta-ayuda-irregular-euros-caso-ere/1003744249371_0.html)
 
 ### Tres decretos-ley de los Gobiernos de Sánchez, anulados en parte por el TC
 - Fecha: 2020 – 2026
@@ -544,6 +665,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El Gobierno regional invocó el derecho de los padres a elegir la educación de sus hijos. En la Asamblea, PP y Vox votaron en contra de retirarlo, con la abstención de Ciudadanos. Vox apoyaba al Gobierno desde fuera.
 - Fuentes:
   - [Murcia Plaza: el TSJ archiva el recurso (jul 2020)](https://murciaplaza.com/el-tsj-no-se-moja-con-el-pin-parental-archiva-el-recurso-de-celaa-porque-no-hay-clases)
+
+### Caso Palau: el Supremo confirma el decomiso de 6,6 millones a Convergència por comisiones de obra pública
+- Fecha: 2017 – 2020
+- Partidos: Junts
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: En abril de 2020 el Supremo ratificó las condenas a la cúpula del Palau de la Música, Fèlix Millet y Jordi Montull, y al extesorero de Convergència Daniel Osàcar, y confirmó el decomiso de 6,6 millones de euros a CDC como ganancias obtenidas por tráfico de influencias: comisiones de una constructora canalizadas a través del Palau a cambio de obra pública.
+- Matiz: Los directivos de la constructora fueron absueltos. Junts recoge aquí a CDC, su antecesora.
+- Fuentes:
+  - [CGPJ: el Supremo ratifica las condenas (abr 2020)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-ratifica-las-condenas-a-la-cupula-del--caso-Palau-)
+  - [Newtral: preguntas y respuestas](https://www.newtral.es/sentencia-supremo-caso-palau-preguntas-respuestas/20200430/)
 
 ### Cortes de Castilla-La Mancha: el PSOE veta la comparecencia del Defensor del Paciente y no se crea la comisión covid del PP
 - Fecha: 2020
@@ -685,6 +818,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es (Europa Press): críticas a su falta de independencia](https://www.eldiario.es/vertele/noticias/andoni-aldekoa-nuevo-director-eitb-criticas-falta-independencia-pnv_1_7409084.html)
   - [BOE: Ley 5/1982 de EITB, texto consolidado](https://www.boe.es/buscar/act.php?id=BOE-A-2012-5534)
 
+### Emarsa: los condenados por el saqueo de la depuradora pública de Valencia entran en prisión
+- Fecha: 2004 – 2020
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia de Valencia condenó en 2018, y el Supremo confirmó, a los responsables del saqueo de Emarsa, la empresa metropolitana de aguas residuales controlada por el PP, que desvió más de 20 millones de euros. El expresidente de Emarsa y número dos de la Diputación de Valencia, Enrique Crespo (PP), fue condenado a 10 años de prisión, en la que ingresó en noviembre de 2020 junto a otros condenados.
+- Matiz: Según el Tribunal de Cuentas, los condenados deben devolver 20,5 millones. Crespo recurrió todo y el Supremo rechazó sus argumentos.
+- Fuentes:
+  - [elDiario.es: el ingreso en prisión (nov 2020)](https://www.eldiario.es/comunitat-valenciana/caso-emarsa-llega-condenados-saqueo-mayor-trama-corrupcion-pp-valenciano-ingresan-prision_1_6433695.html)
+  - [Valencia Plaza: la sentencia (2018)](https://valenciaplaza.com/valenciaplaza/sentencia-caso-emarsa)
+
 ### Cataluña: el TC anula parte del decreto-ley de vivienda del Govern de Torra por afectar al derecho de propiedad
 - Fecha: dic 2019 – ene 2021
 - Partidos: Junts, ERC
@@ -695,6 +840,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El TC aceptó que había urgencia y avaló el resto del decreto-ley. La propia sentencia recuerda que un decreto-ley anterior de contenido parecido (5/2019) decayó porque el Parlament no lo convalidó. No hubo votos particulares.
 - Fuentes:
   - [BOE: STC 16/2021](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-2835)
+
+### Caso Mercurio: condena firme al exalcalde socialista de Sabadell Manuel Bustos
+- Fecha: 2021 – 2026
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: En 2021 el Supremo confirmó la condena del exalcalde de Sabadell Manuel Bustos (PSC) a 3 años de prisión por una de las piezas del caso Mercurio, y tuvo que ingresar en prisión. En junio de 2026 aceptó otra condena en otra pieza del mismo caso.
+- Matiz: Las cantidades de algunas piezas son pequeñas; su defensa las llamó insignificantes.
+- Fuentes:
+  - [elDiario.es: deberá ingresar en prisión (2021)](https://www.eldiario.es/catalunya/exalcalde-socialista-sabadell-condenado-corrupcion-debera-ingresar-prision_1_8584412.html)
+  - [Infobae (agencias): nueva condena (jun 2026)](https://www.infobae.com/espana/agencias/2026/06/12/el-exalcalde-socialista-de-sabadell-condenado-de-nuevo-en-otra-derivada-del-caso-mercurio/)
 
 ### Parlament balear: el Govern de izquierdas rechaza investigar a altos cargos vacunados y la explotación de menores tuteladas
 - Fecha: mar 2021
@@ -912,6 +1069,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Sindicatura de Comptes: informe 32/2021](https://www.sindicatura.cat/documents/36414/85841/2021_32_ca.pdf)
   - [elDiario.es: pagos indebidos y sobrecostes (feb 2022)](https://www.eldiario.es/catalunya/pagos-indebidos-sobrecostes-desorden-sindicatura-saca-colores-contratacion-covid-govern_1_8731398.html)
 
+### La Muela: el Supremo condena a 11 años y 4 meses a la exalcaldesa del PAR María Victoria Pinilla
+- Fecha: 2016 – 2022
+- Partidos: Otros
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Aragón
+- Nivel de prueba: Sentencia firme
+- Resumen: En enero de 2022 el Supremo condenó a 11 años y 4 meses de prisión a la exalcaldesa de La Muela (Zaragoza) María Victoria Pinilla (PAR) por malversación, prevaricación, blanqueo, cohecho, fraude y delitos fiscales La sentencia destaca el daño que hacen al sistema democrático los cargos públicos que se lucran.
+- Matiz: El Supremo había anulado en 2018 una primera condena por vulnerar el derecho de defensa y ordenó repetir el juicio.
+- Fuentes:
+  - [CGPJ: la sentencia del Supremo (ene 2022)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-condena-a-11-anos-y-4-meses-de-prision-a-la-exalcaldesa-de-La-Muela--Zaragoza--por-malversacion--prevaricacion--blanqueo--cohecho--fraude-y-delitos-fiscales)
+  - [Público](https://www.publico.es/politica/supremo-reduce-11-anos-4-meses-prision-condena-exalcaldesa-muela-decada-investigaciones.html)
+
 ### Congreso: PSOE, PP y Vox vetan investigar la relación del CNI con los atentados del 17-A
 - Fecha: 25 ene 2022
 - Partidos: PSOE, PP, Vox
@@ -1038,6 +1207,29 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [infoLibre: la ley sale con PSC, ERC, Junts y comuns](https://www.infolibre.es/politica/parlament-aprueba-votos-psc-erc-junts-comuns-ley-elude-25-castellano_1_1253073.html)
   - [El Español: el TSJC ve posible fraude de ley](https://www.elespanol.com/espana/tribunales/20220728/tsj-catalan-govern-bloquea-espanol-opinion-constitucional/691181140_0.html)
 
+### Baleares, caso Over Marketing: condena firme por pagar la campaña del PP de 2003 con contratos públicos
+- Fecha: 2003 – 2022
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Baleares
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia de Palma condenó en 2019, y el Supremo confirmó en 2022, al ex secretario general del PP balear y exconseller de Interior José María Rodríguez a tres años y medio de prisión: la campaña del partido de 2003 se pagó con contratos simulados de varias consellerias con la empresa Over Marketing.
+- Matiz: Rodríguez recurrió hasta el Supremo y perdió.
+- Fuentes:
+  - [elDiario.es: el Supremo confirma (2022)](https://www.eldiario.es/illes-balears/supremo-confirma-condena-exsecretario-general-pp-balears-financiacion-irregular-partido-2003_1_9160692.html)
+  - [Última Hora: la sentencia de la Audiencia (2019)](https://www.ultimahora.es/noticias/local/2019/06/14/1087847/jose-maria-rodriguez-condenado-tres-anos-medio-carcel-por-caso-over.html)
+
+### Murcia: el Supremo ratifica la inhabilitación del exalcalde del PP de Torre Pacheco por adjudicar obras a dedo
+- Fecha: 2004 – 2022
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Sentencia firme
+- Resumen: El Supremo confirmó en 2022 la condena por prevaricación al exalcalde de Torre Pacheco Daniel García Madrid (PP) por adjudicar sin expediente 15 proyectos por 511.355,73 euros. La sentencia lo calificó de «ilegal, burdo y grosero».
+- Matiz: La pena es de inhabilitación, no de prisión.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html)
+
 ### Tribunal de Cuentas: solicitantes de dependencia que murieron sin resolución, en mayor medida en Extremadura, Cataluña y Andalucía
 - Fecha: 2018 – jul 2022
 - Partidos: PSOE, Junts, ERC, PP, Otros
@@ -1084,6 +1276,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Público: septiembre](https://www.publico.es/politica/psoe-tumba-investigaciones-tragedia-melilla-cloacas-mediaticas-papeles-uber.html)
   - [Público: noviembre](https://www.publico.es/politica/pp-psoe-vetan-comision-investigacion-tragedia-melilla-diputados-hayan-visto-imagenes.html)
 
+### Caso Unión (Lanzarote): 7 años y 5 meses firmes para Dimas Martín, fundador del PIL
+- Fecha: 2019 – 2022
+- Partidos: Otros
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Sentencia firme
+- Resumen: En septiembre de 2022 el Supremo confirmó 7 años y 5 meses de prisión para Dimas Martín, fundador del Partido de Independientes de Lanzarote, por la trama de corrupción en el Ayuntamiento de Arrecife juzgada en el caso Unión.
+- Matiz: La Audiencia de Las Palmas lo había condenado en 2019.
+- Fuentes:
+  - [elDiario.es (Canarias Ahora): el Supremo confirma (sep 2022)](https://www.eldiario.es/canariasahora/tribunales/supremo-confirma-condena-siete-anos-cinco-meses-prision-dimas-martin-caso-union_1_9575512.html)
+  - [Público](https://www.publico.es/politica/condenada-trama-corrupta-politica-lanzarote.html)
+
 ### Tribunal de Cuentas: incidencias en los contratos covid de Castilla-La Mancha, Extremadura, La Rioja, Murcia y Cantabria
 - Fecha: 2020 – sep 2022
 - Partidos: PSOE, PP, Cs, Otros, Podemos/UP
@@ -1118,6 +1322,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/madrid/ayuso-abrira-17-37-servicios-urgencias-cerro-pandemia_1_9100488.html)
   - [Infobae: centros sin médico](https://www.infobae.com/espana/2025/10/06/madrid-anuncia-la-apertura-de-cinco-nuevos-centros-de-salud-mientras-faltan-medicos-en-194-estas-seran-las-ubicaciones/)
+
+### Caso del 3%: CDC y el PDeCAT, a juicio por la presunta financiación con comisiones de obra pública
+- Fecha: 2008 – 2026
+- Partidos: Junts
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Investigación judicial
+- Resumen: En noviembre de 2022 el juez de la Audiencia Nacional Santiago Pedraz envió a juicio a Convergència y al PDeCAT como personas jurídicas y a los extesoreros Germà Gordó, Daniel Osàcar y Andreu Viloca, entre otros, por la supuesta estructura para financiar el partido con comisiones de empresas adjudicatarias. La Fiscalía pide hasta 21 años.
+- Matiz: No hay sentencia: rige la presunción de inocencia. Junts recoge aquí a CDC y al PDeCAT, sus antecesores.
+- Fuentes:
+  - [elDiario.es: el juez envía a juicio a CDC y al PDeCAT](https://www.eldiario.es/catalunya/juez-pedraz-envia-banquillo-dirigentes-pdecat-convergencia-caso-3_1_9692472.html)
+  - [El Món](https://elmon.cat/es/politica-es/tribunales/caso-3-recta-final-macrojuicio-692901/)
 
 ### Parlamento de Navarra: PSN, Geroa Bai, Podemos e I-E rechazan investigar las mascarillas, con la abstención de EH Bildu
 - Fecha: 17 nov 2022
@@ -1226,6 +1442,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [COPE: la Junta de Portavoces la rechaza](https://www.cope.es/actualidad/espana/noticias/psoe-podemos-pactan-con-erc-bildu-una-alternativa-comision-mediador-20230314_2603097)
   - [Congreso: ficha oficial 156/000061 (caducada)](https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=156%2F000061)
 
+### Gürtel: condena firme por los contratos de la televisión valenciana en la visita del Papa
+- Fecha: 2006 – 2023
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia Nacional condenó en 2020 a 19 de los 23 acusados por las irregularidades en los contratos de Radiotelevisión Valenciana para la visita del Papa a Valencia en 2006. En abril de 2023 el Supremo confirmó las penas: 13 años y 7 meses para Francisco Correa y 6 años y 9 meses para Álvaro Pérez y para el exdirector de RTVV Pedro García.
+- Matiz: Pedro García era director de la televisión pública nombrado por el Consell del PP; no consta que fuera militante.
+- Fuentes:
+  - [elDiario.es: el Supremo confirma las penas (abr 2023)](https://www.eldiario.es/comunitat-valenciana/politica/supremo-confirma-penas-cabecillas-gurtel-irregularidades-visita-papa-valencia-2006_1_9987256.html)
+
 ### Seis ayuntamientos de EH Bildu retiran webs de memoria que equiparaban a víctimas y miembros de ETA tras un requerimiento del Gobierno
 - Fecha: abr 2023
 - Partidos: Bildu
@@ -1313,6 +1540,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 15/2023 de Aragón](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-23345)
   - [Cortes de Aragón: Diario de Sesiones n.º 8 (2 y 3 nov 2023)](https://bases.cortesaragon.es/bases/original.nsf/(DSCA1)/0D577CCA0F0AB9A2C1258AA90032C4F3/$File/DSCA_8_Pleno_2023-11-2y3.pdf)
 
+### Gürtel Boadilla: 36 años de cárcel firmes para el exalcalde del PP y el partido, partícipe a título lucrativo
+- Fecha: 2001 – 2023
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia Nacional juzgó en 2022 el despliegue de la trama Gürtel en Boadilla del Monte, donde gobernaba el PP, y en noviembre de 2023 el Supremo confirmó 36 años de prisión para el exalcalde Arturo González Panero. El PP fue condenado a pagar 204.198,64 euros como partícipe a título lucrativo por haberse beneficiado de la red.
+- Matiz: El PP no recurrió su condena como partícipe a título lucrativo, así que el Supremo no se pronunció sobre ella. Partícipe a título lucrativo no significa que el partido conociera los delitos.
+- Fuentes:
+  - [Infobae (Europa Press): el Supremo confirma 36 años (nov 2023)](https://www.infobae.com/espana/agencias/2023/11/22/el-supremo-confirma-36-anos-de-carcel-al-exalcalde-de-boadilla-por-el-despliegue-de-gurtel/)
+  - [elDiario.es: sexta sentencia firme de la trama](https://www.eldiario.es/politica/supremo-confirma-pp-financio-gurtel-boadilla-dicta-sexta-sentencia-firme-trama_1_10680051.html)
+
+### Extremadura: el exdiputado del PP Alberto Casero acepta 1 año y 9 meses por prevaricación y malversación en Trujillo
+- Fecha: 2017 – 2023
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Extremadura
+- Nivel de prueba: Sentencia firme
+- Resumen: Alberto Casero, alcalde de Trujillo y después diputado del PP en el Congreso, aceptó en noviembre de 2023 una condena de 1 año y 9 meses de prisión por prevaricación y malversación en contratos y convenios del ayuntamiento firmados sin los trámites legales. Evitó la cárcel y tuvo que indemnizar al ayuntamiento.
+- Matiz: Es una sentencia de conformidad: Casero aceptó los hechos.
+- Fuentes:
+  - [Infobae (EFE)](https://www.infobae.com/espana/2023/11/28/alberto-casero-evita-la-carcel-al-aceptar-una-condena-de-1-ano-y-9-meses-por-prevaricacion-y-malversacion/)
+  - [Público](https://www.publico.es/politica/alberto-casero-eludira-carcel-pactar-ano-nueve-meses-condena-prevaricacion-malversacion.html)
+
 ### Castilla y León: un organismo de la consejería de Vox reparte contratos a dedo a medios afines
 - Fecha: 2023 – 2024
 - Partidos: Vox, PP
@@ -1361,6 +1612,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Junta Electoral Central: Acuerdo 29/2024](https://www.juntaelectoralcentral.es/cs/jec/doctrina/acuerdos?anyosesion=2024&idacuerdoinstruccion=126435&idsesion=1061&template=Doctrina%2FJEC_Detalle)
   - [Infobae: el Supremo ratifica el acuerdo (abr 2025)](https://www.infobae.com/espana/agencias/2025/04/09/el-ts-ratifica-el-acuerdo-de-la-junta-electoral-por-el-18f-que-vio-indebido-el-recorte-de-la-informacion-en-la-crtvg/)
+
+### Caso Cooperación: condena firme al exconseller Rafael Blasco por desviar ayudas a ONG y a Haití
+- Fecha: 2009 – 2024
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia de Valencia condenó en 2020 a 21 de los 23 acusados de las piezas 2 y 3 del caso Cooperación, por desviar ayudas de la Conselleria de Solidaridad a ONG y a un hospital en Haití. El Supremo resolvió los recursos en 2022 y en febrero de 2024 la Audiencia subió la pena del exconseller Rafael Blasco (PP) de 1 año a 1 año y 6 meses.
+- Matiz: Blasco ya había sido condenado en firme en 2015 por la primera pieza. Se le aplicó la atenuante de reparación parcial del daño.
+- Fuentes:
+  - [CGPJ: la sentencia de la Audiencia (abr 2020)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Valencia-condena-a-21-de-los-23-acusados-del--caso-Cooperacion--a-penas-de-entre-tres-meses-y-cinco-anos-y-medio-de-carcel)
+  - [CGPJ: el Supremo resuelve los recursos (2022)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-resuelve-los-recursos-contra-la-sentencia-de-la-Audiencia-de-Valencia-en-las-piezas-del--caso-Blasco-)
+  - [Valencia Plaza: la nueva pena (feb 2024)](https://valenciaplaza.com/audiencia-amplia-6-meses-condena-rafael-blasco-tras-revision-supremo)
 
 ### Asamblea de Madrid: el PP bloquea investigar los contratos de emergencia del covid incluso después de que intervenga el TC
 - Fecha: 2024 – 2026
@@ -1460,6 +1724,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Última Hora (EFE): vista previa del juicio (jun 2026)](https://www.ultimahora.es/noticias/local/2026/06/11/2648217/convocada-vista-previa-del-juicio-senne-por-delito-odio.html)
   - [infoLibre: la expulsión de dos diputadas (oct 2024)](https://www.infolibre.es/politica/ultra-le-senne-expulsa-parlament-balear-diputadas-mostrar-fotos-victimas-republicanas_1_1880341.html)
 
+### Galicia, operación Pokémon: el exteniente de alcalde socialista de Lugo acepta su condena
+- Fecha: 2004 – 2024
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Galicia
+- Nivel de prueba: Sentencia firme
+- Resumen: En junio de 2024 la pieza principal de la operación Pokémon en el Ayuntamiento de Lugo se cerró con un acuerdo de conformidad: el exteniente de alcalde Francisco Fernández Liñares (PSOE) y otros diez acusados aceptaron penas por la concesión de la grúa municipal.
+- Matiz: La conformidad rebajó mucho las penas que se pedían.
+- Fuentes:
+  - [infoLibre: el acuerdo de conformidad (jun 2024)](https://www.infolibre.es/politica/operacion-pokemon-llega-acuerdo-confirmidad-ministerio-fiscal-acusados_1_1825563.html)
+  - [El Progreso](https://www.elprogreso.es/articulo/lugo/justicia-pone-fin-caso-pokemon-juicio-proximo-lunes/202406211814561768305.html)
+
 ### El TC anula parte de la reforma de las leyes trans y LGTBI de Madrid
 - Fecha: 2023 – 2025
 - Partidos: PP
@@ -1534,6 +1810,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: el juzgado abre investigación](https://www.eldiario.es/andalucia/justicia-abre-investigacion-gobierno-moreno-adjudicar-dedo-243-millones-clinicas-privadas-ley-derogada_1_11702608.html)
   - [Infobae: 300 millones adjudicados a dedo (sep 2024)](https://www.infobae.com/espana/2024/09/10/el-sistema-andaluz-de-salud-adjudico-300-millones-a-dedo-un-ano-despues-de-la-pandemia/)
 
+### Andalucía, Invercaria: el Supremo eleva a 4 años y medio la condena al expresidente de la empresa pública de capital riesgo de la Junta
+- Fecha: 2005 – 2024
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Sentencia firme
+- Resumen: Invercaria era la sociedad de capital riesgo de la agencia IDEA de la Junta de Andalucía, gobernada por el PSOE. En septiembre de 2024 el Supremo elevó a 4 años y medio de prisión la condena por malversación de su expresidente Tomás Pérez-Sauquillo en una de las piezas; hay otras piezas con condena por préstamos y ayudas a empresas.
+- Matiz: Pérez-Sauquillo era un cargo designado por la Junta; no consta su militancia. En otra pieza la reforma del delito de malversación de 2022 le rebajó la pena.
+- Fuentes:
+  - [elDiario.es: el Supremo eleva la pena (sep 2024)](https://www.eldiario.es/andalucia/supremo-eleva-cuatro-anos-medio-condena-expresidente-empresa-capital-riesgo-andalucia_1_11666920.html)
+  - [El Español: el efecto de la reforma de la malversación](https://www.elespanol.com/espana/tribunales/20241106/reforma-malversacion-hecha-sanchez-proces-quita-ano-carcel-expresidente-invercaria/899160350_0.html)
+
 ### Parlamento de Galicia: el PP frena y luego cierra en exprés la investigación sobre contratos de la Xunta
 - Fecha: sep 2024 – ene 2025
 - Partidos: PP
@@ -1582,6 +1870,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [BOE: STC 121/2024](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-23945)
 
+### Caso Erial: el expresidente valenciano Eduardo Zaplana, condenado a 10 años y 5 meses
+- Fecha: 1997 – 2024
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: La Audiencia de Valencia condenó en octubre de 2024 a Eduardo Zaplana, presidente de la Generalitat y después ministro de Trabajo con el PP, a 10 años y 5 meses de prisión por cobrar comisiones por la privatización de las ITV y el plan eólico valenciano y blanquearlas después. Otros seis acusados fueron condenados y ocho absueltos.
+- Matiz: La condena se recurrió al Supremo y no es firme. La sentencia cifra en 86,5 millones lo que ganó el grupo empresarial de la familia Cotino con las adjudicaciones; no es una cifra de perjuicio público.
+- Fuentes:
+  - [CGPJ: la sentencia (oct 2024)](https://www.poderjudicial.es/cgpj/ca/Poder-Judicial/Novetats/La-Audiencia-de-Valencia-condena-a-10-anos-y-5-meses-de-prision-al-expresidente-de-la-Generalitat-Eduardo-Zaplana-por-el--caso-Erial-)
+  - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/sentencia-acredita-eduardo-zaplana-cobro-comisiones-ilicitas-durante-carrera-politica-pp_1_11735247.html)
+
 ### Congreso y Senado: el Gobierno rebaja por decreto-ley la mayoría para elegir el consejo de RTVE y cada bloque elige a los suyos
 - Fecha: oct – nov 2024
 - Partidos: PSOE, Sumar, ERC, Junts, PNV, Podemos/UP, PP
@@ -1610,6 +1910,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Canarias7: la Audiencia de Cuentas aprueba el informe (nov 2024)](https://www.canarias7.es/canarias/audiencia-cuentas-aprueba-informe-alerto-responsabilidad-contable-20241111190041-nt.html)
   - [elDiario.es: la Audiencia niega injerencias en el caso RR7](https://www.eldiario.es/canariasahora/politica/caso-mascarillas-audiencia-cuentas-niega-injerencias-gobierno-canario-contrato-rr7_1_12105060.html)
 
+### Murcia: juicio por la desaladora de Escombreras contra el exconsejero del PP Antonio Cerdá
+- Fecha: 2024 – 2026
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Investigación judicial
+- Resumen: En noviembre de 2024 se abrió juicio oral contra el exconsejero de Agricultura y Agua Antonio Cerdá (PP) y otros 14 acusados por la desaladora de Escombreras, que la Comunidad de Murcia pagó a través del Ente Público del Agua. En octubre de 2026 la Audiencia de Murcia confirmó una fianza de 70 millones de euros. El juicio no tiene fecha.
+- Matiz: No hay sentencia: rige la presunción de inocencia.
+- Fuentes:
+  - [elDiario.es: la Audiencia confirma la fianza (oct 2026)](https://www.eldiario.es/murcia/politica/audiencia-murcia-confirma-fianza-70-millones-euros-causa-desaladora-escombreras_1_13567026.html)
+
 ### Asamblea de Madrid: el PP investiga a Begoña Gómez pero veta investigar los contratos del novio de Ayuso
 - Fecha: 2023 – 2024
 - Partidos: PP
@@ -1621,6 +1932,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [infoLibre](https://www.infolibre.es/politica/residencias-contratos-novio-ayuso-pp-veta-asamblea-begona_1_1897993.html)
   - [elDiario.es: PSOE y Más Madrid abandonan la comisión](https://www.eldiario.es/madrid/politica/madrid-psoe-abandonan-comision-investigacion-begona-gomez-asamblea-madrid-circo_1_12046855.html)
+
+### Papeles de Bárcenas: condena firme por pagar en B la reforma de la sede del PP en Génova
+- Fecha: 2007 – 2024
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Sentencia firme
+- Resumen: La Audiencia Nacional condenó en octubre de 2021 al extesorero Luis Bárcenas y a los dos administradores del estudio Unifica por defraudar a Hacienda al pagar en dinero negro parte de la reforma de la sede nacional del PP en 2007, y dio por acreditada una contabilidad paralela del partido. En noviembre de 2024 el Supremo confirmó el delito y rebajó las penas por dilaciones indebidas: Bárcenas, de 2 años a 8 meses; los administradores, de 2 años y 9 meses a 9 meses. El PP es responsable civil subsidiario hasta el importe defraudado con los pagos en B.
+- Matiz: El perjudicado es Hacienda, no una administración que pagara de más. La Audiencia absolvió a Bárcenas de apropiación indebida, asociación ilícita, delito electoral, tráfico de influencias y blanqueo. Tras la primera sentencia el PP dijo que ya había dicho todo lo que tenía que decir.
+- Fuentes:
+  - [CGPJ: el Supremo confirma el delito y reduce las penas (nov 2024)](https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-Tribunal-Supremo-confirma-el-delito-de-defraudacion-tributaria-en-el-caso--Papeles-de-Barcenas--y-reduce-las-penas-al-apreciar-dilaciones-indebidas)
+  - [elDiario.es: la sentencia de la Audiencia Nacional (oct 2021)](https://www.eldiario.es/politica/audiencia-nacional-condena-luis-barcenas-pp-reforma-sede-genova-dinero-negro_1_8439000.html)
+  - [El Español: el Supremo confirma (nov 2024)](https://www.elespanol.com/espana/tribunales/20241115/supremo-confirma-condena-pago-sede-pp-reduce-penas-debido-dilaciones/901410036_0.html)
 
 ### Baleares: el TC anula las restricciones covid del Govern de Armengol aprobadas por decreto-ley
 - Fecha: may 2021 – nov 2024
@@ -1658,6 +1981,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Ministerio de Sanidad: peso de los conciertos](https://www.sanidad.gob.es/estadEstudios/sanidadDatos/tablas/tabla31.htm)
   - [Redacción Médica: listas de espera](https://www.redaccionmedica.com/politica/ministerio-sanidad/20260415/la-espera-quirurgica-de-deja-notables-diferencias-por-regiones/272056_0.html)
 
+### Castilla y León: condena por la Perla Negra y juicio por la trama eólica contra un exviceconsejero de la Junta
+- Fecha: 2003 – 2026
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Castilla y León
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: En enero de 2025 la Audiencia de Valladolid condenó al exviceconsejero de Economía de la Junta Rafael Delgado y a otros altos cargos por la compra, a través de la empresa pública ADE y Gesturcal, del edificio Perla Negra y de unos terrenos en Portillo para un polígono que nunca se hizo, con el Gobierno de Juan Vicente Herrera (PP). Delgado es también el principal acusado de la trama eólica, juzgada entre septiembre de 2025 y enero de 2026, sin sentencia a julio de 2026.
+- Matiz: La sentencia de la Perla Negra se recurrió al Supremo y no es firme. En la trama eólica rige la presunción de inocencia; Delgado pide la absolución.
+- Fuentes:
+  - [elDiario.es: la sentencia de la Perla Negra (ene 2025)](https://www.eldiario.es/castilla-y-leon/tribunales/condenados-exviceconsejeros-junta-castilla-leon-prevaricacion-caso-perla-negra_1_11935984.html)
+  - [elDiario.es: la trama eólica, sin sentencia (jul 2026)](https://www.eldiario.es/castilla-y-leon/tribunales/sentencia-trama-eolica-castilla-leon-seis-meses-despues-finalizar-juicio_1_13392708.html)
+
 ### Andalucía: el TC anula parte del decreto-ley de simplificación del Gobierno de PP y Cs
 - Fecha: mar 2020 – feb 2025
 - Partidos: PP, Cs
@@ -1679,6 +2014,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: La propia Sindicatura considera satisfactoria la ocupación del parque. Gobernaban ERC y Junts hasta octubre de 2022 y ERC en solitario después.
 - Fuentes:
   - [Sindicatura de Comptes: informe 30/2024](https://www.sindicatura.cat/documents/36414/85841/2024_30_ca.pdf)
+
+### Laura Borràs, condenada en firme a 4 años y medio por trocear contratos en la Institució de les Lletres Catalanes
+- Fecha: 2013 – 2025
+- Partidos: Junts
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Sentencia firme
+- Resumen: En febrero de 2025 el Supremo confirmó la condena del TSJ de Cataluña a Laura Borràs, expresidenta del Parlament y de Junts, a 4 años y medio de prisión y 13 de inhabilitación por prevaricación y falsedad: cuando dirigía la Institució de les Lletres Catalanes fraccionó contratos para adjudicárselos a un conocido. El Supremo rechazó aplicarle la amnistía.
+- Matiz: Borràs sostiene que es una persecución política. El Supremo dijo que los hechos no tienen relación con el procés.
+- Fuentes:
+  - [elDiario.es: el Supremo confirma (feb 2025)](https://www.eldiario.es/catalunya/supremo-confirma-cuatro-anos-medio-carcel-laura-borras-corrupcion-adjudicacion-contratos_1_12041090.html)
+  - [Confilegal](https://confilegal.com/20250212-el-ts-confirma-4-anos-y-medio-de-prision-a-laura-borras-por-prevaricacion-y-rechaza-que-se-le-aplique-la-amnistia/)
 
 ### Senado: el PP impone su lista de comparecientes en la comisión de la DANA
 - Fecha: feb 2025
@@ -1734,6 +2081,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Correo Gallego: Concha Pombo, elegida en tercera votación (jul 2025)](https://www.elcorreogallego.es/galicia/2025/07/08/concha-pombo-elegida-nueva-directora-119478216.html)
   - [elDiario.es: a la tercera bastará la mayoría absoluta](https://www.eldiario.es/galicia/pp-quema-etapas-relevo-frente-tvg-tercera-le-bastara-mayoria-absoluta_1_12371086.html)
 
+### Campus de la Justicia: el exvicepresidente madrileño Alfredo Prada, condenado a 7 años
+- Fecha: 2005 – 2025
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: La Audiencia Nacional condenó en septiembre de 2024 a Alfredo Prada, vicepresidente y consejero de Justicia del Gobierno de Esperanza Aguirre, a 7 años de prisión por prevaricación y malversación en la sociedad pública Campus de la Justicia. En marzo de 2025 la Sala de Apelación mantuvo la pena y rebajó en 30 millones la responsabilidad civil, que quedó en unos 10,3 millones.
+- Matiz: Cabe recurso de casación ante el Supremo; no consta que esté resuelto. Otros acusados fueron absueltos de malversación en apelación.
+- Fuentes:
+  - [Público: la sentencia (sep 2024)](https://www.publico.es/politica/siete-anos-carcel-exvicepresidente-madrileno-alfredo-prada-campus-justicia.html)
+  - [El Español: la apelación (mar 2025)](https://www.elespanol.com/espana/tribunales/20250312/rebaja-millones-responsabilidad-civil-campus-justicia-prada-sigue-condenado-anos/930657140_0.html)
+
 ### Comunitat Valenciana: el Síndic de Greuges alerta de un aumento «descomunal» de las quejas por dependencia
 - Fecha: 2024 – mar 2025
 - Partidos: PP, Vox
@@ -1781,6 +2140,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El TC avaló el resto del decreto-ley. No hubo votos particulares.
 - Fuentes:
   - [BOE: STC 95/2025](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-9639)
+
+### Andalucía, FAFFE: condenas por pagar prostíbulos con dinero público y por contratar a un exalcalde del PSOE que no iba a trabajar
+- Fecha: 2003 – 2025
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Andalucía
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: La FAFFE era una fundación pública de empleo de la Junta de Andalucía. En septiembre de 2023 la Audiencia de Sevilla condenó a su exdirector Fernando Villén a 6 años de prisión por pagar 32.566 euros en prostíbulos con tarjetas de la fundación. En abril de 2025 condenó de nuevo a Villén y al exalcalde socialista de Lebrija Antonio Torres por contratar a este en la fundación sin que trabajara: deben devolver 359.973,51 euros.
+- Matiz: Villén fue nombrado por la Junta del PSOE. Las sentencias se podían recurrir y no consta que sean firmes.
+- Fuentes:
+  - [infoLibre: los pagos en prostíbulos (sep 2023)](https://www.infolibre.es/politica/condenado-exdirector-faffe-gastar-prostibulos-32-566-euros-dinero-publico_1_1595302.html)
+  - [Infobae: la contratación de Antonio Torres (abr 2025)](https://www.infobae.com/espana/2025/04/30/condenado-a-mas-de-dos-anos-de-carcel-un-exalcalde-del-psoe-por-su-contratacion-ilegal-en-la-fundacion-de-empleo-andaluza-no-iba-a-trabajar/)
+
+### Gürtel Arganda: el exalcalde del PP y otros 17 acusados aceptan condenas tras confesar
+- Fecha: 2002 – 2025
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Sentencia firme
+- Resumen: En mayo de 2025 la Audiencia Nacional condenó a 19 acusados por la adjudicación amañada de suelo público en Arganda del Rey, gobernado por el PP. Dieciocho se conformaron con las penas tras confesar, entre ellos el exalcalde Ginés López, con más de cinco años de prisión, el exconcejal y luego diputado autonómico Benjamín Martín Vasco y los cabecillas de la trama, Correa y Crespo.
+- Matiz: Las conformidades con Anticorrupción rebajaron mucho las penas pedidas. Un acusado que no se conformó podía recurrir; para los demás la condena es firme.
+- Fuentes:
+  - [Público](https://www.publico.es/politica/tribunales/condenados-lideres-guertel-exalcalde-arganda-adjudicaciones-ilegales-localidad.html)
+  - [Telemadrid](https://www.telemadrid.es/programas/telenoticias-1/Condenados-los-19-acusados-de-la-trama-Gurtel-en-Arganda-del-Rey-2-2777442259--20250508030613.html)
 
 ### Parlamento de Andalucía: el PP rechaza investigar los contratos de emergencia del SAS
 - Fecha: 29 may 2025
@@ -2149,6 +2532,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Última Hora: la Sindicatura reprocha al Pacte su inacción (ene 2026)](https://www.ultimahora.es/noticias/local/2026/01/11/2546489/sindicatura-reprocha-pacte-inaccion-ante-mascarillas-defectuosas.html)
 
+### Brugal: condena a la exalcaldesa de Orihuela y a concejales del PP por la contrata de basuras
+- Fecha: 2005 – 2026
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: En enero de 2026 la Audiencia de Alicante condenó a la exalcaldesa de Orihuela Mónica Lorente y a varios exconcejales del PP por prevaricación en la adjudicación de la contrata de basuras, y al empresario Ángel Fenoll por cohecho, entre otros delitos. Es la segunda sentencia: el Supremo había anulado en 2024 la absolución de 2020 al validar las escuchas.
+- Matiz: No es firme. Hubo 24 absueltos, entre ellos el exalcalde José Manuel Medina. Las penas de los cargos públicos son cortas y de inhabilitación.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/sentencia-brugal-avala-audios-capo-basura-orihuela-detectives-balnearios-presiones-zaplana-camps_1_12930678.html)
+  - [TodoAlicante](https://www.todoalicante.es/politica/audiencia-alicante-condena-acusados-brugal-contrata-basuras-20260112135006-nt.html)
+
 ### RTVE: el Consejo de Informativos denuncia sesgo a favor del Gobierno en «Mañaneros 360» y «Malas lenguas»
 - Fecha: ene – feb 2026
 - Partidos: PSOE
@@ -2325,6 +2720,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/pp-vox-descartan-prorroga-liquidan-comision-investigacion-dana-67-comparecientes-declarar_1_13196042.html)
   - [El Español: PP y Vox cierran la comisión (may 2026)](https://www.elespanol.com/valencia/20260505/pp-vox-cierran-manera-definitiva-comision-dana-corts-citados-sin-comparecer/1003744233943_0.html)
 
+### Caso Innova: juicio al exalcalde socialista de Reus y a un exdirector de Salut por el desvío de fondos públicos
+- Fecha: 2007 – 2026
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Investigación judicial
+- Resumen: En mayo de 2026 empezó en la Audiencia de Tarragona el juicio del caso Innova, por el presunto desvío de fondos del holding municipal de Reus y del hospital Sant Joan. Entre los acusados están el exalcalde Lluís Miquel Pérez (PSC), que gobernaba con ERC e ICV, y el exdirector de Innova Josep Prat, después alto cargo de Salut.
+- Matiz: No hay sentencia: rige la presunción de inocencia. La Fiscalía rebajó sus peticiones durante el juicio.
+- Fuentes:
+  - [Infobae (EFE): empieza el juicio (may 2026)](https://www.infobae.com/espana/agencias/2026/05/10/el-caso-innova-sienta-en-el-banquillo-a-un-exdirector-de-salut-y-al-exalcalde-de-reus/)
+  - [Diari Més: la Fiscalía rebaja sus peticiones](https://www.diarimes.com/es/reus/260701/fiscalia-rebaja-6-9-meses-prision-prat-batesteza-retira-trafico-influencias-caso-innova_226111.html)
+
+### Familia Pujol: visto para sentencia el juicio por la fortuna oculta en Andorra
+- Fecha: 2014 – 2026
+- Partidos: Junts
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Cataluña
+- Nivel de prueba: Investigación judicial
+- Resumen: En mayo de 2026 quedó visto para sentencia en la Audiencia Nacional el juicio a la familia del expresidente catalán Jordi Pujol (CDC) por blanqueo, delitos fiscales y asociación ilícita. La Fiscalía pide 29 años para el hijo mayor, Jordi Pujol Ferrusola, y sostiene que la fortuna procede de comisiones por adjudicaciones públicas; la familia lo atribuye a una herencia.
+- Matiz: No hay sentencia a 7 de octubre de 2026: rige la presunción de inocencia. Los delitos juzgados no son de malversación; el origen público del dinero es lo que discuten las partes.
+- Fuentes:
+  - [Infobae: visto para sentencia (may 2026)](https://www.infobae.com/espana/2026/05/14/la-audiencia-nacional-deja-visto-para-sentencia-el-juicio-a-la-familia-pujol-sin-resolver-el-origen-de-la-fortuna-oculta-en-andorra/)
+  - [Confilegal](https://confilegal.com/20260515-caso-pujol-visto-sentencia-audiencia-nacional-penas-siete-hijos/)
+
 ### Cantabria: condena firme a dos ex altos cargos del Servicio Cántabro de Salud por fraccionar contratos
 - Fecha: 2015 – may 2026
 - Partidos: Otros, PSOE
@@ -2447,6 +2866,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [idealista: Madrid, Andalucía y Extremadura recurren el plan](https://www.idealista.com/news/inmobiliario/vivienda/2026/06/24/903419-las-comunidades-del-pp-recurren-ante-la-justicia-el-nuevo-plan-estatal-de-vivienda)
   - [elDiario.es: el TC anula el artículo de la vivienda protegida (may 2024)](https://www.eldiario.es/economia/constitucional-avala-mayor-parte-ley-vivienda-tumba-articulo-pisos-protegidos_1_11344760.html)
 
+### Caso Taula: una condena firme y otras tres recurridas contra cargos de la Diputación y el Ayuntamiento de Valencia
+- Fecha: 2007 – 2026
+- Partidos: PP, PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: Firme: en junio de 2026 el Supremo confirmó la primera sentencia del caso Taula (pieza Thematica), que condenó al exgerente de Imelsa, la empresa de la Diputación de Valencia, Marcos Benavent, por desviar fondos públicos. Recurribles: en noviembre de 2023 la Audiencia condenó a 5 años al expresidente de la Diputación Alfonso Rus (PP) por contratar a personas que no trabajaban («zombis»); en julio de 2024, a 4 años y medio al exvicealcalde de Valencia Alfonso Grau (PP) por la financiación en B de la campaña municipal de 2007; y en julio de 2025, a los exalcaldes de Requena y Enguera (PP) y a un exalcalde del PSOE por contratos amañados.
+- Matiz: En la pieza Thematica el PP fue absuelto como responsable civil subsidiario. Rus se declara inocente. Salvo Thematica, las condenas están recurridas y no son firmes. Otras piezas acabaron en absolución.
+- Fuentes:
+  - [elDiario.es: el Supremo confirma Thematica (jun 2026)](https://www.eldiario.es/comunitat-valenciana/tribunal-supremo-confirma-condena-ocho-anos-carcel-yonqui-dinero-blanqueo-falsedad_1_13336558.html)
+  - [Infobae (EFE): condena a Alfonso Rus (nov 2023)](https://www.infobae.com/espana/agencias/2023/11/17/condenan-al-expresidente-de-la-diputacion-de-valencia-alfonso-rus-pp-a-5-anos-de-carcel/)
+  - [Infobae (Europa Press): condena a Alfonso Grau (jul 2024)](https://www.infobae.com/espana/agencias/2024/07/30/el-exvicealcalde-del-ayuntamiento-de-valencia-alfonso-grau-condenado-a-cuatro-anos-de-prision-por-la-caja-b-del-pp/)
+  - [El Español: la pieza de Requena y Enguera (jul 2025)](https://www.elespanol.com/valencia/20250716/audiencia-valencia-dicta-quinta-sentencia-condenas-caso-taula-contratos-requena-enguera/1003743849527_0.html)
+
 ### Asamblea de Madrid: PP y Cs aprueban por lectura única la reforma de la Ley del Suelo y el TC declara que vulneró los derechos de la oposición
 - Fecha: oct 2020 – jul 2026
 - Partidos: PP, Cs
@@ -2458,6 +2891,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [BOE: STC 51/2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16926)
   - [BOE: STC 29/2024](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-6671)
+
+### Diputación de Badajoz: David Sánchez y el exlíder del PSOE extremeño Miguel Ángel Gallardo, condenados por prevaricación
+- Fecha: 2016 – 2026
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Extremadura
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: En julio de 2026 la Audiencia de Badajoz condenó a David Sánchez, hermano del presidente del Gobierno, a 9 años de inhabilitación por prevaricación por la creación y adjudicación de su plaza en la Diputación, y al expresidente de la Diputación y ex secretario general del PSOE extremeño Miguel Ángel Gallardo a dos penas de 9 años de inhabilitación. Los otros nueve acusados recibieron la misma pena.
+- Matiz: La Audiencia absolvió del delito de tráfico de influencias: vio indicios de que todo buscaba favorecer a David Sánchez por ser hermano del presidente, pero no lo consideró probado. Las penas son de inhabilitación, no de prisión, y se pueden recurrir. Gallardo habló de un juicio mediático paralelo.
+- Fuentes:
+  - [El Independiente: la sentencia (jul 2026)](https://www.elindependiente.com/espana/2026/07/14/david-sanchez-condenado-inhabilitacion-prevaricacion-contratacion-badajoz/)
+  - [Infobae (agencias): la aclaración de la Audiencia (sep 2026)](https://www.infobae.com/espana/agencias/2026/09/16/la-audiencia-de-badajoz-aclara-que-gallardo-y-sanchez-no-podran-acceder-a-cargos-publicos/)
 
 ### Informe UE de Estado de Derecho 2026: deberes pendientes para España
 - Fecha: 17 jul 2026
@@ -2493,6 +2938,33 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Tribunal Constitucional: nota informativa 89/2026](https://www.tribunalconstitucional.es/NotasDePrensaDocumentos/NP_2026_089/NOTA%20INFORMATIVA%20N%C2%BA%2089-2026.pdf)
   - [elDiario.es: el TC enmienda a la Mesa (sep 2026)](https://www.eldiario.es/aragon/politica/constitucional-enmienda-mesa-cortes-aragon-vetar-pregunta-inmigracion-nolasco-vox_1_13543933.html)
 
+### Begoña Gómez, esposa del presidente del Gobierno, enviada a juicio con jurado; la Fiscalía pide su absolución
+- Fecha: 2024 – 2026
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Investigación judicial
+- Resumen: En septiembre de 2026 el juez Juan Carlos Peinado abrió juicio oral con jurado contra Begoña Gómez, esposa de Pedro Sánchez, por tráfico de influencias y malversación, y contra su asesora en Moncloa Cristina Álvarez por malversación. Lo juzgará la Audiencia Provincial de Madrid.
+- Matiz: Solo acusa la acusación popular encabezada por HazteOír, que pide 13 años para Gómez y 6 para Álvarez. La Fiscalía y las defensas piden la absolución. No hay sentencia: rige la presunción de inocencia. En esta ficha el PSOE figura como partido afectado: Gómez no es cargo público ni del partido.
+- Fuentes:
+  - [Infobae: el juez la envía a juicio con jurado (sep 2026)](https://www.infobae.com/espana/2026/09/21/el-juez-peinado-envia-a-begona-gomez-a-juicio-ante-un-jurado-popular-en-la-audiencia-provincial-de-madrid-por-malversacion-y-trafico-de-influencias/)
+  - [The Objective](https://theobjective.com/espana/tribunales/2026-09-21/juez-peinado-jurado-begona-gomez-asesora/)
+
+### Caso Púnica: primeras sentencias contra Granados y exalcaldes, una firme, y dos juicios más abiertos
+- Fecha: 2014 – 2026
+- Partidos: PP, PSOE
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: Doce años después de la operación, la trama Púnica empieza a tener sentencias. Firme: en septiembre de 2026 el Supremo confirmó 8 años y medio de inhabilitación al expresidente de la Diputación de León Marcos Martínez Barazón (PP) por prevaricación en contratos de reputación en internet. Recurribles: la Audiencia Nacional condenó en diciembre de 2025 a 29 personas por la pieza Cofely, entre ellas cinco exalcaldes del PP, el exalcalde de Parla José María Fraile (PSOE) y el empresario David Marjaliza; en septiembre de 2025, al exconsejero murciano Juan Carlos Ruiz (PP) a 4 años por un contrato de 30.000 euros; y en julio de 2026, al exconsejero madrileño Francisco Granados a dos años y medio por la pieza Waiter Music. Pendientes de juicio: la caja B del PP de Madrid (juicio oral abierto en 2024) y la pieza de Arpegio y Metro (abierto en mayo de 2026, con Granados y otros 40 acusados).
+- Matiz: Salvo la de León, las condenas se pueden recurrir y rige la presunción de inocencia. Esperanza Aguirre quedó fuera del juicio de la caja B. En Cofely hubo también absoluciones de exalcaldes del PP.
+- Fuentes:
+  - [ileon (elDiario.es): el Supremo confirma la condena de León (sep 2026)](https://ileon.eldiario.es/politica/supremo-confirma-ocho-anos-medio-inhabilitacion-expresidente-diputacion-leon-trama-punica_1_13534860.html)
+  - [Infobae: la sentencia de Cofely (dic 2025)](https://www.infobae.com/espana/2025/12/22/la-audiencia-nacional-dicta-sentencia-contra-29-personas-en-el-mayor-pelotazo-de-la-trama-punica-condena-a-cinco-exalcaldes-del-pp-uno-del-psoe-y-otro-de-un-partido-local/)
+  - [Infobae (Europa Press): la rama murciana (sep 2025)](https://www.infobae.com/espana/agencias/2025/09/08/la-audiencia-nacional-impone-hasta-cuatro-anos-de-carcel-a-la-trama-murciana-de-la-operacion-punica/)
+  - [Telemadrid: Granados, Waiter Music (jul 2026)](https://www.telemadrid.es/noticias/madrid/La-Audiencia-Nacional-condena-a-Francisco-Granados-a-dos-anos-y-medio-de-prision-por-Punica-0-2903409657--20260702054936.html)
+  - [elDiario.es: juicio por la caja B del PP de Madrid (2024)](https://www.eldiario.es/politica/audiencia-nacional-lleva-juicio-mano-derecha-esperanza-aguirre-caja-b-pp-madrid_1_11260696.html)
+  - [Infobae (EFE): juicio de la pieza de Arpegio (may 2026)](https://www.infobae.com/espana/agencias/2026/05/26/la-audiencia-nacional-abre-un-nuevo-juicio-contra-granados-y-otros-40-acusados-en-punica/)
+
 ### Navarra: la vivienda protegida cubre el 3% de la demanda, según la Cámara de Comptos
 - Fecha: 2023 – sep 2026
 - Partidos: PSOE, Otros, Podemos/UP
@@ -2504,6 +2976,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es: el informe de Comptos (sep 2026)](https://www.eldiario.es/navarra/informe-tribunal-cuentas-navarro-apunta-oferta-vpo-alcanza-3-demanda_1_13538031.html)
   - [COPE Navarra (sep 2026)](https://www.cope.es/emisoras/navarra/noticias/oferta-vivienda-protegida-navarra-cubre-3-demanda-evidentemente-ese-derecho-constitucional-no-cumpliendo-20260928_3444919.html)
+
+### Caso Mediador: juicio oral contra el exdiputado del PSOE Juan Bernardo Fuentes Curbelo y otros 13 acusados
+- Fecha: 2020 – 2026
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Canarias
+- Nivel de prueba: Investigación judicial
+- Resumen: En septiembre de 2026 la jueza abrió juicio oral contra 14 acusados del caso Mediador, una trama de sobornos a empresarios a cambio de favores ante administraciones de Canarias. Entre ellos está el exdiputado socialista Juan Bernardo Fuentes Curbelo, para quien la Fiscalía pide 8 años, y su sobrino, exdirector general de Ganadería del Gobierno canario.
+- Matiz: No hay sentencia: rige la presunción de inocencia. En el Congreso, PSOE y sus socios frenaron la comisión de investigación que pedía el PP (ficha aparte).
+- Fuentes:
+  - [Infobae (agencias): se abre juicio oral (sep 2026)](https://www.infobae.com/espana/agencias/2026/09/25/abren-juicio-oral-a-tito-berni-su-sobrino-y-mas-de-una-decena-de-personas-por-los-sobornos-del-caso-mediador/)
+  - [El Confidencial Digital](https://www.elconfidencialdigital.com/articulo/pleitos/caso-mediador-llega-juicio-14-acusados-seis-delitos/202609302151281489649.html)
 
 ### El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a su socio privado Emesa
 - Fecha: 2017 – 2025
