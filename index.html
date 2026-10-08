@@ -349,12 +349,15 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
 
   <!-- ===== Programas ===== -->
   <section class="panel" id="panel-programas" role="tabpanel" aria-labelledby="tab-programas" hidden>
-    <p class="lede">Lo que te prometieron y lo que hicieron. Cada partido se evalúa donde gobernó, porque solo quien gobierna puede cumplir, y en las mismas cinco áreas para todos: vivienda, sanidad, educación, pensiones y dependencia, e impuestos. En cada una ves la promesa, la norma o el dato oficial que dice si se cumplió y, en impuestos, a quién beneficia según los datos oficiales.</p>
+    <p class="lede">Lo que te prometieron y lo que hicieron. Cada partido se evalúa donde gobernó, porque solo quien gobierna puede cumplir, y en las mismas cinco áreas para todos: vivienda, sanidad, educación, pensiones y dependencia, e impuestos. En cada una ves la promesa, con la cita literal y la página, y la norma o el dato oficial que dice si se cumplió.</p>
     <details class="fold">
       <summary>Cómo se han elegido y evaluado</summary>
       <div class="in">
-        <p>Las promesas no las elige esta página: en cada área es la primera medida concreta del capítulo correspondiente, en el orden en que la presenta el propio partido. Si un programa no tiene promesa en un área, lo verás indicado. Se evalúan con el BOE, los boletines autonómicos, los presupuestos o los datos oficiales.</p>
-        <p><strong>Cumplida</strong>: se aprobó lo prometido. <strong>A medias</strong>: se aprobó una parte o algo menor de lo prometido. <strong>No cumplida</strong>: no se aprobó. <strong>En trámite</strong>: estaba en marcha cuando se disolvió el parlamento. <strong>En curso</strong>: la legislatura no ha terminado, así que se cuenta lo hecho hasta ahora sin veredicto final. En cada promesa ves si el partido gobernaba solo o en coalición y si dependía de otros.</p>
+        <p>Las promesas no las elige esta página: en cada área es la primera medida comprobable (una acción concreta o una meta con número) del capítulo correspondiente, en el orden en que la presenta el propio partido. Si el capítulo empieza con una lista de compromisos, se usa esa lista primero. Se saltan las declaraciones generales («apostaremos por…»), continuar algo que ya existía sin una meta medible y lo que se exige a otra administración («exigiremos al Gobierno…»), porque no son medidas propias; en cada promesa se dice qué se ha saltado. Si un programa no tiene promesa en un área, lo verás indicado. Se evalúan con el BOE, los boletines autonómicos, los presupuestos o los datos oficiales.</p>
+        <p>Solo se cuenta lo hecho mientras ese partido gobernaba. Una promesa cumplida fuera del plazo que fijaba el propio programa cuenta como «a medias».</p>
+        <p><strong>Vox</strong> no ha gobernado en España. Entre 2022 y 2024 gobernó en coalición con el PP en Castilla y León, la Comunitat Valenciana, Aragón, Extremadura y Murcia, hasta que salió de esos gobiernos el 11 de julio de 2024. Por eso se evalúan los cinco acuerdos de gobierno que firmó, no su programa electoral, y solo con lo hecho mientras estuvo dentro.</p>
+        <p>Esta pestaña mide promesas de vivienda, sanidad, educación, pensiones e impuestos. Los casos de corrupción y financiación están en la pestaña Registro.</p>
+        <p><strong>Cumplida</strong>: se aprobó lo prometido. <strong>A medias</strong>: se aprobó una parte o algo menor de lo prometido. <strong>No cumplida</strong>: no se aprobó. <strong>En trámite</strong>: estaba en marcha cuando se disolvió el parlamento. <strong>En curso</strong>: la legislatura no ha terminado, así que se cuenta lo hecho hasta ahora sin veredicto final. <strong>Sin promesa</strong>: el programa o el acuerdo no tiene una medida comprobable en esa área. En cada promesa ves si el partido gobernaba solo o en coalición y si dependía de otros.</p>
       </div>
     </details>
     <div class="mx" style="max-height:none;margin:0 0 32px"><table class="serie" id="progResumen"></table></div>
@@ -777,10 +780,10 @@ if(BUL.length){
 const PROGV={cumplida:["Cumplida",1],medias:["A medias",2],no:["No cumplida",1],tramite:["En trámite",3],curso:["En curso",3],sin:["Sin promesa",3]};
 if(PROG.length){
   $("tab-programas").hidden=false;$("n-programas").textContent=PROG.length;
-  const clave=e=>e.p+" · "+e.ambito;
+  const clave=e=>e.p+" · "+e.ambito+" · "+(e.programa.match(/\d{4}/)||[""])[0];
   const grupos=[...new Set(PROG.map(clave))];
-  $("progResumen").innerHTML='<thead><tr><th scope="col">Partido · dónde gobernó</th><th scope="col">Programa</th>'+Object.values(PROGV).map(v=>'<th scope="col">'+v[0]+'</th>').join("")+'</tr></thead><tbody>'+
-    grupos.map(g=>{const r=PROG.filter(e=>clave(e)===g);return '<tr><td>'+esc(g)+'</td><td>'+esc([...new Set(r.map(e=>e.programa))].join(", "))+'</td>'+Object.keys(PROGV).map(k=>'<td>'+r.filter(e=>e.veredicto===k).length+'</td>').join("")+'</tr>'}).join("")+'</tbody>';
+  $("progResumen").innerHTML='<thead><tr><th scope="col">Partido · dónde gobernó · año del programa</th>'+Object.values(PROGV).map(v=>'<th scope="col">'+v[0]+'</th>').join("")+'</tr></thead><tbody>'+
+    grupos.map(g=>{const r=PROG.filter(e=>clave(e)===g);return '<tr><td title="'+esc(r[0].programa)+'">'+esc(g)+'</td>'+Object.keys(PROGV).map(k=>'<td>'+r.filter(e=>e.veredicto===k).length+'</td>').join("")+'</tr>'}).join("")+'</tbody>';
   grupos.forEach(g=>{const o=document.createElement("option");o.value=g;o.textContent=g;$("progPar").appendChild(o)});
   var renderProg=function(){
     const sel=$("progPar").value;const rows=PROG.map((e,i)=>[e,i]).filter(([e])=>!sel||clave(e)===sel);

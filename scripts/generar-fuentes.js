@@ -142,5 +142,24 @@ ${fuentes(h.src)}
   }
 }
 
+const programas = opcional("programas.json");
+const VEREDICTO = { cumplida: "Cumplida", medias: "A medias", no: "No cumplida", tramite: "En trámite", curso: "En curso", sin: "Sin promesa" };
+if (programas.length) {
+  o += `## Programas (${programas.length} promesas)
+
+`;
+  for (const e of programas) {
+    o += `### ${e.p} · ${e.ambito} · ${e.area}: ${e.programa}
+- Promesa: ${e.promesa}${e.cita ? `\n- Cita: «${e.cita}»` : ""}
+- Quién gobernaba: ${e.gobierno}
+- Qué se hizo: ${e.hecho}
+- Veredicto: ${VEREDICTO[e.veredicto]}. ${e.explicacion}
+- Fuentes:
+${fuentes(e.src)}
+
+`;
+  }
+}
+
 fs.writeFileSync(path.join(raiz, "FUENTES.md"), o);
-console.log(`FUENTES.md: ${fichas.length} fichas, ${votaciones.length} votaciones, ${iniciativas.length} iniciativas, ${mayorias.length} normas de mayorías absolutas, ${bulos.length} bulos, ${huelgas.length} huelgas`);
+console.log(`FUENTES.md: ${fichas.length} fichas, ${votaciones.length} votaciones, ${iniciativas.length} iniciativas, ${mayorias.length} normas de mayorías absolutas, ${bulos.length} bulos, ${huelgas.length} huelgas, ${programas.length} promesas`);
