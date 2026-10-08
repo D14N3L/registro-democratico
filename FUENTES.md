@@ -10593,15 +10593,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Diario en Positivo: unas 10.000 personas vuelven a salir en Madrid](https://www.diarioenpositivo.com/solidaridad/amp-10000-personas-vuelven-recorrer-madrid-defensa-sanidad-publica-desmantelamiento-pp/20260531145036082833.html)
 
 ### Huelga contra la concertación del Bachillerato (Aragón)
-- Fecha: may 2026 · Sector: Educación
+- Fecha: 19-20 may 2026 · Sector: Educación
 - Convocan: CSIF, CGT, CCOO, STEA, UGT y ANPE
 - Qué pedían: No concertar el Bachillerato y más inversión en la pública
-- Cifra oficial: Sin cifra oficial en las fuentes leídas.
-- Según quien convoca: Sin cifra en las fuentes leídas.
-- Quién gobernaba: Azcón (PP). Competencia autonómica.
+- Cifra oficial: Departamento de Educación: 25,61% del personal docente el 19 de mayo.
+- Según quien convoca: Sindicatos: 40% el 19 de mayo, según sus primeros datos.
+- Quién gobernaba: Azcón (PP y Vox; Vox volvió al Gobierno el 4 de mayo de 2026). Competencia autonómica.
 - En qué acabó: Sin acuerdo conocido.
 - Fuentes:
   - [Público: la revuelta de la escuela pública en Aragón](https://www.publico.es/sociedad/educacion/revuelta-escuela-publica-suma-aragon-protestas-batalla-clase-trabajadora.html)
+  - [El Español de Aragón: el seguimiento de la huelga según la DGA y los sindicatos](https://www.elespanol.com/aragon/actualidad/20260519/huelga-educativa-concertacion-bachillerato-aragon-injusto-dinero-va-dar/1003744251068_0.html)
 
 ### Huelga indefinida docente (Comunitat Valenciana)
 - Fecha: may-jun 2026 · Sector: Educación
@@ -10826,12 +10827,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 5 abr 2025 · Sector: Vivienda
 - Convocan: Sindicatos de Inquilinas, PAH y asociaciones vecinales, con apoyo de CCOO y UGT
 - Qué pedían: Bajar los alquileres, recuperar viviendas vacías y prohibir desahucios sin alternativa
-- Cifra oficial: Delegación del Gobierno: 15.000 en Madrid; autoridades municipales: 12.000 en Barcelona.
+- Cifra oficial: Delegación del Gobierno: 15.000 en Madrid; Guardia Urbana: 12.000 en Barcelona.
 - Según quien convoca: Convocantes: entre 100.000 y 150.000 en Madrid y 100.000 en Barcelona.
 - Quién gobernaba: Estado: Sánchez. Las comunidades tienen la competencia de vivienda.
 - En qué acabó: Movilización.
 - Fuentes:
   - [El Español: miles de personas por la vivienda en toda España](https://www.elespanol.com/espana/20250405/miles-personas-salen-calle-toda-espana-carestia-vivienda-ciudad-habita/1003743701113_0.html)
+  - [RTVE: primera manifestación estatal por la vivienda en 40 ciudades](https://www.rtve.es/noticias/20250405/primera-manifestacion-estatal-vivienda-digna-40-ciudades/16522513.shtml)
 
 ### Huelgas en la educación pública vasca (País Vasco)
 - Fecha: mar-abr 2025 · Sector: Educación
@@ -10903,6 +10905,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - En qué acabó: Movilización.
 - Fuentes:
   - [El Español: la manifestación por los alquileres](https://www.elespanol.com/invertia/observatorios/vivienda/20241013/manifestacion-alquileres-directo-sindicato-inquilinas-llama-movilizacion-alienta-huelga/893260667_10.html)
+  - [El Periódico de España: miles de llaves en el centro de Madrid](https://www.epe.es/es/madrid/20241013/ruido-miles-llaves-llena-madrid-protestar-crisis-vivienda-109263783)
 
 ### Huelga del profesorado (Castilla-La Mancha)
 - Fecha: 11 sep 2024 · Sector: Educación
@@ -11031,9 +11034,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cifra oficial: Sin cifra en las fuentes leídas.
 - Según quien convoca: Sin cifra en las fuentes leídas.
 - Quién gobernaba: Chivite (PSN, Geroa Bai y Podemos). Competencia autonómica.
-- En qué acabó: Acuerdo: 400 € más al mes y un máximo de 32 pacientes al día.
+- En qué acabó: Acuerdo: 400 € más al mes y un máximo de 32 pacientes al día. Se mantuvo la exclusividad, que impide ejercer en la privada y que el sindicato pedía eliminar.
 - Fuentes:
   - [elDiario.es: acuerdo para suspender la huelga](https://www.eldiario.es/navarra/gobierno-navarra-llega-auerdo-sindicato-medico-suspender-huelga_1_9963180.html)
+  - [RTVE: Navarra y el sindicato médico cierran un preacuerdo](https://www.rtve.es/noticias/20230217/navarra-sindicato-medico-cierran-preacuerdo/2425663.shtml)
+  - [Noticias de Navarra: así es el acuerdo](https://www.noticiasdenavarra.com/sociedad/2023/02/17/gobierno-facilita-mesa-general-acuerdo-6458283.html)
 
 ### Huelga de médicos (Cataluña)
 - Fecha: ene 2023 · Sector: Sanidad
@@ -11111,12 +11116,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 20 oct 2019 · Sector: Sanidad
 - Convocan: Justicia por la Sanidad (Jesús Candel, «Spiriman»)
 - Qué pedían: Frenar el deterioro de la sanidad pública; algunas pancartas pedían la dimisión del consejero Jesús Aguirre
-- Cifra oficial: Fuentes policiales: 6.500 personas.
-- Según quien convoca: Más de 10.000.
+- Cifra oficial: Policía Nacional: 6.500 personas.
+- Según quien convoca: Más de 10.000 (elDiario.es) o 20.000 (ABC).
 - Quién gobernaba: Junta del PP con Cs (Moreno), a los diez meses de gobierno. Competencia autonómica.
 - En qué acabó: Sin medida concreta.
 - Fuentes:
   - [elDiario.es: Spiriman reactiva las protestas en Granada](https://www.eldiario.es/andalucia/granada/spiriman-reaparece-granada-manifestacion-multitudinaria_1_1300234.html)
+  - [ABC: Spiriman vuelve a manifestarse en Granada](https://www.abc.es/espana/andalucia/granada/sevi-spiriman-vuelve-manifestarse-granada-contra-corrupcion-politica-sanitaria-y-judicial-201910201658_noticia.html)
 
 ### Huelga general tras la sentencia del procés (Cataluña)
 - Fecha: 18 oct 2019 · Sector: General

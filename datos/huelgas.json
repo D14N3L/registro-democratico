@@ -214,14 +214,18 @@
   "t": "Manifestación por la sanidad pública en Granada",
   "convoca": "Justicia por la Sanidad (Jesús Candel, «Spiriman»)",
   "piden": "Frenar el deterioro de la sanidad pública; algunas pancartas pedían la dimisión del consejero Jesús Aguirre",
-  "oficial": "Fuentes policiales: 6.500 personas.",
-  "segconv": "Más de 10.000.",
+  "oficial": "Policía Nacional: 6.500 personas.",
+  "segconv": "Más de 10.000 (elDiario.es) o 20.000 (ABC).",
   "gobierno": "Junta del PP con Cs (Moreno), a los diez meses de gobierno. Competencia autonómica.",
   "final": "Sin medida concreta.",
   "src": [
    [
     "elDiario.es: Spiriman reactiva las protestas en Granada",
     "https://www.eldiario.es/andalucia/granada/spiriman-reaparece-granada-manifestacion-multitudinaria_1_1300234.html"
+   ],
+   [
+    "ABC: Spiriman vuelve a manifestarse en Granada",
+    "https://www.abc.es/espana/andalucia/granada/sevi-spiriman-vuelve-manifestarse-granada-contra-corrupcion-politica-sanitaria-y-judicial-201910201658_noticia.html"
    ]
   ]
  },
@@ -374,11 +378,19 @@
   "oficial": "Sin cifra en las fuentes leídas.",
   "segconv": "Sin cifra en las fuentes leídas.",
   "gobierno": "Chivite (PSN, Geroa Bai y Podemos). Competencia autonómica.",
-  "final": "Acuerdo: 400 € más al mes y un máximo de 32 pacientes al día.",
+  "final": "Acuerdo: 400 € más al mes y un máximo de 32 pacientes al día. Se mantuvo la exclusividad, que impide ejercer en la privada y que el sindicato pedía eliminar.",
   "src": [
    [
     "elDiario.es: acuerdo para suspender la huelga",
     "https://www.eldiario.es/navarra/gobierno-navarra-llega-auerdo-sindicato-medico-suspender-huelga_1_9963180.html"
+   ],
+   [
+    "RTVE: Navarra y el sindicato médico cierran un preacuerdo",
+    "https://www.rtve.es/noticias/20230217/navarra-sindicato-medico-cierran-preacuerdo/2425663.shtml"
+   ],
+   [
+    "Noticias de Navarra: así es el acuerdo",
+    "https://www.noticiasdenavarra.com/sociedad/2023/02/17/gobierno-facilita-mesa-general-acuerdo-6458283.html"
    ]
   ]
  },
@@ -628,6 +640,10 @@
    [
     "El Español: la manifestación por los alquileres",
     "https://www.elespanol.com/invertia/observatorios/vivienda/20241013/manifestacion-alquileres-directo-sindicato-inquilinas-llama-movilizacion-alienta-huelga/893260667_10.html"
+   ],
+   [
+    "El Periódico de España: miles de llaves en el centro de Madrid",
+    "https://www.epe.es/es/madrid/20241013/ruido-miles-llaves-llena-madrid-protestar-crisis-vivienda-109263783"
    ]
   ]
  },
@@ -754,7 +770,7 @@
   "t": "Manifestaciones por la vivienda",
   "convoca": "Sindicatos de Inquilinas, PAH y asociaciones vecinales, con apoyo de CCOO y UGT",
   "piden": "Bajar los alquileres, recuperar viviendas vacías y prohibir desahucios sin alternativa",
-  "oficial": "Delegación del Gobierno: 15.000 en Madrid; autoridades municipales: 12.000 en Barcelona.",
+  "oficial": "Delegación del Gobierno: 15.000 en Madrid; Guardia Urbana: 12.000 en Barcelona.",
   "segconv": "Convocantes: entre 100.000 y 150.000 en Madrid y 100.000 en Barcelona.",
   "gobierno": "Estado: Sánchez. Las comunidades tienen la competencia de vivienda.",
   "final": "Movilización.",
@@ -762,6 +778,10 @@
    [
     "El Español: miles de personas por la vivienda en toda España",
     "https://www.elespanol.com/espana/20250405/miles-personas-salen-calle-toda-espana-carestia-vivienda-ciudad-habita/1003743701113_0.html"
+   ],
+   [
+    "RTVE: primera manifestación estatal por la vivienda en 40 ciudades",
+    "https://www.rtve.es/noticias/20250405/primera-manifestacion-estatal-vivienda-digna-40-ciudades/16522513.shtml"
    ]
   ]
  },
@@ -1193,20 +1213,24 @@
  },
  {
   "d": "2026-05-19",
-  "dl": "may 2026",
+  "dl": "19-20 may 2026",
   "sector": "Educación",
   "ambito": "Aragón",
   "t": "Huelga contra la concertación del Bachillerato",
   "convoca": "CSIF, CGT, CCOO, STEA, UGT y ANPE",
   "piden": "No concertar el Bachillerato y más inversión en la pública",
-  "oficial": "Sin cifra oficial en las fuentes leídas.",
-  "segconv": "Sin cifra en las fuentes leídas.",
-  "gobierno": "Azcón (PP). Competencia autonómica.",
+  "oficial": "Departamento de Educación: 25,61% del personal docente el 19 de mayo.",
+  "segconv": "Sindicatos: 40% el 19 de mayo, según sus primeros datos.",
+  "gobierno": "Azcón (PP y Vox; Vox volvió al Gobierno el 4 de mayo de 2026). Competencia autonómica.",
   "final": "Sin acuerdo conocido.",
   "src": [
    [
     "Público: la revuelta de la escuela pública en Aragón",
     "https://www.publico.es/sociedad/educacion/revuelta-escuela-publica-suma-aragon-protestas-batalla-clase-trabajadora.html"
+   ],
+   [
+    "El Español de Aragón: el seguimiento de la huelga según la DGA y los sindicatos",
+    "https://www.elespanol.com/aragon/actualidad/20260519/huelga-educativa-concertacion-bachillerato-aragon-injusto-dinero-va-dar/1003744251068_0.html"
    ]
   ]
  },
