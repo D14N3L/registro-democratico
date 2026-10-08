@@ -145,6 +145,11 @@ table.serie{border-collapse:collapse;width:100%;font-size:13px;font-variant-nume
 
 /* ---------- Plegables de texto ---------- */
 .fold{border-top:1px solid var(--line);border-bottom:1px solid var(--line);margin:0 0 32px}
+.fold+.fold{margin-top:-33px}
+table.comp{border-collapse:collapse;width:100%;font-size:14px;line-height:1.45}
+.comp th,.comp td{text-align:left;vertical-align:top;padding:10px 12px 10px 0;border-bottom:1px solid var(--line)}
+.comp thead th{font-family:var(--m);font-size:11px;font-weight:400;color:var(--muted)}
+.comp tbody th{font-weight:500;white-space:nowrap}
 .fold>summary{list-style:none;cursor:pointer;padding:14px 0;font-weight:500;display:flex;justify-content:space-between}
 .fold>summary::-webkit-details-marker{display:none}
 .fold>summary::after{content:"+";font-family:var(--m);color:var(--muted)}
@@ -217,6 +222,7 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
           <dt>Gestión pública y derechos</dt><dd>Cómo se cumple la parte «social». Son decisiones políticas que puedes criticar, no hechos antidemocráticos.</dd>
         </dl>
         <p>Abarca de 2016 a 2026: los gobiernos de Rajoy y de Sánchez y los de todas las comunidades. Cada hecho se atribuye a quien gobernaba en esa fecha. No vas a encontrar rankings ni conclusiones: esas las sacas tú.</p>
+        <p>Para saber a quién pedirle cuentas de cada cosa, mira <a href="#competencias">quién es responsable de qué</a>: qué decide el Estado y qué gestionan las comunidades.</p>
         <p><strong>Cómo leer el nivel de prueba.</strong> En negro va lo más sólido: sentencia firme y Tribunal Constitucional. En gris, lo que dice un organismo oficial o una resolución judicial que todavía se puede recurrir. En gris claro, las investigaciones judiciales abiertas, donde rige la presunción de inocencia, y lo documentado en medios o en votaciones.</p>
       </div>
     </details>
@@ -387,7 +393,25 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
     <div class="sel" style="padding-top:0">
       <select id="pilarSel" aria-label="Tema"></select>
     </div>
-    <details class="fold" style="margin-top:24px">
+    <details class="fold" id="competencias" style="margin-top:24px">
+      <summary>¿Quién es responsable de qué?</summary>
+      <div class="in" style="max-width:none">
+        <p class="muted">Antes de mirar un dato, conviene saber quién decide sobre él. La Constitución reparte las competencias entre el Estado y las comunidades autónomas: en muchos temas son compartidas, porque el Estado fija las bases y parte de la financiación y la comunidad gestiona el servicio. Esta tabla no culpa a nadie: dice quién tiene cada competencia.</p>
+        <div class="tw"><table class="comp">
+          <thead><tr><th scope="col">Tema</th><th scope="col">Estado</th><th scope="col">Comunidades autónomas</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">Sanidad</th><td>Bases y coordinación general de la sanidad, sanidad exterior y medicamentos (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a149" target="_blank" rel="noopener">art. 149.1.16.ª</a>)</td><td>Sanidad e higiene (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a148" target="_blank" rel="noopener">art. 148.1.21.ª</a>): gestionan los hospitales, los centros de salud, las plantillas y las listas de espera</td></tr>
+            <tr><th scope="row">Educación</th><td>Títulos académicos y normas básicas del derecho a la educación (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a149" target="_blank" rel="noopener">art. 149.1.30.ª</a>), como la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2020-17264" target="_blank" rel="noopener">LOMLOE</a></td><td>Gestionan los colegios e institutos públicos, el profesorado y los conciertos con la concertada, según sus estatutos</td></tr>
+            <tr><th scope="row">Vivienda</th><td>Legislación civil, como la del alquiler (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a149" target="_blank" rel="noopener">art. 149.1.8.ª</a>), y bases de la actividad económica (149.1.13.ª): <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2023-12203" target="_blank" rel="noopener">ley de vivienda</a> y planes estatales</td><td>Ordenación del territorio, urbanismo y vivienda (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a148" target="_blank" rel="noopener">art. 148.1.3.ª</a>): suelo, vivienda pública y declarar zonas tensionadas</td></tr>
+            <tr><th scope="row">Residencias y dependencia</th><td>Condiciones básicas de igualdad (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a149" target="_blank" rel="noopener">art. 149.1.1.ª</a>): la <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2006-21990" target="_blank" rel="noopener">ley de dependencia</a> y su nivel mínimo de financiación</td><td>Asistencia social (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a148" target="_blank" rel="noopener">art. 148.1.20.ª</a>): gestionan las residencias públicas y concertadas y las listas de espera de la dependencia</td></tr>
+            <tr><th scope="row">Pensiones</th><td>Legislación básica y régimen económico de la Seguridad Social (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a149" target="_blank" rel="noopener">art. 149.1.17.ª</a>): las pensiones contributivas y su subida</td><td>—</td></tr>
+            <tr><th scope="row">Empleo</th><td>Legislación laboral (<a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a149" target="_blank" rel="noopener">art. 149.1.7.ª</a>)</td><td>La ejecutan: oficinas y políticas de empleo</td></tr>
+          </tbody>
+        </table></div>
+        <p class="muted">Una excepción: durante el estado de alarma de 2020, el Gobierno actuó como autoridad competente y dictó órdenes para servicios que gestionan las comunidades, como la <a href="https://www.boe.es/buscar/doc.php?id=BOE-A-2020-3951" target="_blank" rel="noopener">Orden SND/265/2020</a>, de 19 de marzo, sobre las residencias de mayores; la gestión siguió siendo de las comunidades. Lo que dice cada estatuto de autonomía puede variar en detalle de una comunidad a otra.</p>
+      </div>
+    </details>
+    <details class="fold">
       <summary>Quién gobernaba cada comunidad</summary>
       <div class="in" style="max-width:none">
         <p class="muted">Son los partidos con consejeros en cada gobierno autonómico a 31 de diciembre de cada año (en 2026, a día de hoy). En las tablas de abajo, si pasas el ratón por encima de un dato, verás quién gobernaba ese año. Fuente: reales decretos de nombramiento (BOE) y dosieres del Senado.</p>
@@ -396,7 +420,7 @@ footer button{font:inherit;color:var(--muted);background:none;border:0;cursor:po
     </details>
     <div id="hueBlock" hidden>
       <h3>Huelgas y movilizaciones, una a una</h3>
-      <p class="mide">Las grandes huelgas y manifestaciones de sanidad, educación, vivienda y pensiones, y las huelgas generales. En cada una tienes por separado la cifra oficial y la de quien convocó, porque casi nunca coinciden, y quién gobernaba o tenía la competencia. Solo entran las que ya se han celebrado o se desconvocaron con un acuerdo. Debajo tienes las series oficiales de huelgas.</p>
+      <p class="mide">Las grandes huelgas y manifestaciones de sanidad, educación, vivienda y pensiones, y las huelgas generales. En cada una tienes por separado la cifra oficial y la de quien convocó, porque casi nunca coinciden, y quién gobernaba o tenía la competencia. Solo entran las que ya se han celebrado o se desconvocaron con un acuerdo. Las manifestaciones por la sanidad o la educación públicas entran si tienen una cifra oficial de al menos 5.000 personas, en cualquier comunidad. Debajo tienes las series oficiales de huelgas.</p>
       <div class="sel"><select id="hueSector" aria-label="Sector"><option value="">Todos los sectores</option></select><select id="hueAmb" aria-label="Territorio"><option value="">Todos los territorios</option></select></div>
       <div class="bar"><span class="mono muted" id="hueStatus" aria-live="polite"></span><span><button type="button" id="hueOpenAll">Abrir todas</button></span></div>
       <div id="hueList"></div>
@@ -826,7 +850,11 @@ document.querySelector('[role="tablist"]').addEventListener("keydown",ev=>{
   const ks=Object.keys(TABS).sort((a,b)=>orden.indexOf(TABS[a][0])-orden.indexOf(TABS[b][0])),cur=ks.findIndex(k=>$(TABS[k][0]).getAttribute("aria-selected")==="true");
   const nx=ks[(cur+(ev.key==="ArrowRight"?1:ks.length-1))%ks.length];showTab(nx,true);$(TABS[nx][0]).focus();
 });
-const fromHash={"#votaciones":"votaciones","#mayorias":"mayorias","#bulos":"bulos","#programas":"programas","#iniciativas":"ilp","#bienestar":"bienestar"}[location.hash];
+const fromHash={"#votaciones":"votaciones","#mayorias":"mayorias","#bulos":"bulos","#programas":"programas","#iniciativas":"ilp","#bienestar":"bienestar","#competencias":"bienestar"}[location.hash];
 showTab(fromHash&&TABS[fromHash]?fromHash:"registro",false);
+// Enlace directo al bloque de competencias: abre la pestaña y lo despliega.
+function abrirCompetencias(){const c=$("competencias");if(!c)return;showTab("bienestar",false);c.open=true;c.scrollIntoView({block:"start"})}
+if(location.hash==="#competencias")abrirCompetencias();
+document.addEventListener("click",ev=>{const a=ev.target.closest('a[href="#competencias"]');if(!a)return;ev.preventDefault();history.replaceState(null,"","#competencias");abrirCompetencias()});
 }
 </script>
