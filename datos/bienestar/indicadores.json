@@ -365,7 +365,7 @@
   "serie": "eurostat_gasto_pensiones_es_ue.json",
   "claves": {"España": "total.España", "UE-27": "total.UE-27"},
   "mide": "Lo que gasta el país en pensiones (jubilación, viudedad e incapacidad) en relación con lo que produce, frente a la media de la Unión Europea.",
-  "aviso": "Definición de Eurostat, que incluye pensiones públicas de todo tipo y no coincide con el gasto de la Seguridad Social. El salto de 2020 se debe sobre todo a la caída del PIB por la pandemia."
+  "aviso": "Definición de Eurostat, que incluye pensiones públicas de todo tipo y no coincide con el gasto de la Seguridad Social. El salto de 2020 se debe sobre todo a la caída del PIB por la pandemia. El dato de la UE de 2024 es provisional."
  },
  {
   "id": "hue_jornadas",

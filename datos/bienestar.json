@@ -7312,10 +7312,10 @@
    "nombre": "Gasto en pensiones",
    "unidad": "% del PIB",
    "mide": "Lo que gasta el país en pensiones (jubilación, viudedad e incapacidad) en relación con lo que produce, frente a la media de la Unión Europea.",
-   "aviso": "Definición de Eurostat, que incluye pensiones públicas de todo tipo y no coincide con el gasto de la Seguridad Social. El salto de 2020 se debe sobre todo a la caída del PIB por la pandemia.",
-   "fuente": "Eurostat, spr_exp_pens. API de difusión de Eurostat, dataset actualizado 2026-10-06T23:00:00+0200",
+   "aviso": "Definición de Eurostat, que incluye pensiones públicas de todo tipo y no coincide con el gasto de la Seguridad Social. El salto de 2020 se debe sobre todo a la caída del PIB por la pandemia. El dato de la UE de 2024 es provisional.",
+   "fuente": "Eurostat, spr_exp_pens. API de difusión de Eurostat, dataset actualizado 2026-10-07T23:00:00+0200",
    "url": "https://ec.europa.eu/eurostat/databrowser/view/spr_exp_pens/default/table",
-   "consulta": "2026-10-07",
+   "consulta": "2026-10-08",
    "periodos": [
     "2016",
     "2017",
@@ -7353,7 +7353,7 @@
       12.78,
       12.22,
       12.31,
-      null
+      12.62
      ]
     }
    ]

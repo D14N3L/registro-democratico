@@ -2452,8 +2452,8 @@
   "ley": "Ley 4/2024, de 27 de diciembre, de presupuestos generales para 2025",
   "tema": "Presupuestos y hacienda",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos.",
+  "ap": "solo",
+  "voto": "Pleno del 17-12-2024. Texto articulado: a favor, PP; en contra, BNG y PSdeG; abstención del Grupo Mixto (Democracia Ourensana). En la votación conjunta de los presupuestos de las secciones, toda la oposición votó en contra (Galiciapress y El Español).",
   "s": "Presupuesto consolidado de 15.741 millones de euros.",
   "rec": "",
   "n": "No se han localizado crónicas del debate con los argumentos de cada grupo.",
@@ -2461,6 +2461,14 @@
    [
     "BOE: Ley 4/2024",
     "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-2144"
+   ],
+   [
+    "Galiciapress: los presupuestos de 2025, aprobados sin ninguna enmienda",
+    "https://www.galiciapress.es/articulo/ultima-hora/2024-12-17/5110503-presupuestos-xunta-2025-aprobados-ninguna-enmiendas-llegaron-ultimo-debate"
+   ],
+   [
+    "El Español (Quincemil): los presupuestos de la Xunta para 2025, aprobados sin enmiendas",
+    "https://www.elespanol.com/quincemil/economia/20241217/presupuestos-xunta-aprobados-sin-enmiendas/909409629_0.html"
    ]
   ]
  },
@@ -2474,7 +2482,7 @@
    "ómnibus"
   ],
   "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos.",
+  "voto": "Pleno del 17-12-2024. El PP la aprobó «en solitario» (El Español): ningún otro grupo votó a favor. No consta si el resto de grupos votó en contra o se abstuvo.",
   "s": "Ley de acompañamiento que modifica la normativa de tributos cedidos y propios y numerosas leyes sectoriales, entre ellas las de eólicos, aguas, servicios sociales, vivienda, suelo y patrimonio cultural.",
   "rec": "",
   "n": "No se han localizado crónicas del debate con los argumentos de cada grupo.",
@@ -2482,6 +2490,10 @@
    [
     "BOE: Ley 5/2024",
     "https://www.boe.es/eli/es-ga/l/2024/12/27/5"
+   ],
+   [
+    "El Español (Quincemil): el PPdeG aprueba en solitario la ley de acompañamiento",
+    "https://www.elespanol.com/quincemil/economia/20241217/presupuestos-xunta-aprobados-sin-enmiendas/909409629_0.html"
    ]
   ]
  },
@@ -5567,7 +5579,7 @@
    "lectura única"
   ],
   "ap": "sd",
-  "voto": "Aprobada el 4-10-2022 por 39 votos a favor y 31 en contra, según el Boletín Oficial del Parlamento de Galicia. El 27-9-2022 el Pleno acordó tramitarla por urgencia y lectura única con los votos del PP y en contra de BNG y PSdeG, según Nós Diario. La fuente solo da el recuento total, no el voto de cada grupo.",
+  "voto": "Aprobada el 4-10-2022 por 39 votos a favor y 31 en contra, según el Boletín Oficial del Parlamento de Galicia. El 27-9-2022 el Pleno acordó tramitarla por urgencia y lectura única con los votos del PP y en contra de BNG y PSdeG, según Nós Diario. En la votación final solo votó a favor el PP («só cos votos do PP», Galicia Confidencial); no consta si BNG y PSdeG votaron en contra o se abstuvieron.",
   "s": "Crea un procedimiento extraordinario, por concurso de méritos sin fase de oposición, para cubrir con plaza fija puestos vacantes de difícil cobertura de personal estatutario con título de especialista en ciencias de la salud del Sergas. Quien obtenga la plaza debe acreditar dos años de permanencia en ese puesto antes de poder participar en concursos de traslados o de promoción. Según Praza, afecta a 421 plazas que ya existían: 72 de atención primaria, 60 de pediatría de atención primaria, 116 de hospitales comarcales y 173 de salud mental (psiquiatría, psicología clínica y enfermería especializada).",
   "rec": "",
   "n": "El PP (Encarna Amigo) sostuvo que la ley no haría falta si Pedro Sánchez hubiera hecho «os deberes» con la normativa básica estatal y que da incentivos para atraer profesionales, según Nós Diario. El PSdeG (Julio Torrado) la criticó por usar mecanismos extraordinarios para problemas estructurales y el BNG (Montse Prado) la llamó «un mal parche»; ambos criticaron la vía de urgencia con lectura única. Para el secretario nacional de CIG-Saúde, la ley responde al fracaso de las políticas de personal del Sergas, según Praza.",
@@ -5587,6 +5599,10 @@
    [
     "BOPG: aprobación de la Ley de puestos de difícil cobertura del Sergas",
     "https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110390_1.pdf"
+   ],
+   [
+    "Galicia Confidencial: aprobada, solo con los votos del PP, la ley de puestos de difícil cobertura",
+    "https://galiciaconfidencial.com/noticia/210438-aprobada-votos-pp-lei-contratar-sanitarios-exame-postos-dificil-cobertura"
    ]
   ]
  },
@@ -5696,8 +5712,8 @@
   "ley": "Ley 3/2022, de 18 de octubre, de áreas empresariales de Galicia",
   "tema": "Economía y empresas",
   "tram": [],
-  "ap": "sd",
-  "voto": "Aprobada el 27-9-2022 por 54 votos a favor, 18 en contra y ninguna abstención (BOPG). La fuente solo da el recuento total, no el voto de cada grupo.",
+  "ap": "socio",
+  "voto": "Aprobada el 27-9-2022 por 54 votos a favor, 18 en contra y ninguna abstención (BOPG). A favor, PP y PSdeG (Nós Diario y Xunta). Ninguna fuente leída dice qué votó el BNG.",
   "s": "Unifica en un solo texto la regulación del suelo industrial, regula el censo de suelo empresarial (creado por la Ley 5/2017) y el plan sectorial, y permite desarrollar los polígonos por fases según la demanda. La Xunta calcula que reduce de 21 a 9 meses la aprobación de los proyectos de urbanización y eleva a rango de ley el programa Concellos Emprendedores.",
   "rec": "",
   "n": "La Xunta la presentó como una ley pionera para agilizar y flexibilizar la creación de suelo empresarial. El BNG, principal grupo de la oposición en esa legislatura, votó en contra. El Estado y la Xunta negociaron en la Comisión Bilateral sobre varios artículos y acordaron que se aplicarían respetando la normativa estatal (BOE de 7-7-2023); no consta recurso ante el TC.",
@@ -5717,6 +5733,10 @@
    [
     "BOE: Acuerdo de la Comisión Bilateral sobre la Ley 3/2022 de áreas empresariales",
     "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-15810"
+   ],
+   [
+    "Nós Diario: o PSdeG aproba co PP a Lei de Áreas Empresariais",
+    "https://www.nosdiario.gal/articulo/politica/psdeg-aproba-co-pp-lei-areas-empresariais-orde-da-direccion-politica-do-partido/20220927163327153373.html"
    ]
   ]
  },
@@ -6171,8 +6191,8 @@
   "ley": "Ley 17/2021, de 27 de diciembre (presupuestos de 2022)",
   "tema": "Presupuestos y hacienda",
   "tram": [],
-  "ap": "sd",
-  "voto": "Aprobada el 21-12-2021 por 42 votos a favor y 32 en contra, según el Boletín Oficial del Parlamento de Galicia. La fuente solo da el recuento total, no el voto de cada grupo.",
+  "ap": "solo",
+  "voto": "Aprobada el 21-12-2021 por 42 votos a favor y 32 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, BNG y PSdeG (Atlántico).",
   "s": "Aprueba los presupuestos de 2022, con 13.118 millones de euros consolidados. Permite una subida salarial del personal público de hasta el 2 %.",
   "rec": "",
   "n": "Ley anual de presupuestos de la Xunta.",
@@ -6184,6 +6204,10 @@
    [
     "BOPG: aprobación de la Ley de presupuestos para 2022",
     "https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110247_1.pdf"
+   ],
+   [
+    "Atlántico: aprobados los presupuestos de 2022",
+    "https://www.atlantico.net/articulo/galicia/aprobados-presupuestos-2022-rechazar-pp-1025-enmiendas/20211221235020883772.html"
    ]
   ]
  },
@@ -6277,8 +6301,8 @@
   "ley": "Ley 16/2021, de 20 de diciembre (Plan gallego de estadística 2022-2026)",
   "tema": "Otros",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos",
+  "ap": "unan",
+  "voto": "Sin votos en contra, según la Xunta. No consta el voto de cada grupo en el pleno.",
   "s": "Aprueba el plan estadístico de Galicia para 2022-2026, con operaciones organizadas en cuatro áreas: territorio y medio ambiente, sociedad, estructura productiva, y conocimiento y tecnología.",
   "rec": "",
   "n": "Ley de planificación técnica que se aprueba cada cinco años.",
@@ -6286,6 +6310,10 @@
    [
     "BOE: Ley 16/2021, del Plan gallego de estadística 2022-2026",
     "https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3413"
+   ],
+   [
+    "Xunta: el Parlamento aprueba la Ley del Plan gallego de estadística 2022-2026",
+    "https://www.xunta.gal/es/hemeroteca/-/nova/137860/parlamento-gallego-aprueba-ley-del-plan-gallego-estadistica-2022-2026"
    ]
   ]
  },
@@ -6450,8 +6478,8 @@
   "ley": "Ley 12/2021, de 15 de julio (reconocimiento de la Universidad Intercontinental de la Empresa)",
   "tema": "Educación",
   "tram": [],
-  "ap": "sd",
-  "voto": "Aprobada el 13-7-2021 por 34 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. La fuente solo da el recuento total, no el voto de cada grupo.",
+  "ap": "solo",
+  "voto": "Aprobada el 13-7-2021 por 34 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, BNG y PSdeG (Nós Diario).",
   "s": "Reconoce la primera universidad privada de Galicia, promovida por Afundación (Abanca), con sede en Santiago y campus en A Coruña y Vigo, con cuatro grados y cuatro másteres iniciales. Su puesta en marcha requiere autorización por decreto, debe destinar el 15 % de sus ingresos a becas y el reconocimiento caduca si no se autoriza en cinco años.",
   "rec": "",
   "n": "El presidente de la Xunta, Alberto Núñez Feijóo, sostuvo que las carencias señaladas se subsanarían en el decreto de autorización posterior. Según elDiario.es, BNG y PSdeG presentaron enmiendas de totalidad (rechazadas con los votos del PP), los tres rectores de las universidades públicas mostraron su desacuerdo, el Consello Económico e Social no la valoró positivamente y la oferta quedaba por debajo de los mínimos que preparaba el Ministerio (10 grados, 6 másteres y 3 doctorados).",
@@ -6471,6 +6499,10 @@
    [
     "BOPG: aprobación de la Ley de reconocimiento de la Universidad Intercontinental de la Empresa",
     "https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110170.pdf"
+   ],
+   [
+    "Nós Diario: a universidade de Abanca supera o seu último trámite",
+    "https://www.nosdiario.gal/articulo/politica/universidade-abanca-supera-seu-ultimo-tramite/20210713212100125382.html"
    ]
   ]
  },
@@ -6854,8 +6886,8 @@
   "ley": "Ley 6/2021, de 17 de febrero (residuos y suelos contaminados)",
   "tema": "Medio ambiente",
   "tram": [],
-  "ap": "sd",
-  "voto": "Aprobada el 9-2-2021 por 40 votos a favor y 32 en contra, según el Boletín Oficial del Parlamento de Galicia. La fuente solo da el recuento total, no el voto de cada grupo.",
+  "ap": "solo",
+  "voto": "Aprobada el 9-2-2021 por 40 votos a favor y 32 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, BNG y PSdeG (Galiciapress, Europa Press).",
   "s": "Fija objetivos de reutilización y reciclaje de residuos municipales (60 % en 2030) y restricciones a plásticos de un solo uso y bolsas gratuitas. Obliga a los ayuntamientos a recoger por separado los biorresiduos antes del 31 de diciembre de 2023 y los residuos textiles antes de 2025.",
   "rec": "",
   "n": "Ley de adaptación a la normativa europea de residuos. El Estado y la Xunta negociaron en la Comisión Bilateral sobre los artículos 3, 5, 44 y 55 a 61; la Xunta se comprometió a modificar algunos preceptos (BOE de 13-12-2021). No consta recurso ante el TC.",
@@ -6871,6 +6903,10 @@
    [
     "BOE: Acuerdo de la Comisión Bilateral sobre la Ley 6/2021",
     "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-20565"
+   ],
+   [
+    "Galiciapress (Europa Press): el PPdeG aprueba en solitario la ley de residuos",
+    "https://www.galiciapress.es/texto-diario/mostrar/2611193/ppdeg-aprueba-solitario-ley-obliga-restaurantes-entregar-sobras-envases-plastico"
    ]
   ]
  },
@@ -6881,8 +6917,8 @@
   "ley": "Ley 7/2021, de 17 de febrero (museos y centros museísticos)",
   "tema": "Otros",
   "tram": [],
-  "ap": "sd",
-  "voto": "Aprobada el 9-2-2021 por 40 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. La fuente solo da el recuento total, no el voto de cada grupo.",
+  "ap": "solo",
+  "voto": "Aprobada el 9-2-2021 por 40 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, PSdeG y BNG (El Correo Gallego, Europa Press).",
   "s": "Sustituye el Decreto 314/1986 y artículos de la Ley 5/2016 de patrimonio cultural. Amplía el concepto de centro museístico a colecciones museográficas y centros de interpretación, y crea el Sistema gallego de centros museísticos, que exige horario estable, personal cualificado y presupuesto suficiente.",
   "rec": "",
   "n": "Ley sectorial de cultura.",
@@ -6894,6 +6930,10 @@
    [
     "BOPG: aprobación de las leyes de residuos y de museos (9-2-2021)",
     "https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110095_1.pdf"
+   ],
+   [
+    "El Correo Gallego: nace la primera ley de museos de Galicia con el único apoyo del PP",
+    "https://www.elcorreogallego.es/vida-y-estilo/2021/02/09/nace-primera-ley-museos-galicia-109805924.html"
    ]
   ]
  },
@@ -7103,8 +7143,8 @@
   "ley": "Ley 1/2021, de 8 de enero (ordenación del territorio)",
   "tema": "Vivienda y suelo",
   "tram": [],
-  "ap": "sd",
-  "voto": "Aprobada el 22-12-2020 por 39 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. La fuente solo da el recuento total, no el voto de cada grupo.",
+  "ap": "solo",
+  "voto": "Aprobada el 22-12-2020 por 39 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. Salió adelante «con solo los votos de los populares» y el «no» de la oposición, BNG y PSdeG (Galiciapress, en una crónica conjunta de las leyes de ordenación del territorio y de pesca continental).",
   "s": "Deroga la Ley 10/1995 de ordenación del territorio y fija los instrumentos: directrices, planes territoriales integrados y especiales, planes sectoriales y proyectos de interés autonómico, que permiten a la Xunta intervenir directamente. Establece un procedimiento único de tramitación con evaluación ambiental estratégica.",
   "rec": "",
   "n": "La Xunta la presentó como una actualización de un marco de 25 años. No se ha podido leer una fuente con las críticas de la oposición.",
@@ -7116,6 +7156,10 @@
    [
     "BOPG: aprobación de la Ley de ordenación del territorio",
     "https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110070.pdf"
+   ],
+   [
+    "Galiciapress: la Cámara aprueba las dos primeras leyes de la Xunta esta legislatura",
+    "https://www.galiciapress.es/texto-diario/mostrar/2240765/camara-aprueba-primeras-leyes-xunta-esta-legislatura-pleno-navideno-villancico-incluido"
    ]
   ]
  },
@@ -7126,8 +7170,8 @@
   "ley": "Ley 2/2021, de 8 de enero (pesca continental)",
   "tema": "Medio ambiente",
   "tram": [],
-  "ap": "sd",
-  "voto": "Aprobada el 22-12-2020 por 39 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. La fuente solo da el recuento total, no el voto de cada grupo.",
+  "ap": "solo",
+  "voto": "Aprobada el 22-12-2020 por 39 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. Salió adelante «con solo los votos de los populares» y el «no» de la oposición, BNG y PSdeG (Galiciapress, en una crónica conjunta de las leyes de ordenación del territorio y de pesca continental).",
   "s": "Sustituye la Ley 7/1992 de pesca fluvial. Crea nuevas categorías de aguas (escenarios deportivo-sociales, aguas de aprovechamiento privado), exime de licencia a quienes tengan 14 años o menos si van acompañados de un adulto con licencia y establece un plan estratégico, planes técnicos de gestión y una orden anual. Suprime la categoría de infracciones menos graves y permite rebajar la sanción por reconocimiento de responsabilidad.",
   "rec": "",
   "n": "Ley sectorial. El Estado y la Xunta negociaron en la Comisión Bilateral y dieron por solventadas las discrepancias (BOE de 21-9-2021); no consta recurso ante el TC.",
@@ -7147,6 +7191,10 @@
    [
     "BOE: Acuerdo de la Comisión Bilateral sobre la Ley 2/2021 (discrepancias solventadas)",
     "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15293"
+   ],
+   [
+    "Galiciapress: la Cámara aprueba las dos primeras leyes de la Xunta esta legislatura",
+    "https://www.galiciapress.es/texto-diario/mostrar/2240765/camara-aprueba-primeras-leyes-xunta-esta-legislatura-pleno-navideno-villancico-incluido"
    ]
   ]
  },
@@ -8380,8 +8428,8 @@
   "tram": [
    "lectura única"
   ],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos. El Gobierno pidió tramitarlo por lectura única y urgencia, la Mesa lo admitió y el Pleno incluyó en su orden del día la propuesta de lectura única y, en su caso, el debate y votación del proyecto, según el Boletín Oficial del Parlamento de Galicia.",
+  "ap": "unan",
+  "voto": "Pleno del 7-5-2019: a favor, PP; abstención de toda la oposición (En Marea, PSdeG y BNG), según El Correo Gallego (Europa Press). Ningún voto en contra. El Gobierno pidió tramitarlo por lectura única y urgencia, la Mesa lo admitió y el Pleno incluyó en su orden del día la propuesta de lectura única y, en su caso, el debate y votación del proyecto, según el Boletín Oficial del Parlamento de Galicia.",
   "s": "Concede suplementos de crédito por 48,0 millones de euros (48.002.075) para reforzar educación (incluida la digitalización del alumnado), sanidad, política social e infraestructuras forestales. Se financia con bajas en otras partidas; la exposición de motivos lo vincula a los ahorros de la reordenación del endeudamiento del sector público autonómico.",
   "rec": "",
   "n": "Ley presupuestaria rutinaria.",
@@ -8397,6 +8445,10 @@
    [
     "BOPG: orden del día con la propuesta de lectura única",
     "https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B100473_1.pdf"
+   ],
+   [
+    "El Correo Gallego (Europa Press): el PP aprueba en solitario la ley que desbloquea la inversión del superávit",
+    "https://www.elcorreogallego.es/hemeroteca/pp-aprueba-solitario-ley-desbloquea-inversion-superavit-gallego-BCCG1181572"
    ]
   ]
  },
@@ -8484,8 +8536,8 @@
   "tram": [
    "ómnibus"
   ],
-  "ap": "sd",
-  "voto": "Aprobada el 18-12-2018 por 37 votos a favor y 34 en contra, según el Boletín Oficial del Parlamento de Galicia. La fuente solo da el recuento total, no el voto de cada grupo.",
+  "ap": "solo",
+  "voto": "Aprobada el 18-12-2018 por 37 votos a favor y 34 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, En Marea, PSdeG y BNG (Galiciapress).",
   "s": "Ley de acompañamiento de los presupuestos de 2019 que modifica numerosas leyes sectoriales (empleo público, medio ambiente, urbanismo, patrimonio cultural, deporte); el BOE no da un recuento. En lo fiscal, rebaja la escala del impuesto sobre el patrimonio, amplía reducciones en sucesiones y deducciones del IRPF (inversión en empresas nuevas, donaciones a I+D, afectados por la explosión de Tui) y reduce tipos de transmisiones patrimoniales para jóvenes, familias numerosas y personas con discapacidad.",
   "rec": "",
   "n": "Ley de acompañamiento presupuestario de tramitación anual.",
@@ -8497,6 +8549,10 @@
    [
     "BOPG: aprobación de la Ley de medidas fiscales y administrativas (18-12-2018)",
     "https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B100403_3.pdf"
+   ],
+   [
+    "Galiciapress: aprobada con el voto del PP la ley de acompañamiento",
+    "https://www.galiciapress.es/texto-diario/mostrar/1283144/aprobada-voto-pp-ley-acompanamiento-entre-criticas-oposicion-cambios-ultima-hora"
    ]
   ]
  },
@@ -8549,8 +8605,8 @@
   "ley": "Ley 1/2016, de 18 de enero, de transparencia y buen gobierno",
   "tema": "Instituciones y control",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "pacto",
+  "voto": "Aprobada en el pleno del 23-12-2015: a favor, PP y PSdeG; abstención de AGE y BNG (elDiario.es). No consta el voto del Grupo Mixto.",
   "s": "Desarrolla en Galicia la ley estatal de transparencia: obliga a la Xunta y a su sector público a publicar información en un portal, regula el derecho de acceso de la ciudadanía y fija normas de conducta e incompatibilidades para los altos cargos. Crea el Comisionado de la Transparencia y encarga esas funciones al Valedor do Pobo.",
   "rec": "",
   "n": "La Xunta la presentó como el cumplimiento de la ley estatal 19/2013, que obligaba a las comunidades a adaptarse en dos años. El órgano de control no es una autoridad nueva e independiente, sino una función más del Valedor do Pobo, que elige el Parlamento.",
@@ -8562,6 +8618,10 @@
    [
     "BOE (ELI): Ley 1/2016",
     "https://www.boe.es/eli/es-ga/l/2016/01/18/1"
+   ],
+   [
+    "elDiario.es: la ley de transparencia se aprobó con los votos de PP y PSOE y la abstención de AGE y BNG",
+    "https://www.eldiario.es/galicia/funciones-polemicas-adjudicaciones-fraga-ence_1_4207054.html"
    ]
   ]
  },
@@ -8686,9 +8746,11 @@
   "g": "PP",
   "ley": "Ley 7/2016, de 1 de julio, de retribución extraordinaria al personal del sector público autonómico (recuperación del recorte de enero y febrero de 2013)",
   "tema": "Trabajo y empleo público",
-  "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "tram": [
+   "urgencia"
+  ],
+  "ap": "unan",
+  "voto": "Pleno del 28-6-2016, por el procedimiento de urgencia: «con los únicos votos a favor del PP y la abstención de toda la oposición» (La Región). Ningún voto en contra.",
   "s": "Devuelve en 2016 al personal del sector público autonómico la parte del recorte salarial de 2013 que corresponde a los días trabajados entre el 1 de enero y el 28 de febrero de 2013.",
   "rec": "",
   "n": "Es una devolución parcial: solo cubre los dos primeros meses de 2013, en proporción a los días trabajados.",
@@ -8700,6 +8762,10 @@
    [
     "BOE (ELI): Ley 7/2016",
     "https://www.boe.es/eli/es-ga/l/2016/07/01/7"
+   ],
+   [
+    "La Región: aprobada la ley para que los funcionarios recuperen parte de la extra de 2013",
+    "https://www.laregion.es/articulo/galicia/aprobada-ley-funcionarios-recuperen-parte-extra-2013/20160628220408632048.html"
    ]
   ]
  },
@@ -8733,8 +8799,8 @@
   "ley": "Ley 9/2016, de 8 de julio, por la que se modifica la Ley 4/2007 de coordinación de policías locales",
   "tema": "Otros",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "unan",
+  "voto": "Pleno del 28-6-2016: a favor, PP y PSdeG; abstención de BNG, AGE y Grupo Mixto (Galicia Confidencial, Europa Press). Ningún voto en contra.",
   "s": "Cambios en la coordinación de las policías locales: permite a los ayuntamientos asociarse para tener una galería de tiro común, da un puesto en la comisión de coordinación a la asociación profesional más representativa y regula acuerdos de colaboración entre ayuntamientos para prestar el servicio.",
   "rec": "",
   "n": "Reforma parcial y técnica.",
@@ -8746,6 +8812,10 @@
    [
     "BOE (ELI): Ley 9/2016",
     "https://www.boe.es/eli/es-ga/l/2016/07/08/9"
+   ],
+   [
+    "Galicia Confidencial: aprobada a reforma da Lei de policía local",
+    "https://www.galiciaconfidencial.com/texto-diario/mostrar/5628773/pleno-aprobada-reforma-da-lei-policia-local-elimina-tope-idade-acceder-e-permite-cubrir-prazas"
    ]
   ]
  },
@@ -8756,8 +8826,8 @@
   "ley": "Ley 10/2016, de 19 de julio, de medidas urgentes para la actualización del sistema de transporte público de Galicia",
   "tema": "Economía y empresas",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "unan",
+  "voto": "Pleno del 12-7-2016: «con votos a favor do ditame de PP e abstención da oposición» (Galicia Confidencial). La fuente no nombra a cada grupo. Ningún voto en contra.",
   "s": "Prevé un Plan de transporte público de Galicia para reordenar las líneas regulares de viajeros que dependen de la Xunta, con medidas transitorias hasta su aprobación.",
   "rec": "",
   "n": "El título dice «medidas urgentes», pero en las fuentes leídas no consta si se tramitó por urgencia. La Xunta alegó movilidad en igualdad y sostenibilidad económica del servicio.",
@@ -8769,6 +8839,10 @@
    [
     "BOE (ELI): Ley 10/2016",
     "https://www.boe.es/eli/es-ga/l/2016/07/19/10"
+   ],
+   [
+    "Galicia Confidencial: luz verde á lei de transporte e ao Plan de estatística",
+    "https://www.galiciaconfidencial.com/texto-diario/mostrar/5627715/pleno-luz-verde-lei-salvar-fallo-anula-prorroga-concesions-transporte-estrada"
    ]
   ]
  },
@@ -8803,7 +8877,7 @@
   "tema": "Derechos y libertades",
   "tram": [],
   "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "voto": "Pleno del 12-7-2016. Era una proposición del BNG. Votaron a favor todos los grupos salvo el PSdeG: «Sólo el PSdeG se descolgó» (Europa Press). No consta si el PSdeG votó en contra o se abstuvo.",
   "s": "Incluye expresamente la trata de mujeres y niñas con fines de explotación sexual como violencia de género y rehace la prestación económica periódica para las víctimas, que la Xunta debe garantizar según su situación económica.",
   "rec": "",
   "n": "La Xunta alegó facilitar la independencia económica de las víctimas respecto del agresor.",
@@ -8815,6 +8889,10 @@
    [
     "BOE (ELI): Ley 12/2016",
     "https://www.boe.es/eli/es-ga/l/2016/07/22/12"
+   ],
+   [
+    "Europa Press: Galicia ya reconoce la trata de mujeres como violencia machista",
+    "https://www.europapress.es/galicia/noticia-galicia-ya-reconoce-trata-mujeres-violencia-machista-20160712200922.html"
    ]
   ]
  },
@@ -8848,8 +8926,8 @@
   "ley": "Ley 14/2016, de 27 de julio, por la que se modifica la Ley 4/2012 del Área Metropolitana de Vigo",
   "tema": "Instituciones y control",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "unan",
+  "voto": "Pleno del 12-7-2016: «Todos los grupos con representación en la Cámara gallega han votado favorablemente» (Atlántico).",
   "s": "Cambia el gobierno del Área Metropolitana de Vigo: en la Junta de Gobierno cada alcalde vota según la población de su municipio, pero los acuerdos necesitan el apoyo de al menos cuatro ayuntamientos. También reordena sus competencias.",
   "rec": "",
   "n": "Según la exposición de motivos, recoge el acuerdo alcanzado entre la Xunta y los catorce alcaldes en Vigo el 22 de febrero de 2016, tras cuatro años sin que el área llegara a funcionar.",
@@ -8861,6 +8939,10 @@
    [
     "BOE (ELI): Ley 14/2016",
     "https://www.boe.es/eli/es-ga/l/2016/07/27/14"
+   ],
+   [
+    "Atlántico: el Parlamento aprueba por unanimidad el Área Metropolitana de Vigo",
+    "https://www.atlantico.net/vigo/vigo-tendra-nueva-ley-area-metropolitana-apoyo-unanime-camara_1_20160712-1506589.html"
    ]
   ]
  },
@@ -8871,8 +8953,8 @@
   "ley": "Ley 15/2016, de 28 de julio, del Plan gallego de estadística 2017-2021",
   "tema": "Otros",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "solo",
+  "voto": "Pleno del 12-7-2016: «con votos a favor do PP, e abstención da oposición, con voto en contra de Xosé Manuel Beiras» (AGE), según Galicia Confidencial. La fuente no nombra a cada grupo.",
   "s": "Aprueba el plan quinquenal de estadísticas oficiales de la comunidad para 2017-2021.",
   "rec": "",
   "n": "Ley de planificación técnica, que se aprueba cada cinco años.",
@@ -8884,6 +8966,10 @@
    [
     "BOE (ELI): Ley 15/2016",
     "https://www.boe.es/eli/es-ga/l/2016/07/28/15"
+   ],
+   [
+    "Galicia Confidencial: luz verde á lei de transporte e ao Plan de estatística",
+    "https://www.galiciaconfidencial.com/texto-diario/mostrar/5627715/pleno-luz-verde-lei-salvar-fallo-anula-prorroga-concesions-transporte-estrada"
    ]
   ]
  },
@@ -8894,8 +8980,8 @@
   "ley": "Ley 1/2017, de 8 de febrero, de presupuestos generales para 2017",
   "tema": "Presupuestos y hacienda",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "solo",
+  "voto": "Pleno del 6-2-2017: «voto favorable del PP y el rechazo de En Marea, PSdeG y BNG» (Europa Press).",
   "s": "Aprueba los presupuestos de 2017: 10.801 millones de euros en créditos consolidados de la Administración general, organismos autónomos y agencias. Congela las retribuciones del personal público respecto a diciembre de 2016, salvo la recuperación de conceptos recortados en 2013.",
   "rec": "",
   "n": "Ley anual de presupuestos de la Xunta, aprobada en febrero porque las elecciones de septiembre de 2016 retrasaron su tramitación.",
@@ -8907,6 +8993,10 @@
    [
     "BOE (ELI): Ley 1/2017",
     "https://www.boe.es/eli/es-ga/l/2017/02/08/1"
+   ],
+   [
+    "Europa Press: aprobados los presupuestos de la Xunta para 2017",
+    "https://www.europapress.es/galicia/noticia-aprobados-presupuestos-xunta-galicia-2017-20170206152739.html"
    ]
   ]
  },
@@ -8919,8 +9009,8 @@
   "tram": [
    "ómnibus"
   ],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "solo",
+  "voto": "Pleno del 7-2-2017: «con el único voto favorable del PP, y el rechazo de toda la oposición» (Europa Press), que entonces eran En Marea, PSdeG y BNG.",
   "s": "Ley de acompañamiento de los presupuestos de 2017. Además de cambios fiscales (deducción del 100 % en transmisiones patrimoniales por comprar vivienda habitual en zonas poco pobladas, supresión de bonificaciones sin uso), reforma la función pública, ordena el transporte público regular de viajeros y añade medidas provisionales de ordenación urbanística. Suprimió el cuerpo de letrados del Consello Consultivo, cuyas plazas pasaron a cubrirse por libre designación.",
   "rec": "Más de cincuenta diputados de Unidos Podemos-En Comú Podem-En Marea la recurrieron por la supresión de los letrados del Consello Consultivo; el TC desestimó el recurso (STC 87/2018, de 19 de julio).",
   "n": "La exposición de motivos defiende las leyes de acompañamiento como leyes ordinarias amparadas por la libertad del legislador. El TC consideró que el cambio en el Consello Consultivo era una opción legítima del legislador.",
@@ -8936,6 +9026,10 @@
    [
     "BOE (ELI): Ley 2/2017",
     "https://www.boe.es/eli/es-ga/l/2017/02/08/2"
+   ],
+   [
+    "Europa Press: aprobada la ley de acompañamiento a los presupuestos de la Xunta",
+    "https://www.europapress.es/galicia/noticia-aprobada-ley-acompanamiento-presupuestos-xunta-20170207120241.html"
    ]
   ]
  },
@@ -8969,8 +9063,8 @@
   "ley": "Ley 4/2017, de 3 de octubre, de protección y bienestar de los animales de compañía en Galicia",
   "tema": "Otros",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "solo",
+  "voto": "Pleno del 26-9-2017: a favor, PP; en contra, En Marea, PSdeG y BNG (Europa Press).",
   "s": "Fija las obligaciones de dueños y establecimientos de animales de compañía, prohíbe el abandono y el sacrificio (salvo eutanasia regulada), ordena la recogida de animales perdidos y abandonados y crea un comité consultivo de protección animal.",
   "rec": "",
   "n": "La Xunta la presentó como una actualización de la normativa de protección animal.",
@@ -8982,6 +9076,10 @@
    [
     "BOE (ELI): Ley 4/2017",
     "https://www.boe.es/eli/es-ga/l/2017/10/03/4"
+   ],
+   [
+    "Europa Press: aprobada la ley de bienestar animal con el rechazo de toda la oposición",
+    "https://www.europapress.es/galicia/noticia-aprobada-ley-bienestar-animal-rechazo-toda-oposicion-afea-exclusion-toros-20170926131422.html"
    ]
   ]
  },
@@ -8992,8 +9090,8 @@
   "ley": "Ley 5/2017, de 19 de octubre, de fomento de la implantación de iniciativas empresariales en Galicia",
   "tema": "Economía y empresas",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "solo",
+  "voto": "Pleno del 17-10-2017: a favor, PP; en contra, PSdeG y BNG. En Marea no votó, en protesta porque el pleno no se dedicó a los incendios (Europa Press).",
   "s": "Facilita la instalación de empresas: adjudicación directa de suelo público empresarial para proyectos singulares, pago aplazado del suelo sin intereses los cuatro primeros años, requisitos más flexibles para declarar proyectos industriales estratégicos y tramitación ambiental conjunta de la autorización ambiental integrada y la evaluación de impacto.",
   "rec": "",
   "n": "La Xunta alegó simplificación y eliminación de cargas administrativas innecesarias.",
@@ -9005,6 +9103,10 @@
    [
     "BOE (ELI): Ley 5/2017",
     "https://www.boe.es/eli/es-ga/l/2017/10/19/5"
+   ],
+   [
+    "Europa Press: el PP aprueba en solitario la Ley de fomento empresarial",
+    "https://www.europapress.es/galicia/noticia-pp-aprueba-solitario-ley-fomento-empresarial-reproches-gestion-incendios-20171017152547.html"
    ]
   ]
  },
@@ -9015,8 +9117,8 @@
   "ley": "Ley 6/2017, de 12 de diciembre, de puertos de Galicia",
   "tema": "Economía y empresas",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "solo",
+  "voto": "Pleno del 4-12-2017: aprobada «solo con los votos del PPdeG»; la oposición «la ha rechazado en bloque» (Europa Press). La fuente no nombra a cada grupo.",
   "s": "Primera ley gallega completa de puertos: regula el ente Portos de Galicia, la planificación, el dominio público portuario, las concesiones y las tasas de los puertos de competencia autonómica.",
   "rec": "Una reforma posterior de su artículo 55 (por la Ley 4/2023) fue recurrida ante el TC, que la suspendió y después desestimó el recurso (STC 68/2024). La redacción original de 2017 no consta recurrida.",
   "n": "La Xunta alegó que hasta entonces los puertos autonómicos se regían por normas dispersas y por remisión a la ley estatal.",
@@ -9028,6 +9130,10 @@
    [
     "BOE (ELI): Ley 6/2017",
     "https://www.boe.es/eli/es-ga/l/2017/12/12/6"
+   ],
+   [
+    "Europa Press: el PP aprueba en solitario la ley de puertos",
+    "https://www.europapress.es/galicia/noticia-pp-aprueba-solitario-ley-puertos-amplia-concesiones-30-50-anos-20171204134622.html"
    ]
   ]
  },
@@ -9039,7 +9145,7 @@
   "tema": "Medio ambiente",
   "tram": [],
   "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "voto": "Pleno del 4-12-2017: aprobada «con los votos favorables del PP» (Europa Press). No consta si En Marea, PSdeG y BNG votaron en contra o se abstuvieron.",
   "s": "Establece planes de ahorro y eficiencia energética y una ayuda de la Xunta que paga el 50 % del recibo eléctrico (antes del bono social) a consumidores en riesgo de exclusión social, cuyo suministro pasa a considerarse esencial. Obliga a las comercializadoras de último recurso a avisar a la Xunta de los cortes por impago.",
   "rec": "",
   "n": "La Xunta la enmarcó en el bono social estatal (Real Decreto-ley 7/2016) y en sus ayudas previas contra la pobreza energética.",
@@ -9051,6 +9157,10 @@
    [
     "BOE (ELI): Ley 7/2017",
     "https://www.boe.es/eli/es-ga/l/2017/12/14/7"
+   ],
+   [
+    "Europa Press: aprobada con los votos del PP la ley energética sin la tarifa eléctrica gallega",
+    "https://www.europapress.es/galicia/noticia-aprobada-votos-pp-ley-energetica-tarifa-electrica-gallega-20171204141858.html"
    ]
   ]
  },
@@ -9061,8 +9171,8 @@
   "ley": "Ley 8/2017, de 26 de diciembre, de presupuestos generales para 2018",
   "tema": "Presupuestos y hacienda",
   "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "solo",
+  "voto": "Pleno del 19-12-2017: el texto articulado salió «co resultado do apoio do PP e o rexeitamento da oposición» (Galicia Confidencial). La fuente no nombra a cada grupo; en las secciones hubo algunas abstenciones.",
   "s": "Aprueba los presupuestos de 2018: 10.724 millones de euros en créditos consolidados de la Administración general, organismos autónomos y agencias. Congela las retribuciones del personal público respecto a diciembre de 2017, salvo lo que permita la normativa estatal.",
   "rec": "",
   "n": "Ley anual de presupuestos de la Xunta.",
@@ -9074,6 +9184,10 @@
    [
     "BOE (ELI): Ley 8/2017",
     "https://www.boe.es/eli/es-ga/l/2017/12/26/8"
+   ],
+   [
+    "Galicia Confidencial: aprobados os orzamentos galegos para 2018",
+    "https://www.galiciaconfidencial.com/texto-diario/mostrar/5593404/aprobados-orzamentos-galegos-rexeitar-pp-case-1300-emendas-oposicion-mantina-vivas"
    ]
   ]
  },
@@ -9086,8 +9200,8 @@
   "tram": [
    "ómnibus"
   ],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar el voto por grupos (el diario de sesiones del Parlamento de Galicia bloquea el acceso automático)",
+  "ap": "solo",
+  "voto": "Pleno del 19-12-2017: a favor, PP; en contra, En Marea, PSdeG y BNG (Galicia Confidencial, Europa Press).",
   "s": "Ley de acompañamiento de los presupuestos de 2018. Crea deducciones en el IRPF autonómico (rehabilitación en centros históricos, inversión en empresas agrarias y ayudas por los incendios de octubre de 2017) y en patrimonio y transmisiones patrimoniales, sube las tasas de cuantía fija y el canon por obras hidráulicas, y modifica normas administrativas de diez ámbitos distintos.",
   "rec": "",
   "n": "La exposición de motivos la defiende como ley ordinaria de medidas con vocación de permanencia, ligada a los presupuestos.",
@@ -9099,6 +9213,10 @@
    [
     "BOE (ELI): Ley 9/2017",
     "https://www.boe.es/eli/es-ga/l/2017/12/26/9"
+   ],
+   [
+    "Galicia Confidencial: o PP aproba en solitario a lei de acompañamento",
+    "https://www.galiciaconfidencial.com/texto-diario/mostrar/5593388/pp-aproba-solitario-lei-acompanamento-modifica-as-escalas-traballadores-contra-incendios"
    ]
   ]
  },
