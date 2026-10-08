@@ -1,0 +1,249 @@
+{
+ "id": "edu_alumnado_concertada_ccaa",
+ "nombre": "Alumnado de Enseñanzas de Régimen General en enseñanza privada concertada, por comunidad autónoma",
+ "unidad": "alumnos",
+ "definicion": "Número de alumnos matriculados en la enseñanza privada concertada (centros privados con concierto educativo).",
+ "fuente": "Ministerio de Educación, Formación Profesional y Deportes. Estadística de las Enseñanzas no universitarias. Alumnado matriculado, resultados detallados (EDUCAbase).",
+ "url": {
+  "2016-2017": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2016-2017-rd/gen-todas/l0/todas_01.px",
+  "2017-2018": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2017-2018-rd/gen-todas/l0/todas_01.px",
+  "2018-2019": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2018-2019-rd/gen-todas/l0/todas_01.px",
+  "2019-2020": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2019-2020-rd/gen-todas/l0/todas_01.px",
+  "2020-2021": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2020-2021-rd/gen-todas/l0/todas_01.px",
+  "2021-2022": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2021-2022-rd/gen-todas/l0/todas_01.px",
+  "2022-2023": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2022-2023-rd/gen-todas/l0/todas_01.px",
+  "2023-2024": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2023-2024-rd/gen-todas/l0/todas_01.px",
+  "2024-2025": "https://estadisticas.educacion.gob.es/EducaJaxiPx/files/_px/es/px/no-universitaria/alumnado/matriculado/2024-2025-rd/gen-todas/l0/todas_01.px"
+ },
+ "url_pagina": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/alumnado/matriculado.html",
+ "fecha_consulta": "2026-10-08",
+ "anios": "2016-2017 a 2024-2025",
+ "notas": [
+  "Cursos 2016-2017 a 2024-2025, resultados detallados (tabla 1 «Alumnado matriculado en Enseñanzas de Régimen General por titularidad/financiación del centro, sexo, comunidad autónoma/provincia y enseñanza», carpeta gen-todas de cada curso). El curso 2025-2026 solo tiene datos de avance con otra tabla y no se incluye.",
+  "Valores de la fila «AMBOS SEXOS» y la columna «TOTAL» de enseñanzas, sin cálculos propios. Se comprobó en cada curso y comunidad que Todos los centros = Centros públicos + Centros privados y que Centros privados = Enseñanza privada concertada + no concertada.",
+  "Nota de la fuente: el alumnado de primer ciclo de Educación Infantil en enseñanza privada concertada se refiere a centros privados que reciben algún tipo de subvención pública para ese ciclo.",
+  "Enseñanzas de Régimen General: incluye Infantil (primer y segundo ciclo), Primaria, Educación Especial, ESO, Bachillerato, FP y otros programas."
+ ],
+ "valores": {
+  "Total España": {
+   "2016-2017": 2087474,
+   "2017-2018": 2090770,
+   "2018-2019": 2102403,
+   "2019-2020": 2103054,
+   "2020-2021": 2072653,
+   "2021-2022": 2046480,
+   "2022-2023": 2050512,
+   "2023-2024": 2047287,
+   "2024-2025": 2036579
+  },
+  "Andalucía": {
+   "2016-2017": 327114,
+   "2017-2018": 334233,
+   "2018-2019": 336047,
+   "2019-2020": 336931,
+   "2020-2021": 330761,
+   "2021-2022": 336192,
+   "2022-2023": 336075,
+   "2023-2024": 336346,
+   "2024-2025": 334044
+  },
+  "Aragón": {
+   "2016-2017": 54918,
+   "2017-2018": 55133,
+   "2018-2019": 54065,
+   "2019-2020": 54452,
+   "2020-2021": 54193,
+   "2021-2022": 53035,
+   "2022-2023": 52655,
+   "2023-2024": 52421,
+   "2024-2025": 52076
+  },
+  "Asturias": {
+   "2016-2017": 31439,
+   "2017-2018": 31325,
+   "2018-2019": 31161,
+   "2019-2020": 31452,
+   "2020-2021": 30762,
+   "2021-2022": 29845,
+   "2022-2023": 29647,
+   "2023-2024": 29152,
+   "2024-2025": 28699
+  },
+  "Baleares": {
+   "2016-2017": 53361,
+   "2017-2018": 53879,
+   "2018-2019": 54167,
+   "2019-2020": 53937,
+   "2020-2021": 53108,
+   "2021-2022": 52515,
+   "2022-2023": 52164,
+   "2023-2024": 55781,
+   "2024-2025": 57422
+  },
+  "Canarias": {
+   "2016-2017": 55969,
+   "2017-2018": 56248,
+   "2018-2019": 56484,
+   "2019-2020": 54696,
+   "2020-2021": 53263,
+   "2021-2022": 51765,
+   "2022-2023": 50455,
+   "2023-2024": 49706,
+   "2024-2025": 48443
+  },
+  "Cantabria": {
+   "2016-2017": 25602,
+   "2017-2018": 25827,
+   "2018-2019": 25767,
+   "2019-2020": 25740,
+   "2020-2021": 25242,
+   "2021-2022": 24583,
+   "2022-2023": 24385,
+   "2023-2024": 24099,
+   "2024-2025": 23779
+  },
+  "Castilla y León": {
+   "2016-2017": 100694,
+   "2017-2018": 100835,
+   "2018-2019": 100665,
+   "2019-2020": 101022,
+   "2020-2021": 100005,
+   "2021-2022": 98420,
+   "2022-2023": 105834,
+   "2023-2024": 106492,
+   "2024-2025": 106728
+  },
+  "Castilla-La Mancha": {
+   "2016-2017": 55363,
+   "2017-2018": 55230,
+   "2018-2019": 54421,
+   "2019-2020": 55311,
+   "2020-2021": 52931,
+   "2021-2022": 51905,
+   "2022-2023": 52085,
+   "2023-2024": 50098,
+   "2024-2025": 50117
+  },
+  "Cataluña": {
+   "2016-2017": 367771,
+   "2017-2018": 367897,
+   "2018-2019": 366150,
+   "2019-2020": 364957,
+   "2020-2021": 357960,
+   "2021-2022": 350325,
+   "2022-2023": 348899,
+   "2023-2024": 346374,
+   "2024-2025": 343073
+  },
+  "Comunitat Valenciana": {
+   "2016-2017": 224651,
+   "2017-2018": 214403,
+   "2018-2019": 218333,
+   "2019-2020": 218923,
+   "2020-2021": 217653,
+   "2021-2022": 211581,
+   "2022-2023": 210760,
+   "2023-2024": 212166,
+   "2024-2025": 211319
+  },
+  "Extremadura": {
+   "2016-2017": 32021,
+   "2017-2018": 31485,
+   "2018-2019": 30973,
+   "2019-2020": 30756,
+   "2020-2021": 30250,
+   "2021-2022": 29567,
+   "2022-2023": 28987,
+   "2023-2024": 28382,
+   "2024-2025": 27764
+  },
+  "Galicia": {
+   "2016-2017": 89362,
+   "2017-2018": 89163,
+   "2018-2019": 89889,
+   "2019-2020": 89537,
+   "2020-2021": 87317,
+   "2021-2022": 86431,
+   "2022-2023": 89055,
+   "2023-2024": 90121,
+   "2024-2025": 88182
+  },
+  "Madrid": {
+   "2016-2017": 354802,
+   "2017-2018": 360357,
+   "2018-2019": 364168,
+   "2019-2020": 365532,
+   "2020-2021": 361910,
+   "2021-2022": 357262,
+   "2022-2023": 356053,
+   "2023-2024": 352884,
+   "2024-2025": 349906
+  },
+  "Murcia": {
+   "2016-2017": 71875,
+   "2017-2018": 70495,
+   "2018-2019": 75265,
+   "2019-2020": 75866,
+   "2020-2021": 76710,
+   "2021-2022": 76320,
+   "2022-2023": 76364,
+   "2023-2024": 78814,
+   "2024-2025": 83359
+  },
+  "Navarra": {
+   "2016-2017": 38574,
+   "2017-2018": 38958,
+   "2018-2019": 38954,
+   "2019-2020": 38731,
+   "2020-2021": 38328,
+   "2021-2022": 37518,
+   "2022-2023": 37659,
+   "2023-2024": 37418,
+   "2024-2025": 36886
+  },
+  "País Vasco": {
+   "2016-2017": 180728,
+   "2017-2018": 182024,
+   "2018-2019": 182545,
+   "2019-2020": 181480,
+   "2020-2021": 178738,
+   "2021-2022": 176168,
+   "2022-2023": 174616,
+   "2023-2024": 173074,
+   "2024-2025": 170264
+  },
+  "La Rioja": {
+   "2016-2017": 16206,
+   "2017-2018": 16364,
+   "2018-2019": 16556,
+   "2019-2020": 16726,
+   "2020-2021": 16557,
+   "2021-2022": 16240,
+   "2022-2023": 17891,
+   "2023-2024": 17418,
+   "2024-2025": 17775
+  },
+  "Ceuta": {
+   "2016-2017": 3930,
+   "2017-2018": 3801,
+   "2018-2019": 3832,
+   "2019-2020": 3804,
+   "2020-2021": 3718,
+   "2021-2022": 3603,
+   "2022-2023": 3771,
+   "2023-2024": 3592,
+   "2024-2025": 3714
+  },
+  "Melilla": {
+   "2016-2017": 3094,
+   "2017-2018": 3113,
+   "2018-2019": 2961,
+   "2019-2020": 3201,
+   "2020-2021": 3247,
+   "2021-2022": 3205,
+   "2022-2023": 3157,
+   "2023-2024": 2949,
+   "2024-2025": 3029
+  }
+ }
+}

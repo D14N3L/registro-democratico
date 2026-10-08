@@ -1856,7 +1856,7 @@
    "mide": "Gasto sanitario público (incluida la Seguridad Social) en proporción a la riqueza del país.",
    "aviso": "Eurostat mide el gasto corriente sin inversión: no coincide con el dato del Ministerio de Sanidad y no deben mezclarse. La media de la UE aún no tiene 2024.",
    "fuente": "Eurostat, hlth_sha11_hf (Health care expenditure by financing scheme). Datos de la API de difusión de Eurostat, actualizada 2026-10-01T23:00:00+0200",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/hlth_sha11_hf?format=JSON&lang=EN&geo=ES&geo=EU27_2020&icha11_hf=HF1&icha11_hf=HF11&icha11_hf=TOT_HF&unit=PC_GDP&unit=PPS_HAB&unit=EUR_HAB&sinceTimePeriod=2016",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/hlth_sha11_hf/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -1908,7 +1908,7 @@
    "mide": "Lo que gasta la administración por cada alumno de los centros públicos no universitarios.",
    "aviso": "Euros corrientes, sin descontar la inflación. En 2023 cambia la forma de contar el alumnado de FP. No incluye becas.",
    "fuente": "Ministerio de Educación, Formación Profesional y Deportes. \"Las cifras de la educación en España. Estadísticas e indicadores\", tabla B4.6 (elaborada a partir de la Estadística del Gasto Público en Educación)",
-   "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2017-2018.html",
+   "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana.html",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -2505,7 +2505,7 @@
    "mide": "Cuántos alumnos hay por cada profesor en los centros públicos.",
    "aviso": "Es alumnos por profesor, no alumnos por aula: no dice cuántos niños hay en cada clase.",
    "fuente": "Ministerio de Educación, FP y Deportes. \"Las cifras de la educación en España\", tabla B3.7 (a partir de la Estadística de las Enseñanzas no universitarias)",
-   "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana/2016-2017.html",
+   "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/indicadores/cifras-educacion-espana.html",
    "consulta": "2026-10-06",
    "periodos": [
     "2016-2017",
@@ -2776,6 +2776,614 @@
       8.56,
       8.37,
       8.43
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edu_alumnado_publica",
+   "pilar": "Educación",
+   "nombre": "Alumnos en centros públicos",
+   "unidad": "alumnos",
+   "mide": "Cuántos alumnos estudian en centros públicos en cada comunidad, de Infantil a Bachillerato y FP.",
+   "aviso": "Son números de alumnos, no porcentajes: una comunidad grande siempre tendrá más. Lo que sirve es mirar cómo cambia cada comunidad de un curso a otro y compararlo con la gráfica de la concertada. Depende también de cuántos niños hay en cada comunidad. 2016-2017 es el primer curso; los datos de 2025-2026 aún son de avance y no se incluyen.",
+   "fuente": "Ministerio de Educación, Formación Profesional y Deportes. Estadística de las Enseñanzas no universitarias. Alumnado matriculado, resultados detallados (EDUCAbase).",
+   "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/alumnado/matriculado.html",
+   "consulta": "2026-10-08",
+   "periodos": [
+    "2016-2017",
+    "2017-2018",
+    "2018-2019",
+    "2019-2020",
+    "2020-2021",
+    "2021-2022",
+    "2022-2023",
+    "2023-2024",
+    "2024-2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      5490022,
+      5499031,
+      5516243,
+      5560163,
+      5536967,
+      5525584,
+      5561965,
+      5572562,
+      5553179
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      1194227,
+      1186603,
+      1184243,
+      1181749,
+      1167467,
+      1162184,
+      1155976,
+      1145977,
+      1132969
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      147547,
+      148414,
+      149819,
+      152600,
+      151802,
+      151709,
+      152452,
+      152927,
+      154052
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      98198,
+      98098,
+      98108,
+      98428,
+      97854,
+      96676,
+      96735,
+      96741,
+      96386
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      117648,
+      120409,
+      122527,
+      124664,
+      127018,
+      126773,
+      127473,
+      127816,
+      127492
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      266417,
+      265232,
+      264274,
+      263341,
+      260200,
+      258437,
+      257745,
+      255494,
+      254516
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      66092,
+      66377,
+      66240,
+      66490,
+      66571,
+      66368,
+      66219,
+      65957,
+      64103
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      238759,
+      236221,
+      233828,
+      233243,
+      229618,
+      227508,
+      229565,
+      230335,
+      232335
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      295842,
+      292614,
+      292794,
+      294799,
+      295548,
+      295648,
+      297752,
+      299487,
+      299882
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      878933,
+      885009,
+      892337,
+      904486,
+      899130,
+      901264,
+      914099,
+      912449,
+      899694
+     ]
+    },
+    {
+     "ambito": "Ceuta",
+     "valores": [
+      16240,
+      16357,
+      16431,
+      16403,
+      16358,
+      15798,
+      15491,
+      15132,
+      14864
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      572454,
+      577611,
+      584745,
+      592987,
+      595750,
+      596751,
+      611625,
+      622965,
+      629470
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      145092,
+      143396,
+      141392,
+      140339,
+      137994,
+      137215,
+      137316,
+      137108,
+      135387
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      291211,
+      290467,
+      290732,
+      293383,
+      292812,
+      292063,
+      291701,
+      293638,
+      295251
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      35926,
+      35861,
+      36013,
+      36509,
+      36680,
+      37595,
+      37854,
+      37216,
+      38428
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      640660,
+      647848,
+      651366,
+      664851,
+      667911,
+      666500,
+      673644,
+      677812,
+      675331
+     ]
+    },
+    {
+     "ambito": "Melilla",
+     "valores": [
+      17487,
+      17427,
+      17777,
+      17892,
+      17548,
+      17395,
+      17282,
+      17325,
+      17188
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      205624,
+      206686,
+      207704,
+      208997,
+      209897,
+      209506,
+      212674,
+      215362,
+      217937
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      71840,
+      73223,
+      74793,
+      76838,
+      76689,
+      77301,
+      78406,
+      79421,
+      79951
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      189825,
+      191178,
+      191120,
+      192164,
+      190120,
+      188893,
+      187956,
+      189400,
+      187943
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edu_alumnado_concertada",
+   "pilar": "Educación",
+   "nombre": "Alumnos en la enseñanza concertada",
+   "unidad": "alumnos",
+   "mide": "Cuántos alumnos estudian en centros privados con concierto educativo en cada comunidad, de Infantil a Bachillerato y FP.",
+   "aviso": "Son números de alumnos, no porcentajes: compáralo con la gráfica de alumnos en centros públicos de la misma comunidad. En el primer ciclo de Infantil, la estadística cuenta como concertados los centros privados que reciben alguna subvención pública para ese ciclo. Los datos de 2025-2026 aún son de avance y no se incluyen.",
+   "fuente": "Ministerio de Educación, Formación Profesional y Deportes. Estadística de las Enseñanzas no universitarias. Alumnado matriculado, resultados detallados (EDUCAbase).",
+   "url": "https://www.educacionfpydeportes.gob.es/servicios-al-ciudadano/estadisticas/no-universitaria/alumnado/matriculado.html",
+   "consulta": "2026-10-08",
+   "periodos": [
+    "2016-2017",
+    "2017-2018",
+    "2018-2019",
+    "2019-2020",
+    "2020-2021",
+    "2021-2022",
+    "2022-2023",
+    "2023-2024",
+    "2024-2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      2087474,
+      2090770,
+      2102403,
+      2103054,
+      2072653,
+      2046480,
+      2050512,
+      2047287,
+      2036579
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      327114,
+      334233,
+      336047,
+      336931,
+      330761,
+      336192,
+      336075,
+      336346,
+      334044
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      54918,
+      55133,
+      54065,
+      54452,
+      54193,
+      53035,
+      52655,
+      52421,
+      52076
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      31439,
+      31325,
+      31161,
+      31452,
+      30762,
+      29845,
+      29647,
+      29152,
+      28699
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      53361,
+      53879,
+      54167,
+      53937,
+      53108,
+      52515,
+      52164,
+      55781,
+      57422
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      55969,
+      56248,
+      56484,
+      54696,
+      53263,
+      51765,
+      50455,
+      49706,
+      48443
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      25602,
+      25827,
+      25767,
+      25740,
+      25242,
+      24583,
+      24385,
+      24099,
+      23779
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      100694,
+      100835,
+      100665,
+      101022,
+      100005,
+      98420,
+      105834,
+      106492,
+      106728
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      55363,
+      55230,
+      54421,
+      55311,
+      52931,
+      51905,
+      52085,
+      50098,
+      50117
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      367771,
+      367897,
+      366150,
+      364957,
+      357960,
+      350325,
+      348899,
+      346374,
+      343073
+     ]
+    },
+    {
+     "ambito": "Ceuta",
+     "valores": [
+      3930,
+      3801,
+      3832,
+      3804,
+      3718,
+      3603,
+      3771,
+      3592,
+      3714
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      224651,
+      214403,
+      218333,
+      218923,
+      217653,
+      211581,
+      210760,
+      212166,
+      211319
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      32021,
+      31485,
+      30973,
+      30756,
+      30250,
+      29567,
+      28987,
+      28382,
+      27764
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      89362,
+      89163,
+      89889,
+      89537,
+      87317,
+      86431,
+      89055,
+      90121,
+      88182
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      16206,
+      16364,
+      16556,
+      16726,
+      16557,
+      16240,
+      17891,
+      17418,
+      17775
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      354802,
+      360357,
+      364168,
+      365532,
+      361910,
+      357262,
+      356053,
+      352884,
+      349906
+     ]
+    },
+    {
+     "ambito": "Melilla",
+     "valores": [
+      3094,
+      3113,
+      2961,
+      3201,
+      3247,
+      3205,
+      3157,
+      2949,
+      3029
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      71875,
+      70495,
+      75265,
+      75866,
+      76710,
+      76320,
+      76364,
+      78814,
+      83359
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      38574,
+      38958,
+      38954,
+      38731,
+      38328,
+      37518,
+      37659,
+      37418,
+      36886
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      180728,
+      182024,
+      182545,
+      181480,
+      178738,
+      176168,
+      174616,
+      173074,
+      170264
      ]
     }
    ]
@@ -3408,7 +4016,7 @@
    "mide": "Días que pasan de media desde que se pide la ayuda hasta que se asigna la prestación.",
    "aviso": "El IMSERSO solo publica este dato desde 2023, y solo cuenta a quien ya obtuvo resolución; quien murió esperando no está.",
    "fuente": "IMSERSO. Información estadística del SISAAD. Hoja 9TiempoEspera (\"9. Tiempo medio de resolución por CCAA\") de los ficheros a 31-12-2023, 31-12-2024, 31-12-2025 y 31-08-2026",
-   "url": "https://imserso.es/documents/20123/3515174/estsisaad_20231231.xlsx",
+   "url": "https://imserso.es/el-imserso/documentacion/estadisticas/sistema-autonomia-atencion-dependencia-saad/estadisticas-mensual/historico-informes-publicados",
    "consulta": "2026-10-06",
    "periodos": [
     "2023",
@@ -5153,7 +5761,7 @@
    "mide": "La misma tasa AROPE, comparada con la media de la UE.",
    "aviso": "Definición europea de 2021 aplicada a toda la serie.",
    "fuente": "Eurostat, ilc_peps01n 'Persons at risk of poverty or social exclusion by age and sex'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_peps01n?format=JSON&lang=EN&geo=ES&geo=EU27_2020&age=TOTAL&sex=T&unit=PC&sinceTimePeriod=2016",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_peps01n/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -5208,7 +5816,7 @@
    "mide": "Uno de los indicadores de pobreza energética.",
    "aviso": "Eurostat y el INE difieren en una décima algunos años.",
    "fuente": "Eurostat, ilc_mdes01 'Inability to keep home adequately warm - EU-SILC survey'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_mdes01?format=JSON&lang=EN&geo=ES&geo=EU27_2020&hhcomp=TOTAL&rskpovth=TOTAL&unit=PC&sinceTimePeriod=2016",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_mdes01/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -5263,7 +5871,7 @@
    "mide": "Lo que paga un hogar medio (2.500 a 5.000 kWh al año) por cada kWh, con todos los impuestos.",
    "aviso": "Se muestra el segundo semestre de cada año. Eurostat también publica el primer semestre.",
    "fuente": "Eurostat, nrg_pc_204 'Electricity prices for household consumers - bi-annual data (from 2007 onwards)'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_204?format=JSON&lang=EN&geo=ES&geo=EU27_2020&nrg_cons=KWH2500-4999&unit=KWH&tax=I_TAX&currency=EUR&sinceTimePeriod=2016-S1",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_204/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -5318,7 +5926,7 @@
    "mide": "Lo que paga un hogar medio con calefacción de gas por cada kWh, con todos los impuestos.",
    "aviso": "Se muestra el segundo semestre de cada año.",
    "fuente": "Eurostat, nrg_pc_202 'Gas prices for household consumers - bi-annual data (from 2007 onwards)'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/nrg_pc_202?format=JSON&lang=EN&geo=ES&geo=EU27_2020&nrg_cons=GJ20-199&unit=KWH&tax=I_TAX&currency=EUR&sinceTimePeriod=2016-S1",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/nrg_pc_202/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -5373,7 +5981,7 @@
    "mide": "Lo que recaudan las administraciones en impuestos y cotizaciones sociales en proporción a la riqueza del país.",
    "aviso": "No dice quién paga ni cuánto paga cada uno: es la recaudación total.",
    "fuente": "Eurostat, gov_10a_taxag 'Main national accounts tax aggregates'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_taxag?format=JSON&lang=EN&geo=ES&geo=EU27_2020&na_item=D2_D5_D91_D61_M_D995&sector=S13_S212&unit=PC_GDP&sinceTimePeriod=2016",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_taxag/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -5425,7 +6033,7 @@
    "mide": "Pensiones, desempleo, dependencia, familia y otras prestaciones sociales.",
    "aviso": "España 2024 es provisional.",
    "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -5477,7 +6085,7 @@
    "mide": "Gasto de todas las administraciones en sanidad según las cuentas públicas.",
    "aviso": "Clasificación de las cuentas públicas (COFOG): no coincide exactamente con el indicador de sanidad de Eurostat ni con el del Ministerio.",
    "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -5529,7 +6137,7 @@
    "mide": "Gasto de todas las administraciones en educación.",
    "aviso": "España 2024 es provisional.",
    "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",
@@ -5581,7 +6189,7 @@
    "mide": "Gasto en promoción y desarrollo de vivienda (no incluye las ayudas al alquiler, que van en protección social).",
    "aviso": "España 2024 es provisional.",
    "fuente": "Eurostat, gov_10a_exp 'General government expenditure by function (COFOG)'",
-   "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10a_exp?format=JSON&lang=EN&geo=ES&geo=EU27_2020&cofog99=TOTAL&cofog99=GF07&cofog99=GF09&cofog99=GF10&cofog99=GF1006&cofog99=GF06&cofog99=GF0601&na_item=TE&sector=S13&unit=PC_GDP&sinceTimePeriod=2016",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/gov_10a_exp/default/table?lang=es",
    "consulta": "2026-10-06",
    "periodos": [
     "2016",

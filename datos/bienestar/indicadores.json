@@ -92,6 +92,24 @@
   "aviso": "Es alumnos por profesor, no alumnos por aula: no dice cuántos niños hay en cada clase."
  },
  {
+  "id": "edu_alumnado_publica",
+  "pilar": "Educación",
+  "nombre": "Alumnos en centros públicos",
+  "unidad": "alumnos",
+  "serie": "edu_alumnado_publica_ccaa.json",
+  "mide": "Cuántos alumnos estudian en centros públicos en cada comunidad, de Infantil a Bachillerato y FP.",
+  "aviso": "Son números de alumnos, no porcentajes: una comunidad grande siempre tendrá más. Lo que sirve es mirar cómo cambia cada comunidad de un curso a otro y compararlo con la gráfica de la concertada. Depende también de cuántos niños hay en cada comunidad. 2016-2017 es el primer curso; los datos de 2025-2026 aún son de avance y no se incluyen."
+ },
+ {
+  "id": "edu_alumnado_concertada",
+  "pilar": "Educación",
+  "nombre": "Alumnos en la enseñanza concertada",
+  "unidad": "alumnos",
+  "serie": "edu_alumnado_concertada_ccaa.json",
+  "mide": "Cuántos alumnos estudian en centros privados con concierto educativo en cada comunidad, de Infantil a Bachillerato y FP.",
+  "aviso": "Son números de alumnos, no porcentajes: compáralo con la gráfica de alumnos en centros públicos de la misma comunidad. En el primer ciclo de Infantil, la estadística cuenta como concertados los centros privados que reciben alguna subvención pública para ese ciclo. Los datos de 2025-2026 aún son de avance y no se incluyen."
+ },
+ {
   "id": "dep_espera",
   "pilar": "Dependencia",
   "nombre": "Personas con derecho a ayuda por dependencia que aún no la reciben",

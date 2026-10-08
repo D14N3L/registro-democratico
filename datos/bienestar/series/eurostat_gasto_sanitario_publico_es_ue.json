@@ -6,6 +6,7 @@
  "fuente": "Eurostat, hlth_sha11_hf (Health care expenditure by financing scheme). Datos de la API de difusión de Eurostat, actualizada 2026-10-01T23:00:00+0200",
  "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/hlth_sha11_hf?format=JSON&lang=EN&geo=ES&geo=EU27_2020&icha11_hf=HF1&icha11_hf=HF11&icha11_hf=TOT_HF&unit=PC_GDP&unit=PPS_HAB&unit=EUR_HAB&sinceTimePeriod=2016",
  "url_dataset": "https://ec.europa.eu/eurostat/databrowser/view/hlth_sha11_hf/default/table",
+ "url_pagina_indice": "https://ec.europa.eu/eurostat/databrowser/view/hlth_sha11_hf/default/table?lang=es",
  "fecha_consulta": "2026-10-06",
  "anios": "España 2016-2024; UE-27 (EU27_2020) 2016-2023",
  "notas": [
