@@ -5024,5 +5024,23 @@
    ["Infobae: requisitos de la ayuda de Madrid (abr 2026)", "https://www.infobae.com/espana/2026/04/24/el-gobierno-de-ayuso-da-hasta-4000-euros-de-ayuda-a-familias-con-hijos-que-contraten-a-empleadas-del-hogar/"]
   ],
   "a": ""
+ },
+ {
+  "d": "2026-10-01",
+  "dl": "2022 – oct 2026",
+  "t": "Madrid baja de 4.039 a 1.000 euros la ayuda a familias con hijos con enfermedades graves y añade un límite de renta",
+  "p": ["PP"],
+  "c": "Gestión pública y derechos",
+  "a": "Madrid",
+  "pr": "org",
+  "s": "En 2022 la Comunidad de Madrid creó una ayuda de pago único de 4.039 euros para familias con menores en cuidados paliativos pediátricos, financiada con fondos europeos de recuperación. En 2023 la amplió a patologías crónicas y complejas, cáncer y otras enfermedades graves con un nivel de intervención alto, con un presupuesto de 2.520.748 euros (Orden 1538/2023); no tenía límite de renta e incluía expresamente a los menores en acogimiento permanente. Las nuevas normas (Acuerdo del Consejo de Gobierno de 2 de septiembre de 2026, BOCM de 1 de octubre) fijan 1.000 euros por hijo, se limitan a pacientes de hasta 25 años con patología crónica compleja «de extrema complejidad», exigen una renta per cápita familiar inferior a 30.000 euros y hablan de «hijo biológico o adoptado».",
+  "n": "La Comunidad lo presenta como un nuevo modelo con fondos propios para garantizar una «asignación eficiente» de los recursos y que las ayudas lleguen «a aquellas familias que más lo necesitan»; ahora se puede pedir una nueva ayuda por el mismo paciente cada doce meses. Según la Consejería, antes solo se podía pedir una vez; la nueva convocatoria tendrá dos millones de euros anuales ampliables, frente a 3,2 millones de fondos europeos en dos años; y los menores en acogimiento siguen incluidos aunque no se citen. El PSOE de Madrid lo considera un recorte y advierte de que el cálculo de la renta por persona puede perjudicar a las familias monoparentales (Público).",
+  "src": [
+   ["BOCM: Acuerdo de 2 de septiembre de 2026, normas de las nuevas ayudas (1-oct-2026)", "https://www.comunidad.madrid/transparencia/sites/default/files/bocm-20261001-23.pdf"],
+   ["BOCM: Orden 1538/2023, convocatoria de 2023 (25-may-2023)", "https://www.bocm.es/boletin/CM_Orden_BOCM/2023/05/25/BOCM-20230525-16.PDF"],
+   ["Comunidad de Madrid: nuevas ayudas de 1.000 euros (5-sep-2026)", "https://www.comunidad.madrid/noticias/2026/09/05/comunidad-madrid-concede-nuevas-ayudas-conciliacion-laboral-familiar-personas-hijos-patologias-cronicas-extrema-complejidad"],
+   ["Comunidad de Madrid: convocatoria de 2023, 4.039 euros", "https://www.comunidad.madrid/noticias/2023/06/05/comunidad-madrid-abre-plazo-solicitar-ayudas-familias-hijos-cuidados-paliativos-pediatricos"],
+   ["Público: el cambio, las críticas del PSOE y la respuesta de la Consejería", "https://www.publico.es/sociedad/gobierno-ayuso-recorta-ayudas-familias-hijos-enfermedades-graves-pasan-4-1-000-euros.html"]
+  ]
  }
 ]
