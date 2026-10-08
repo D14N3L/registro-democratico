@@ -4472,7 +4472,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Congreso: votación nominal del 2-feb-2017 (datos abiertos)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion026/20170202/Votacion013/VOT_20201204142445.json)
   - [Congreso: votación nominal del 22-feb-2018 (datos abiertos)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion102/20180222/Votacion009/VOT_20201204123054.json)
 
-## Mayorías absolutas (349)
+## Mayorías absolutas (350)
 
 ### Resumen: los 17 conflictos de atribuciones del Senado (2023-2026)
 - Fecha: 2026-10-05
@@ -4556,6 +4556,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [CMM: Las Cortes aprueban la modificación de la Ley de Evaluación Ambiental](https://www.cmmedia.es/noticias/castilla-la-mancha/cortes-debaten-modificacion-ley-evaluacion-ambiental-castilla-mancha.html)
   - [El Digital de Albacete: Las Cortes aprueban cambios en la Ley de Evaluación Ambiental](https://www.eldigitaldealbacete.com/2026/07/16/las-cortes-de-castilla-la-mancha-aprueban-cambios-en-la-ley-de-evaluacion-ambiental-y-respaldan-la-ley-lgtbi/)
   - [elDiario.es CLM: Se oficializa la ley que (en teoría) refuerza a los ayuntamientos para vetar plantas de biogás](https://www.eldiario.es/castilla-la-mancha/social/oficializa-ley-teoria-refuerza-ayuntamientos-vetar-plantas-biogas-castilla-mancha_1_13400714.html)
+
+### Ley 4/2026, de 13 de julio, por la que se modifica la Ley 2/2022 de puestos de difícil cobertura del Sergas (urgencias del hospital de Ourense)
+- Fecha: 2026-07-13
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Sanidad
+- Tramitación: urgencia, lectura única
+- Apoyos: Voto sin desglosar
+- Votación: Aprobada en el pleno del 7 y 8 de julio de 2026 (el día exacto no consta en las fuentes leídas). No se ha podido confirmar el voto por grupos.
+- Qué cambia: Extiende el régimen extraordinario de la Ley 2/2022 a los médicos de urgencias hospitalarias del Complejo Hospitalario Universitario de Ourense (CHUO), para que sus plazas se cubran como puestos de difícil cobertura. Entra en vigor al día siguiente de su publicación en el DOG.
+- Matiz: La Xunta lo justifica por la dificultad para cubrir las urgencias del CHUO y anunció un concurso de méritos para las 25 plazas vacantes. BNG y PSdeG rechazaron la tramitación por urgencia y lectura única y la calificaron de «parches» legislativos frente a una crisis sanitaria que, según ellos, pide una respuesta de fondo.
+- Fuentes:
+  - [BOE: Ley 4/2026, de 13 de julio, de Galicia](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16666)
+  - [Galiciapress: las plazas de Urgencias del CHUO, a debate en el Parlamento por urgencia y en lectura única](https://www.galiciapress.es/articulo/ourense/2026-07-05/5943439-plazas-urgencias-chuo-debate-parlamento-martes)
+  - [Galiciapress: la Xunta convocará por concurso de méritos las 25 vacantes de Urgencias del CHUO](https://www.galiciapress.es/articulo/sanidad/2026-07-22/5962153-sergas-convocara-proximamente-concurso-meritos-25-plazas-vacantes-medico-urgencias-chuo)
 
 ### Ley 5/2026, de 7 de julio, de reconocimiento del concebido en la aplicación de las medidas de apoyo a la familia ('ley del concebido no nacido')
 - Fecha: 2026-07-02
@@ -8833,13 +8847,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Presupuestos y hacienda
 - Tramitación: ordinaria o sin dato
-- Apoyos: Voto sin desglosar
-- Votación: Aprobada el 18-12-2018 por 38 votos a favor y 34 en contra, según el Boletín Oficial del Parlamento de Galicia. La fuente solo da el recuento total, no el voto de cada grupo.
+- Apoyos: Solo el partido con mayoría
+- Votación: Aprobada el 18-12-2018: el texto articulado salió por 38 votos a favor, 34 en contra y ninguna abstención. En el debate, cada grupo anunció su voto: «imos votar si aos orzamentos» (PP); «manter o noso voto contrario» (BNG); «imos votar "non" a este orzamento» (PSdeG); «desde En Marea votaremos "non"» (Diario de Sesións nº 96, págs. 9, 24, 33, 54 y 85).
 - Qué cambia: Aprueba los presupuestos de la Comunidad para 2019, con un presupuesto consolidado de 11.544 millones de euros. Congela las retribuciones del personal público respecto a las de 31 de diciembre de 2018, salvo lo que permita la normativa estatal.
 - Matiz: Ley anual de presupuestos de la Xunta. La Comisión Bilateral Estado-Galicia publicó un acuerdo que dio por solventadas las discrepancias sobre esta ley (BOE de 11-9-2019); no consta recurso ante el TC.
 - Fuentes:
   - [BOE: Ley 2/2018, de presupuestos generales para 2019](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3996)
   - [BOPG: aprobación de la Ley de presupuestos para 2019](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B100403_1.pdf)
+  - [Diario de Sesións del Parlamento de Galicia nº 96 (18-12-2018): debate y votación de los presupuestos de 2019](https://www.parlamentodegalicia.gal/sitios/web/BibliotecaDiarioSesions/D100096.pdf)
   - [BOE: Acuerdo de la Comisión Bilateral sobre la Ley 2/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-12984)
 
 ### Ley 3/2018, de 26 de diciembre (medidas fiscales y administrativas)
@@ -8855,6 +8870,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 3/2018, de medidas fiscales y administrativas](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-3997)
   - [BOPG: aprobación de la Ley de medidas fiscales y administrativas (18-12-2018)](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B100403_3.pdf)
   - [Galiciapress: aprobada con el voto del PP la ley de acompañamiento](https://www.galiciapress.es/texto-diario/mostrar/1283144/aprobada-voto-pp-ley-acompanamiento-entre-criticas-oposicion-cambios-ultima-hora)
+  - [Diario de Sesións del Parlamento de Galicia nº 97 (18-12-2018): debate y votación de la ley de medidas fiscales](https://www.parlamentodegalicia.gal/sitios/web/BibliotecaDiarioSesions/D100097.pdf)
 
 ### Reforma de la LOPJ (LO 4/2018): el Senado aprueba que los jueces elijan a doce vocales del CGPJ; el Congreso lo rechaza
 - Fecha: 2018-12-12
