@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (250)
+## Fichas del registro (256)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -2561,6 +2561,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/sentencia-brugal-avala-audios-capo-basura-orihuela-detectives-balnearios-presiones-zaplana-camps_1_12930678.html)
   - [TodoAlicante](https://www.todoalicante.es/politica/audiencia-alicante-condena-acusados-brugal-contrata-basuras-20260112135006-nt.html)
 
+### Asamblea de Madrid: el TC anula el veto de la Mesa a cinco preguntas del PSOE sobre el jefe de gabinete de Ayuso
+- Fecha: mar 2024 – ene 2026
+- Partidos: PP
+- Categoría: Control parlamentario
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Tribunal Constitucional
+- Resumen: En marzo y abril de 2024 la Mesa de la Asamblea de Madrid inadmitió cinco preguntas del PSOE al Gobierno regional sobre el cumplimiento del código ético de los altos cargos y el comportamiento público del jefe de gabinete de la presidenta, Miguel Ángel Rodríguez. La inadmisión salió con los votos de los miembros del PP y la abstención del de Vox. La Sala Segunda del Tribunal Constitucional otorgó el amparo (STC 3/2026, de 12 de enero), sin votos particulares: los acuerdos vulneraron el derecho de los diputados a ejercer su cargo (art. 23.2 CE). Los anuló y ordenó a la Mesa resolver de nuevo.
+- Matiz: La Mesa alegó que el jefe de gabinete no forma parte del Consejo de Gobierno. El 30 de enero de 2026 la Mesa tramitó siete peticiones de comparecencia de Rodríguez; el portavoz del PP dijo que, de más de 70.000 asuntos, el TC solo había corregido su criterio en 16.
+- Fuentes:
+  - [BOE: STC 3/2026, de 12 de enero](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3477)
+  - [elDiario.es: la votación en la Mesa (jun 2025)](https://www.eldiario.es/madrid/constitucional-estudiara-si-pp-bloqueo-preguntas-oposicion-amenazas-miguel-angel-rodriguez-eldiario_1_12348795.html)
+  - [El Español: la Mesa tramita las peticiones (ene 2026)](https://www.elespanol.com/espana/politica/20260130/asamblea-madrid-tramita-peticiones-comparecencia-miguel-angel-rodriguez-obligarle-tc/1003744110409_0.html)
+
 ### RTVE: el Consejo de Informativos denuncia sesgo a favor del Gobierno en «Mañaneros 360» y «Malas lenguas»
 - Fecha: ene – feb 2026
 - Partidos: PSOE
@@ -2790,11 +2803,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Independencia de instituciones
 - Nivel de prueba: Investigación judicial
 - Resumen: El juez Pedraz, de la Audiencia Nacional, investiga una presunta estructura para interferir en causas judiciales que afectaban al PSOE y al entorno del Gobierno. Ha imputado a Leire Díez, al exsecretario de Organización Santos Cerdán y a la gerente del partido, y apunta a pagos del PSOE.
-- Matiz: Investigación en curso, sin juicio. Rige la presunción de inocencia. Leire Díez niega haber trabajado para el PSOE.
+- Matiz: Investigación en curso, sin juicio. Rige la presunción de inocencia. Leire Díez niega haber trabajado para el PSOE. El 6 de octubre de 2026 el PP, acusación popular, pidió imputar al PSOE como persona jurídica; el 8 de octubre la Fiscalía Anticorrupción informó al juez Pedraz de que ve indicios de una posible responsabilidad del partido, pero considera «prematuro» imputarlo hasta practicar diligencias pendientes, entre ellas la declaración de Santos Cerdán. El juez no ha resuelto.
 - Fuentes:
   - [elDiario.es: imputaciones](https://www.eldiario.es/politica/uco-persona-sede-psoe-ferraz-investigacion-audiencia-nacional_1_13252759.html)
   - [elDiario.es: 25 imputados más](https://www.eldiario.es/politica/juez-caso-leire-imputa-presidenta-sepi-24-personas-supuestos-amanos-contratacion-publica_1_13342324.html)
   - [Público: el auto](https://www.publico.es/politica/auto-pedraz-dinamita-coartadas-leire-diez.html)
+  - [Infobae: la Fiscalía ve prematuro imputar al PSOE (8-oct-2026)](https://www.infobae.com/espana/2026/10/08/la-fiscalia-anticorrupcion-ve-indicios-contra-el-psoe-en-el-caso-leire-diez-pero-considera-prematura-su-imputacion-hasta-escuchar-a-santos-cerdan/)
 
 ### Tribunal de Cuentas: el suelo para vivienda protegida de SEPES (hoy Casa 47) tarda demasiado
 - Fecha: 2018 – jun 2026
@@ -2897,6 +2911,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Infobae (Europa Press): condena a Alfonso Grau (jul 2024)](https://www.infobae.com/espana/agencias/2024/07/30/el-exvicealcalde-del-ayuntamiento-de-valencia-alfonso-grau-condenado-a-cuatro-anos-de-prision-por-la-caja-b-del-pp/)
   - [El Español: la pieza de Requena y Enguera (jul 2025)](https://www.elespanol.com/valencia/20250716/audiencia-valencia-dicta-quinta-sentencia-condenas-caso-taula-contratos-requena-enguera/1003743849527_0.html)
 
+### IB3: la dirección cambia la noticia de la cadena humana de es Trenc y el director lo reconoce en el Parlament
+- Fecha: jul – sep 2026
+- Partidos: PP, Vox
+- Categoría: Medios públicos y propaganda
+- Parlamento o territorio: Baleares
+- Nivel de prueba: Documentado en medios
+- Resumen: En julio de 2026 el comité de empresa de IB3 denunció que la dirección de informativos había modificado el texto de la noticia sobre la cadena humana en defensa de es Trenc para minimizar que la alcaldesa de Campos (PP) intentara boicotear la protesta, y que en los canales digitales solo se informó de unas pintadas en búnkeres. El 24 de septiembre, en el Parlament, el director general, Josep Maria Codony, reconoció que la noticia se cambió porque era «partidista» y recordó que la periodista había sido jefa de prensa de Més per Mallorca. Al día siguiente el Sindicat de Periodistes de les Illes Balears pidió su dimisión por «assenyalar públicament» a la periodista.
+- Matiz: Codony sostiene que el editor y la jefa de informativos la rectificaron para dar las dos versiones, la de los convocantes y la de la policía: «para eso están los editores». El comité y el sindicato lo consideran una presión sobre la redacción. Ningún organismo se ha pronunciado. Codony fue elegido director con los votos de PP y Vox; el Govern es del PP.
+- Fuentes:
+  - [elDiario.es: el comité de IB3 denuncia los cambios (jul 2026)](https://www.eldiario.es/illes-balears/cat/els-treballadors-d-ib3-acusen-direccio-d-informatius-manipulacio-cobertura-protesta-d-trenc_1_13360243.html)
+  - [Última Hora: Codony reconoce que IB3 cambió la noticia (sep 2026)](https://www.ultimahora.es/noticias/local/2026/09/24/2715571/codony-reconoce-ib3-cambio-noticia-cadena-humana-trenc-porque-era-partidista.html)
+  - [Ara Balears: el Sindicat de Periodistes pide la dimisión de Codony](https://www.arabalears.cat/societat/sindicat-periodistes-demana-dimissio-codony-pressionar-redaccio-d-ib3_1_5860931.html)
+
 ### Asamblea de Madrid: PP y Cs aprueban por lectura única la reforma de la Ley del Suelo y el TC declara que vulneró los derechos de la oposición
 - Fecha: oct 2020 – jul 2026
 - Partidos: PP, Cs
@@ -2942,6 +2969,35 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El portavoz del PP, Borja Sémper, dijo que era razonable esperar la sentencia definitiva del Supremo, que había suspendido cautelarmente el voto de algunos españoles que obtuvieron la nacionalidad por esta vía: «No necesitamos una comisión de investigación para entender que una orden ministerial no está por encima de una ley aprobada en el Congreso».
 - Fuentes:
   - [Infobae (Europa Press)](https://www.infobae.com/espana/agencias/2026/09/14/el-pp-no-ve-necesario-una-comision-de-investigacion-sobre-la-ley-de-nietos-como-pide-vox/)
+
+### Hospital Ramón y Cajal: 57 pacientes de Traumatología pasan de preferentes a normales en la lista de espera quirúrgica
+- Fecha: feb – mar 2025 (conocido en sep 2026)
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Documentado en medios
+- Resumen: Según documentos publicados por El País en septiembre de 2026, entre el 28 de febrero y el 14 de marzo de 2025 la prioridad de 57 pacientes de Traumatología del Hospital Ramón y Cajal pasó de preferente (operación en menos de 90 días) a normal (hasta 180 días). El 14 de marzo de 2025 una facultativa del servicio pidió explicaciones por correo al comprobar el cambio en una paciente. Lo denunció el cirujano Luis Alberto Martos. FACUA pidió a la Fiscalía que investigue al gerente y al director médico por posible prevaricación, y Más Madrid llevó el caso a la Fiscalía por presunta prevaricación y falsedad documental.
+- Matiz: El jefe del servicio sostiene que detectó una irregularidad: pacientes clasificados como preferentes que por su situación clínica debían tener prioridad normal. Los responsables de 14 servicios y unidades quirúrgicas del hospital defendieron que revisar la clasificación es competencia suya cuando no se ajusta a los criterios clínicos. La consejera de Sanidad, Fátima Matute, acusó al cirujano denunciante de haber manipulado él la gravedad de los 57 pacientes; el cirujano anunció una querella contra ella. A 8 de octubre de 2026 no consta que la Fiscalía haya abierto diligencias.
+- Fuentes:
+  - [The Objective: los 57 pacientes y el comunicado de los jefes de servicio](https://theobjective.com/sanidad/2026-09-23/jefes-cirugia-ramon-cajal-defensa-cambios-listas-espera/)
+  - [Gaceta Médica: la versión del jefe de servicio y el correo de 14 de marzo de 2025](https://gacetamedica.com/politica/jefe-servicio-ramon-cajal-modificar-listas-espera/)
+  - [Infobae (Europa Press): Más Madrid lleva el caso a la Fiscalía; la acusación de Matute](https://www.infobae.com/espana/agencias/2026/09/22/mas-madrid-lleva-a-fiscalia-las-listas-de-espera-del-ramon-y-cajal-por-presunta-prevaricacion-y-falsedad-documental/)
+  - [FACUA: denuncia ante la Fiscalía](https://facua.org/noticias/facua-denuncia-en-fiscalia-a-dos-responsables-del-ramon-y-cajal-por-rebajar-la-gravedad-de-los-pacientes-para-maquillar-su-lista-de-espera/)
+  - [Público: el cirujano anuncia una querella contra la consejera](https://www.publico.es/politica/tribunales/cirujano-denuncio-caso-ramon-cajal-querellara-consejera-sanidad.html)
+
+### Cantabria: un correo de Admisión de Valdecilla anulaba la prueba a quien rechazara hacérsela en el hospital privado Santa Clotilde
+- Fecha: abr – oct 2026
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Cantabria
+- Nivel de prueba: Documentado en medios
+- Resumen: Un correo enviado en abril de 2026 desde el servicio de Admisión del Hospital Marqués de Valdecilla, con copia a varios directivos, indicaba responder a los pacientes que no quisieran hacerse la prueba en el hospital privado Santa Clotilde que se entendía que renunciaban a ella y que se anularía. El Servicio Cántabro de Salud reconoció que la instrucción había circulado y la calificó de error. Según el consejero, entre 23.753 peticiones de radiología pendientes a 24 de septiembre en los tres hospitales públicos había 119 registros de pacientes que habían rechazado la derivación; 43 ya se habían hecho la prueba en la red pública y el resto estaba pendiente de cita.
+- Matiz: El consejero de Salud, César Pascual (PP), negó que hubiera una instrucción de la dirección de Asistencia Sanitaria en ese sentido y afirmó que quien rechaza la derivación conserva su fecha en el hospital público y que nadie ha salido de la lista. No consta cuántos pacientes llegaron a perder la prueba.
+- Fuentes:
+  - [elDiario.es: el texto del correo](https://www.eldiario.es/cantabria/entendemos-renuncia-procederemos-anulacion-respuesta-pacientes-cantabros-rechazan-citas-sanidad-privada_1_13530338.html)
+  - [Cantabria Press: la dirección conocía la instrucción; el SCS la llama error](https://www.cantabriapress.com/cantabria/politica-de-cantabria/la-cupula-de-valdecilla-conocia-la-instruccion-que-amenazaba-a-los-pacientes-con-perder-su-cita-si-rechazaban-santa-clotilde)
+  - [Cantabria Económica: la versión del consejero](https://www.cantabriaeconomica.com/noticias/pascual-reitera-que-no-existe-orden-de-sacar-de-las-listas-de-espera-a-quienes-rechacen-la-derivacion-a-santa-clotilde/)
+  - [ifomo: la revisión del SCS, 119 registros](https://www.ifomo.es/articulo/cantabria/cantabria-scs-detecta-119-registros-pacientes-que-han-rechazado-derivacion-reclamacion-santa-clotilde/20261005193127360503.html)
 
 ### Cortes de Aragón: el TC anula el veto de la Mesa de PP y Vox a una pregunta sobre el vicepresidente Nolasco
 - Fecha: jun 2024 – sep 2026
@@ -3007,6 +3063,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Infobae (agencias): se abre juicio oral (sep 2026)](https://www.infobae.com/espana/agencias/2026/09/25/abren-juicio-oral-a-tito-berni-su-sobrino-y-mas-de-una-decena-de-personas-por-los-sobornos-del-caso-mediador/)
   - [El Confidencial Digital](https://www.elconfidencialdigital.com/articulo/pleitos/caso-mediador-llega-juicio-14-acusados-seis-delitos/202609302151281489649.html)
 
+### Castilla-La Mancha: un juzgado anula por desviación de poder el nombramiento en el Sescam de la exjefa de gabinete de una exalcaldesa del PSOE
+- Fecha: sep – oct 2026
+- Partidos: PSOE
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Castilla-La Mancha
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: Un juzgado de lo contencioso-administrativo de Toledo anuló, por una «clara desviación de poder», el nombramiento por libre designación de Cristina Hernando como subdirectora de Gestión y Servicios Generales de la Gerencia de Atención Integrada de Talavera de la Reina (Sescam). Hernando había sido jefa de gabinete de la exalcaldesa socialista de Talavera Tita García Élez. Según la prensa regional, la sentencia puso en cuestión que los méritos alegados, sobre todo esa experiencia como jefa de gabinete, bastaran para un puesto directivo sanitario. El aspirante que impugnó el nombramiento presentó además una denuncia penal contra el director gerente del Sescam, el autor del informe de idoneidad y la nombrada.
+- Matiz: La sentencia no es firme: el Sescam la recurrió. El denunciante debe ratificar la denuncia penal el 19 de noviembre de 2026; rige la presunción de inocencia. No se ha encontrado una respuesta de la Junta sobre el fondo; el PP pidió explicaciones.
+- Fuentes:
+  - [El Heraldo del Henares: la sentencia del juzgado de Toledo](https://www.elheraldodelhenares.com/c-la-mancha/el-juzgado-anula-un-nombramiento-de-una-alta-directiva-del-sescam-que-realizo-a-dedo-el-gobierno-de-garcia-page-porque-hubo-una-clara-desviacion-de-poder-la-beneficiada-es-la-exjefa-de-gabinete-de-una/)
+  - [ENCLM: la justicia anula el nombramiento](https://www.encastillalamancha.es/politica-cat/la-justicia-anula-la-contratacion-en-el-sescam-de-la-exjefa-de-gabinete-de-tita-garcia-elez-y-piden-explicaciones/)
+  - [Love Talavera: el recurso del Sescam y la denuncia penal](https://www.lovetalavera.com/denuncia-penal-proceso-subdireccion-gestion-sescam-talavera/)
+
 ### El Ayuntamiento de Madrid renuncia a reclamar 112 millones de luz de la M-30 a su socio privado Emesa
 - Fecha: 2017 – 2025
 - Partidos: PP
@@ -3063,13 +3132,27 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Derechos fundamentales y control judicial
 - Nivel de prueba: Tribunal Constitucional
 - Resumen: El Pleno del Tribunal Constitucional estimó por 7 votos a 5 el recurso de amparo de la exconsellera Dolors Bassa: el Supremo vulneró su derecho a la tutela judicial efectiva al negarse a aplicarle la amnistía por malversación con una interpretación «contraria al espíritu y finalidad» de la ley. Señala además una «contradicción flagrante» entre los autos del Supremo y su propia sentencia de 2019, y le ordena declarar amnistiado el delito «con carácter preferente y urgente». El criterio abre la vía para Turull, Junqueras, Romeva, Comín, Puig y Puigdemont.
-- Matiz: El Supremo había negado la amnistía de la malversación alegando que afectaba a los intereses financieros de la UE y que hubo beneficio personal; el TJUE concluyó en julio de 2026 que la amnistía no afecta a esos intereses. Votaron en contra los cinco magistrados del bloque conservador (Enríquez, Arnaldo, Espejel, Tolosa y Macías), que anuncian votos particulares. La aplicación a cada condenado no es automática: debe resolverla el Supremo. El 7 de octubre de 2026 el TC notificó la sentencia y el voto particular de los cinco magistrados al Supremo y a las partes, y el Supremo (el juez Llarena y la Sala de lo Penal) dio cinco días a la Fiscalía y a las defensas para presentar alegaciones (EFE).
+- Matiz: El Supremo había negado la amnistía de la malversación alegando que afectaba a los intereses financieros de la UE y que hubo beneficio personal; el TJUE concluyó en julio de 2026 que la amnistía no afecta a esos intereses. Votaron en contra los cinco magistrados del bloque conservador (Enríquez, Arnaldo, Espejel, Tolosa y Macías), que anuncian votos particulares. La aplicación a cada condenado no es automática: debe resolverla el Supremo. El 6 de octubre el juez Llarena dejó sin efecto, de forma inmediata y provisional, las órdenes nacionales de busca y captura de Puigdemont, Comín y Lluís Puig; según el Supremo, eso no es una ejecución anticipada de la sentencia constitucional. El 7 de octubre de 2026 el TC notificó la sentencia y el voto particular de los cinco magistrados al Supremo y a las partes, y el Supremo (el juez Llarena y la Sala de lo Penal) dio cinco días a la Fiscalía y a las defensas para presentar alegaciones (EFE).
 - Fuentes:
   - [elDiario.es: el TC aplica la amnistía a la malversación](https://www.eldiario.es/catalunya/constitucional-aplica-amnistia-malversacion-proces-abre-puerta-regreso-puigdemont_1_13565198.html)
   - [Infobae (EFE): el TC avala amnistiar la malversación](https://www.infobae.com/america/agencias/2026/10/06/el-constitucional-avala-amnistiar-la-malversacion-de-dirigentes-del-proces/)
   - [El Nacional: votación y magistrados](https://www.elnacional.cat/es/politica/constitucional-avala-amnistia-malversacion-1-o-aprieta-supremo-retorno-puigdemont_1705828_102.html)
   - [Infobae (agencias): el TC notifica la sentencia al Supremo (7-oct-2026)](https://www.infobae.com/espana/agencias/2026/10/07/el-constitucional-remite-al-supremo-la-sentencia-que-avala-amnistiar-la-malversacion-del-proces/)
   - [Infobae (EFE): el Supremo da cinco días de alegaciones (7-oct-2026)](https://www.infobae.com/espana/agencias/2026/10/07/el-supremo-da-5-dias-de-alegaciones-sobre-la-amnistia-a-puigdemont-y-a-lideres-del-proces/)
+  - [Poder Judicial: Llarena deja sin efecto la orden de detención de Puigdemont (6-oct-2026)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-juez-del-Tribunal-Supremo-Pablo-Llarena-deja-sin-efecto-la-orden-de-detencion-de-Carles-Puigdemont-tras-conocer-la-decision-del-TC-de-estimar-el-recurso-de-Dolors-Bassa)
+
+### El Supremo anula el decreto de universidades del Gobierno por tramitarlo de urgencia sin justificarlo
+- Fecha: oct 2025 – oct 2026
+- Partidos: PSOE, Sumar
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Sentencia firme
+- Resumen: El Real Decreto 905/2025, de 7 de octubre, endurecía los requisitos para crear y mantener universidades. A recurso del Gobierno de las Islas Baleares, la Sala de lo Contencioso-Administrativo del Tribunal Supremo lo anuló porque el acuerdo de tramitarlo por urgencia no estaba debidamente justificado y, por tanto, saltarse la consulta previa «carecía del amparo legalmente exigido». La sentencia se dio a conocer el 8 de octubre de 2026.
+- Matiz: El Supremo no entra en el contenido del decreto, solo en cómo se tramitó. Según la prensa, el Ministerio de Ciencia, Innovación y Universidades respeta pero no comparte el fallo y prepara una nueva norma.
+- Fuentes:
+  - [Poder Judicial: el Supremo anula el Real Decreto 905/2025](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-anula-el-Real-Decreto-905-2025-de-universidades-por-falta-de-justificacion-para-su-tramitacion-urgente)
+  - [BOE: Real Decreto 905/2025](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-20002)
+  - [elDiario.es: la respuesta del Ministerio](https://www.eldiario.es/sociedad/supremo-tumba-decreto-universidades-gobierno-acota-centros-privados_1_13572175.html)
+  - [El Español: el Gobierno prepara otra norma](https://www.elespanol.com/observatorio-educacion/20261008/supremo-anula-decreto-universidades-chiringuito-gobierno-critica-tramitacion-urgente/1003744413437_0.html)
 
 ## Qué votó cada partido (56)
 
