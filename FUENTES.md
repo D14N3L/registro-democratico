@@ -10540,7 +10540,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: es falso que Sánchez haya indultado a «golpistas»](https://maldita.es/malditodato/20190301/es-falso-que-el-gobierno-de-pedro-sanchez-haya-indultado-a-golpistas-como-dice-arrimadas/)
 
-## Huelgas y movilizaciones (38)
+## Huelgas y movilizaciones (57)
 
 ### Manifestaciones «Hacia la huelga general» por la vivienda (España (54 ciudades))
 - Fecha: 3 oct 2026 · Sector: Vivienda
@@ -10554,17 +10554,43 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: ahora toca huelga general](https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html)
   - [El Español: las cifras de la manifestación](https://www.elespanol.com/madrid/capital/20261004/manifestacion-vivienda-supera-queda-debajo-rentistas-poder/1003744407607_0.html)
 
+### Manifestación por la educación pública antes de la huelga indefinida (Madrid)
+- Fecha: 27 sep 2026 · Sector: Educación
+- Convocan: Comité de Huelga Unitario de la Educación Pública de Madrid
+- Qué pedían: Volver a un máximo de 17 periodos lectivos semanales en Secundaria y FP y 22 en Primaria, bajar las ratios y una subida salarial de 600 euros
+- Cifra oficial: Delegación del Gobierno, según la fuente: alrededor de 10.000 (Europa Press, 13:50) o alrededor de 20.000 (Público, actualizado a las 16:44, y elDiario.es).
+- Según quien convoca: 100.000.
+- Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
+- En qué acabó: Huelga indefinida convocada a partir del 14 de octubre de 2026.
+- Fuentes:
+  - [Menorca.info (Europa Press): cerca de 10.000 personas en Madrid](https://www.menorca.info/actualidad/nacional/2026/09/27/2717313/cerca-10000-personas-toman-calles-madrid-defensa-educacion-publica-antes-huelga-indefinida.html)
+  - [Público: miles de personas toman las calles de Madrid](https://www.publico.es/sociedad/educacion/educacion-publica-madrilena-moviliza-reclamar-regularizacion-horas-lectivas-ratios-inferiores.html)
+  - [elDiario.es: una marea verde por la educación pública desborda Madrid](https://www.eldiario.es/sociedad/marea-verde-educacion-publica-desborda-madrid-termina-acampada-vivienda-sol-enemigos_1_13542078.html)
+
 ### Huelgas docentes (Cataluña)
 - Fecha: primavera 2026 · Sector: Educación
 - Convocan: USTEC-STEs, CGT, CNT y COS
 - Qué pedían: Más especialistas de inclusión, salario ligado al IPC, ratios y el 6% del PIB para educación
-- Cifra oficial: Guardia Urbana: 15.200 manifestantes en Barcelona el 5 de junio.
-- Según quien convoca: USTEC: 80% de seguimiento y 90.000 personas.
+- Cifra oficial: Guardia Urbana: 15.200 manifestantes en Barcelona el 5 de junio. El 20 de marzo, con huelga de docentes y de médicos el mismo día, sus dos manifestaciones sumaron 35.000 personas.
+- Según quien convoca: USTEC: 80% de seguimiento y 90.000 personas. 20 de marzo: cerca de 100.000 entre las dos manifestaciones.
 - Quién gobernaba: Illa (PSC). Competencia autonómica.
 - En qué acabó: Sin acuerdo con los convocantes a septiembre de 2026.
 - Fuentes:
   - [3Cat: huelga docente en toda Cataluña](https://www.3cat.cat/3catinfo/vaga-de-docents-a-tot-catalunya-amb-manifestacio-a-barcelona-i-una-reunio-sense-la-ustec/noticia/3413528/)
+  - [betevé: huelga de educación y médicos del 20 de marzo](https://beteve.cat/societat/vaga-educacio-metges-manifestacions-barcelona-20-marc/)
   - [betevé: el primer día del curso con huelga](https://beteve.cat/societat/primer-dia-curs-escolar-2026-2027-amb-vaga-educacio/)
+
+### Manifestación por la sanidad pública en Madrid (Madrid)
+- Fecha: 31 may 2026 · Sector: Sanidad
+- Convocan: Plataforma Vecinos y Vecinas de los Barrios y Pueblos de Madrid, con más de un centenar de asociaciones
+- Qué pedían: Frenar el «desmantelamiento planificado» de la sanidad pública; denunciaban listas de espera «interminables»
+- Cifra oficial: Cerca de 10.000 según la Delegación del Gobierno.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [The Objective: unas 10.000 personas vuelven a recorrer Madrid](https://theobjective.com/sociedad/2026-05-31/personas-madrid-sanidad-publica/)
+  - [Diario en Positivo: unas 10.000 personas vuelven a salir en Madrid](https://www.diarioenpositivo.com/solidaridad/amp-10000-personas-vuelven-recorrer-madrid-defensa-sanidad-publica-desmantelamiento-pp/20260531145036082833.html)
 
 ### Huelga contra la concertación del Bachillerato (Aragón)
 - Fecha: may 2026 · Sector: Educación
@@ -10581,13 +10607,38 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: may-jun 2026 · Sector: Educación
 - Convocan: STEPV, CCOO y UGT, con la Coordinadora d'Assemblees Docents del País Valencià
 - Qué pedían: Mejoras salariales, más plantilla, bajar las ratios, inclusión y blindar las líneas en valenciano
-- Cifra oficial: Sin cifra oficial en las fuentes leídas.
+- Cifra oficial: Delegación del Gobierno: más de 35.000 personas en la manifestación de València del 15 de mayo.
 - Según quien convoca: En la consulta sindical votaron 30.238 docentes: el 87% rechazó el acuerdo y el 71% votó suspender la huelga.
 - Quién gobernaba: Pérez Llorca (PP). Competencia autonómica.
 - En qué acabó: Tras la consulta del 10 de junio, los sindicatos se inclinaron por suspenderla sin acuerdo y retomar la protesta el curso siguiente.
 - Fuentes:
   - [elDiario.es: los docentes rechazan el acuerdo y suspenden la huelga](https://www.eldiario.es/comunitat-valenciana/docentes-valencianos-rechazan-masivamente-acuerdo-global-educacion-votan-suspender-huelga-indefinida_1_13292179.html)
+  - [Infobae (EFE): la manifestación del 15 de mayo en València](https://www.infobae.com/espana/agencias/2026/05/15/una-manifestacion-multitudinaria-de-docentes-y-estudiantes-colapsa-el-centro-de-valencia/)
   - [Infobae: la Generalitat y la nueva propuesta](https://www.infobae.com/espana/2026/05/25/la-generalitat-ve-inminente-el-fin-de-la-huelga-de-profesores-de-la-comunidad-valenciana-los-sindicatos-han-presentado-una-nueva-propuesta-y-educacion-esta-de-acuerdo-en-lo-fundamental/)
+
+### Manifestación «Salvemos la educación pública» en Madrid (Madrid)
+- Fecha: 19 abr 2026 · Sector: Educación
+- Convocan: Menos Lectivas, CGT, CNT y Sindicato de Estudiantes, entre otros
+- Qué pedían: Más inversión, menos alumnos por aula y mejores condiciones laborales
+- Cifra oficial: Alrededor de 10.000 según la Delegación del Gobierno.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [El Diario de Madrid: la manifestación por la educación pública reúne a 10.000 personas](https://www.eldiariodemadrid.es/articulo/madrid/manifestacion-madrid-educacion-publica-recortes-protesta-2026/20260419164824127877.html)
+
+### Manifestaciones de las Mareas Blancas en las capitales andaluzas (Andalucía (ocho capitales))
+- Fecha: 12 abr 2026 · Sector: Sanidad
+- Convocan: Mareas Blancas y Amama (asociación de mujeres con cáncer de mama)
+- Qué pedían: Destinar al menos el 25% del presupuesto sanitario a atención primaria con un plan de cinco años, más plantilla, menos burocracia y consultas de al menos diez minutos
+- Cifra oficial: Policía Nacional, cifras de la Delegación del Gobierno: unas 22.300 en total (Andalucía Información; elDiario.es da 20.900). Granada 5.600 (5.000 en la capital y 600 en Motril), Sevilla 5.000, Málaga 3.800, Cádiz 2.000, Córdoba 2.000, Huelva 1.500, Jaén 1.400 y Almería unas 1.000.
+- Según quien convoca: Unos 55.000 en toda Andalucía.
+- Quién gobernaba: Junta del PP (Moreno), a 35 días de las autonómicas del 17 de mayo. Competencia autonómica.
+- En qué acabó: El consejero Antonio Sanz, cabeza de lista del PP por Cádiz, enmarcó las protestas en la «campaña electoral» de los partidos de izquierda.
+- Fuentes:
+  - [Andalucía Información: miles de personas respaldan las protestas de Marea Blanca](https://www.andaluciainformacion.es/articulo/sevilla/miles-personas-respaldan-protestas-marea-blanca-sevilla/202604121638233243214.html)
+  - [elDiario.es: las protestas sanitarias en las ocho capitales andaluzas](https://www.eldiario.es/andalucia/protestas-sanitarias-moreno-ocho-capitales-andaluzas-zarandean-campana-activan-izquierdas_1_13136811.html)
+  - [Huelva Hoy: miles de andaluces se echan a la calle](https://www.huelvahoy.com/articulo/andalucia/miles-andaluces-echan-calle-defensa-sanidad-publica/20260412221055387430.html)
 
 ### Huelga general por un salario mínimo propio (País Vasco y Navarra)
 - Fecha: 17 mar 2026 · Sector: General
@@ -10613,6 +10664,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Xunta: seguimiento del turno de tarde](https://www.xunta.gal/es/notas-de-prensa/-/nova/022305/seguimiento-turno-tarde-huelga-facultativos-atencion-primaria-consigue-4-69-sanidad)
   - [Redacción Médica: datos dispares de seguimiento](https://www.redaccionmedica.com/autonomias/galicia/datos-dispares-de-seguimiento-en-la-huelga-medica-gallega-de-un-5-a-un-71--9261)
 
+### Manifestación por la sanidad pública de Castilla y León en Valladolid (Castilla y León (Valladolid))
+- Fecha: 21 feb 2026 · Sector: Sanidad
+- Convocan: Plataformas por la Sanidad Pública de Castilla y León
+- Qué pedían: El fin de las privatizaciones, un máximo de dos días de espera en primaria y un mes en especializada, y refuerzos de plantilla, sobre todo en el medio rural
+- Cifra oficial: Más de 5.000 según los primeros datos de la Policía Nacional.
+- Según quien convoca: 25.000 (elDiario.es) o 20.000 (Diario en Positivo).
+- Quién gobernaba: Junta del PP (Mañueco), a menos de un mes de las autonómicas del 15 de marzo. Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [elDiario.es: miles de personas protestan en Valladolid](https://www.eldiario.es/castilla-y-leon/sociedad/miles-personas-protestan-valladolid-defensa-sanidad-castilla-leon-vida_1_13009891.html)
+  - [Diario en Positivo: miles protestan en Valladolid](https://www.diarioenpositivo.com/articulo/espana/miles-personas-marchan-valladolid-mostrar-rechazo-liquidacion-total-sanidad-cyl/20260221171025074227.html)
+
 ### Huelga de médicos en la Región de Murcia (Murcia)
 - Fecha: feb 2026 · Sector: Sanidad
 - Convocan: Sindicato Médico CESM Región de Murcia
@@ -10624,6 +10687,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Onda Regional de Murcia: cifras de la Consejería y del sindicato](https://www.orm.es/informativos/la-huelga-medica-suspende-miles-de-consultas-en-la-region-de-murcia-entre-cifras-dispares-de-seguimiento/)
   - [Cartagena Actualidad: qué pide el Sindicato Médico](https://www.cartagenaactualidad.com/articulo/region/sindicato-medico-region-murcia-cesm-convoca-huelga-medica-facultativa-regional-exigir-cumplimiento-acuerdos-2023-negociacion-cuestiones-estatuto-marco-que-son-competencia-ejecutivo-autonomico/20260206130518207301.html)
+
+### Huelga de tres días contra la concertación del Bachillerato y del 0-3 (Aragón (Zaragoza))
+- Fecha: ene 2026 · Sector: Educación
+- Convocan: CGT
+- Qué pedían: «Dinero público para la escuela pública»: rechazo a concertar el Bachillerato y la etapa de 0 a 3 años
+- Cifra oficial: La Administración: 21% de seguimiento del personal docente. Delegación del Gobierno: unas 6.000 personas en la manifestación de Zaragoza del 22 de enero.
+- Según quien convoca: CGT: 52% del profesorado que podía secundarla.
+- Quién gobernaba: Azcón (PP). Competencia autonómica.
+- En qué acabó: En mayo de 2026 hubo otra huelga contra la concertación del Bachillerato, convocada por más sindicatos (ver su entrada).
+- Fuentes:
+  - [elDiario.es Aragón: una movilización «histórica» en Zaragoza tras tres días de huelga](https://www.eldiario.es/aragon/sociedad/movilizacion-historica-defensa-escuela-publica-toma-calles-zaragoza-tres-dias-huelga_1_12928897.html)
+  - [Heraldo de Aragón: miles de personas claman en Zaragoza por la educación pública](https://www.heraldo.es/noticias/aragon/2026/01/22/miles-de-personas-claman-en-zaragoza-por-la-educacion-publica-en-la-manifestacion-que-cierra-tres-dias-de-huelga-1887754.html)
+
+### Manifestación por la sanidad pública en Vigo (Galicia (Vigo))
+- Fecha: 4 dic 2025 · Sector: Sanidad
+- Convocan: SOS Sanidade Pública
+- Qué pedían: La «reconstrucción» del área sanitaria de Vigo y acabar con los conciertos con la sanidad privada, como el del hospital Povisa
+- Cifra oficial: Unas 15.000 según la policía; las fuentes la atribuyen a la Policía Nacional o a la Policía Local de Vigo.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Xunta del PP (Rueda). Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [Galiciapress: miles de personas protestan en Vigo](https://www.galiciapress.es/articulo/sanidad/2025-12-04/5693971-miles-personas-claman-vigo-reconstruir-area-sanitaria-piden-poner-rueda-lista-espera)
+  - [elDiario.es: miles de personas claman en defensa de la sanidad pública en Vigo](https://www.eldiario.es/galicia/miles-personas-claman-defensa-sanidad-publica-vigo-ribera-salud-mayor-hospital-galicia_1_12823277.html)
 
 ### Huelga de técnicos en cuidados de enfermería (TCAE) (España)
 - Fecha: 28 nov 2025 · Sector: Sanidad
@@ -10702,13 +10789,38 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: may-jun 2025 · Sector: Educación
 - Convocan: CSIF (indefinida), CCOO, UGT, SUATEA y ANPE
 - Qué pedían: Mantener la jornada reducida, salario, atención a la diversidad y menos burocracia
-- Cifra oficial: Sin cifra oficial en las fuentes leídas. La consejera de Educación dimitió durante la huelga.
+- Cifra oficial: Delegación del Gobierno: 19.000 personas en la manifestación de Oviedo del 1 de junio. La consejera de Educación dimitió durante la huelga.
 - Según quien convoca: Sindicatos: 30.000 personas en la manifestación de Oviedo.
 - Quién gobernaba: Barbón (PSOE e IU). Competencia autonómica.
 - En qué acabó: Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subida de 140 € al mes.
 - Fuentes:
   - [RTPA: preacuerdo con el Principado](https://www.rtpa.es/noticias-asturias/2025-06-09/Los-sindicatos-docentes-y-el-Principado-llegan-a-un-preacuerdo-con-el-Principado_111749487659.html)
   - [El Salto: crónica de la huelga](https://www.elsaltodiario.com/asturias/educacion-pie-guerra-cronica-huelga-ha-sacudido-final-curso-asturias)
+  - [Infobae (EFE): miles de manifestantes en Oviedo](https://www.infobae.com/espana/agencias/2025/06/01/miles-de-manifestantes-secundan-en-oviedo-las-reivindicaciones-del-profesorado/)
+
+### Manifestación «Madrid sigue en pie por la Sanidad Pública» (Madrid)
+- Fecha: 25 may 2025 · Sector: Sanidad
+- Convocan: Vecinos y Vecinas de los Barrios y Pueblos de Madrid
+- Qué pedían: «Más financiación y menos privatización» de la sanidad madrileña; guardaron un minuto de silencio por los 7.291 mayores fallecidos en residencias de la región durante la primera ola de la covid
+- Cifra oficial: 30.000 según la Delegación del Gobierno.
+- Según quien convoca: 200.000.
+- Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [Público: un minuto de silencio en Madrid por los 7.291 muertos en residencias](https://www.publico.es/sociedad/miles-personas-toman-madrid-denunciar-desmantelamiento-ayuso-sanidad-manos-arriba-esto-atraco.html)
+  - [RTVE: Madrid marcha por la sanidad pública](https://www.rtve.es/noticias/20250525/marcha-madrid-reivindica-sanidad-publica-denuncia-politicas-gobierno-ayuso/16595770.shtml)
+
+### Manifestación de SOS Sanidade Pública en Santiago (Galicia (Santiago))
+- Fecha: 6 abr 2025 · Sector: Sanidad
+- Convocan: SOS Sanidade Pública
+- Qué pedían: Más presupuesto sanitario público y un Plan Galego de Saúde elaborado de forma participativa
+- Cifra oficial: Unas 10.000 según la Policía Local de Santiago.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Xunta del PP (Rueda). Competencia autonómica.
+- En qué acabó: La Consellería de Sanidade respondió que Galicia tiene «el mayor presupuesto sanitario» de su historia, 5.450 millones, y negó recortes.
+- Fuentes:
+  - [El Correo Gallego: miles de personas toman Santiago](https://www.elcorreogallego.es/santiago/2025/04/06/miles-personas-toman-santiago-mandar-116104976.html)
+  - [Mundiario: SOS multitudinario por la sanidad pública en Galicia](https://www.mundiario.com/articulo/eurorregion/sos-multitudinario-sanidad-publica-galicia/20250406174017339923.html)
 
 ### Manifestaciones por la vivienda (España (unas 40 ciudades))
 - Fecha: 5 abr 2025 · Sector: Vivienda
@@ -10732,6 +10844,54 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Infobae: los sindicatos mantienen la huelga](https://www.infobae.com/espana/2025/03/25/huelga-de-educacion-en-pais-vasco-los-sindicatos-las-mantienen-ante-la-falta-de-acuerdo-con-educacion/)
   - [Gasteiz Hoy: fin de la huelga con acuerdo](https://www.gasteizhoy.com/fin-huelga-educacion-publica-vasca-acuerdo/)
+
+### Manifestación por la sanidad pública de Castilla y León en Valladolid (Castilla y León (Valladolid))
+- Fecha: 15 mar 2025 · Sector: Sanidad
+- Convocan: CCOO y UGT, con más de quince plataformas
+- Qué pedían: Más financiación y medios y un pacto de Comunidad para la sanidad pública; se pidió la dimisión del consejero de Sanidad, Alejandro Vázquez
+- Cifra oficial: 5.000 según la Policía Municipal.
+- Según quien convoca: Casi 30.000.
+- Quién gobernaba: Junta del PP (Mañueco), en solitario desde la salida de Vox en julio de 2024. Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [elDiario.es: masiva manifestación en Valladolid](https://www.eldiario.es/castilla-y-leon/sociedad/masiva-manifestacion-valladolid-defensa-sanidad-castilla-leon-enfermedad-no-espera_1_12135622.html)
+  - [Diario de Valladolid: miles de personas toman la calle](https://www.diariodevalladolid.es/valladolid/250315/268875/miles-personas-toman-calle-valladolid-sanidad-publica.html)
+  - [El Español: más de 5.000 personas se manifiestan en Valladolid](https://www.elespanol.com/castilla-y-leon/region/valladolid/20250315/personas-manifiestan-valladolid-defensa-sanidad-publica/931406931_0.html)
+
+### Manifestación «Salvemos la educación pública» en Madrid (Madrid)
+- Fecha: 23 feb 2025 · Sector: Educación
+- Convocan: Más de 20 colectivos, con 70 adheridos: sindicatos, asociaciones de familias, de profesorado y de estudiantes y la Marea Verde
+- Qué pedían: Revertir los recortes de 2011, bajar las ratios, atender la diversidad y frenar el desvío de fondos públicos a la concertada y la privada
+- Cifra oficial: 25.000 según la Delegación del Gobierno.
+- Según quien convoca: Más de 100.000.
+- Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
+- En qué acabó: Los convocantes animaron a una huelga general en la educación si no se recuperaba la «calidad educativa».
+- Fuentes:
+  - [Cuatro (EFE): Madrid se tiñe de verde en defensa de la educación pública](https://www.cuatro.com/noticias/sociedad/20250223/manifestacion-madrid-defensa-educacion-publica_18_014847798.html)
+  - [El Salto: decenas de miles de personas claman por la educación pública](https://www.elsaltodiario.com/comunidad-madrid/decenas-miles-personas-claman-educacion-publica-centro-madrid-23f)
+
+### Manifestación por la sanidad pública en Vigo (Galicia (Vigo))
+- Fecha: 16 ene 2025 · Sector: Sanidad
+- Convocan: SOS Sanidade Pública
+- Qué pedían: Una «reconstrucción integral» del área sanitaria de Vigo con una sanidad «100% pública y de calidad»; denunciaron el sobrecoste de 470 millones del Hospital Álvaro Cunqueiro que recoge un informe del Consello de Contas
+- Cifra oficial: 30.000 según la Policía Local.
+- Según quien convoca: 60.000 (Galiciapress); más de 62.000 (elDiario.es).
+- Quién gobernaba: Xunta del PP (Rueda). Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [Galiciapress: decenas de miles de personas claman en Vigo](https://www.galiciapress.es/articulo/sanidad/2025-01-16/5140726-decenas-miles-personas-claman-vigo-contra-deterioro-sanidad-publica)
+  - [elDiario.es: decenas de miles vuelven a manifestarse en Vigo](https://www.eldiario.es/galicia/decenas-miles-personas-vuelven-manifestarse-vigo-politica-sanitaria-xunta-galicia_1_11971611.html)
+
+### Manifestaciones de Marea Blanca en las capitales andaluzas (Andalucía (ocho capitales))
+- Fecha: 16-17 nov 2024 · Sector: Sanidad
+- Convocan: Marea Blanca
+- Qué pedían: «Un razonable aumento del gasto» para reforzar las plantillas de atención primaria y usar la capacidad desaprovechada de los hospitales públicos
+- Cifra oficial: Delegación del Gobierno, con estimaciones de la Policía Nacional: unas 12.150 personas el día 17; Sevilla 6.000, Granada 1.600, Córdoba 1.500, Málaga 1.500, Jaén 650, Almería 500 y Huelva 400. La de Cádiz fue el día anterior.
+- Según quien convoca: Granada 5.500, Málaga 10.000 y Huelva 600; sin total.
+- Quién gobernaba: Junta del PP (Moreno), con mayoría absoluta. Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [Infobae (Europa Press): manifestaciones de Marea Blanca en Andalucía](https://www.infobae.com/espana/2024/11/17/miles-de-personas-participan-en-las-manifestaciones-de-marea-blanca-en-defensa-de-la-sanidad-publica-en-andalucia/)
 
 ### Manifestación por la vivienda (Madrid)
 - Fecha: 13 oct 2024 · Sector: Vivienda
@@ -10768,16 +10928,29 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: la Junta rebaja al 4,5% lo que los sindicatos elevan al 75%](https://www.eldiario.es/andalucia/sindicatos-celebran-exito-rotundo-huelga-sanidad-andaluza-seguimiento-cifran-75_1_11478619.html)
   - [SATSE Andalucía: acuerdo que desbloquea la carrera profesional](https://andalucia.satse.es/w/acuerdo-carrera-sas)
 
+### Manifestación «Madrid sigue en pie por la Sanidad pública» (Madrid)
+- Fecha: 19 may 2024 · Sector: Sanidad
+- Convocan: Vecinos y Vecinas de Barrios y Pueblos de Madrid, con el apoyo de partidos de izquierda, sindicatos y personas de la cultura
+- Qué pedían: Frenar las «políticas privatizadoras» y más inversión y profesionales; denunciaban las listas de espera, las urgencias extrahospitalarias y la falta de médicos y enfermeras
+- Cifra oficial: 18.000 según la Delegación del Gobierno.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica. Asistió la ministra de Sanidad, Mónica García.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [Infobae (Europa Press): una nueva protesta sanitaria recorre Madrid](https://www.infobae.com/espana/2024/05/19/una-nueva-protesta-sanitaria-recorre-madrid-contra-la-gestion-de-ayuso-sanidad-de-calidad-eso-si-es-libertad/)
+  - [elDiario.es: miles de personas toman las calles de Madrid](https://www.eldiario.es/sociedad/nueva-manifestacion-defensa-sanidad-publica-recorre-centro-madrid_1_11378337.html)
+
 ### Huelgas docentes por un nuevo acuerdo sectorial (Madrid)
 - Fecha: may 2024 · Sector: Educación
 - Convocan: CCOO, ANPE, CSIF y UGT
 - Qué pedían: Menos horas lectivas, ratios más bajas y más plantilla
-- Cifra oficial: Comunidad de Madrid: 24,5% y 23,4% en las dos jornadas.
+- Cifra oficial: Comunidad de Madrid: 24,5% y 23,4% en las dos jornadas. Manifestación del 8 de mayo en Madrid: 7.000 personas según la Delegación del Gobierno y unas 4.000 según fuentes policiales citadas por Europa Press.
 - Según quien convoca: Sindicatos: 65% y 67%.
 - Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
 - En qué acabó: Sin acuerdo.
 - Fuentes:
   - [Gacetín Madrid: seguimiento del 67% según sindicatos](https://gacetinmadrid.com/2024/05/21/seguimiento-67-huelga-educativa-madrid/)
+  - [elDiario.es (Somos Madrid): la manifestación del 8 de mayo](https://www.eldiario.es/madrid/somos/ayuso-escucha-publica-lucha-gran-manifestacion-huelga-educacion-tine-madrid-verde_1_11350413.html)
 
 ### Manifestaciones «Canarias tiene un límite» (Canarias)
 - Fecha: 20 abr 2024 · Sector: Vivienda
@@ -10789,6 +10962,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - En qué acabó: Sin medida concreta.
 - Fuentes:
   - [RTVC: las manifestaciones del 20A](https://rtvc.es/manifestaciones-canarias-tiene-un-limite-20a/)
+
+### Manifestaciones en defensa de Osakidetza en las tres capitales vascas (País Vasco (Vitoria, Bilbao y Donostia))
+- Fecha: 16 mar 2024 · Sector: Sanidad
+- Convocan: Coordinadora de Plataformas Ciudadanas por la Sanidad Pública (OPA Herri Plataformak), con el apoyo de sindicatos
+- Qué pedían: Reabrir las urgencias del Hospital de Santiago y el PAC de San Martín, en Vitoria; consultas de 15 minutos por paciente y no más de dos días de espera
+- Cifra oficial: Vitoria: hasta 6.000 personas según datos provisionales de la Policía Local. Bilbao y Donostia: sin cifra oficial en las fuentes leídas.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Urkullu (PNV y PSE), con elecciones convocadas para el 21 de abril. Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [Crónica Vasca: las capitales de Euskadi se inundan en defensa de Osakidetza](https://cronicavasca.elespanol.com/sociedad/20240316/las-capitales-de-euskadi-inundan-defensa-osakidetza/840415983_0.html)
+  - [Orain (EITB): manifestaciones en las tres capitales](https://orain.eus/es/actualidad/sociedad/2024/03/16/manifestaciones-por-sanidad-publica-universal-y-de-calidad-hoy-en-san-sebastian-bilbao-y-vitoria/)
 
 ### Huelga general feminista por los cuidados (País Vasco y Navarra)
 - Fecha: 30 nov 2023 · Sector: General
@@ -10812,6 +10997,32 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es: los sindicatos mantienen la huelga del 17 si no se firma lo acordado](https://www.eldiario.es/castilla-y-leon/politica/ugt-ccoo-csif-encierran-sala-reuniones-sanidad-ausencia-vazquez_1_10205158.html)
   - [ConSalud: acuerdo y desconvocatoria](https://www.consalud.es/autonomias/castilla-y-leon/castilla-leon-acuerdo-materia-sanitaria-con-principales-sindicatos_129905_102.html)
+
+### Manifestación por la sanidad pública y la atención primaria en Madrid (Madrid)
+- Fecha: 12 feb 2023 · Sector: Sanidad
+- Convocan: Vecinos de la región, con el apoyo de más de 74 organizaciones sociales
+- Qué pedían: Frenar el «desmantelamiento» de la atención primaria; los asistentes pidieron la dimisión de Ayuso y del consejero de Sanidad, Enrique Ruiz Escudero
+- Cifra oficial: 250.000 según la Delegación del Gobierno (Público). La agencia AP atribuyó la misma cifra a un portavoz del Gobierno regional.
+- Según quien convoca: Cerca de un millón.
+- Quién gobernaba: Ayuso (PP en solitario). Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [Diario de Avisos: miles de personas desbordan las calles de Madrid](https://diariodeavisos.elespanol.com/2023/02/madrid-manifestacion-sanidad-publica/)
+  - [Infobae (AP): masiva protesta en Madrid](https://www.infobae.com/espana/2023/02/12/masiva-protesta-en-madrid-contra-los-recortes-al-sistema-sanitario/)
+  - [Público: la cifra de 2023 según la Delegación del Gobierno (crónica de mayo de 2025)](https://www.publico.es/sociedad/miles-personas-toman-madrid-denunciar-desmantelamiento-ayuso-sanidad-manos-arriba-esto-atraco.html)
+
+### Manifestación de SOS Sanidade Pública en Santiago (Galicia (Santiago))
+- Fecha: 12 feb 2023 · Sector: Sanidad
+- Convocan: SOS Sanidade Pública
+- Qué pedían: Recuperar lo recortado en atención primaria y un nuevo modelo con más profesionales; los asistentes pidieron la dimisión del conselleiro de Sanidade, Julio García Comesaña
+- Cifra oficial: Las fuentes atribuyen a la Policía Local cifras distintas: 35.000 (elDiario.es) y 25.000 (El Correo Gallego). La agencia AP dio 20.000 «según la policía».
+- Según quien convoca: 50.000.
+- Quién gobernaba: Xunta del PP (Rueda). Competencia autonómica.
+- En qué acabó: Movilización.
+- Fuentes:
+  - [El Correo Gallego: decenas de miles de personas se manifiestan en Santiago](https://www.elcorreogallego.es/galicia/2023/02/13/decenas-miles-personas-manifiestan-santiago-82931025.html)
+  - [elDiario.es: la protesta desborda las calles de Santiago](https://www.eldiario.es/galicia/protesta-defensa-sanidad-publica-xunta-desacreditar-desborda-calles-santiago_1_9946552.html)
+  - [Infobae (AP): la cifra de Santiago](https://www.infobae.com/espana/2023/02/12/masiva-protesta-en-madrid-contra-los-recortes-al-sistema-sanitario/)
 
 ### Huelga de médicos (Navarra)
 - Fecha: feb 2023 · Sector: Sanidad
@@ -10860,6 +11071,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Telemadrid: firmado el acuerdo tras 123 días](https://www.telemadrid.es/noticias/madrid/Firmado-el-acuerdo-que-pone-fin-a-la-huelga-de-Atencion-Primaria-tras-123-dias-y-15-reuniones-0-2542245831--20230316095246.html)
   - [Público: la huelga indefinida](https://www.publico.es/sociedad/medicos-atencion-primaria-madrid-deciden-continuar-huelga-manera-indefinida.html)
+
+### Manifestación «Madrid se levanta por la sanidad pública» (Madrid)
+- Fecha: 13 nov 2022 · Sector: Sanidad
+- Convocan: Federación Regional de Asociaciones Vecinales de Madrid (FRAVM), a la que se sumaron sindicatos y partidos
+- Qué pedían: Defender la sanidad pública y frenar lo que llamaban «el plan de destrucción de la Atención Primaria»
+- Cifra oficial: Más de 200.000 según la Delegación del Gobierno.
+- Según quien convoca: 670.000 (antes habían dado 300.000).
+- Quién gobernaba: Ayuso (PP en solitario). Competencia autonómica.
+- En qué acabó: Movilización. Ocho días después empezó la huelga de médicos de atención primaria (ver su entrada).
+- Fuentes:
+  - [The Objective: miles de personas marchan por la sanidad pública en Madrid](https://theobjective.com/sociedad/2022-11-13/manifestacion-madrid-plan-sanitario-ayuso)
+  - [El Español: directo de la manifestación](https://www.elespanol.com/espana/20221113/manifestacion-sanidad-publica-sindicatos-oposicion-participacion-madrid/718278166_10.html)
 
 ### Huelga de médicos residentes (MIR) (Madrid)
 - Fecha: jul-ago 2020 · Sector: Sanidad
@@ -10916,6 +11139,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - En qué acabó: Movilización.
 - Fuentes:
   - [infoLibre: el 8M de 2019](https://infolibre.es/noticias/politica/2019/03/08/directo_8m_92670_1012.html)
+
+### Manifestación por la atención primaria en Vigo (Galicia (Vigo))
+- Fecha: 28 dic 2018 · Sector: Sanidad
+- Convocan: Los 25 jefes de servicio de los centros de salud del área sanitaria de Vigo que habían dimitido dos semanas antes
+- Qué pedían: Que la Xunta resolviera los problemas de la atención primaria del área de Vigo, con el lema «Por la dignidad de la Atención Primaria»
+- Cifra oficial: Policía Local: cerca de 40.000 según elDiario.es; 37.000 según Faro de Vigo.
+- Según quien convoca: Sin cifra en las fuentes leídas.
+- Quién gobernaba: Xunta del PP (Feijóo). Competencia autonómica.
+- En qué acabó: Movilización; la junta de personal del área anunció otra manifestación para el 24 de enero de 2019.
+- Fuentes:
+  - [elDiario.es: miles de personas se manifiestan en Vigo por la atención primaria](https://www.eldiario.es/galicia/movimientos_sociales/miles-manifiestan-vigo-xunta-sanitaria_1_1773986.html)
+  - [Faro de Vigo: el personal sanitario reclama soluciones tras la marcha](https://www.farodevigo.es/gran-vigo/2018/12/29/personal-sanitario-reclama-soluciones-marcha-15812809.html)
 
 ### Huelga feminista del 8M (España)
 - Fecha: 8 mar 2018 · Sector: General
