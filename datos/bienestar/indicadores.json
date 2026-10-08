@@ -250,7 +250,7 @@
   "unidad": "euros al mes",
   "serie": "ss_pension_media_jubilacion_ccaa.json",
   "mide": "Lo que cobra de media al mes una pensión de jubilación de la Seguridad Social, en toda España y en cada comunidad, a 1 de diciembre de cada año.",
-  "aviso": "Euros corrientes, sin descontar la inflación: compárala con la gráfica de subida de las pensiones frente al IPC. Las diferencias entre comunidades dependen sobre todo de los salarios y las carreras de cotización de cada territorio. El último dato es de septiembre de 2026, no de diciembre."
+  "aviso": "Euros corrientes, sin descontar la inflación: compárala con la gráfica de subida de las pensiones frente al IPC. Las cifras de cada comunidad no están ajustadas por edad, sexo ni años cotizados. El último dato es de septiembre de 2026, no de diciembre."
  },
  {
   "id": "pen_reval_ipc",
@@ -270,7 +270,7 @@
   "serie": "pension_minima_smi.json",
   "claves": {"Pensión mínima de jubilación (65 años, con cónyuge a cargo)": "pension_minima_anual.España", "Salario mínimo interprofesional": "smi_anual.España"},
   "mide": "La cuantía anual de la pensión mínima de jubilación y del salario mínimo que fija el BOE cada año.",
-  "aviso": "Son las cuantías anuales del BOE (14 pagas). La pensión mínima varía según la edad y si hay cónyuge a cargo: aquí está la de 65 años con cónyuge a cargo. En 2018 y 2022 la cuantía cambió a mitad de año; se recoge la que se acabó pagando. No la cobra todo el mundo: es un complemento para quien no supera un límite de ingresos."
+  "aviso": "Son las cuantías anuales del BOE (14 pagas). La pensión mínima varía según la edad y si hay cónyuge a cargo: aquí está la de 65 años con cónyuge a cargo. En 2018 la pensión mínima cambió a mitad de año (Ley 6/2018, de julio) y se recoge la que se acabó pagando; en 2022 el Real Decreto 65/2022, de enero, sustituyó la cifra de la ley de presupuestos. En 2021 se recoge el salario mínimo que fijó el Real Decreto 817/2021, aplicable desde el 1 de septiembre. No la cobra todo el mundo: es un complemento para quien no supera un límite de ingresos."
  },
  {
   "id": "pen_afiliados",
@@ -309,7 +309,7 @@
   "serie": "hue_huelgas_ccaa.json",
   "ruta": ["jornadas"],
   "mide": "Cuántas jornadas de trabajo se dejaron de hacer por huelgas cada año, en toda España y en cada comunidad. Es la medida más usada para comparar la conflictividad laboral.",
-  "aviso": "No incluye las huelgas generales. En cada comunidad se suman también las huelgas autonómicas y nacionales que le afectan, así que la suma de comunidades no da el total de España. Son cifras absolutas: una comunidad grande tendrá más jornadas que una pequeña aunque haya la misma conflictividad. 2022 a 2025 son provisionales."
+  "aviso": "No incluye las huelgas generales. En cada comunidad se suman también las huelgas autonómicas y nacionales que le afectan, así que la suma de comunidades no da el total de España. Son cifras absolutas: una comunidad grande tendrá más jornadas que una pequeña aunque haya la misma conflictividad. La estadística de 2016 no incluye la huelga del Contact Center de septiembre a diciembre, y la de 2018, la de jueces, magistrados y fiscales. 2025 es provisional."
  },
  {
   "id": "hue_participantes",
@@ -319,7 +319,7 @@
   "serie": "hue_huelgas_ccaa.json",
   "ruta": ["participantes"],
   "mide": "Cuántos trabajadores secundaron alguna huelga cada año, en toda España y en cada comunidad.",
-  "aviso": "No incluye las huelgas generales. Una persona que hace varias huelgas en el año cuenta varias veces. En cada comunidad se suman también las huelgas autonómicas y nacionales que le afectan. 2022 a 2025 son provisionales."
+  "aviso": "No incluye las huelgas generales. Se cuentan los participantes de cada huelga. En cada comunidad se suman también las huelgas autonómicas y nacionales que le afectan. La estadística de 2016 no incluye la huelga del Contact Center de septiembre a diciembre, y la de 2018, la de jueces, magistrados y fiscales. 2025 es provisional."
  },
  {
   "id": "hue_educacion_sanidad",
@@ -329,6 +329,6 @@
   "serie": "hue_huelgas_educacion_sanidad.json",
   "ruta": ["jornadas"],
   "mide": "Jornadas de trabajo perdidas por huelgas en la educación y en la sanidad y los servicios sociales, públicos y privados, en toda España.",
-  "aviso": "No incluye las huelgas generales. «Sanidad y servicios sociales» incluye también residencias y otros servicios sociales, no solo hospitales y centros de salud. La estadística no separa lo público de lo privado en esta tabla. 2022 a 2025 son provisionales."
+  "aviso": "No incluye las huelgas generales. «Sanidad y servicios sociales» incluye también residencias y otros servicios sociales, no solo hospitales y centros de salud. La estadística no separa lo público de lo privado en esta tabla. 2025 es provisional."
  }
 ]

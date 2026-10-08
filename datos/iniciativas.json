@@ -778,7 +778,7 @@
    "Podemos/UP"
   ],
   "s": "Al volver a registrarse en la nueva legislatura, el Gobierno de PSOE y Unidas Podemos ejerció su veto presupuestario (artículo 134.6 de la Constitución) porque aumentaba el gasto. En marzo de 2020 la Mesa del Congreso dio cuenta del veto y la ILP decayó.",
-  "n": "La portavoz socialista Adriana Lastra dijo que supondría un gasto de cerca de 1.900 millones de euros, «inasumibles» con un Presupuesto ya en trámite. Jusapol acusó al Gobierno de ceder ante el independentismo para que los Mossos siguieran siendo los mejor pagados.",
+  "n": "La portavoz socialista Adriana Lastra dijo que supondría un gasto de cerca de 1.900 millones de euros, «inasumibles» con un Presupuesto ya en trámite. Jusapol acusó al Gobierno de ceder ante el independentismo.",
   "src": [
    [
     "Congreso: BOCG del veto del Gobierno (B-5-2, 2020)",
@@ -827,12 +827,12 @@
   "a": "Cataluña",
   "m": "Renta garantizada de ciudadanía",
   "res": "apro",
-  "f": "—",
+  "f": "121.191 firmas",
   "pr": "Comisión promotora de la ILP, con apoyo de entidades sociales y sindicatos",
   "v": "Aprobada por unanimidad.",
   "p": [],
   "s": "El Parlament aprobó la Ley 14/2017, de la renta garantizada de ciudadanía, nacida de una ILP, con el Govern de JxSí.",
-  "n": "Ningún grupo votó en contra.",
+  "n": "Ningún grupo votó en contra. Todos los puntos se aprobaron por unanimidad salvo el artículo 25.2 y la disposición adicional tercera, en los que JxSí se abstuvo. La ILP se había admitido a trámite en 2013.",
   "src": [
    [
     "Parlament de Catalunya: aprobación por unanimidad",
@@ -865,12 +865,10 @@
   "res": "rech",
   "f": "Más de 56.000 firmas",
   "pr": "Antiguos paradistas de pájaros de la Rambla",
-  "v": "Prosperaron las enmiendas de devolución de PSC y comuns, con el apoyo de ERC y Junts: 96 a favor, 30 en contra (Vox, CUP, Cs y PP) y 3 sin votar.",
+  "v": "Prosperaron las enmiendas de devolución de PSC y comuns: 96 a favor, 30 en contra y 3 sin votar. El diario de sesiones no desglosa el voto por grupos.",
   "p": [
    "PSOE",
-   "Sumar",
-   "ERC",
-   "Junts"
+   "Sumar"
   ],
   "s": "El Parlament devolvió la ILP, que pedía proteger como patrimonio la venta de pájaros en la Rambla de Barcelona.",
   "n": "Los comuns (David Cid) dijeron que en el siglo XXI estas actividades no tienen cabida, y el PSC (Assumpta Escarp) que todas las concesiones estaban caducadas. La venta de animales ya chocaba con la ley catalana de protección animal.",
@@ -964,7 +962,7 @@
   "res": "apro",
   "f": "Unas 12.000 firmas",
   "pr": "GOB y otras entidades",
-  "v": "Aprobada con los votos de PSIB, Unides Podem, Més per Mallorca y Més per Menorca. El PP votó en contra.",
+  "v": "Aprobada con los votos de PSIB, Unides Podem, Més per Mallorca y Més per Menorca. El PP votó en contra; El Pi y Vox tampoco la apoyaron (la fuente no detalla si votaron en contra o se abstuvieron).",
   "p": [
    "PP"
   ],
@@ -991,7 +989,7 @@
   "v": "Admitida a trámite el 7 de octubre de 2025.",
   "p": [],
   "s": "La Mesa del Parlament la admitió y en octubre de 2026 la Oficina del Censo Electoral validó las firmas. Pendiente de debate.",
-  "n": "Es la misma reivindicación que el País Vasco rechazó en 2025.",
+  "n": "Hacían falta 7.500 firmas; se validaron 20.099.",
   "src": [
    [
     "Ara Balears: admitida a trámite",
@@ -1030,7 +1028,7 @@
   "a": "La Rioja",
   "m": "Plan especial de protección del paisaje vitícola de Haro",
   "res": "bloq",
-  "f": "Unas 8.500 firmas (hacían falta 6.000)",
+  "f": "Sin cifra en las fuentes citadas",
   "pr": "Plataforma en defensa del paisaje de Haro, con bodegueros y vecinos",
   "v": "Tomada en consideración el 23 de noviembre de 2017.",
   "p": [],
@@ -1048,11 +1046,11 @@
   ]
  },
  {
-  "d": "2018-02-15",
+  "d": "2018-02-16",
   "a": "La Rioja",
   "m": "Protección y promoción de la tauromaquia",
   "res": "apro",
-  "f": "6.054 firmas válidas",
+  "f": "Más de 6.000 firmas",
   "pr": "Comisión promotora de aficionados taurinos",
   "v": "Toma en consideración (30-mar-2017): a favor PP y PSOE; abstención de Podemos y Ciudadanos.",
   "p": [],
@@ -1105,7 +1103,7 @@
    "Vox"
   ],
   "s": "Se admitió en 2018 con el Gobierno del PSOE y se tomó en consideración en 2019, ya con el de PP y Cs. La Comisión de Presidencia la tumbó en 2021 y la Mesa dio el procedimiento por concluido sin votación final en el Pleno. Los promotores recurrieron en amparo al Constitucional.",
-  "n": "Funcionarios y opositores se oponían porque saltaba los principios de igualdad, mérito y capacidad. La Asamblea de Extremadura inadmitió en 2018 ILP parecidas por chocar con el Estatuto Básico del Empleado Público. No consta nominalmente qué grupos se abstuvieron en 2019.",
+  "n": "Funcionarios y opositores se oponían porque saltaba los principios de igualdad, mérito y capacidad. No consta nominalmente qué grupos se abstuvieron en 2019.",
   "src": [
    [
     "Parlamento de Andalucía: expediente 10-18/ILPA-000001",
@@ -1128,7 +1126,7 @@
   "res": "rech",
   "f": "Iniciativa municipal, sin firmas",
   "pr": "30 ayuntamientos andaluces",
-  "v": "49 a favor, 59 en contra y 1 abstención. En contra PP, Cs y Vox.",
+  "v": "49 a favor, 59 en contra y 1 abstención. El diario de sesiones no desglosa el voto por grupos; PP, Cs y Vox argumentaron en contra en el debate.",
   "p": [
    "PP",
    "Cs",
@@ -1150,11 +1148,10 @@
   "res": "rech",
   "f": "Iniciativa municipal, sin firmas",
   "pr": "11 ayuntamientos, entre ellos Sevilla",
-  "v": "48 a favor, 59 en contra y ninguna abstención.",
+  "v": "48 a favor, 59 en contra y ninguna abstención. El diario de sesiones no desglosa el voto por grupos.",
   "p": [
    "PP",
-   "Cs",
-   "Vox"
+   "Cs"
   ],
   "s": "El Parlamento rechazó tomarla en consideración. El Consejo de Gobierno de PP y Cs dio criterio contrario: «no existe un déficit legislativo en esta materia».",
   "n": "El PP (López Gabarro) dijo que no hacía falta «ninguna otra ley» sino buena gestión.",
@@ -1353,8 +1350,8 @@
   "p": [
    "PSOE"
   ],
-  "s": "La Mesa de las Cortes, con mayoría absoluta del PSOE, rechazó el 13 de julio de 2026 que se tramitara y debatiera en el Pleno.",
-  "n": "No se ha encontrado el acuerdo de la Mesa ni su motivo oficial; los promotores hablaron de «deficiencias políticas y democráticas».",
+  "s": "La Mesa de las Cortes, en una cámara con mayoría absoluta del PSOE, rechazó el 13 de julio de 2026 que se tramitara y debatiera en el Pleno.",
+  "n": "Según los promotores, la Mesa alegó que la ILP «supone un aumento de los créditos presupuestarios»; no se ha encontrado el acuerdo de la Mesa. Los promotores hablaron de «carencias democráticas».",
   "src": [
    [
     "Lanza",
@@ -1365,5 +1362,174 @@
     "https://torrijostoday.com/castilla-la-mancha/ampas-y-sindicatos-vuelven-a-reclamar-enfermeria-escolar-en-centros-educativos-tras-rechazar-las-cortes-esta-ilp/"
    ]
   ]
+ },
+ {
+  "d": "2017-02-24",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Fuencaliente de la Palma sobre el balneario de la Fuente Santa",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Fuencaliente de la Palma (Santa Cruz de Tenerife)",
+  "v": "El Consejo de Ministros, con Gobierno del PP, no la autorizó.",
+  "p": ["PP"],
+  "s": "El Ayuntamiento quería preguntar a los vecinos por el proyecto del balneario de la Fuente Santa.",
+  "n": "Según el Gobierno, las aguas minerales y termales son competencia del Gobierno de Canarias y los recursos de la Fuente Santa «rebasan, incluso, el insular», así que no se cumplía el artículo 71 de la ley de bases de régimen local, que exige que la consulta sea sobre un asunto municipal y de carácter local.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 24-feb-2017", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2017/refc20170224.aspx"]]
+ },
+ {
+  "d": "2017-11-03",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Cabrales sobre la gestión del Parque Nacional de los Picos de Europa",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Cabrales (Asturias)",
+  "v": "El Consejo de Ministros, con Gobierno del PP, no la autorizó.",
+  "p": ["PP"],
+  "s": "El Ayuntamiento quería consultar a los vecinos sobre la gestión del Parque Nacional de los Picos de Europa en relación con el municipio, su desarrollo y su futuro.",
+  "n": "La referencia del Consejo de Ministros solo recoge el acuerdo, sin explicar el motivo.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 3-nov-2017", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2017/refc20171103.aspx"]]
+ },
+ {
+  "d": "2017-12-07",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Cella sobre la Laguna del Cañizar (denegada en parte)",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Cella (Teruel)",
+  "v": "El Consejo de Ministros, con Gobierno del PP, autorizó una pregunta y denegó la otra.",
+  "p": ["PP"],
+  "s": "La consulta tenía dos preguntas. Se autorizó la de pedir que la finca municipal «El Prado» vuelva a ser Zona de Especial Protección para las Aves y se denegó la de si el Ayuntamiento debía promocionar la Laguna del Cañizar.",
+  "n": "Según el Gobierno, la pregunta sobre la laguna «no versa sobre un asunto de competencia propia municipal ni es de carácter local».",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 7-dic-2017", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2017/refc20171207.aspx"]]
+ },
+ {
+  "d": "2018-02-23",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Santa Margalida sobre la depuradora de Can Picafort",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Santa Margalida (Mallorca)",
+  "v": "El Consejo de Ministros, con Gobierno del PP, no la autorizó.",
+  "p": ["PP"],
+  "s": "El Ayuntamiento quería preguntar por el proyecto de nueva estación depuradora de aguas residuales en Can Picafort y su emisario submarino.",
+  "n": "Según el Gobierno, no era un asunto de competencia municipal porque el proyecto había sido «declarado de interés general del Estado» por la Ley de Presupuestos de 2010.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 23-feb-2018", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2018/refc20180223.aspx"]]
+ },
+ {
+  "d": "2018-03-23",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Agaete sobre la ampliación del Puerto de las Nieves",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Agaete (Las Palmas)",
+  "v": "El Consejo de Ministros, con Gobierno del PP, no la autorizó.",
+  "p": ["PP"],
+  "s": "El Ayuntamiento quería consultar sobre las obras de ampliación del Puerto de las Nieves que planeaba el Gobierno de Canarias.",
+  "n": "Según el Gobierno, el puerto es competencia «estrictamente autonómica» y tiene repercusión en toda Canarias, así que no es un asunto municipal ni de carácter local.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 23-mar-2018", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2018/refc20180323.aspx"]]
+ },
+ {
+  "d": "2018-07-20",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Galdakao a nueve barrios sobre unirse a la segregación de Usansolo",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Galdakao (Bizkaia)",
+  "v": "El Consejo de Ministros, con Gobierno del PSOE, no la autorizó.",
+  "p": ["PSOE"],
+  "s": "El Ayuntamiento quería preguntar a los vecinos de nueve barrios si querían que su barrio entrara en el proceso de segregación de Usansolo.",
+  "n": "La referencia del Consejo de Ministros solo recoge el acuerdo, sin explicar el motivo.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 20-jul-2018", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2018/refc20180720.aspx"]]
+ },
+ {
+  "d": "2019-06-28",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Tafalla sobre el tren de alta velocidad",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Tafalla (Navarra)",
+  "v": "El Consejo de Ministros, con Gobierno del PSOE en funciones, no la autorizó.",
+  "p": ["PSOE"],
+  "s": "El Ayuntamiento quería preguntar si, en vez de construir un nuevo tren de alta velocidad por el municipio, se debía invertir en modernizar el ferrocarril.",
+  "n": "Según el Gobierno, la planificación de la red ferroviaria de interés general es competencia del Ministerio de Fomento y el trazado «supera el ámbito territorial del municipio».",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 28-jun-2019", "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2019/refc20190628.aspx"]]
+ },
+ {
+  "d": "2019-11-29",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Onda sobre la ampliación del vertedero y una incineradora",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Onda (Castellón)",
+  "v": "El Consejo de Ministros, con Gobierno del PSOE en funciones, no la autorizó.",
+  "p": ["PSOE"],
+  "s": "El Ayuntamiento quería preguntar si se estaba a favor de ampliar el vertedero e instalar una incineradora de animales muertos de Reciplasa en el municipio.",
+  "n": "Según el Gobierno, la cuestión «excede del ámbito local» y afecta a otros municipios y a otras administraciones.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 29-nov-2019", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2019/refc20191129.aspx"]]
+ },
+ {
+  "d": "2021-07-06",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Gilet sobre una antena de telefonía móvil",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Gilet (Valencia)",
+  "v": "El Consejo de Ministros, con Gobierno de PSOE y UP, no la autorizó.",
+  "p": ["PSOE", "Podemos/UP"],
+  "s": "El Ayuntamiento quería consultar a los vecinos sobre la instalación de una antena de telefonía móvil.",
+  "n": "La referencia del Consejo de Ministros solo recoge el acuerdo, sin explicar el motivo.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 6-jul-2021", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2021/refc20210706.aspx"]]
+ },
+ {
+  "d": "2022-01-25",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Las Navas de la Concepción para salir del Parque Natural Sierra Norte",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Las Navas de la Concepción (Sevilla)",
+  "v": "El Consejo de Ministros, con Gobierno de PSOE y UP, no la autorizó.",
+  "p": ["PSOE", "Podemos/UP"],
+  "s": "El Ayuntamiento quería preguntar si los vecinos estaban de acuerdo con que el municipio saliera del Parque Natural Sierra Norte de Sevilla.",
+  "n": "Según el Gobierno, no es un asunto «ni de competencia ni de carácter exclusivamente municipal»: la legislación básica de medio ambiente es del Estado y el Estatuto de Andalucía da a la Junta la competencia exclusiva sobre la delimitación de los espacios naturales protegidos.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 25-ene-2022", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2022/refc20220125.aspx"]]
+ },
+ {
+  "d": "2022-05-24",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Cuenca sobre la línea de tren Aranjuez-Cuenca-Utiel",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Cuenca",
+  "v": "El Consejo de Ministros, con Gobierno de PSOE y UP, no la autorizó.",
+  "p": ["PSOE", "Podemos/UP"],
+  "s": "El Ayuntamiento quería consultar a los vecinos sobre la línea de tren convencional Aranjuez-Cuenca-Utiel.",
+  "n": "Según el Gobierno, no es un asunto de competencia municipal y «excede del ámbito local».",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 24-may-2022", "https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2022/refc20220524.aspx"]]
+ },
+ {
+  "d": "2022-10-18",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Icod de los Vinos sobre la arena de la playa de San Marcos",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Icod de los Vinos (Tenerife)",
+  "v": "El Consejo de Ministros, con Gobierno de PSOE y UP, no la autorizó.",
+  "p": ["PSOE", "Podemos/UP"],
+  "s": "El Ayuntamiento quería preguntar con qué tipo de arena recuperar la playa de San Marcos.",
+  "n": "Según el Gobierno, la recuperación de playas es una obra de interés general del Estado según la Ley de Costas, así que no es un asunto de competencia propia municipal.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 18-oct-2022", "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2022/refc20221018.aspx"]]
+ },
+ {
+  "d": "2023-12-19",
+  "a": "Ayuntamientos",
+  "m": "Consulta en Herrera de los Navarros sobre tener una residencia",
+  "res": "deneg",
+  "f": "Pedida por el pleno municipal",
+  "pr": "Ayuntamiento de Herrera de los Navarros (Zaragoza)",
+  "v": "El Consejo de Ministros, con Gobierno de PSOE y Sumar, no la autorizó.",
+  "p": ["PSOE", "Sumar"],
+  "s": "El Ayuntamiento quería preguntar a los vecinos si querían tener una residencia en el municipio.",
+  "n": "Según el Gobierno, apoyándose en un informe del Gobierno de Aragón, una residencia no es un asunto solo local porque puede acoger a personas de otras localidades, y no cumple el «parámetro de territorialidad» de la ley de bases de régimen local.",
+  "src": [["La Moncloa: referencia del Consejo de Ministros del 19-dic-2023", "https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2023/refc20231219.aspx"]]
  }
 ]

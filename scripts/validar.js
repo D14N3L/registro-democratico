@@ -110,6 +110,8 @@ if (existe("bulos")) leer("bulos").forEach((e, i) => {
   for (const k of ["quien", "cargo", "canal", "tema", "dicho", "datos", "verif", "calif"]) if (!e[k]) error("bulos", i, e, `falta ${k}`);
   for (const p of e.p || []) if (!PARTIDOS.includes(p)) error("bulos", i, e, `partido desconocido: ${p}`);
   if (!VERIFICADORES.includes(e.verif)) error("bulos", i, e, `verificador fuera de la EFCSN: ${e.verif}`);
+  // Regla editorial (7-oct-2026): solo entra lo que el verificador califica de «falso» o «bulo» con sus palabras.
+  if (!/^(falso|bulo)/i.test(e.calif || "")) error("bulos", i, e, `calificación que no es «Falso» ni «Bulo»: ${e.calif}`);
   if (!(e.src || []).some(([, u]) => /maldita\.es|newtral\.es|verifica\.efe\.com|verificat\.cat/.test(u))) error("bulos", i, e, "falta el enlace al verificador");
 });
 const VEREDICTOS = ["cumplida", "medias", "no", "tramite", "curso", "sin"];

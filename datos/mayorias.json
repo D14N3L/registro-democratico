@@ -1608,7 +1608,7 @@
   "tema": "Presupuestos y hacienda",
   "tram": [],
   "ap": "sd",
-  "voto": "Se votó por artículos en el Pleno del 17-7-2025 (Diario de Sesiones nº 49): la mayoría de los artículos y las disposiciones salieron con 29 votos a favor (PP y PSOE) y 4 en contra o abstenciones; otros, solo con los 17 votos del PP (17 a favor y 16 en contra, o 17 a favor, 4 en contra y 12 abstenciones). La exposición de motivos se aprobó por 17 a 16. El Diario no nombra a los grupos en cada votación.",
+  "voto": "Se votó por artículos en el Pleno del 17-7-2025 (Diario de Sesiones nº 49): la mayoría de los artículos y las disposiciones salieron con 29 votos a favor y 4 en contra o abstenciones; otros, solo con los 17 votos del PP (17 a favor y 16 en contra, o 17 a favor, 4 en contra y 12 abstenciones). La exposición de motivos se aprobó por 17 a 16. El Diario no nombra a los grupos en cada votación.",
   "s": "Ley de medidas a mitad de ejercicio que modifica normas presupuestarias, tributarias y administrativas. Entre otras cosas, aclara con efectos desde 2024 que la deducción autonómica del IRPF por vehículos eléctricos es compatible con la estatal salvo en algunas categorías.",
   "rec": "",
   "n": "Proyecto del Gobierno aprobado en el pleno del 17 de julio de 2025, con votación separada de los artículos.",
@@ -1662,7 +1662,7 @@
   "tema": "Medio ambiente",
   "tram": [],
   "ap": "sd",
-  "voto": "No se ha podido confirmar con fuentes legibles (la crónica de Nuevecuatrouno bloquea el acceso automático); según la entrada, PP a favor, PSOE y Vox abstención y Podemos-IU en contra.",
+  "voto": "No se ha podido confirmar qué votó cada grupo con fuentes legibles (la crónica de Nuevecuatrouno bloquea el acceso automático).",
   "s": "Primera ley riojana de protección y ordenación del paisaje, para frenar proyectos de impacto irreversible. Según la Ley 1/2024, su entrada en vigor marca el fin de la moratoria a nuevas instalaciones de generación eléctrica en suelo no urbanizable.",
   "rec": "El presidente del Gobierno recurrió los arts. 13.3, 14, 22.3, 23.6, 24, 28 y la disposición transitoria segunda, solo en cuanto se apliquen a actuaciones de competencia estatal (recurso 2525-2026, admitido el 14-4-2026, con suspensión de esos preceptos). La STC 44/2026, de 10 de junio, lo estimó en parte: anuló el inciso 'o por acuerdo del Consejo de Ministros' del art. 22.3 y declaró constitucionales los demás preceptos si se interpretan como fija la sentencia. Sin votos particulares.",
   "n": "Capellán defendió que hay que proteger los paisajes riojanos frente a proyectos de impacto irreversible. Tras el recurso, el PSOE (Jesús María García) recordó que ya había avisado de posibles inconstitucionalidades y que se rechazaron sus enmiendas; Izquierda Unida había denunciado los 'términos difusos y subjetivos' que luego citó el Consejo de Ministros.",
@@ -1909,16 +1909,20 @@
   "g": "PP",
   "ley": "Ley 1/2025, de 30 de abril, de modificación de la Ley 5/2018 de protección, reconocimiento y memoria de las víctimas del terrorismo",
   "tema": "Derechos y libertades",
-  "tram": [],
-  "ap": "sd",
-  "voto": "No se ha podido confirmar con fuentes válidas (la única crónica leída, de El Debate, hablaba de unanimidad)",
+  "tram": ["lectura única", "proposición del grupo del Gobierno"],
+  "ap": "unan",
+  "voto": "Aprobada el 24-4-2025 con el respaldo de todos los partidos de la Cámara (Europa Press)",
   "s": "Amplía la protección a todos los daños personales que reconoce la ley estatal y añade ayudas extraordinarias. Todas las personas a las que el Estado haya reconocido una indemnización podrán cobrar el complemento autonómico del 30%. También prevé el caso de los herederos de víctimas incapacitadas que murieron antes de que entrara en vigor la ley.",
   "rec": "",
-  "n": "Incluye un régimen para los herederos de víctimas incapacitadas fallecidas antes de la ley (disposición adicional segunda). Pendiente de confirmar con el Diario de Sesiones de la Asamblea: la unanimidad, la tramitación por lectura única como proposición del PP y que esa disposición venga de una enmienda del PSOE.",
+  "n": "Proposición de ley del PP tramitada por lectura única. El régimen para los herederos de víctimas incapacitadas fallecidas antes de la ley (disposición adicional segunda) viene de una enmienda del PSOE que el PP aceptó.",
   "src": [
    [
     "BOE: Ley 1/2025, de 30 de abril (Comunidad de Madrid)",
     "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-19344"
+   ],
+   [
+    "Europa Press (vía Última Hora): aprobada por unanimidad la ley de víctimas del terrorismo (24-abr-2025)",
+    "https://www.ultimahora.es/noticias/comunidades/2025/04/24/2373343/aprobada-por-unanimidad-ley-para-ampliar-proteccion-reconocimiento-victimas-del-terrorismo.html"
    ]
   ]
  },
@@ -2181,8 +2185,8 @@
   "tram": [
    "ómnibus"
   ],
-  "ap": "sd",
-  "voto": "Aprobada con la mayoría absoluta del PP; no se ha podido confirmar qué votó cada grupo",
+  "ap": "solo",
+  "voto": "Aprobada con los votos del PP, la abstención de Vox y el rechazo del PSOE y Más Madrid (El Diario de Madrid, 21-12-2024)",
   "s": "Ley ómnibus enviada por el Gobierno en octubre de 2024 con unas diez modificaciones legales en urbanismo, medio ambiente, energía y agua. Permite solicitar y tramitar licencias de edificación desde la aprobación definitiva de la reparcelación, sin esperar a su firmeza, y tramitar a la vez la evaluación ambiental estratégica y la de impacto. Abre la puerta a centros de datos en suelo no urbanizable mediante proyectos de actuación especial, declara de interés regional obras de regadío e incluye incentivos a la vivienda rural. Según El Diario de Madrid beneficia a desarrollos como Valdecarros, Los Berrocales y Madrid Nuevo Norte. Incorporó 19 enmiendas durante la tramitación.",
   "rec": "",
   "n": "El Gobierno la presenta como un equilibrio entre crecimiento económico y demográfico y protección de los recursos naturales. Según su argumento, adelantar las licencias a la fase de reparcelación recorta en un año los plazos para construir viviendas, y la ley apoya la descarbonización y la lucha contra la despoblación.",
@@ -2190,6 +2194,10 @@
    [
     "El Diario de Madrid: Aprobada la Ley de medidas para un desarrollo equilibrado del medio ambiente y la ordenación del territorio",
     "https://www.eldiariodemadrid.es/articulo/madrid/aprobada-ley-medidas-desarrollo-equilibrado-medio-ambiente-ordenacion-territorio/20241220170003086305.html"
+   ],
+   [
+    "El Diario de Madrid: la Real Casa de Correos, blindada ante la Ley de Memoria (voto de cada grupo, 21-dic-2024)",
+    "https://www.eldiariodemadrid.es/articulo/politica/real-casa-correos-blindada/20241221125623086368.html"
    ],
    [
     "Madrid Actual: El Gobierno regional presenta una nueva Ley ómnibus sobre urbanismo, ordenación de territorio, energía y medio ambiente",
@@ -3428,7 +3436,7 @@
   "tema": "Presupuestos y hacienda",
   "tram": [],
   "ap": "sd",
-  "voto": "No se ha podido confirmar con fuentes legibles (la crónica de Nuevecuatrouno bloquea el acceso automático); según la entrada, PP a favor, PSOE y Podemos-IU en contra y Vox abstención.",
+  "voto": "No se ha podido confirmar qué votó cada grupo con fuentes legibles (la crónica de Nuevecuatrouno bloquea el acceso automático).",
   "s": "Primer presupuesto del Gobierno de Capellán: 1.947,38 millones de euros. No se han podido leer las cifras de variación ni el desglose de rebajas fiscales y ayudas.",
   "rec": "",
   "n": "No se han podido leer los argumentos del debate (la única crónica, de Nuevecuatrouno, bloquea el acceso automático).",

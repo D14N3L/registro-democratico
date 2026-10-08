@@ -54,7 +54,7 @@
   "canal": "La Hora de La 1 (TVE)",
   "tema": "Instituciones y justicia",
   "dicho": "Que El País había sido «condenado por mentir» por una querella de Espinosa de los Monteros y Monasterio.",
-  "datos": "La sentencia no juzgó si la noticia era cierta: el tribunal dijo expresamente que no lo valoraría.",
+  "datos": "Era un pleito sobre el derecho de rectificación, para que el periódico incluyera la versión de Monasterio; la sentencia no juzgó si la noticia era cierta: el tribunal dijo expresamente que no lo valoraría.",
   "verif": "Newtral",
   "calif": "Falso",
   "rect": "",
@@ -224,7 +224,7 @@
   ]
  },
  {
-  "d": "2019-10-26",
+  "d": "2019-10-31",
   "dl": "oct 2019",
   "quien": "Santiago Abascal y la cuenta oficial de Vox",
   "cargo": "presidente de Vox",
@@ -234,11 +234,15 @@
   "canal": "Mitin en Granada y X (@vox_es)",
   "tema": "Inmigración y seguridad",
   "dicho": "Que las ayudas al alquiler de Madrid «discriminan» a los españoles «con arraigo».",
-  "datos": "Ni el Plan Estatal de Vivienda ni las bases recogían el «arraigo», y el 81,5% de los admitidos en el listado provisional eran españoles, según la Consejería de Vivienda.",
+  "datos": "Ni el Plan Estatal de Vivienda ni las bases recogían el «arraigo», y en los dos listados provisionales de admitidos que analizó Maldita.es el 81,5% eran españoles.",
   "verif": "Maldita.es",
   "calif": "Falso",
   "rect": "",
   "src": [
+   [
+    "Maldita.es: es falso que la legislación discrimine a los españoles con arraigo en las ayudas al alquiler de Madrid (31-oct-2019)",
+    "https://maldita.es/malditodato/20191031/es-falso-que-la-legislacion-discrimine-a-los-espanoles-que-tienen-arraigo-en-las-ayudas-al-alquiler-de-la-comunidad-de-madrid-2019-como-dice-santiago-abascal/"
+   ],
    [
     "Maldita.es: los bulos de Vox sobre inmigración",
     "https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/"
@@ -246,8 +250,8 @@
   ]
  },
  {
-  "d": "2019-11-01",
-  "dl": "2019",
+  "d": "2019-07-08",
+  "dl": "jul 2019",
   "quien": "Ignacio Garriga",
   "cargo": "diputado de Vox en el Congreso",
   "p": [
@@ -256,11 +260,15 @@
   "canal": "X",
   "tema": "Inmigración y seguridad",
   "dicho": "Que los miembros de la «manada de Manresa» eran menores extranjeros no acompañados.",
-  "datos": "Maldita.es lo califica de falso en su recopilación de bulos de Vox sobre inmigración.",
+  "datos": "Según la Audiencia Provincial de Barcelona, que los juzgaba (no un tribunal de menores), los siete acusados eran tres españoles, tres cubanos y un argentino.",
   "verif": "Maldita.es",
   "calif": "Falso",
   "rect": "",
   "src": [
+   [
+    "Maldita.es: es falso que los miembros de la «manada de Manresa» sean menas, como dice Garriga (8-jul-2019)",
+    "https://maldita.es/malditodato/20190708/es-falso-que-los-miembros-de-la-denominada-manada-de-manresa-sean-menas-como-dice-ignacio-garriga-vox/"
+   ],
    [
     "Maldita.es: los bulos de Vox sobre inmigración",
     "https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/"
@@ -563,8 +571,8 @@
   ],
   "canal": "Al Rojo Vivo (laSexta)",
   "tema": "Sanidad",
-  "dicho": "Que a Madrid se le impuso el estado de alarma con la mitad de la incidencia de la COVID que tenía entonces España.",
-  "datos": "Madrid tenía unos 637 casos por 100.000 habitantes y España 736: no era la mitad, según Sanidad.",
+  "dicho": "Que en la segunda ola a Madrid se le impuso el estado de alarma «con la mitad de incidencia de lo que tenemos ahora en toda España».",
+  "datos": "Cuando se aprobó el estado de alarma en Madrid (otoño de 2020), su incidencia rondaba los 637 casos por 100.000 habitantes; la de España el día que habló Casado era de 736, según Sanidad: no era la mitad.",
   "verif": "Maldita.es",
   "calif": "Falso",
   "rect": "",
@@ -642,68 +650,8 @@
   ]
  },
  {
-  "d": "2026-10-05",
-  "dl": "5 oct 2026",
-  "quien": "Isabel Díaz Ayuso",
-  "cargo": "presidenta de la Comunidad de Madrid",
-  "p": [
-   "PP"
-  ],
-  "canal": "Desayuno informativo (Fórum Europa)",
-  "tema": "Elecciones",
-  "dicho": "Pidió a todo el mundo que «ni se le ocurra votar por correo» y habló de una posible adulteración de los censos.",
-  "datos": "No hay ninguna prueba de fraude en el voto por correo en España; la ley electoral fija sus garantías y el control de la Junta Electoral.",
-  "verif": "Verificat",
-  "calif": "Teoría de la conspiración",
-  "rect": "Ninguno de los dos verificadores lo califica de «falso»: Verificat lo llama teoría de la conspiración «ampliamente desmentida» y Newtral dice que se dijo «sin aportar pruebas». Al día siguiente Ayuso dijo «Yo no he dicho eso», pero insistió en que la gente «no se confíe» y habló de «trampas» y «censos inflados». El portavoz del PP, Borja Sémper, defendió las garantías del sistema.",
-  "src": [
-   [
-    "Verificat: Abascal y Ayuso alimentan la teoría del fraude en el voto por correo",
-    "https://www.verificat.cat/es/abascal-ayuso-voto-por-correo-fraude/"
-   ],
-   [
-    "Newtral: cómo funciona el voto por correo",
-    "https://www.newtral.es/sistema-voto-correo/20261006/"
-   ],
-   [
-    "elDiario.es: Ayuso dice que no acusó al Gobierno y a la vez insiste",
-    "https://www.eldiario.es/madrid/ayuso-dice-no-acuso-gobierno-manipular-voto-correo-vez-insiste-pido-gente-no-confie_1_13565607.html"
-   ],
-   [
-    "El Diario de Madrid: el voto por correo abre el choque Sánchez-Ayuso",
-    "https://www.eldiariodemadrid.es/articulo/politica/voto-correo-abre-primer-gran-choque-entre-sanchez-ayuso-cara-29-n/20261006164317143518.html"
-   ]
-  ]
- },
- {
-  "d": "2026-10-05",
-  "dl": "5 oct 2026",
-  "quien": "Santiago Abascal",
-  "cargo": "presidente de Vox",
-  "p": [
-   "Vox"
-  ],
-  "canal": "Entrevista en Antena 3",
-  "tema": "Elecciones",
-  "dicho": "Pidió votar en persona y no por correo para «votar con seguridad».",
-  "datos": "No hay ninguna prueba de fraude en el voto por correo en España; la ley electoral fija sus garantías y el control de la Junta Electoral.",
-  "verif": "Verificat",
-  "calif": "Teoría de la conspiración",
-  "rect": "Ninguno de los dos verificadores lo califica de «falso»: Verificat lo llama teoría de la conspiración «ampliamente desmentida» y Newtral dice que se dijo «sin aportar pruebas».",
-  "src": [
-   [
-    "Verificat: Abascal y Ayuso alimentan la teoría del fraude en el voto por correo",
-    "https://www.verificat.cat/es/abascal-ayuso-voto-por-correo-fraude/"
-   ],
-   [
-    "Newtral: cómo funciona el voto por correo",
-    "https://www.newtral.es/sistema-voto-correo/20261006/"
-   ]
-  ]
- },
- {
-  "d": "2025-05-30",
-  "dl": "may-jun 2025",
+  "d": "2025-05-29",
+  "dl": "29-30 may 2025",
   "quien": "Óscar Puente, Mónica García, Óscar López, Pilar Alegría, María Jesús Montero, Ángel Víctor Torres y la cuenta del PSOE",
   "cargo": "ministros del Gobierno",
   "p": [
@@ -936,8 +884,8 @@
   ],
   "canal": "Mitin del PSC en Lleida",
   "tema": "Sanidad",
-  "dicho": "Que la Generalitat gastó en sanidad menos en 2020 que en 2010 y que Cataluña dedica un 3,7% del PIB frente al 6,2% de España.",
-  "datos": "Según el Ministerio de Sanidad, fueron 9.789 millones en 2020 y 9.888 en 2010, y Cataluña gasta el 4,7% del PIB; las cifras de España y Cataluña que usó no son comparables.",
+  "dicho": "Que los presupuestos catalanes de 2020 destinaron a sanidad menos que los de 2010 y que Cataluña dedica un 3,7% del PIB frente al 6,2% de España.",
+  "datos": "Según Newtral, Sánchez mezcló presupuesto inicial y gasto ejecutado: el presupuesto inicial fue de 9.789 millones en 2020 y de 9.888 en 2010, pero el gasto ejecutado superó los 10.000 millones en 2010 y también en 2016, 2017 y 2018; y Cataluña gasta el 4,7% del PIB. Las cifras de España y Cataluña que usó no son comparables.",
   "verif": "Newtral",
   "calif": "Falso",
   "rect": "",
@@ -965,7 +913,7 @@
   "rect": "",
   "src": [
    [
-    "Maldita.es: las 17 falsedades del debate de la Academia de TV",
+    "Maldita.es: las 18 falsedades del debate de la Academia de TV",
     "https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/"
    ]
   ]
@@ -1037,7 +985,7 @@
   ]
  },
  {
-  "d": "2022-07-05",
+  "d": "2022-07-12",
   "dl": "jul 2022",
   "quien": "Ione Belarra",
   "cargo": "ministra de Derechos Sociales y secretaria general de Podemos",
@@ -1075,7 +1023,7 @@
   "rect": "",
   "src": [
    [
-    "Maldita.es: las 17 falsedades del debate de la Academia de TV",
+    "Maldita.es: las 18 falsedades del debate de la Academia de TV",
     "https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/"
    ]
   ]
@@ -1091,7 +1039,7 @@
   "canal": "Entrevista en elDiario.es",
   "tema": "Sanidad",
   "dicho": "Que no se sabía dónde se había producido el 85% de los contagios en Madrid.",
-  "datos": "Según el informe de Sanidad del día anterior, la trazabilidad era del 54,7%; el 85% correspondía a enero y febrero.",
+  "datos": "Según el informe de Sanidad del día anterior, la trazabilidad era del 54,7%. El dato que dio fue cierto en enero: entre el 29 de diciembre y el 4 de febrero la trazabilidad media fue del 14,6%.",
   "verif": "Newtral",
   "calif": "Falso",
   "rect": "Más Madrid se remitió a un artículo de prensa de febrero.",
@@ -1113,7 +1061,7 @@
   "canal": "Salvados y debate en Cuatro",
   "tema": "Inmigración y seguridad",
   "dicho": "Que había puesto más agentes de la Guardia Urbana.",
-  "datos": "Había 2.888 agentes en mayo de 2015 y 2.784 en mayo de 2019, el mínimo desde 2011, según datos obtenidos por reclamación de transparencia.",
+  "datos": "Había 2.888 agentes en mayo de 2015 y 2.784 en mayo de 2019; en junio de 2019 eran 2.782, el mínimo desde 2011, según datos obtenidos por reclamación de transparencia.",
   "verif": "Maldita.es",
   "calif": "Falso",
   "rect": "",
@@ -1314,7 +1262,7 @@
   "datos": "Fue al revés: el abogado de González Amador escribió a la Fiscalía el 2-feb-2024 proponiendo un acuerdo y reconociendo dos delitos fiscales. Maldita.es lo recoge como algo «que se prueba que es falso». La sentencia del Supremo que condenó al fiscal general (9-dic-2025) llama a esa versión «absolutamente falsa e infundada».",
   "verif": "Maldita.es",
   "calif": "Falso (Maldita.es y Tribunal Supremo)",
-  "rect": "Ante el Supremo, Rodríguez dijo que lo de las «órdenes de arriba» era una «intuición» suya y que tenía «el pelo blanco». La misma sentencia añade que el fiscal general «no puede responder a una noticia falsa mediante la comisión de un delito». Tras su declaración, el PP (Alma Ezcurra, 13-oct-2025) dijo que Rodríguez era «solo un testigo» y que «mentir no es ilegal»; fuentes de la dirección añadieron que, si hubiera indicio de delito, el juez habría actuado contra él. Días antes, Ester Muñoz (portavoz del PP en el Congreso) había dicho que la mentira «nunca es una herramienta» y que era él quien tenía que dar explicaciones.",
+  "rect": "Ante el Supremo, Rodríguez dijo que lo de las «órdenes de arriba» era una «intuición» suya y que tenía «el pelo blanco». La misma sentencia añade que el fiscal general «no puede responder a una noticia falsa mediante la comisión de un delito». Tras su declaración, el PP (Alma Ezcurra, 13-oct-2025) dijo que Rodríguez era «solo un testigo» y que «mentir no es ilegal».",
   "src": [
    [
     "Maldita.es: cronología del caso del fiscal general, González Amador y Miguel Ángel Rodríguez",
@@ -1331,54 +1279,6 @@
    [
     "elDiario.es: el PP, tras la declaración de Rodríguez: «Mentir no es ilegal»",
     "https://www.eldiario.es/politica/pp-confesar-miguel-angel-rodriguez-bulo-supremo-mentir-no-ilegal_1_12679718.html"
-   ],
-   [
-    "El Plural: Ezcurra y Ester Muñoz sobre la declaración de Rodríguez",
-    "https://www.elplural.com/politica/espana/genova-defiende-mentir-no-ilegal-confesion-bulo-miguel-angel-rodriguez-supremo_362411102"
-   ]
-  ]
- },
- {
-  "d": "2025-02-16",
-  "dl": "16 feb 2025",
-  "quien": "Miguel Ángel Rodríguez",
-  "cargo": "jefe de Gabinete de la presidenta de la Comunidad de Madrid",
-  "p": [
-   "PP"
-  ],
-  "canal": "X (Twitter)",
-  "tema": "Sanidad",
-  "dicho": "Que la mujer que contó en el programa de Jordi Évole que su madre murió en una residencia madrileña durante la pandemia mentía y no tenía a su madre en ninguna residencia de la Comunidad de Madrid.",
-  "datos": "Según la plataforma Verdad y Justicia 7291 y Marea de Residencias, su madre estaba en una residencia de Getafe y murió allí en abril de 2020.",
-  "verif": "Maldita.es",
-  "calif": "Desinformación",
-  "rect": "Rodríguez rectificó al día siguiente (17-feb-2025), pidió disculpas y reconoció que era «la hija de una fallecida».",
-  "src": [
-   [
-    "Maldita.es: qué sabemos de la mujer del programa de Évole y la rectificación de Rodríguez",
-    "https://maldita.es/malditobulo/20250217/mujer-residencias-madre-evole-miguel-angel-rodriguez/"
-   ]
-  ]
- },
- {
-  "d": "2024-11-07",
-  "dl": "nov 2024",
-  "quien": "Luis «Alvise» Pérez",
-  "cargo": "eurodiputado de SALF",
-  "p": [
-   "Otros"
-  ],
-  "canal": "Redes sociales, con Vito Quiles",
-  "tema": "Otros",
-  "dicho": "Que se estaban tirando al vertedero de Catarroja cientos de toneladas de donaciones para los afectados por la DANA, con el apoyo de un concejal del PP de Alfafar; lo presentó como una investigación suya y de Vito Quiles.",
-  "datos": "La Policía Local de Alfafar dijo a Maldita.es que «es un bulo» y que no se tiraba lo donado. El Ayuntamiento explicó que sí se desechó ropa estropeada por la humedad y la lluvia. El audio que difundieron estaba recortado: en la llamada completa (publicada por La Razón el 27-oct-2025) el concejal explica que se tiró parte de la ropa, mojada y con polillas, por motivos sanitarios.",
-  "verif": "Maldita.es",
-  "calif": "Bulo",
-  "rect": "",
-  "src": [
-   [
-    "Maldita.es: la ropa donada en Alfafar y cómo se construyó la narrativa del vertedero",
-    "https://maldita.es/malditobulo/20251028/ropa-alfafar-vertedero-dana-valencia/"
    ]
   ]
  },
@@ -1463,7 +1363,7 @@
   "canal": "Rueda de prensa",
   "tema": "Instituciones y justicia",
   "dicho": "Que el PP vinculaba su negativa a renovar el CGPJ a las críticas a la monarquía.",
-  "datos": "Newtral concluye que el argumento atribuido al PP no se corresponde con lo que decía su nota.",
+  "datos": "El comunicado del PP que citaba Ábalos solo mencionaba las críticas a la Corona de Pablo Iglesias y de Unidas Podemos, que formaban parte del Gobierno, no de formaciones ajenas a él.",
   "verif": "Newtral",
   "calif": "Falso",
   "rect": "",
@@ -1629,8 +1529,8 @@
   ]
  },
  {
-  "d": "2019-03-27",
-  "dl": "27 mar 2019",
+  "d": "2019-03-25",
+  "dl": "25 mar 2019",
   "quien": "Pablo Iglesias",
   "cargo": "secretario general de Podemos y candidato (Cortes disueltas)",
   "p": [
@@ -1669,12 +1569,16 @@
    [
     "Maldita.es: es falso que Otegi fuera condenado por secuestrar a Rupérez y Cisneros",
     "https://maldita.es/malditodato/20190404/es-falso-que-otegi-fuera-condenado-por-secuestrar-a-javier-ruperez-y-por-intentar-secuestrar-y-casi-asesinar-a-gabriel-cisneros-como-dice-pablo-casado/"
+   ],
+   [
+    "Maldita.es: la condena de 2011 y su rebaja de 2012 (pieza sobre Abascal, 22-jul-2019)",
+    "https://maldita.es/malditodato/20190722/es-falso-que-arnaldo-otegi-participara-en-los-secuestros-de-javier-ruperez-y-gabriel-cisneros-como-dice-santiago-abascal/"
    ]
   ]
  },
  {
-  "d": "2019-04-19",
-  "dl": "abr 2019",
+  "d": "2019-04-16",
+  "dl": "16 abr 2019",
   "quien": "María Jesús Montero",
   "cargo": "ministra de Hacienda",
   "p": [
@@ -1702,9 +1606,9 @@
   "p": [
    "Cs"
   ],
-  "canal": "Declaración en campaña (28-A)",
+  "canal": "Debate electoral de RTVE (28-A)",
   "tema": "Instituciones y justicia",
-  "dicho": "Que Pedro Sánchez había pactado «con Torra 21 medidas».",
+  "dicho": "Que Pedro Sánchez «pacta con Torra, pacta 21 medidas inaceptables».",
   "datos": "Las 21 medidas eran una petición planteada por el presidente de la Generalitat; no un acuerdo entre ambos presidentes.",
   "verif": "Maldita.es",
   "calif": "Falso",
@@ -1750,7 +1654,7 @@
   "p": [
    "Cs"
   ],
-  "canal": "Declaración en campaña (28-A)",
+  "canal": "Debate electoral de Atresmedia (28-A)",
   "tema": "Elecciones",
   "dicho": "Que era «el único candidato que está diciendo claramente quién está en su preferencia de gobierno».",
   "datos": "Maldita.es recoge que otros candidatos también habían expresado públicamente con quién querían gobernar.",
@@ -1766,13 +1670,13 @@
  },
  {
   "d": "2019-04-23",
-  "dl": "abr 2019",
+  "dl": "23 abr 2019",
   "quien": "Pablo Casado",
   "cargo": "presidente del PP y candidato (Cortes disueltas)",
   "p": [
    "PP"
   ],
-  "canal": "Declaración en campaña (28-A)",
+  "canal": "Debate electoral de Atresmedia (28-A)",
   "tema": "Instituciones y justicia",
   "dicho": "Que Oriol Junqueras había dicho que quiere indultos a cambio de ofrecer sus escaños a Sánchez.",
   "datos": "Maldita.es concluye que Junqueras no dijo eso.",
@@ -1787,14 +1691,14 @@
   ]
  },
  {
-  "d": "2019-05-01",
-  "dl": "may 2019",
+  "d": "2019-04-29",
+  "dl": "29 abr 2019",
   "quien": "Inés Arrimadas",
   "cargo": "líder de Ciudadanos en Cataluña y diputada",
   "p": [
    "Cs"
   ],
-  "canal": "Entrevista en TV3",
+  "canal": "Entrevista en «Els Matins» (TV3)",
   "tema": "Otros",
   "dicho": "Que en TV3 era la primera vez que le preguntaban si el resultado de Cs en Cataluña era un fracaso.",
   "datos": "Maldita.es documenta que la pregunta ya se le había hecho antes en otros medios.",
@@ -1809,8 +1713,8 @@
   ]
  },
  {
-  "d": "2019-05-09",
-  "dl": "may 2019",
+  "d": "2019-05-06",
+  "dl": "6 may 2019",
   "quien": "Begoña Villacís",
   "cargo": "concejal y candidata de Ciudadanos a la alcaldía de Madrid",
   "p": [
@@ -1819,7 +1723,7 @@
   "canal": "Debate de candidatos a la alcaldía (El País y SER)",
   "tema": "Otros",
   "dicho": "Que en Madrid solo había 5 puntos de carga rápida para coches eléctricos.",
-  "datos": "El portal de datos abiertos del Ayuntamiento recogía 9 puntos de carga rápida.",
+  "datos": "El portal de datos abiertos del Ayuntamiento recogía 9 puntos de carga rápida, y según el Ayuntamiento ya funcionaban 13 (17 contando los que estaban en pruebas).",
   "verif": "Maldita.es",
   "calif": "Falso",
   "rect": "",
@@ -1831,14 +1735,14 @@
   ]
  },
  {
-  "d": "2019-05-22",
-  "dl": "may 2019",
+  "d": "2019-05-07",
+  "dl": "7 may 2019",
   "quien": "Begoña Villacís",
   "cargo": "concejal y candidata de Ciudadanos a la alcaldía de Madrid",
   "p": [
    "Cs"
   ],
-  "canal": "Declaración en campaña",
+  "canal": "Desayuno informativo de Nueva Economía Fórum",
   "tema": "Otros",
   "dicho": "Que «Calle 30 ha aumentado el tráfico en 30.000 vehículos diarios» con Madrid Central.",
   "datos": "El tráfico en la M-30 no aumentó con Madrid Central; bajó ligeramente respecto a años anteriores.",
@@ -1853,14 +1757,14 @@
   ]
  },
  {
-  "d": "2019-06-29",
-  "dl": "jun 2019",
+  "d": "2019-06-26",
+  "dl": "26 jun 2019",
   "quien": "Arnaldo Otegi",
   "cargo": "coordinador general de EH Bildu",
   "p": [
    "Bildu"
   ],
-  "canal": "Declaración pública tras las municipales",
+  "canal": "Entrevista en «La noche en 24 horas» (RTVE)",
   "tema": "Elecciones",
   "dicho": "Que Bildu es la fuerza «que más alcaldes tiene» en el País Vasco y Navarra.",
   "datos": "El PNV gobernaba 123 ayuntamientos y EH Bildu, 117.",
@@ -1878,7 +1782,7 @@
   "d": "2019-07-11",
   "dl": "jul 2019",
   "quien": "Inés Arrimadas",
-  "cargo": "diputada y portavoz de Ciudadanos",
+  "cargo": "diputada de Ciudadanos",
   "p": [
    "Cs"
   ],
@@ -1897,14 +1801,14 @@
   ]
  },
  {
-  "d": "2019-07-12",
-  "dl": "jul 2019",
+  "d": "2019-06-26",
+  "dl": "26 jun 2019",
   "quien": "Iván Espinosa de los Monteros",
-  "cargo": "portavoz de Vox en el Congreso",
+  "cargo": "diputado de Vox",
   "p": [
    "Vox"
   ],
-  "canal": "Declaración pública",
+  "canal": "Los Desayunos de TVE",
   "tema": "Instituciones y justicia",
   "dicho": "Que Arnaldo Otegi tiene antecedentes penales «por intento de asesinato».",
   "datos": "Las condenas de Otegi son por secuestro (1989, caso Abaitua) y por pertenencia a organización terrorista (2011, rebajada por el Supremo en 2012); en los casos Rupérez y Cisneros fue absuelto.",
@@ -1915,12 +1819,16 @@
    [
     "Maldita.es: es falso que Otegi tenga antecedentes por intento de asesinato, como dice Espinosa de los Monteros",
     "https://maldita.es/malditodato/20190712/es-falso-que-arnaldo-otegi-tenga-antecedentes-penales-por-intento-de-asesinato-como-dice-espinosa-de-los-monteros/"
+   ],
+   [
+    "Maldita.es: la condena de 2011 y su rebaja de 2012 (pieza sobre Abascal, 22-jul-2019)",
+    "https://maldita.es/malditodato/20190722/es-falso-que-arnaldo-otegi-participara-en-los-secuestros-de-javier-ruperez-y-gabriel-cisneros-como-dice-santiago-abascal/"
    ]
   ]
  },
  {
-  "d": "2019-07-19",
-  "dl": "jul 2019",
+  "d": "2019-07-16",
+  "dl": "16 jul 2019",
   "quien": "Pablo Iglesias",
   "cargo": "secretario general de Podemos y diputado",
   "p": [
@@ -1995,7 +1903,7 @@
   "canal": "Debate de investidura de Pedro Sánchez (Congreso)",
   "tema": "Economía y empleo",
   "dicho": "Que el Gobierno de Sánchez había subido un 30% el impuesto del diésel.",
-  "datos": "El Gobierno de Sánchez no aprobó ninguna subida del impuesto sobre el diésel.",
+  "datos": "El Gobierno de Sánchez no aprobó ninguna subida del impuesto sobre el diésel. Sus Presupuestos para 2019, que no se aprobaron, proponían subirlo un 12,38%, no un 30%.",
   "verif": "Maldita.es",
   "calif": "Falso",
   "rect": "",
@@ -2120,17 +2028,17 @@
   "d": "2019-08-13",
   "dl": "ago 2019",
   "quien": "Íñigo Errejón",
-  "cargo": "diputado en la Asamblea de Madrid y líder de Más País",
+  "cargo": "portavoz de Más Madrid en la Asamblea de Madrid",
   "p": [
    "Otros"
   ],
-  "canal": "Declaración pública",
+  "canal": "X (Twitter)",
   "tema": "Otros",
   "dicho": "Que el nuevo Ayuntamiento de Madrid provoca que la Comisión Europea multe a España por intentar paralizar Madrid Central.",
-  "datos": "Maldita.es no encuentra ninguna sanción de la Comisión Europea a España vinculada a esa decisión del Ayuntamiento.",
+  "datos": "La Comisión Europea no había multado a España: la había llevado ante el Tribunal de Justicia de la UE por incumplir desde 2010 la directiva de calidad del aire, no por Madrid Central.",
   "verif": "Maldita.es",
   "calif": "Falso",
-  "rect": "",
+  "rect": "Más Madrid dijo a Maldita.es que la publicación se refería a una posible multa futura.",
   "src": [
    [
     "Maldita.es: es falso que la Comisión multe a España por Madrid Central, como dice Errejón",
@@ -2142,11 +2050,11 @@
   "d": "2019-09-04",
   "dl": "sep 2019",
   "quien": "Íñigo Errejón",
-  "cargo": "diputado en la Asamblea de Madrid y líder de Más País",
+  "cargo": "portavoz de Más Madrid en la Asamblea de Madrid",
   "p": [
    "Otros"
   ],
-  "canal": "Declaración pública",
+  "canal": "Entrevista en «Al Rojo Vivo» (laSexta)",
   "tema": "Instituciones y justicia",
   "dicho": "Que «todos los que han sido presidentes del PP en la Comunidad de Madrid han sido imputados».",
   "datos": "Ángel Garrido y Pedro Rollán, presidentes del PP en la Comunidad de Madrid, no han sido imputados.",
@@ -2161,20 +2069,20 @@
   ]
  },
  {
-  "d": "2019-09-07",
-  "dl": "sep 2019",
+  "d": "2019-09-06",
+  "dl": "6 sep 2019",
   "quien": "Inés Arrimadas",
   "cargo": "diputada y portavoz de Ciudadanos",
   "p": [
    "Cs"
   ],
-  "canal": "Declaración pública",
+  "canal": "Entrevista en «Els Matins» (TV3)",
   "tema": "Elecciones",
   "dicho": "Que el CEO previo a las elecciones catalanas de 2017 daba 20 escaños a Cs y al final sacaron 36.",
   "datos": "La última encuesta del CEO antes de las elecciones del 21-D daba a Cs entre 25 y 26 escaños, no 20.",
   "verif": "Maldita.es",
   "calif": "Falso",
-  "rect": "",
+  "rect": "Cs explicó a Maldita.es que se refería al último CEO antes de la convocatoria de elecciones, que le daba entre 20 y 22 escaños; Maldita señala que ella habló del CEO de «antes de las elecciones».",
   "src": [
    [
     "Maldita.es: las falsedades de Inés Arrimadas sobre las elecciones catalanas",
@@ -2184,13 +2092,13 @@
  },
  {
   "d": "2019-10-08",
-  "dl": "oct 2019",
+  "dl": "8 oct 2019",
   "quien": "Albert Rivera",
   "cargo": "presidente de Ciudadanos y candidato (Cortes disueltas)",
   "p": [
    "Cs"
   ],
-  "canal": "Declaración en campaña",
+  "canal": "Entrevista en «Más de Uno» (Onda Cero)",
   "tema": "Elecciones",
   "dicho": "Que «en las últimas elecciones no hubo una sola encuesta que nos acercara ni a los 50 escaños».",
   "datos": "Antes del 28-A, cinco encuestas de casas y medios distintos daban a Cs 49 escaños o más: CIS (42-51), Sigma Dos (48-56), NC Report (55-56), SocioMétrica (49) y Metroscopia (49). Cs obtuvo 57.",
@@ -2212,9 +2120,9 @@
   "p": [
    "Podemos/UP"
   ],
-  "canal": "Declaración en campaña (10-N)",
+  "canal": "La Cafetera (RadioCable)",
   "tema": "Elecciones",
-  "dicho": "Que Podemos no acepta «donaciones privadas».",
+  "dicho": "Que Podemos no acepta donaciones privadas: «nosotros no tenemos por qué imponer a ninguna formación política que hagan lo mismo que nosotros reduciéndose el salario o no aceptando donaciones privadas».",
   "datos": "Podemos ingresó donaciones privadas por crowdfunding (un millón de euros para el 28-A), transferencia bancaria, recibos domiciliados y tarjeta.",
   "verif": "Maldita.es",
   "calif": "Falso",
@@ -2259,7 +2167,7 @@
   "canal": "Acto de Vox «Plus Ultra» en Vistalegre",
   "tema": "Otros",
   "dicho": "Que la manifestación por la unidad de España convocada por DENAES en la plaza de Colón en octubre de 2017 reunió a 200.000 personas.",
-  "datos": "La Delegación del Gobierno en Madrid cifró la asistencia, según la Policía Nacional, en 50.000 personas.",
+  "datos": "La Delegación del Gobierno en Madrid cifró la asistencia, según la Policía Nacional, en 50.000 personas; la organizadora, la Fundación DENAES, la cifró en 150.000.",
   "verif": "Maldita.es",
   "calif": "Falso",
   "rect": "",
@@ -2469,14 +2377,14 @@
   ]
  },
  {
-  "d": "2020-08-27",
-  "dl": "ago 2020",
+  "d": "2020-08-25",
+  "dl": "25 ago 2020",
   "quien": "Ana Oramas",
   "cargo": "diputada y portavoz de Coalición Canaria",
   "p": [
    "CC"
   ],
-  "canal": "Declaración pública",
+  "canal": "Diputación Permanente del Congreso",
   "tema": "Sanidad",
   "dicho": "Que España es el «único país europeo» que no publica estadísticas de coronavirus los fines de semana.",
   "datos": "Otros países europeos, como Noruega, Dinamarca y Suecia, tampoco publican datos en fin de semana.",
@@ -2493,13 +2401,13 @@
  {
   "d": "2021-02-12",
   "dl": "feb 2021",
-  "quien": "Ciudadanos (comunicación del partido en la campaña catalana)",
-  "cargo": "cuenta/campaña oficial de Cs (14-F)",
+  "quien": "Jordi Cañas y la cuenta oficial de Ciudadanos",
+  "cargo": "eurodiputado de Ciudadanos; el partido lo difundió en su cuenta de X (campaña del 14-F)",
   "p": [
    "Cs"
   ],
-  "canal": "Campaña electoral",
-  "tema": "Sanidad",
+  "canal": "Acto electoral en Barcelona y X (@CiudadanosCs)",
+  "tema":"Sanidad",
   "dicho": "Que Cataluña es la comunidad que destina menos dinero per cápita a sanidad y la que más a televisiones públicas.",
   "datos": "Newtral concluye que ninguna de las dos afirmaciones es correcta.",
   "verif": "Newtral",
@@ -2542,7 +2450,7 @@
   "p": [
    "Cs"
   ],
-  "canal": "Declaración pública (repetida desde 2017)",
+  "canal": "Declaración pública (repetida durante año y medio)",
   "tema": "Elecciones",
   "dicho": "Que no pudo presentarse a la investidura tras las elecciones catalanas del 21-D.",
   "datos": "Renunció a presentarse antes de que hubiera ningún candidato propuesto, porque los partidos no independentistas no sumaban mayoría en el Parlament.",
@@ -2811,20 +2719,20 @@
   ]
  },
  {
-  "d": "2024-05-23",
-  "dl": "may 2024",
+  "d": "2024-05-22",
+  "dl": "22 may 2024",
   "quien": "Míriam Nogueras",
   "cargo": "portavoz de Junts per Catalunya en el Congreso",
   "p": [
    "Junts"
   ],
-  "canal": "Declaración pública",
+  "canal": "Pleno del Congreso",
   "tema": "Elecciones",
   "dicho": "Que el independentismo es hoy la ideología mayoritaria en el Parlament de Cataluña.",
   "datos": "Los partidos independentistas obtuvieron 61 de los 135 escaños, el 45,2%.",
   "verif": "Newtral",
   "calif": "Falso",
-  "rect": "",
+  "rect": "Su gabinete dijo a Newtral que lo formuló como una pregunta; Newtral responde que en el vídeo es una afirmación, a la que Sánchez contesta negativamente.",
   "src": [
    [
     "Newtral: el independentismo no es mayoritario en el Parlament de Cataluña",
@@ -2909,7 +2817,7 @@
   "canal": "Entrevista en la Cadena SER",
   "tema": "Instituciones y justicia",
   "dicho": "Que España es «el único país de la Unión Europea» que no tiene una agencia propia contra la corrupción.",
-  "datos": "Newtral consultó a los ministerios de Interior y Justicia de los 27 países: nueve tienen agencia propia y otros nueve, además de España, no la tienen (Alemania, Bélgica, Croacia, Estonia, Finlandia, Hungría, Irlanda, Luxemburgo y Chequia).",
+  "datos": "Newtral preguntó a los ministerios de Interior y Justicia de los 27 países; a 21 de julio habían respondido 19. Al menos nueve, además de España, no tienen agencia propia contra la corrupción (Alemania, Bélgica, Croacia, Estonia, Finlandia, Hungría, Irlanda, Luxemburgo y Chequia).",
   "verif": "Newtral",
   "calif": "Falso",
   "rect": "",

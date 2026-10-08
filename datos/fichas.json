@@ -477,7 +477,7 @@
   "c": "Medios públicos y propaganda",
   "pr": "tc",
   "s": "En 2021 el PP aprobó en la Asamblea de Madrid, con la abstención de Vox y por lectura única, una reforma de la ley de Telemadrid que cambió cómo se eligen la dirección y el consejo de administración: rebajó el número de votos exigido para desbloquear su designación, dejó la elección del consejo solo en manos de la Asamblea, permitió que el Gobierno nombrara un administrador provisional y supuso el cese automático del director, José Pablo López. En marzo de 2026 el Tribunal Constitucional, por 7 votos a 5, anuló los acuerdos de la Mesa y el Pleno y declaró que tramitarla por lectura única vulneró el derecho de los diputados socialistas al ejercicio del cargo. En 2022 el PP hizo otra reforma de la misma ley también por lectura única (Ley 3/2022), y en junio de 2026 el TC, de nuevo por 7 votos a 5, anuló los acuerdos de la Mesa y del Pleno porque privaron a los diputados de su derecho de enmienda (STC 48/2026).",
-  "n": "Las sentencias son declarativas: la legislatura ya había terminado, el PSOE solo recurrió el procedimiento y las leyes siguen en vigor. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. Votaron a favor los siete magistrados del bloque progresista y en contra los cinco del conservador; en 2026 firmaron votos particulares Enríquez, Espejel, Tolosa y Macías, y aparte Arnaldo.",
+  "n": "Las sentencias son declarativas: la legislatura ya había terminado y el PSOE solo recurrió el procedimiento. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. Votaron a favor los siete magistrados del bloque progresista y en contra los cinco del conservador; en 2026 firmaron votos particulares Enríquez, Espejel, Tolosa y Macías, y aparte Arnaldo.",
   "src": [
    [
     "Público: la sentencia del TC",
@@ -3445,7 +3445,7 @@
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
   "s": "Además de la amnistía fiscal, el armamento de Defensa y el Castor (fichas aparte), el TC anuló entre 2016 y 2024 preceptos de otros seis decretos-ley de Rajoy por usar el decreto-ley fuera de sus límites (art. 86.1 de la Constitución): los requisitos de las universidades del Real Decreto-ley 14/2012 de recortes educativos (STC 26/2016, recurso de la Junta de Andalucía); la reforma de la Ley de Subvenciones del Real Decreto-ley 7/2013, porque «no ha quedado acreditada la existencia de urgente y extraordinaria necesidad» (STC 70/2016, recurso del Gobierno de Canarias); varias disposiciones del Real Decreto-ley 5/2013 sobre los trabajadores de más edad (STC 61/2018, recurso del PSOE); el Real Decreto-ley 2/2016, aprobado en funciones, sobre los pagos fraccionados del impuesto de sociedades (STC 78/2020); parte del artículo 3.1 del Real Decreto-ley 3/2016 (STC 11/2024), y dos preceptos del Real Decreto-ley 1/2017 sobre cláusulas suelo, entre ellos el inciso que limitaba su aplicación a personas físicas (STC 156/2021, recurso de Unidos Podemos).",
-  "n": "En todos los casos el motivo es haber usado el decreto-ley fuera de sus límites constitucionales; el resto de cada norma se mantuvo y las situaciones firmes no se revisan. Hubo votos particulares discrepantes en la STC 26/2016 (Asua y Valdés) y en la 61/2018 (Valdés, Conde-Pumpido y Balaguer). Los Gobiernos de Sánchez también tienen decretos-ley anulados (ficha aparte). Para contexto, según el índice oficial del BOE, entre 2016 y septiembre de 2026 se aprobaron 228 reales decretos-ley: 2 con Rajoy en funciones (2016), 29 con Rajoy entre noviembre de 2016 y junio de 2018, 43 con Sánchez en solitario (junio de 2018 a enero de 2020, buena parte en funciones), 96 con el Gobierno de PSOE y Unidas Podemos (enero de 2020 a noviembre de 2023, con la pandemia) y 58 con el de PSOE y Sumar (desde noviembre de 2023).",
+  "n": "En todos los casos el motivo es haber usado el decreto-ley fuera de sus límites constitucionales. El Real Decreto-ley 2/2016 se anuló entero (tenía un artículo único); en los demás, el resto de la norma se mantuvo. Las situaciones firmes no se revisan. Hubo votos particulares discrepantes en la STC 26/2016 (Asua y Valdés) y en la 61/2018 (Valdés, Conde-Pumpido y Balaguer). Los Gobiernos de Sánchez también tienen decretos-ley anulados (ficha aparte). Para contexto, según el índice oficial del BOE, entre 2016 y septiembre de 2026 se aprobaron 228 reales decretos-ley: 2 con Rajoy en funciones (2016), 29 con Rajoy entre noviembre de 2016 y junio de 2018, 43 con Sánchez en solitario (junio de 2018 a enero de 2020, buena parte en funciones), 96 con el Gobierno de PSOE y Unidas Podemos (enero de 2020 a noviembre de 2023, con la pandemia) y 58 con el de PSOE y Sumar (desde noviembre de 2023).",
   "src": [
    ["BOE: STC 26/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-2907"],
    ["BOE: STC 70/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-4854"],
@@ -4181,7 +4181,7 @@
   "p": ["PP"],
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
-  "s": "El Gobierno de Rajoy aprobó por real decreto-ley créditos extraordinarios para pagar los programas especiales de armamento de Defensa: el Real Decreto-ley 10/2014 y el 7/2015, este último de 856,4 millones de euros. El TC anuló los dos (SSTC 126/2016 y 169/2016) a recurso de diputados del PSOE, IU y UPyD: el «recurso sistemático al decreto-ley» para financiar esos programas no se ajusta al artículo 86.1 de la Constitución, porque no había una urgencia que impidiera presupuestarlos.",
+  "s": "El Gobierno de Rajoy aprobó por real decreto-ley créditos extraordinarios para pagar los programas especiales de armamento de Defensa: el Real Decreto-ley 10/2014 y el 7/2015, este último de 856,4 millones de euros. El TC anuló el artículo 2.1 del primero (STC 126/2016, recurso de diputados del PSOE, La Izquierda Plural y UPyD) y el artículo 1.1 del segundo (STC 169/2016, recurso de diputados del PSOE): el «recurso sistemático al decreto-ley» para financiar esos programas no se ajusta al artículo 86.1 de la Constitución, porque no había una urgencia que impidiera presupuestarlos.",
   "n": "El TC limitó los efectos: no se anulan los pagos ya hechos, para proteger a los terceros de buena fe que contrataron con la Administración. Las sentencias no discuten el gasto, sino que se aprobara por decreto-ley en vez de en los presupuestos o por ley.",
   "src": [
    ["BOE: STC 126/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-7733"],
@@ -4220,11 +4220,11 @@
  {
   "d": "2021-05-13",
   "dl": "mar 2020 – may 2021",
-  "t": "El Gobierno mete a Pablo Iglesias en la comisión del CNI en un decreto-ley del covid y el TC lo anula",
+  "t": "Un decreto-ley del covid cambia la composición de la comisión que controla el CNI y el TC lo anula",
   "p": ["PSOE", "Podemos/UP"],
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
-  "s": "El Real Decreto-ley 8/2020, el primero de medidas económicas por la pandemia, incluyó una disposición final que daba entrada en la Comisión Delegada del Gobierno para Asuntos de Inteligencia al vicepresidente segundo, Pablo Iglesias, y al director del Gabinete de la Presidencia. A recurso de Vox, el TC la anuló en mayo de 2021 (STC 110/2021): no guardaba «relación discernible, ni directa ni indirecta» con la emergencia sanitaria.",
+  "s": "El Real Decreto-ley 8/2020, de medidas económicas por la pandemia, incluyó una disposición final que cambiaba la composición de la Comisión Delegada del Gobierno para Asuntos de Inteligencia: la integrarían los vicepresidentes que designara el presidente y el director del Gabinete de la Presidencia. Vox sostuvo en su recurso que se buscaba «blindar» la presencia del vicepresidente segundo, Pablo Iglesias, que ya había incorporado el Real Decreto 399/2020. A recurso de Vox, el TC la anuló en mayo de 2021 (STC 110/2021): no guardaba «relación discernible, ni directa ni indirecta» con la emergencia sanitaria.",
   "n": "Voto particular discrepante del magistrado Conde-Pumpido. El resto del decreto-ley no se recurrió aquí. Un recurso posterior del PP sobre la misma disposición se extinguió porque ya estaba anulada (STC 124/2021).",
   "src": [
    ["BOE: STC 110/2021", "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10023"]
@@ -4239,7 +4239,7 @@
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
   "s": "Además de la disposición sobre el CNI (ficha aparte), el TC anuló preceptos de tres decretos-ley de Sánchez por usarlos fuera de sus límites (art. 86.1 de la Constitución): dos disposiciones sobre suelo para alquiler y convenios de transporte del Real Decreto-ley 7/2019 de vivienda, porque «no se justifica el desplazamiento de la potestad legislativa de las Cortes» (STC 14/2020, recurso del PP; Gobierno del PSOE en solitario); el traspaso de la gestión de las clases pasivas al INSS del Real Decreto-ley 15/2020, por falta de urgencia (STC 111/2021, recurso de senadores del PP; Gobierno de PSOE y Unidas Podemos), y dos mandatos de la reforma laboral del Real Decreto-ley 32/2021, el de convocar el diálogo social sobre el estatuto del becario y el de un reglamento de seguridad y salud de los menores trabajadores (STC 40/2026, recurso de Vox).",
-  "n": "En los tres casos el TC avaló el resto de la norma: la reforma laboral quedó en vigor, y el TC rechazó también la queja de Vox por el voto telemático erróneo de un diputado del PP en la convalidación. En clases pasivas difirió la nulidad al 1 de enero de 2022 para que se pudiera sustituir la regulación; hubo voto particular de Conde-Pumpido. Otros decretos-ley de Sánchez recurridos por PP o Vox fueron avalados, entre ellos los de la plusvalía municipal, los riders, la temporalidad en el empleo público y el de igualdad entre mujeres y hombres en el empleo. Para contexto, según el índice oficial del BOE, entre 2016 y septiembre de 2026 se aprobaron 228 reales decretos-ley: 2 con Rajoy en funciones (2016), 29 con Rajoy entre noviembre de 2016 y junio de 2018, 43 con Sánchez en solitario (junio de 2018 a enero de 2020, buena parte en funciones), 96 con el Gobierno de PSOE y Unidas Podemos (enero de 2020 a noviembre de 2023, con la pandemia) y 58 con el de PSOE y Sumar (desde noviembre de 2023).",
+  "n": "En los tres casos el TC avaló el resto de la norma: la reforma laboral quedó en vigor, y el TC rechazó también la queja de Vox por el voto telemático erróneo de un diputado del PP en la convalidación. En clases pasivas difirió la nulidad al 1 de enero de 2022 para que se pudiera sustituir la regulación; hubo voto particular de Conde-Pumpido. Para contexto, según el índice oficial del BOE, entre 2016 y septiembre de 2026 se aprobaron 228 reales decretos-ley: 2 con Rajoy en funciones (2016), 29 con Rajoy entre noviembre de 2016 y junio de 2018, 43 con Sánchez en solitario (junio de 2018 a enero de 2020, buena parte en funciones), 96 con el Gobierno de PSOE y Unidas Podemos (enero de 2020 a noviembre de 2023, con la pandemia) y 58 con el de PSOE y Sumar (desde noviembre de 2023).",
   "src": [
    ["BOE: STC 14/2020", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-2941"],
    ["BOE: STC 111/2021", "https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10024"],
@@ -4256,7 +4256,7 @@
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
   "s": "La Constitución limita lo que puede ir en una ley de presupuestos, porque se tramita con plazos y enmiendas restringidos. El TC anuló por ese motivo una disposición sobre prestaciones de la Seguridad Social metida en los presupuestos de 2014 (STC 123/2016, cuestión del TSJ del País Vasco) y dos sobre contratación de personal laboral en los de 2017 (STC 122/2018, recurso de Unidos Podemos), ambas de Rajoy; y dos disposiciones finales de los presupuestos de 2022 del Gobierno de PSOE y Unidas Podemos: una cuestionada por el TSJ de Madrid (STC 145/2022) y otra sobre los funcionarios habilitados nacionales en el País Vasco (STC 67/2024, recurso del PP).",
-  "n": "En la STC 67/2024 el TC protegió los procesos selectivos y nombramientos ya hechos; hubo voto particular de Balaguer. No se ha encontrado ninguna ley estatal anulada por enmiendas intrusas o por lectura única entre 2016 y 2026.",
+  "n": "En la STC 67/2024 el TC protegió los procesos selectivos y nombramientos ya hechos; hubo voto particular de Balaguer.",
   "src": [
    ["BOE: STC 123/2016", "https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7300"],
    ["BOE: STC 122/2018", "https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16723"],
@@ -4272,7 +4272,7 @@
   "p": ["PP"],
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
-  "s": "El Govern del PP de José Ramón Bauzá aprobó en septiembre de 2013 el Decreto-ley 5/2013 para aplicar el tratamiento integrado de lenguas (TIL) en el curso 2013-2014. A recurso de senadores del PSOE, el TC anuló en 2016 varios preceptos (STC 38/2016) porque su contenido era «ajeno, o cuando menos muy alejado» de la urgencia que justificaba el decreto-ley y podía tramitarse por la vía ordinaria.",
+  "s": "El Govern del PP de José Ramón Bauzá aprobó en septiembre de 2013 el Decreto-ley 5/2013 para aplicar el tratamiento integrado de lenguas (TIL) en el curso 2013-2014. A recurso de senadores del PSOE, el TC anuló en 2016 varios preceptos (STC 38/2016) porque su contenido estaba alejado de la urgencia que justificaba el decreto-ley y podía tramitarse por la vía ordinaria.",
   "n": "El TC avaló el resto del decreto-ley, incluido el calendario escolar. Entra en el registro porque la sentencia es de 2016.",
   "src": [
    ["BOE: STC 38/2016", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-3404"]
@@ -4342,7 +4342,7 @@
   "p": ["PP", "Cs"],
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
-  "s": "El Gobierno de Juanma Moreno (PP y Cs) aprobó en marzo de 2020 el Decreto-ley 2/2020 de simplificación administrativa, convalidado por la Diputación Permanente del Parlamento en plena pandemia. A recurso de senadores del PSOE, el TC anuló en 2025 cuatro artículos (STC 40/2025): tres porque el Gobierno andaluz «no ha justificado específicamente» la urgencia para cambiar reglamentos por decreto-ley, y el que cambiaba las funciones del Consejo Audiovisual, materia que el Estatuto reserva a ley del Parlamento.",
+  "s": "El Gobierno de Juanma Moreno (PP y Cs) aprobó en marzo de 2020 el Decreto-ley 2/2020 de simplificación administrativa, convalidado por la Diputación Permanente del Parlamento en plena pandemia. A recurso de senadores del PSOE, el TC anuló en 2025 cuatro artículos (STC 40/2025): tres porque el Gobierno andaluz no justificó específicamente la urgencia para cambiar reglamentos por decreto-ley, y el que cambiaba las funciones del Consejo Audiovisual, materia que el Estatuto reserva a ley del Parlamento.",
   "n": "El TC avaló el resto y la convalidación por la Diputación Permanente. Los magistrados Campo, y Balaguer y Sáez, discreparon de la fundamentación porque entendían que esa convalidación vulneraba el principio democrático.",
   "src": [
    ["BOE: STC 40/2025", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-5737"]
@@ -4356,7 +4356,7 @@
   "p": ["PSOE", "Podemos/UP", "Otros"],
   "c": "Derechos fundamentales y control judicial",
   "pr": "tc",
-  "s": "El Gobierno de Ángel Víctor Torres (PSOE, NC, Podemos y ASG) aprobó en septiembre de 2021 el Decreto-ley 11/2021 de alerta sanitaria. A recurso de Vox, el TC anuló en 2025 los preceptos sobre aislamiento, cuarentena y permanencia en el domicilio (STC 95/2025): afectaban a la libertad personal (art. 17.1 de la Constitución), lo que supone infringir el límite material del decreto-ley.",
+  "s": "El Gobierno de Ángel Víctor Torres (PSOE, NC, Podemos y ASG) aprobó en septiembre de 2021 el Decreto-ley 11/2021 de alerta sanitaria. A recurso de Vox, el TC anuló en 2025 los preceptos sobre aislamiento, cuarentena y permanencia en el domicilio, otras medidas preventivas y su régimen sancionador (STC 95/2025): afectaban a la libertad personal (art. 17.1 de la Constitución), lo que supone infringir el límite material del decreto-ley.",
   "n": "El TC avaló el resto del decreto-ley. No hubo votos particulares.",
   "src": [
    ["BOE: STC 95/2025", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-9639"]
@@ -4370,7 +4370,7 @@
   "p": ["PP"],
   "c": "Incumplimiento de leyes y sentencias",
   "pr": "tc",
-  "s": "En diciembre de 2024 el PP aprobó por error 34 enmiendas de Vox en la ley balear de simplificación (Ley 7/2024), entre ellas algunas sobre el catalán en la sanidad pública. Dos días después, el Govern de Marga Prohens (PP) las revirtió con el Decreto-ley 5/2024. A recurso de diputados del Congreso de varios grupos, el TC anuló en 2026 esos preceptos (STC 28/2026): usar el decreto-ley para eso equivaldría a tratarlo como «un mecanismo gubernamental para enmendar la actuación legislativa del parlamento autonómico».",
+  "s": "El 26 de noviembre de 2024 el PP aprobó por error 34 enmiendas de Vox en la ley balear de simplificación (Ley 7/2024, de 11 de diciembre), entre ellas algunas sobre el catalán en la sanidad pública. Dos días después de la fecha de la ley, el Govern de Marga Prohens (PP) las revirtió con el Decreto-ley 5/2024. A recurso de diputados del Congreso de varios grupos, el TC anuló en 2026 esos preceptos (STC 28/2026): usar el decreto-ley para eso equivaldría a tratarlo como «un mecanismo gubernamental para enmendar la actuación legislativa del parlamento autonómico».",
   "n": "El efecto práctico es casi nulo: la Ley 4/2025 ya había derogado esos preceptos, y el TC solo juzgó el uso del decreto-ley. Según el Govern, todos los grupos del Parlament salvo Vox, autor de las enmiendas, reconocían que la votación fue un error. Voto particular discrepante de Macías, que sí veía urgencia, y concurrente de Arnaldo.",
   "src": [
    ["BOE: STC 28/2026", "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9593"],
@@ -4416,7 +4416,7 @@
   "p": ["PP"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "La Audiencia Nacional juzgó en 2022 el despliegue de la trama Gürtel en Boadilla del Monte, donde gobernaba el PP, y en noviembre de 2023 el Supremo confirmó 36 años de prisión para el exalcalde Arturo González Panero. El PP fue condenado a pagar 204.198,64 euros como partícipe a título lucrativo por haberse beneficiado de la red.",
+  "s": "La Audiencia Nacional juzgó el despliegue de la trama Gürtel en Boadilla del Monte, donde gobernaba el PP, y en noviembre de 2023 el Supremo confirmó 36 años y 11 meses de prisión para el exalcalde Arturo González Panero. El PP fue condenado a pagar 204.198,64 euros como partícipe a título lucrativo por haberse beneficiado de la red.",
   "n": "El PP no recurrió su condena como partícipe a título lucrativo, así que el Supremo no se pronunció sobre ella. Partícipe a título lucrativo no significa que el partido conociera los delitos.",
   "src": [
    ["Infobae (Europa Press): el Supremo confirma 36 años (nov 2023)", "https://www.infobae.com/espana/agencias/2023/11/22/el-supremo-confirma-36-anos-de-carcel-al-exalcalde-de-boadilla-por-el-despliegue-de-gurtel/"],
@@ -4427,11 +4427,11 @@
  {
   "d": "2025-05-07",
   "dl": "2002 – 2025",
-  "t": "Gürtel Arganda: el exalcalde del PP y otros 17 acusados aceptan condenas tras confesar",
+  "t": "Gürtel Arganda: el exalcalde del PP y casi todos los acusados aceptan condenas tras confesar",
   "p": ["PP"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "En mayo de 2025 la Audiencia Nacional condenó a 19 acusados por la adjudicación amañada de suelo público en Arganda del Rey, gobernado por el PP. Dieciocho se conformaron con las penas tras confesar, entre ellos el exalcalde Ginés López, con más de cinco años de prisión, el exconcejal y luego diputado autonómico Benjamín Martín Vasco y los cabecillas de la trama, Correa y Crespo.",
+  "s": "En mayo de 2025 la Audiencia Nacional condenó a todos los acusados por la adjudicación amañada de suelo público en Arganda del Rey, gobernado por el PP: 20 según Europa Press (vía Público), 19 según Telemadrid. Todos menos uno, el exgerente de Urbanismo Luis Bremond, se conformaron con las penas tras confesar, entre ellos el exalcalde Ginés López, con más de cinco años de prisión, el exconcejal y luego diputado autonómico Benjamín Martín Vasco y los cabecillas de la trama, Correa y Crespo.",
   "n": "Las conformidades con Anticorrupción rebajaron mucho las penas pedidas. Un acusado que no se conformó podía recurrir; para los demás la condena es firme.",
   "src": [
    ["Público", "https://www.publico.es/politica/tribunales/condenados-lideres-guertel-exalcalde-arganda-adjudicaciones-ilegales-localidad.html"],
@@ -4462,7 +4462,7 @@
   "c": "Financiación y corrupción",
   "pr": "firme",
   "s": "La Audiencia Nacional condenó en 2020 a 19 de los 23 acusados por las irregularidades en los contratos de Radiotelevisión Valenciana para la visita del Papa a Valencia en 2006. En abril de 2023 el Supremo confirmó las penas: 13 años y 7 meses para Francisco Correa y 6 años y 9 meses para Álvaro Pérez y para el exdirector de RTVV Pedro García.",
-  "n": "Pedro García era director de la televisión pública nombrado por el Consell del PP; no consta que fuera militante.",
+  "n": "Pedro García era el director de la televisión pública valenciana cuando se firmaron los contratos.",
   "src": [
    ["elDiario.es: el Supremo confirma las penas (abr 2023)", "https://www.eldiario.es/comunitat-valenciana/politica/supremo-confirma-penas-cabecillas-gurtel-irregularidades-visita-papa-valencia-2006_1_9987256.html"]
   ],
@@ -4490,7 +4490,7 @@
   "p": ["PP", "PSOE"],
   "c": "Financiación y corrupción",
   "pr": "jud",
-  "s": "Doce años después de la operación, la trama Púnica empieza a tener sentencias. Firme: en septiembre de 2026 el Supremo confirmó 8 años y medio de inhabilitación al expresidente de la Diputación de León Marcos Martínez Barazón (PP) por prevaricación en contratos de reputación en internet. Recurribles: la Audiencia Nacional condenó en diciembre de 2025 a 29 personas por la pieza Cofely, entre ellas cinco exalcaldes del PP, el exalcalde de Parla José María Fraile (PSOE) y el empresario David Marjaliza; en septiembre de 2025, al exconsejero murciano Juan Carlos Ruiz (PP) a 4 años por un contrato de 30.000 euros; y en julio de 2026, al exconsejero madrileño Francisco Granados a dos años y medio por la pieza Waiter Music. Pendientes de juicio: la caja B del PP de Madrid (juicio oral abierto en 2024) y la pieza de Arpegio y Metro (abierto en mayo de 2026, con Granados y otros 40 acusados).",
+  "s": "Doce años después de la operación, la trama Púnica empieza a tener sentencias. Firme: en septiembre de 2026 el Supremo confirmó 8 años y medio de inhabilitación al expresidente de la Diputación de León Marcos Martínez Barazón (PP; expulsado del partido tras su detención en 2014, siguió como alcalde independiente) por prevaricación en contratos de reputación en internet. Recurribles: la Audiencia Nacional condenó en diciembre de 2025 a 29 personas por la pieza Cofely, entre ellas cinco exalcaldes del PP, el exalcalde de Parla José María Fraile (PSOE) y el empresario David Marjaliza; en septiembre de 2025, al exconsejero murciano Juan Carlos Ruiz (PP) a 4 años por un contrato de 30.000 euros; y en julio de 2026, al exconsejero madrileño Francisco Granados a dos años y medio por la pieza Waiter Music. Pendientes de juicio: la caja B del PP de Madrid (juicio oral abierto en 2024) y la pieza de Arpegio y Metro (abierto en mayo de 2026, con Granados y otros 40 acusados).",
   "n": "Salvo la de León, las condenas se pueden recurrir y rige la presunción de inocencia. Esperanza Aguirre quedó fuera del juicio de la caja B. En Cofely hubo también absoluciones de exalcaldes del PP.",
   "src": [
    ["ileon (elDiario.es): el Supremo confirma la condena de León (sep 2026)", "https://ileon.eldiario.es/politica/supremo-confirma-ocho-anos-medio-inhabilitacion-expresidente-diputacion-leon-trama-punica_1_13534860.html"],
@@ -4524,12 +4524,13 @@
   "p": ["PP"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "Dentro del periodo, el expresidente balear Jaume Matas (PP) sumó tres condenas firmes: en 2017 aceptó la de prevaricación por pagar 350.000 euros sin concurso a la empresa Nimbus en una pieza del Palma Arena; en junio de 2018 el Supremo le mantuvo 3 años y 8 meses de prisión en el caso Nóos, por los fondos del Govern pagados al instituto de Iñaki Urdangarin; y en 2021 el Supremo confirmó su condena por tráfico de influencias en la adjudicación del hospital de Son Espases.",
-  "n": "Matas ya había sido condenado antes de 2016 en otras piezas del Palma Arena. En Son Espases no aceptó todos los cargos y recurrió hasta el Supremo.",
+  "s": "Dentro del periodo, el expresidente balear Jaume Matas (PP) sumó tres condenas firmes: en 2017 aceptó la de prevaricación por pagar 350.000 euros sin concurso a la empresa Nimbus en una pieza del Palma Arena; en junio de 2018 el Supremo le mantuvo 3 años y 8 meses de prisión en el caso Nóos, por los fondos del Govern pagados al instituto de Iñaki Urdangarin; y en 2021 el Supremo confirmó su condena por tráfico de influencias en la adjudicación del hospital de Son Espases. En junio de 2019 fue condenado además en el caso Over, otra pieza del Palma Arena, a 2 años y medio de prisión sustituibles por una multa de 18.000 euros.",
+  "n": "Matas ya había sido condenado antes de 2016 en otras piezas del Palma Arena. No se ha comprobado si la condena del caso Over es firme. En Son Espases no aceptó todos los cargos y recurrió hasta el Supremo.",
   "src": [
    ["CGPJ: el Supremo, caso Nóos (jun 2018)", "https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-Tribunal-Supremo-condena-a-Inaki-Urdangarin-a-5-anos-y-10-meses-de-prision-por-malversacion--prevaricacion--fraude--dos-delitos-fiscales-y-trafico-de-influencias-en-el--caso-Noos-"],
    ["Público: el acuerdo de Matas en el Palma Arena (2017)", "https://www.publico.es/politica/jaume-matas-acepta-prevarico-y-primer-acuerdo-palma-arena.html"],
-   ["Público: el Supremo confirma Son Espases (2021)", "https://www.publico.es/sociedad/tribunal-supremo-confirma-condena-trafico-influencias-jaume-matas-caso-son-espases.html"]
+   ["Público: el Supremo confirma Son Espases (2021)", "https://www.publico.es/sociedad/tribunal-supremo-confirma-condena-trafico-influencias-jaume-matas-caso-son-espases.html"],
+   ["Última Hora: sentencia del caso Over (jun 2019)", "https://www.ultimahora.es/noticias/local/2019/06/14/1087847/jose-maria-rodriguez-condenado-tres-anos-medio-carcel-por-caso-over.html"]
   ],
   "a": "Baleares"
  },
@@ -4571,7 +4572,7 @@
   "c": "Financiación y corrupción",
   "pr": "firme",
   "s": "La Audiencia de Valencia condenó en 2020 a 21 de los 23 acusados de las piezas 2 y 3 del caso Cooperación, por desviar ayudas de la Conselleria de Solidaridad a ONG y a un hospital en Haití. El Supremo resolvió los recursos en 2022 y en febrero de 2024 la Audiencia subió la pena del exconseller Rafael Blasco (PP) de 1 año a 1 año y 6 meses.",
-  "n": "Blasco ya había sido condenado en firme en 2015 por la primera pieza. Se le aplicó la atenuante de reparación parcial del daño.",
+  "n": "Blasco ya había sido condenado en firme en 2015 por la primera pieza. El Supremo le aplicó la atenuante de confesión tardía de los hechos, sin efecto sobre la pena de prisión.",
   "src": [
    ["CGPJ: la sentencia de la Audiencia (abr 2020)", "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Valencia-condena-a-21-de-los-23-acusados-del--caso-Cooperacion--a-penas-de-entre-tres-meses-y-cinco-anos-y-medio-de-carcel"],
    ["CGPJ: el Supremo resuelve los recursos (2022)", "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-resuelve-los-recursos-contra-la-sentencia-de-la-Audiencia-de-Valencia-en-las-piezas-del--caso-Blasco-"],
@@ -4586,8 +4587,8 @@
   "p": ["PP", "PSOE"],
   "c": "Financiación y corrupción",
   "pr": "jud",
-  "s": "Firme: en junio de 2026 el Supremo confirmó la primera sentencia del caso Taula (pieza Thematica), que condenó al exgerente de Imelsa, la empresa de la Diputación de Valencia, Marcos Benavent, por desviar fondos públicos. Recurribles: en noviembre de 2023 la Audiencia condenó a 5 años al expresidente de la Diputación Alfonso Rus (PP) por contratar a personas que no trabajaban («zombis»); en julio de 2024, a 4 años y medio al exvicealcalde de Valencia Alfonso Grau (PP) por la financiación en B de la campaña municipal de 2007; y en julio de 2025, a los exalcaldes de Requena y Enguera (PP) y a un exalcalde del PSOE por contratos amañados.",
-  "n": "En la pieza Thematica el PP fue absuelto como responsable civil subsidiario. Rus se declara inocente. Salvo Thematica, las condenas están recurridas y no son firmes. Otras piezas acabaron en absolución.",
+  "s": "Firme: en junio de 2026 el Supremo confirmó la primera sentencia del caso Taula (pieza Thematica), que condenó al exgerente de Imelsa, la empresa de la Diputación de Valencia, Marcos Benavent, por desviar fondos públicos. Recurribles: en noviembre de 2023 la Audiencia condenó a 5 años al expresidente de la Diputación Alfonso Rus (PP) por contratar a personas que no trabajaban («zombis»); en julio de 2024, a 4 años y medio al exvicealcalde de Valencia Alfonso Grau (PP) por la financiación irregular de las campañas del PP de Valencia en 2007 y 2011; y en julio de 2025, a los exalcaldes de Requena y Enguera (PP) y a un exalcalde del PSOE por contratos amañados.",
+  "n": "Rus se declara inocente. Salvo Thematica, las condenas están recurridas y no son firmes. Otras piezas acabaron en absolución.",
   "src": [
    ["elDiario.es: el Supremo confirma Thematica (jun 2026)", "https://www.eldiario.es/comunitat-valenciana/tribunal-supremo-confirma-condena-ocho-anos-carcel-yonqui-dinero-blanqueo-falsedad_1_13336558.html"],
    ["Infobae (EFE): condena a Alfonso Rus (nov 2023)", "https://www.infobae.com/espana/agencias/2023/11/17/condenan-al-expresidente-de-la-diputacion-de-valencia-alfonso-rus-pp-a-5-anos-de-carcel/"],
@@ -4619,7 +4620,7 @@
   "c": "Financiación y corrupción",
   "pr": "jud",
   "s": "En enero de 2026 la Audiencia de Alicante condenó a la exalcaldesa de Orihuela Mónica Lorente y a varios exconcejales del PP por prevaricación en la adjudicación de la contrata de basuras, y al empresario Ángel Fenoll por cohecho, entre otros delitos. Es la segunda sentencia: el Supremo había anulado en 2024 la absolución de 2020 al validar las escuchas.",
-  "n": "No es firme. Hubo 24 absueltos, entre ellos el exalcalde José Manuel Medina. Las penas de los cargos públicos son cortas y de inhabilitación.",
+  "n": "No es firme. Hubo 24 absueltos, entre ellos el exalcalde José Manuel Medina. Con la atenuante muy cualificada de dilaciones indebidas, las penas de prisión de los cargos públicos van de cuatro meses a un año; a Lorente, cuatro meses de prisión y 20 de inhabilitación.",
   "src": [
    ["elDiario.es", "https://www.eldiario.es/comunitat-valenciana/sentencia-brugal-avala-audios-capo-basura-orihuela-detectives-balnearios-presiones-zaplana-camps_1_12930678.html"],
    ["TodoAlicante", "https://www.todoalicante.es/politica/audiencia-alicante-condena-acusados-brugal-contrata-basuras-20260112135006-nt.html"]
@@ -4634,7 +4635,7 @@
   "c": "Financiación y corrupción",
   "pr": "firme",
   "s": "El Supremo confirmó en 2022 la condena por prevaricación al exalcalde de Torre Pacheco Daniel García Madrid (PP) por adjudicar sin expediente 15 proyectos por 511.355,73 euros. La sentencia lo calificó de «ilegal, burdo y grosero».",
-  "n": "La pena es de inhabilitación, no de prisión.",
+  "n": "La pena es de seis meses de inhabilitación especial, no de prisión, y se suma a los diez años de inhabilitación de una condena anterior.",
   "src": [
    ["elDiario.es", "https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html"]
   ],
@@ -4661,8 +4662,8 @@
   "p": ["PP"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "Un juzgado de Melilla condenó en 2017 a la exconsejera de Bienestar Social María Antonia Garbín (PP) a inhabilitación por prevaricación en la contratación de abogados, y la Audiencia lo confirmó en enero de 2019. Entre una sentencia y otra siguió 15 meses como diputada en la Asamblea.",
-  "n": "El PP alegó que la primera sentencia solo le impedía ser consejera, no diputada. Garbín dijo que la condena era injusta.",
+  "s": "La exconsejera de Bienestar Social María Antonia Garbín (PP) fue condenada a diez años de inhabilitación por un delito continuado de prevaricación en la contratación de abogados; el resto de acusados fueron absueltos. En enero de 2019 la Audiencia Provincial de Málaga, en su sección de Melilla, ratificó la condena. Según infoLibre, el PP la mantuvo 15 meses como diputada en la Asamblea con la condena.",
+  "n": "El PP alegó que la primera sentencia solo le impedía ser consejera, no diputada. Garbín dijo a El Faro que la condena era «totalmente injusta» porque no pudo hacerlo «totalmente sola».",
   "src": [
    ["infoLibre", "https://www.infolibre.es/politica/pp-mantuvo-15-meses-escano-diputada-cuya-condena-colocaba-situacion-torra_1_1178781.html"],
    ["El Faro de Melilla", "https://elfarodemelilla.es/maria-antonia-garbin-condena-hay-algo-que-no-encaja/"]
@@ -4676,8 +4677,8 @@
   "p": ["PP"],
   "c": "Financiación y corrupción",
   "pr": "jud",
-  "s": "En 2018 la Audiencia de Las Palmas condenó por conformidad a una veintena de acusados por las comisiones en el Ayuntamiento de Telde, gobernado por PP y Ciuca, y declaró al PP responsable civil subsidiario por desviar dinero público para reformar una oficina del partido. Absolvió a los siete acusados que no se conformaron, entre ellos dos exalcaldes del PP.",
-  "n": "La responsabilidad del PP es por una cantidad pequeña, la reforma de un local; el partido dijo que no era una condena. La sentencia la redactó un juez después suspendido y era recurrible.",
+  "s": "En 2018 la Audiencia de Las Palmas condenó por conformidad a 21 acusados por las comisiones en el Ayuntamiento de Telde bajo el gobierno del PP (2003-2007), y declaró al PP responsable civil subsidiario por desviar dinero público para reformar una oficina del partido. Absolvió a los siete acusados que no se conformaron, entre ellos dos exalcaldes del PP.",
+  "n": "La responsabilidad del PP es por una cantidad pequeña, la reforma de un local; el partido dijo que no era una condena. La sentencia la dictó el juez Salvador Alba cuando ya estaba suspendido por el CGPJ y de baja médica; la Audiencia la dio por válida en parte. Era recurrible.",
   "src": [
    ["elDiario.es (Canarias Ahora)", "https://www.eldiario.es/canariasahora/tribunales/audiencia-sentencia-faycan-alba-pp_1_1996384.html"],
    ["Canarias7", "https://www.canarias7.es/sociedad/la-audiencia-limita-la-responsabilidad-del-pp-en-el-caso-faycan-a-740-euros-CY5427206"]
@@ -4752,7 +4753,7 @@
   "p": ["PSOE"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "Invercaria era la sociedad de capital riesgo de la agencia IDEA de la Junta de Andalucía, gobernada por el PSOE. En septiembre de 2024 el Supremo elevó a 4 años y medio de prisión la condena por malversación de su expresidente Tomás Pérez-Sauquillo en una de las piezas; hay otras piezas con condena por préstamos y ayudas a empresas.",
+  "s": "Invercaria era la sociedad de capital riesgo de la agencia IDEA de la Junta de Andalucía, gobernada por el PSOE. En septiembre de 2024 el Supremo elevó a 4 años y medio de prisión, al añadir prevaricación a la malversación, la condena de su expresidente Tomás Pérez-Sauquillo en una de las piezas; hay otras piezas con condena por préstamos y ayudas a empresas.",
   "n": "Pérez-Sauquillo era un cargo designado por la Junta; no consta su militancia. En otra pieza la reforma del delito de malversación de 2022 le rebajó la pena.",
   "src": [
    ["elDiario.es: el Supremo eleva la pena (sep 2024)", "https://www.eldiario.es/andalucia/supremo-eleva-cuatro-anos-medio-condena-expresidente-empresa-capital-riesgo-andalucia_1_11666920.html"],
@@ -4768,21 +4769,22 @@
   "c": "Financiación y corrupción",
   "pr": "jud",
   "s": "La FAFFE era una fundación pública de empleo de la Junta de Andalucía. En septiembre de 2023 la Audiencia de Sevilla condenó a su exdirector Fernando Villén a 6 años de prisión por pagar 32.566 euros en prostíbulos con tarjetas de la fundación. En abril de 2025 condenó de nuevo a Villén y al exalcalde socialista de Lebrija Antonio Torres por contratar a este en la fundación sin que trabajara: deben devolver 359.973,51 euros.",
-  "n": "Villén fue nombrado por la Junta del PSOE. Las sentencias se podían recurrir y no consta que sean firmes.",
+  "n": "Villén fue nombrado por la Junta del PSOE. En abril de 2026 el Tribunal Superior de Justicia de Andalucía rebajó su pena por los pagos en prostíbulos de 6 años a 5 años y 3 meses, al apreciar dilaciones indebidas. No consta que las sentencias sean firmes.",
   "src": [
    ["infoLibre: los pagos en prostíbulos (sep 2023)", "https://www.infolibre.es/politica/condenado-exdirector-faffe-gastar-prostibulos-32-566-euros-dinero-publico_1_1595302.html"],
-   ["Infobae: la contratación de Antonio Torres (abr 2025)", "https://www.infobae.com/espana/2025/04/30/condenado-a-mas-de-dos-anos-de-carcel-un-exalcalde-del-psoe-por-su-contratacion-ilegal-en-la-fundacion-de-empleo-andaluza-no-iba-a-trabajar/"]
+   ["Infobae: la contratación de Antonio Torres (abr 2025)", "https://www.infobae.com/espana/2025/04/30/condenado-a-mas-de-dos-anos-de-carcel-un-exalcalde-del-psoe-por-su-contratacion-ilegal-en-la-fundacion-de-empleo-andaluza-no-iba-a-trabajar/"],
+   ["EFE (vía Infobae): el TSJA rebaja la pena de Villén (abr 2026)", "https://www.infobae.com/espana/agencias/2026/04/24/rebajan-la-pena-al-exdirector-de-la-fundacion-andaluza-condenado-por-pagos-en-prostibulos/"]
   ],
   "a": "Andalucía"
  },
  {
   "d": "2018-07-02",
   "dl": "2002 – 2021",
-  "t": "Operación Pretoria: condenas firmes al exalcalde socialista de Santa Coloma y a dos exconsellers de CiU",
+  "t": "Operación Pretoria: condenas firmes al exalcalde socialista de Santa Coloma y a dos ex altos cargos de la Generalitat con CiU",
   "p": ["PSOE", "Junts"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "La Audiencia Nacional condenó en 2018 a los once acusados de la operación Pretoria, por operaciones urbanísticas entre 2002 y 2009 en Santa Coloma de Gramenet, Badalona y Sant Andreu de Llavaneres, con penas de hasta 7 años. Entre ellos, el exalcalde de Santa Coloma Bartomeu Muñoz (PSC), que entró en prisión en 2021 tras confirmarlo el Supremo, y los exconsellers de CiU Macià Alavedra y Lluís Prenafeta.",
+  "s": "La Audiencia Nacional condenó en 2018 a los once acusados de la operación Pretoria, por operaciones urbanísticas entre 2002 y 2009 en Santa Coloma de Gramenet, Badalona y Sant Andreu de Llavaneres, con penas de hasta 7 años. Entre ellos, el exalcalde de Santa Coloma Bartomeu Muñoz (PSC), que entró en prisión en 2021 tras confirmarlo el Supremo, y dos ex altos cargos de la Generalitat con CiU: el exconseller de Economía Macià Alavedra y Lluís Prenafeta, que había sido secretario general de la Presidencia.",
   "n": "CiU se integra aquí en Junts, su sucesora.",
   "src": [
    ["CGPJ: la sentencia de la Audiencia Nacional (2018)", "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-penas-de-hasta-7-anos-a-los-once-acusados-en-la--operacion-Pretoria-"],
@@ -4798,7 +4800,7 @@
   "c": "Financiación y corrupción",
   "pr": "firme",
   "s": "En 2021 el Supremo confirmó la condena del exalcalde de Sabadell Manuel Bustos (PSC) a 3 años de prisión por una de las piezas del caso Mercurio, y tuvo que ingresar en prisión. En junio de 2026 aceptó otra condena en otra pieza del mismo caso.",
-  "n": "Las cantidades de algunas piezas son pequeñas; su defensa las llamó insignificantes.",
+  "n": "Las cantidades de algunas piezas son pequeñas.",
   "src": [
    ["elDiario.es: deberá ingresar en prisión (2021)", "https://www.eldiario.es/catalunya/exalcalde-socialista-sabadell-condenado-corrupcion-debera-ingresar-prision_1_8584412.html"],
    ["Infobae (agencias): nueva condena (jun 2026)", "https://www.infobae.com/espana/agencias/2026/06/12/el-exalcalde-socialista-de-sabadell-condenado-de-nuevo-en-otra-derivada-del-caso-mercurio/"]
@@ -4827,7 +4829,7 @@
   "p": ["PSOE"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "En junio de 2024 la pieza principal de la operación Pokémon en el Ayuntamiento de Lugo se cerró con un acuerdo de conformidad: el exteniente de alcalde Francisco Fernández Liñares (PSOE) y otros diez acusados aceptaron penas por la concesión de la grúa municipal.",
+  "s": "En junio de 2024 la pieza principal de la operación Pokémon en el Ayuntamiento de Lugo se cerró con un acuerdo de conformidad: el exteniente de alcalde Francisco Fernández Liñares, que lo fue con el alcalde socialista José López Orozco, y otros diez acusados aceptaron penas por la concesión de la grúa municipal.",
   "n": "La conformidad rebajó mucho las penas que se pedían.",
   "src": [
    ["infoLibre: el acuerdo de conformidad (jun 2024)", "https://www.infolibre.es/politica/operacion-pokemon-llega-acuerdo-confirmidad-ministerio-fiscal-acusados_1_1825563.html"],
@@ -4902,7 +4904,7 @@
   "p": ["Junts"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "En 2018 Oriol Pujol, ex secretario general de Convergència y diputado, aceptó una condena de 2 años y medio de prisión por tráfico de influencias, cohecho y falsedad: cobró comisiones disfrazadas de asesorías por influir en el reparto de concesiones de ITV.",
+  "s": "En 2018 Oriol Pujol, exdirigente de CDC, aceptó una condena de 2 años y medio de prisión por tráfico de influencias, cohecho y falsedad: cobró comisiones disfrazadas de asesorías por influir en el reparto de concesiones de ITV.",
   "n": "Es una sentencia de conformidad. El dinero de las comisiones era privado; el delito es usar su cargo para influir en concesiones públicas.",
   "src": [
    ["elDiario.es", "https://www.eldiario.es/catalunya/politica/audiencia-barcelona-prision-oriol-pujol_1_1818329.html"]
@@ -4961,7 +4963,7 @@
   "p": ["Otros"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "En enero de 2022 el Supremo condenó a 11 años y 4 meses de prisión a la exalcaldesa de La Muela (Zaragoza) María Victoria Pinilla (PAR) por malversación, prevaricación, blanqueo, cohecho, fraude y delitos fiscales La sentencia destaca el daño que hacen al sistema democrático los cargos públicos que se lucran.",
+  "s": "En enero de 2022 el Supremo condenó a 11 años y 4 meses de prisión a la exalcaldesa de La Muela (Zaragoza) María Victoria Pinilla (PAR) por malversación, prevaricación, blanqueo, cohecho, fraude y delitos fiscales. La sentencia destaca el daño que hacen al sistema democrático los cargos públicos que se lucran.",
   "n": "El Supremo había anulado en 2018 una primera condena por vulnerar el derecho de defensa y ordenó repetir el juicio.",
   "src": [
    ["CGPJ: la sentencia del Supremo (ene 2022)", "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-condena-a-11-anos-y-4-meses-de-prision-a-la-exalcaldesa-de-La-Muela--Zaragoza--por-malversacion--prevaricacion--blanqueo--cohecho--fraude-y-delitos-fiscales"],
@@ -4976,7 +4978,7 @@
   "p": ["Otros"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "El Supremo confirmó la condena de dos años y medio de prisión por cohecho a Maria Antònia Munar, presidenta del Consell de Mallorca y líder de Unió Mallorquina, por pedir dinero a cambio de adjudicar los terrenos públicos de Can Domenge.",
+  "s": "Maria Antònia Munar, presidenta del Consell de Mallorca y líder de Unió Mallorquina, fue condenada por cohecho por pedir dinero a cambio de adjudicar los terrenos públicos de Can Domenge. La Audiencia de Palma le impuso en 2016 tres años de prisión; el Tribunal Superior de Justicia de Baleares dejó la pena en dos años y medio, y el Supremo la confirmó.",
   "n": "Munar alegó que se la castigaba dos veces por los mismos hechos, porque ya tenía otra condena anterior por la misma adjudicación; el Supremo lo rechazó.",
   "src": [
    ["CGPJ: el Supremo confirma la condena", "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-la-expresidenta-del-Consell-de-Mallorca-Maria-Antonia-Munar-por-la-adjudicacion-de-los-terrenos-de--Can-Domenge-"],
@@ -4995,7 +4997,7 @@
   "n": "La Audiencia de Las Palmas lo había condenado en 2019.",
   "src": [
    ["elDiario.es (Canarias Ahora): el Supremo confirma (sep 2022)", "https://www.eldiario.es/canariasahora/tribunales/supremo-confirma-condena-siete-anos-cinco-meses-prision-dimas-martin-caso-union_1_9575512.html"],
-   ["Público", "https://www.publico.es/politica/condenada-trama-corrupta-politica-lanzarote.html"]
+   ["Público: una condena anterior del caso Unión a Dimas Martín (feb 2015)", "https://www.publico.es/politica/condenada-trama-corrupta-politica-lanzarote.html"]
   ],
   "a": "Canarias"
  },

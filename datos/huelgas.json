@@ -28,12 +28,12 @@
   "sector": "Educación",
   "ambito": "España",
   "t": "Huelga educativa contra las reválidas",
-  "convoca": "Sindicato de Estudiantes y CEAPA (familias); en algunas comunidades, como Madrid, también sindicatos docentes",
+  "convoca": "Sindicato de Estudiantes y CEAPA (familias); la manifestación de Madrid la convocó la Plataforma Estatal por la Escuela Pública, con estudiantes, familias y sindicatos de enseñanza",
   "piden": "Retirar las evaluaciones finales («reválidas») de ESO y Bachillerato de la LOMCE",
   "oficial": "Ministerio de Educación: entre el 30% y el 40% de los estudiantes, y el 12% del profesorado donde se convocó.",
   "segconv": "Sindicato de Estudiantes: 90% de media.",
   "gobierno": "Rajoy (PP), en funciones (fue investido tres días después). La LOMCE es estatal.",
-  "final": "El Real Decreto-ley 5/2016, de 9 de diciembre, aplazó al curso 2017-2018 los efectos académicos de las evaluaciones finales.",
+  "final": "El Real Decreto-ley 5/2016, de 9 de diciembre, dejó sin efectos académicos la evaluación final de ESO hasta que entrara en vigor la normativa del Pacto de Estado por la Educación.",
   "src": [
    [
     "Diariocrítico (Europa Press): la huelga del 26 de octubre",
@@ -83,7 +83,7 @@
   "oficial": "Guardia Urbana: unas 300.000 personas en Barcelona.",
   "segconv": "Sin cifra en las fuentes leídas.",
   "gobierno": "Estado: Rajoy (PP). Generalitat: Puigdemont (JxSí, con apoyo de la CUP), antes del 155.",
-  "final": "Huelga de carácter político, sin acuerdo.",
+  "final": "Sin acuerdo.",
   "src": [
    [
     "Vozpópuli: la convocatoria",
@@ -106,7 +106,7 @@
   "oficial": "Sin cifras comprobadas en las fuentes leídas.",
   "segconv": "Sin cifras comprobadas en las fuentes leídas.",
   "gobierno": "Rajoy (PP), hasta el 1 de junio de 2018. Las pensiones son del Estado.",
-  "final": "Los presupuestos de 2018 (ya con Sánchez) subieron las pensiones por encima del 0,25%, y en 2021 una ley las ligó al IPC medio.",
+  "final": "La Ley de Presupuestos de 2018, preparada por el Gobierno de Rajoy y publicada el 4 de julio de 2018, ya con Sánchez, incluyó un «incremento excepcional» de las pensiones para 2018 y 2019. En 2021 una ley las ligó al IPC medio.",
   "src": [
    [
     "El Independiente: los jubilados y las movilizaciones",
@@ -128,7 +128,7 @@
   "sector": "General",
   "ambito": "España",
   "t": "Huelga feminista del 8M",
-  "convoca": "Comisión 8M; CCOO y UGT con paros de 2 horas; CGT y CNT, 24 horas",
+  "convoca": "Comisión 8M; CCOO y UGT, con paros de dos horas",
   "piden": "Acabar con la brecha salarial, la precariedad y la violencia machista",
   "oficial": "Delegación del Gobierno: 170.000 personas en la manifestación de Madrid; Guardia Urbana: 200.000 en Barcelona. No hubo cifra global oficial de seguimiento.",
   "segconv": "CCOO y UGT: 5,9 millones de personas en los paros.",
@@ -151,8 +151,8 @@
   "sector": "General",
   "ambito": "España",
   "t": "Huelga feminista del 8M",
-  "convoca": "Comisión 8M; CCOO y UGT con paros de 2 horas",
-  "piden": "Lo mismo que en 2018",
+  "convoca": "Comisión 8M; los sindicatos convocaron paros por la igualdad en los centros de trabajo",
+  "piden": "Igualdad entre mujeres y hombres y acabar con la violencia machista",
   "oficial": "Fuentes oficiales: 375.000 personas en la manifestación de Madrid y 200.000 en Barcelona.",
   "segconv": "Sin cifra de seguimiento de los paros en las fuentes leídas.",
   "gobierno": "Sánchez (PSOE), con las Cortes recién disueltas.",
@@ -171,7 +171,7 @@
   "ambito": "Cataluña",
   "t": "Huelga general tras la sentencia del procés",
   "convoca": "Intersindical-CSC e IAC",
-  "piden": "Formalmente, un salario mínimo de 1.200 € y derechos laborales; de fondo, la sentencia del procés",
+  "piden": "Protestar por la sentencia del procés",
   "oficial": "Guardia Urbana: 525.000 personas en Barcelona.",
   "segconv": "Sin cifra en las fuentes leídas.",
   "gobierno": "Estado: Sánchez (PSOE), en funciones. Generalitat: Torra (JxCat y ERC).",
@@ -230,7 +230,7 @@
   "convoca": "Residentes, con AMYTS",
   "piden": "Convenio, más supervisión, descanso tras las guardias y subida de la hora de guardia",
   "oficial": "Consejería de Sanidad: 43,88% el primer día.",
-  "segconv": "Convocantes: más de 1.000 personas en la calle.",
+  "segconv": "Más de 1.000 residentes en la calle, según elDiario.es.",
   "gobierno": "Ayuso (PP y Cs). Competencia autonómica.",
   "final": "Acuerdo en agosto de 2020.",
   "src": [
@@ -275,7 +275,7 @@
   "t": "Huelga de médicos",
   "convoca": "Metges de Catalunya",
   "piden": "Calidad asistencial, menos carga de trabajo y listas de espera",
-  "oficial": "Sin cifra en las fuentes leídas.",
+  "oficial": "Salut reconoció un seguimiento «importante» y calculó unas 2.000 intervenciones y 5.000 agendas de visitas aplazadas.",
   "segconv": "Sin cifra en las fuentes leídas.",
   "gobierno": "Aragonès (ERC en solitario). Competencia autonómica.",
   "final": "Acuerdo el 31 de enero de 2023; se desconvocan las jornadas siguientes.",
@@ -283,6 +283,10 @@
    [
     "ElNacional: desconvocada tras el acuerdo",
     "https://www.elnacional.cat/es/salud/desconvocada-la-huelga-de-medicos-despues-de-llegar-a-un-acuerdo-con-salud_961986_102.html"
+   ],
+   [
+    "elDiario.es: los médicos catalanes desconvocan la huelga; el seguimiento según Salut",
+    "https://www.eldiario.es/catalunya/medicos-catalanes-desconvocan-huelga-llegar-acuerdo-generalitat_1_9913276.html"
    ]
   ]
  },
@@ -444,7 +448,7 @@
   "convoca": "STE-CLM, CCOO y CSIF (UGT y ANPE no se sumaron)",
   "piden": "Menos horas lectivas, ratios más bajas y menos burocracia",
   "oficial": "Junta: 1,46% (504 docentes).",
-  "segconv": "Sindicatos: 25%, unos 7.000 de 27.000.",
+  "segconv": "Sindicatos: 25%, unos 7.000 docentes.",
   "gobierno": "Junta del PSOE (García-Page), con mayoría absoluta. Competencia autonómica.",
   "final": "Sin desenlace publicado.",
   "src": [
@@ -548,7 +552,7 @@
   "sector": "Sanidad",
   "ambito": "España",
   "t": "Huelgas de médicos contra el Estatuto Marco",
-  "convoca": "Comité de huelga de CESM, SMA, Metges de Catalunya, AMYTS, SME y O'Mega",
+  "convoca": "Comité de huelga de los sindicatos médicos, entre ellos CESM, SMA y SME",
   "piden": "Un estatuto propio y una mesa de negociación propia para los médicos, 35 horas, guardias y jubilación",
   "oficial": "Primer día de 2026 (16 de febrero), según las consejerías: del 1% en hospitales de Madrid al 44% en la Comunitat Valenciana.",
   "segconv": "Sindicatos: por encima del 50%, y hasta el 90% en algunas comunidades.",
@@ -573,10 +577,10 @@
   "t": "Huelgas docentes en la enseñanza pública gallega",
   "convoca": "CIG-Ensino y STEG",
   "piden": "Bajar ratios, recuperar las horas lectivas anteriores a los recortes de 2011-2012, más plantilla y menos burocracia",
-  "oficial": "Consellería: 14,8% el 25 de septiembre; por debajo del 13% (13,6% según Galiciapress) el 28 y 29 de octubre.",
+  "oficial": "Consellería: 14,8% el 25 de septiembre. En octubre, «por baixo do 13%» según Praza y 13,6% según Galiciapress.",
   "segconv": "CIG: más del 60% el 25 de septiembre; en octubre no dio cifra.",
   "gobierno": "Xunta del PP (Rueda). Competencia autonómica.",
-  "final": "Un día antes de la huelga de octubre, la Consellería anunció 1.500 plazas nuevas de empleo público. Fue la primera huelga docente de 48 horas en Galicia desde los años ochenta.",
+  "final": "Un día antes de la huelga de octubre, la Consellería anunció 1.500 plazas nuevas de empleo público (Praza); la CIG y el STEG dicen que solo cubren jubilaciones. Galiciapress describió la huelga de 48 horas, con encierros en cinco centros, como «una protesta inédita desde los años ochenta».",
   "src": [
    [
     "Praza: 60% para la CIG, 14,8% para la Consellería",
@@ -625,10 +629,10 @@
   "sector": "General",
   "ambito": "España",
   "t": "Paro por Palestina",
-  "convoca": "CCOO y UGT con paros de 2 horas; CGT y Sindicato de Estudiantes, 24 horas",
+  "convoca": "CCOO y UGT, con paros de dos horas en tres franjas; CGT, con una huelga general",
   "piden": "Romper relaciones con Israel y un embargo de armas por la guerra de Gaza",
-  "oficial": "Policía municipal: 7.500 personas en Barcelona. Gobierno Vasco: 42% en la enseñanza pública.",
-  "segconv": "Convocantes: más de 1.000 comités secundaron los paros; 50.000 personas en Barcelona.",
+  "oficial": "Guardia Urbana: 15.000 personas en la manifestación unitaria de Barcelona y unas 7.500 en la de estudiantes y profesores. Gobierno Vasco: 42% del profesorado de la red pública.",
+  "segconv": "Organizadores: unas 50.000 personas en Barcelona. Según Infobae, al menos un millar de comités de empresa y secciones sindicales secundaron los paros.",
   "gobierno": "Sánchez (PSOE y Sumar). La política exterior es del Estado.",
   "final": "Movilización; 15 detenidos en Barcelona.",
   "src": [
@@ -759,12 +763,12 @@
   "sector": "Educación",
   "ambito": "Comunitat Valenciana",
   "t": "Huelga indefinida docente",
-  "convoca": "STEPV, CCOO, UGT, CSIF, CNT, CGT, CSO y COS",
-  "piden": "Salario, ratios, 5.000 plazas, fin de los barracones e inclusión",
+  "convoca": "STEPV, CCOO y UGT, con la Coordinadora d'Assemblees Docents del País Valencià",
+  "piden": "Mejoras salariales, más plantilla, bajar las ratios, inclusión y blindar las líneas en valenciano",
   "oficial": "Sin cifra oficial en las fuentes leídas.",
   "segconv": "En la consulta sindical votaron 30.238 docentes: el 87% rechazó el acuerdo y el 71% votó suspender la huelga.",
   "gobierno": "Pérez Llorca (PP). Competencia autonómica.",
-  "final": "Huelga suspendida el 12 de junio, sin acuerdo.",
+  "final": "Tras la consulta del 10 de junio, los sindicatos se inclinaron por suspenderla sin acuerdo y retomar la protesta el curso siguiente.",
   "src": [
    [
     "elDiario.es: los docentes rechazan el acuerdo y suspenden la huelga",
@@ -801,7 +805,7 @@
   "sector": "Educación",
   "ambito": "Cataluña",
   "t": "Huelgas docentes",
-  "convoca": "USTEC-STEs, CGT, Intersindical, CNT y COS",
+  "convoca": "USTEC-STEs, CGT, CNT y COS",
   "piden": "Más especialistas de inclusión, salario ligado al IPC, ratios y el 6% del PIB para educación",
   "oficial": "Guardia Urbana: 15.200 manifestantes en Barcelona el 5 de junio.",
   "segconv": "USTEC: 80% de seguimiento y 90.000 personas.",
@@ -828,8 +832,8 @@
   "piden": "Vivienda asequible y una huelga general",
   "oficial": "Delegación del Gobierno: 70.000 personas en Madrid.",
   "segconv": "Sindicato de Inquilinas: 500.000 en Madrid.",
-  "gobierno": "Sánchez, con las Cortes disueltas; el día anterior el Congreso había rechazado dos decretos de vivienda.",
-  "final": "Da paso a la convocatoria de huelga general.",
+  "gobierno": "Sánchez (PSOE-Sumar); el día anterior el Congreso había rechazado dos decretos de vivienda. Las Cortes se disolvieron dos días después, el 5 de octubre.",
+  "final": "Al terminar, el Sindicato de Inquilinas llamó a «construir una huelga general».",
   "src": [
    [
     "elDiario.es: ahora toca huelga general",

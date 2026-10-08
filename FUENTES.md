@@ -10,7 +10,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Incumplimiento de leyes y sentencias
 - Nivel de prueba: Tribunal Constitucional
 - Resumen: Además de la amnistía fiscal, el armamento de Defensa y el Castor (fichas aparte), el TC anuló entre 2016 y 2024 preceptos de otros seis decretos-ley de Rajoy por usar el decreto-ley fuera de sus límites (art. 86.1 de la Constitución): los requisitos de las universidades del Real Decreto-ley 14/2012 de recortes educativos (STC 26/2016, recurso de la Junta de Andalucía); la reforma de la Ley de Subvenciones del Real Decreto-ley 7/2013, porque «no ha quedado acreditada la existencia de urgente y extraordinaria necesidad» (STC 70/2016, recurso del Gobierno de Canarias); varias disposiciones del Real Decreto-ley 5/2013 sobre los trabajadores de más edad (STC 61/2018, recurso del PSOE); el Real Decreto-ley 2/2016, aprobado en funciones, sobre los pagos fraccionados del impuesto de sociedades (STC 78/2020); parte del artículo 3.1 del Real Decreto-ley 3/2016 (STC 11/2024), y dos preceptos del Real Decreto-ley 1/2017 sobre cláusulas suelo, entre ellos el inciso que limitaba su aplicación a personas físicas (STC 156/2021, recurso de Unidos Podemos).
-- Matiz: En todos los casos el motivo es haber usado el decreto-ley fuera de sus límites constitucionales; el resto de cada norma se mantuvo y las situaciones firmes no se revisan. Hubo votos particulares discrepantes en la STC 26/2016 (Asua y Valdés) y en la 61/2018 (Valdés, Conde-Pumpido y Balaguer). Los Gobiernos de Sánchez también tienen decretos-ley anulados (ficha aparte). Para contexto, según el índice oficial del BOE, entre 2016 y septiembre de 2026 se aprobaron 228 reales decretos-ley: 2 con Rajoy en funciones (2016), 29 con Rajoy entre noviembre de 2016 y junio de 2018, 43 con Sánchez en solitario (junio de 2018 a enero de 2020, buena parte en funciones), 96 con el Gobierno de PSOE y Unidas Podemos (enero de 2020 a noviembre de 2023, con la pandemia) y 58 con el de PSOE y Sumar (desde noviembre de 2023).
+- Matiz: En todos los casos el motivo es haber usado el decreto-ley fuera de sus límites constitucionales. El Real Decreto-ley 2/2016 se anuló entero (tenía un artículo único); en los demás, el resto de la norma se mantuvo. Las situaciones firmes no se revisan. Hubo votos particulares discrepantes en la STC 26/2016 (Asua y Valdés) y en la 61/2018 (Valdés, Conde-Pumpido y Balaguer). Los Gobiernos de Sánchez también tienen decretos-ley anulados (ficha aparte). Para contexto, según el índice oficial del BOE, entre 2016 y septiembre de 2026 se aprobaron 228 reales decretos-ley: 2 con Rajoy en funciones (2016), 29 con Rajoy entre noviembre de 2016 y junio de 2018, 43 con Sánchez en solitario (junio de 2018 a enero de 2020, buena parte en funciones), 96 con el Gobierno de PSOE y Unidas Podemos (enero de 2020 a noviembre de 2023, con la pandemia) y 58 con el de PSOE y Sumar (desde noviembre de 2023).
 - Fuentes:
   - [BOE: STC 26/2016](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-2907)
   - [BOE: STC 70/2016](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-4854)
@@ -26,7 +26,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Incumplimiento de leyes y sentencias
 - Parlamento o territorio: Baleares
 - Nivel de prueba: Tribunal Constitucional
-- Resumen: El Govern del PP de José Ramón Bauzá aprobó en septiembre de 2013 el Decreto-ley 5/2013 para aplicar el tratamiento integrado de lenguas (TIL) en el curso 2013-2014. A recurso de senadores del PSOE, el TC anuló en 2016 varios preceptos (STC 38/2016) porque su contenido era «ajeno, o cuando menos muy alejado» de la urgencia que justificaba el decreto-ley y podía tramitarse por la vía ordinaria.
+- Resumen: El Govern del PP de José Ramón Bauzá aprobó en septiembre de 2013 el Decreto-ley 5/2013 para aplicar el tratamiento integrado de lenguas (TIL) en el curso 2013-2014. A recurso de senadores del PSOE, el TC anuló en 2016 varios preceptos (STC 38/2016) porque su contenido estaba alejado de la urgencia que justificaba el decreto-ley y podía tramitarse por la vía ordinaria.
 - Matiz: El TC avaló el resto del decreto-ley, incluido el calendario escolar. Entra en el registro porque la sentencia es de 2016.
 - Fuentes:
   - [BOE: STC 38/2016](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-3404)
@@ -48,7 +48,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Incumplimiento de leyes y sentencias
 - Nivel de prueba: Tribunal Constitucional
 - Resumen: La Constitución limita lo que puede ir en una ley de presupuestos, porque se tramita con plazos y enmiendas restringidos. El TC anuló por ese motivo una disposición sobre prestaciones de la Seguridad Social metida en los presupuestos de 2014 (STC 123/2016, cuestión del TSJ del País Vasco) y dos sobre contratación de personal laboral en los de 2017 (STC 122/2018, recurso de Unidos Podemos), ambas de Rajoy; y dos disposiciones finales de los presupuestos de 2022 del Gobierno de PSOE y Unidas Podemos: una cuestionada por el TSJ de Madrid (STC 145/2022) y otra sobre los funcionarios habilitados nacionales en el País Vasco (STC 67/2024, recurso del PP).
-- Matiz: En la STC 67/2024 el TC protegió los procesos selectivos y nombramientos ya hechos; hubo voto particular de Balaguer. No se ha encontrado ninguna ley estatal anulada por enmiendas intrusas o por lectura única entre 2016 y 2026.
+- Matiz: En la STC 67/2024 el TC protegió los procesos selectivos y nombramientos ya hechos; hubo voto particular de Balaguer.
 - Fuentes:
   - [BOE: STC 123/2016](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-7300)
   - [BOE: STC 122/2018](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-16723)
@@ -60,7 +60,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP
 - Categoría: Incumplimiento de leyes y sentencias
 - Nivel de prueba: Tribunal Constitucional
-- Resumen: El Gobierno de Rajoy aprobó por real decreto-ley créditos extraordinarios para pagar los programas especiales de armamento de Defensa: el Real Decreto-ley 10/2014 y el 7/2015, este último de 856,4 millones de euros. El TC anuló los dos (SSTC 126/2016 y 169/2016) a recurso de diputados del PSOE, IU y UPyD: el «recurso sistemático al decreto-ley» para financiar esos programas no se ajusta al artículo 86.1 de la Constitución, porque no había una urgencia que impidiera presupuestarlos.
+- Resumen: El Gobierno de Rajoy aprobó por real decreto-ley créditos extraordinarios para pagar los programas especiales de armamento de Defensa: el Real Decreto-ley 10/2014 y el 7/2015, este último de 856,4 millones de euros. El TC anuló el artículo 2.1 del primero (STC 126/2016, recurso de diputados del PSOE, La Izquierda Plural y UPyD) y el artículo 1.1 del segundo (STC 169/2016, recurso de diputados del PSOE): el «recurso sistemático al decreto-ley» para financiar esos programas no se ajusta al artículo 86.1 de la Constitución, porque no había una urgencia que impidiera presupuestarlos.
 - Matiz: El TC limitó los efectos: no se anulan los pagos ya hechos, para proteger a los terceros de buena fe que contrataron con la Administración. Las sentencias no discuten el gasto, sino que se aprobara por decreto-ley en vez de en los presupuestos o por ley.
 - Fuentes:
   - [BOE: STC 126/2016](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-7733)
@@ -350,7 +350,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Baleares
 - Nivel de prueba: Sentencia firme
-- Resumen: El Supremo confirmó la condena de dos años y medio de prisión por cohecho a Maria Antònia Munar, presidenta del Consell de Mallorca y líder de Unió Mallorquina, por pedir dinero a cambio de adjudicar los terrenos públicos de Can Domenge.
+- Resumen: Maria Antònia Munar, presidenta del Consell de Mallorca y líder de Unió Mallorquina, fue condenada por cohecho por pedir dinero a cambio de adjudicar los terrenos públicos de Can Domenge. La Audiencia de Palma le impuso en 2016 tres años de prisión; el Tribunal Superior de Justicia de Baleares dejó la pena en dos años y medio, y el Supremo la confirmó.
 - Matiz: Munar alegó que se la castigaba dos veces por los mismos hechos, porque ya tenía otra condena anterior por la misma adjudicación; el Supremo lo rechazó.
 - Fuentes:
   - [CGPJ: el Supremo confirma la condena](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-condena-de-la-expresidenta-del-Consell-de-Mallorca-Maria-Antonia-Munar-por-la-adjudicacion-de-los-terrenos-de--Can-Domenge-)
@@ -386,12 +386,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Baleares
 - Nivel de prueba: Sentencia firme
-- Resumen: Dentro del periodo, el expresidente balear Jaume Matas (PP) sumó tres condenas firmes: en 2017 aceptó la de prevaricación por pagar 350.000 euros sin concurso a la empresa Nimbus en una pieza del Palma Arena; en junio de 2018 el Supremo le mantuvo 3 años y 8 meses de prisión en el caso Nóos, por los fondos del Govern pagados al instituto de Iñaki Urdangarin; y en 2021 el Supremo confirmó su condena por tráfico de influencias en la adjudicación del hospital de Son Espases.
-- Matiz: Matas ya había sido condenado antes de 2016 en otras piezas del Palma Arena. En Son Espases no aceptó todos los cargos y recurrió hasta el Supremo.
+- Resumen: Dentro del periodo, el expresidente balear Jaume Matas (PP) sumó tres condenas firmes: en 2017 aceptó la de prevaricación por pagar 350.000 euros sin concurso a la empresa Nimbus en una pieza del Palma Arena; en junio de 2018 el Supremo le mantuvo 3 años y 8 meses de prisión en el caso Nóos, por los fondos del Govern pagados al instituto de Iñaki Urdangarin; y en 2021 el Supremo confirmó su condena por tráfico de influencias en la adjudicación del hospital de Son Espases. En junio de 2019 fue condenado además en el caso Over, otra pieza del Palma Arena, a 2 años y medio de prisión sustituibles por una multa de 18.000 euros.
+- Matiz: Matas ya había sido condenado antes de 2016 en otras piezas del Palma Arena. No se ha comprobado si la condena del caso Over es firme. En Son Espases no aceptó todos los cargos y recurrió hasta el Supremo.
 - Fuentes:
   - [CGPJ: el Supremo, caso Nóos (jun 2018)](https://www.poderjudicial.es/cgpj/en/Judiciary/Novelties/El-Tribunal-Supremo-condena-a-Inaki-Urdangarin-a-5-anos-y-10-meses-de-prision-por-malversacion--prevaricacion--fraude--dos-delitos-fiscales-y-trafico-de-influencias-en-el--caso-Noos-)
   - [Público: el acuerdo de Matas en el Palma Arena (2017)](https://www.publico.es/politica/jaume-matas-acepta-prevarico-y-primer-acuerdo-palma-arena.html)
   - [Público: el Supremo confirma Son Espases (2021)](https://www.publico.es/sociedad/tribunal-supremo-confirma-condena-trafico-influencias-jaume-matas-caso-son-espases.html)
+  - [Última Hora: sentencia del caso Over (jun 2019)](https://www.ultimahora.es/noticias/local/2019/06/14/1087847/jose-maria-rodriguez-condenado-tres-anos-medio-carcel-por-caso-over.html)
 
 ### Congreso: el Gobierno cambia por decreto-ley la elección de RTVE y nombra a una administradora única; el TC anula una parte
 - Fecha: jun 2018 – jun 2021
@@ -407,13 +408,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: Rosa María Mateo, administradora única (jul 2018)](https://www.eldiario.es/vertele/noticias/Rosa-Maria-Mateo-administradora-unica-RTVE_0_2034396549.html)
   - [BOE: STC 134/2021](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-13018)
 
-### Operación Pretoria: condenas firmes al exalcalde socialista de Santa Coloma y a dos exconsellers de CiU
+### Operación Pretoria: condenas firmes al exalcalde socialista de Santa Coloma y a dos ex altos cargos de la Generalitat con CiU
 - Fecha: 2002 – 2021
 - Partidos: PSOE, Junts
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Cataluña
 - Nivel de prueba: Sentencia firme
-- Resumen: La Audiencia Nacional condenó en 2018 a los once acusados de la operación Pretoria, por operaciones urbanísticas entre 2002 y 2009 en Santa Coloma de Gramenet, Badalona y Sant Andreu de Llavaneres, con penas de hasta 7 años. Entre ellos, el exalcalde de Santa Coloma Bartomeu Muñoz (PSC), que entró en prisión en 2021 tras confirmarlo el Supremo, y los exconsellers de CiU Macià Alavedra y Lluís Prenafeta.
+- Resumen: La Audiencia Nacional condenó en 2018 a los once acusados de la operación Pretoria, por operaciones urbanísticas entre 2002 y 2009 en Santa Coloma de Gramenet, Badalona y Sant Andreu de Llavaneres, con penas de hasta 7 años. Entre ellos, el exalcalde de Santa Coloma Bartomeu Muñoz (PSC), que entró en prisión en 2021 tras confirmarlo el Supremo, y dos ex altos cargos de la Generalitat con CiU: el exconseller de Economía Macià Alavedra y Lluís Prenafeta, que había sido secretario general de la Presidencia.
 - Matiz: CiU se integra aquí en Junts, su sucesora.
 - Fuentes:
   - [CGPJ: la sentencia de la Audiencia Nacional (2018)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-Nacional-condena-a-penas-de-hasta-7-anos-a-los-once-acusados-en-la--operacion-Pretoria-)
@@ -425,7 +426,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Cataluña
 - Nivel de prueba: Sentencia firme
-- Resumen: En 2018 Oriol Pujol, ex secretario general de Convergència y diputado, aceptó una condena de 2 años y medio de prisión por tráfico de influencias, cohecho y falsedad: cobró comisiones disfrazadas de asesorías por influir en el reparto de concesiones de ITV.
+- Resumen: En 2018 Oriol Pujol, exdirigente de CDC, aceptó una condena de 2 años y medio de prisión por tráfico de influencias, cohecho y falsedad: cobró comisiones disfrazadas de asesorías por influir en el reparto de concesiones de ITV.
 - Matiz: Es una sentencia de conformidad. El dinero de las comisiones era privado; el delito es usar su cargo para influir en concesiones públicas.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/catalunya/politica/audiencia-barcelona-prision-oriol-pujol_1_1818329.html)
@@ -436,8 +437,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Canarias
 - Nivel de prueba: Resolución judicial no firme
-- Resumen: En 2018 la Audiencia de Las Palmas condenó por conformidad a una veintena de acusados por las comisiones en el Ayuntamiento de Telde, gobernado por PP y Ciuca, y declaró al PP responsable civil subsidiario por desviar dinero público para reformar una oficina del partido. Absolvió a los siete acusados que no se conformaron, entre ellos dos exalcaldes del PP.
-- Matiz: La responsabilidad del PP es por una cantidad pequeña, la reforma de un local; el partido dijo que no era una condena. La sentencia la redactó un juez después suspendido y era recurrible.
+- Resumen: En 2018 la Audiencia de Las Palmas condenó por conformidad a 21 acusados por las comisiones en el Ayuntamiento de Telde bajo el gobierno del PP (2003-2007), y declaró al PP responsable civil subsidiario por desviar dinero público para reformar una oficina del partido. Absolvió a los siete acusados que no se conformaron, entre ellos dos exalcaldes del PP.
+- Matiz: La responsabilidad del PP es por una cantidad pequeña, la reforma de un local; el partido dijo que no era una condena. La sentencia la dictó el juez Salvador Alba cuando ya estaba suspendido por el CGPJ y de baja médica; la Audiencia la dio por válida en parte. Era recurrible.
 - Fuentes:
   - [elDiario.es (Canarias Ahora)](https://www.eldiario.es/canariasahora/tribunales/audiencia-sentencia-faycan-alba-pp_1_1996384.html)
   - [Canarias7](https://www.canarias7.es/sociedad/la-audiencia-limita-la-responsabilidad-del-pp-en-el-caso-faycan-a-740-euros-CY5427206)
@@ -522,8 +523,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Sentencia firme
-- Resumen: Un juzgado de Melilla condenó en 2017 a la exconsejera de Bienestar Social María Antonia Garbín (PP) a inhabilitación por prevaricación en la contratación de abogados, y la Audiencia lo confirmó en enero de 2019. Entre una sentencia y otra siguió 15 meses como diputada en la Asamblea.
-- Matiz: El PP alegó que la primera sentencia solo le impedía ser consejera, no diputada. Garbín dijo que la condena era injusta.
+- Resumen: La exconsejera de Bienestar Social María Antonia Garbín (PP) fue condenada a diez años de inhabilitación por un delito continuado de prevaricación en la contratación de abogados; el resto de acusados fueron absueltos. En enero de 2019 la Audiencia Provincial de Málaga, en su sección de Melilla, ratificó la condena. Según infoLibre, el PP la mantuvo 15 meses como diputada en la Asamblea con la condena.
+- Matiz: El PP alegó que la primera sentencia solo le impedía ser consejera, no diputada. Garbín dijo a El Faro que la condena era «totalmente injusta» porque no pudo hacerlo «totalmente sola».
 - Fuentes:
   - [infoLibre](https://www.infolibre.es/politica/pp-mantuvo-15-meses-escano-diputada-cuya-condena-colocaba-situacion-torra_1_1178781.html)
   - [El Faro de Melilla](https://elfarodemelilla.es/maria-antonia-garbin-condena-hay-algo-que-no-encaja/)
@@ -638,7 +639,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Incumplimiento de leyes y sentencias
 - Nivel de prueba: Tribunal Constitucional
 - Resumen: Además de la disposición sobre el CNI (ficha aparte), el TC anuló preceptos de tres decretos-ley de Sánchez por usarlos fuera de sus límites (art. 86.1 de la Constitución): dos disposiciones sobre suelo para alquiler y convenios de transporte del Real Decreto-ley 7/2019 de vivienda, porque «no se justifica el desplazamiento de la potestad legislativa de las Cortes» (STC 14/2020, recurso del PP; Gobierno del PSOE en solitario); el traspaso de la gestión de las clases pasivas al INSS del Real Decreto-ley 15/2020, por falta de urgencia (STC 111/2021, recurso de senadores del PP; Gobierno de PSOE y Unidas Podemos), y dos mandatos de la reforma laboral del Real Decreto-ley 32/2021, el de convocar el diálogo social sobre el estatuto del becario y el de un reglamento de seguridad y salud de los menores trabajadores (STC 40/2026, recurso de Vox).
-- Matiz: En los tres casos el TC avaló el resto de la norma: la reforma laboral quedó en vigor, y el TC rechazó también la queja de Vox por el voto telemático erróneo de un diputado del PP en la convalidación. En clases pasivas difirió la nulidad al 1 de enero de 2022 para que se pudiera sustituir la regulación; hubo voto particular de Conde-Pumpido. Otros decretos-ley de Sánchez recurridos por PP o Vox fueron avalados, entre ellos los de la plusvalía municipal, los riders, la temporalidad en el empleo público y el de igualdad entre mujeres y hombres en el empleo. Para contexto, según el índice oficial del BOE, entre 2016 y septiembre de 2026 se aprobaron 228 reales decretos-ley: 2 con Rajoy en funciones (2016), 29 con Rajoy entre noviembre de 2016 y junio de 2018, 43 con Sánchez en solitario (junio de 2018 a enero de 2020, buena parte en funciones), 96 con el Gobierno de PSOE y Unidas Podemos (enero de 2020 a noviembre de 2023, con la pandemia) y 58 con el de PSOE y Sumar (desde noviembre de 2023).
+- Matiz: En los tres casos el TC avaló el resto de la norma: la reforma laboral quedó en vigor, y el TC rechazó también la queja de Vox por el voto telemático erróneo de un diputado del PP en la convalidación. En clases pasivas difirió la nulidad al 1 de enero de 2022 para que se pudiera sustituir la regulación; hubo voto particular de Conde-Pumpido. Para contexto, según el índice oficial del BOE, entre 2016 y septiembre de 2026 se aprobaron 228 reales decretos-ley: 2 con Rajoy en funciones (2016), 29 con Rajoy entre noviembre de 2016 y junio de 2018, 43 con Sánchez en solitario (junio de 2018 a enero de 2020, buena parte en funciones), 96 con el Gobierno de PSOE y Unidas Podemos (enero de 2020 a noviembre de 2023, con la pandemia) y 58 con el de PSOE y Sumar (desde noviembre de 2023).
 - Fuentes:
   - [BOE: STC 14/2020](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-2941)
   - [BOE: STC 111/2021](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10024)
@@ -850,7 +851,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Cataluña
 - Nivel de prueba: Sentencia firme
 - Resumen: En 2021 el Supremo confirmó la condena del exalcalde de Sabadell Manuel Bustos (PSC) a 3 años de prisión por una de las piezas del caso Mercurio, y tuvo que ingresar en prisión. En junio de 2026 aceptó otra condena en otra pieza del mismo caso.
-- Matiz: Las cantidades de algunas piezas son pequeñas; su defensa las llamó insignificantes.
+- Matiz: Las cantidades de algunas piezas son pequeñas.
 - Fuentes:
   - [elDiario.es: deberá ingresar en prisión (2021)](https://www.eldiario.es/catalunya/exalcalde-socialista-sabadell-condenado-corrupcion-debera-ingresar-prision_1_8584412.html)
   - [Infobae (agencias): nueva condena (jun 2026)](https://www.infobae.com/espana/agencias/2026/06/12/el-exalcalde-socialista-de-sabadell-condenado-de-nuevo-en-otra-derivada-del-caso-mercurio/)
@@ -903,12 +904,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Vozpópuli: no llega al Pleno](https://www.vozpopuli.com/espana/pp-plus-ultra-congreso.html)
   - [Congreso: ficha oficial 156/000030 (caducada)](https://www.congreso.es/es/busqueda-de-iniciativas?p_p_id=iniciativas&p_p_lifecycle=0&p_p_state=normal&p_p_mode=view&_iniciativas_mode=mostrarDetalle&_iniciativas_legislatura=XIV&_iniciativas_id=156%2F000030)
 
-### El Gobierno mete a Pablo Iglesias en la comisión del CNI en un decreto-ley del covid y el TC lo anula
+### Un decreto-ley del covid cambia la composición de la comisión que controla el CNI y el TC lo anula
 - Fecha: mar 2020 – may 2021
 - Partidos: PSOE, Podemos/UP
 - Categoría: Incumplimiento de leyes y sentencias
 - Nivel de prueba: Tribunal Constitucional
-- Resumen: El Real Decreto-ley 8/2020, el primero de medidas económicas por la pandemia, incluyó una disposición final que daba entrada en la Comisión Delegada del Gobierno para Asuntos de Inteligencia al vicepresidente segundo, Pablo Iglesias, y al director del Gabinete de la Presidencia. A recurso de Vox, el TC la anuló en mayo de 2021 (STC 110/2021): no guardaba «relación discernible, ni directa ni indirecta» con la emergencia sanitaria.
+- Resumen: El Real Decreto-ley 8/2020, de medidas económicas por la pandemia, incluyó una disposición final que cambiaba la composición de la Comisión Delegada del Gobierno para Asuntos de Inteligencia: la integrarían los vicepresidentes que designara el presidente y el director del Gabinete de la Presidencia. Vox sostuvo en su recurso que se buscaba «blindar» la presencia del vicepresidente segundo, Pablo Iglesias, que ya había incorporado el Real Decreto 399/2020. A recurso de Vox, el TC la anuló en mayo de 2021 (STC 110/2021): no guardaba «relación discernible, ni directa ni indirecta» con la emergencia sanitaria.
 - Matiz: Voto particular discrepante del magistrado Conde-Pumpido. El resto del decreto-ley no se recurrió aquí. Un recurso posterior del PP sobre la misma disposición se extinguió porque ya estaba anulada (STC 124/2021).
 - Fuentes:
   - [BOE: STC 110/2021](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-10023)
@@ -955,7 +956,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Tribunal Constitucional
 - Resumen: En 2021 el PP aprobó en la Asamblea de Madrid, con la abstención de Vox y por lectura única, una reforma de la ley de Telemadrid que cambió cómo se eligen la dirección y el consejo de administración: rebajó el número de votos exigido para desbloquear su designación, dejó la elección del consejo solo en manos de la Asamblea, permitió que el Gobierno nombrara un administrador provisional y supuso el cese automático del director, José Pablo López. En marzo de 2026 el Tribunal Constitucional, por 7 votos a 5, anuló los acuerdos de la Mesa y el Pleno y declaró que tramitarla por lectura única vulneró el derecho de los diputados socialistas al ejercicio del cargo. En 2022 el PP hizo otra reforma de la misma ley también por lectura única (Ley 3/2022), y en junio de 2026 el TC, de nuevo por 7 votos a 5, anuló los acuerdos de la Mesa y del Pleno porque privaron a los diputados de su derecho de enmienda (STC 48/2026).
-- Matiz: Las sentencias son declarativas: la legislatura ya había terminado, el PSOE solo recurrió el procedimiento y las leyes siguen en vigor. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. Votaron a favor los siete magistrados del bloque progresista y en contra los cinco del conservador; en 2026 firmaron votos particulares Enríquez, Espejel, Tolosa y Macías, y aparte Arnaldo.
+- Matiz: Las sentencias son declarativas: la legislatura ya había terminado y el PSOE solo recurrió el procedimiento. El TC subrayó que el derecho de enmienda es esencial para el pluralismo político. Votaron a favor los siete magistrados del bloque progresista y en contra los cinco del conservador; en 2026 firmaron votos particulares Enríquez, Espejel, Tolosa y Macías, y aparte Arnaldo.
 - Fuentes:
   - [Público: la sentencia del TC](https://www.publico.es/politica/tribunales/constitucional-reprende-ayuso-reforma-controlar-telemadrid.html)
   - [Telemadrid: la aprobación en 2021](https://www.telemadrid.es/noticias/madrid/reforma-ley-telemadrid-0-2357464249--20210708013446.html)
@@ -1077,7 +1078,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Aragón
 - Nivel de prueba: Sentencia firme
-- Resumen: En enero de 2022 el Supremo condenó a 11 años y 4 meses de prisión a la exalcaldesa de La Muela (Zaragoza) María Victoria Pinilla (PAR) por malversación, prevaricación, blanqueo, cohecho, fraude y delitos fiscales La sentencia destaca el daño que hacen al sistema democrático los cargos públicos que se lucran.
+- Resumen: En enero de 2022 el Supremo condenó a 11 años y 4 meses de prisión a la exalcaldesa de La Muela (Zaragoza) María Victoria Pinilla (PAR) por malversación, prevaricación, blanqueo, cohecho, fraude y delitos fiscales. La sentencia destaca el daño que hacen al sistema democrático los cargos públicos que se lucran.
 - Matiz: El Supremo había anulado en 2018 una primera condena por vulnerar el derecho de defensa y ordenó repetir el juicio.
 - Fuentes:
   - [CGPJ: la sentencia del Supremo (ene 2022)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-condena-a-11-anos-y-4-meses-de-prision-a-la-exalcaldesa-de-La-Muela--Zaragoza--por-malversacion--prevaricacion--blanqueo--cohecho--fraude-y-delitos-fiscales)
@@ -1228,7 +1229,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Murcia
 - Nivel de prueba: Sentencia firme
 - Resumen: El Supremo confirmó en 2022 la condena por prevaricación al exalcalde de Torre Pacheco Daniel García Madrid (PP) por adjudicar sin expediente 15 proyectos por 511.355,73 euros. La sentencia lo calificó de «ilegal, burdo y grosero».
-- Matiz: La pena es de inhabilitación, no de prisión.
+- Matiz: La pena es de seis meses de inhabilitación especial, no de prisión, y se suma a los diez años de inhabilitación de una condena anterior.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html)
 
@@ -1300,7 +1301,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: La Audiencia de Las Palmas lo había condenado en 2019.
 - Fuentes:
   - [elDiario.es (Canarias Ahora): el Supremo confirma (sep 2022)](https://www.eldiario.es/canariasahora/tribunales/supremo-confirma-condena-siete-anos-cinco-meses-prision-dimas-martin-caso-union_1_9575512.html)
-  - [Público](https://www.publico.es/politica/condenada-trama-corrupta-politica-lanzarote.html)
+  - [Público: una condena anterior del caso Unión a Dimas Martín (feb 2015)](https://www.publico.es/politica/condenada-trama-corrupta-politica-lanzarote.html)
 
 ### Tribunal de Cuentas: incidencias en los contratos covid de Castilla-La Mancha, Extremadura, La Rioja, Murcia y Cantabria
 - Fecha: 2020 – sep 2022
@@ -1463,7 +1464,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Sentencia firme
 - Resumen: La Audiencia Nacional condenó en 2020 a 19 de los 23 acusados por las irregularidades en los contratos de Radiotelevisión Valenciana para la visita del Papa a Valencia en 2006. En abril de 2023 el Supremo confirmó las penas: 13 años y 7 meses para Francisco Correa y 6 años y 9 meses para Álvaro Pérez y para el exdirector de RTVV Pedro García.
-- Matiz: Pedro García era director de la televisión pública nombrado por el Consell del PP; no consta que fuera militante.
+- Matiz: Pedro García era el director de la televisión pública valenciana cuando se firmaron los contratos.
 - Fuentes:
   - [elDiario.es: el Supremo confirma las penas (abr 2023)](https://www.eldiario.es/comunitat-valenciana/politica/supremo-confirma-penas-cabecillas-gurtel-irregularidades-visita-papa-valencia-2006_1_9987256.html)
 
@@ -1561,7 +1562,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Sentencia firme
-- Resumen: La Audiencia Nacional juzgó en 2022 el despliegue de la trama Gürtel en Boadilla del Monte, donde gobernaba el PP, y en noviembre de 2023 el Supremo confirmó 36 años de prisión para el exalcalde Arturo González Panero. El PP fue condenado a pagar 204.198,64 euros como partícipe a título lucrativo por haberse beneficiado de la red.
+- Resumen: La Audiencia Nacional juzgó el despliegue de la trama Gürtel en Boadilla del Monte, donde gobernaba el PP, y en noviembre de 2023 el Supremo confirmó 36 años y 11 meses de prisión para el exalcalde Arturo González Panero. El PP fue condenado a pagar 204.198,64 euros como partícipe a título lucrativo por haberse beneficiado de la red.
 - Matiz: El PP no recurrió su condena como partícipe a título lucrativo, así que el Supremo no se pronunció sobre ella. Partícipe a título lucrativo no significa que el partido conociera los delitos.
 - Fuentes:
   - [Infobae (Europa Press): el Supremo confirma 36 años (nov 2023)](https://www.infobae.com/espana/agencias/2023/11/22/el-supremo-confirma-36-anos-de-carcel-al-exalcalde-de-boadilla-por-el-despliegue-de-gurtel/)
@@ -1635,7 +1636,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Sentencia firme
 - Resumen: La Audiencia de Valencia condenó en 2020 a 21 de los 23 acusados de las piezas 2 y 3 del caso Cooperación, por desviar ayudas de la Conselleria de Solidaridad a ONG y a un hospital en Haití. El Supremo resolvió los recursos en 2022 y en febrero de 2024 la Audiencia subió la pena del exconseller Rafael Blasco (PP) de 1 año a 1 año y 6 meses.
-- Matiz: Blasco ya había sido condenado en firme en 2015 por la primera pieza. Se le aplicó la atenuante de reparación parcial del daño.
+- Matiz: Blasco ya había sido condenado en firme en 2015 por la primera pieza. El Supremo le aplicó la atenuante de confesión tardía de los hechos, sin efecto sobre la pena de prisión.
 - Fuentes:
   - [CGPJ: la sentencia de la Audiencia (abr 2020)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Valencia-condena-a-21-de-los-23-acusados-del--caso-Cooperacion--a-penas-de-entre-tres-meses-y-cinco-anos-y-medio-de-carcel)
   - [CGPJ: el Supremo resuelve los recursos (2022)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-resuelve-los-recursos-contra-la-sentencia-de-la-Audiencia-de-Valencia-en-las-piezas-del--caso-Blasco-)
@@ -1745,7 +1746,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Galicia
 - Nivel de prueba: Sentencia firme
-- Resumen: En junio de 2024 la pieza principal de la operación Pokémon en el Ayuntamiento de Lugo se cerró con un acuerdo de conformidad: el exteniente de alcalde Francisco Fernández Liñares (PSOE) y otros diez acusados aceptaron penas por la concesión de la grúa municipal.
+- Resumen: En junio de 2024 la pieza principal de la operación Pokémon en el Ayuntamiento de Lugo se cerró con un acuerdo de conformidad: el exteniente de alcalde Francisco Fernández Liñares, que lo fue con el alcalde socialista José López Orozco, y otros diez acusados aceptaron penas por la concesión de la grúa municipal.
 - Matiz: La conformidad rebajó mucho las penas que se pedían.
 - Fuentes:
   - [infoLibre: el acuerdo de conformidad (jun 2024)](https://www.infolibre.es/politica/operacion-pokemon-llega-acuerdo-confirmidad-ministerio-fiscal-acusados_1_1825563.html)
@@ -1831,7 +1832,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Andalucía
 - Nivel de prueba: Sentencia firme
-- Resumen: Invercaria era la sociedad de capital riesgo de la agencia IDEA de la Junta de Andalucía, gobernada por el PSOE. En septiembre de 2024 el Supremo elevó a 4 años y medio de prisión la condena por malversación de su expresidente Tomás Pérez-Sauquillo en una de las piezas; hay otras piezas con condena por préstamos y ayudas a empresas.
+- Resumen: Invercaria era la sociedad de capital riesgo de la agencia IDEA de la Junta de Andalucía, gobernada por el PSOE. En septiembre de 2024 el Supremo elevó a 4 años y medio de prisión, al añadir prevaricación a la malversación, la condena de su expresidente Tomás Pérez-Sauquillo en una de las piezas; hay otras piezas con condena por préstamos y ayudas a empresas.
 - Matiz: Pérez-Sauquillo era un cargo designado por la Junta; no consta su militancia. En otra pieza la reforma del delito de malversación de 2022 le rebajó la pena.
 - Fuentes:
   - [elDiario.es: el Supremo eleva la pena (sep 2024)](https://www.eldiario.es/andalucia/supremo-eleva-cuatro-anos-medio-condena-expresidente-empresa-capital-riesgo-andalucia_1_11666920.html)
@@ -2014,7 +2015,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Incumplimiento de leyes y sentencias
 - Parlamento o territorio: Andalucía
 - Nivel de prueba: Tribunal Constitucional
-- Resumen: El Gobierno de Juanma Moreno (PP y Cs) aprobó en marzo de 2020 el Decreto-ley 2/2020 de simplificación administrativa, convalidado por la Diputación Permanente del Parlamento en plena pandemia. A recurso de senadores del PSOE, el TC anuló en 2025 cuatro artículos (STC 40/2025): tres porque el Gobierno andaluz «no ha justificado específicamente» la urgencia para cambiar reglamentos por decreto-ley, y el que cambiaba las funciones del Consejo Audiovisual, materia que el Estatuto reserva a ley del Parlamento.
+- Resumen: El Gobierno de Juanma Moreno (PP y Cs) aprobó en marzo de 2020 el Decreto-ley 2/2020 de simplificación administrativa, convalidado por la Diputación Permanente del Parlamento en plena pandemia. A recurso de senadores del PSOE, el TC anuló en 2025 cuatro artículos (STC 40/2025): tres porque el Gobierno andaluz no justificó específicamente la urgencia para cambiar reglamentos por decreto-ley, y el que cambiaba las funciones del Consejo Audiovisual, materia que el Estatuto reserva a ley del Parlamento.
 - Matiz: El TC avaló el resto y la convalidación por la Diputación Permanente. Los magistrados Campo, y Balaguer y Sáez, discreparon de la fundamentación porque entendían que esa convalidación vulneraba el principio democrático.
 - Fuentes:
   - [BOE: STC 40/2025](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-5737)
@@ -2151,7 +2152,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Derechos fundamentales y control judicial
 - Parlamento o territorio: Canarias
 - Nivel de prueba: Tribunal Constitucional
-- Resumen: El Gobierno de Ángel Víctor Torres (PSOE, NC, Podemos y ASG) aprobó en septiembre de 2021 el Decreto-ley 11/2021 de alerta sanitaria. A recurso de Vox, el TC anuló en 2025 los preceptos sobre aislamiento, cuarentena y permanencia en el domicilio (STC 95/2025): afectaban a la libertad personal (art. 17.1 de la Constitución), lo que supone infringir el límite material del decreto-ley.
+- Resumen: El Gobierno de Ángel Víctor Torres (PSOE, NC, Podemos y ASG) aprobó en septiembre de 2021 el Decreto-ley 11/2021 de alerta sanitaria. A recurso de Vox, el TC anuló en 2025 los preceptos sobre aislamiento, cuarentena y permanencia en el domicilio, otras medidas preventivas y su régimen sancionador (STC 95/2025): afectaban a la libertad personal (art. 17.1 de la Constitución), lo que supone infringir el límite material del decreto-ley.
 - Matiz: El TC avaló el resto del decreto-ley. No hubo votos particulares.
 - Fuentes:
   - [BOE: STC 95/2025](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-9639)
@@ -2163,18 +2164,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Andalucía
 - Nivel de prueba: Resolución judicial no firme
 - Resumen: La FAFFE era una fundación pública de empleo de la Junta de Andalucía. En septiembre de 2023 la Audiencia de Sevilla condenó a su exdirector Fernando Villén a 6 años de prisión por pagar 32.566 euros en prostíbulos con tarjetas de la fundación. En abril de 2025 condenó de nuevo a Villén y al exalcalde socialista de Lebrija Antonio Torres por contratar a este en la fundación sin que trabajara: deben devolver 359.973,51 euros.
-- Matiz: Villén fue nombrado por la Junta del PSOE. Las sentencias se podían recurrir y no consta que sean firmes.
+- Matiz: Villén fue nombrado por la Junta del PSOE. En abril de 2026 el Tribunal Superior de Justicia de Andalucía rebajó su pena por los pagos en prostíbulos de 6 años a 5 años y 3 meses, al apreciar dilaciones indebidas. No consta que las sentencias sean firmes.
 - Fuentes:
   - [infoLibre: los pagos en prostíbulos (sep 2023)](https://www.infolibre.es/politica/condenado-exdirector-faffe-gastar-prostibulos-32-566-euros-dinero-publico_1_1595302.html)
   - [Infobae: la contratación de Antonio Torres (abr 2025)](https://www.infobae.com/espana/2025/04/30/condenado-a-mas-de-dos-anos-de-carcel-un-exalcalde-del-psoe-por-su-contratacion-ilegal-en-la-fundacion-de-empleo-andaluza-no-iba-a-trabajar/)
+  - [EFE (vía Infobae): el TSJA rebaja la pena de Villén (abr 2026)](https://www.infobae.com/espana/agencias/2026/04/24/rebajan-la-pena-al-exdirector-de-la-fundacion-andaluza-condenado-por-pagos-en-prostibulos/)
 
-### Gürtel Arganda: el exalcalde del PP y otros 17 acusados aceptan condenas tras confesar
+### Gürtel Arganda: el exalcalde del PP y casi todos los acusados aceptan condenas tras confesar
 - Fecha: 2002 – 2025
 - Partidos: PP
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Sentencia firme
-- Resumen: En mayo de 2025 la Audiencia Nacional condenó a 19 acusados por la adjudicación amañada de suelo público en Arganda del Rey, gobernado por el PP. Dieciocho se conformaron con las penas tras confesar, entre ellos el exalcalde Ginés López, con más de cinco años de prisión, el exconcejal y luego diputado autonómico Benjamín Martín Vasco y los cabecillas de la trama, Correa y Crespo.
+- Resumen: En mayo de 2025 la Audiencia Nacional condenó a todos los acusados por la adjudicación amañada de suelo público en Arganda del Rey, gobernado por el PP: 20 según Europa Press (vía Público), 19 según Telemadrid. Todos menos uno, el exgerente de Urbanismo Luis Bremond, se conformaron con las penas tras confesar, entre ellos el exalcalde Ginés López, con más de cinco años de prisión, el exconcejal y luego diputado autonómico Benjamín Martín Vasco y los cabecillas de la trama, Correa y Crespo.
 - Matiz: Las conformidades con Anticorrupción rebajaron mucho las penas pedidas. Un acusado que no se conformó podía recurrir; para los demás la condena es firme.
 - Fuentes:
   - [Público](https://www.publico.es/politica/tribunales/condenados-lideres-guertel-exalcalde-arganda-adjudicaciones-ilegales-localidad.html)
@@ -2554,7 +2556,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Resolución judicial no firme
 - Resumen: En enero de 2026 la Audiencia de Alicante condenó a la exalcaldesa de Orihuela Mónica Lorente y a varios exconcejales del PP por prevaricación en la adjudicación de la contrata de basuras, y al empresario Ángel Fenoll por cohecho, entre otros delitos. Es la segunda sentencia: el Supremo había anulado en 2024 la absolución de 2020 al validar las escuchas.
-- Matiz: No es firme. Hubo 24 absueltos, entre ellos el exalcalde José Manuel Medina. Las penas de los cargos públicos son cortas y de inhabilitación.
+- Matiz: No es firme. Hubo 24 absueltos, entre ellos el exalcalde José Manuel Medina. Con la atenuante muy cualificada de dilaciones indebidas, las penas de prisión de los cargos públicos van de cuatro meses a un año; a Lorente, cuatro meses de prisión y 20 de inhabilitación.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/sentencia-brugal-avala-audios-capo-basura-orihuela-detectives-balnearios-presiones-zaplana-camps_1_12930678.html)
   - [TodoAlicante](https://www.todoalicante.es/politica/audiencia-alicante-condena-acusados-brugal-contrata-basuras-20260112135006-nt.html)
@@ -2679,7 +2681,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Incumplimiento de leyes y sentencias
 - Parlamento o territorio: Baleares
 - Nivel de prueba: Tribunal Constitucional
-- Resumen: En diciembre de 2024 el PP aprobó por error 34 enmiendas de Vox en la ley balear de simplificación (Ley 7/2024), entre ellas algunas sobre el catalán en la sanidad pública. Dos días después, el Govern de Marga Prohens (PP) las revirtió con el Decreto-ley 5/2024. A recurso de diputados del Congreso de varios grupos, el TC anuló en 2026 esos preceptos (STC 28/2026): usar el decreto-ley para eso equivaldría a tratarlo como «un mecanismo gubernamental para enmendar la actuación legislativa del parlamento autonómico».
+- Resumen: El 26 de noviembre de 2024 el PP aprobó por error 34 enmiendas de Vox en la ley balear de simplificación (Ley 7/2024, de 11 de diciembre), entre ellas algunas sobre el catalán en la sanidad pública. Dos días después de la fecha de la ley, el Govern de Marga Prohens (PP) las revirtió con el Decreto-ley 5/2024. A recurso de diputados del Congreso de varios grupos, el TC anuló en 2026 esos preceptos (STC 28/2026): usar el decreto-ley para eso equivaldría a tratarlo como «un mecanismo gubernamental para enmendar la actuación legislativa del parlamento autonómico».
 - Matiz: El efecto práctico es casi nulo: la Ley 4/2025 ya había derogado esos preceptos, y el TC solo juzgó el uso del decreto-ley. Según el Govern, todos los grupos del Parlament salvo Vox, autor de las enmiendas, reconocían que la votación fue un error. Voto particular discrepante de Macías, que sí veía urgencia, y concurrente de Arnaldo.
 - Fuentes:
   - [BOE: STC 28/2026](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-9593)
@@ -2887,8 +2889,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Resolución judicial no firme
-- Resumen: Firme: en junio de 2026 el Supremo confirmó la primera sentencia del caso Taula (pieza Thematica), que condenó al exgerente de Imelsa, la empresa de la Diputación de Valencia, Marcos Benavent, por desviar fondos públicos. Recurribles: en noviembre de 2023 la Audiencia condenó a 5 años al expresidente de la Diputación Alfonso Rus (PP) por contratar a personas que no trabajaban («zombis»); en julio de 2024, a 4 años y medio al exvicealcalde de Valencia Alfonso Grau (PP) por la financiación en B de la campaña municipal de 2007; y en julio de 2025, a los exalcaldes de Requena y Enguera (PP) y a un exalcalde del PSOE por contratos amañados.
-- Matiz: En la pieza Thematica el PP fue absuelto como responsable civil subsidiario. Rus se declara inocente. Salvo Thematica, las condenas están recurridas y no son firmes. Otras piezas acabaron en absolución.
+- Resumen: Firme: en junio de 2026 el Supremo confirmó la primera sentencia del caso Taula (pieza Thematica), que condenó al exgerente de Imelsa, la empresa de la Diputación de Valencia, Marcos Benavent, por desviar fondos públicos. Recurribles: en noviembre de 2023 la Audiencia condenó a 5 años al expresidente de la Diputación Alfonso Rus (PP) por contratar a personas que no trabajaban («zombis»); en julio de 2024, a 4 años y medio al exvicealcalde de Valencia Alfonso Grau (PP) por la financiación irregular de las campañas del PP de Valencia en 2007 y 2011; y en julio de 2025, a los exalcaldes de Requena y Enguera (PP) y a un exalcalde del PSOE por contratos amañados.
+- Matiz: Rus se declara inocente. Salvo Thematica, las condenas están recurridas y no son firmes. Otras piezas acabaron en absolución.
 - Fuentes:
   - [elDiario.es: el Supremo confirma Thematica (jun 2026)](https://www.eldiario.es/comunitat-valenciana/tribunal-supremo-confirma-condena-ocho-anos-carcel-yonqui-dinero-blanqueo-falsedad_1_13336558.html)
   - [Infobae (EFE): condena a Alfonso Rus (nov 2023)](https://www.infobae.com/espana/agencias/2023/11/17/condenan-al-expresidente-de-la-diputacion-de-valencia-alfonso-rus-pp-a-5-anos-de-carcel/)
@@ -2971,7 +2973,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PP, PSOE
 - Categoría: Financiación y corrupción
 - Nivel de prueba: Resolución judicial no firme
-- Resumen: Doce años después de la operación, la trama Púnica empieza a tener sentencias. Firme: en septiembre de 2026 el Supremo confirmó 8 años y medio de inhabilitación al expresidente de la Diputación de León Marcos Martínez Barazón (PP) por prevaricación en contratos de reputación en internet. Recurribles: la Audiencia Nacional condenó en diciembre de 2025 a 29 personas por la pieza Cofely, entre ellas cinco exalcaldes del PP, el exalcalde de Parla José María Fraile (PSOE) y el empresario David Marjaliza; en septiembre de 2025, al exconsejero murciano Juan Carlos Ruiz (PP) a 4 años por un contrato de 30.000 euros; y en julio de 2026, al exconsejero madrileño Francisco Granados a dos años y medio por la pieza Waiter Music. Pendientes de juicio: la caja B del PP de Madrid (juicio oral abierto en 2024) y la pieza de Arpegio y Metro (abierto en mayo de 2026, con Granados y otros 40 acusados).
+- Resumen: Doce años después de la operación, la trama Púnica empieza a tener sentencias. Firme: en septiembre de 2026 el Supremo confirmó 8 años y medio de inhabilitación al expresidente de la Diputación de León Marcos Martínez Barazón (PP; expulsado del partido tras su detención en 2014, siguió como alcalde independiente) por prevaricación en contratos de reputación en internet. Recurribles: la Audiencia Nacional condenó en diciembre de 2025 a 29 personas por la pieza Cofely, entre ellas cinco exalcaldes del PP, el exalcalde de Parla José María Fraile (PSOE) y el empresario David Marjaliza; en septiembre de 2025, al exconsejero murciano Juan Carlos Ruiz (PP) a 4 años por un contrato de 30.000 euros; y en julio de 2026, al exconsejero madrileño Francisco Granados a dos años y medio por la pieza Waiter Music. Pendientes de juicio: la caja B del PP de Madrid (juicio oral abierto en 2024) y la pieza de Arpegio y Metro (abierto en mayo de 2026, con Granados y otros 40 acusados).
 - Matiz: Salvo la de León, las condenas se pueden recurrir y rige la presunción de inocencia. Esperanza Aguirre quedó fuera del juicio de la caja B. En Cofely hubo también absoluciones de exalcaldes del PP.
 - Fuentes:
   - [ileon (elDiario.es): el Supremo confirma la condena de León (sep 2026)](https://ileon.eldiario.es/politica/supremo-confirma-ocho-anos-medio-inhabilitacion-expresidente-diputacion-leon-trama-punica_1_13534860.html)
@@ -3609,7 +3611,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Andalucía Información: el Congreso rechaza los dos decretos](https://www.andaluciainformacion.es/articulo/espana/congreso-rechaza-dos-decretos-vivienda/202610021610373495690.html)
   - [elDiario.es](https://www.eldiario.es/politica/junts-pp-vox-tumban-decretos-vivienda-congreso_1_13557141.html)
 
-## Iniciativas ciudadanas (53)
+## Iniciativas ciudadanas (66)
 
 ### Balance de la década: 111 expedientes de ILP y una sola ley
 - Parlamento: Congreso
@@ -3645,8 +3647,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promotores: Federaciones de AMPAS y los sindicatos ANPE, STE y SATSE
 - Votación: Sin votación: la Mesa de las Cortes no la admitió.
 - Partidos que la frenaron o votaron en contra: PSOE
-- Qué pasó: La Mesa de las Cortes, con mayoría absoluta del PSOE, rechazó el 13 de julio de 2026 que se tramitara y debatiera en el Pleno.
-- Matiz: No se ha encontrado el acuerdo de la Mesa ni su motivo oficial; los promotores hablaron de «deficiencias políticas y democráticas».
+- Qué pasó: La Mesa de las Cortes, en una cámara con mayoría absoluta del PSOE, rechazó el 13 de julio de 2026 que se tramitara y debatiera en el Pleno.
+- Matiz: Según los promotores, la Mesa alegó que la ILP «supone un aumento de los créditos presupuestarios»; no se ha encontrado el acuerdo de la Mesa. Los promotores hablaron de «carencias democráticas».
 - Fuentes:
   - [Lanza](https://www.lanzadigital.com/castilla-la-mancha/ampas-y-sindicatos-vuelven-a-pedir-enfermeria-escolar-en-centros-educativos-tras-rechazar-las-cortes-esta-ilp/)
   - [Torrijos Today](https://torrijostoday.com/castilla-la-mancha/ampas-y-sindicatos-vuelven-a-reclamar-enfermeria-escolar-en-centros-educativos-tras-rechazar-las-cortes-esta-ilp/)
@@ -3729,7 +3731,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Votación: Admitida a trámite el 7 de octubre de 2025.
 - Partidos que la frenaron o votaron en contra: —
 - Qué pasó: La Mesa del Parlament la admitió y en octubre de 2026 la Oficina del Censo Electoral validó las firmas. Pendiente de debate.
-- Matiz: Es la misma reivindicación que el País Vasco rechazó en 2025.
+- Matiz: Hacían falta 7.500 firmas; se validaron 20.099.
 - Fuentes:
   - [Ara Balears: admitida a trámite](https://es.arabalears.cat/sociedad/parlamento-admite-tramite-iniciativa-legislativa-popular-mejorar-pensiones-bajas-baleares_1_5521512.html)
   - [dBalears: firmas validadas (oct 2026)](https://www.dbalears.cat/balears/economia/2026/10/05/423109/validen-mes-20000-signatures-per-sol-licitar-complement-balear-les-pensions.html)
@@ -3949,13 +3951,25 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Diario de Teruel](https://www.diariodeteruel.es/teruel/rechazada-en-cortes-la-iniciativa-legislativa-popular-del-transporte-sanitario-de-teruel-existe)
 
+### Consulta en Herrera de los Navarros sobre tener una residencia
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Herrera de los Navarros (Zaragoza)
+- Votación: El Consejo de Ministros, con Gobierno de PSOE y Sumar, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PSOE, Sumar
+- Qué pasó: El Ayuntamiento quería preguntar a los vecinos si querían tener una residencia en el municipio.
+- Matiz: Según el Gobierno, apoyándose en un informe del Gobierno de Aragón, una residencia no es un asunto solo local porque puede acoger a personas de otras localidades, y no cumple el «parámetro de territorialidad» de la ley de bases de régimen local.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 19-dic-2023](https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2023/refc20231219.aspx)
+
 ### Mercat dels Ocells de la Rambla como patrimonio inmaterial
 - Parlamento: Cataluña
 - Resultado: Rechazada
 - Firmas: Más de 56.000 firmas
 - Promotores: Antiguos paradistas de pájaros de la Rambla
-- Votación: Prosperaron las enmiendas de devolución de PSC y comuns, con el apoyo de ERC y Junts: 96 a favor, 30 en contra (Vox, CUP, Cs y PP) y 3 sin votar.
-- Partidos que la frenaron o votaron en contra: PSOE, Sumar, ERC, Junts
+- Votación: Prosperaron las enmiendas de devolución de PSC y comuns: 96 a favor, 30 en contra y 3 sin votar. El diario de sesiones no desglosa el voto por grupos.
+- Partidos que la frenaron o votaron en contra: PSOE, Sumar
 - Qué pasó: El Parlament devolvió la ILP, que pedía proteger como patrimonio la venta de pájaros en la Rambla de Barcelona.
 - Matiz: Los comuns (David Cid) dijeron que en el siglo XXI estas actividades no tienen cabida, y el PSC (Assumpta Escarp) que todas las concesiones estaban caducadas. La venta de animales ya chocaba con la ley catalana de protección animal.
 - Fuentes:
@@ -3990,7 +4004,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Resultado: Aprobada
 - Firmas: Unas 12.000 firmas
 - Promotores: GOB y otras entidades
-- Votación: Aprobada con los votos de PSIB, Unides Podem, Més per Mallorca y Més per Menorca. El PP votó en contra.
+- Votación: Aprobada con los votos de PSIB, Unides Podem, Més per Mallorca y Més per Menorca. El PP votó en contra; El Pi y Vox tampoco la apoyaron (la fuente no detalla si votaron en contra o se abstuvieron).
 - Partidos que la frenaron o votaron en contra: PP
 - Qué pasó: Fue la primera ILP que acabó en ley en el Parlament balear (Ley 10/2023), con el Govern de PSIB, Més y Unides Podem.
 - Matiz: Vox (Sergio Rodríguez) anunció que, si gobernaba, anularía la ley porque iba «en contra de derechos y libertades». En 2024 el Govern del PP la modificó por decreto ley; según el GOB, que es parte, la dejó casi sin efecto.
@@ -4049,6 +4063,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Legal Today](https://www.legaltoday.com/actualidad-juridica/noticias-de-derecho/el-gobierno-deniega-una-consulta-en-la-linea-de-la-concepcion-para-convertirse-en-comunidad-autonoma-2022-10-26/)
   - [El Español: el Supremo](https://www.elespanol.com/espana/tribunales/20230928/ts-niega-consulta-indepe-pide-linea-incide-organizacion-territorial/797670642_0.html)
 
+### Consulta en Icod de los Vinos sobre la arena de la playa de San Marcos
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Icod de los Vinos (Tenerife)
+- Votación: El Consejo de Ministros, con Gobierno de PSOE y UP, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PSOE, Podemos/UP
+- Qué pasó: El Ayuntamiento quería preguntar con qué tipo de arena recuperar la playa de San Marcos.
+- Matiz: Según el Gobierno, la recuperación de playas es una obra de interés general del Estado según la Ley de Costas, así que no es un asunto de competencia propia municipal.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 18-oct-2022](https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2022/refc20221018.aspx)
+
+### Consulta en Cuenca sobre la línea de tren Aranjuez-Cuenca-Utiel
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Cuenca
+- Votación: El Consejo de Ministros, con Gobierno de PSOE y UP, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PSOE, Podemos/UP
+- Qué pasó: El Ayuntamiento quería consultar a los vecinos sobre la línea de tren convencional Aranjuez-Cuenca-Utiel.
+- Matiz: Según el Gobierno, no es un asunto de competencia municipal y «excede del ámbito local».
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 24-may-2022](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2022/refc20220524.aspx)
+
 ### Renta básica incondicional
 - Parlamento: País Vasco
 - Resultado: Rechazada
@@ -4079,8 +4117,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Resultado: Rechazada
 - Firmas: Iniciativa municipal, sin firmas
 - Promotores: 11 ayuntamientos, entre ellos Sevilla
-- Votación: 48 a favor, 59 en contra y ninguna abstención.
-- Partidos que la frenaron o votaron en contra: PP, Cs, Vox
+- Votación: 48 a favor, 59 en contra y ninguna abstención. El diario de sesiones no desglosa el voto por grupos.
+- Partidos que la frenaron o votaron en contra: PP, Cs
 - Qué pasó: El Parlamento rechazó tomarla en consideración. El Consejo de Gobierno de PP y Cs dio criterio contrario: «no existe un déficit legislativo en esta materia».
 - Matiz: El PP (López Gabarro) dijo que no hacía falta «ninguna otra ley» sino buena gestión.
 - Fuentes:
@@ -4111,6 +4149,30 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [El Correo Gallego](https://www.elcorreogallego.es/galicia/2022/03/22/parlamento-rechaza-toma-consideracion-ilp-109718078.html)
 
+### Consulta en Las Navas de la Concepción para salir del Parque Natural Sierra Norte
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Las Navas de la Concepción (Sevilla)
+- Votación: El Consejo de Ministros, con Gobierno de PSOE y UP, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PSOE, Podemos/UP
+- Qué pasó: El Ayuntamiento quería preguntar si los vecinos estaban de acuerdo con que el municipio saliera del Parque Natural Sierra Norte de Sevilla.
+- Matiz: Según el Gobierno, no es un asunto «ni de competencia ni de carácter exclusivamente municipal»: la legislación básica de medio ambiente es del Estado y el Estatuto de Andalucía da a la Junta la competencia exclusiva sobre la delimitación de los espacios naturales protegidos.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 25-ene-2022](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2022/refc20220125.aspx)
+
+### Consulta en Gilet sobre una antena de telefonía móvil
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Gilet (Valencia)
+- Votación: El Consejo de Ministros, con Gobierno de PSOE y UP, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PSOE, Podemos/UP
+- Qué pasó: El Ayuntamiento quería consultar a los vecinos sobre la instalación de una antena de telefonía móvil.
+- Matiz: La referencia del Consejo de Ministros solo recoge el acuerdo, sin explicar el motivo.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 6-jul-2021](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2021/refc20210706.aspx)
+
 ### Madrid suprime los Foros Locales de participación vecinal
 - Parlamento: Ayuntamientos
 - Resultado: Otros
@@ -4132,7 +4194,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Votación: Toma en consideración (25-sep-2019): 50 a favor, ninguno en contra y 57 abstenciones. En comisión (20-may-2021), PP, Cs y Vox rechazaron el dictamen; PSOE y Adelante votaron a favor.
 - Partidos que la frenaron o votaron en contra: PP, Cs, Vox
 - Qué pasó: Se admitió en 2018 con el Gobierno del PSOE y se tomó en consideración en 2019, ya con el de PP y Cs. La Comisión de Presidencia la tumbó en 2021 y la Mesa dio el procedimiento por concluido sin votación final en el Pleno. Los promotores recurrieron en amparo al Constitucional.
-- Matiz: Funcionarios y opositores se oponían porque saltaba los principios de igualdad, mérito y capacidad. La Asamblea de Extremadura inadmitió en 2018 ILP parecidas por chocar con el Estatuto Básico del Empleado Público. No consta nominalmente qué grupos se abstuvieron en 2019.
+- Matiz: Funcionarios y opositores se oponían porque saltaba los principios de igualdad, mérito y capacidad. No consta nominalmente qué grupos se abstuvieron en 2019.
 - Fuentes:
   - [Parlamento de Andalucía: expediente 10-18/ILPA-000001](https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/actividadparlamentaria/tramitacionencurso/legislativas.do?numexp=10-18%2FILPA-000001)
   - [Parlamento de Andalucía: diario de sesiones 30/2019](https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/pdf.do?tipodoc=diario&id=141174)
@@ -4162,19 +4224,43 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Votación: Tomada en consideración el 13 de noviembre de 2018 por 318 a 23. En contra ERC, PNV, PDeCAT y Bildu; a favor PSOE, PP, Podemos y Ciudadanos.
 - Partidos que la frenaron o votaron en contra: PSOE, Podemos/UP
 - Qué pasó: Al volver a registrarse en la nueva legislatura, el Gobierno de PSOE y Unidas Podemos ejerció su veto presupuestario (artículo 134.6 de la Constitución) porque aumentaba el gasto. En marzo de 2020 la Mesa del Congreso dio cuenta del veto y la ILP decayó.
-- Matiz: La portavoz socialista Adriana Lastra dijo que supondría un gasto de cerca de 1.900 millones de euros, «inasumibles» con un Presupuesto ya en trámite. Jusapol acusó al Gobierno de ceder ante el independentismo para que los Mossos siguieran siendo los mejor pagados.
+- Matiz: La portavoz socialista Adriana Lastra dijo que supondría un gasto de cerca de 1.900 millones de euros, «inasumibles» con un Presupuesto ya en trámite. Jusapol acusó al Gobierno de ceder ante el independentismo.
 - Fuentes:
   - [Congreso: BOCG del veto del Gobierno (B-5-2, 2020)](https://www.congreso.es/public_oficiales/L14/CONG/BOCG/B/BOCG-14-B-5-2.PDF)
   - [El Independiente: el Gobierno veta la ILP](https://www.elindependiente.com/politica/2020/03/03/el-gobierno-veta-la-ilp-sobre-la-equiparacion-salarial-avalada-por-mas-de-medio-millon-de-firmas/)
   - [El Español: la reacción de Jusapol](https://www.elespanol.com/espana/20200229/gobierno-iniciativa-policias-guardias-civiles-cobrar-mossos/470954306_0.html)
   - [Congreso: votación nominal del 13-nov-2018 (datos abiertos)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion156/20181113/Votacion001/VOT_20201204112306.json)
 
+### Consulta en Onda sobre la ampliación del vertedero y una incineradora
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Onda (Castellón)
+- Votación: El Consejo de Ministros, con Gobierno del PSOE en funciones, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PSOE
+- Qué pasó: El Ayuntamiento quería preguntar si se estaba a favor de ampliar el vertedero e instalar una incineradora de animales muertos de Reciplasa en el municipio.
+- Matiz: Según el Gobierno, la cuestión «excede del ámbito local» y afecta a otros municipios y a otras administraciones.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 29-nov-2019](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2019/refc20191129.aspx)
+
+### Consulta en Tafalla sobre el tren de alta velocidad
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Tafalla (Navarra)
+- Votación: El Consejo de Ministros, con Gobierno del PSOE en funciones, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PSOE
+- Qué pasó: El Ayuntamiento quería preguntar si, en vez de construir un nuevo tren de alta velocidad por el municipio, se debía invertir en modernizar el ferrocarril.
+- Matiz: Según el Gobierno, la planificación de la red ferroviaria de interés general es competencia del Ministerio de Fomento y el trazado «supera el ámbito territorial del municipio».
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 28-jun-2019](https://www.lamoncloa.gob.es/consejodeministros/referencias/paginas/2019/refc20190628.aspx)
+
 ### Ley contra la pobreza energética (iniciativa de 30 ayuntamientos)
 - Parlamento: Andalucía
 - Resultado: Rechazada
 - Firmas: Iniciativa municipal, sin firmas
 - Promotores: 30 ayuntamientos andaluces
-- Votación: 49 a favor, 59 en contra y 1 abstención. En contra PP, Cs y Vox.
+- Votación: 49 a favor, 59 en contra y 1 abstención. El diario de sesiones no desglosa el voto por grupos; PP, Cs y Vox argumentaron en contra en el debate.
 - Partidos que la frenaron o votaron en contra: PP, Cs, Vox
 - Qué pasó: El Parlamento rechazó tomarla en consideración. El Consejo de Gobierno de PP y Cs había dado criterio contrario porque podía exceder la competencia autonómica.
 - Matiz: Los tres grupos dijeron compartir el fondo. Cs alegó su «presumible inconstitucionalidad», el PP la llamó «extemporánea» porque el Estado ya regula el bono social, y Vox dijo que acabaría en un recurso de inconstitucionalidad.
@@ -4233,10 +4319,46 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Crónica Global: la aprobación](https://cronicaglobal.elespanol.com/politica/20181026/colau-la-multiconsulta-gracias-abstencion-psc-pdecat/348465174_0.html)
   - [Catalunya Press: la votación de abril](https://www.catalunyapress.es/texto-diario/mostrar/1049973/multiconsulta-colau-tocada-hundida)
 
+### Consulta en Galdakao a nueve barrios sobre unirse a la segregación de Usansolo
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Galdakao (Bizkaia)
+- Votación: El Consejo de Ministros, con Gobierno del PSOE, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PSOE
+- Qué pasó: El Ayuntamiento quería preguntar a los vecinos de nueve barrios si querían que su barrio entrara en el proceso de segregación de Usansolo.
+- Matiz: La referencia del Consejo de Ministros solo recoge el acuerdo, sin explicar el motivo.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 20-jul-2018](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2018/refc20180720.aspx)
+
+### Consulta en Agaete sobre la ampliación del Puerto de las Nieves
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Agaete (Las Palmas)
+- Votación: El Consejo de Ministros, con Gobierno del PP, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: El Ayuntamiento quería consultar sobre las obras de ampliación del Puerto de las Nieves que planeaba el Gobierno de Canarias.
+- Matiz: Según el Gobierno, el puerto es competencia «estrictamente autonómica» y tiene repercusión en toda Canarias, así que no es un asunto municipal ni de carácter local.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 23-mar-2018](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2018/refc20180323.aspx)
+
+### Consulta en Santa Margalida sobre la depuradora de Can Picafort
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Santa Margalida (Mallorca)
+- Votación: El Consejo de Ministros, con Gobierno del PP, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: El Ayuntamiento quería preguntar por el proyecto de nueva estación depuradora de aguas residuales en Can Picafort y su emisario submarino.
+- Matiz: Según el Gobierno, no era un asunto de competencia municipal porque el proyecto había sido «declarado de interés general del Estado» por la Ley de Presupuestos de 2010.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 23-feb-2018](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2018/refc20180223.aspx)
+
 ### Protección y promoción de la tauromaquia
 - Parlamento: La Rioja
 - Resultado: Aprobada
-- Firmas: 6.054 firmas válidas
+- Firmas: Más de 6.000 firmas
 - Promotores: Comisión promotora de aficionados taurinos
 - Votación: Toma en consideración (30-mar-2017): a favor PP y PSOE; abstención de Podemos y Ciudadanos.
 - Partidos que la frenaron o votaron en contra: —
@@ -4246,10 +4368,22 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [COPE: toma en consideración](https://www.cope.es/actualidad/toros/noticias/admitida-ilp-que-protegera-difundira-tauromaquia-rioja-20170331_38502)
   - [BOE: Ley 3/2018 de La Rioja](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-3000)
 
+### Consulta en Cella sobre la Laguna del Cañizar (denegada en parte)
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Cella (Teruel)
+- Votación: El Consejo de Ministros, con Gobierno del PP, autorizó una pregunta y denegó la otra.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: La consulta tenía dos preguntas. Se autorizó la de pedir que la finca municipal «El Prado» vuelva a ser Zona de Especial Protección para las Aves y se denegó la de si el Ayuntamiento debía promocionar la Laguna del Cañizar.
+- Matiz: Según el Gobierno, la pregunta sobre la laguna «no versa sobre un asunto de competencia propia municipal ni es de carácter local».
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 7-dic-2017](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2017/refc20171207.aspx)
+
 ### Plan especial de protección del paisaje vitícola de Haro
 - Parlamento: La Rioja
 - Resultado: Bloqueada
-- Firmas: Unas 8.500 firmas (hacían falta 6.000)
+- Firmas: Sin cifra en las fuentes citadas
 - Promotores: Plataforma en defensa del paisaje de Haro, con bodegueros y vecinos
 - Votación: Tomada en consideración el 23 de noviembre de 2017.
 - Partidos que la frenaron o votaron en contra: —
@@ -4272,15 +4406,27 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es](https://www.eldiario.es/madrid/pp-ciudadanos-ilp-madrid-asamblea_1_3083970.html)
   - [El Salto](https://www.elsaltodiario.com/vivienda/pp-y-ciudadanos-tumban-la-ilp-de-vivienda)
 
+### Consulta en Cabrales sobre la gestión del Parque Nacional de los Picos de Europa
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Cabrales (Asturias)
+- Votación: El Consejo de Ministros, con Gobierno del PP, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: El Ayuntamiento quería consultar a los vecinos sobre la gestión del Parque Nacional de los Picos de Europa en relación con el municipio, su desarrollo y su futuro.
+- Matiz: La referencia del Consejo de Ministros solo recoge el acuerdo, sin explicar el motivo.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 3-nov-2017](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2017/refc20171103.aspx)
+
 ### Renta garantizada de ciudadanía
 - Parlamento: Cataluña
 - Resultado: Aprobada
-- Firmas: —
+- Firmas: 121.191 firmas
 - Promotores: Comisión promotora de la ILP, con apoyo de entidades sociales y sindicatos
 - Votación: Aprobada por unanimidad.
 - Partidos que la frenaron o votaron en contra: —
 - Qué pasó: El Parlament aprobó la Ley 14/2017, de la renta garantizada de ciudadanía, nacida de una ILP, con el Govern de JxSí.
-- Matiz: Ningún grupo votó en contra.
+- Matiz: Ningún grupo votó en contra. Todos los puntos se aprobaron por unanimidad salvo el artículo 25.2 y la disposición adicional tercera, en los que JxSí se abstuvo. La ILP se había admitido a trámite en 2013.
 - Fuentes:
   - [Parlament de Catalunya: aprobación por unanimidad](https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270279594)
 
@@ -4296,6 +4442,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Parlament de Catalunya: aprobación de la ley](https://www.parlament.cat/web/actualitat/noticies/index.html?p_id=270277152)
   - [BOE: STC 100/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-13998)
+
+### Consulta en Fuencaliente de la Palma sobre el balneario de la Fuente Santa
+- Parlamento: Ayuntamientos
+- Resultado: Consulta denegada
+- Firmas: Pedida por el pleno municipal
+- Promotores: Ayuntamiento de Fuencaliente de la Palma (Santa Cruz de Tenerife)
+- Votación: El Consejo de Ministros, con Gobierno del PP, no la autorizó.
+- Partidos que la frenaron o votaron en contra: PP
+- Qué pasó: El Ayuntamiento quería preguntar a los vecinos por el proyecto del balneario de la Fuente Santa.
+- Matiz: Según el Gobierno, las aguas minerales y termales son competencia del Gobierno de Canarias y los recursos de la Fuente Santa «rebasan, incluso, el insular», así que no se cumplía el artículo 71 de la ley de bases de régimen local, que exige que la consulta sea sobre un asunto municipal y de carácter local.
+- Fuentes:
+  - [La Moncloa: referencia del Consejo de Ministros del 24-feb-2017](https://www.lamoncloa.gob.es/consejodeministros/referencias/Paginas/2017/refc20170224.aspx)
 
 ### Prestación de ingresos mínimos
 - Parlamento: Congreso
@@ -5131,7 +5289,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Tema: Presupuestos y hacienda
 - Tramitación: ordinaria o sin dato
 - Apoyos: Voto sin desglosar
-- Votación: Se votó por artículos en el Pleno del 17-7-2025 (Diario de Sesiones nº 49): la mayoría de los artículos y las disposiciones salieron con 29 votos a favor (PP y PSOE) y 4 en contra o abstenciones; otros, solo con los 17 votos del PP (17 a favor y 16 en contra, o 17 a favor, 4 en contra y 12 abstenciones). La exposición de motivos se aprobó por 17 a 16. El Diario no nombra a los grupos en cada votación.
+- Votación: Se votó por artículos en el Pleno del 17-7-2025 (Diario de Sesiones nº 49): la mayoría de los artículos y las disposiciones salieron con 29 votos a favor y 4 en contra o abstenciones; otros, solo con los 17 votos del PP (17 a favor y 16 en contra, o 17 a favor, 4 en contra y 12 abstenciones). La exposición de motivos se aprobó por 17 a 16. El Diario no nombra a los grupos en cada votación.
 - Qué cambia: Ley de medidas a mitad de ejercicio que modifica normas presupuestarias, tributarias y administrativas. Entre otras cosas, aclara con efectos desde 2024 que la deducción autonómica del IRPF por vehículos eléctricos es compatible con la estatal salvo en algunas categorías.
 - Matiz: Proyecto del Gobierno aprobado en el pleno del 17 de julio de 2025, con votación separada de los artículos.
 - Fuentes:
@@ -5159,7 +5317,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Tema: Medio ambiente
 - Tramitación: ordinaria o sin dato
 - Apoyos: Voto sin desglosar
-- Votación: No se ha podido confirmar con fuentes legibles (la crónica de Nuevecuatrouno bloquea el acceso automático); según la entrada, PP a favor, PSOE y Vox abstención y Podemos-IU en contra.
+- Votación: No se ha podido confirmar qué votó cada grupo con fuentes legibles (la crónica de Nuevecuatrouno bloquea el acceso automático).
 - Qué cambia: Primera ley riojana de protección y ordenación del paisaje, para frenar proyectos de impacto irreversible. Según la Ley 1/2024, su entrada en vigor marca el fin de la moratoria a nuevas instalaciones de generación eléctrica en suelo no urbanizable.
 - Tribunales y recursos: El presidente del Gobierno recurrió los arts. 13.3, 14, 22.3, 23.6, 24, 28 y la disposición transitoria segunda, solo en cuanto se apliquen a actuaciones de competencia estatal (recurso 2525-2026, admitido el 14-4-2026, con suspensión de esos preceptos). La STC 44/2026, de 10 de junio, lo estimó en parte: anuló el inciso 'o por acuerdo del Consejo de Ministros' del art. 22.3 y declaró constitucionales los demás preceptos si se interpretan como fija la sentencia. Sin votos particulares.
 - Matiz: Capellán defendió que hay que proteger los paisajes riojanos frente a proyectos de impacto irreversible. Tras el recurso, el PSOE (Jesús María García) recordó que ya había avisado de posibles inconstitucionalidades y que se rechazaron sus enmiendas; Izquierda Unida había denunciado los 'términos difusos y subjetivos' que luego citó el Consejo de Ministros.
@@ -5286,13 +5444,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 2025-04-24
 - Cámara: Madrid · Mayoría absoluta: PP
 - Tema: Derechos y libertades
-- Tramitación: ordinaria o sin dato
-- Apoyos: Voto sin desglosar
-- Votación: No se ha podido confirmar con fuentes válidas (la única crónica leída, de El Debate, hablaba de unanimidad)
+- Tramitación: lectura única, proposición del grupo del Gobierno
+- Apoyos: Sin votos en contra
+- Votación: Aprobada el 24-4-2025 con el respaldo de todos los partidos de la Cámara (Europa Press)
 - Qué cambia: Amplía la protección a todos los daños personales que reconoce la ley estatal y añade ayudas extraordinarias. Todas las personas a las que el Estado haya reconocido una indemnización podrán cobrar el complemento autonómico del 30%. También prevé el caso de los herederos de víctimas incapacitadas que murieron antes de que entrara en vigor la ley.
-- Matiz: Incluye un régimen para los herederos de víctimas incapacitadas fallecidas antes de la ley (disposición adicional segunda). Pendiente de confirmar con el Diario de Sesiones de la Asamblea: la unanimidad, la tramitación por lectura única como proposición del PP y que esa disposición venga de una enmienda del PSOE.
+- Matiz: Proposición de ley del PP tramitada por lectura única. El régimen para los herederos de víctimas incapacitadas fallecidas antes de la ley (disposición adicional segunda) viene de una enmienda del PSOE que el PP aceptó.
 - Fuentes:
   - [BOE: Ley 1/2025, de 30 de abril (Comunidad de Madrid)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-19344)
+  - [Europa Press (vía Última Hora): aprobada por unanimidad la ley de víctimas del terrorismo (24-abr-2025)](https://www.ultimahora.es/noticias/comunidades/2025/04/24/2373343/aprobada-por-unanimidad-ley-para-ampliar-proteccion-reconocimiento-victimas-del-terrorismo.html)
 
 ### Ley 2/2025, de Medidas Administrativas y Tributarias
 - Fecha: 2025-04-10
@@ -5427,12 +5586,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cámara: Madrid · Mayoría absoluta: PP
 - Tema: Medio ambiente
 - Tramitación: ómnibus
-- Apoyos: Voto sin desglosar
-- Votación: Aprobada con la mayoría absoluta del PP; no se ha podido confirmar qué votó cada grupo
+- Apoyos: Solo el partido con mayoría
+- Votación: Aprobada con los votos del PP, la abstención de Vox y el rechazo del PSOE y Más Madrid (El Diario de Madrid, 21-12-2024)
 - Qué cambia: Ley ómnibus enviada por el Gobierno en octubre de 2024 con unas diez modificaciones legales en urbanismo, medio ambiente, energía y agua. Permite solicitar y tramitar licencias de edificación desde la aprobación definitiva de la reparcelación, sin esperar a su firmeza, y tramitar a la vez la evaluación ambiental estratégica y la de impacto. Abre la puerta a centros de datos en suelo no urbanizable mediante proyectos de actuación especial, declara de interés regional obras de regadío e incluye incentivos a la vivienda rural. Según El Diario de Madrid beneficia a desarrollos como Valdecarros, Los Berrocales y Madrid Nuevo Norte. Incorporó 19 enmiendas durante la tramitación.
 - Matiz: El Gobierno la presenta como un equilibrio entre crecimiento económico y demográfico y protección de los recursos naturales. Según su argumento, adelantar las licencias a la fase de reparcelación recorta en un año los plazos para construir viviendas, y la ley apoya la descarbonización y la lucha contra la despoblación.
 - Fuentes:
   - [El Diario de Madrid: Aprobada la Ley de medidas para un desarrollo equilibrado del medio ambiente y la ordenación del territorio](https://www.eldiariodemadrid.es/articulo/madrid/aprobada-ley-medidas-desarrollo-equilibrado-medio-ambiente-ordenacion-territorio/20241220170003086305.html)
+  - [El Diario de Madrid: la Real Casa de Correos, blindada ante la Ley de Memoria (voto de cada grupo, 21-dic-2024)](https://www.eldiariodemadrid.es/articulo/politica/real-casa-correos-blindada/20241221125623086368.html)
   - [Madrid Actual: El Gobierno regional presenta una nueva Ley ómnibus sobre urbanismo, ordenación de territorio, energía y medio ambiente](https://www.madridactual.es/noticias-regionales/comunidad-remite-a-la-asamblea-una-nueva-ley-omnibus-sobre-urbanismo-ordenacion-de-territorio-energia-y-medio-ambiente-20241030-7984119.html)
   - [Cuatrecasas: Ley 7/2024 de medidas para un desarrollo equilibrado en materia de medio ambiente y territorio](https://www.cuatrecasas.com/es/spain/art/ley-7-2024-desarrollo-equilibrado-medio-ambiente-territorio)
   - [BOE (ELI): Leyes de la Comunidad de Madrid de 26 de diciembre de 2024](https://www.boe.es/eli/es-md/l/2024/12/26)
@@ -6059,7 +6219,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Tema: Presupuestos y hacienda
 - Tramitación: ordinaria o sin dato
 - Apoyos: Voto sin desglosar
-- Votación: No se ha podido confirmar con fuentes legibles (la crónica de Nuevecuatrouno bloquea el acceso automático); según la entrada, PP a favor, PSOE y Podemos-IU en contra y Vox abstención.
+- Votación: No se ha podido confirmar qué votó cada grupo con fuentes legibles (la crónica de Nuevecuatrouno bloquea el acceso automático).
 - Qué cambia: Primer presupuesto del Gobierno de Capellán: 1.947,38 millones de euros. No se han podido leer las cifras de variación ni el desglose de rebajas fiscales y ayudas.
 - Matiz: No se han podido leer los argumentos del debate (la única crónica, de Nuevecuatrouno, bloquea el acceso automático).
 - Fuentes:
@@ -9178,31 +9338,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 1/2016, de transparencia y buen gobierno](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3190)
   - [BOE (ELI): Ley 1/2016](https://www.boe.es/eli/es-ga/l/2016/01/18/1)
 
-## Bulos (134)
-
-### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Pidió a todo el mundo que «ni se le ocurra votar por correo» y habló de una posible adulteración de los censos.
-- Fecha: 5 oct 2026
-- Partido: PP
-- Canal: Desayuno informativo (Fórum Europa) · Tema: Elecciones
-- Qué dicen los datos: No hay ninguna prueba de fraude en el voto por correo en España; la ley electoral fija sus garantías y el control de la Junta Electoral.
-- Verificat: Teoría de la conspiración
-- Matiz: Ninguno de los dos verificadores lo califica de «falso»: Verificat lo llama teoría de la conspiración «ampliamente desmentida» y Newtral dice que se dijo «sin aportar pruebas». Al día siguiente Ayuso dijo «Yo no he dicho eso», pero insistió en que la gente «no se confíe» y habló de «trampas» y «censos inflados». El portavoz del PP, Borja Sémper, defendió las garantías del sistema.
-- Fuentes:
-  - [Verificat: Abascal y Ayuso alimentan la teoría del fraude en el voto por correo](https://www.verificat.cat/es/abascal-ayuso-voto-por-correo-fraude/)
-  - [Newtral: cómo funciona el voto por correo](https://www.newtral.es/sistema-voto-correo/20261006/)
-  - [elDiario.es: Ayuso dice que no acusó al Gobierno y a la vez insiste](https://www.eldiario.es/madrid/ayuso-dice-no-acuso-gobierno-manipular-voto-correo-vez-insiste-pido-gente-no-confie_1_13565607.html)
-  - [El Diario de Madrid: el voto por correo abre el choque Sánchez-Ayuso](https://www.eldiariodemadrid.es/articulo/politica/voto-correo-abre-primer-gran-choque-entre-sanchez-ayuso-cara-29-n/20261006164317143518.html)
-
-### Santiago Abascal (presidente de Vox): Pidió votar en persona y no por correo para «votar con seguridad».
-- Fecha: 5 oct 2026
-- Partido: Vox
-- Canal: Entrevista en Antena 3 · Tema: Elecciones
-- Qué dicen los datos: No hay ninguna prueba de fraude en el voto por correo en España; la ley electoral fija sus garantías y el control de la Junta Electoral.
-- Verificat: Teoría de la conspiración
-- Matiz: Ninguno de los dos verificadores lo califica de «falso»: Verificat lo llama teoría de la conspiración «ampliamente desmentida» y Newtral dice que se dijo «sin aportar pruebas».
-- Fuentes:
-  - [Verificat: Abascal y Ayuso alimentan la teoría del fraude en el voto por correo](https://www.verificat.cat/es/abascal-ayuso-voto-por-correo-fraude/)
-  - [Newtral: cómo funciona el voto por correo](https://www.newtral.es/sistema-voto-correo/20261006/)
+## Bulos (130)
 
 ### Fernando Grande-Marlaska (ministro del Interior (independiente en el Gobierno del PSOE)): Sobre el informe de Interior con fichas de 280 periodistas, que «no se define a las personas por ideología».
 - Fecha: 9 sep 2026
@@ -9319,7 +9455,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 10 jul 2025
 - Partido: Sumar
 - Canal: Entrevista en la Cadena SER · Tema: Instituciones y justicia
-- Qué dicen los datos: Newtral consultó a los ministerios de Interior y Justicia de los 27 países: nueve tienen agencia propia y otros nueve, además de España, no la tienen (Alemania, Bélgica, Croacia, Estonia, Finlandia, Hungría, Irlanda, Luxemburgo y Chequia).
+- Qué dicen los datos: Newtral preguntó a los ministerios de Interior y Justicia de los 27 países; a 21 de julio habían respondido 19. Al menos nueve, además de España, no tienen agencia propia contra la corrupción (Alemania, Bélgica, Croacia, Estonia, Finlandia, Hungría, Irlanda, Luxemburgo y Chequia).
 - Newtral: Falso
 - Fuentes:
   - [Newtral: al menos nueve países de la UE no cuentan con una agencia propia contra la corrupción](https://www.newtral.es/agencia-corrupcion-espana-urtasun-factcheck/20250717/)
@@ -9343,7 +9479,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Newtral: la recaudación del primer trimestre](https://www.newtral.es/13000-millones-impuestos-feijoo-factcheck/20250605/)
 
 ### Óscar Puente, Mónica García, Óscar López, Pilar Alegría, María Jesús Montero, Ángel Víctor Torres y la cuenta del PSOE (ministros del Gobierno): Que un excapitán de la UCO fantaseaba con atentar contra Sánchez con una «bomba lapa»; Torres añadió que un mando de la UCO habló de «matar a los rojomorados».
-- Fecha: may-jun 2025
+- Fecha: 29-30 may 2025
 - Partido: PSOE, Sumar
 - Canal: X, Bluesky, radio y actos de partido · Tema: Instituciones y justicia
 - Qué dicen los datos: Los mensajes completos muestran que el guardia civil bromeaba sobre que alguien le atentara a él, y la frase de los «rojomorados» es del confidente, no del guardia civil. Varios medios rectificaron.
@@ -9380,16 +9516,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: España no tiene la presión fiscal más baja como dice Patxi López](https://www.newtral.es/presion-fiscal-patxi-lopez-factcheck/20250312/)
 
-### Miguel Ángel Rodríguez (jefe de Gabinete de la presidenta de la Comunidad de Madrid): Que la mujer que contó en el programa de Jordi Évole que su madre murió en una residencia madrileña durante la pandemia mentía y no tenía a su madre en ninguna residencia de la Comunidad de Madrid.
-- Fecha: 16 feb 2025
-- Partido: PP
-- Canal: X (Twitter) · Tema: Sanidad
-- Qué dicen los datos: Según la plataforma Verdad y Justicia 7291 y Marea de Residencias, su madre estaba en una residencia de Getafe y murió allí en abril de 2020.
-- Maldita.es: Desinformación
-- Matiz: Rodríguez rectificó al día siguiente (17-feb-2025), pidió disculpas y reconoció que era «la hija de una fallecida».
-- Fuentes:
-  - [Maldita.es: qué sabemos de la mujer del programa de Évole y la rectificación de Rodríguez](https://maldita.es/malditobulo/20250217/mujer-residencias-madre-evole-miguel-angel-rodriguez/)
-
 ### Isabel Díaz Ayuso (presidenta de la Comunidad de Madrid): Que el Gobierno no ha construido «una sola» vivienda pública en seis años.
 - Fecha: feb 2025
 - Partido: PP
@@ -9425,15 +9551,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Verificat: Falso
 - Fuentes:
   - [Verificat: Junqueras no ha obtenido más votos que nunca en las elecciones internas de ERC](https://www.verificat.cat/es/junqueras-no-ha-obtenido-mas-votos-que-nunca-en-las-elecciones-internas-de-erc-como-asegura-en-una-entrevista/)
-
-### Luis «Alvise» Pérez (eurodiputado de SALF): Que se estaban tirando al vertedero de Catarroja cientos de toneladas de donaciones para los afectados por la DANA, con el apoyo de un concejal del PP de Alfafar; lo presentó como una investigación suya y de Vito Quiles.
-- Fecha: nov 2024
-- Partido: Otros
-- Canal: Redes sociales, con Vito Quiles · Tema: Otros
-- Qué dicen los datos: La Policía Local de Alfafar dijo a Maldita.es que «es un bulo» y que no se tiraba lo donado. El Ayuntamiento explicó que sí se desechó ropa estropeada por la humedad y la lluvia. El audio que difundieron estaba recortado: en la llamada completa (publicada por La Razón el 27-oct-2025) el concejal explica que se tiró parte de la ropa, mojada y con polillas, por motivos sanitarios.
-- Maldita.es: Bulo
-- Fuentes:
-  - [Maldita.es: la ropa donada en Alfafar y cómo se construyó la narrativa del vertedero](https://maldita.es/malditobulo/20251028/ropa-alfafar-vertedero-dana-valencia/)
 
 ### María Jesús Montero (vicepresidenta primera y ministra de Hacienda): Que la temporalidad del empleo en España está «por debajo de la media de la UE».
 - Fecha: oct 2024
@@ -9481,11 +9598,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Newtral: el PIB de Madrid](https://www.newtral.es/pib-madrid-ayuso-factcheck/20240528/)
 
 ### Míriam Nogueras (portavoz de Junts per Catalunya en el Congreso): Que el independentismo es hoy la ideología mayoritaria en el Parlament de Cataluña.
-- Fecha: may 2024
+- Fecha: 22 may 2024
 - Partido: Junts
-- Canal: Declaración pública · Tema: Elecciones
+- Canal: Pleno del Congreso · Tema: Elecciones
 - Qué dicen los datos: Los partidos independentistas obtuvieron 61 de los 135 escaños, el 45,2%.
 - Newtral: Falso
+- Matiz: Su gabinete dijo a Newtral que lo formuló como una pregunta; Newtral responde que en el vídeo es una afirmación, a la que Sánchez contesta negativamente.
 - Fuentes:
   - [Newtral: el independentismo no es mayoritario en el Parlament de Cataluña](https://www.newtral.es/independentismo-mayoritario-parlament-cataluna-miriam-nogueras-factcheck/20240523/)
 
@@ -9504,13 +9622,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Canal: X (Twitter) y mensajes a periodistas · Tema: Instituciones y justicia
 - Qué dicen los datos: Fue al revés: el abogado de González Amador escribió a la Fiscalía el 2-feb-2024 proponiendo un acuerdo y reconociendo dos delitos fiscales. Maldita.es lo recoge como algo «que se prueba que es falso». La sentencia del Supremo que condenó al fiscal general (9-dic-2025) llama a esa versión «absolutamente falsa e infundada».
 - Maldita.es: Falso (Maldita.es y Tribunal Supremo)
-- Matiz: Ante el Supremo, Rodríguez dijo que lo de las «órdenes de arriba» era una «intuición» suya y que tenía «el pelo blanco». La misma sentencia añade que el fiscal general «no puede responder a una noticia falsa mediante la comisión de un delito». Tras su declaración, el PP (Alma Ezcurra, 13-oct-2025) dijo que Rodríguez era «solo un testigo» y que «mentir no es ilegal»; fuentes de la dirección añadieron que, si hubiera indicio de delito, el juez habría actuado contra él. Días antes, Ester Muñoz (portavoz del PP en el Congreso) había dicho que la mentira «nunca es una herramienta» y que era él quien tenía que dar explicaciones.
+- Matiz: Ante el Supremo, Rodríguez dijo que lo de las «órdenes de arriba» era una «intuición» suya y que tenía «el pelo blanco». La misma sentencia añade que el fiscal general «no puede responder a una noticia falsa mediante la comisión de un delito». Tras su declaración, el PP (Alma Ezcurra, 13-oct-2025) dijo que Rodríguez era «solo un testigo» y que «mentir no es ilegal».
 - Fuentes:
   - [Maldita.es: cronología del caso del fiscal general, González Amador y Miguel Ángel Rodríguez](https://maldita.es/malditateexplica/20251209/cronologia-fiscal-general-gonzalez-amador-mar/)
   - [Maldita.es: «el pelo blanco» y la «intuición» de Rodríguez ante el Supremo](https://maldita.es/malditateexplica/20260112/mar-pelo-blanco-intucion-fiscal-general/)
   - [Tribunal Supremo: sentencia de la causa especial 20557/2024 (PDF alojado por Maldita.es)](https://files.maldita.es/maldita/uploads/2025/12/693810e17c9af.pdf)
   - [elDiario.es: el PP, tras la declaración de Rodríguez: «Mentir no es ilegal»](https://www.eldiario.es/politica/pp-confesar-miguel-angel-rodriguez-bulo-supremo-mentir-no-ilegal_1_12679718.html)
-  - [El Plural: Ezcurra y Ester Muñoz sobre la declaración de Rodríguez](https://www.elplural.com/politica/espana/genova-defiende-mentir-no-ilegal-confesion-bulo-miguel-angel-rodriguez-supremo_362411102)
 
 ### Pedro Sánchez (presidente del Gobierno): Que el informe de la Comisión Europea sobre el Estado de derecho señalaba al PP como el que bloquea la renovación del CGPJ.
 - Fecha: nov 2023
@@ -9739,7 +9856,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 23 abr 2021
 - Partido: Otros
 - Canal: Entrevista en elDiario.es · Tema: Sanidad
-- Qué dicen los datos: Según el informe de Sanidad del día anterior, la trazabilidad era del 54,7%; el 85% correspondía a enero y febrero.
+- Qué dicen los datos: Según el informe de Sanidad del día anterior, la trazabilidad era del 54,7%. El dato que dio fue cierto en enero: entre el 29 de diciembre y el 4 de febrero la trazabilidad media fue del 14,6%.
 - Newtral: Falso
 - Matiz: Más Madrid se remitió a un artículo de prensa de febrero.
 - Fuentes:
@@ -9785,7 +9902,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Inés Arrimadas (presidenta de Ciudadanos y portavoz en el Congreso): Que no pudo presentarse a la investidura tras las elecciones catalanas del 21-D.
 - Fecha: feb 2021
 - Partido: Cs
-- Canal: Declaración pública (repetida desde 2017) · Tema: Elecciones
+- Canal: Declaración pública (repetida durante año y medio) · Tema: Elecciones
 - Qué dicen los datos: Renunció a presentarse antes de que hubiera ningún candidato propuesto, porque los partidos no independentistas no sumaban mayoría en el Parlament.
 - Maldita.es: Falso
 - Fuentes:
@@ -9800,10 +9917,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: es falso que en las generales el PP duplicara a Vox](https://maldita.es/malditodato/20210221/falso-casado-elecciones-generales-pp-vox-duplico/)
 
-### Ciudadanos (comunicación del partido en la campaña catalana) (cuenta/campaña oficial de Cs (14-F)): Que Cataluña es la comunidad que destina menos dinero per cápita a sanidad y la que más a televisiones públicas.
+### Jordi Cañas y la cuenta oficial de Ciudadanos (eurodiputado de Ciudadanos; el partido lo difundió en su cuenta de X (campaña del 14-F)): Que Cataluña es la comunidad que destina menos dinero per cápita a sanidad y la que más a televisiones públicas.
 - Fecha: feb 2021
 - Partido: Cs
-- Canal: Campaña electoral · Tema: Sanidad
+- Canal: Acto electoral en Barcelona y X (@CiudadanosCs) · Tema: Sanidad
 - Qué dicen los datos: Newtral concluye que ninguna de las dos afirmaciones es correcta.
 - Newtral: Falso
 - Fuentes:
@@ -9818,11 +9935,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Newtral: Sánchez sí estuvo en el Congreso](https://www.newtral.es/fact-check-pedro-sanchez-congreso-cuca-gamarra/20210211/)
 
-### Pedro Sánchez (presidente del Gobierno): Que la Generalitat gastó en sanidad menos en 2020 que en 2010 y que Cataluña dedica un 3,7% del PIB frente al 6,2% de España.
+### Pedro Sánchez (presidente del Gobierno): Que los presupuestos catalanes de 2020 destinaron a sanidad menos que los de 2010 y que Cataluña dedica un 3,7% del PIB frente al 6,2% de España.
 - Fecha: 6 feb 2021
 - Partido: PSOE
 - Canal: Mitin del PSC en Lleida · Tema: Sanidad
-- Qué dicen los datos: Según el Ministerio de Sanidad, fueron 9.789 millones en 2020 y 9.888 en 2010, y Cataluña gasta el 4,7% del PIB; las cifras de España y Cataluña que usó no son comparables.
+- Qué dicen los datos: Según Newtral, Sánchez mezcló presupuesto inicial y gasto ejecutado: el presupuesto inicial fue de 9.789 millones en 2020 y de 9.888 en 2010, pero el gasto ejecutado superó los 10.000 millones en 2010 y también en 2016, 2017 y 2018; y Cataluña gasta el 4,7% del PIB. Las cifras de España y Cataluña que usó no son comparables.
 - Newtral: Falso
 - Fuentes:
   - [Newtral: los datos de Sánchez sobre la sanidad catalana](https://www.newtral.es/fact-check-pedro-sanchez-equivocados-sanidad-catalana/20210211/)
@@ -9836,11 +9953,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Verificat: los argumentos del debate de RTVE sobre las ayudas](https://www.verificat.cat/els-arguments-del-debat-de-rtve-sobre-els-ajuts-de-la-pandemia-verificats/)
 
-### Pablo Casado (presidente del PP): Que a Madrid se le impuso el estado de alarma con la mitad de la incidencia de la COVID que tenía entonces España.
+### Pablo Casado (presidente del PP): Que en la segunda ola a Madrid se le impuso el estado de alarma «con la mitad de incidencia de lo que tenemos ahora en toda España».
 - Fecha: 21 ene 2021
 - Partido: PP
 - Canal: Al Rojo Vivo (laSexta) · Tema: Sanidad
-- Qué dicen los datos: Madrid tenía unos 637 casos por 100.000 habitantes y España 736: no era la mitad, según Sanidad.
+- Qué dicen los datos: Cuando se aprobó el estado de alarma en Madrid (otoño de 2020), su incidencia rondaba los 637 casos por 100.000 habitantes; la de España el día que habló Casado era de 736, según Sanidad: no era la mitad.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: las afirmaciones falsas de Casado sobre la incidencia](https://maldita.es/malditodato/20210128/afirmaciones-falsas-casado-incidencia-acumulada-madrid-vacuna-coronavirus/)
@@ -9895,7 +10012,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 26 nov 2020
 - Partido: Vox
 - Canal: La Hora de La 1 (TVE) · Tema: Instituciones y justicia
-- Qué dicen los datos: La sentencia no juzgó si la noticia era cierta: el tribunal dijo expresamente que no lo valoraría.
+- Qué dicen los datos: Era un pleito sobre el derecho de rectificación, para que el periódico incluyera la versión de Monasterio; la sentencia no juzgó si la noticia era cierta: el tribunal dijo expresamente que no lo valoraría.
 - Newtral: Falso
 - Fuentes:
   - [Newtral: la sentencia no condena a El País por mentir](https://www.newtral.es/factcheck-el-pais-mentir-sentencia-vox-rocio-monasterio/20201127/)
@@ -9913,15 +10030,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 7 sep 2020
 - Partido: PSOE
 - Canal: Rueda de prensa · Tema: Instituciones y justicia
-- Qué dicen los datos: Newtral concluye que el argumento atribuido al PP no se corresponde con lo que decía su nota.
+- Qué dicen los datos: El comunicado del PP que citaba Ábalos solo mencionaba las críticas a la Corona de Pablo Iglesias y de Unidas Podemos, que formaban parte del Gobierno, no de formaciones ajenas a él.
 - Newtral: Falso
 - Fuentes:
   - [Newtral: Ábalos y la renovación del CGPJ](https://www.newtral.es/factcheck-abalos-pp-renovacion-cgpj-criticas-monarquia-psoe/20200910/)
 
 ### Ana Oramas (diputada y portavoz de Coalición Canaria): Que España es el «único país europeo» que no publica estadísticas de coronavirus los fines de semana.
-- Fecha: ago 2020
+- Fecha: 25 ago 2020
 - Partido: CC
-- Canal: Declaración pública · Tema: Sanidad
+- Canal: Diputación Permanente del Congreso · Tema: Sanidad
 - Qué dicen los datos: Otros países europeos, como Noruega, Dinamarca y Suecia, tampoco publican datos en fin de semana.
 - Maldita.es: Falso
 - Fuentes:
@@ -10034,7 +10151,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Qué dicen los datos: Hubo indultos a miembros de Terra Lliure con González y con Aznar.
 - Maldita.es: Falso
 - Fuentes:
-  - [Maldita.es: las 17 falsedades del debate de la Academia de TV](https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/)
+  - [Maldita.es: las 18 falsedades del debate de la Academia de TV](https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/)
 
 ### Pablo Iglesias (secretario general de Podemos y candidato de Unidas Podemos): Que el artículo 50 de la Constitución obliga a subir las pensiones con el IPC.
 - Fecha: 4 nov 2019
@@ -10043,7 +10160,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Qué dicen los datos: La Constitución no dice eso: habla de pensiones «adecuadas y periódicamente actualizadas», sin mencionar el IPC.
 - Maldita.es: Falso
 - Fuentes:
-  - [Maldita.es: las 17 falsedades del debate de la Academia de TV](https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/)
+  - [Maldita.es: las 18 falsedades del debate de la Academia de TV](https://maldita.es/malditodato/20191105/las-17-falsedades-de-sanchez-casado-rivera-iglesias-y-abascal-en-el-debate-electoral-de-la-academia-de-television/)
 
 ### Santiago Abascal (presidente de Vox y candidato (Cortes disueltas)): Que trabajó «cuatro meses» en la Fundación para el Mecenazgo y el Patrocinio Social de la Comunidad de Madrid.
 - Fecha: nov 2019
@@ -10054,22 +10171,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: es falso que Abascal trabajara solo cuatro meses en la Fundación para el Mecenazgo](https://maldita.es/malditodato/20191104/es-falso-que-santiago-abascal-trabajara-solo-cuatros-meses-en-la-fundacion-para-el-mecenazgo-y-el-patrocinio-social-de-la-comunidad-de-madrid-como-dice-el-mismo/)
 
-### Ignacio Garriga (diputado de Vox en el Congreso): Que los miembros de la «manada de Manresa» eran menores extranjeros no acompañados.
-- Fecha: 2019
-- Partido: Vox
-- Canal: X · Tema: Inmigración y seguridad
-- Qué dicen los datos: Maldita.es lo califica de falso en su recopilación de bulos de Vox sobre inmigración.
-- Maldita.es: Falso
-- Fuentes:
-  - [Maldita.es: los bulos de Vox sobre inmigración](https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/)
-
 ### Santiago Abascal y la cuenta oficial de Vox (presidente de Vox): Que las ayudas al alquiler de Madrid «discriminan» a los españoles «con arraigo».
 - Fecha: oct 2019
 - Partido: Vox
 - Canal: Mitin en Granada y X (@vox_es) · Tema: Inmigración y seguridad
-- Qué dicen los datos: Ni el Plan Estatal de Vivienda ni las bases recogían el «arraigo», y el 81,5% de los admitidos en el listado provisional eran españoles, según la Consejería de Vivienda.
+- Qué dicen los datos: Ni el Plan Estatal de Vivienda ni las bases recogían el «arraigo», y en los dos listados provisionales de admitidos que analizó Maldita.es el 81,5% eran españoles.
 - Maldita.es: Falso
 - Fuentes:
+  - [Maldita.es: es falso que la legislación discrimine a los españoles con arraigo en las ayudas al alquiler de Madrid (31-oct-2019)](https://maldita.es/malditodato/20191031/es-falso-que-la-legislacion-discrimine-a-los-espanoles-que-tienen-arraigo-en-las-ayudas-al-alquiler-de-la-comunidad-de-madrid-2019-como-dice-santiago-abascal/)
   - [Maldita.es: los bulos de Vox sobre inmigración](https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/)
 
 ### Íñigo Errejón (líder de Más País y candidato (Cortes disueltas)): Que hay «cada vez más gente que se va» de España.
@@ -10094,53 +10203,55 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: oct 2019
 - Partido: Vox
 - Canal: Acto de Vox «Plus Ultra» en Vistalegre · Tema: Otros
-- Qué dicen los datos: La Delegación del Gobierno en Madrid cifró la asistencia, según la Policía Nacional, en 50.000 personas.
+- Qué dicen los datos: La Delegación del Gobierno en Madrid cifró la asistencia, según la Policía Nacional, en 50.000 personas; la organizadora, la Fundación DENAES, la cifró en 150.000.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: las falsedades de Abascal y Espinosa de los Monteros en Vistalegre](https://maldita.es/malditodato/20191016/las-falsedades-de-abascal-y-espinosa-de-los-monteros-en-vistalegre-plus-ultra-sobre-los-menores-extranjeros-y-las-manifestaciones-por-la-unidad-de-espana/)
 
-### Pablo Iglesias (secretario general de Podemos y candidato (Cortes disueltas)): Que Podemos no acepta «donaciones privadas».
+### Pablo Iglesias (secretario general de Podemos y candidato (Cortes disueltas)): Que Podemos no acepta donaciones privadas: «nosotros no tenemos por qué imponer a ninguna formación política que hagan lo mismo que nosotros reduciéndose el salario o no aceptando donaciones privadas».
 - Fecha: oct 2019
 - Partido: Podemos/UP
-- Canal: Declaración en campaña (10-N) · Tema: Elecciones
+- Canal: La Cafetera (RadioCable) · Tema: Elecciones
 - Qué dicen los datos: Podemos ingresó donaciones privadas por crowdfunding (un millón de euros para el 28-A), transferencia bancaria, recibos domiciliados y tarjeta.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que Podemos no acepte donaciones privadas](https://maldita.es/malditodato/20191014/es-falso-que-podemos-no-acepte-donaciones-privadas-como-dice-pablo-iglesias/)
 
 ### Albert Rivera (presidente de Ciudadanos y candidato (Cortes disueltas)): Que «en las últimas elecciones no hubo una sola encuesta que nos acercara ni a los 50 escaños».
-- Fecha: oct 2019
+- Fecha: 8 oct 2019
 - Partido: Cs
-- Canal: Declaración en campaña · Tema: Elecciones
+- Canal: Entrevista en «Más de Uno» (Onda Cero) · Tema: Elecciones
 - Qué dicen los datos: Antes del 28-A, cinco encuestas de casas y medios distintos daban a Cs 49 escaños o más: CIS (42-51), Sigma Dos (48-56), NC Report (55-56), SocioMétrica (49) y Metroscopia (49). Cs obtuvo 57.
 - Newtral: Falso
 - Fuentes:
   - [Newtral: Albert Rivera, en las últimas elecciones no hubo una sola encuesta que nos acercara a los 50 escaños](https://www.newtral.es/albert-rivera-en-las-ultimas-elecciones-no-hubo-una-sola-encuesta-que-nos-acercara-ni-a-los-50-escanos/20191008/)
 
 ### Inés Arrimadas (diputada y portavoz de Ciudadanos): Que el CEO previo a las elecciones catalanas de 2017 daba 20 escaños a Cs y al final sacaron 36.
-- Fecha: sep 2019
+- Fecha: 6 sep 2019
 - Partido: Cs
-- Canal: Declaración pública · Tema: Elecciones
+- Canal: Entrevista en «Els Matins» (TV3) · Tema: Elecciones
 - Qué dicen los datos: La última encuesta del CEO antes de las elecciones del 21-D daba a Cs entre 25 y 26 escaños, no 20.
 - Maldita.es: Falso
+- Matiz: Cs explicó a Maldita.es que se refería al último CEO antes de la convocatoria de elecciones, que le daba entre 20 y 22 escaños; Maldita señala que ella habló del CEO de «antes de las elecciones».
 - Fuentes:
   - [Maldita.es: las falsedades de Inés Arrimadas sobre las elecciones catalanas](https://maldita.es/malditodato/20190907/las-falsedades-de-ines-arrimadas-sobre-las-elecciones-catalanas/)
 
-### Íñigo Errejón (diputado en la Asamblea de Madrid y líder de Más País): Que «todos los que han sido presidentes del PP en la Comunidad de Madrid han sido imputados».
+### Íñigo Errejón (portavoz de Más Madrid en la Asamblea de Madrid): Que «todos los que han sido presidentes del PP en la Comunidad de Madrid han sido imputados».
 - Fecha: sep 2019
 - Partido: Otros
-- Canal: Declaración pública · Tema: Instituciones y justicia
+- Canal: Entrevista en «Al Rojo Vivo» (laSexta) · Tema: Instituciones y justicia
 - Qué dicen los datos: Ángel Garrido y Pedro Rollán, presidentes del PP en la Comunidad de Madrid, no han sido imputados.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que todos los presidentes del PP en Madrid hayan sido imputados](https://maldita.es/malditodato/20190904/es-falso-que-todos-los-que-han-sido-presidentes-del-pp-en-la-comunidad-madrid-han-sido-imputados-como-dice-inigo-errejon/)
 
-### Íñigo Errejón (diputado en la Asamblea de Madrid y líder de Más País): Que el nuevo Ayuntamiento de Madrid provoca que la Comisión Europea multe a España por intentar paralizar Madrid Central.
+### Íñigo Errejón (portavoz de Más Madrid en la Asamblea de Madrid): Que el nuevo Ayuntamiento de Madrid provoca que la Comisión Europea multe a España por intentar paralizar Madrid Central.
 - Fecha: ago 2019
 - Partido: Otros
-- Canal: Declaración pública · Tema: Otros
-- Qué dicen los datos: Maldita.es no encuentra ninguna sanción de la Comisión Europea a España vinculada a esa decisión del Ayuntamiento.
+- Canal: X (Twitter) · Tema: Otros
+- Qué dicen los datos: La Comisión Europea no había multado a España: la había llevado ante el Tribunal de Justicia de la UE por incumplir desde 2010 la directiva de calidad del aire, no por Madrid Central.
 - Maldita.es: Falso
+- Matiz: Más Madrid dijo a Maldita.es que la publicación se refería a una posible multa futura.
 - Fuentes:
   - [Maldita.es: es falso que la Comisión multe a España por Madrid Central, como dice Errejón](https://maldita.es/malditodato/20190813/es-falso-que-el-nuevo-ayuntamiento-de-madrid-provoca-que-la-comision-europea-multe-a-espana-por-intentar-paralizar-madrid-central-como-dice-inigo-errejon/)
 
@@ -10194,7 +10305,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 22-23 jul 2019
 - Partido: PP
 - Canal: Debate de investidura de Pedro Sánchez (Congreso) · Tema: Economía y empleo
-- Qué dicen los datos: El Gobierno de Sánchez no aprobó ninguna subida del impuesto sobre el diésel.
+- Qué dicen los datos: El Gobierno de Sánchez no aprobó ninguna subida del impuesto sobre el diésel. Sus Presupuestos para 2019, que no se aprobaron, proponían subirlo un 12,38%, no un 30%.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
@@ -10246,7 +10357,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
 
 ### Pablo Iglesias (secretario general de Podemos y diputado): Que había oído a Pedro Sánchez decir «jamás aplicaremos el 155».
-- Fecha: jul 2019
+- Fecha: 16 jul 2019
 - Partido: Podemos/UP
 - Canal: Entrevista en «Al Rojo Vivo» · Tema: Instituciones y justicia
 - Qué dicen los datos: Podemos remitió a una noticia de El País del 7-jul-2017 con declaraciones de Margarita Robles, no de Sánchez. No hay declaración de Sánchez asegurando que «nunca» apoyaría el 155; antes de que el PSOE lo apoyara en el Senado, sí se había opuesto a aplicarlo.
@@ -10254,16 +10365,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: es falso que Iglesias haya oído a Sánchez decir «jamás aplicaremos el 155»](https://maldita.es/malditodato/20190719/es-falso-que-pablo-iglesias-haya-escuchado-a-pedro-sanchez-decir-jamas-aplicaremos-el-155-como-dice-el-lider-de-podemos/)
 
-### Iván Espinosa de los Monteros (portavoz de Vox en el Congreso): Que Arnaldo Otegi tiene antecedentes penales «por intento de asesinato».
-- Fecha: jul 2019
-- Partido: Vox
-- Canal: Declaración pública · Tema: Instituciones y justicia
-- Qué dicen los datos: Las condenas de Otegi son por secuestro (1989, caso Abaitua) y por pertenencia a organización terrorista (2011, rebajada por el Supremo en 2012); en los casos Rupérez y Cisneros fue absuelto.
-- Maldita.es: Falso
-- Fuentes:
-  - [Maldita.es: es falso que Otegi tenga antecedentes por intento de asesinato, como dice Espinosa de los Monteros](https://maldita.es/malditodato/20190712/es-falso-que-arnaldo-otegi-tenga-antecedentes-penales-por-intento-de-asesinato-como-dice-espinosa-de-los-monteros/)
-
-### Inés Arrimadas (diputada y portavoz de Ciudadanos): Que Ciudadanos no ha pactado «con ninguna otra fuerza que no sea el PP».
+### Inés Arrimadas (diputada de Ciudadanos): Que Ciudadanos no ha pactado «con ninguna otra fuerza que no sea el PP».
 - Fecha: jul 2019
 - Partido: Cs
 - Canal: Entrevista en ABC · Tema: Elecciones
@@ -10271,6 +10373,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que Cs no haya pactado con nadie salvo el PP](https://maldita.es/malditodato/20190711/es-falso-que-ciudadanos-no-haya-pactado-con-ninguna-otra-fuerza-que-no-sea-el-pp-como-dice-ines-arrimadas/)
+
+### Ignacio Garriga (diputado de Vox en el Congreso): Que los miembros de la «manada de Manresa» eran menores extranjeros no acompañados.
+- Fecha: jul 2019
+- Partido: Vox
+- Canal: X · Tema: Inmigración y seguridad
+- Qué dicen los datos: Según la Audiencia Provincial de Barcelona, que los juzgaba (no un tribunal de menores), los siete acusados eran tres españoles, tres cubanos y un argentino.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que los miembros de la «manada de Manresa» sean menas, como dice Garriga (8-jul-2019)](https://maldita.es/malditodato/20190708/es-falso-que-los-miembros-de-la-denominada-manada-de-manresa-sean-menas-como-dice-ignacio-garriga-vox/)
+  - [Maldita.es: los bulos de Vox sobre inmigración](https://maldita.es/malditobulo/20191108/bulos-que-ha-usado-vox-para-hablar-de-inmigracion-manadas-ayudas-al-alquiler-menores-extranjeros-no-acompanados-y-paguitas-de-664-euros/)
 
 ### Juan Carlos Girauta (diputado de Ciudadanos): Que «el 80% de los españoles» apoya la gestación subrogada.
 - Fecha: jul 2019
@@ -10282,13 +10394,23 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Maldita.es: es falso que el 80% apoye la gestación subrogada](https://maldita.es/malditodato/20190708/es-falso-que-el-80-de-los-espanoles-apoya-la-gestacion-subrogada-como-dice-juan-carlos-girauta/)
 
 ### Arnaldo Otegi (coordinador general de EH Bildu): Que Bildu es la fuerza «que más alcaldes tiene» en el País Vasco y Navarra.
-- Fecha: jun 2019
+- Fecha: 26 jun 2019
 - Partido: Bildu
-- Canal: Declaración pública tras las municipales · Tema: Elecciones
+- Canal: Entrevista en «La noche en 24 horas» (RTVE) · Tema: Elecciones
 - Qué dicen los datos: El PNV gobernaba 123 ayuntamientos y EH Bildu, 117.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que Bildu sea la fuerza que más alcaldes tiene en el País Vasco y Navarra](https://maldita.es/malditodato/20190629/es-falso-que-bildu-sea-la-fuerza-que-mas-alcaldes-tiene-en-el-pais-vasco-y-navarra-como-dice-arnaldo-otegi/)
+
+### Iván Espinosa de los Monteros (diputado de Vox): Que Arnaldo Otegi tiene antecedentes penales «por intento de asesinato».
+- Fecha: 26 jun 2019
+- Partido: Vox
+- Canal: Los Desayunos de TVE · Tema: Instituciones y justicia
+- Qué dicen los datos: Las condenas de Otegi son por secuestro (1989, caso Abaitua) y por pertenencia a organización terrorista (2011, rebajada por el Supremo en 2012); en los casos Rupérez y Cisneros fue absuelto.
+- Maldita.es: Falso
+- Fuentes:
+  - [Maldita.es: es falso que Otegi tenga antecedentes por intento de asesinato, como dice Espinosa de los Monteros](https://maldita.es/malditodato/20190712/es-falso-que-arnaldo-otegi-tenga-antecedentes-penales-por-intento-de-asesinato-como-dice-espinosa-de-los-monteros/)
+  - [Maldita.es: la condena de 2011 y su rebaja de 2012 (pieza sobre Abascal, 22-jul-2019)](https://maldita.es/malditodato/20190722/es-falso-que-arnaldo-otegi-participara-en-los-secuestros-de-javier-ruperez-y-gabriel-cisneros-como-dice-santiago-abascal/)
 
 ### Ana Oramas (diputada y líder de Coalición Canaria): Que Podemos decía que había que «exterminar» a Coalición Canaria, con esos «términos exactos».
 - Fecha: jun 2019
@@ -10300,27 +10422,27 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Newtral: no hay constancia de esa frase de Podemos](https://www.newtral.es/ana-oramas-podemos-dice-que-hay-que-exterminar-a-coalicion-canaria-y-son-los-terminos-exactos/20190620/)
 
 ### Begoña Villacís (concejal y candidata de Ciudadanos a la alcaldía de Madrid): Que «Calle 30 ha aumentado el tráfico en 30.000 vehículos diarios» con Madrid Central.
-- Fecha: may 2019
+- Fecha: 7 may 2019
 - Partido: Cs
-- Canal: Declaración en campaña · Tema: Otros
+- Canal: Desayuno informativo de Nueva Economía Fórum · Tema: Otros
 - Qué dicen los datos: El tráfico en la M-30 no aumentó con Madrid Central; bajó ligeramente respecto a años anteriores.
 - Newtral: Falso
 - Fuentes:
   - [Newtral: Villacís, Calle 30 ha aumentado el tráfico en 30.000 vehículos diarios](https://www.newtral.es/villacis-calle-30-ha-aumentado-el-trafico-en-30-000-vehiculos-diarios/20190522/)
 
 ### Begoña Villacís (concejal y candidata de Ciudadanos a la alcaldía de Madrid): Que en Madrid solo había 5 puntos de carga rápida para coches eléctricos.
-- Fecha: may 2019
+- Fecha: 6 may 2019
 - Partido: Cs
 - Canal: Debate de candidatos a la alcaldía (El País y SER) · Tema: Otros
-- Qué dicen los datos: El portal de datos abiertos del Ayuntamiento recogía 9 puntos de carga rápida.
+- Qué dicen los datos: El portal de datos abiertos del Ayuntamiento recogía 9 puntos de carga rápida, y según el Ayuntamiento ya funcionaban 13 (17 contando los que estaban en pruebas).
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: las falsedades de los candidatos a la alcaldía de Madrid en el debate de El País y la SER](https://maldita.es/malditodato/20190509/las-falsedades-de-los-candidatos-a-la-alcaldia-de-madrid-en-el-debate-de-el-pais-y-la-ser/)
 
 ### Inés Arrimadas (líder de Ciudadanos en Cataluña y diputada): Que en TV3 era la primera vez que le preguntaban si el resultado de Cs en Cataluña era un fracaso.
-- Fecha: may 2019
+- Fecha: 29 abr 2019
 - Partido: Cs
-- Canal: Entrevista en TV3 · Tema: Otros
+- Canal: Entrevista en «Els Matins» (TV3) · Tema: Otros
 - Qué dicen los datos: Maldita.es documenta que la pregunta ya se le había hecho antes en otros medios.
 - Maldita.es: Falso
 - Fuentes:
@@ -10338,25 +10460,25 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Albert Rivera (presidente de Ciudadanos y candidato (Cortes disueltas)): Que era «el único candidato que está diciendo claramente quién está en su preferencia de gobierno».
 - Fecha: 23 abr 2019
 - Partido: Cs
-- Canal: Declaración en campaña (28-A) · Tema: Elecciones
+- Canal: Debate electoral de Atresmedia (28-A) · Tema: Elecciones
 - Qué dicen los datos: Maldita.es recoge que otros candidatos también habían expresado públicamente con quién querían gobernar.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que Rivera sea el único candidato que dice su preferencia de gobierno](https://maldita.es/malditodato/20190423/es-falso-que-albert-rivera-sea-el-unico-candidato-que-esta-diciendo-claramente-quien-esta-en-su-preferencia-de-gobierno-como-dice-el-mismo/)
 
 ### Pablo Casado (presidente del PP y candidato (Cortes disueltas)): Que Oriol Junqueras había dicho que quiere indultos a cambio de ofrecer sus escaños a Sánchez.
-- Fecha: abr 2019
+- Fecha: 23 abr 2019
 - Partido: PP
-- Canal: Declaración en campaña (28-A) · Tema: Instituciones y justicia
+- Canal: Debate electoral de Atresmedia (28-A) · Tema: Instituciones y justicia
 - Qué dicen los datos: Maldita.es concluye que Junqueras no dijo eso.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que Junqueras haya pedido indultos a cambio de escaños](https://maldita.es/malditodato/20190423/es-falso-que-junqueras-haya-dicho-que-quiere-indultos-a-cambio-de-ofrecer-sus-escanos-a-sanchez-como-dice-pablo-casado/)
 
-### Albert Rivera (presidente de Ciudadanos y candidato (Cortes disueltas)): Que Pedro Sánchez había pactado «con Torra 21 medidas».
+### Albert Rivera (presidente de Ciudadanos y candidato (Cortes disueltas)): Que Pedro Sánchez «pacta con Torra, pacta 21 medidas inaceptables».
 - Fecha: 22 abr 2019
 - Partido: Cs
-- Canal: Declaración en campaña (28-A) · Tema: Instituciones y justicia
+- Canal: Debate electoral de RTVE (28-A) · Tema: Instituciones y justicia
 - Qué dicen los datos: Las 21 medidas eran una petición planteada por el presidente de la Generalitat; no un acuerdo entre ambos presidentes.
 - Maldita.es: Falso
 - Fuentes:
@@ -10373,7 +10495,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Maldita.es: las mentiras y datos falsos de la primera sesión del debate de investidura](https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/)
 
 ### María Jesús Montero (ministra de Hacienda): Que «se han creado en este período de gobierno de Sánchez en torno a 540.000 empleos».
-- Fecha: abr 2019
+- Fecha: 16 abr 2019
 - Partido: PSOE
 - Canal: Debate televisivo (campaña 28-A) · Tema: Economía y empleo
 - Qué dicen los datos: Desde la llegada de Sánchez al Gobierno la afiliación a la Seguridad Social subió 127.908 personas. La cifra de 541.488,73 es la variación interanual entre marzo de 2018 y marzo de 2019; el resto hasta esa cifra corresponde al Gobierno de Rajoy (confirmado por el PSOE).
@@ -10385,7 +10507,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: abr-may 2019
 - Partido: Otros
 - Canal: Salvados y debate en Cuatro · Tema: Inmigración y seguridad
-- Qué dicen los datos: Había 2.888 agentes en mayo de 2015 y 2.784 en mayo de 2019, el mínimo desde 2011, según datos obtenidos por reclamación de transparencia.
+- Qué dicen los datos: Había 2.888 agentes en mayo de 2015 y 2.784 en mayo de 2019; en junio de 2019 eran 2.782, el mínimo desde 2011, según datos obtenidos por reclamación de transparencia.
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: Colau no puso más agentes](https://maldita.es/malditodato/20190812/es-falso-que-ada-colau-haya-puesto-mas-agentes-de-policia-en-barcelona-como-decia-la-alcaldesa-en-campana-electoral/)
@@ -10398,9 +10520,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Maldita.es: Falso
 - Fuentes:
   - [Maldita.es: es falso que Otegi fuera condenado por secuestrar a Rupérez y Cisneros](https://maldita.es/malditodato/20190404/es-falso-que-otegi-fuera-condenado-por-secuestrar-a-javier-ruperez-y-por-intentar-secuestrar-y-casi-asesinar-a-gabriel-cisneros-como-dice-pablo-casado/)
+  - [Maldita.es: la condena de 2011 y su rebaja de 2012 (pieza sobre Abascal, 22-jul-2019)](https://maldita.es/malditodato/20190722/es-falso-que-arnaldo-otegi-participara-en-los-secuestros-de-javier-ruperez-y-gabriel-cisneros-como-dice-santiago-abascal/)
 
 ### Pablo Iglesias (secretario general de Podemos y candidato (Cortes disueltas)): Que José Luis Ábalos había dicho que el PSOE prefiere llegar a un acuerdo «siempre con Ciudadanos» antes que con Podemos.
-- Fecha: 27 mar 2019
+- Fecha: 25 mar 2019
 - Partido: Podemos/UP
 - Canal: Entrevista · Tema: Elecciones
 - Qué dicen los datos: En una entrevista en El Español, Ábalos respondió, sobre si era preferible pactar con Ciudadanos antes que con partidos independentistas, que el apoyo de Cs sería bienvenido y siempre preferible al de quien cuestiona la unidad de España. No mencionó a Podemos ni se le preguntó por él.
@@ -10425,15 +10548,15 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Qué pedían: Vivienda asequible y una huelga general
 - Cifra oficial: Delegación del Gobierno: 70.000 personas en Madrid.
 - Según quien convoca: Sindicato de Inquilinas: 500.000 en Madrid.
-- Quién gobernaba: Sánchez, con las Cortes disueltas; el día anterior el Congreso había rechazado dos decretos de vivienda.
-- En qué acabó: Da paso a la convocatoria de huelga general.
+- Quién gobernaba: Sánchez (PSOE-Sumar); el día anterior el Congreso había rechazado dos decretos de vivienda. Las Cortes se disolvieron dos días después, el 5 de octubre.
+- En qué acabó: Al terminar, el Sindicato de Inquilinas llamó a «construir una huelga general».
 - Fuentes:
   - [elDiario.es: ahora toca huelga general](https://www.eldiario.es/madrid/somos/miles-personas-inundan-calles-madrid-vivienda-ahora-toca-huelga-general_1_13557572.html)
   - [El Español: las cifras de la manifestación](https://www.elespanol.com/madrid/capital/20261004/manifestacion-vivienda-supera-queda-debajo-rentistas-poder/1003744407607_0.html)
 
 ### Huelgas docentes (Cataluña)
 - Fecha: primavera 2026 · Sector: Educación
-- Convocan: USTEC-STEs, CGT, Intersindical, CNT y COS
+- Convocan: USTEC-STEs, CGT, CNT y COS
 - Qué pedían: Más especialistas de inclusión, salario ligado al IPC, ratios y el 6% del PIB para educación
 - Cifra oficial: Guardia Urbana: 15.200 manifestantes en Barcelona el 5 de junio.
 - Según quien convoca: USTEC: 80% de seguimiento y 90.000 personas.
@@ -10456,12 +10579,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Huelga indefinida docente (Comunitat Valenciana)
 - Fecha: may-jun 2026 · Sector: Educación
-- Convocan: STEPV, CCOO, UGT, CSIF, CNT, CGT, CSO y COS
-- Qué pedían: Salario, ratios, 5.000 plazas, fin de los barracones e inclusión
+- Convocan: STEPV, CCOO y UGT, con la Coordinadora d'Assemblees Docents del País Valencià
+- Qué pedían: Mejoras salariales, más plantilla, bajar las ratios, inclusión y blindar las líneas en valenciano
 - Cifra oficial: Sin cifra oficial en las fuentes leídas.
 - Según quien convoca: En la consulta sindical votaron 30.238 docentes: el 87% rechazó el acuerdo y el 71% votó suspender la huelga.
 - Quién gobernaba: Pérez Llorca (PP). Competencia autonómica.
-- En qué acabó: Huelga suspendida el 12 de junio, sin acuerdo.
+- En qué acabó: Tras la consulta del 10 de junio, los sindicatos se inclinaron por suspenderla sin acuerdo y retomar la protesta el curso siguiente.
 - Fuentes:
   - [elDiario.es: los docentes rechazan el acuerdo y suspenden la huelga](https://www.eldiario.es/comunitat-valenciana/docentes-valencianos-rechazan-masivamente-acuerdo-global-educacion-votan-suspender-huelga-indefinida_1_13292179.html)
   - [Infobae: la Generalitat y la nueva propuesta](https://www.infobae.com/espana/2026/05/25/la-generalitat-ve-inminente-el-fin-de-la-huelga-de-profesores-de-la-comunidad-valenciana-los-sindicatos-han-presentado-una-nueva-propuesta-y-educacion-esta-de-acuerdo-en-lo-fundamental/)
@@ -10527,10 +10650,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Paro por Palestina (España)
 - Fecha: 15 oct 2025 · Sector: General
-- Convocan: CCOO y UGT con paros de 2 horas; CGT y Sindicato de Estudiantes, 24 horas
+- Convocan: CCOO y UGT, con paros de dos horas en tres franjas; CGT, con una huelga general
 - Qué pedían: Romper relaciones con Israel y un embargo de armas por la guerra de Gaza
-- Cifra oficial: Policía municipal: 7.500 personas en Barcelona. Gobierno Vasco: 42% en la enseñanza pública.
-- Según quien convoca: Convocantes: más de 1.000 comités secundaron los paros; 50.000 personas en Barcelona.
+- Cifra oficial: Guardia Urbana: 15.000 personas en la manifestación unitaria de Barcelona y unas 7.500 en la de estudiantes y profesores. Gobierno Vasco: 42% del profesorado de la red pública.
+- Según quien convoca: Organizadores: unas 50.000 personas en Barcelona. Según Infobae, al menos un millar de comités de empresa y secciones sindicales secundaron los paros.
 - Quién gobernaba: Sánchez (PSOE y Sumar). La política exterior es del Estado.
 - En qué acabó: Movilización; 15 detenidos en Barcelona.
 - Fuentes:
@@ -10554,10 +10677,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: sep – oct 2025 · Sector: Educación
 - Convocan: CIG-Ensino y STEG
 - Qué pedían: Bajar ratios, recuperar las horas lectivas anteriores a los recortes de 2011-2012, más plantilla y menos burocracia
-- Cifra oficial: Consellería: 14,8% el 25 de septiembre; por debajo del 13% (13,6% según Galiciapress) el 28 y 29 de octubre.
+- Cifra oficial: Consellería: 14,8% el 25 de septiembre. En octubre, «por baixo do 13%» según Praza y 13,6% según Galiciapress.
 - Según quien convoca: CIG: más del 60% el 25 de septiembre; en octubre no dio cifra.
 - Quién gobernaba: Xunta del PP (Rueda). Competencia autonómica.
-- En qué acabó: Un día antes de la huelga de octubre, la Consellería anunció 1.500 plazas nuevas de empleo público. Fue la primera huelga docente de 48 horas en Galicia desde los años ochenta.
+- En qué acabó: Un día antes de la huelga de octubre, la Consellería anunció 1.500 plazas nuevas de empleo público (Praza); la CIG y el STEG dicen que solo cubren jubilaciones. Galiciapress describió la huelga de 48 horas, con encierros en cinco centros, como «una protesta inédita desde los años ochenta».
 - Fuentes:
   - [Praza: 60% para la CIG, 14,8% para la Consellería](https://praza.gal/acontece/a-folga-educativa-contra-a-xunta-60-de-seguimento-para-a-cig-15-para-a-conselleria)
   - [Praza: la huelga de octubre](https://praza.gal/politica/o-profesorado-leva-a-rua-as-suas-demandas-nunha-folga-que-a-xunta-reduce-ao-minimo)
@@ -10565,7 +10688,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Huelgas de médicos contra el Estatuto Marco (España)
 - Fecha: 2025 – 2026 · Sector: Sanidad
-- Convocan: Comité de huelga de CESM, SMA, Metges de Catalunya, AMYTS, SME y O'Mega
+- Convocan: Comité de huelga de los sindicatos médicos, entre ellos CESM, SMA y SME
 - Qué pedían: Un estatuto propio y una mesa de negociación propia para los médicos, 35 horas, guardias y jubilación
 - Cifra oficial: Primer día de 2026 (16 de febrero), según las consejerías: del 1% en hospitales de Madrid al 44% en la Comunitat Valenciana.
 - Según quien convoca: Sindicatos: por encima del 50%, y hasta el 90% en algunas comunidades.
@@ -10626,7 +10749,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Convocan: STE-CLM, CCOO y CSIF (UGT y ANPE no se sumaron)
 - Qué pedían: Menos horas lectivas, ratios más bajas y menos burocracia
 - Cifra oficial: Junta: 1,46% (504 docentes).
-- Según quien convoca: Sindicatos: 25%, unos 7.000 de 27.000.
+- Según quien convoca: Sindicatos: 25%, unos 7.000 docentes.
 - Quién gobernaba: Junta del PSOE (García-Page), con mayoría absoluta. Competencia autonómica.
 - En qué acabó: Sin desenlace publicado.
 - Fuentes:
@@ -10705,12 +10828,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: ene 2023 · Sector: Sanidad
 - Convocan: Metges de Catalunya
 - Qué pedían: Calidad asistencial, menos carga de trabajo y listas de espera
-- Cifra oficial: Sin cifra en las fuentes leídas.
+- Cifra oficial: Salut reconoció un seguimiento «importante» y calculó unas 2.000 intervenciones y 5.000 agendas de visitas aplazadas.
 - Según quien convoca: Sin cifra en las fuentes leídas.
 - Quién gobernaba: Aragonès (ERC en solitario). Competencia autonómica.
 - En qué acabó: Acuerdo el 31 de enero de 2023; se desconvocan las jornadas siguientes.
 - Fuentes:
   - [ElNacional: desconvocada tras el acuerdo](https://www.elnacional.cat/es/salud/desconvocada-la-huelga-de-medicos-despues-de-llegar-a-un-acuerdo-con-salud_961986_102.html)
+  - [elDiario.es: los médicos catalanes desconvocan la huelga; el seguimiento según Salut](https://www.eldiario.es/catalunya/medicos-catalanes-desconvocan-huelga-llegar-acuerdo-generalitat_1_9913276.html)
 
 ### Huelga docente de dos días (Cataluña)
 - Fecha: 25 y 26 ene 2023 · Sector: Educación
@@ -10742,7 +10866,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Convocan: Residentes, con AMYTS
 - Qué pedían: Convenio, más supervisión, descanso tras las guardias y subida de la hora de guardia
 - Cifra oficial: Consejería de Sanidad: 43,88% el primer día.
-- Según quien convoca: Convocantes: más de 1.000 personas en la calle.
+- Según quien convoca: Más de 1.000 residentes en la calle, según elDiario.es.
 - Quién gobernaba: Ayuso (PP y Cs). Competencia autonómica.
 - En qué acabó: Acuerdo en agosto de 2020.
 - Fuentes:
@@ -10774,7 +10898,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Huelga general tras la sentencia del procés (Cataluña)
 - Fecha: 18 oct 2019 · Sector: General
 - Convocan: Intersindical-CSC e IAC
-- Qué pedían: Formalmente, un salario mínimo de 1.200 € y derechos laborales; de fondo, la sentencia del procés
+- Qué pedían: Protestar por la sentencia del procés
 - Cifra oficial: Guardia Urbana: 525.000 personas en Barcelona.
 - Según quien convoca: Sin cifra en las fuentes leídas.
 - Quién gobernaba: Estado: Sánchez (PSOE), en funciones. Generalitat: Torra (JxCat y ERC).
@@ -10784,8 +10908,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Huelga feminista del 8M (España)
 - Fecha: 8 mar 2019 · Sector: General
-- Convocan: Comisión 8M; CCOO y UGT con paros de 2 horas
-- Qué pedían: Lo mismo que en 2018
+- Convocan: Comisión 8M; los sindicatos convocaron paros por la igualdad en los centros de trabajo
+- Qué pedían: Igualdad entre mujeres y hombres y acabar con la violencia machista
 - Cifra oficial: Fuentes oficiales: 375.000 personas en la manifestación de Madrid y 200.000 en Barcelona.
 - Según quien convoca: Sin cifra de seguimiento de los paros en las fuentes leídas.
 - Quién gobernaba: Sánchez (PSOE), con las Cortes recién disueltas.
@@ -10795,7 +10919,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Huelga feminista del 8M (España)
 - Fecha: 8 mar 2018 · Sector: General
-- Convocan: Comisión 8M; CCOO y UGT con paros de 2 horas; CGT y CNT, 24 horas
+- Convocan: Comisión 8M; CCOO y UGT, con paros de dos horas
 - Qué pedían: Acabar con la brecha salarial, la precariedad y la violencia machista
 - Cifra oficial: Delegación del Gobierno: 170.000 personas en la manifestación de Madrid; Guardia Urbana: 200.000 en Barcelona. No hubo cifra global oficial de seguimiento.
 - Según quien convoca: CCOO y UGT: 5,9 millones de personas en los paros.
@@ -10812,7 +10936,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cifra oficial: Sin cifras comprobadas en las fuentes leídas.
 - Según quien convoca: Sin cifras comprobadas en las fuentes leídas.
 - Quién gobernaba: Rajoy (PP), hasta el 1 de junio de 2018. Las pensiones son del Estado.
-- En qué acabó: Los presupuestos de 2018 (ya con Sánchez) subieron las pensiones por encima del 0,25%, y en 2021 una ley las ligó al IPC medio.
+- En qué acabó: La Ley de Presupuestos de 2018, preparada por el Gobierno de Rajoy y publicada el 4 de julio de 2018, ya con Sánchez, incluyó un «incremento excepcional» de las pensiones para 2018 y 2019. En 2021 una ley las ligó al IPC medio.
 - Fuentes:
   - [El Independiente: los jubilados y las movilizaciones](https://www.elindependiente.com/economia/2018/03/13/jubilados-ccoo-ugt-ley-mordaza/)
   - [BOE: Ley 6/2018 de presupuestos](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-9268)
@@ -10825,7 +10949,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cifra oficial: Guardia Urbana: unas 300.000 personas en Barcelona.
 - Según quien convoca: Sin cifra en las fuentes leídas.
 - Quién gobernaba: Estado: Rajoy (PP). Generalitat: Puigdemont (JxSí, con apoyo de la CUP), antes del 155.
-- En qué acabó: Huelga de carácter político, sin acuerdo.
+- En qué acabó: Sin acuerdo.
 - Fuentes:
   - [Vozpópuli: la convocatoria](https://www.vozpopuli.com/espana/sindicatos-ugt-ccoo-convocada-cataluna_0_1068194206.html)
   - [La Silla Rota: la jornada](https://lasillarota.com/mundo/2017/10/3/huelga-marchas-colapsan-calles-de-barcelona-109202.html)
@@ -10845,12 +10969,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Huelga educativa contra las reválidas (España)
 - Fecha: 26 oct 2016 · Sector: Educación
-- Convocan: Sindicato de Estudiantes y CEAPA (familias); en algunas comunidades, como Madrid, también sindicatos docentes
+- Convocan: Sindicato de Estudiantes y CEAPA (familias); la manifestación de Madrid la convocó la Plataforma Estatal por la Escuela Pública, con estudiantes, familias y sindicatos de enseñanza
 - Qué pedían: Retirar las evaluaciones finales («reválidas») de ESO y Bachillerato de la LOMCE
 - Cifra oficial: Ministerio de Educación: entre el 30% y el 40% de los estudiantes, y el 12% del profesorado donde se convocó.
 - Según quien convoca: Sindicato de Estudiantes: 90% de media.
 - Quién gobernaba: Rajoy (PP), en funciones (fue investido tres días después). La LOMCE es estatal.
-- En qué acabó: El Real Decreto-ley 5/2016, de 9 de diciembre, aplazó al curso 2017-2018 los efectos académicos de las evaluaciones finales.
+- En qué acabó: El Real Decreto-ley 5/2016, de 9 de diciembre, dejó sin efectos académicos la evaluación final de ESO hasta que entrara en vigor la normativa del Pacto de Estado por la Educación.
 - Fuentes:
   - [Diariocrítico (Europa Press): la huelga del 26 de octubre](https://www.diariocritico.com/huelga-ensenanza-miercoles-26-octubre-2016)
   - [BOE: Real Decreto-ley 5/2016](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-11733)
@@ -10894,7 +11018,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promesa: Convocar a todos los grupos políticos y a la comunidad educativa para alcanzar un Pacto Nacional por la Educación (medida 1 de educación, p. 178). Los puntos de «Nuestro compromiso» del capítulo son declaraciones o, como «continuaremos implantando la FP Dual», continuar algo que ya existía sin una meta que se pueda medir.
 - Cita: «Convocaremos a todos los grupos políticos y a toda la comunidad educativa a la consecución de un Pacto Nacional por la Educación»
 - Quién gobernaba: Rajoy, oct 2016 – jun 2018 (en minoría)
-- Qué se hizo: PP, PSOE y Ciudadanos pidieron juntos en diciembre de 2016 una subcomisión en el Congreso para elaborar un Pacto de Estado Social y Político por la Educación. En marzo de 2018 el PSOE se levantó de la mesa por la financiación (pedía llegar al 5% del PIB) y Unidos Podemos también la abandonó. No hubo pacto.
+- Qué se hizo: PP, PSOE y Ciudadanos pidieron juntos a finales de noviembre de 2016 (publicado el 2 de diciembre) una subcomisión en el Congreso para elaborar un Pacto de Estado Social y Político por la Educación. En marzo de 2018 el PSOE se levantó de la mesa por la financiación (pedía llegar al 5% del PIB) y Unidos Podemos también la abandonó. No hubo pacto.
 - Veredicto: A medias. Se convocó a los grupos, como se prometía, pero el pacto no se alcanzó.
 - Fuentes:
   - [PP: programa «Seguir avanzando», p. 178 (el texto es idéntico en la edición del 26J, p. 177)](https://www.pp.es/wp-content/uploads/2015/12/programa2015.pdf)
@@ -10906,7 +11030,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promesa: Gestionar mejor la dependencia, más ágil y con el mismo acceso en todo el país (sexto punto de «Nuestro compromiso», p. 108; los cinco primeros, incluido el de las pensiones, son declaraciones).
 - Cita: «Mejoraremos la gestión del Sistema de Atención a la Dependencia para hacerla más ágil y eficaz»
 - Quién gobernaba: Rajoy, oct 2016 – jun 2018 (en minoría)
-- Qué se hizo: Las personas con derecho reconocido que aún no recibían la ayuda pasaron de 348.309 (diciembre de 2016) a 310.120 (diciembre de 2017). Las solicitudes pendientes de valorar subieron de 103.238 a 120.213.
+- Qué se hizo: Las personas con derecho a prestación que aún no tenían resuelto su plan de atención (la lista de espera de la dependencia) pasaron de 348.309 (diciembre de 2016) a 310.120 (diciembre de 2017). Las solicitudes pendientes de valorar subieron de 103.238 a 120.213. Para esos años el IMSERSO no publica estas cifras directamente: salen de restar dos datos oficiales suyos, con la misma fórmula que el IMSERSO usa en sus tablas desde 2018.
 - Veredicto: A medias. Bajó la lista de espera, pero aumentaron las solicitudes sin valorar. El dato de diciembre de 2018 no se le atribuye porque desde junio gobernaba otro Ejecutivo.
 - Fuentes:
   - [PP: programa «Seguir avanzando», p. 108 (el texto es idéntico en la edición del 26J)](https://www.pp.es/wp-content/uploads/2015/12/programa2015.pdf)
@@ -10928,7 +11052,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promesa: Ampliar la vivienda asequible con rehabilitación, alquiler y vivienda pública, crear un gran parque público de alquiler y seguir los precios con un índice estatal (primera medida del apartado 2.2.2, p. 26).
 - Cita: «El principal objetivo es crear un gran parque de alquiler público de precio asequible»
 - Quién gobernaba: Sánchez con Unidas Podemos, ene 2020 – nov 2023 (en minoría)
-- Qué se hizo: El índice estatal de precios del alquiler se presentó el 30 de junio de 2020. La Ley 12/2023, por el derecho a la vivienda, se aprobó en mayo de 2023. No se ha encontrado una cifra oficial de ese «gran parque» público de alquiler.
+- Qué se hizo: El índice estatal de precios del alquiler se presentó el 30 de junio de 2020. La Ley 12/2023, por el derecho a la vivienda, se aprobó en mayo de 2023. No se ha localizado una cifra oficial de cuánto creció ese «gran parque» público de alquiler.
 - Veredicto: A medias. Se cumplió el índice y se aprobó la ley de vivienda, pero no hay un dato oficial que permita decir que se creó el gran parque público de alquiler prometido.
 - Fuentes:
   - [PSOE: programa «Ahora, progreso», p. 26](https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf)
@@ -10969,13 +11093,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 21/2021, de garantía del poder adquisitivo de las pensiones](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21652)
 
 ### PSOE · Gobierno de España · Impuestos: PSOE, generales de noviembre de 2019 («Ahora, progreso»)
-- Promesa: Que tributen más las grandes empresas, el sector financiero y las grandes tecnológicas, crear impuestos ambientales y bajar la carga fiscal de las pymes (tercera medida del apartado 2.2.5, p. 31; las dos primeras son declaraciones).
-- Cita: «La reforma de la fiscalidad permitirá superar en España la anomalía de la escasa tributación de las grandes corporaciones»
+- Promesa: Aprobar la Ley de Medidas de Prevención y Lucha contra el Fraude Fiscal y elaborar una Estrategia nacional contra el fraude fiscal (cuarta medida del apartado 2.2.5, p. 31). Las tres primeras son declaraciones: la tercera anuncia que la reforma «permitirá» que tributen más las grandes empresas, la banca y las tecnológicas, sin decir qué se aprobará.
+- Cita: «Aprobaremos la Ley de Medidas de Prevención y Lucha contra el Fraude Fiscal y elaboraremos una Estrategia nacional contra el fraude fiscal»
 - Quién gobernaba: Sánchez con Unidas Podemos, ene 2020 – nov 2023 (en minoría)
-- Qué se hizo: Se aprobaron el impuesto sobre determinados servicios digitales (Ley 4/2020), una tributación mínima del 15% en Sociedades para las empresas que facturan 20 millones o más (Ley 22/2021), gravámenes temporales a la banca (4,8% del margen de intereses y comisiones) y a las energéticas (1,2% de la facturación) (Ley 38/2022), el impuesto sobre los envases de plástico no reutilizables (Ley 7/2022) y la bajada del tipo de Sociedades del 25% al 23% para las empresas que facturan menos de un millón (Ley 31/2022). Según Hacienda, este último beneficia a 407.384 empresas, que se ahorran 292 millones.
-- Veredicto: Cumplida. Se aprobaron medidas en todos los ámbitos que citaba la promesa. Los gravámenes a la banca y a las energéticas se aprobaron como temporales. Si la reforma perjudicó o no a las familias de rentas medias y bajas no se valora aquí.
+- Qué se hizo: Se aprobó la Ley 11/2021, de 9 de julio, de medidas de prevención y lucha contra el fraude fiscal. No se ha encontrado una Estrategia nacional contra el fraude fiscal con ese nombre.
+- Veredicto: A medias. Se aprobó la ley; la estrategia no consta. Sobre el objetivo general de la tercera medida, en esos años se aprobaron el impuesto sobre servicios digitales (Ley 4/2020), una tributación mínima del 15% en Sociedades para las empresas que facturan 20 millones o más (Ley 22/2021), gravámenes temporales a la banca y a las energéticas (Ley 38/2022), el impuesto sobre envases de plástico (Ley 7/2022) y la bajada del tipo de Sociedades al 23% para las empresas que facturan menos de un millón (Ley 31/2022), que según Hacienda beneficia a 407.384 empresas.
 - Fuentes:
   - [PSOE: programa «Ahora, progreso», p. 31](https://www.psoe.es/media-content/2019/10/Ahora-progreso-programa-PSOE-10N-31102019.pdf)
+  - [BOE: Ley 11/2021, de medidas de prevención y lucha contra el fraude fiscal](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-11473)
   - [BOE: Ley 4/2020, impuesto sobre determinados servicios digitales](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-12355)
   - [BOE: Ley 22/2021, Presupuestos de 2022 (tributación mínima del 15%)](https://www.boe.es/buscar/act.php?id=BOE-A-2021-21653)
   - [BOE: Ley 38/2022, gravámenes temporales a la banca y a las energéticas](https://www.boe.es/buscar/act.php?id=BOE-A-2022-22684)
@@ -11018,7 +11143,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cita: «Estableceremos la actualización por ley de las pensiones al IPC de manera inmediata y buscaremos blindar esta garantía constitucionalizándola»
 - Quién gobernaba: Socio del Gobierno de coalición con el PSOE, ene 2020 – nov 2023 (en minoría)
 - Qué se hizo: La Ley 21/2021 fijó por ley la revalorización de las pensiones con el IPC. No hubo reforma constitucional.
-- Veredicto: Cumplida. El compromiso era la ley, y se aprobó; la reforma constitucional el programa la planteaba como algo que «buscaría», y no se hizo. Con el PSOE se marca «a medias» porque su programa ponía el blindaje en la Constitución como forma de garantizarlo.
+- Veredicto: A medias. La ley se aprobó el 28 de diciembre de 2021, casi dos años después de entrar en el Gobierno, y no «de manera inmediata» como decía el programa; como en el resto de promesas cumplidas fuera de plazo, cuenta como «a medias». El blindaje constitucional, que el programa planteaba como algo que «buscaría», no se hizo.
 - Fuentes:
   - [Unidas Podemos: programa «Las razones siguen intactas», medida 194, p. 83](https://podemos.info/wp-content/uploads/2019/10/Podemos_programa_generales_10N.pdf)
   - [BOE: Ley 21/2021, de garantía del poder adquisitivo de las pensiones](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-21652)
@@ -11027,8 +11152,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promesa: Un tipo mínimo del 15% en Sociedades para los grupos empresariales, del 20% para entidades financieras y petroleras, y bajar el tipo de las pymes del 25% al 23% (medida 257, p. 108, la primera de impuestos).
 - Cita: «Estableceremos un tipo efectivo mínimo, más eficaz y justo, del 15 %»
 - Quién gobernaba: Socio del Gobierno de coalición con el PSOE, ene 2020 – nov 2023 (en minoría)
-- Qué se hizo: La Ley 22/2021 estableció una tributación mínima del 15% para las empresas que facturan 20 millones o más, y la Ley 31/2022 bajó al 23% el tipo de las que facturan menos de un millón; según Hacienda, beneficia a 407.384 empresas, que se ahorran 292 millones. El 20% para entidades financieras y petroleras no se aprobó. En su lugar hubo gravámenes temporales sobre la facturación de las energéticas y el margen de la banca (Ley 38/2022).
-- Veredicto: A medias. Se cumplieron el mínimo del 15% y la bajada para las pymes. El tipo del 20% para la banca y las petroleras, no.
+- Qué se hizo: La Ley 22/2021 estableció una tributación mínima del 15% para las empresas que facturan 20 millones o más, y la Ley 31/2022 bajó al 23% el tipo de las que facturan menos de un millón; según Hacienda, beneficia a 407.384 empresas, que se ahorran 292 millones. La misma Ley 22/2021 fijó un mínimo del 18% para las entidades de crédito y las de hidrocarburos, no del 20%. Además hubo gravámenes temporales sobre la facturación de las energéticas y el margen de la banca (Ley 38/2022).
+- Veredicto: A medias. Se cumplieron el mínimo del 15% y la bajada para las pymes. Para la banca y las petroleras el mínimo quedó en el 18%, por debajo del 20% prometido.
 - Fuentes:
   - [Unidas Podemos: programa «Las razones siguen intactas», medida 257, p. 108](https://podemos.info/wp-content/uploads/2019/10/Podemos_programa_generales_10N.pdf)
   - [BOE: Ley 22/2021 (tributación mínima del 15%)](https://www.boe.es/buscar/act.php?id=BOE-A-2021-21653)
@@ -11037,7 +11162,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 38/2022, gravámenes temporales](https://www.boe.es/buscar/act.php?id=BOE-A-2022-22684)
 
 ### PSOE · Gobierno de España · Vivienda: PSOE, generales de julio de 2023
-- Promesa: Aplicar las medidas de la ley de vivienda para contener los precios (primera medida del capítulo «Vivienda», p. 215).
+- Promesa: Activar las medidas de la ley de vivienda para contener los precios (primera medida del capítulo «Vivienda», p. 215, dentro del compromiso de «activar y desarrollar los instrumentos previstos en la ley»). Cuenta como medida y no como continuar algo que ya existía porque, en julio de 2023, el índice de precios que permite limitar el alquiler aún no se había aprobado.
 - Cita: «Desarrollaremos las medidas contempladas para la contención de los precios de la vivienda»
 - Quién gobernaba: Sánchez con Sumar, nov 2023 – oct 2026 (en minoría)
 - Qué se hizo: En marzo de 2024 se aprobó el índice de precios de referencia que permite limitar el alquiler en las zonas tensionadas. A julio de 2026 tenían zonas tensionadas declaradas Cataluña, País Vasco, Navarra, Galicia y Asturias. Declararlas depende de cada comunidad autónoma.
@@ -11175,7 +11300,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promesa: Reducir de forma sustancial la lista de espera de la dependencia y aumentar el número de beneficiarios (primera propuesta del capítulo de dependencia, p. 112).
 - Cita: «Reforzaremos nuestro compromiso de reducir de forma sustancial la lista de espera de personas solicitantes y reconocidas»
 - Quién gobernaba: Moreno, mayoría absoluta. Legislatura 2022-2026
-- Qué se hizo: Según el IMSERSO, las personas con derecho reconocido que aún no recibían la ayuda pasaron de 36.606 (diciembre de 2022) a 13.300 (diciembre de 2025). Las solicitudes pendientes de valorar bajaron de 47.503 a 14.671.
+- Qué se hizo: Según el IMSERSO, las personas con derecho a prestación que aún no tenían resuelto su plan de atención (la lista de espera de la dependencia) pasaron de 36.606 (diciembre de 2022) a 13.300 (diciembre de 2025). Las solicitudes pendientes de valorar bajaron de 47.503 a 14.671; la cifra de 2022 sale de restar dos datos oficiales del IMSERSO (solicitudes menos resoluciones), la de 2025 la publica directamente.
 - Veredicto: Cumplida. Las dos listas bajaron de forma clara durante la legislatura.
 - Fuentes:
   - [PP de Andalucía: programa electoral de 2022, p. 112](https://ppandalucia.es/wp-content/uploads/2022/05/PP-programa-2022.pdf)
@@ -11207,12 +11332,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Promesa: Reducir a la mitad los tiempos máximos de espera: un máximo de 60 días para cataratas o prótesis de cadera y de 90 días para los 25 procedimientos más comunes (medida 7.1, p. 72, la primera del capítulo de salud).
 - Cita: «reduciremos a la mitad los tiempos máximos de espera»
 - Quién gobernaba: Ayuso, mayoría absoluta. Legislatura 2023-2027, en curso
-- Qué se hizo: En agosto de 2026 había 92.525 pacientes en la lista de espera quirúrgica estructural de Madrid, con una demora media de 71,88 días; el 30,77% esperaba entre 90 y 180 días y el 2,27%, más de 180. No se ha encontrado una norma nueva que fije esos tiempos máximos. Con el criterio del Ministerio de Sanidad, Madrid tenía en 2025 la espera media para operarse más baja de España: 50 días, frente a 122 de media nacional.
-- Veredicto: En curso. Madrid es la comunidad con menos espera quirúrgica, pero un tercio de los pacientes espera más de 90 días, el máximo prometido para los procesos más comunes. La legislatura termina en 2027.
+- Qué se hizo: En agosto de 2026 había 92.525 pacientes en la lista de espera quirúrgica estructural de Madrid, con una demora media de 71,88 días; el 30,77% esperaba entre 90 y 180 días y el 2,27%, más de 180. No se ha encontrado una norma nueva que fije esos tiempos máximos. Con el criterio del Ministerio de Sanidad, a 31 de diciembre de 2025 Madrid tenía la espera media para operarse más baja de España: 50 días, frente a 122 de media nacional; en cataratas, 41 días de media, y en prótesis de cadera, 55.
+- Veredicto: En curso. En cataratas y prótesis de cadera la espera media ya está por debajo de los 60 días prometidos; pero es una media, y la promesa era un tiempo máximo. Los datos de la Comunidad (agosto de 2026) y los del Ministerio (diciembre de 2025) usan fechas y criterios distintos y no se suman. Para los «25 procedimientos más comunes» no se ha encontrado un dato publicado. La legislatura termina en 2027.
 - Fuentes:
   - [PP de Madrid: programa electoral de 2023, p. 72](https://www.yoconayuso.es/assets/front/download/PE_2023_completo.pdf)
   - [Comunidad de Madrid: indicadores de lista de espera quirúrgica (agosto de 2026)](https://www.comunidad.madrid/salud/lista-espera-quirurgica)
   - [Ministerio de Sanidad: Sistema de Información de Listas de Espera del SNS](https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/listaEspera.htm)
+  - [Ministerio de Sanidad: listas de espera a 31 de diciembre de 2025 (pp. 8 y 13)](https://www.sanidad.gob.es/estadEstudios/estadisticas/inforRecopilaciones/docs/LISTAS_PUBLICACION_Dic_2025_rectificado.pdf)
 
 ### PP · Madrid · Educación: PP, autonómicas de mayo de 2023 («14 retos para Madrid»)
 - Promesa: Construir 13 centros educativos públicos nuevos, terminar los 20 en marcha y ampliar otros 10 (medida 3.4, p. 30; las tres primeras son declaraciones).
@@ -11256,7 +11382,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Institut Valencià de Finances: más de 2.000 jóvenes avalados (8-nov-2025)](https://www.ivf.gva.es/en/inicio/-/asset_publisher/UJ1VvxNBuSiv/content/la-generalitat-avala-a-mas-de-dos-mil-jovenes-de-la-comunitat-valenciana-para-la-compra-de-su-primera-vivienda)
 
 ### PP · Comunitat Valenciana · Sanidad: PP, autonómicas de mayo de 2023 («Programa de Gobierno 2023-2027»)
-- Promesa: Aprobar en los 100 primeros días de gobierno un nuevo Plan Autonómico de Salud Mental y Adicciones (primera medida de las «Propuestas para el cambio» del capítulo de sanidad, p. 88).
+- Promesa: Aprobar en los 100 primeros días de gobierno un nuevo Plan Autonómico de Salud Mental y Adicciones (primera medida de las «Propuestas para el cambio» del capítulo de sanidad, p. 88). Los compromisos anteriores (pp. 85-88) cuelgan del apartado «Nuestros valores estratégicos en salud», y los apartados de valores no se usan en ningún programa.
 - Cita: «Dentro de los 100 primeros días de gobierno, aprobaremos un nuevo Plan Autonómico de Salud Mental y Adicciones»
 - Quién gobernaba: PP, con Vox en el Consell entre 2023 y 2024. Legislatura 2023-2027, en curso
 - Qué se hizo: El Consell aprobó el Plan Valenciano de Salud Mental y Adicciones 2024-2027 por acuerdo de 23 de julio de 2024, más de un año después de las elecciones del 28 de mayo de 2023.
@@ -11270,7 +11396,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cita: «Gratuidad universal de 0-3 años. Para todas las familias.»
 - Quién gobernaba: PP, con Vox en el Consell entre 2023 y 2024. Legislatura 2023-2027, en curso
 - Qué se hizo: La Generalitat destinó 162.981.085 euros a la gratuidad de 0 a 3 años en el curso 2024-2025, frente a 87,5 millones en 2023, y anunció que la etapa sería «universal y gratuita». Se articula con ayudas mensuales por alumno de hasta 460 euros (0-1 años), 350 (1-2) y 300 (2-3) en los centros autorizados y las escuelas municipales.
-- Veredicto: Cumplida. Se aplicó desde el curso 2024-2025. Se hace mediante ayudas con un tope por alumno; si cubren todo el coste depende de lo que cobre cada centro.
+- Veredicto: En curso. Se aplica desde el curso 2024-2025 mediante ayudas con un tope por alumno; no se ha encontrado una fuente oficial que diga que las familias no pagan nada, que es lo que prometía el programa («para todas las familias»). La legislatura termina en 2027.
 - Fuentes:
   - [PP de la Comunitat Valenciana: programa de 2023, p. 30 (copia publicada por Las Provincias)](https://s3.ppllstatics.com/lasprovincias/www/multimedia/2023/05/26/programa-ppcv.pdf)
   - [Generalitat Valenciana: 162 millones para la gratuidad de 0-3 años en el curso 2024-2025 (18-jun-2024)](https://comunica.gva.es/es/detalle?id=384065939&site=373430869)
@@ -11286,7 +11412,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Generalitat Valenciana: beneficios fiscales de 2025](https://hisenda.gva.es/es/web/tributos/beneficis-fiscals-2025)
 
 ### PP · Comunitat Valenciana · Impuestos: PP, autonómicas de mayo de 2023 («Programa de Gobierno 2023-2027»)
-- Promesa: Cambiar la escala autonómica del IRPF para beneficiar a todas las rentas, en especial a las bajas y medias, con un primer tipo del 8,75% (medidas 1.1 y 1.2 del capítulo de fiscalidad, p. 6).
+- Promesa: Cambiar la escala autonómica del IRPF para beneficiar a todas las rentas, en especial a las bajas y medias, con un primer tipo del 8,75% (medidas 1.1 y 1.2 del capítulo de fiscalidad, p. 6, las primeras numeradas). La introducción del capítulo anuncia también una rebaja de Transmisiones Patrimoniales; como en el resto de programas, la prosa de introducción no se usa.
 - Cita: «Modificaremos la escala del impuesto para beneficiar a todas las rentas, de forma especial las rentas bajas y medias»
 - Quién gobernaba: PP, con Vox en el Consell entre 2023 y 2024. Legislatura 2023-2027, en curso
 - Qué se hizo: En junio de 2026 el Consell aprobó el anteproyecto de ley de medidas fiscales, que baja los tipos autonómicos entre 0,2 y 0,6 puntos, sin cambios para las rentas de más de 150.000 euros, con efectos en el ejercicio 2026. Según la Generalitat, beneficiaría a unos 2,7 millones de contribuyentes con un ahorro de 160 millones; el 72% de los beneficiarios tiene rentas inferiores a 30.000 euros y el 87,3% del ahorro va a rentas inferiores a 80.000.
@@ -11296,19 +11422,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Generalitat Valenciana: anteproyecto de ley de medidas fiscales con rebaja del IRPF (jun-2026)](https://comunica.gva.es/es/detalle?id=411278994&site=401570103)
 
 ### Vox · Castilla y León · Vivienda: Acuerdo de legislatura PP-Vox (10 de marzo de 2022)
-- Promesa: El acuerdo solo dice que se facilitará el acceso a la vivienda, con atención a los jóvenes y al mundo rural (acción 18), sin ninguna medida concreta ni meta que se pueda medir.
-- Cita: «Facilitaremos el acceso en condiciones de igualdad a una vivienda, con especial atención a los jóvenes y al mundo rural»
-- Quién gobernaba: Coalición PP-Vox desde 2022; Vox salió del Gobierno el 11 de julio de 2024
-- Qué se hizo: No hay una promesa comprobable que evaluar.
-- Veredicto: Sin promesa. Es una declaración de intenciones, no una medida. Con el mismo criterio, declaraciones así tampoco se han evaluado en los demás programas.
+- Promesa: Ofrecer asesoramiento gratuito a las víctimas de la ocupación de viviendas (acción 18, la única sobre vivienda; su primera frase, facilitar el acceso a la vivienda, es una declaración).
+- Cita: «Defenderemos la propiedad privada, combatiendo especialmente el fenómeno delictivo de la ocupación, y ofreciendo asesoramiento gratuito a las víctimas de este hecho»
+- Quién gobernaba: Coalición PP-Vox desde 2022; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en junio de 2026 con un nuevo acuerdo, que aquí no se evalúa
+- Qué se hizo: En junio de 2023, con Vox en el Gobierno, empezaron a funcionar nueve oficinas de información antiocupación, una por provincia, gracias a un convenio de la Consejería de Medio Ambiente, Vivienda y Ordenación del Territorio con las Cámaras de la Propiedad Urbana. Dan información y asesoramiento sobre prevención y actuación ante ocupaciones ilegales.
+- Veredicto: A medias. El servicio de asesoramiento se creó con Vox en el Gobierno, pero las fuentes oficiales no dicen que sea gratuito, que es lo que prometía el acuerdo.
 - Fuentes:
   - [PP de Castilla y León: acuerdo de legislatura PP-Vox, acción 18](https://www.ppcyl.es/wp-content/uploads/2022/03/Programa-XI-Legislatura.-10-de-marzo-de-2022-1.pdf)
+  - [Junta de Castilla y León: inician su andadura las oficinas de información antiocupación (8-jun-2023)](https://comunicacion.jcyl.es/web/jcyl/Comunicacion/es/Plantilla100Detalle/1281372051501/NotaPrensa/1285286702324/Comunicacion)
 
 ### Vox · Castilla y León · Sanidad: Acuerdo de legislatura PP-Vox (10 de marzo de 2022)
 - Promesa: Reforzar las inversiones y los presupuestos de la sanidad pública, sobre todo en atención primaria (acción 9).
 - Cita: «Garantizaremos la sanidad pública, reforzando las inversiones y los presupuestos, fundamentalmente en atención primaria»
-- Quién gobernaba: Coalición PP-Vox desde 2022; Vox salió del Gobierno el 11 de julio de 2024
-- Qué se hizo: El presupuesto de 2023 dio a la atención primaria 1.538.336.277 euros, un 8,38% más que en 2021 (un 20,49% más sin contar la receta farmacéutica). El de la Consejería de Sanidad subió un 8,9%, hasta 4.753 millones.
+- Quién gobernaba: Coalición PP-Vox desde 2022; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en junio de 2026 con un nuevo acuerdo, que aquí no se evalúa
+- Qué se hizo: Según la presentación del proyecto de presupuesto de 2023, la atención primaria tenía 1.538.336.277 euros, un incremento del 8,38% (del 20,49% sin contar la receta farmacéutica), y la Consejería de Sanidad 4.753 millones, un 8,9% más que en 2021. El presupuesto se aprobó como Ley 3/2022.
 - Veredicto: Cumplida. El presupuesto de 2023, aprobado con Vox en el Gobierno, subió la dotación de atención primaria respecto a 2021.
 - Fuentes:
   - [PP de Castilla y León: acuerdo de legislatura PP-Vox, acción 9](https://www.ppcyl.es/wp-content/uploads/2022/03/Programa-XI-Legislatura.-10-de-marzo-de-2022-1.pdf)
@@ -11318,16 +11445,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Castilla y León · Educación: Acuerdo de legislatura PP-Vox (10 de marzo de 2022)
 - Promesa: Educación gratuita de 0 a 3 años (acción 17; la 14 y la 16 son declaraciones y la 15 es una exigencia al Gobierno central, no una medida propia).
 - Cita: «Garantizaremos la gratuidad en la enseñanza de cero a tres años»
-- Quién gobernaba: Coalición PP-Vox desde 2022; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2022; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en junio de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: La gratuidad se implantó por fases: de 2 a 3 años en el curso 2022-2023 y de 1 a 2 años en el 2023-2024, con unos 16.000 niños. En enero de 2024 la Junta abrió el proceso para incorporar a los de 0 a 1 año en el curso 2024-2025.
-- Veredicto: Cumplida. Dos de las tres fases se aplicaron con Vox en el Gobierno, y la tercera se aprobó con Vox dentro y se aplicó en septiembre de 2024, cuando ya había salido.
+- Veredicto: A medias. Dos de las tres fases (de 1 a 3 años) se aplicaron con Vox en el Gobierno. La de 0 a 1 año se preparó con Vox dentro, pero empezó a aplicarse en septiembre de 2024, cuando ya había salido; como solo cuenta lo hecho mientras estuvo en el Gobierno, queda a medias.
 - Fuentes:
   - [PP de Castilla y León: acuerdo de legislatura PP-Vox, acción 17](https://www.ppcyl.es/wp-content/uploads/2022/03/Programa-XI-Legislatura.-10-de-marzo-de-2022-1.pdf)
   - [Junta de Castilla y León: proceso para completar la gratuidad de 0 a 3 años (11-ene-2024)](https://comunicacion.jcyl.es/web/jcyl/Comunicacion/es/Plantilla100Detalle/1284721258504/NotaPrensa/1285349721842/Comunicacion)
 
 ### Vox · Castilla y León · Pensiones y dependencia: Acuerdo de legislatura PP-Vox (10 de marzo de 2022)
 - Promesa: El acuerdo no incluye ninguna acción sobre pensiones, mayores ni dependencia.
-- Quién gobernaba: Coalición PP-Vox desde 2022; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2022; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en junio de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: No hay promesa que evaluar.
 - Veredicto: Sin promesa. Las acciones 11 y 12 hablan de políticas sociales y de apoyo a las familias en términos generales.
 - Fuentes:
@@ -11336,7 +11463,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Castilla y León · Impuestos: Acuerdo de legislatura PP-Vox (10 de marzo de 2022)
 - Promesa: Ayudas directas e incentivos fiscales progresivos para la natalidad (acción 13; las referencias anteriores a rebajar impuestos son generales).
 - Cita: «Apoyaremos la natalidad mediante ayudas directas e incentivos fiscales progresivos»
-- Quién gobernaba: Coalición PP-Vox desde 2022; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2022; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en junio de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: La Orden FAM/1972/2022 creó el Bono Nacimiento, con 20 millones para los nacidos o adoptados en 2023: 1.500, 2.000 o 2.500 euros por hijo para rentas de hasta 40.000 euros, y 500 euros menos en cada tramo de renta superior. No se ha encontrado un nuevo incentivo fiscal por natalidad en esos años.
 - Veredicto: A medias. Se aprobaron las ayudas directas, que dan más a las rentas más bajas. Los incentivos fiscales nuevos no se han podido comprobar.
 - Fuentes:
@@ -11345,20 +11472,21 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Junta de Castilla y León: 20 millones para el Bono Nacimiento de 2023](https://comunicacion.jcyl.es/web/jcyl/Comunicacion/es/Plantilla100Detalle/1284721258115/NotaPrensa/1285241887132/Comunicacion)
 
 ### Vox · Comunitat Valenciana · Vivienda: Acuerdo de gobierno PP-Vox (junio de 2023)
-- Promesa: Aumentar el parque de vivienda, bajar la presión fiscal y facilitar el acceso de jóvenes y familias (medida 42, la primera sobre vivienda).
+- Promesa: Aumentar el parque de vivienda, bajar la presión fiscal y facilitar el acceso de jóvenes y familias; entre otras medidas, la Generalitat avalará hasta el 20% del coste de la primera vivienda de los jóvenes (medida 42, la primera sobre vivienda).
 - Cita: «Aumentaremos el parque de vivienda, reduciremos la presión fiscal y facilitaremos el acceso a jóvenes y familias a una vivienda»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Consell el 11 de julio de 2024
-- Qué se hizo: El 2 de abril de 2024, con Vox en el Consell, la Generalitat presentó el Plan Vive: 10.000 viviendas en la legislatura mediante suelo público y colaboración público-privada. En septiembre de 2025, ya sin Vox, había 2.212 viviendas de protección pública en proceso de adjudicación en la provincia de Alicante.
-- Veredicto: A medias. El plan se aprobó mientras Vox estaba en el Gobierno, pero las viviendas empezaron a adjudicarse después de su salida. No hay un dato oficial del aumento del parque entre 2023 y julio de 2024.
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida del Consell el 11 de julio de 2024
+- Qué se hizo: El 25 de junio de 2024, con Vox en el Consell, la Generalitat presentó un programa de avales del Instituto Valenciano de Finanzas para jóvenes de 18 a 45 años que compran su primera vivienda: 20 millones de euros para préstamos de hasta el 95% del precio. El 2 de abril de 2024 había presentado el Plan Vive: 10.000 viviendas en la legislatura mediante suelo público y colaboración público-privada. En septiembre de 2025, ya sin Vox, había 2.212 viviendas de protección pública en proceso de adjudicación en la provincia de Alicante.
+- Veredicto: A medias. Los avales para jóvenes y el plan de vivienda se aprobaron mientras Vox estaba en el Gobierno, pero las viviendas del plan empezaron a adjudicarse después de su salida. No hay un dato oficial del aumento del parque entre 2023 y julio de 2024.
 - Fuentes:
   - [PP y Vox: acuerdo de gobierno de la Comunitat Valenciana, medida 42 (copia publicada por Valencia Plaza)](https://media.valenciaplaza.com/public/Attachment/2023/6/ACUERDOCONJUNTOPP-VOX.pdf)
+  - [Generalitat Valenciana: avales del IVF para la primera vivienda de los jóvenes (25-jun-2024)](https://comunica.gva.es/es/detalle?id=384272574&site=373409432)
   - [Generalitat Valenciana: presentación del Plan Vive (2-abr-2024)](https://comunica.gva.es/es/detalle?id=380937791&site=373409432)
   - [Generalitat Valenciana: 2.212 viviendas en adjudicación en Alicante (19-sep-2025)](https://comunica.gva.es/es/detalle?id=396501699&site=373431293)
 
 ### Vox · Comunitat Valenciana · Sanidad: Acuerdo de gobierno PP-Vox (junio de 2023)
 - Promesa: Llevar el presupuesto sanitario al 30% del total, con especial atención a la atención primaria (medida 33, la primera sobre sanidad).
 - Cita: «Aumentaremos el presupuesto sanitario al 30% del total con especial mención a la atención primaria»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Consell el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida del Consell el 11 de julio de 2024
 - Qué se hizo: El presupuesto de 2024 dio 8.504 millones a la Conselleria de Sanidad. El presupuesto total era de 29.732 millones y el gasto no financiero, de 22.670 millones. Según la Generalitat, el gasto en sanidad equivale al 37% del presupuesto no financiero.
 - Veredicto: A medias. Depende de con qué se compare: sobre el gasto no financiero, que es la base que usa la Generalitat, supera el 30%; sobre el presupuesto total, que es lo que dice el acuerdo, queda por debajo. No se ha comprobado la parte de atención primaria.
 - Fuentes:
@@ -11369,7 +11497,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Comunitat Valenciana · Educación: Acuerdo de gobierno PP-Vox (junio de 2023)
 - Promesa: Libertad de elección de centro y de lengua de enseñanza entre las dos oficiales en todas las etapas (medida 27, la primera sobre educación).
 - Cita: «Garantizaremos la libertad de educación, la libre elección de centro y la libre elección de la lengua de enseñanza entre las dos oficiales»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Consell el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida del Consell el 11 de julio de 2024
 - Qué se hizo: Les Corts aprobaron la Ley 1/2024, de 27 de junio, por la que se regula la libertad educativa, con Vox todavía en el Gobierno.
 - Veredicto: Cumplida. La ley se aprobó dos semanas antes de que Vox saliera del Consell. Más abajo en el acuerdo (medida 32) también se prometía la educación gratuita desde los 0 años, que la Generalitat aplicó desde el curso 2024-2025.
 - Fuentes:
@@ -11377,17 +11505,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 1/2024, de 27 de junio, de libertad educativa](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-16511)
 
 ### Vox · Comunitat Valenciana · Pensiones y dependencia: Acuerdo de gobierno PP-Vox (junio de 2023)
-- Promesa: El acuerdo no incluye ninguna medida sobre pensiones, mayores ni dependencia; la medida 40 habla en general de revisar las ayudas sociales.
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Consell el 11 de julio de 2024
+- Promesa: El acuerdo no incluye ninguna medida propia sobre pensiones, mayores ni dependencia; la medida 39 menciona a los mayores y a las personas dependientes dentro de una futura ley de protección a la familia.
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida del Consell el 11 de julio de 2024
 - Qué se hizo: No hay promesa que evaluar.
-- Veredicto: Sin promesa. Las medidas sociales del acuerdo (39 a 41) se refieren a familia, natalidad y conciliación.
+- Veredicto: Sin promesa. La ley que anuncia la medida 39 es de protección a la familia; se trata igual que en el acuerdo de Extremadura, que tiene la misma redacción.
 - Fuentes:
   - [PP y Vox: acuerdo de gobierno de la Comunitat Valenciana (copia publicada por Valencia Plaza)](https://media.valenciaplaza.com/public/Attachment/2023/6/ACUERDOCONJUNTOPP-VOX.pdf)
 
 ### Vox · Comunitat Valenciana · Impuestos: Acuerdo de gobierno PP-Vox (junio de 2023)
 - Promesa: Eliminar los impuestos de Sucesiones y Donaciones y de Patrimonio (medida 9, la primera sobre impuestos).
 - Cita: «Eliminaremos el impuesto de sucesiones y donaciones, así como el impuesto de patrimonio»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Consell el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida del Consell el 11 de julio de 2024
 - Qué se hizo: La Ley 6/2023, de 22 de noviembre, estableció una bonificación del 99% en Sucesiones y Donaciones entre padres, hijos y cónyuges. El Impuesto sobre el Patrimonio no se eliminó: en 2025 el mínimo exento era de 1.000.000 de euros, y la Ley 5/2026 lo subió a 2.000.000, ya sin Vox en el Gobierno.
 - Veredicto: A medias. Se cumplió en Sucesiones para la familia directa, mientras Vox estaba en el Gobierno. Patrimonio se mantiene, aunque se ha subido el mínimo exento después.
 - Fuentes:
@@ -11399,7 +11527,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Aragón · Vivienda: Acuerdo PP-Vox para la gobernabilidad de Aragón (agosto de 2023)
 - Promesa: Impulsar la construcción de vivienda protegida, en propiedad y en alquiler, con atención a los jóvenes y a la población vulnerable (segunda medida del apartado 9; la primera fija objetivos generales de rehabilitación).
 - Cita: «Impulsar la construcción de vivienda protegida para mejorar las condiciones de acceso tanto en propiedad como en alquiler»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno el 4 de mayo de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: La Orden FOM/699/2024, de 18 de junio, aprobó las bases del Plan de Fomento de Vivienda Protegida, con ayudas a los promotores y a los compradores. Según el Ministerio de Vivienda, en Aragón se terminaron 222 viviendas protegidas en 2023 y 211 en 2024.
 - Veredicto: A medias. La orden del plan se firmó tres semanas antes de que Vox saliera del Gobierno. Las viviendas terminadas en 2023 y 2024 se habían empezado antes, así que todavía no reflejan el plan.
 - Fuentes:
@@ -11410,7 +11538,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Aragón · Sanidad: Acuerdo PP-Vox para la gobernabilidad de Aragón (agosto de 2023)
 - Promesa: Revisar el sistema de retribuciones del personal sanitario para acabar con la precariedad salarial y las guardias mal pagadas (primera medida del apartado 1).
 - Cita: «Revisar el sistema de retribuciones del personal sanitario para acabar con la precariedad salarial, los complementos salariales injustos y las guardias mal cotizadas»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno el 4 de mayo de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: Según las tablas retributivas oficiales del Servicio Aragonés de Salud, la hora de guardia de presencia física pasó de 27,10 euros en 2023 a 27,64 euros en 2024 en día laborable. No consta una revisión del sistema de retribuciones en ese periodo.
 - Veredicto: No cumplida. Las tablas subieron con la actualización anual, pero no se ha encontrado la revisión del sistema que prometía el acuerdo mientras Vox estuvo en el Gobierno.
 - Fuentes:
@@ -11421,7 +11549,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Aragón · Educación: Acuerdo PP-Vox para la gobernabilidad de Aragón (agosto de 2023)
 - Promesa: Crear el «cheque escolar» (segunda medida del apartado 2; la primera es la declaración de libertad de elección de centro).
 - Cita: «Crearemos el ‘Cheque escolar’»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno el 4 de mayo de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: No se ha encontrado ninguna norma, convocatoria ni nota del Gobierno de Aragón que cree el cheque escolar.
 - Veredicto: No cumplida. No consta que se pusiera en marcha. Si aparece una norma que lo cree, se corregirá.
 - Fuentes:
@@ -11429,7 +11557,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Vox · Aragón · Pensiones y dependencia: Acuerdo PP-Vox para la gobernabilidad de Aragón (agosto de 2023)
 - Promesa: El acuerdo no incluye ninguna medida sobre pensiones, mayores ni dependencia.
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno el 4 de mayo de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: No hay promesa que evaluar.
 - Veredicto: Sin promesa. El apartado de sanidad incluye un plan de choque de geriatría, que es una medida sanitaria.
 - Fuentes:
@@ -11438,7 +11566,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Aragón · Impuestos: Acuerdo PP-Vox para la gobernabilidad de Aragón (agosto de 2023)
 - Promesa: Bajar medio punto los cinco primeros tramos del IRPF autonómico, hasta 50.000 euros (primera medida del apartado 4, política fiscal).
 - Cita: «Rebajaremos medio punto los cinco primeros tramos del IRPF (hasta los 50.000 euros)»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno el 4 de mayo de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: La Ley 17/2023, de presupuestos para 2024, cambió la escala autonómica del IRPF: mantuvo los mismos tipos que en 2022 (9,5%, 12%, 15%, 18,5%, 20,5% y siguientes) y amplió los primeros tramos; por ejemplo, el primero pasó de 12.450 a 13.072,50 euros y el cuarto termina en 52.500 euros en lugar de 50.000. La misma ley creó una deducción del 25% por clases de apoyo de los hijos para rentas bajas y familias numerosas.
 - Veredicto: No cumplida. No se bajó medio punto ningún tipo: se ensancharon los primeros tramos, lo que también reduce lo que se paga, pero no es la medida prometida.
 - Fuentes:
@@ -11450,7 +11578,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Extremadura · Vivienda: Acuerdo PP-Vox para la gobernabilidad de Extremadura (junio de 2023)
 - Promesa: Aumentar el parque de vivienda, bajar la presión fiscal y facilitar el acceso de jóvenes y familias; entre otras medidas, la Junta avalará parte del coste de la primera vivienda de los jóvenes (medida 45, la primera sobre vivienda).
 - Cita: «Aumentaremos el parque de vivienda, reduciremos la presión fiscal y facilitaremos el acceso a jóvenes y familias a una vivienda»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en abril de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: El 19 de junio de 2024, con Vox en el Gobierno, la Junta y nueve entidades financieras pusieron en marcha el Aval Vivienda Joven: para menores de 35 años, la Junta avala el 15% del precio para financiar hasta el 95% de la primera vivienda, con 3 millones de euros y un mínimo previsto de 200 beneficiarios. No se ha encontrado un dato oficial sobre el aumento del parque de vivienda en ese periodo.
 - Veredicto: A medias. El aval que concretaba la medida se aprobó; el aumento del parque de vivienda no se ha podido comprobar.
 - Fuentes:
@@ -11460,7 +11588,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Extremadura · Sanidad: Acuerdo PP-Vox para la gobernabilidad de Extremadura (junio de 2023)
 - Promesa: Un plan sanitario que asegure una atención ágil en todo el territorio y ofrezca incentivos para cubrir las plazas de difícil cobertura, sobre todo en zonas rurales (medida 38; la 37 es una declaración).
 - Cita: «Elaboraremos un plan sanitario que asegure una atención ágil y de calidad en todo el territorio y ofrezca incentivos para cubrir las plazas de difícil cobertura»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en abril de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: La Resolución de 16 de mayo de 2024 de la Dirección Gerencia del Servicio Extremeño de Salud fijó directrices para la fidelización y captación de especialistas, con complementos para las plazas de unidades clínicas deficitarias (500 euros al mes para el grupo A1 y 280 para el A2) y para quienes cubren otra plaza además de la suya. No se ha encontrado un plan sanitario general como el que describe la medida.
 - Veredicto: A medias. Los incentivos para las plazas difíciles se aprobaron con Vox en el Gobierno; el plan sanitario general no se ha encontrado.
 - Fuentes:
@@ -11470,16 +11598,16 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Extremadura · Educación: Acuerdo PP-Vox para la gobernabilidad de Extremadura (junio de 2023)
 - Promesa: Aprobar un plan para dignificar la labor del docente (medida 33; la 32, garantizar la libre elección de centro y la neutralidad, es una declaración, igual que en el acuerdo de Aragón).
 - Cita: «Aprobaremos un plan para dignificar la labor del docente»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
-- Qué se hizo: No se ha encontrado ningún plan de ese tipo aprobado mientras Vox estuvo en el Gobierno. El 18 de septiembre de 2026, ya sin Vox, la Junta firmó con PIDE, CSIF, AMPE y UGT el Plan Horizonte +, con una subida de 210 euros brutos al mes para los docentes entre 2027 y 2030; CCOO no lo firmó.
-- Veredicto: No cumplida. No consta que se aprobara con Vox en el Gobierno. El plan de 2026 llegó dos años después de su salida y no se le atribuye. Si aparece un plan anterior, se corregirá.
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en abril de 2026 con un nuevo acuerdo, que aquí no se evalúa
+- Qué se hizo: No se ha encontrado ningún plan de ese tipo aprobado mientras Vox estuvo en el Gobierno. El 18 de septiembre de 2026, con el nuevo Gobierno PP-Vox formado en abril de 2026, la Junta firmó con PIDE, CSIF, AMPE y UGT el Plan Horizonte +, con una subida de 210 euros brutos al mes para los docentes entre 2027 y 2030; CCOO no lo firmó.
+- Veredicto: No cumplida. No consta que se aprobara mientras duró el acuerdo de 2023 (hasta julio de 2024). El plan de 2026 se firmó con otro acuerdo de gobierno PP-Vox, que aquí no se evalúa. Si aparece un plan anterior, se corregirá.
 - Fuentes:
   - [PP y Vox: acuerdo para la gobernabilidad de Extremadura, medida 33 (copia publicada por elDiario.es)](https://static.eldiario.es/eldiario/public/content/file/original/2023/0630/12/230630-acuerdo-pp-vox-extremadura-pdf.pdf)
   - [Radio Interior: Extremadura acuerda una subida de 210 euros al mes para los docentes hasta 2030 (18-sep-2026)](https://www.radiointerior.es/texto-diario/mostrar/6020407/extremadura-acuerda-subida-salarial-210-euros-mes-docentes-hasta-2030)
 
 ### Vox · Extremadura · Pensiones y dependencia: Acuerdo PP-Vox para la gobernabilidad de Extremadura (junio de 2023)
 - Promesa: El acuerdo no incluye ninguna medida propia sobre pensiones, mayores ni dependencia; la medida 42 menciona a los mayores y a las personas dependientes dentro de una futura ley de protección a la familia.
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en abril de 2026 con un nuevo acuerdo, que aquí no se evalúa
 - Qué se hizo: No hay promesa que evaluar.
 - Veredicto: Sin promesa. Se trata igual que en el acuerdo de la Comunitat Valenciana, que tiene la misma redacción.
 - Fuentes:
@@ -11488,9 +11616,9 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Extremadura · Impuestos: Acuerdo PP-Vox para la gobernabilidad de Extremadura (junio de 2023)
 - Promesa: Una rebaja integral de impuestos en los cien primeros días: bajar Transmisiones Patrimoniales y Matriculación, suprimir al 100% Patrimonio y eliminar Sucesiones y Donaciones para la mayoría de contribuyentes (medida 2; la 1 es una declaración).
 - Cita: «Reduciremos el Impuesto sobre Transmisiones Patrimoniales y el Impuesto de Matriculación. Asimismo, suprimiremos al 100% el Impuesto sobre el Patrimonio y eliminaremos el Impuesto sobre Sucesiones y Donaciones para la mayoría de contribuyentes»
-- Quién gobernaba: Coalición PP-Vox desde 2023; Vox salió del Gobierno el 11 de julio de 2024
-- Qué se hizo: El Decreto-ley 4/2023, de 12 de septiembre, rebajó el IRPF, Transmisiones Patrimoniales y Matriculación y aprobó una bonificación del 100% en Patrimonio; también derogó, antes de que entrara en vigor, el impuesto sobre viviendas vacías de grandes tenedores. La Ley 1/2024, de Presupuestos para 2024, subió hasta 500.000 euros la reducción en Sucesiones para hijos, padres y cónyuges, lo que según su preámbulo supone que «la mayoría de las herencias» no tributen.
-- Veredicto: Cumplida. Las rebajas se aprobaron por decreto-ley dentro de los cien días y la de Sucesiones, en los presupuestos de 2024, con Vox en el Gobierno. Patrimonio no se suprime: se bonifica al 100%. La Junta no publica a cuántos contribuyentes beneficia cada rebaja.
+- Quién gobernaba: Coalición PP-Vox desde 2023; Vox anunció su salida el 11 de julio de 2024. Volvió al Gobierno en abril de 2026 con un nuevo acuerdo, que aquí no se evalúa
+- Qué se hizo: El Decreto-ley 4/2023, de 12 de septiembre, aprobó una bonificación del 100% en Patrimonio, rebajó el IRPF (el tipo del 12,5% para bases de hasta 20.200 euros pasó al 10%) y dejó de aplicar el tipo autonómico del impuesto de Matriculación; también derogó, antes de que entrara en vigor, el impuesto sobre viviendas vacías de grandes tenedores. En Transmisiones Patrimoniales solo mantuvo para 2024 un tipo reducido de Actos Jurídicos Documentados que ya existía. La Ley 1/2024, de Presupuestos para 2024, subió hasta 500.000 euros la reducción en Sucesiones para hijos, padres y cónyuges, lo que según su preámbulo supone que «la mayoría de las herencias» no tributen.
+- Veredicto: A medias. Patrimonio (bonificado al 100%, no suprimido), Matriculación y Sucesiones se cumplieron con Vox en el Gobierno, dentro de los cien días salvo Sucesiones, que fue en los presupuestos de 2024. La rebaja de Transmisiones Patrimoniales no se ha encontrado. La Junta no publica a cuántos contribuyentes beneficia cada rebaja.
 - Fuentes:
   - [PP y Vox: acuerdo para la gobernabilidad de Extremadura, medida 2 (copia publicada por elDiario.es)](https://static.eldiario.es/eldiario/public/content/file/original/2023/0630/12/230630-acuerdo-pp-vox-extremadura-pdf.pdf)
   - [BOE: Decreto-ley 4/2023, de 12 de septiembre, de Extremadura](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2023-21669)
@@ -11499,7 +11627,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Murcia · Vivienda: Acuerdo de gobierno PP-Vox en la Región de Murcia (septiembre de 2023)
 - Promesa: Políticas que aumenten la oferta de vivienda nueva y rehabilitada, con exenciones fiscales y ayudas para que compren vivienda los jóvenes y las familias numerosas (medida 10, la primera sobre vivienda).
 - Cita: «Pondremos en marcha políticas de vivienda que fomenten el aumento de la oferta tanto de nuevas viviendas como de rehabilitación del parque existente promoviendo exenciones fiscales y ayudas para la adquisición de vivienda por parte de jóvenes y familias numerosas»
-- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox anunció su salida del Gobierno el 11 de julio de 2024
 - Qué se hizo: La Ley 4/2023, de Presupuestos para 2024, aprobada con Vox en el Gobierno, subió de 35 a 40 años la edad para aplicar las deducciones del IRPF y los tipos reducidos de Transmisiones Patrimoniales por compra o alquiler de vivienda habitual de jóvenes, y subió del 10% al 15% la deducción por compra de vivienda nueva de las familias numerosas de categoría especial. No se ha encontrado un dato oficial sobre el aumento de la oferta de vivienda en ese periodo.
 - Veredicto: A medias. Se aprobaron las ventajas fiscales para jóvenes y familias numerosas; el aumento de la oferta no se ha podido comprobar.
 - Fuentes:
@@ -11509,7 +11637,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Murcia · Sanidad: Acuerdo de gobierno PP-Vox en la Región de Murcia (septiembre de 2023)
 - Promesa: Reducir las listas de espera quirúrgicas, de consultas externas y de pruebas diagnósticas, y las demoras en atención primaria (medida 17; su primera frase es una declaración).
 - Cita: «Reduciremos las listas de espera quirúrgicas, en consultas externas y en pruebas diagnósticas así como las demoras en Atención Primaria»
-- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox anunció su salida del Gobierno el 11 de julio de 2024
 - Qué se hizo: Según el Ministerio de Sanidad, la lista de espera quirúrgica de Murcia pasó de 33.062 pacientes y 88 días de media (30 de junio de 2023) a 34.247 pacientes y 92 días (30 de junio de 2024). En consultas externas, la tasa bajó de 74,74 a 71,78 pacientes por cada 1.000 habitantes y la espera media, de 95 a 86 días. El Ministerio no publica por comunidades las pruebas diagnósticas ni las demoras de atención primaria.
 - Veredicto: A medias. Se comparan dos meses de junio para evitar el efecto de la época del año. Con Vox en el Gobierno bajó la espera de consultas, pero subió la quirúrgica. Murcia estaba en junio de 2024 por debajo de la media nacional en días de espera quirúrgica (92 frente a 121).
 - Fuentes:
@@ -11520,7 +11648,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Murcia · Educación: Acuerdo de gobierno PP-Vox en la Región de Murcia (septiembre de 2023)
 - Promesa: Implantar de forma progresiva la educación gratuita de 0 a 3 años (medida 12; la 11, garantizar la libre elección de centro, es una declaración, igual que en Aragón y Extremadura).
 - Cita: «Implantaremos de manera progresiva la gratuidad de la educación de 0 a 3 años»
-- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox anunció su salida del Gobierno el 11 de julio de 2024
 - Qué se hizo: La Ley 4/2023, de Presupuestos para 2024, dejó de cobrar en 2024 los precios públicos de las escuelas infantiles de la Comunidad. Según la Comunidad, las plazas gratuitas de 0 a 3 años pasaron de 600 a más de 8.700 «en sólo tres cursos», hasta el 2025-2026.
 - Veredicto: A medias. La implantación avanzó con Vox en el Gobierno y siguió después, pero son plazas concretas: no hay gratuidad para todos los niños de 0 a 3 años. La Comunidad no desglosa cuántas plazas se crearon entre septiembre de 2023 y julio de 2024.
 - Fuentes:
@@ -11531,9 +11659,9 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Murcia · Pensiones y dependencia: Acuerdo de gobierno PP-Vox en la Región de Murcia (septiembre de 2023)
 - Promesa: Apoyar a los mayores con programas contra la soledad, más plazas residenciales, ocio, protección frente a estafas y ayudas al transporte o al alquiler (medida 9; lo comprobable es el aumento de plazas residenciales).
 - Cita: «Apoyar a los mayores será un eje fundamental de la política social del Gobierno de la Región de Murcia, con programas para combatir la soledad no deseada, aumentando el número de plazas residenciales»
-- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox anunció su salida del Gobierno el 11 de julio de 2024
 - Qué se hizo: El 13 de mayo de 2024, con Vox en el Gobierno, el Instituto Murciano de Acción Social abrió la oferta de 156 plazas a concertar en 2024: 120 en residencias de mayores (45 asistidas y 75 psicogeriátricas) y 36 en centros de día. El Gobierno regional las había presentado en el presupuesto como un «aumento» de plazas. Según el portal de transparencia de la Comunidad, se adjudicaron las 156. El documento de adjudicación no lleva fecha; el plazo para pedir plazas acababa el 31 de mayo de 2024.
-- Veredicto: Cumplida. El aumento de plazas se puso en marcha con Vox en el Gobierno y se completó. No se ha podido comprobar si la adjudicación fue antes o después de su salida, el 11 de julio de 2024. El acuerdo no fijaba una cifra.
+- Veredicto: A medias. La oferta de plazas se abrió con Vox en el Gobierno, pero no consta que se adjudicaran antes de su salida, el 11 de julio de 2024; como en Castilla y León, lo que se aplicó después no se le cuenta. El acuerdo no fijaba una cifra.
 - Fuentes:
   - [PP y Vox: acuerdo de gobierno de la Región de Murcia, medida 9 (copia publicada por elDiario.es)](https://static.eldiario.es/eldiario/public/content/file/original/2023/0905/11/acuerdo-pp-vox-murcia-pdf.pdf)
   - [IMAS: Resolución de 13 de mayo de 2024, oferta de plazas a concertar en 2024 para personas mayores](https://transparencia.carm.es/wres/transparencia/doc/Sector_Publico/IMAS/2024_Oferta_plazas_concierto_Mayores.pdf)
@@ -11543,7 +11671,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Vox · Murcia · Impuestos: Acuerdo de gobierno PP-Vox en la Región de Murcia (septiembre de 2023)
 - Promesa: Bajar el IRPF en los tramos de los salarios medios y bajos y ampliar la deducción por conciliación en hogares con hijos menores de 12 años (medida 20, la primera sobre impuestos).
 - Cita: «Reduciremos el IRPF en los tramos de los salarios medios y bajos. Ampliaremos la deducción en IRPF por conciliación en hogares con hijos menores de 12 años»
-- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox salió del Gobierno el 11 de julio de 2024
+- Quién gobernaba: Coalición PP-Vox desde septiembre de 2023; Vox anunció su salida del Gobierno el 11 de julio de 2024
 - Qué se hizo: Según la Agencia Tributaria, la escala autonómica del IRPF de Murcia fue la misma en 2023 y en 2024: 9,5%, 11,2%, 13,3%, 17,9% y 22,5%, con los mismos tramos. La Ley 4/2023, de Presupuestos para 2024, amplió la deducción por conciliación al cuidado de mayores de 65 años y creó deducciones por clases de idiomas y por internet; no consta que ampliara la de hijos menores de 12 años.
 - Veredicto: No cumplida. Mientras Vox estuvo en el Gobierno no se bajaron los tipos ni se cambiaron los tramos del IRPF. La ampliación de la conciliación fue para otro supuesto.
 - Fuentes:
