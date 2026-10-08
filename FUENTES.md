@@ -4472,7 +4472,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Congreso: votación nominal del 2-feb-2017 (datos abiertos)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion026/20170202/Votacion013/VOT_20201204142445.json)
   - [Congreso: votación nominal del 22-feb-2018 (datos abiertos)](https://www.congreso.es/webpublica/opendata/votaciones/Leg12/Sesion102/20180222/Votacion009/VOT_20201204123054.json)
 
-## Mayorías absolutas (350)
+## Mayorías absolutas (349)
 
 ### Resumen: los 17 conflictos de atribuciones del Senado (2023-2026)
 - Fecha: 2026-10-05
@@ -9368,20 +9368,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [BOE: Ley 2/2016, del suelo de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3191)
   - [BOE (ELI): Ley 2/2016](https://www.boe.es/eli/es-ga/l/2016/02/10/2)
-
-### Ley 1/2016, de 18 de enero, de transparencia y buen gobierno
-- Fecha: 2016-01-18
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Instituciones y control
-- Tramitación: ordinaria o sin dato
-- Apoyos: Con el principal partido de la oposición
-- Votación: Aprobada en el pleno del 23-12-2015: a favor, PP y PSdeG; abstención de AGE y BNG (elDiario.es). No consta el voto del Grupo Mixto.
-- Qué cambia: Desarrolla en Galicia la ley estatal de transparencia: obliga a la Xunta y a su sector público a publicar información en un portal, regula el derecho de acceso de la ciudadanía y fija normas de conducta e incompatibilidades para los altos cargos. Crea el Comisionado de la Transparencia y encarga esas funciones al Valedor do Pobo.
-- Matiz: La Xunta la presentó como el cumplimiento de la ley estatal 19/2013, que obligaba a las comunidades a adaptarse en dos años. El órgano de control no es una autoridad nueva e independiente, sino una función más del Valedor do Pobo, que elige el Parlamento.
-- Fuentes:
-  - [BOE: Ley 1/2016, de transparencia y buen gobierno](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3190)
-  - [BOE (ELI): Ley 1/2016](https://www.boe.es/eli/es-ga/l/2016/01/18/1)
-  - [elDiario.es: la ley de transparencia se aprobó con los votos de PP y PSOE y la abstención de AGE y BNG](https://www.eldiario.es/galicia/funciones-polemicas-adjudicaciones-fraga-ence_1_4207054.html)
 
 ## Bulos (130)
 
