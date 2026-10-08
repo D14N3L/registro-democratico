@@ -9,6 +9,24 @@
   "aviso": "Solo cuenta el gasto que gestionan las comunidades: deja fuera mutualidades de funcionarios, Administración central y ayuntamientos. La «media de las comunidades» no es el total de España. Euros corrientes, sin descontar la inflación. 2023 y 2024 son provisionales y cada edición revisa la serie."
  },
  {
+  "id": "san_conciertos",
+  "pilar": "Sanidad",
+  "nombre": "Parte del gasto sanitario que va a conciertos",
+  "unidad": "% del gasto sanitario público",
+  "serie": "egsp_conciertos_pct_ccaa.json",
+  "mide": "Qué parte del gasto sanitario público de cada comunidad se paga a otros centros mediante conciertos. El Ministerio de Sanidad los describe como «compras al sector privado a través de conciertos».",
+  "aviso": "Según la metodología oficial, los conciertos pueden firmarse con entidades privadas o públicas, así que no todo es gasto en sanidad privada, y el peso depende también de cómo organiza cada comunidad su red. La fila de España es el gasto público total (incluye Estado, Seguridad Social y mutualidades) y no se compara directamente con las comunidades. 2023 y 2024 son provisionales y cada edición revisa la serie."
+ },
+ {
+  "id": "san_primaria",
+  "pilar": "Sanidad",
+  "nombre": "Parte del gasto sanitario que va a atención primaria",
+  "unidad": "% del gasto sanitario público",
+  "serie": "egsp_primaria_pct_ccaa.json",
+  "mide": "Qué parte del gasto sanitario público de cada comunidad va a la atención primaria: médicos de familia, pediatras y enfermería en centros de salud, consultorios y domicilios.",
+  "aviso": "Es un porcentaje del gasto, no la cantidad: si el gasto total sube, la primaria puede recibir más dinero aunque su porcentaje baje. La fila de España es el gasto público total (incluye Estado, Seguridad Social y mutualidades) y no se compara directamente con las comunidades. 2023 y 2024 son provisionales y cada edición revisa la serie."
+ },
+ {
   "id": "san_espera_quir",
   "pilar": "Sanidad",
   "nombre": "Espera para una operación (tiempo medio)",
