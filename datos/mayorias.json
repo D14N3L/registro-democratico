@@ -2495,7 +2495,7 @@
   "tema": "Presupuestos y hacienda",
   "tram": [],
   "ap": "solo",
-  "voto": "Pleno del 17-12-2024. Texto articulado: a favor, PP; en contra, BNG y PSdeG; abstención del Grupo Mixto (Democracia Ourensana). En la votación conjunta de los presupuestos de las secciones, toda la oposición votó en contra (Galiciapress y El Español).",
+  "voto": "Pleno del 17-12-2024. Texto articulado: a favor, PP; en contra, BNG y PSdeG; abstención del Grupo Mixto. En la votación conjunta de los presupuestos de las secciones, toda la oposición votó en contra (Galiciapress y El Español).",
   "s": "Presupuesto consolidado de 15.741 millones de euros.",
   "rec": "",
   "n": "No se han localizado crónicas del debate con los argumentos de cada grupo.",
@@ -6227,7 +6227,7 @@
   "ap": "solo"
  },
  {
-  "d": "2021-12-27",
+  "d": "2021-12-21",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 17/2021, de 27 de diciembre (presupuestos de 2022)",
@@ -6922,7 +6922,7 @@
   "ap": "solo"
  },
  {
-  "d": "2021-02-17",
+  "d": "2021-02-09",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 6/2021, de 17 de febrero (residuos y suelos contaminados)",
@@ -6953,7 +6953,7 @@
   ]
  },
  {
-  "d": "2021-02-17",
+  "d": "2021-02-09",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 7/2021, de 17 de febrero (museos y centros museísticos)",
@@ -7179,7 +7179,7 @@
   ]
  },
  {
-  "d": "2021-01-08",
+  "d": "2020-12-22",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 1/2021, de 8 de enero (ordenación del territorio)",
@@ -7206,7 +7206,7 @@
   ]
  },
  {
-  "d": "2021-01-08",
+  "d": "2020-12-22",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 2/2021, de 8 de enero (pesca continental)",
@@ -8272,15 +8272,11 @@
   "voto": "A favor PSOE y Cs; abstención del PP; sin votos en contra según la nota (que no da cifras).",
   "s": "Fija medidas para la igualdad de las mujeres en el medio rural: acceso al empleo, titularidad de las explotaciones agrarias e igualdad en el sector agrario, según la crónica legislativa del anuario de las Cortes.",
   "rec": "",
-  "n": "El Gobierno regional la presentó como una norma de vanguardia en igualdad, según CLM24 (enlace hoy no disponible). Fue el primer proyecto de ley aprobado en la X legislatura. No se ha podido leer el desglose de la votación.",
+  "n": "Fue el primer proyecto de ley aprobado en la X legislatura. No se ha podido leer el desglose de la votación.",
   "src": [
    [
     "BOE: Ley 6/2019, de 25 de noviembre",
     "https://www.boe.es/eli/es-cm/l/2019/11/25/6"
-   ],
-   [
-    "CLM24: Castilla-La Mancha 'a la vanguardia en el concepto de igualdad' con la aprobación del Estatuto de las Mujeres Rurales",
-    "https://www.clm24.es/articulo/actualidad/castilla-mancha-vanguardia-concepto-igualdad-aprobacion-estatuto-mujeres-rurales/20191121172542262041.html"
    ],
    [
     "Anuario Parlamento y Constitución (Cortes de CLM): Actividad legislativa 2019",
@@ -8462,7 +8458,7 @@
   ]
  },
  {
-  "d": "2019-05-09",
+  "d": "2019-05-07",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 2/2019, de 9 de mayo (suplemento de crédito para 2019)",
@@ -8471,7 +8467,7 @@
    "lectura única"
   ],
   "ap": "unan",
-  "voto": "Pleno del 7-5-2019: a favor, PP; abstención de toda la oposición (En Marea, PSdeG y BNG), según El Correo Gallego (Europa Press). Ningún voto en contra. El Gobierno pidió tramitarlo por lectura única y urgencia, la Mesa lo admitió y el Pleno incluyó en su orden del día la propuesta de lectura única y, en su caso, el debate y votación del proyecto, según el Boletín Oficial del Parlamento de Galicia.",
+  "voto": "Pleno del 7-5-2019: a favor, PP; abstención de toda la oposición (En Marea, PSdeG y BNG), según El Correo Gallego (Europa Press); al abstenerse la oposición, no hubo votos en contra. El Gobierno pidió tramitarlo por lectura única y urgencia, la Mesa lo admitió y el Pleno incluyó en su orden del día la propuesta de lectura única y, en su caso, el debate y votación del proyecto, según el Boletín Oficial del Parlamento de Galicia.",
   "s": "Concede suplementos de crédito por 48,0 millones de euros (48.002.075) para reforzar educación (incluida la digitalización del alumnado), sanidad, política social e infraestructuras forestales. Se financia con bajas en otras partidas; la exposición de motivos lo vincula a los ahorros de la reordenación del endeudamiento del sector público autonómico.",
   "rec": "",
   "n": "Ley presupuestaria rutinaria.",
@@ -8543,14 +8539,14 @@
   ]
  },
  {
-  "d": "2018-12-26",
+  "d": "2018-12-18",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 2/2018, de 26 de diciembre (presupuestos de 2019)",
   "tema": "Presupuestos y hacienda",
   "tram": [],
   "ap": "solo",
-  "voto": "Aprobada el 18-12-2018: el texto articulado salió por 38 votos a favor, 34 en contra y ninguna abstención. En el debate, cada grupo anunció su voto: «imos votar si aos orzamentos» (PP); «manter o noso voto contrario» (BNG); «imos votar \"non\" a este orzamento» (PSdeG); «desde En Marea votaremos \"non\"» (Diario de Sesións nº 96, págs. 9, 24, 33, 54 y 85).",
+  "voto": "Aprobada el 18-12-2018: el texto articulado salió por 38 votos a favor, 34 en contra y ninguna abstención. En el debate, cada grupo anunció su voto: «imos votar si aos orzamentos» (PP); «manter o noso voto contrario» (BNG); «imos votar \"non\" a este orzamento» (PSdeG); «desde En Marea votaremos \"non\"» (Diario de Sesións nº 96: PP, pág. 54; BNG, pág. 9; PSdeG, pág. 24; En Marea, pág. 33; resultado, pág. 85).",
   "s": "Aprueba los presupuestos de la Comunidad para 2019, con un presupuesto consolidado de 11.544 millones de euros. Congela las retribuciones del personal público respecto a las de 31 de diciembre de 2018, salvo lo que permita la normativa estatal.",
   "rec": "",
   "n": "Ley anual de presupuestos de la Xunta. La Comisión Bilateral Estado-Galicia publicó un acuerdo que dio por solventadas las discrepancias sobre esta ley (BOE de 11-9-2019); no consta recurso ante el TC.",
@@ -8574,7 +8570,7 @@
   ]
  },
  {
-  "d": "2018-12-26",
+  "d": "2018-12-18",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 3/2018, de 26 de diciembre (medidas fiscales y administrativas)",
@@ -8764,7 +8760,7 @@
   ]
  },
  {
-  "d": "2016-07-01",
+  "d": "2016-06-28",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 7/2016, de 1 de julio, de retribución extraordinaria al personal del sector público autonómico (recuperación del recorte de enero y febrero de 2013)",
@@ -8817,14 +8813,14 @@
   ]
  },
  {
-  "d": "2016-07-08",
+  "d": "2016-06-28",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 9/2016, de 8 de julio, por la que se modifica la Ley 4/2007 de coordinación de policías locales",
   "tema": "Otros",
   "tram": [],
   "ap": "unan",
-  "voto": "Pleno del 28-6-2016: a favor, PP y PSdeG; abstención de BNG, AGE y Grupo Mixto (Galicia Confidencial, Europa Press). Ningún voto en contra.",
+  "voto": "Pleno del 28-6-2016: a favor, PP y PSdeG; abstención de BNG, AGE y Grupo Mixto (Galicia Confidencial). Ningún voto en contra.",
   "s": "Cambios en la coordinación de las policías locales: permite a los ayuntamientos asociarse para tener una galería de tiro común, da un puesto en la comisión de coordinación a la asociación profesional más representativa y regula acuerdos de colaboración entre ayuntamientos para prestar el servicio.",
   "rec": "",
   "n": "Reforma parcial y técnica.",
@@ -8844,14 +8840,16 @@
   ]
  },
  {
-  "d": "2016-07-19",
+  "d": "2016-07-12",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 10/2016, de 19 de julio, de medidas urgentes para la actualización del sistema de transporte público de Galicia",
   "tema": "Economía y empresas",
-  "tram": [],
+  "tram": [
+   "proposición del grupo del Gobierno"
+  ],
   "ap": "unan",
-  "voto": "Pleno del 12-7-2016: «con votos a favor do ditame de PP e abstención da oposición» (Galicia Confidencial). La fuente no nombra a cada grupo. Ningún voto en contra.",
+  "voto": "Pleno del 12-7-2016: «con votos a favor do ditame de PP e abstención da oposición» (Galicia Confidencial). La fuente no nombra a cada grupo; al abstenerse la oposición, no hubo votos en contra. Era una proposición de ley «impulsada polo grupo maioritario».",
   "s": "Prevé un Plan de transporte público de Galicia para reordenar las líneas regulares de viajeros que dependen de la Xunta, con medidas transitorias hasta su aprobación.",
   "rec": "",
   "n": "El título dice «medidas urgentes», pero en las fuentes leídas no consta si se tramitó por urgencia. La Xunta alegó movilidad en igualdad y sostenibilidad económica del servicio.",
@@ -8894,7 +8892,7 @@
   ]
  },
  {
-  "d": "2016-07-22",
+  "d": "2016-07-12",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 12/2016, de 22 de julio, por la que se modifica la Ley 11/2007 gallega contra la violencia de género",
@@ -8944,7 +8942,7 @@
   ]
  },
  {
-  "d": "2016-07-27",
+  "d": "2016-07-12",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 14/2016, de 27 de julio, por la que se modifica la Ley 4/2012 del Área Metropolitana de Vigo",
@@ -8971,7 +8969,7 @@
   ]
  },
  {
-  "d": "2016-07-28",
+  "d": "2016-07-12",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 15/2016, de 28 de julio, del Plan gallego de estadística 2017-2021",
@@ -8998,7 +8996,7 @@
   ]
  },
  {
-  "d": "2017-02-08",
+  "d": "2017-02-06",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 1/2017, de 8 de febrero, de presupuestos generales para 2017",
@@ -9025,7 +9023,7 @@
   ]
  },
  {
-  "d": "2017-02-08",
+  "d": "2017-02-07",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 2/2017, de 8 de febrero, de medidas fiscales, administrativas y de ordenación",
@@ -9081,7 +9079,7 @@
   ]
  },
  {
-  "d": "2017-10-03",
+  "d": "2017-09-26",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 4/2017, de 3 de octubre, de protección y bienestar de los animales de compañía en Galicia",
@@ -9108,7 +9106,7 @@
   ]
  },
  {
-  "d": "2017-10-19",
+  "d": "2017-10-17",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 5/2017, de 19 de octubre, de fomento de la implantación de iniciativas empresariales en Galicia",
@@ -9135,7 +9133,7 @@
   ]
  },
  {
-  "d": "2017-12-12",
+  "d": "2017-12-04",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 6/2017, de 12 de diciembre, de puertos de Galicia",
@@ -9162,7 +9160,7 @@
   ]
  },
  {
-  "d": "2017-12-14",
+  "d": "2017-12-04",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 7/2017, de 14 de diciembre, de medidas de eficiencia energética y garantía de accesibilidad a la energía eléctrica",
@@ -9189,7 +9187,7 @@
   ]
  },
  {
-  "d": "2017-12-26",
+  "d": "2017-12-19",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 8/2017, de 26 de diciembre, de presupuestos generales para 2018",
@@ -9216,7 +9214,7 @@
   ]
  },
  {
-  "d": "2017-12-26",
+  "d": "2017-12-19",
   "a": "Galicia",
   "g": "PP",
   "ley": "Ley 9/2017, de 26 de diciembre, de medidas fiscales y administrativas",
@@ -9225,7 +9223,7 @@
    "ómnibus"
   ],
   "ap": "solo",
-  "voto": "Pleno del 19-12-2017: a favor, PP; en contra, En Marea, PSdeG y BNG (Galicia Confidencial, Europa Press).",
+  "voto": "Pleno del 19-12-2017: a favor, PP; en contra, En Marea, PSdeG y BNG (Galicia Confidencial).",
   "s": "Ley de acompañamiento de los presupuestos de 2018. Crea deducciones en el IRPF autonómico (rehabilitación en centros históricos, inversión en empresas agrarias y ayudas por los incendios de octubre de 2017) y en patrimonio y transmisiones patrimoniales, sube las tasas de cuantía fija y el canon por obras hidráulicas, y modifica normas administrativas de diez ámbitos distintos.",
   "rec": "",
   "n": "La exposición de motivos la defiende como ley ordinaria de medidas con vocación de permanencia, ligada a los presupuestos.",

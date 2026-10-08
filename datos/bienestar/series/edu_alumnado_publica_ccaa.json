@@ -22,7 +22,8 @@
   "Cursos 2016-2017 a 2024-2025, resultados detallados (tabla 1 «Alumnado matriculado en Enseñanzas de Régimen General por titularidad/financiación del centro, sexo, comunidad autónoma/provincia y enseñanza», carpeta gen-todas de cada curso). El curso 2025-2026 solo tiene datos de avance con otra tabla y no se incluye.",
   "Valores de la fila «AMBOS SEXOS» y la columna «TOTAL» de enseñanzas, sin cálculos propios. Se comprobó en cada curso y comunidad que Todos los centros = Centros públicos + Centros privados y que Centros privados = Enseñanza privada concertada + no concertada.",
   "Nota de la fuente: el alumnado de primer ciclo de Educación Infantil en enseñanza privada concertada se refiere a centros privados que reciben algún tipo de subvención pública para ese ciclo.",
-  "Enseñanzas de Régimen General: incluye Infantil (primer y segundo ciclo), Primaria, Educación Especial, ESO, Bachillerato, FP y otros programas."
+  "Enseñanzas de Régimen General: incluye Infantil (primer y segundo ciclo), Primaria, Educación Especial, ESO, Bachillerato, FP y otros programas.",
+  "Nota de la fuente para Navarra (cursos 2016-2017 a 2023-2024): «adicionalmente funcionan» centros públicos de primer ciclo de Educación Infantil en proceso de comprobación de requisitos, cuyo alumnado no se incluye en la tabla: 571 alumnos en 2016-2017, 380 en 2017-2018 y 2018-2019, 193 en 2019-2020 y 2020-2021, 127 en 2021-2022, 113 en 2022-2023 y 12 en 2023-2024."
  ],
  "valores": {
   "Total España": {

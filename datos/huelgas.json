@@ -283,7 +283,7 @@
   "t": "Manifestación «Madrid se levanta por la sanidad pública»",
   "convoca": "Las fuentes no coinciden: según EFE (COPE), la convocó inicialmente la Red de Solidaridad Popular de Latina-Carabanchel, a la que se sumaron la FRAVM, sindicatos y partidos; según The Objective, la FRAVM",
   "piden": "Defender la sanidad pública y frenar lo que llamaban «el plan de destrucción de la Atención Primaria»",
-  "oficial": "Más de 200.000 según la Delegación del Gobierno.",
+  "oficial": "Delegación del Gobierno: 200.000 según The Objective y EFE (COPE); «más de 200.000» según El Español.",
   "segconv": "670.000 (antes habían dado 300.000).",
   "gobierno": "Ayuso (PP en solitario). Competencia autonómica.",
   "final": "Movilización. Ocho días después empezó la huelga de médicos de atención primaria (ver su entrada).",
@@ -668,7 +668,7 @@
   "convoca": "Marea Blanca",
   "piden": "«Un razonable aumento del gasto» para reforzar las plantillas de atención primaria y usar la capacidad desaprovechada de los hospitales públicos",
   "oficial": "Delegación del Gobierno, con estimaciones de la Policía Nacional: unas 12.150 personas el día 17; Sevilla 6.000, Granada 1.600, Córdoba 1.500, Málaga 1.500, Jaén 650, Almería 500 y Huelva 400. La de Cádiz fue el día anterior.",
-  "segconv": "Granada 5.500, Málaga 10.000 y Huelva 600; sin total.",
+  "segconv": "Cádiz (el día 16) unas 1.200, Granada 5.500, Málaga 10.000 y Huelva 600; sin total.",
   "gobierno": "Junta del PP (Moreno), con mayoría absoluta. Competencia autonómica.",
   "final": "Movilización.",
   "src": [
@@ -851,10 +851,10 @@
   "t": "Huelga docente",
   "convoca": "CSIF (indefinida), CCOO, UGT, SUATEA y ANPE",
   "piden": "Mantener la jornada reducida, salario, atención a la diversidad y menos burocracia",
-  "oficial": "Delegación del Gobierno: 19.000 personas en la manifestación de Oviedo del 1 de junio. La consejera de Educación dimitió durante la huelga.",
+  "oficial": "Delegación del Gobierno: 19.000 personas en la manifestación de Oviedo del 1 de junio.",
   "segconv": "Sindicatos: 30.000 personas en la manifestación de Oviedo.",
   "gobierno": "Barbón (PSOE e IU). Competencia autonómica.",
-  "final": "Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subidas de hasta 210 € al mes (140 € a través del complemento específico).",
+  "final": "La consejera de Educación dimitió durante la huelga. Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subidas de hasta 210 € al mes (140 € a través del complemento específico).",
   "src": [
    [
     "RTPA: preacuerdo con el Principado",
@@ -1206,12 +1206,12 @@
   "sector": "Educación",
   "ambito": "Comunitat Valenciana",
   "t": "Huelga indefinida docente",
-  "convoca": "STEPV, CCOO y UGT, con la Coordinadora d'Assemblees Docents del País Valencià",
+  "convoca": "STEPV, CCOO y UGT, con la Coordinadora d'Assemblees Docents del País Valencià; según EFE, CSIF también figuraba entre los convocantes en la manifestación del 15 de mayo",
   "piden": "Mejoras salariales, más plantilla, bajar las ratios, inclusión y blindar las líneas en valenciano",
   "oficial": "Delegación del Gobierno: más de 35.000 personas en la manifestación de València del 15 de mayo.",
-  "segconv": "En la consulta sindical votaron 30.238 docentes: el 87% rechazó el acuerdo y el 71% votó suspender la huelga.",
+  "segconv": "Sin cifra de asistentes de los convocantes en las fuentes leídas.",
   "gobierno": "Pérez Llorca (PP). Competencia autonómica.",
-  "final": "Tras la consulta del 10 de junio, los sindicatos se inclinaron por suspenderla sin acuerdo y retomar la protesta el curso siguiente.",
+  "final": "En la consulta sindical votaron 30.238 docentes: el 87% rechazó el acuerdo y el 71% votó suspender la huelga. Tras la consulta del 10 de junio, los sindicatos se inclinaron por suspenderla sin acuerdo y retomar la protesta el curso siguiente.",
   "src": [
    [
     "elDiario.es: los docentes rechazan el acuerdo y suspenden la huelga",

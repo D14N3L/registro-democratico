@@ -3351,7 +3351,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Congreso: votación oficial del Título I (24 nov 2022)](https://www.congreso.es/webpublica/opendata/votaciones/Leg14/Sesion217/20221124/Votacion386/VOT_20230302165306.json)
 
-### Ley del PP contra la okupación (toma en consideración)
+### Ley del PP contra la okupación de 2022 (toma en consideración)
 - Fecha: 29 nov 2022
 - Resultado: Rechazada 160 a 178, 6 abstenciones
 - Votos: PSOE No · UP / Sumar No · PP Sí · Vox Sí · Cs Sí · ERC No · Junts No · Bildu No · PNV Abst.
@@ -3562,7 +3562,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Congreso: votación oficial (28 abr 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json)
   - [elDiario.es](https://www.eldiario.es/politica/congreso-rechazara-prorroga-alquileres-voto-pp-vox-junts-abstencion-pnv_1_13180051.html)
 
-### Ley del PP contra la okupación (toma en consideración)
+### Ley del PP contra la okupación de 2026 (toma en consideración)
 - Fecha: 19 may 2026
 - Resultado: Tomada en consideración 171 a 164, 11 abstenciones
 - Votos: PSOE No · UP / Sumar No · PP Sí · Vox Sí · Cs s/d · ERC No · Junts Abst. · Bildu No · PNV Abst.
@@ -5735,7 +5735,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Tema: Presupuestos y hacienda
 - Tramitación: ordinaria o sin dato
 - Apoyos: Solo el partido con mayoría
-- Votación: Pleno del 17-12-2024. Texto articulado: a favor, PP; en contra, BNG y PSdeG; abstención del Grupo Mixto (Democracia Ourensana). En la votación conjunta de los presupuestos de las secciones, toda la oposición votó en contra (Galiciapress y El Español).
+- Votación: Pleno del 17-12-2024. Texto articulado: a favor, PP; en contra, BNG y PSdeG; abstención del Grupo Mixto. En la votación conjunta de los presupuestos de las secciones, toda la oposición votó en contra (Galiciapress y El Español).
 - Qué cambia: Presupuesto consolidado de 15.741 millones de euros.
 - Matiz: No se han localizado crónicas del debate con los argumentos de cada grupo.
 - Fuentes:
@@ -7636,20 +7636,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Español-El Digital CLM: El sector porcino pide un recurso contra la moratoria](https://www.elespanol.com/eldigitalcastillalamancha/region/20220315/sector-porcino-recurso-moratoria-macrogranjas-castilla-la-mancha/657434486_0.html)
   - [elDiario.es CLM: Adiós a la moratoria de macrogranjas, que da paso a un decreto de purines](https://www.eldiario.es/castilla-la-mancha/social/adios-moratoria-macrogranjas-castilla-mancha-da-paso-decreto-purines-farsa_1_11926803.html)
 
-### Ley 17/2021, de 27 de diciembre (presupuestos de 2022)
-- Fecha: 2021-12-27
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Presupuestos y hacienda
-- Tramitación: ordinaria o sin dato
-- Apoyos: Solo el partido con mayoría
-- Votación: Aprobada el 21-12-2021 por 42 votos a favor y 32 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, BNG y PSdeG (Atlántico).
-- Qué cambia: Aprueba los presupuestos de 2022, con 13.118 millones de euros consolidados. Permite una subida salarial del personal público de hasta el 2 %.
-- Matiz: Ley anual de presupuestos de la Xunta.
-- Fuentes:
-  - [BOE: Ley 17/2021, de presupuestos generales para 2022](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3414)
-  - [BOPG: aprobación de la Ley de presupuestos para 2022](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110247_1.pdf)
-  - [Atlántico: aprobados los presupuestos de 2022](https://www.atlantico.net/articulo/galicia/aprobados-presupuestos-2022-rechazar-pp-1025-enmiendas/20211221235020883772.html)
-
 ### Ley 18/2021, de 27 de diciembre (medidas fiscales y administrativas)
 - Fecha: 2021-12-27
 - Cámara: Galicia · Mayoría absoluta: PP
@@ -7691,6 +7677,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es Extremadura: Aprobado el presupuesto autonómico extremeño para 2022 con solo los votos del PSOE](https://www.eldiario.es/extremadura/politica/aprobado-presupuesto-autonomico-extremeno-2022-votos-psoe_1_8607004.html)
   - [BOE: Ley 3/2021, de Presupuestos para 2022](https://www.boe.es/eli/es-ex/l/2021/12/30/3)
+
+### Ley 17/2021, de 27 de diciembre (presupuestos de 2022)
+- Fecha: 2021-12-21
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Presupuestos y hacienda
+- Tramitación: ordinaria o sin dato
+- Apoyos: Solo el partido con mayoría
+- Votación: Aprobada el 21-12-2021 por 42 votos a favor y 32 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, BNG y PSdeG (Atlántico).
+- Qué cambia: Aprueba los presupuestos de 2022, con 13.118 millones de euros consolidados. Permite una subida salarial del personal público de hasta el 2 %.
+- Matiz: Ley anual de presupuestos de la Xunta.
+- Fuentes:
+  - [BOE: Ley 17/2021, de presupuestos generales para 2022](https://www.boe.es/buscar/doc.php?id=BOE-A-2022-3414)
+  - [BOPG: aprobación de la Ley de presupuestos para 2022](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110247_1.pdf)
+  - [Atlántico: aprobados los presupuestos de 2022](https://www.atlantico.net/articulo/galicia/aprobados-presupuestos-2022-rechazar-pp-1025-enmiendas/20211221235020883772.html)
 
 ### Ley 16/2021, de 20 de diciembre (Plan gallego de estadística 2022-2026)
 - Fecha: 2021-12-20
@@ -7988,35 +7988,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Ideal Gallego: el Constitucional avala la ley de salud salvo en la vacunación obligatoria](https://www.elidealgallego.com/texto-diario/mostrar/3062702/constitucional-avala-ley-salud-xunta-salvo-vacunacion-obligatoria)
   - [BOE: STC 136/2024](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2024-25519)
 
-### Ley 6/2021, de 17 de febrero (residuos y suelos contaminados)
-- Fecha: 2021-02-17
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Medio ambiente
-- Tramitación: ordinaria o sin dato
-- Apoyos: Solo el partido con mayoría
-- Votación: Aprobada el 9-2-2021 por 40 votos a favor y 32 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, BNG y PSdeG (Galiciapress, Europa Press).
-- Qué cambia: Fija objetivos de reutilización y reciclaje de residuos municipales (60 % en 2030) y restricciones a plásticos de un solo uso y bolsas gratuitas. Obliga a los ayuntamientos a recoger por separado los biorresiduos antes del 31 de diciembre de 2023 y los residuos textiles antes de 2025.
-- Matiz: Ley de adaptación a la normativa europea de residuos. El Estado y la Xunta negociaron en la Comisión Bilateral sobre los artículos 3, 5, 44 y 55 a 61; la Xunta se comprometió a modificar algunos preceptos (BOE de 13-12-2021). No consta recurso ante el TC.
-- Fuentes:
-  - [BOE: Ley 6/2021, de residuos y suelos contaminados de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5137)
-  - [BOPG: aprobación de las leyes de residuos y de museos (9-2-2021)](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110095_1.pdf)
-  - [BOE: Acuerdo de la Comisión Bilateral sobre la Ley 6/2021](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-20565)
-  - [Galiciapress (Europa Press): el PPdeG aprueba en solitario la ley de residuos](https://www.galiciapress.es/texto-diario/mostrar/2611193/ppdeg-aprueba-solitario-ley-obliga-restaurantes-entregar-sobras-envases-plastico)
-
-### Ley 7/2021, de 17 de febrero (museos y centros museísticos)
-- Fecha: 2021-02-17
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Otros
-- Tramitación: ordinaria o sin dato
-- Apoyos: Solo el partido con mayoría
-- Votación: Aprobada el 9-2-2021 por 40 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, PSdeG y BNG (El Correo Gallego, Europa Press).
-- Qué cambia: Sustituye el Decreto 314/1986 y artículos de la Ley 5/2016 de patrimonio cultural. Amplía el concepto de centro museístico a colecciones museográficas y centros de interpretación, y crea el Sistema gallego de centros museísticos, que exige horario estable, personal cualificado y presupuesto suficiente.
-- Matiz: Ley sectorial de cultura.
-- Fuentes:
-  - [BOE: Ley 7/2021, de museos y otros centros museísticos](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5138)
-  - [BOPG: aprobación de las leyes de residuos y de museos (9-2-2021)](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110095_1.pdf)
-  - [El Correo Gallego: nace la primera ley de museos de Galicia con el único apoyo del PP](https://www.elcorreogallego.es/vida-y-estilo/2021/02/09/nace-primera-ley-museos-galicia-109805924.html)
-
 ### Ley 1/2021, de 12 de febrero, de Simplificación Urbanística y Medidas Administrativas (Ley SUMA)
 - Fecha: 2021-02-11
 - Cámara: Castilla-La Mancha · Mayoría absoluta: PSOE
@@ -8031,6 +8002,35 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Digital de Albacete: Las Cortes aprueban la Ley SUMA](https://www.eldigitaldealbacete.com/2021/02/11/las-cortes-de-castilla-la-mancha-aprueban-la-ley-suma-para-agilizar-y-simplificar-tramites-urbanisticos/)
   - [BOE: Ley 1/2021, de 12 de febrero](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-6468)
   - [BOE: Acuerdo de la Comisión Bilateral sobre la Ley 1/2021 (discrepancias solventadas)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-21060)
+
+### Ley 6/2021, de 17 de febrero (residuos y suelos contaminados)
+- Fecha: 2021-02-09
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Medio ambiente
+- Tramitación: ordinaria o sin dato
+- Apoyos: Solo el partido con mayoría
+- Votación: Aprobada el 9-2-2021 por 40 votos a favor y 32 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, BNG y PSdeG (Galiciapress, Europa Press).
+- Qué cambia: Fija objetivos de reutilización y reciclaje de residuos municipales (60 % en 2030) y restricciones a plásticos de un solo uso y bolsas gratuitas. Obliga a los ayuntamientos a recoger por separado los biorresiduos antes del 31 de diciembre de 2023 y los residuos textiles antes de 2025.
+- Matiz: Ley de adaptación a la normativa europea de residuos. El Estado y la Xunta negociaron en la Comisión Bilateral sobre los artículos 3, 5, 44 y 55 a 61; la Xunta se comprometió a modificar algunos preceptos (BOE de 13-12-2021). No consta recurso ante el TC.
+- Fuentes:
+  - [BOE: Ley 6/2021, de residuos y suelos contaminados de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5137)
+  - [BOPG: aprobación de las leyes de residuos y de museos (9-2-2021)](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110095_1.pdf)
+  - [BOE: Acuerdo de la Comisión Bilateral sobre la Ley 6/2021](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-20565)
+  - [Galiciapress (Europa Press): el PPdeG aprueba en solitario la ley de residuos](https://www.galiciapress.es/texto-diario/mostrar/2611193/ppdeg-aprueba-solitario-ley-obliga-restaurantes-entregar-sobras-envases-plastico)
+
+### Ley 7/2021, de 17 de febrero (museos y centros museísticos)
+- Fecha: 2021-02-09
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Otros
+- Tramitación: ordinaria o sin dato
+- Apoyos: Solo el partido con mayoría
+- Votación: Aprobada el 9-2-2021 por 40 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. A favor, PP; en contra, PSdeG y BNG (El Correo Gallego, Europa Press).
+- Qué cambia: Sustituye el Decreto 314/1986 y artículos de la Ley 5/2016 de patrimonio cultural. Amplía el concepto de centro museístico a colecciones museográficas y centros de interpretación, y crea el Sistema gallego de centros museísticos, que exige horario estable, personal cualificado y presupuesto suficiente.
+- Matiz: Ley sectorial de cultura.
+- Fuentes:
+  - [BOE: Ley 7/2021, de museos y otros centros museísticos](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-5138)
+  - [BOPG: aprobación de las leyes de residuos y de museos (9-2-2021)](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110095_1.pdf)
+  - [El Correo Gallego: nace la primera ley de museos de Galicia con el único apoyo del PP](https://www.elcorreogallego.es/vida-y-estilo/2021/02/09/nace-primera-ley-museos-galicia-109805924.html)
 
 ### Ley 5/2021, de 2 de febrero (impulso demográfico)
 - Fecha: 2021-02-02
@@ -8116,36 +8116,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Decreto-ley 1/2021](https://www.boe.es/eli/es-ex/dl/2021/01/13/1)
   - [Asamblea de Extremadura: Diario de Sesiones nº 41-P (11-02-2021)](https://www.asambleaex.es/descargas/publicaciones/dsae/p/10/2021-02-11/10DSAE41.pdf)
 
-### Ley 1/2021, de 8 de enero (ordenación del territorio)
-- Fecha: 2021-01-08
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Vivienda y suelo
-- Tramitación: ordinaria o sin dato
-- Apoyos: Solo el partido con mayoría
-- Votación: Aprobada el 22-12-2020 por 39 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. Salió adelante «con solo los votos de los populares» y el «no» de la oposición, BNG y PSdeG (Galiciapress, en una crónica conjunta de las leyes de ordenación del territorio y de pesca continental).
-- Qué cambia: Deroga la Ley 10/1995 de ordenación del territorio y fija los instrumentos: directrices, planes territoriales integrados y especiales, planes sectoriales y proyectos de interés autonómico, que permiten a la Xunta intervenir directamente. Establece un procedimiento único de tramitación con evaluación ambiental estratégica.
-- Matiz: La Xunta la presentó como una actualización de un marco de 25 años. No se ha podido leer una fuente con las críticas de la oposición.
-- Fuentes:
-  - [BOE: Ley 1/2021, de ordenación del territorio de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4519)
-  - [BOPG: aprobación de la Ley de ordenación del territorio](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110070.pdf)
-  - [Galiciapress: la Cámara aprueba las dos primeras leyes de la Xunta esta legislatura](https://www.galiciapress.es/texto-diario/mostrar/2240765/camara-aprueba-primeras-leyes-xunta-esta-legislatura-pleno-navideno-villancico-incluido)
-
-### Ley 2/2021, de 8 de enero (pesca continental)
-- Fecha: 2021-01-08
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Medio ambiente
-- Tramitación: ordinaria o sin dato
-- Apoyos: Solo el partido con mayoría
-- Votación: Aprobada el 22-12-2020 por 39 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. Salió adelante «con solo los votos de los populares» y el «no» de la oposición, BNG y PSdeG (Galiciapress, en una crónica conjunta de las leyes de ordenación del territorio y de pesca continental).
-- Qué cambia: Sustituye la Ley 7/1992 de pesca fluvial. Crea nuevas categorías de aguas (escenarios deportivo-sociales, aguas de aprovechamiento privado), exime de licencia a quienes tengan 14 años o menos si van acompañados de un adulto con licencia y establece un plan estratégico, planes técnicos de gestión y una orden anual. Suprime la categoría de infracciones menos graves y permite rebajar la sanción por reconocimiento de responsabilidad.
-- Matiz: Ley sectorial. El Estado y la Xunta negociaron en la Comisión Bilateral y dieron por solventadas las discrepancias (BOE de 21-9-2021); no consta recurso ante el TC.
-- Fuentes:
-  - [BOE: Ley 2/2021, de pesca continental de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4520)
-  - [Xunta, Portal de Transparencia: tramitación de la Ley 2/2021](https://transparencia.xunta.gal/es/tema/informacion-de-relevancia-xuridica/normativa-en-tramitacion/aprobada-e-publicada-no-dog/-/nt/0386/ley-22021-8-enero-pesca-continental-galicia)
-  - [BOPG: aprobación de la Ley de pesca continental](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110071.pdf)
-  - [BOE: Acuerdo de la Comisión Bilateral sobre la Ley 2/2021 (discrepancias solventadas)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15293)
-  - [Galiciapress: la Cámara aprueba las dos primeras leyes de la Xunta esta legislatura](https://www.galiciapress.es/texto-diario/mostrar/2240765/camara-aprueba-primeras-leyes-xunta-esta-legislatura-pleno-navideno-villancico-incluido)
-
 ### Decreto-ley 15/2020, de 29 de diciembre (programa de ayudas para la reactivación empresarial)
 - Fecha: 2020-12-29
 - Cámara: Extremadura · Mayoría absoluta: PSOE
@@ -8171,6 +8141,36 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [BOE: Ley 11/2020, de 28 de diciembre](https://www.boe.es/eli/es-cm/l/2020/12/28/11)
   - [Cortes CLM: nota de prensa (22-dic-2020)](https://www.cortesclm.es/index.php/8-noticias-general/724)
+
+### Ley 1/2021, de 8 de enero (ordenación del territorio)
+- Fecha: 2020-12-22
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Vivienda y suelo
+- Tramitación: ordinaria o sin dato
+- Apoyos: Solo el partido con mayoría
+- Votación: Aprobada el 22-12-2020 por 39 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. Salió adelante «con solo los votos de los populares» y el «no» de la oposición, BNG y PSdeG (Galiciapress, en una crónica conjunta de las leyes de ordenación del territorio y de pesca continental).
+- Qué cambia: Deroga la Ley 10/1995 de ordenación del territorio y fija los instrumentos: directrices, planes territoriales integrados y especiales, planes sectoriales y proyectos de interés autonómico, que permiten a la Xunta intervenir directamente. Establece un procedimiento único de tramitación con evaluación ambiental estratégica.
+- Matiz: La Xunta la presentó como una actualización de un marco de 25 años. No se ha podido leer una fuente con las críticas de la oposición.
+- Fuentes:
+  - [BOE: Ley 1/2021, de ordenación del territorio de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4519)
+  - [BOPG: aprobación de la Ley de ordenación del territorio](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110070.pdf)
+  - [Galiciapress: la Cámara aprueba las dos primeras leyes de la Xunta esta legislatura](https://www.galiciapress.es/texto-diario/mostrar/2240765/camara-aprueba-primeras-leyes-xunta-esta-legislatura-pleno-navideno-villancico-incluido)
+
+### Ley 2/2021, de 8 de enero (pesca continental)
+- Fecha: 2020-12-22
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Medio ambiente
+- Tramitación: ordinaria o sin dato
+- Apoyos: Solo el partido con mayoría
+- Votación: Aprobada el 22-12-2020 por 39 votos a favor y 33 en contra, según el Boletín Oficial del Parlamento de Galicia. Salió adelante «con solo los votos de los populares» y el «no» de la oposición, BNG y PSdeG (Galiciapress, en una crónica conjunta de las leyes de ordenación del territorio y de pesca continental).
+- Qué cambia: Sustituye la Ley 7/1992 de pesca fluvial. Crea nuevas categorías de aguas (escenarios deportivo-sociales, aguas de aprovechamiento privado), exime de licencia a quienes tengan 14 años o menos si van acompañados de un adulto con licencia y establece un plan estratégico, planes técnicos de gestión y una orden anual. Suprime la categoría de infracciones menos graves y permite rebajar la sanción por reconocimiento de responsabilidad.
+- Matiz: Ley sectorial. El Estado y la Xunta negociaron en la Comisión Bilateral y dieron por solventadas las discrepancias (BOE de 21-9-2021); no consta recurso ante el TC.
+- Fuentes:
+  - [BOE: Ley 2/2021, de pesca continental de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2021-4520)
+  - [Xunta, Portal de Transparencia: tramitación de la Ley 2/2021](https://transparencia.xunta.gal/es/tema/informacion-de-relevancia-xuridica/normativa-en-tramitacion/aprobada-e-publicada-no-dog/-/nt/0386/ley-22021-8-enero-pesca-continental-galicia)
+  - [BOPG: aprobación de la Ley de pesca continental](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110071.pdf)
+  - [BOE: Acuerdo de la Comisión Bilateral sobre la Ley 2/2021 (discrepancias solventadas)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2021-15293)
+  - [Galiciapress: la Cámara aprueba las dos primeras leyes de la Xunta esta legislatura](https://www.galiciapress.es/texto-diario/mostrar/2240765/camara-aprueba-primeras-leyes-xunta-esta-legislatura-pleno-navideno-villancico-incluido)
 
 ### Ley 10/2020, de 21 de diciembre, de crédito extraordinario para gastos electorales de 2019
 - Fecha: 2020-12-21
@@ -8699,10 +8699,9 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Apoyos: Sin votos en contra
 - Votación: A favor PSOE y Cs; abstención del PP; sin votos en contra según la nota (que no da cifras).
 - Qué cambia: Fija medidas para la igualdad de las mujeres en el medio rural: acceso al empleo, titularidad de las explotaciones agrarias e igualdad en el sector agrario, según la crónica legislativa del anuario de las Cortes.
-- Matiz: El Gobierno regional la presentó como una norma de vanguardia en igualdad, según CLM24 (enlace hoy no disponible). Fue el primer proyecto de ley aprobado en la X legislatura. No se ha podido leer el desglose de la votación.
+- Matiz: Fue el primer proyecto de ley aprobado en la X legislatura. No se ha podido leer el desglose de la votación.
 - Fuentes:
   - [BOE: Ley 6/2019, de 25 de noviembre](https://www.boe.es/eli/es-cm/l/2019/11/25/6)
-  - [CLM24: Castilla-La Mancha 'a la vanguardia en el concepto de igualdad' con la aprobación del Estatuto de las Mujeres Rurales](https://www.clm24.es/articulo/actualidad/castilla-mancha-vanguardia-concepto-igualdad-aprobacion-estatuto-mujeres-rurales/20191121172542262041.html)
   - [Anuario Parlamento y Constitución (Cortes de CLM): Actividad legislativa 2019](https://parlamentoyconstitucion.cortesclm.es/rapc/article/download/61/62)
   - [Cortes CLM: nota de prensa (21-nov-2019)](https://www.cortesclm.es/index.php/8-noticias-general/554)
 
@@ -8791,12 +8790,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Acuerdo de la Comisión Bilateral sobre la Ley 3/2019 (discrepancias solventadas)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-16018)
 
 ### Ley 2/2019, de 9 de mayo (suplemento de crédito para 2019)
-- Fecha: 2019-05-09
+- Fecha: 2019-05-07
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Presupuestos y hacienda
 - Tramitación: lectura única
 - Apoyos: Sin votos en contra
-- Votación: Pleno del 7-5-2019: a favor, PP; abstención de toda la oposición (En Marea, PSdeG y BNG), según El Correo Gallego (Europa Press). Ningún voto en contra. El Gobierno pidió tramitarlo por lectura única y urgencia, la Mesa lo admitió y el Pleno incluyó en su orden del día la propuesta de lectura única y, en su caso, el debate y votación del proyecto, según el Boletín Oficial del Parlamento de Galicia.
+- Votación: Pleno del 7-5-2019: a favor, PP; abstención de toda la oposición (En Marea, PSdeG y BNG), según El Correo Gallego (Europa Press); al abstenerse la oposición, no hubo votos en contra. El Gobierno pidió tramitarlo por lectura única y urgencia, la Mesa lo admitió y el Pleno incluyó en su orden del día la propuesta de lectura única y, en su caso, el debate y votación del proyecto, según el Boletín Oficial del Parlamento de Galicia.
 - Qué cambia: Concede suplementos de crédito por 48,0 millones de euros (48.002.075) para reforzar educación (incluida la digitalización del alumnado), sanidad, política social e infraestructuras forestales. Se financia con bajas en otras partidas; la exposición de motivos lo vincula a los ahorros de la reordenación del endeudamiento del sector público autonómico.
 - Matiz: Ley presupuestaria rutinaria.
 - Fuentes:
@@ -8846,12 +8845,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Independiente: El Congreso podrá levantar el veto del Senado a la senda de estabilidad](https://www.elindependiente.com/politica/2018/08/24/el-congreso-podra-levantar-el-veto-del-senado-a-la-senda-de-estabilidad/)
 
 ### Ley 2/2018, de 26 de diciembre (presupuestos de 2019)
-- Fecha: 2018-12-26
+- Fecha: 2018-12-18
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Presupuestos y hacienda
 - Tramitación: ordinaria o sin dato
 - Apoyos: Solo el partido con mayoría
-- Votación: Aprobada el 18-12-2018: el texto articulado salió por 38 votos a favor, 34 en contra y ninguna abstención. En el debate, cada grupo anunció su voto: «imos votar si aos orzamentos» (PP); «manter o noso voto contrario» (BNG); «imos votar "non" a este orzamento» (PSdeG); «desde En Marea votaremos "non"» (Diario de Sesións nº 96, págs. 9, 24, 33, 54 y 85).
+- Votación: Aprobada el 18-12-2018: el texto articulado salió por 38 votos a favor, 34 en contra y ninguna abstención. En el debate, cada grupo anunció su voto: «imos votar si aos orzamentos» (PP); «manter o noso voto contrario» (BNG); «imos votar "non" a este orzamento» (PSdeG); «desde En Marea votaremos "non"» (Diario de Sesións nº 96: PP, pág. 54; BNG, pág. 9; PSdeG, pág. 24; En Marea, pág. 33; resultado, pág. 85).
 - Qué cambia: Aprueba los presupuestos de la Comunidad para 2019, con un presupuesto consolidado de 11.544 millones de euros. Congela las retribuciones del personal público respecto a las de 31 de diciembre de 2018, salvo lo que permita la normativa estatal.
 - Matiz: Ley anual de presupuestos de la Xunta. La Comisión Bilateral Estado-Galicia publicó un acuerdo que dio por solventadas las discrepancias sobre esta ley (BOE de 11-9-2019); no consta recurso ante el TC.
 - Fuentes:
@@ -8861,7 +8860,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Acuerdo de la Comisión Bilateral sobre la Ley 2/2018](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2019-12984)
 
 ### Ley 3/2018, de 26 de diciembre (medidas fiscales y administrativas)
-- Fecha: 2018-12-26
+- Fecha: 2018-12-18
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Fiscalidad
 - Tramitación: ómnibus
@@ -8971,7 +8970,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE (ELI): Ley 10/2017](https://www.boe.es/eli/es-ga/l/2017/12/27/10)
 
 ### Ley 8/2017, de 26 de diciembre, de presupuestos generales para 2018
-- Fecha: 2017-12-26
+- Fecha: 2017-12-19
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Presupuestos y hacienda
 - Tramitación: ordinaria o sin dato
@@ -8985,12 +8984,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Galicia Confidencial: aprobados os orzamentos galegos para 2018](https://www.galiciaconfidencial.com/texto-diario/mostrar/5593404/aprobados-orzamentos-galegos-rexeitar-pp-case-1300-emendas-oposicion-mantina-vivas)
 
 ### Ley 9/2017, de 26 de diciembre, de medidas fiscales y administrativas
-- Fecha: 2017-12-26
+- Fecha: 2017-12-19
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Fiscalidad
 - Tramitación: ómnibus
 - Apoyos: Solo el partido con mayoría
-- Votación: Pleno del 19-12-2017: a favor, PP; en contra, En Marea, PSdeG y BNG (Galicia Confidencial, Europa Press).
+- Votación: Pleno del 19-12-2017: a favor, PP; en contra, En Marea, PSdeG y BNG (Galicia Confidencial).
 - Qué cambia: Ley de acompañamiento de los presupuestos de 2018. Crea deducciones en el IRPF autonómico (rehabilitación en centros históricos, inversión en empresas agrarias y ayudas por los incendios de octubre de 2017) y en patrimonio y transmisiones patrimoniales, sube las tasas de cuantía fija y el canon por obras hidráulicas, y modifica normas administrativas de diez ámbitos distintos.
 - Matiz: La exposición de motivos la defiende como ley ordinaria de medidas con vocación de permanencia, ligada a los presupuestos.
 - Fuentes:
@@ -8998,22 +8997,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE (ELI): Ley 9/2017](https://www.boe.es/eli/es-ga/l/2017/12/26/9)
   - [Galicia Confidencial: o PP aproba en solitario a lei de acompañamento](https://www.galiciaconfidencial.com/texto-diario/mostrar/5593388/pp-aproba-solitario-lei-acompanamento-modifica-as-escalas-traballadores-contra-incendios)
 
-### Ley 7/2017, de 14 de diciembre, de medidas de eficiencia energética y garantía de accesibilidad a la energía eléctrica
-- Fecha: 2017-12-14
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Medio ambiente
-- Tramitación: ordinaria o sin dato
-- Apoyos: Voto sin desglosar
-- Votación: Pleno del 4-12-2017: aprobada «con los votos favorables del PP» (Europa Press). No consta si En Marea, PSdeG y BNG votaron en contra o se abstuvieron.
-- Qué cambia: Establece planes de ahorro y eficiencia energética y una ayuda de la Xunta que paga el 50 % del recibo eléctrico (antes del bono social) a consumidores en riesgo de exclusión social, cuyo suministro pasa a considerarse esencial. Obliga a las comercializadoras de último recurso a avisar a la Xunta de los cortes por impago.
-- Matiz: La Xunta la enmarcó en el bono social estatal (Real Decreto-ley 7/2016) y en sus ayudas previas contra la pobreza energética.
-- Fuentes:
-  - [BOE: Ley 7/2017, de eficiencia energética y accesibilidad a la energía eléctrica](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1751)
-  - [BOE (ELI): Ley 7/2017](https://www.boe.es/eli/es-ga/l/2017/12/14/7)
-  - [Europa Press: aprobada con los votos del PP la ley energética sin la tarifa eléctrica gallega](https://www.europapress.es/galicia/noticia-aprobada-votos-pp-ley-energetica-tarifa-electrica-gallega-20171204141858.html)
-
 ### Ley 6/2017, de 12 de diciembre, de puertos de Galicia
-- Fecha: 2017-12-12
+- Fecha: 2017-12-04
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Economía y empresas
 - Tramitación: ordinaria o sin dato
@@ -9026,6 +9011,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 6/2017, de puertos de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1750)
   - [BOE (ELI): Ley 6/2017](https://www.boe.es/eli/es-ga/l/2017/12/12/6)
   - [Europa Press: el PP aprueba en solitario la ley de puertos](https://www.europapress.es/galicia/noticia-pp-aprueba-solitario-ley-puertos-amplia-concesiones-30-50-anos-20171204134622.html)
+
+### Ley 7/2017, de 14 de diciembre, de medidas de eficiencia energética y garantía de accesibilidad a la energía eléctrica
+- Fecha: 2017-12-04
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Medio ambiente
+- Tramitación: ordinaria o sin dato
+- Apoyos: Voto sin desglosar
+- Votación: Pleno del 4-12-2017: aprobada «con los votos favorables del PP» (Europa Press). No consta si En Marea, PSdeG y BNG votaron en contra o se abstuvieron.
+- Qué cambia: Establece planes de ahorro y eficiencia energética y una ayuda de la Xunta que paga el 50 % del recibo eléctrico (antes del bono social) a consumidores en riesgo de exclusión social, cuyo suministro pasa a considerarse esencial. Obliga a las comercializadoras de último recurso a avisar a la Xunta de los cortes por impago.
+- Matiz: La Xunta la enmarcó en el bono social estatal (Real Decreto-ley 7/2016) y en sus ayudas previas contra la pobreza energética.
+- Fuentes:
+  - [BOE: Ley 7/2017, de eficiencia energética y accesibilidad a la energía eléctrica](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-1751)
+  - [BOE (ELI): Ley 7/2017](https://www.boe.es/eli/es-ga/l/2017/12/14/7)
+  - [Europa Press: aprobada con los votos del PP la ley energética sin la tarifa eléctrica gallega](https://www.europapress.es/galicia/noticia-aprobada-votos-pp-ley-energetica-tarifa-electrica-gallega-20171204141858.html)
 
 ### Autorización de las medidas del artículo 155 en Cataluña (remite a la ficha del registro del 27-oct-2017)
 - Fecha: 2017-10-27
@@ -9043,7 +9042,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: STC 90/2019](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-11902)
 
 ### Ley 5/2017, de 19 de octubre, de fomento de la implantación de iniciativas empresariales en Galicia
-- Fecha: 2017-10-19
+- Fecha: 2017-10-17
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Economía y empresas
 - Tramitación: ordinaria o sin dato
@@ -9055,20 +9054,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 5/2017, de fomento de iniciativas empresariales](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12949)
   - [BOE (ELI): Ley 5/2017](https://www.boe.es/eli/es-ga/l/2017/10/19/5)
   - [Europa Press: el PP aprueba en solitario la Ley de fomento empresarial](https://www.europapress.es/galicia/noticia-pp-aprueba-solitario-ley-fomento-empresarial-reproches-gestion-incendios-20171017152547.html)
-
-### Ley 4/2017, de 3 de octubre, de protección y bienestar de los animales de compañía en Galicia
-- Fecha: 2017-10-03
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Otros
-- Tramitación: ordinaria o sin dato
-- Apoyos: Solo el partido con mayoría
-- Votación: Pleno del 26-9-2017: a favor, PP; en contra, En Marea, PSdeG y BNG (Europa Press).
-- Qué cambia: Fija las obligaciones de dueños y establecimientos de animales de compañía, prohíbe el abandono y el sacrificio (salvo eutanasia regulada), ordena la recogida de animales perdidos y abandonados y crea un comité consultivo de protección animal.
-- Matiz: La Xunta la presentó como una actualización de la normativa de protección animal.
-- Fuentes:
-  - [BOE: Ley 4/2017, de protección y bienestar de los animales de compañía](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12357)
-  - [BOE (ELI): Ley 4/2017](https://www.boe.es/eli/es-ga/l/2017/10/03/4)
-  - [Europa Press: aprobada la ley de bienestar animal con el rechazo de toda la oposición](https://www.europapress.es/galicia/noticia-aprobada-ley-bienestar-animal-rechazo-toda-oposicion-afea-exclusion-toros-20170926131422.html)
 
 ### Ley de Contratos del Sector Público: el Senado cambia «convenio sectorial» por «convenio aplicable»
 - Fecha: 2017-09-27
@@ -9083,6 +9068,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOCG Senado: enmiendas del Senado mediante mensaje motivado (contratos)](https://www.senado.es/legis12/publicaciones/pdf/senado/bocg/BOCG_D_12_155_1279.PDF)
   - [BOE: Ley 9/2017, de Contratos del Sector Público](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12902)
   - [Senado: votación nominal, partes enmendadas en comisión, 27-9-2017](https://www.senado.es/legis12/votaciones/ses_22_581.xml)
+
+### Ley 4/2017, de 3 de octubre, de protección y bienestar de los animales de compañía en Galicia
+- Fecha: 2017-09-26
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Otros
+- Tramitación: ordinaria o sin dato
+- Apoyos: Solo el partido con mayoría
+- Votación: Pleno del 26-9-2017: a favor, PP; en contra, En Marea, PSdeG y BNG (Europa Press).
+- Qué cambia: Fija las obligaciones de dueños y establecimientos de animales de compañía, prohíbe el abandono y el sacrificio (salvo eutanasia regulada), ordena la recogida de animales perdidos y abandonados y crea un comité consultivo de protección animal.
+- Matiz: La Xunta la presentó como una actualización de la normativa de protección animal.
+- Fuentes:
+  - [BOE: Ley 4/2017, de protección y bienestar de los animales de compañía](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-12357)
+  - [BOE (ELI): Ley 4/2017](https://www.boe.es/eli/es-ga/l/2017/10/03/4)
+  - [Europa Press: aprobada la ley de bienestar animal con el rechazo de toda la oposición](https://www.europapress.es/galicia/noticia-aprobada-ley-bienestar-animal-rechazo-toda-oposicion-afea-exclusion-toros-20170926131422.html)
 
 ### Ley de RTVE (Ley 5/2017): el Senado cambia la composición y la elección del consejo
 - Fecha: 2017-09-13
@@ -9126,22 +9125,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Senado: votación nominal, dictamen, 8-3-2017](https://www.senado.es/legis12/votaciones/ses_12_124.xml)
   - [Senado: votación nominal, toma en consideración, 30-11-2016](https://www.senado.es/legis12/votaciones/ses_6_62.xml)
 
-### Ley 1/2017, de 8 de febrero, de presupuestos generales para 2017
-- Fecha: 2017-02-08
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Presupuestos y hacienda
-- Tramitación: ordinaria o sin dato
-- Apoyos: Solo el partido con mayoría
-- Votación: Pleno del 6-2-2017: «voto favorable del PP y el rechazo de En Marea, PSdeG y BNG» (Europa Press).
-- Qué cambia: Aprueba los presupuestos de 2017: 10.801 millones de euros en créditos consolidados de la Administración general, organismos autónomos y agencias. Congela las retribuciones del personal público respecto a diciembre de 2016, salvo la recuperación de conceptos recortados en 2013.
-- Matiz: Ley anual de presupuestos de la Xunta, aprobada en febrero porque las elecciones de septiembre de 2016 retrasaron su tramitación.
-- Fuentes:
-  - [BOE: Ley 1/2017, de presupuestos para 2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3822)
-  - [BOE (ELI): Ley 1/2017](https://www.boe.es/eli/es-ga/l/2017/02/08/1)
-  - [Europa Press: aprobados los presupuestos de la Xunta para 2017](https://www.europapress.es/galicia/noticia-aprobados-presupuestos-xunta-galicia-2017-20170206152739.html)
-
 ### Ley 2/2017, de 8 de febrero, de medidas fiscales, administrativas y de ordenación
-- Fecha: 2017-02-08
+- Fecha: 2017-02-07
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Fiscalidad
 - Tramitación: ómnibus
@@ -9155,6 +9140,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: STC 87/2018, recurso contra la Ley 2/2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2018-11700)
   - [BOE (ELI): Ley 2/2017](https://www.boe.es/eli/es-ga/l/2017/02/08/2)
   - [Europa Press: aprobada la ley de acompañamiento a los presupuestos de la Xunta](https://www.europapress.es/galicia/noticia-aprobada-ley-acompanamiento-presupuestos-xunta-20170207120241.html)
+
+### Ley 1/2017, de 8 de febrero, de presupuestos generales para 2017
+- Fecha: 2017-02-06
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Presupuestos y hacienda
+- Tramitación: ordinaria o sin dato
+- Apoyos: Solo el partido con mayoría
+- Votación: Pleno del 6-2-2017: «voto favorable del PP y el rechazo de En Marea, PSdeG y BNG» (Europa Press).
+- Qué cambia: Aprueba los presupuestos de 2017: 10.801 millones de euros en créditos consolidados de la Administración general, organismos autónomos y agencias. Congela las retribuciones del personal público respecto a diciembre de 2016, salvo la recuperación de conceptos recortados en 2013.
+- Matiz: Ley anual de presupuestos de la Xunta, aprobada en febrero porque las elecciones de septiembre de 2016 retrasaron su tramitación.
+- Fuentes:
+  - [BOE: Ley 1/2017, de presupuestos para 2017](https://www.boe.es/buscar/doc.php?id=BOE-A-2017-3822)
+  - [BOE (ELI): Ley 1/2017](https://www.boe.es/eli/es-ga/l/2017/02/08/1)
+  - [Europa Press: aprobados los presupuestos de la Xunta para 2017](https://www.europapress.es/galicia/noticia-aprobados-presupuestos-xunta-galicia-2017-20170206152739.html)
 
 ### Reforma del Reglamento del Senado (art. 49.3): Comisión de Derechos de la Familia, la Infancia y la Adolescencia
 - Fecha: 2016-11-30
@@ -9184,34 +9183,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Reforma del Reglamento del Senado (art. 49.2), 30-11-2016](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-11734)
   - [Senado: votación nominal, aprobación, 30-11-2016](https://www.senado.es/legis12/votaciones/ses_6_60.xml)
 
-### Ley 15/2016, de 28 de julio, del Plan gallego de estadística 2017-2021
-- Fecha: 2016-07-28
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Otros
-- Tramitación: ordinaria o sin dato
-- Apoyos: Solo el partido con mayoría
-- Votación: Pleno del 12-7-2016: «con votos a favor do PP, e abstención da oposición, con voto en contra de Xosé Manuel Beiras» (AGE), según Galicia Confidencial. La fuente no nombra a cada grupo.
-- Qué cambia: Aprueba el plan quinquenal de estadísticas oficiales de la comunidad para 2017-2021.
-- Matiz: Ley de planificación técnica, que se aprueba cada cinco años.
-- Fuentes:
-  - [BOE: Ley 15/2016, del Plan gallego de estadística](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8275)
-  - [BOE (ELI): Ley 15/2016](https://www.boe.es/eli/es-ga/l/2016/07/28/15)
-  - [Galicia Confidencial: luz verde á lei de transporte e ao Plan de estatística](https://www.galiciaconfidencial.com/texto-diario/mostrar/5627715/pleno-luz-verde-lei-salvar-fallo-anula-prorroga-concesions-transporte-estrada)
-
-### Ley 14/2016, de 27 de julio, por la que se modifica la Ley 4/2012 del Área Metropolitana de Vigo
-- Fecha: 2016-07-27
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Instituciones y control
-- Tramitación: ordinaria o sin dato
-- Apoyos: Sin votos en contra
-- Votación: Pleno del 12-7-2016: «Todos los grupos con representación en la Cámara gallega han votado favorablemente» (Atlántico).
-- Qué cambia: Cambia el gobierno del Área Metropolitana de Vigo: en la Junta de Gobierno cada alcalde vota según la población de su municipio, pero los acuerdos necesitan el apoyo de al menos cuatro ayuntamientos. También reordena sus competencias.
-- Matiz: Según la exposición de motivos, recoge el acuerdo alcanzado entre la Xunta y los catorce alcaldes en Vigo el 22 de febrero de 2016, tras cuatro años sin que el área llegara a funcionar.
-- Fuentes:
-  - [BOE: Ley 14/2016, del Área Metropolitana de Vigo](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8274)
-  - [BOE (ELI): Ley 14/2016](https://www.boe.es/eli/es-ga/l/2016/07/27/14)
-  - [Atlántico: el Parlamento aprueba por unanimidad el Área Metropolitana de Vigo](https://www.atlantico.net/vigo/vigo-tendra-nueva-ley-area-metropolitana-apoyo-unanime-camara_1_20160712-1506589.html)
-
 ### Ley 13/2016, de 26 de julio, de creación del Colegio Oficial de Terapeutas Ocupacionales de Galicia
 - Fecha: 2016-07-26
 - Cámara: Galicia · Mayoría absoluta: PP
@@ -9224,34 +9195,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [BOE: Ley 13/2016, del Colegio de Terapeutas Ocupacionales](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8273)
   - [BOE (ELI): Ley 13/2016](https://www.boe.es/eli/es-ga/l/2016/07/26/13)
-
-### Ley 12/2016, de 22 de julio, por la que se modifica la Ley 11/2007 gallega contra la violencia de género
-- Fecha: 2016-07-22
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Derechos y libertades
-- Tramitación: ordinaria o sin dato
-- Apoyos: Voto sin desglosar
-- Votación: Pleno del 12-7-2016. Era una proposición del BNG. Votaron a favor todos los grupos salvo el PSdeG: «Sólo el PSdeG se descolgó» (Europa Press). No consta si el PSdeG votó en contra o se abstuvo.
-- Qué cambia: Incluye expresamente la trata de mujeres y niñas con fines de explotación sexual como violencia de género y rehace la prestación económica periódica para las víctimas, que la Xunta debe garantizar según su situación económica.
-- Matiz: La ley partió de una proposición del BNG (Europa Press). Su texto prevé una prestación dirigida a posibilitar la «autonomía e independencia económica» de las víctimas respecto de su agresor.
-- Fuentes:
-  - [BOE: Ley 12/2016, de modificación de la ley contra la violencia de género](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8272)
-  - [BOE (ELI): Ley 12/2016](https://www.boe.es/eli/es-ga/l/2016/07/22/12)
-  - [Europa Press: Galicia ya reconoce la trata de mujeres como violencia machista](https://www.europapress.es/galicia/noticia-galicia-ya-reconoce-trata-mujeres-violencia-machista-20160712200922.html)
-
-### Ley 10/2016, de 19 de julio, de medidas urgentes para la actualización del sistema de transporte público de Galicia
-- Fecha: 2016-07-19
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Economía y empresas
-- Tramitación: ordinaria o sin dato
-- Apoyos: Sin votos en contra
-- Votación: Pleno del 12-7-2016: «con votos a favor do ditame de PP e abstención da oposición» (Galicia Confidencial). La fuente no nombra a cada grupo. Ningún voto en contra.
-- Qué cambia: Prevé un Plan de transporte público de Galicia para reordenar las líneas regulares de viajeros que dependen de la Xunta, con medidas transitorias hasta su aprobación.
-- Matiz: El título dice «medidas urgentes», pero en las fuentes leídas no consta si se tramitó por urgencia. La Xunta alegó movilidad en igualdad y sostenibilidad económica del servicio.
-- Fuentes:
-  - [BOE: Ley 10/2016, de transporte público de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8270)
-  - [BOE (ELI): Ley 10/2016](https://www.boe.es/eli/es-ga/l/2016/07/19/10)
-  - [Galicia Confidencial: luz verde á lei de transporte e ao Plan de estatística](https://www.galiciaconfidencial.com/texto-diario/mostrar/5627715/pleno-luz-verde-lei-salvar-fallo-anula-prorroga-concesions-transporte-estrada)
 
 ### Ley 11/2016, de 19 de julio, de creación de los colegios provinciales de economistas por fusión
 - Fecha: 2016-07-19
@@ -9266,6 +9209,62 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 11/2016, de colegios de economistas](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8271)
   - [BOE (ELI): Ley 11/2016](https://www.boe.es/eli/es-ga/l/2016/07/19/11)
 
+### Ley 10/2016, de 19 de julio, de medidas urgentes para la actualización del sistema de transporte público de Galicia
+- Fecha: 2016-07-12
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Economía y empresas
+- Tramitación: proposición del grupo del Gobierno
+- Apoyos: Sin votos en contra
+- Votación: Pleno del 12-7-2016: «con votos a favor do ditame de PP e abstención da oposición» (Galicia Confidencial). La fuente no nombra a cada grupo; al abstenerse la oposición, no hubo votos en contra. Era una proposición de ley «impulsada polo grupo maioritario».
+- Qué cambia: Prevé un Plan de transporte público de Galicia para reordenar las líneas regulares de viajeros que dependen de la Xunta, con medidas transitorias hasta su aprobación.
+- Matiz: El título dice «medidas urgentes», pero en las fuentes leídas no consta si se tramitó por urgencia. La Xunta alegó movilidad en igualdad y sostenibilidad económica del servicio.
+- Fuentes:
+  - [BOE: Ley 10/2016, de transporte público de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8270)
+  - [BOE (ELI): Ley 10/2016](https://www.boe.es/eli/es-ga/l/2016/07/19/10)
+  - [Galicia Confidencial: luz verde á lei de transporte e ao Plan de estatística](https://www.galiciaconfidencial.com/texto-diario/mostrar/5627715/pleno-luz-verde-lei-salvar-fallo-anula-prorroga-concesions-transporte-estrada)
+
+### Ley 12/2016, de 22 de julio, por la que se modifica la Ley 11/2007 gallega contra la violencia de género
+- Fecha: 2016-07-12
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Derechos y libertades
+- Tramitación: ordinaria o sin dato
+- Apoyos: Voto sin desglosar
+- Votación: Pleno del 12-7-2016. Era una proposición del BNG. Votaron a favor todos los grupos salvo el PSdeG: «Sólo el PSdeG se descolgó» (Europa Press). No consta si el PSdeG votó en contra o se abstuvo.
+- Qué cambia: Incluye expresamente la trata de mujeres y niñas con fines de explotación sexual como violencia de género y rehace la prestación económica periódica para las víctimas, que la Xunta debe garantizar según su situación económica.
+- Matiz: La ley partió de una proposición del BNG (Europa Press). Su texto prevé una prestación dirigida a posibilitar la «autonomía e independencia económica» de las víctimas respecto de su agresor.
+- Fuentes:
+  - [BOE: Ley 12/2016, de modificación de la ley contra la violencia de género](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8272)
+  - [BOE (ELI): Ley 12/2016](https://www.boe.es/eli/es-ga/l/2016/07/22/12)
+  - [Europa Press: Galicia ya reconoce la trata de mujeres como violencia machista](https://www.europapress.es/galicia/noticia-galicia-ya-reconoce-trata-mujeres-violencia-machista-20160712200922.html)
+
+### Ley 14/2016, de 27 de julio, por la que se modifica la Ley 4/2012 del Área Metropolitana de Vigo
+- Fecha: 2016-07-12
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Instituciones y control
+- Tramitación: ordinaria o sin dato
+- Apoyos: Sin votos en contra
+- Votación: Pleno del 12-7-2016: «Todos los grupos con representación en la Cámara gallega han votado favorablemente» (Atlántico).
+- Qué cambia: Cambia el gobierno del Área Metropolitana de Vigo: en la Junta de Gobierno cada alcalde vota según la población de su municipio, pero los acuerdos necesitan el apoyo de al menos cuatro ayuntamientos. También reordena sus competencias.
+- Matiz: Según la exposición de motivos, recoge el acuerdo alcanzado entre la Xunta y los catorce alcaldes en Vigo el 22 de febrero de 2016, tras cuatro años sin que el área llegara a funcionar.
+- Fuentes:
+  - [BOE: Ley 14/2016, del Área Metropolitana de Vigo](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8274)
+  - [BOE (ELI): Ley 14/2016](https://www.boe.es/eli/es-ga/l/2016/07/27/14)
+  - [Atlántico: el Parlamento aprueba por unanimidad el Área Metropolitana de Vigo](https://www.atlantico.net/vigo/vigo-tendra-nueva-ley-area-metropolitana-apoyo-unanime-camara_1_20160712-1506589.html)
+
+### Ley 15/2016, de 28 de julio, del Plan gallego de estadística 2017-2021
+- Fecha: 2016-07-12
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Otros
+- Tramitación: ordinaria o sin dato
+- Apoyos: Solo el partido con mayoría
+- Votación: Pleno del 12-7-2016: «con votos a favor do PP, e abstención da oposición, con voto en contra de Xosé Manuel Beiras» (AGE), según Galicia Confidencial. La fuente no nombra a cada grupo.
+- Qué cambia: Aprueba el plan quinquenal de estadísticas oficiales de la comunidad para 2017-2021.
+- Matiz: Ley de planificación técnica, que se aprueba cada cinco años.
+- Fuentes:
+  - [BOE: Ley 15/2016, del Plan gallego de estadística](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8275)
+  - [BOE (ELI): Ley 15/2016](https://www.boe.es/eli/es-ga/l/2016/07/28/15)
+  - [Galicia Confidencial: luz verde á lei de transporte e ao Plan de estatística](https://www.galiciaconfidencial.com/texto-diario/mostrar/5627715/pleno-luz-verde-lei-salvar-fallo-anula-prorroga-concesions-transporte-estrada)
+
 ### Ley 8/2016, de 8 de julio, por la que se modifica la Ley 13/2008 de servicios sociales de Galicia
 - Fecha: 2016-07-08
 - Cámara: Galicia · Mayoría absoluta: PP
@@ -9279,22 +9278,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 8/2016, de modificación de la ley de servicios sociales](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8268)
   - [BOE (ELI): Ley 8/2016](https://www.boe.es/eli/es-ga/l/2016/07/08/8)
 
-### Ley 9/2016, de 8 de julio, por la que se modifica la Ley 4/2007 de coordinación de policías locales
-- Fecha: 2016-07-08
-- Cámara: Galicia · Mayoría absoluta: PP
-- Tema: Otros
-- Tramitación: ordinaria o sin dato
-- Apoyos: Sin votos en contra
-- Votación: Pleno del 28-6-2016: a favor, PP y PSdeG; abstención de BNG, AGE y Grupo Mixto (Galicia Confidencial, Europa Press). Ningún voto en contra.
-- Qué cambia: Cambios en la coordinación de las policías locales: permite a los ayuntamientos asociarse para tener una galería de tiro común, da un puesto en la comisión de coordinación a la asociación profesional más representativa y regula acuerdos de colaboración entre ayuntamientos para prestar el servicio.
-- Matiz: Reforma parcial y técnica.
-- Fuentes:
-  - [BOE: Ley 9/2016, de coordinación de policías locales](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8269)
-  - [BOE (ELI): Ley 9/2016](https://www.boe.es/eli/es-ga/l/2016/07/08/9)
-  - [Galicia Confidencial: aprobada a reforma da Lei de policía local](https://www.galiciaconfidencial.com/texto-diario/mostrar/5628773/pleno-aprobada-reforma-da-lei-policia-local-elimina-tope-idade-acceder-e-permite-cubrir-prazas)
-
 ### Ley 7/2016, de 1 de julio, de retribución extraordinaria al personal del sector público autonómico (recuperación del recorte de enero y febrero de 2013)
-- Fecha: 2016-07-01
+- Fecha: 2016-06-28
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Trabajo y empleo público
 - Tramitación: urgencia, lectura única
@@ -9306,6 +9291,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 7/2016, de retribución extraordinaria](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8267)
   - [BOE (ELI): Ley 7/2016](https://www.boe.es/eli/es-ga/l/2016/07/01/7)
   - [La Región: aprobada la ley para que los funcionarios recuperen parte de la extra de 2013](https://www.laregion.es/articulo/galicia/aprobada-ley-funcionarios-recuperen-parte-extra-2013/20160628220408632048.html)
+
+### Ley 9/2016, de 8 de julio, por la que se modifica la Ley 4/2007 de coordinación de policías locales
+- Fecha: 2016-06-28
+- Cámara: Galicia · Mayoría absoluta: PP
+- Tema: Otros
+- Tramitación: ordinaria o sin dato
+- Apoyos: Sin votos en contra
+- Votación: Pleno del 28-6-2016: a favor, PP y PSdeG; abstención de BNG, AGE y Grupo Mixto (Galicia Confidencial). Ningún voto en contra.
+- Qué cambia: Cambios en la coordinación de las policías locales: permite a los ayuntamientos asociarse para tener una galería de tiro común, da un puesto en la comisión de coordinación a la asociación profesional más representativa y regula acuerdos de colaboración entre ayuntamientos para prestar el servicio.
+- Matiz: Reforma parcial y técnica.
+- Fuentes:
+  - [BOE: Ley 9/2016, de coordinación de policías locales](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8269)
+  - [BOE (ELI): Ley 9/2016](https://www.boe.es/eli/es-ga/l/2016/07/08/9)
+  - [Galicia Confidencial: aprobada a reforma da Lei de policía local](https://www.galiciaconfidencial.com/texto-diario/mostrar/5628773/pleno-aprobada-reforma-da-lei-policia-local-elimina-tope-idade-acceder-e-permite-cubrir-prazas)
 
 ### Ley 5/2016, de 4 de mayo, del patrimonio cultural de Galicia
 - Fecha: 2016-05-04
@@ -10640,12 +10639,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Huelga indefinida docente (Comunitat Valenciana)
 - Fecha: may-jun 2026 · Sector: Educación
-- Convocan: STEPV, CCOO y UGT, con la Coordinadora d'Assemblees Docents del País Valencià
+- Convocan: STEPV, CCOO y UGT, con la Coordinadora d'Assemblees Docents del País Valencià; según EFE, CSIF también figuraba entre los convocantes en la manifestación del 15 de mayo
 - Qué pedían: Mejoras salariales, más plantilla, bajar las ratios, inclusión y blindar las líneas en valenciano
 - Cifra oficial: Delegación del Gobierno: más de 35.000 personas en la manifestación de València del 15 de mayo.
-- Según quien convoca: En la consulta sindical votaron 30.238 docentes: el 87% rechazó el acuerdo y el 71% votó suspender la huelga.
+- Según quien convoca: Sin cifra de asistentes de los convocantes en las fuentes leídas.
 - Quién gobernaba: Pérez Llorca (PP). Competencia autonómica.
-- En qué acabó: Tras la consulta del 10 de junio, los sindicatos se inclinaron por suspenderla sin acuerdo y retomar la protesta el curso siguiente.
+- En qué acabó: En la consulta sindical votaron 30.238 docentes: el 87% rechazó el acuerdo y el 71% votó suspender la huelga. Tras la consulta del 10 de junio, los sindicatos se inclinaron por suspenderla sin acuerdo y retomar la protesta el curso siguiente.
 - Fuentes:
   - [elDiario.es: los docentes rechazan el acuerdo y suspenden la huelga](https://www.eldiario.es/comunitat-valenciana/docentes-valencianos-rechazan-masivamente-acuerdo-global-educacion-votan-suspender-huelga-indefinida_1_13292179.html)
   - [Infobae (EFE): la manifestación del 15 de mayo en València](https://www.infobae.com/espana/agencias/2026/05/15/una-manifestacion-multitudinaria-de-docentes-y-estudiantes-colapsa-el-centro-de-valencia/)
@@ -10825,10 +10824,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: may-jun 2025 · Sector: Educación
 - Convocan: CSIF (indefinida), CCOO, UGT, SUATEA y ANPE
 - Qué pedían: Mantener la jornada reducida, salario, atención a la diversidad y menos burocracia
-- Cifra oficial: Delegación del Gobierno: 19.000 personas en la manifestación de Oviedo del 1 de junio. La consejera de Educación dimitió durante la huelga.
+- Cifra oficial: Delegación del Gobierno: 19.000 personas en la manifestación de Oviedo del 1 de junio.
 - Según quien convoca: Sindicatos: 30.000 personas en la manifestación de Oviedo.
 - Quién gobernaba: Barbón (PSOE e IU). Competencia autonómica.
-- En qué acabó: Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subidas de hasta 210 € al mes (140 € a través del complemento específico).
+- En qué acabó: La consejera de Educación dimitió durante la huelga. Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subidas de hasta 210 € al mes (140 € a través del complemento específico).
 - Fuentes:
   - [RTPA: preacuerdo con el Principado](https://www.rtpa.es/noticias-asturias/2025-06-09/Los-sindicatos-docentes-y-el-Principado-llegan-a-un-preacuerdo-con-el-Principado_111749487659.html)
   - [El Salto: crónica de la huelga](https://www.elsaltodiario.com/asturias/educacion-pie-guerra-cronica-huelga-ha-sacudido-final-curso-asturias)
@@ -10924,7 +10923,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Convocan: Marea Blanca
 - Qué pedían: «Un razonable aumento del gasto» para reforzar las plantillas de atención primaria y usar la capacidad desaprovechada de los hospitales públicos
 - Cifra oficial: Delegación del Gobierno, con estimaciones de la Policía Nacional: unas 12.150 personas el día 17; Sevilla 6.000, Granada 1.600, Córdoba 1.500, Málaga 1.500, Jaén 650, Almería 500 y Huelva 400. La de Cádiz fue el día anterior.
-- Según quien convoca: Granada 5.500, Málaga 10.000 y Huelva 600; sin total.
+- Según quien convoca: Cádiz (el día 16) unas 1.200, Granada 5.500, Málaga 10.000 y Huelva 600; sin total.
 - Quién gobernaba: Junta del PP (Moreno), con mayoría absoluta. Competencia autonómica.
 - En qué acabó: Movilización.
 - Fuentes:
@@ -11117,7 +11116,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 13 nov 2022 · Sector: Sanidad
 - Convocan: Las fuentes no coinciden: según EFE (COPE), la convocó inicialmente la Red de Solidaridad Popular de Latina-Carabanchel, a la que se sumaron la FRAVM, sindicatos y partidos; según The Objective, la FRAVM
 - Qué pedían: Defender la sanidad pública y frenar lo que llamaban «el plan de destrucción de la Atención Primaria»
-- Cifra oficial: Más de 200.000 según la Delegación del Gobierno.
+- Cifra oficial: Delegación del Gobierno: 200.000 según The Objective y EFE (COPE); «más de 200.000» según El Español.
 - Según quien convoca: 670.000 (antes habían dado 300.000).
 - Quién gobernaba: Ayuso (PP en solitario). Competencia autonómica.
 - En qué acabó: Movilización. Ocho días después empezó la huelga de médicos de atención primaria (ver su entrada).
