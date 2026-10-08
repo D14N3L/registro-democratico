@@ -1,0 +1,297 @@
+{
+ "id": "pisa_ccaa",
+ "nombre": "PISA: rendimiento medio estimado en matemáticas, lectura y ciencias, por comunidad autónoma (2022 y 2025)",
+ "unidad": "puntos PISA",
+ "definicion": "Rendimiento medio estimado del alumnado de 15 años en cada competencia (valor plausible medio). España, Promedio OCDE, Total UE, comunidades y ciudades autónomas.",
+ "fuente": "Ministerio de Educación, FP y Deportes (INEE). PISA 2022 Informe español (tablas del capítulo 2: 2.1 matemáticas, 2.20 lectura, 2.21 ciencias) y PISA 2025 Informe español (tablas del capítulo 2: Figuras 2.18 matemáticas, 2.14 lectura y 2.1 ciencias).",
+ "url_pagina_indice": "https://www.educacionfpydeportes.gob.es/inee/evaluaciones-internacionales/pisa.html",
+ "urls": {
+  "2022_tablas": "https://www.educacionfpydeportes.gob.es/dam/jcr:8ff7296f-61be-4614-981c-7144a18ba7b7/tablas-maquetadas-pisa-2022.rar",
+  "2025_tablas": "https://www.educacionfpydeportes.gob.es/dam/jcr:4f7056b5-02d7-4e6d-a454-2caa3e04893f/tablas-informe.rar",
+  "2025_informe": "https://www.educacionfpydeportes.gob.es/dam/jcr:2f30e3ec-dbcd-4876-8550-5daedc1d7bbe/informepisadigital2025.pdf"
+ },
+ "fecha_consulta": "2026-10-08",
+ "anios": [
+  "2022",
+  "2025"
+ ],
+ "notas": [
+  "Valores redondeados a un decimal desde los Excel oficiales; sin cálculos propios.",
+  "Comprobación: los valores de matemáticas 2022 coinciden con la columna 2022 de la Figura 2.22 del informe de 2025 (0 diferencias).",
+  "PISA 2018 no se incluye: la OCDE no publicó los resultados de lectura de España de 2018 (Anexo A9 del informe internacional; citado en el informe español de 2025, p. 68).",
+  "Cataluña 2025 se deja en blanco a propósito. Nota oficial: «Debido al alto porcentaje de alumnado excluido (23,2 %), estos datos solo representan al alumnado que realizó la prueba y no al conjunto del alumnado de Cataluña; por tanto, no deben ser utilizados para comparaciones con otros territorios o con ediciones anteriores de PISA». Valores publicados para Cataluña 2025: matemáticas 473,8; lectura 473,0; ciencias 501,9.",
+  "Murcia 2025, nota oficial: «A pesar del elevado porcentaje de alumnado excluido (12,7 %), estos datos pueden utilizarse para establecer comparaciones con otros territorios o con ediciones anteriores de PISA, siempre que se interpreten con la debida cautela por el posible riesgo de sesgo»."
+ ],
+ "valores": {
+  "mat": {
+   "Andalucía": {
+    "2022": 457.2,
+    "2025": 441.7
+   },
+   "Aragón": {
+    "2022": 486.9,
+    "2025": 462.0
+   },
+   "Asturias": {
+    "2022": 494.9,
+    "2025": 468.8
+   },
+   "Baleares": {
+    "2022": 470.9,
+    "2025": 448.7
+   },
+   "Canarias": {
+    "2022": 447.1,
+    "2025": 442.4
+   },
+   "Cantabria": {
+    "2022": 494.6,
+    "2025": 470.0
+   },
+   "Castilla y León": {
+    "2022": 499.2,
+    "2025": 472.0
+   },
+   "Castilla-La Mancha": {
+    "2022": 463.6,
+    "2025": 462.4
+   },
+   "Cataluña": {
+    "2022": 469.3,
+    "2025": null
+   },
+   "Ceuta": {
+    "2022": 394.8,
+    "2025": 405.2
+   },
+   "Comunitat Valenciana": {
+    "2022": 472.8,
+    "2025": 434.7
+   },
+   "Extremadura": {
+    "2022": 469.1,
+    "2025": 454.3
+   },
+   "Galicia": {
+    "2022": 486.5,
+    "2025": 465.5
+   },
+   "La Rioja": {
+    "2022": 492.6,
+    "2025": 462.2
+   },
+   "Madrid": {
+    "2022": 493.7,
+    "2025": 477.3
+   },
+   "Melilla": {
+    "2022": 403.8,
+    "2025": 394.9
+   },
+   "Murcia": {
+    "2022": 463.2,
+    "2025": 447.3
+   },
+   "Navarra": {
+    "2022": 492.4,
+    "2025": 461.6
+   },
+   "País Vasco": {
+    "2022": 482.1,
+    "2025": 460.0
+   },
+   "Promedio OCDE": {
+    "2022": 472.4,
+    "2025": 463.0
+   },
+   "Total España": {
+    "2022": 473.1,
+    "2025": 457.4
+   },
+   "Total UE": {
+    "2022": 473.7,
+    "2025": 462.9
+   }
+  },
+  "lec": {
+   "Andalucía": {
+    "2022": 461.1,
+    "2025": 441.1
+   },
+   "Aragón": {
+    "2022": 487.6,
+    "2025": 460.7
+   },
+   "Asturias": {
+    "2022": 497.2,
+    "2025": 471.4
+   },
+   "Baleares": {
+    "2022": 471.7,
+    "2025": 441.0
+   },
+   "Canarias": {
+    "2022": 462.9,
+    "2025": 444.9
+   },
+   "Cantabria": {
+    "2022": 494.0,
+    "2025": 461.4
+   },
+   "Castilla y León": {
+    "2022": 498.0,
+    "2025": 466.4
+   },
+   "Castilla-La Mancha": {
+    "2022": 467.6,
+    "2025": 461.1
+   },
+   "Cataluña": {
+    "2022": 462.5,
+    "2025": null
+   },
+   "Ceuta": {
+    "2022": 404.3,
+    "2025": 396.6
+   },
+   "Comunitat Valenciana": {
+    "2022": 481.8,
+    "2025": 423.5
+   },
+   "Extremadura": {
+    "2022": 468.2,
+    "2025": 450.7
+   },
+   "Galicia": {
+    "2022": 485.5,
+    "2025": 453.7
+   },
+   "La Rioja": {
+    "2022": 486.7,
+    "2025": 460.9
+   },
+   "Madrid": {
+    "2022": 496.2,
+    "2025": 469.5
+   },
+   "Melilla": {
+    "2022": 405.4,
+    "2025": 378.8
+   },
+   "Murcia": {
+    "2022": 468.2,
+    "2025": 447.7
+   },
+   "Navarra": {
+    "2022": 477.8,
+    "2025": 440.8
+   },
+   "País Vasco": {
+    "2022": 466.3,
+    "2025": 419.1
+   },
+   "Promedio OCDE": {
+    "2022": 475.6,
+    "2025": 460.9
+   },
+   "Total España": {
+    "2022": 474.3,
+    "2025": 451.4
+   },
+   "Total UE": {
+    "2022": 474.7,
+    "2025": 459.4
+   }
+  },
+  "cie": {
+   "Andalucía": {
+    "2022": 473.3,
+    "2025": 461.6
+   },
+   "Aragón": {
+    "2022": 499.5,
+    "2025": 481.9
+   },
+   "Asturias": {
+    "2022": 503.1,
+    "2025": 492.2
+   },
+   "Baleares": {
+    "2022": 479.7,
+    "2025": 471.2
+   },
+   "Canarias": {
+    "2022": 472.5,
+    "2025": 469.4
+   },
+   "Cantabria": {
+    "2022": 504.0,
+    "2025": 489.5
+   },
+   "Castilla y León": {
+    "2022": 506.3,
+    "2025": 492.7
+   },
+   "Castilla-La Mancha": {
+    "2022": 474.9,
+    "2025": 484.5
+   },
+   "Cataluña": {
+    "2022": 477.3,
+    "2025": null
+   },
+   "Ceuta": {
+    "2022": 410.1,
+    "2025": 420.3
+   },
+   "Comunitat Valenciana": {
+    "2022": 482.9,
+    "2025": 450.2
+   },
+   "Extremadura": {
+    "2022": 479.3,
+    "2025": 473.5
+   },
+   "Galicia": {
+    "2022": 505.9,
+    "2025": 485.9
+   },
+   "La Rioja": {
+    "2022": 499.5,
+    "2025": 483.9
+   },
+   "Madrid": {
+    "2022": 502.1,
+    "2025": 494.6
+   },
+   "Melilla": {
+    "2022": 414.3,
+    "2025": 405.4
+   },
+   "Murcia": {
+    "2022": 481.6,
+    "2025": 470.2
+   },
+   "Navarra": {
+    "2022": 489.0,
+    "2025": 472.4
+   },
+   "País Vasco": {
+    "2022": 479.5,
+    "2025": 458.5
+   },
+   "Promedio OCDE": {
+    "2022": 484.6,
+    "2025": 481.9
+   },
+   "Total España": {
+    "2022": 484.5,
+    "2025": 477.1
+   },
+   "Total UE": {
+    "2022": 484.3,
+    "2025": 480.6
+   }
+  }
+ }
+}

@@ -2498,6 +2498,519 @@
    ]
   },
   {
+   "id": "edu_pisa_mat",
+   "pilar": "Educación",
+   "nombre": "PISA: resultados en matemáticas",
+   "unidad": "puntos PISA",
+   "mide": "La puntuación media del alumnado de 15 años en la prueba de matemáticas de PISA, en 2022 y en 2025.",
+   "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela. No se incluye PISA 2018 porque la OCDE no publicó la lectura de España de ese año.",
+   "fuente": "Ministerio de Educación, FP y Deportes (INEE). PISA 2022 Informe español (tablas del capítulo 2: 2.1 matemáticas, 2.20 lectura, 2.21 ciencias) y PISA 2025 Informe español (tablas del capítulo 2: Figuras 2.18 matemáticas, 2.14 lectura y 2.1 ciencias).",
+   "url": "https://www.educacionfpydeportes.gob.es/inee/evaluaciones-internacionales/pisa.html",
+   "consulta": "2026-10-08",
+   "periodos": [
+    "2022",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      473.1,
+      457.4
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      457.2,
+      441.7
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      486.9,
+      462
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      494.9,
+      468.8
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      470.9,
+      448.7
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      447.1,
+      442.4
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      494.6,
+      470
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      499.2,
+      472
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      463.6,
+      462.4
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      469.3,
+      null
+     ]
+    },
+    {
+     "ambito": "Ceuta",
+     "valores": [
+      394.8,
+      405.2
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      472.8,
+      434.7
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      469.1,
+      454.3
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      486.5,
+      465.5
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      492.6,
+      462.2
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      493.7,
+      477.3
+     ]
+    },
+    {
+     "ambito": "Melilla",
+     "valores": [
+      403.8,
+      394.9
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      463.2,
+      447.3
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      492.4,
+      461.6
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      482.1,
+      460
+     ]
+    },
+    {
+     "ambito": "Promedio OCDE",
+     "valores": [
+      472.4,
+      463
+     ]
+    },
+    {
+     "ambito": "Total UE",
+     "valores": [
+      473.7,
+      462.9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edu_pisa_lec",
+   "pilar": "Educación",
+   "nombre": "PISA: resultados en lectura",
+   "unidad": "puntos PISA",
+   "mide": "La puntuación media del alumnado de 15 años en la prueba de lectura de PISA, en 2022 y en 2025.",
+   "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela.",
+   "fuente": "Ministerio de Educación, FP y Deportes (INEE). PISA 2022 Informe español (tablas del capítulo 2: 2.1 matemáticas, 2.20 lectura, 2.21 ciencias) y PISA 2025 Informe español (tablas del capítulo 2: Figuras 2.18 matemáticas, 2.14 lectura y 2.1 ciencias).",
+   "url": "https://www.educacionfpydeportes.gob.es/inee/evaluaciones-internacionales/pisa.html",
+   "consulta": "2026-10-08",
+   "periodos": [
+    "2022",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      474.3,
+      451.4
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      461.1,
+      441.1
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      487.6,
+      460.7
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      497.2,
+      471.4
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      471.7,
+      441
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      462.9,
+      444.9
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      494,
+      461.4
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      498,
+      466.4
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      467.6,
+      461.1
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      462.5,
+      null
+     ]
+    },
+    {
+     "ambito": "Ceuta",
+     "valores": [
+      404.3,
+      396.6
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      481.8,
+      423.5
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      468.2,
+      450.7
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      485.5,
+      453.7
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      486.7,
+      460.9
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      496.2,
+      469.5
+     ]
+    },
+    {
+     "ambito": "Melilla",
+     "valores": [
+      405.4,
+      378.8
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      468.2,
+      447.7
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      477.8,
+      440.8
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      466.3,
+      419.1
+     ]
+    },
+    {
+     "ambito": "Promedio OCDE",
+     "valores": [
+      475.6,
+      460.9
+     ]
+    },
+    {
+     "ambito": "Total UE",
+     "valores": [
+      474.7,
+      459.4
+     ]
+    }
+   ]
+  },
+  {
+   "id": "edu_pisa_cie",
+   "pilar": "Educación",
+   "nombre": "PISA: resultados en ciencias",
+   "unidad": "puntos PISA",
+   "mide": "La puntuación media del alumnado de 15 años en la prueba de ciencias de PISA, en 2022 y en 2025. Ciencias fue la competencia principal de PISA 2025.",
+   "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela.",
+   "fuente": "Ministerio de Educación, FP y Deportes (INEE). PISA 2022 Informe español (tablas del capítulo 2: 2.1 matemáticas, 2.20 lectura, 2.21 ciencias) y PISA 2025 Informe español (tablas del capítulo 2: Figuras 2.18 matemáticas, 2.14 lectura y 2.1 ciencias).",
+   "url": "https://www.educacionfpydeportes.gob.es/inee/evaluaciones-internacionales/pisa.html",
+   "consulta": "2026-10-08",
+   "periodos": [
+    "2022",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      484.5,
+      477.1
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      473.3,
+      461.6
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      499.5,
+      481.9
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      503.1,
+      492.2
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      479.7,
+      471.2
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      472.5,
+      469.4
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      504,
+      489.5
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      506.3,
+      492.7
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      474.9,
+      484.5
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      477.3,
+      null
+     ]
+    },
+    {
+     "ambito": "Ceuta",
+     "valores": [
+      410.1,
+      420.3
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      482.9,
+      450.2
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      479.3,
+      473.5
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      505.9,
+      485.9
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      499.5,
+      483.9
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      502.1,
+      494.6
+     ]
+    },
+    {
+     "ambito": "Melilla",
+     "valores": [
+      414.3,
+      405.4
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      481.6,
+      470.2
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      489,
+      472.4
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      479.5,
+      458.5
+     ]
+    },
+    {
+     "ambito": "Promedio OCDE",
+     "valores": [
+      484.6,
+      481.9
+     ]
+    },
+    {
+     "ambito": "Total UE",
+     "valores": [
+      484.3,
+      480.6
+     ]
+    }
+   ]
+  },
+  {
    "id": "edu_ratio",
    "pilar": "Educación",
    "nombre": "Alumnos por profesor en la enseñanza pública",

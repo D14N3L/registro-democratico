@@ -83,6 +83,36 @@
   "aviso": "Sale de la Encuesta de Población Activa: en comunidades pequeñas (Cantabria, La Rioja, Ceuta, Melilla) el margen de error es grande. Eurostat marca una ruptura de serie en 2021."
  },
  {
+  "id": "edu_pisa_mat",
+  "pilar": "Educación",
+  "nombre": "PISA: resultados en matemáticas",
+  "unidad": "puntos PISA",
+  "serie": "pisa_ccaa.json",
+  "ruta": ["mat"],
+  "mide": "La puntuación media del alumnado de 15 años en la prueba de matemáticas de PISA, en 2022 y en 2025.",
+  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela. No se incluye PISA 2018 porque la OCDE no publicó la lectura de España de ese año."
+ },
+ {
+  "id": "edu_pisa_lec",
+  "pilar": "Educación",
+  "nombre": "PISA: resultados en lectura",
+  "unidad": "puntos PISA",
+  "serie": "pisa_ccaa.json",
+  "ruta": ["lec"],
+  "mide": "La puntuación media del alumnado de 15 años en la prueba de lectura de PISA, en 2022 y en 2025.",
+  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela."
+ },
+ {
+  "id": "edu_pisa_cie",
+  "pilar": "Educación",
+  "nombre": "PISA: resultados en ciencias",
+  "unidad": "puntos PISA",
+  "serie": "pisa_ccaa.json",
+  "ruta": ["cie"],
+  "mide": "La puntuación media del alumnado de 15 años en la prueba de ciencias de PISA, en 2022 y en 2025. Ciencias fue la competencia principal de PISA 2025.",
+  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela."
+ },
+ {
   "id": "edu_ratio",
   "pilar": "Educación",
   "nombre": "Alumnos por profesor en la enseñanza pública",
