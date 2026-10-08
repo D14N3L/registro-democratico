@@ -4479,8 +4479,8 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cámara: Senado · Mayoría absoluta: PP
 - Tema: Instituciones y control
 - Tramitación: ordinaria o sin dato
-- Apoyos: Voto sin desglosar
-- Votación: Cada conflicto se aprobó con la mayoría absoluta del PP; no se ha podido confirmar el voto por grupos de la mayoría de ellos
+- Apoyos: Con otros grupos
+- Votación: Votaciones nominales del Pleno, según los datos abiertos del Senado: se localizan 15 votaciones que aprobaron 16 conflictos (la del 11-2-2025 aprobó dos a la vez); el 17.º no aparece en los ficheros publicados. En esas 15: GP Popular, a favor en todas (en una, un senador votó en contra); GP Socialista, en contra en todas; GP Mixto, a favor en 13; GP Vasco (PNV), abstención en 11 y en contra en 3; Izquierdas por la Independencia (ERC-Bildu), abstención en 11, en contra en 2 y sin votar en 2; Plural (Junts, CC, AHI y BNG), abstención en 9, en contra en 3 y a favor en 2; Izquierda Confederal, en contra en 11 y abstención en 3. Se cuenta lo que votó la mayoría de cada grupo; en varios hubo votos divididos.
 - Qué cambia: El Senado aprobó 17 conflictos de atribuciones (9 contra el Gobierno y 8 contra el Congreso), según EFE; antes esta vía solo se había usado cinco veces desde 1985. Trece constan admitidos a trámite en el BOE: antecedentes penales (contra el Congreso, n.º 9110-2024), eficiencia de la Justicia (dos: 2764-2025 contra el Gobierno y 2766-2025 contra el Congreso), desperdicio alimentario (dos: 4142-2025 y 4144-2025), navegación aérea (dos: 8598-2025 y 8035-2025), bloqueo de las proposiciones de ley del Senado (9117-2025), Movilidad Sostenible (dos: 554-2026 y 192-2026), Presupuestos no presentados (8992-2025), ausencia de Sánchez en el Pleno del 29-1-2026 (2828-2026) y multirreincidencia (4716-2026). Además, el de la ausencia de ministros en agosto (sept. 2026, aún sin admitir) y el de la amnistía (2024, que no se llevó al TC). No se han podido identificar los restantes. Dos más iban a votarse en el pleno suspendido por la disolución.
 - Tribunales y recursos: Según EFE (5-10-2026), al acabar la legislatura el TC tenía 18 conflictos pendientes: los 17 del Senado y uno del Gobierno contra el Senado (por las enmiendas a la ley de desperdicio alimentario, n.º 2795-2025, admitido el 23-9-2025). El único resuelto, otro del Gobierno por la proposición de ley de sucesiones, se desestimó por unanimidad: el TC dio la razón al Senado (STC 135/2025, de 11 de junio).
 - Matiz: El PP lo defiende como defensa de las competencias de la cámara; según EFE, la mayoría versan sobre el veto presupuestario del Gobierno a enmiendas ya aprobadas. El PSOE acusa al PP de buscar 'un clima de conflicto constante'.
@@ -4501,6 +4501,9 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: conflicto 8992-2025 (Senado contra Gobierno, Presupuestos)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-4670)
   - [BOE: conflicto 2828-2026 (Senado contra Gobierno, comparecencia de Sánchez)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-11698)
   - [BOE: Sentencia 135/2025, de 11 de junio](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-14588)
+  - [Senado, datos abiertos: votaciones de las sesiones plenarias de la XV legislatura](https://www.senado.es/web/relacionesciudadanos/datosabiertos/catalogodatos/sesionesplenariascd/votacionescd/index.html)
+  - [Senado, datos abiertos: votación nominal del primer conflicto (amnistía, 10-4-2024)](https://www.senado.es/legis15/votaciones/ses_17.xml)
+  - [Senado, datos abiertos: votación nominal del último conflicto localizado (9-9-2026)](https://www.senado.es/legis15/votaciones/ses_81.xml)
 
 ### Ley de Espectáculos Públicos y Actividades Recreativas (pendiente de número y publicación)
 - Fecha: 2026-10-01
