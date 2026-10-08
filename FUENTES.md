@@ -4480,7 +4480,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Tema: Instituciones y control
 - Tramitación: ordinaria o sin dato
 - Apoyos: Con otros grupos
-- Votación: Votaciones nominales del Pleno, según los datos abiertos del Senado: se localizan 15 votaciones que aprobaron 16 conflictos (la del 11-2-2025 aprobó dos a la vez); el 17.º no aparece en los ficheros publicados. En esas 15: GP Popular, a favor en todas (en una, un senador votó en contra); GP Socialista, en contra en todas; GP Mixto, a favor en 13; GP Vasco (PNV), abstención en 11 y en contra en 3; Izquierdas por la Independencia (ERC-Bildu), abstención en 11, en contra en 2 y sin votar en 2; Plural (Junts, CC, AHI y BNG), abstención en 9, en contra en 3 y a favor en 2; Izquierda Confederal, en contra en 11 y abstención en 3. Se cuenta lo que votó la mayoría de cada grupo; en varios hubo votos divididos.
+- Votación: Votaciones nominales del Pleno, según los datos abiertos del Senado: se localizan 15 votaciones que aprobaron 16 conflictos (la del 11-2-2025 aprobó dos a la vez); el 17.º no aparece en los ficheros publicados. En esas 15: GP Popular, a favor en todas (en una, un senador votó en contra); GP Socialista, en contra en todas; GP Mixto, a favor en 13, en contra en 1 y abstención en 1; GP Vasco (PNV), abstención en 11, en contra en 3 y sin votar en 1; Izquierdas por la Independencia (ERC-Bildu), abstención en 11, en contra en 2 y sin votar en 2; Plural (Junts, CC, AHI y BNG), abstención en 9, en contra en 3, a favor en 2 y sin votar en 1; Izquierda Confederal, en contra en 11, abstención en 3 y sin votar en 1. Se cuenta lo que votó la mayoría de cada grupo; en varios hubo votos divididos.
 - Qué cambia: El Senado aprobó 17 conflictos de atribuciones (9 contra el Gobierno y 8 contra el Congreso), según EFE; antes esta vía solo se había usado cinco veces desde 1985. Trece constan admitidos a trámite en el BOE: antecedentes penales (contra el Congreso, n.º 9110-2024), eficiencia de la Justicia (dos: 2764-2025 contra el Gobierno y 2766-2025 contra el Congreso), desperdicio alimentario (dos: 4142-2025 y 4144-2025), navegación aérea (dos: 8598-2025 y 8035-2025), bloqueo de las proposiciones de ley del Senado (9117-2025), Movilidad Sostenible (dos: 554-2026 y 192-2026), Presupuestos no presentados (8992-2025), ausencia de Sánchez en el Pleno del 29-1-2026 (2828-2026) y multirreincidencia (4716-2026). Además, el de la ausencia de ministros en agosto (sept. 2026, aún sin admitir) y el de la amnistía (2024, que no se llevó al TC). No se han podido identificar los restantes. Dos más iban a votarse en el pleno suspendido por la disolución.
 - Tribunales y recursos: Según EFE (5-10-2026), al acabar la legislatura el TC tenía 18 conflictos pendientes: los 17 del Senado y uno del Gobierno contra el Senado (por las enmiendas a la ley de desperdicio alimentario, n.º 2795-2025, admitido el 23-9-2025). El único resuelto, otro del Gobierno por la proposición de ley de sucesiones, se desestimó por unanimidad: el TC dio la razón al Senado (STC 135/2025, de 11 de junio).
 - Matiz: El PP lo defiende como defensa de las competencias de la cámara; según EFE, la mayoría versan sobre el veto presupuestario del Gobierno a enmiendas ya aprobadas. El PSOE acusa al PP de buscar 'un clima de conflicto constante'.
@@ -4561,12 +4561,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es CLM: Se oficializa la ley que (en teoría) refuerza a los ayuntamientos para vetar plantas de biogás](https://www.eldiario.es/castilla-la-mancha/social/oficializa-ley-teoria-refuerza-ayuntamientos-vetar-plantas-biogas-castilla-mancha_1_13400714.html)
 
 ### Ley 4/2026, de 13 de julio, por la que se modifica la Ley 2/2022 de puestos de difícil cobertura del Sergas (urgencias del hospital de Ourense)
-- Fecha: 2026-07-13
+- Fecha: 2026-07-07
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Sanidad
 - Tramitación: urgencia, lectura única
 - Apoyos: Voto sin desglosar
-- Votación: Aprobada en el pleno del 7 y 8 de julio de 2026 (el día exacto no consta en las fuentes leídas). No se ha podido confirmar el voto por grupos.
+- Votación: Aprobada en el Pleno del 7 de julio de 2026 (Galiciapress, 22-7-2026). La tramitación por urgencia y en lectura única consta en la previa del pleno (Galiciapress, 5-7-2026). No se ha podido confirmar el voto por grupos.
 - Qué cambia: Extiende el régimen extraordinario de la Ley 2/2022 a los médicos de urgencias hospitalarias del Complejo Hospitalario Universitario de Ourense (CHUO), para que sus plazas se cubran como puestos de difícil cobertura. Entra en vigor al día siguiente de su publicación en el DOG.
 - Matiz: La Xunta lo justifica por la dificultad para cubrir las urgencias del CHUO y anunció un concurso de méritos para las 25 plazas vacantes. BNG y PSdeG rechazaron la tramitación por urgencia y lectura única y la calificaron de «parches» legislativos frente a una crisis sanitaria que, según ellos, pide una respuesta de fondo.
 - Fuentes:
@@ -5930,7 +5930,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Apoyos: Solo el partido con mayoría
 - Votación: Aprobada solo con los votos del PP; ningún otro grupo votó a favor.
 - Qué cambia: Nace de una proposición de ley del Grupo Popular tomada en consideración en febrero de 2024. Deroga la Ley 4/2005: los expresidentes de la Junta pueden ser consejeros permanentes con dedicación exclusiva y a tiempo completo hasta los 75 años; los electivos pasan a ser seis con dedicación exclusiva y hasta cuatro más sin ella; se exige más de 15 años de experiencia como jurista (antes 10); los nombra el Consejo de Gobierno por cinco años, renovables una vez. La presidencia pasa a tiempo completo.
-- Matiz: La exposición de motivos la justifica por la reforma del Estatuto de 2007 y casi dos décadas sin actualizar la ley, y endurece los requisitos de experiencia jurídica. La oposición votó en contra; según el titular de una nota de Europa Press (cuyo cuerpo no se ha podido leer), Por Andalucía reprochó al PP que buscara 'un futuro' a Moreno.
+- Matiz: La exposición de motivos la justifica por la reforma del Estatuto de 2007 y casi dos décadas sin actualizar la ley, y endurece los requisitos de experiencia jurídica. Según el titular de una nota de Europa Press (cuyo cuerpo no se ha podido leer), Por Andalucía reprochó al PP que buscara 'un futuro' a Moreno.
 - Fuentes:
   - [Parlamento de Andalucía: El Pleno aprueba la ley relativa al Consejo Consultivo de Andalucía](https://www.parlamentodeandalucia.es/webdinamica/portal-web-parlamento/actualidad/comunicadosdeprensa.do?id=184554)
   - [BOJA: Ley 2/2024, de 19 de julio, del Consejo Consultivo de Andalucía](https://www.juntadeandalucia.es/boja/2024/512/1)
@@ -7402,7 +7402,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Apoyos: Con otros grupos
 - Votación: Aprobada el 27-9-2022 por 54 votos a favor, 18 en contra y ninguna abstención (BOPG). A favor, PP y PSdeG (Nós Diario y Xunta). Ninguna fuente leída dice qué votó el BNG.
 - Qué cambia: Unifica en un solo texto la regulación del suelo industrial, regula el censo de suelo empresarial (creado por la Ley 5/2017) y el plan sectorial, y permite desarrollar los polígonos por fases según la demanda. La Xunta calcula que reduce de 21 a 9 meses la aprobación de los proyectos de urbanización y eleva a rango de ley el programa Concellos Emprendedores.
-- Matiz: La Xunta la presentó como una ley pionera para agilizar y flexibilizar la creación de suelo empresarial. El BNG, principal grupo de la oposición en esa legislatura, votó en contra. El Estado y la Xunta negociaron en la Comisión Bilateral sobre varios artículos y acordaron que se aplicarían respetando la normativa estatal (BOE de 7-7-2023); no consta recurso ante el TC.
+- Matiz: La Xunta la presentó como una ley pionera para agilizar y flexibilizar la creación de suelo empresarial. En el debate, el BNG la llamó «unha chapuza xurídica» (Nós Diario). El Estado y la Xunta negociaron en la Comisión Bilateral sobre varios artículos y acordaron que se aplicarían respetando la normativa estatal (BOE de 7-7-2023); no consta recurso ante el TC.
 - Fuentes:
   - [Boletín Oficial del Parlamento de Galicia n.º 392 (7-10-2022)](https://www.parlamentodegalicia.es/sitios/web/BibliotecaBoletinsOficiais/B110392.pdf)
   - [Xunta: la nueva Ley de áreas empresariales permitirá agilizar la creación de suelo](https://www.xunta.gal/es/hemeroteca/-/nova/156892/nueva-ley-areas-empresariales-galicia-pionera-nivel-estatal-permitira-agilizar)
@@ -9233,7 +9233,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Apoyos: Voto sin desglosar
 - Votación: Pleno del 12-7-2016. Era una proposición del BNG. Votaron a favor todos los grupos salvo el PSdeG: «Sólo el PSdeG se descolgó» (Europa Press). No consta si el PSdeG votó en contra o se abstuvo.
 - Qué cambia: Incluye expresamente la trata de mujeres y niñas con fines de explotación sexual como violencia de género y rehace la prestación económica periódica para las víctimas, que la Xunta debe garantizar según su situación económica.
-- Matiz: La Xunta alegó facilitar la independencia económica de las víctimas respecto del agresor.
+- Matiz: La ley partió de una proposición del BNG (Europa Press). Su texto prevé una prestación dirigida a posibilitar la «autonomía e independencia económica» de las víctimas respecto de su agresor.
 - Fuentes:
   - [BOE: Ley 12/2016, de modificación de la ley contra la violencia de género](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-8272)
   - [BOE (ELI): Ley 12/2016](https://www.boe.es/eli/es-ga/l/2016/07/22/12)
@@ -9297,9 +9297,9 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fecha: 2016-07-01
 - Cámara: Galicia · Mayoría absoluta: PP
 - Tema: Trabajo y empleo público
-- Tramitación: urgencia
-- Apoyos: Sin votos en contra
-- Votación: Pleno del 28-6-2016, por el procedimiento de urgencia: «con los únicos votos a favor del PP y la abstención de toda la oposición» (La Región). Ningún voto en contra.
+- Tramitación: urgencia, lectura única
+- Apoyos: Voto sin desglosar
+- Votación: Pleno del 28-6-2016. Solo el PP votó a favor. La fuente se contradice sobre la oposición: el subtítulo dice que la ley fue rechazada por «toda la oposición» y el cuerpo, que hubo «abstención de toda la oposición» (La Región). Antes del debate, PSdeG, BNG, AGE y Grupo Mixto mostraron su «disconformidad» con la tramitación en lectura única.
 - Qué cambia: Devuelve en 2016 al personal del sector público autonómico la parte del recorte salarial de 2013 que corresponde a los días trabajados entre el 1 de enero y el 28 de febrero de 2013.
 - Matiz: Es una devolución parcial: solo cubre los dos primeros meses de 2013, en proporción a los días trabajados.
 - Fuentes:
@@ -10729,11 +10729,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Qué pedían: «Dinero público para la escuela pública»: rechazo a concertar el Bachillerato y la etapa de 0 a 3 años
 - Cifra oficial: La Administración: 21% de seguimiento del personal docente. Delegación del Gobierno: unas 6.000 personas en la manifestación de Zaragoza del 22 de enero.
 - Según quien convoca: CGT: 52% del profesorado que podía secundarla.
-- Quién gobernaba: Azcón (PP). Competencia autonómica.
+- Quién gobernaba: Azcón (PP en solitario), con autonómicas anticipadas convocadas para el 8 de febrero de 2026. Competencia autonómica.
 - En qué acabó: En mayo de 2026 hubo otra huelga contra la concertación del Bachillerato, convocada por más sindicatos (ver su entrada).
 - Fuentes:
   - [elDiario.es Aragón: una movilización «histórica» en Zaragoza tras tres días de huelga](https://www.eldiario.es/aragon/sociedad/movilizacion-historica-defensa-escuela-publica-toma-calles-zaragoza-tres-dias-huelga_1_12928897.html)
   - [Heraldo de Aragón: miles de personas claman en Zaragoza por la educación pública](https://www.heraldo.es/noticias/aragon/2026/01/22/miles-de-personas-claman-en-zaragoza-por-la-educacion-publica-en-la-manifestacion-que-cierra-tres-dias-de-huelga-1887754.html)
+  - [Onda Vasca: Azcón confirma el adelanto electoral en Aragón al 8 de febrero](https://www.ondavasca.com/azcon-confirma-el-adelanto-electoral-en-aragon-al-8-de-febrero/)
 
 ### Manifestación por la sanidad pública en Vigo (Galicia (Vigo))
 - Fecha: 4 dic 2025 · Sector: Sanidad
@@ -10827,7 +10828,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cifra oficial: Delegación del Gobierno: 19.000 personas en la manifestación de Oviedo del 1 de junio. La consejera de Educación dimitió durante la huelga.
 - Según quien convoca: Sindicatos: 30.000 personas en la manifestación de Oviedo.
 - Quién gobernaba: Barbón (PSOE e IU). Competencia autonómica.
-- En qué acabó: Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subida de 140 € al mes.
+- En qué acabó: Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subidas de hasta 210 € al mes (140 € a través del complemento específico).
 - Fuentes:
   - [RTPA: preacuerdo con el Principado](https://www.rtpa.es/noticias-asturias/2025-06-09/Los-sindicatos-docentes-y-el-Principado-llegan-a-un-preacuerdo-con-el-Principado_111749487659.html)
   - [El Salto: crónica de la huelga](https://www.elsaltodiario.com/asturias/educacion-pie-guerra-cronica-huelga-ha-sacudido-final-curso-asturias)
@@ -10984,8 +10985,9 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cifra oficial: Comunidad de Madrid: 24,5% y 23,4% en las dos jornadas. Manifestación del 8 de mayo en Madrid: 7.000 personas según la Delegación del Gobierno y unas 4.000 según fuentes policiales citadas por Europa Press.
 - Según quien convoca: Sindicatos: 65% y 67%.
 - Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
-- En qué acabó: Sin acuerdo.
+- En qué acabó: Sin acuerdo durante las huelgas. En abril de 2025 la Comunidad firmó con CCOO, ANPE, CSIF y UGT bajar de 20 a 19 las horas lectivas en Secundaria, FP y Régimen Especial desde el curso 2025/26 (18 en 2027/28 para los tutores y en 2028/29 para todos).
 - Fuentes:
+  - [Comunidad de Madrid: acuerdo para reducir las horas lectivas (23-abr-2025)](https://www.comunidad.madrid/noticias/2025/04/23/comunidad-madrid-aprueba-reduccion-horas-lectivas-proximo-curso-850-nuevos-maestros-su-educacion-publica)
   - [Gacetín Madrid: seguimiento del 67% según sindicatos](https://gacetinmadrid.com/2024/05/21/seguimiento-67-huelga-educativa-madrid/)
   - [elDiario.es (Somos Madrid): la manifestación del 8 de mayo](https://www.eldiario.es/madrid/somos/ayuso-escucha-publica-lucha-gran-manifestacion-huelga-educacion-tine-madrid-verde_1_11350413.html)
 
@@ -11113,7 +11115,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 
 ### Manifestación «Madrid se levanta por la sanidad pública» (Madrid)
 - Fecha: 13 nov 2022 · Sector: Sanidad
-- Convocan: Federación Regional de Asociaciones Vecinales de Madrid (FRAVM), a la que se sumaron sindicatos y partidos
+- Convocan: Las fuentes no coinciden: según EFE (COPE), la convocó inicialmente la Red de Solidaridad Popular de Latina-Carabanchel, a la que se sumaron la FRAVM, sindicatos y partidos; según The Objective, la FRAVM
 - Qué pedían: Defender la sanidad pública y frenar lo que llamaban «el plan de destrucción de la Atención Primaria»
 - Cifra oficial: Más de 200.000 según la Delegación del Gobierno.
 - Según quien convoca: 670.000 (antes habían dado 300.000).
@@ -11122,6 +11124,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [The Objective: miles de personas marchan por la sanidad pública en Madrid](https://theobjective.com/sociedad/2022-11-13/manifestacion-madrid-plan-sanitario-ayuso)
   - [El Español: directo de la manifestación](https://www.elespanol.com/espana/20221113/manifestacion-sanidad-publica-sindicatos-oposicion-participacion-madrid/718278166_10.html)
+  - [COPE (EFE): entre 200.000 y 670.000 personas en la marcha por la sanidad](https://www.cope.es/actualidad/sociedad/noticias/entre-200000-670000-personas-participan-marcha-por-sanidad-madrid-20221113_2395269)
 
 ### Huelga de médicos residentes (MIR) (Madrid)
 - Fecha: jul-ago 2020 · Sector: Sanidad
@@ -11149,7 +11152,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 ### Manifestación por la sanidad pública en Granada (Andalucía (Granada))
 - Fecha: 20 oct 2019 · Sector: Sanidad
 - Convocan: Justicia por la Sanidad (Jesús Candel, «Spiriman»)
-- Qué pedían: Frenar el deterioro de la sanidad pública; algunas pancartas pedían la dimisión del consejero Jesús Aguirre
+- Qué pedían: Frenar el deterioro de la sanidad pública y protestar contra la «corrupción sanitaria, política y judicial»; algunas pancartas pedían la dimisión del consejero Jesús Aguirre
 - Cifra oficial: Policía Nacional: 6.500 personas.
 - Según quien convoca: Más de 10.000 (elDiario.es) o 20.000 (ABC).
 - Quién gobernaba: Junta del PP con Cs (Moreno), a los diez meses de gobierno. Competencia autonómica.
@@ -11181,7 +11184,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [infoLibre: el 8M de 2019](https://infolibre.es/noticias/politica/2019/03/08/directo_8m_92670_1012.html)
 
 ### Manifestación por la atención primaria en Vigo (Galicia (Vigo))
-- Fecha: 28 dic 2018 · Sector: Sanidad
+- Fecha: 27 dic 2018 · Sector: Sanidad
 - Convocan: Los 25 jefes de servicio de los centros de salud del área sanitaria de Vigo que habían dimitido dos semanas antes
 - Qué pedían: Que la Xunta resolviera los problemas de la atención primaria del área de Vigo, con el lema «Por la dignidad de la Atención Primaria»
 - Cifra oficial: Policía Local: cerca de 40.000 según elDiario.es; 37.000 según Faro de Vigo.
@@ -11191,6 +11194,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es: miles de personas se manifiestan en Vigo por la atención primaria](https://www.eldiario.es/galicia/movimientos_sociales/miles-manifiestan-vigo-xunta-sanitaria_1_1773986.html)
   - [Faro de Vigo: el personal sanitario reclama soluciones tras la marcha](https://www.farodevigo.es/gran-vigo/2018/12/29/personal-sanitario-reclama-soluciones-marcha-15812809.html)
+  - [Galiciapress: convocatoria de la manifestación para el jueves 27 de diciembre](https://www.galiciapress.es/texto-diario/mostrar/1287419/cig-convoca-manifestacion-vigo-defensa-atencion-primaria)
 
 ### Huelga feminista del 8M (España)
 - Fecha: 8 mar 2018 · Sector: General

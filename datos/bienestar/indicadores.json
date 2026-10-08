@@ -15,7 +15,7 @@
   "unidad": "% del gasto sanitario público",
   "serie": "egsp_conciertos_pct_ccaa.json",
   "mide": "Qué parte del gasto sanitario público de cada comunidad se paga a otros centros mediante conciertos. El Ministerio de Sanidad los describe como «compras al sector privado a través de conciertos».",
-  "aviso": "Según la metodología oficial, los conciertos pueden firmarse con entidades privadas o públicas, así que no todo es gasto en sanidad privada, y el peso depende también de cómo organiza cada comunidad su red. La fila de España es el gasto público total (incluye Estado, Seguridad Social y mutualidades) y no se compara directamente con las comunidades. 2023 y 2024 son provisionales y cada edición revisa la serie."
+  "aviso": "Al definir la atención primaria y la especializada concertadas, la metodología oficial indica que esos conciertos pueden estar suscritos con entidades «de titularidad pública o privada». La fila de España es el gasto público total (incluye Estado, Seguridad Social y mutualidades) y no se compara directamente con las comunidades. 2023 y 2024 son provisionales y cada edición revisa la serie."
  },
  {
   "id": "san_primaria",
@@ -90,7 +90,7 @@
   "serie": "pisa_ccaa.json",
   "ruta": ["mat"],
   "mide": "La puntuación media del alumnado de 15 años en la prueba de matemáticas de PISA, en 2022 y en 2025.",
-  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela. No se incluye PISA 2018 porque la OCDE no publicó la lectura de España de ese año."
+  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco: se excluyó al 23,2% de su alumnado, la OCDE no incluye sus datos en los informes internacionales y el informe oficial dice que no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: la OCDE la incluye con una nota que advierte de un posible sesgo por sobrestimación, y el informe permite compararla con cautela. No se incluye PISA 2018 porque la OCDE no publicó la lectura de España de ese año."
  },
  {
   "id": "edu_pisa_lec",
@@ -100,7 +100,7 @@
   "serie": "pisa_ccaa.json",
   "ruta": ["lec"],
   "mide": "La puntuación media del alumnado de 15 años en la prueba de lectura de PISA, en 2022 y en 2025.",
-  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela."
+  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco: se excluyó al 23,2% de su alumnado, la OCDE no incluye sus datos en los informes internacionales y el informe oficial dice que no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: la OCDE la incluye con una nota que advierte de un posible sesgo por sobrestimación, y el informe permite compararla con cautela."
  },
  {
   "id": "edu_pisa_cie",
@@ -110,7 +110,7 @@
   "serie": "pisa_ccaa.json",
   "ruta": ["cie"],
   "mide": "La puntuación media del alumnado de 15 años en la prueba de ciencias de PISA, en 2022 y en 2025. Ciencias fue la competencia principal de PISA 2025.",
-  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco porque excluyó al 23,2% de su alumnado y el informe oficial dice que esos datos no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: el informe permite compararlo, con cautela."
+  "aviso": "Cada puntuación es una estimación con margen de error: diferencias de pocos puntos entre comunidades pueden no ser significativas. Cataluña 2025 se deja en blanco: se excluyó al 23,2% de su alumnado, la OCDE no incluye sus datos en los informes internacionales y el informe oficial dice que no deben usarse para comparar. En Murcia 2025 se excluyó al 12,7%: la OCDE la incluye con una nota que advierte de un posible sesgo por sobrestimación, y el informe permite compararla con cautela."
  },
  {
   "id": "edu_ratio",

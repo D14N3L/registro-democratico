@@ -12,6 +12,7 @@
   "Cobertura: 2016-2024 (edición EGSP 2024, mayo de 2026). 2023 y 2024 son cifras provisionales (marcadas (*) en la fuente). La EGSP revisa la serie completa en cada edición.",
   "Porcentajes publicados en la fuente (fila «Porcentaje sobre el total» de cada tabla), sin cálculos propios. Comunidades: gasto consolidado de cada comunidad autónoma (tablas 3.4.01 a 3.4.17). España: gasto sanitario público total consolidado de todos los sectores (tabla 1.2), que incluye también Administración Central, Seguridad Social, mutualidades y corporaciones locales.",
   "Ceuta y Melilla no tienen tabla propia comparable (su gasto lo gestiona INGESA).",
+  "Asturias 2020 lleva una nota en la cabecera del año («2020b»): «Desde 2020, los gastos dedicados a programar, coordinar, financiar y evaluar todas las acciones de investigación […] se gestionan en la Fundación para la Investigación e Innovación Biosanitaria del Principado de Asturias (FINBA)». Murcia 2021 lleva otra («2021a») por un cambio de criterio contable en gastos de formación. El valor de Asturias 2020 se añadió el 8-10-2026 al detectar que la primera extracción no lo había leído.",
   "Comprobación: el informe de Principales resultados EGSP 2024 dice que en 2024 la atención primaria osciló «entre el 10,9 por ciento de la Comunidad de Madrid y el 17,8 por ciento de La Rioja», igual que esta serie."
  ],
  "valores": {
@@ -53,6 +54,7 @@
    "2017": 12.6,
    "2018": 12.6,
    "2019": 11.9,
+   "2020": 13.0,
    "2021": 13.3,
    "2022": 13.4,
    "2023": 13.5,

@@ -146,8 +146,8 @@
   ]
  },
  {
-  "d": "2018-12-28",
-  "dl": "28 dic 2018",
+  "d": "2018-12-27",
+  "dl": "27 dic 2018",
   "sector": "Sanidad",
   "ambito": "Galicia (Vigo)",
   "t": "Manifestación por la atención primaria en Vigo",
@@ -165,6 +165,10 @@
    [
     "Faro de Vigo: el personal sanitario reclama soluciones tras la marcha",
     "https://www.farodevigo.es/gran-vigo/2018/12/29/personal-sanitario-reclama-soluciones-marcha-15812809.html"
+   ],
+   [
+    "Galiciapress: convocatoria de la manifestación para el jueves 27 de diciembre",
+    "https://www.galiciapress.es/texto-diario/mostrar/1287419/cig-convoca-manifestacion-vigo-defensa-atencion-primaria"
    ]
   ]
  },
@@ -213,7 +217,7 @@
   "ambito": "Andalucía (Granada)",
   "t": "Manifestación por la sanidad pública en Granada",
   "convoca": "Justicia por la Sanidad (Jesús Candel, «Spiriman»)",
-  "piden": "Frenar el deterioro de la sanidad pública; algunas pancartas pedían la dimisión del consejero Jesús Aguirre",
+  "piden": "Frenar el deterioro de la sanidad pública y protestar contra la «corrupción sanitaria, política y judicial»; algunas pancartas pedían la dimisión del consejero Jesús Aguirre",
   "oficial": "Policía Nacional: 6.500 personas.",
   "segconv": "Más de 10.000 (elDiario.es) o 20.000 (ABC).",
   "gobierno": "Junta del PP con Cs (Moreno), a los diez meses de gobierno. Competencia autonómica.",
@@ -277,7 +281,7 @@
   "sector": "Sanidad",
   "ambito": "Madrid",
   "t": "Manifestación «Madrid se levanta por la sanidad pública»",
-  "convoca": "Federación Regional de Asociaciones Vecinales de Madrid (FRAVM), a la que se sumaron sindicatos y partidos",
+  "convoca": "Las fuentes no coinciden: según EFE (COPE), la convocó inicialmente la Red de Solidaridad Popular de Latina-Carabanchel, a la que se sumaron la FRAVM, sindicatos y partidos; según The Objective, la FRAVM",
   "piden": "Defender la sanidad pública y frenar lo que llamaban «el plan de destrucción de la Atención Primaria»",
   "oficial": "Más de 200.000 según la Delegación del Gobierno.",
   "segconv": "670.000 (antes habían dado 300.000).",
@@ -291,6 +295,10 @@
    [
     "El Español: directo de la manifestación",
     "https://www.elespanol.com/espana/20221113/manifestacion-sanidad-publica-sindicatos-oposicion-participacion-madrid/718278166_10.html"
+   ],
+   [
+    "COPE (EFE): entre 200.000 y 670.000 personas en la marcha por la sanidad",
+    "https://www.cope.es/actualidad/sociedad/noticias/entre-200000-670000-personas-participan-marcha-por-sanidad-madrid-20221113_2395269"
    ]
   ]
  },
@@ -543,8 +551,12 @@
   "oficial": "Comunidad de Madrid: 24,5% y 23,4% en las dos jornadas. Manifestación del 8 de mayo en Madrid: 7.000 personas según la Delegación del Gobierno y unas 4.000 según fuentes policiales citadas por Europa Press.",
   "segconv": "Sindicatos: 65% y 67%.",
   "gobierno": "Ayuso (PP, mayoría absoluta). Competencia autonómica.",
-  "final": "Sin acuerdo.",
+  "final": "Sin acuerdo durante las huelgas. En abril de 2025 la Comunidad firmó con CCOO, ANPE, CSIF y UGT bajar de 20 a 19 las horas lectivas en Secundaria, FP y Régimen Especial desde el curso 2025/26 (18 en 2027/28 para los tutores y en 2028/29 para todos).",
   "src": [
+   [
+    "Comunidad de Madrid: acuerdo para reducir las horas lectivas (23-abr-2025)",
+    "https://www.comunidad.madrid/noticias/2025/04/23/comunidad-madrid-aprueba-reduccion-horas-lectivas-proximo-curso-850-nuevos-maestros-su-educacion-publica"
+   ],
    [
     "Gacetín Madrid: seguimiento del 67% según sindicatos",
     "https://gacetinmadrid.com/2024/05/21/seguimiento-67-huelga-educativa-madrid/"
@@ -842,7 +854,7 @@
   "oficial": "Delegación del Gobierno: 19.000 personas en la manifestación de Oviedo del 1 de junio. La consejera de Educación dimitió durante la huelga.",
   "segconv": "Sindicatos: 30.000 personas en la manifestación de Oviedo.",
   "gobierno": "Barbón (PSOE e IU). Competencia autonómica.",
-  "final": "Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subida de 140 € al mes.",
+  "final": "Preacuerdo el 9 de junio de 2025 con los cinco sindicatos: subidas de hasta 210 € al mes (140 € a través del complemento específico).",
   "src": [
    [
     "RTPA: preacuerdo con el Principado",
@@ -1033,7 +1045,7 @@
   "piden": "«Dinero público para la escuela pública»: rechazo a concertar el Bachillerato y la etapa de 0 a 3 años",
   "oficial": "La Administración: 21% de seguimiento del personal docente. Delegación del Gobierno: unas 6.000 personas en la manifestación de Zaragoza del 22 de enero.",
   "segconv": "CGT: 52% del profesorado que podía secundarla.",
-  "gobierno": "Azcón (PP). Competencia autonómica.",
+  "gobierno": "Azcón (PP en solitario), con autonómicas anticipadas convocadas para el 8 de febrero de 2026. Competencia autonómica.",
   "final": "En mayo de 2026 hubo otra huelga contra la concertación del Bachillerato, convocada por más sindicatos (ver su entrada).",
   "src": [
    [
@@ -1043,6 +1055,10 @@
    [
     "Heraldo de Aragón: miles de personas claman en Zaragoza por la educación pública",
     "https://www.heraldo.es/noticias/aragon/2026/01/22/miles-de-personas-claman-en-zaragoza-por-la-educacion-publica-en-la-manifestacion-que-cierra-tres-dias-de-huelga-1887754.html"
+   ],
+   [
+    "Onda Vasca: Azcón confirma el adelanto electoral en Aragón al 8 de febrero",
+    "https://www.ondavasca.com/azcon-confirma-el-adelanto-electoral-en-aragon-al-8-de-febrero/"
    ]
   ]
  },
