@@ -2290,7 +2290,7 @@
   "c": "Gestión pública y derechos",
   "pr": "med",
   "s": "El Gobierno de Ayuso compró a través de la empresa pública Planifica Madrid un ático de 485 m² en Chamberí con cláusulas de confidencialidad, justificado como oficinas temporales aunque el inmueble solo admitía uso residencial. En julio anunció que lo vendería.",
-  "n": "Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. El 8 de septiembre de 2026 el tribunal admitió a trámite la denuncia de Más Madrid y la pasó a su Sección de Enjuiciamiento, que debe decidir si abre actuaciones. Sin resolución todavía.",
+  "n": "Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. El 8 de septiembre de 2026 el tribunal admitió a trámite la denuncia de Más Madrid y la pasó a su Sección de Enjuiciamiento, que debe decidir si abre actuaciones. El tribunal ha recibido cinco denuncias por estos hechos (cuatro entre el 3 de agosto y el 1 de septiembre y una quinta el 30 de septiembre) y ha admitido como partes a Más Madrid y al PSOE. El 8 de octubre de 2026 dio cinco días a la Fiscalía, a Planifica Madrid y a la Comunidad de Madrid para que digan si debe nombrarse un delegado instructor que investigue o archivarse el caso. Sin resolución todavía.",
   "src": [
    [
     "elDiario.es: la compra",
@@ -2303,6 +2303,14 @@
    [
     "Infobae (Europa Press): el Tribunal de Cuentas admite a trámite la denuncia (sep 2026)",
     "https://www.infobae.com/espana/agencias/2026/09/08/el-tribunal-de-cuentas-admite-a-tramite-la-denuncia-de-mas-madrid-por-la-compra-del-atico/"
+   ],
+   [
+    "Infobae (Europa Press): cinco días a la Fiscalía y a la Comunidad antes de decidir si investiga (oct 2026)",
+    "https://www.infobae.com/espana/agencias/2026/10/08/el-tribunal-de-cuentas-da-cinco-dias-a-la-fiscalia-y-a-la-cmadrid-para-decidir-si-investiga-la-compra-del-atico/"
+   ],
+   [
+    "elDiario.es: el Tribunal de Cuentas escuchará a la Fiscalía y a la Comunidad (oct 2026)",
+    "https://www.eldiario.es/politica/tribunal-cuentas-escuchara-fiscalia-comunidad-madrid-abrir-diligencias-atico-gobierno-ayuso_1_13573094.html"
    ]
   ],
   "a": "Madrid"
@@ -5149,6 +5157,23 @@
    ["elDiario.es: el comité de IB3 denuncia los cambios (jul 2026)", "https://www.eldiario.es/illes-balears/cat/els-treballadors-d-ib3-acusen-direccio-d-informatius-manipulacio-cobertura-protesta-d-trenc_1_13360243.html"],
    ["Última Hora: Codony reconoce que IB3 cambió la noticia (sep 2026)", "https://www.ultimahora.es/noticias/local/2026/09/24/2715571/codony-reconoce-ib3-cambio-noticia-cadena-humana-trenc-porque-era-partidista.html"],
    ["Ara Balears: el Sindicat de Periodistes pide la dimisión de Codony", "https://www.arabalears.cat/societat/sindicat-periodistes-demana-dimissio-codony-pressionar-redaccio-d-ib3_1_5860931.html"]
+  ]
+ },
+ {
+  "d": "2026-10-09",
+  "dl": "oct 2026",
+  "t": "Asamblea de Extremadura: la Mesa no admite a trámite la ley de Unidas por Extremadura para crear una Oficina contra el Fraude y la Corrupción",
+  "p": ["PP", "Vox"],
+  "c": "Control parlamentario",
+  "a": "Extremadura",
+  "pr": "med",
+  "s": "Unidas por Extremadura denunció el 9 de octubre de 2026 que la Mesa de la Asamblea había rechazado, por segunda vez, tramitar su proposición de ley para crear una Oficina Extremeña contra el Fraude y la Corrupción. La Mesa alegó que la norma afecta a las cuentas públicas; el grupo replica que el texto retrasaba su entrada en vigor al siguiente ejercicio presupuestario. Su portavoz, Irene de Miguel, anunció un recurso de amparo ante el Tribunal Constitucional por vulneración del derecho de los diputados a presentar iniciativas legislativas. En la Mesa, constituida en enero de 2026, el PP tiene la presidencia y otros dos puestos, y Vox, PSOE y Unidas uno cada uno.",
+  "n": "Las fuentes no detallan cómo votó cada miembro de la Mesa ni la fecha del primer rechazo. El portavoz del PP, José Ángel Sánchez Juliá, acusó a Unidas de querer «poner el ventilador para manchar todas las administraciones» y le pidió que señale al Gobierno de España. El amparo está anunciado, no presentado; el TC no se ha pronunciado.",
+  "src": [
+   ["elDiario.es: PP y Vox frenan la Oficina Anticorrupción y Unidas acudirá al Constitucional (oct 2026)", "https://www.eldiario.es/extremadura/politica/pp-vox-frenan-creacion-oficina-anticorrupcion-extremadura-unidas-acudira-constitucional_1_13575193.html"],
+   ["Región Digital: Unidas denuncia el veto de la Mesa (oct 2026)", "https://www.regiondigital.com/noticias/portada/436636-unidas-denuncia-veto-de-mesa-de-la-asamblea-a-ley-para-crear-una-oficina-contra-el-fraude.html"],
+   ["Demócrata: la respuesta del PP (oct 2026)", "https://www.democrata.es/extremadura/el-pp-acusa-a-unidas-de-usar-su-oficina-antifraude-como-ventilador-contra-todas-las-administraciones/"],
+   ["El Español: composición de la Mesa (ene 2026)", "https://www.elespanol.com/espana/politica/20260120/pp-hace-presidencia-asamblea-extremadura-suspension-negociaciones-vox/1003744096208_0.html"]
   ]
  }
 ]

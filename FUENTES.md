@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (256)
+## Fichas del registro (257)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -2732,11 +2732,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Documentado en medios
 - Resumen: El Gobierno de Ayuso compró a través de la empresa pública Planifica Madrid un ático de 485 m² en Chamberí con cláusulas de confidencialidad, justificado como oficinas temporales aunque el inmueble solo admitía uso residencial. En julio anunció que lo vendería.
-- Matiz: Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. El 8 de septiembre de 2026 el tribunal admitió a trámite la denuncia de Más Madrid y la pasó a su Sección de Enjuiciamiento, que debe decidir si abre actuaciones. Sin resolución todavía.
+- Matiz: Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. El 8 de septiembre de 2026 el tribunal admitió a trámite la denuncia de Más Madrid y la pasó a su Sección de Enjuiciamiento, que debe decidir si abre actuaciones. El tribunal ha recibido cinco denuncias por estos hechos (cuatro entre el 3 de agosto y el 1 de septiembre y una quinta el 30 de septiembre) y ha admitido como partes a Más Madrid y al PSOE. El 8 de octubre de 2026 dio cinco días a la Fiscalía, a Planifica Madrid y a la Comunidad de Madrid para que digan si debe nombrarse un delegado instructor que investigue o archivarse el caso. Sin resolución todavía.
 - Fuentes:
   - [elDiario.es: la compra](https://www.eldiario.es/madrid/gobierno-ayuso-compro-atico-chamberi-6-3-millones-euros_1_13428752.html)
   - [Público: denuncia del PSOE](https://www.publico.es/politica/tribunales/psoe-lleva-tribunal-cuentas-atico-ayuso-reclama-conocer-ordeno-comprarlo.html)
   - [Infobae (Europa Press): el Tribunal de Cuentas admite a trámite la denuncia (sep 2026)](https://www.infobae.com/espana/agencias/2026/09/08/el-tribunal-de-cuentas-admite-a-tramite-la-denuncia-de-mas-madrid-por-la-compra-del-atico/)
+  - [Infobae (Europa Press): cinco días a la Fiscalía y a la Comunidad antes de decidir si investiga (oct 2026)](https://www.infobae.com/espana/agencias/2026/10/08/el-tribunal-de-cuentas-da-cinco-dias-a-la-fiscalia-y-a-la-cmadrid-para-decidir-si-investiga-la-compra-del-atico/)
+  - [elDiario.es: el Tribunal de Cuentas escuchará a la Fiscalía y a la Comunidad (oct 2026)](https://www.eldiario.es/politica/tribunal-cuentas-escuchara-fiscalia-comunidad-madrid-abrir-diligencias-atico-gobierno-ayuso_1_13573094.html)
 
 ### PP y Vox cierran la comisión de la DANA en las Corts con dos tercios de los comparecientes sin declarar
 - Fecha: may – jun 2026
@@ -3153,6 +3155,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Real Decreto 905/2025](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-20002)
   - [elDiario.es: la respuesta del Ministerio](https://www.eldiario.es/sociedad/supremo-tumba-decreto-universidades-gobierno-acota-centros-privados_1_13572175.html)
   - [El Español: el Gobierno prepara otra norma](https://www.elespanol.com/observatorio-educacion/20261008/supremo-anula-decreto-universidades-chiringuito-gobierno-critica-tramitacion-urgente/1003744413437_0.html)
+
+### Asamblea de Extremadura: la Mesa no admite a trámite la ley de Unidas por Extremadura para crear una Oficina contra el Fraude y la Corrupción
+- Fecha: oct 2026
+- Partidos: PP, Vox
+- Categoría: Control parlamentario
+- Parlamento o territorio: Extremadura
+- Nivel de prueba: Documentado en medios
+- Resumen: Unidas por Extremadura denunció el 9 de octubre de 2026 que la Mesa de la Asamblea había rechazado, por segunda vez, tramitar su proposición de ley para crear una Oficina Extremeña contra el Fraude y la Corrupción. La Mesa alegó que la norma afecta a las cuentas públicas; el grupo replica que el texto retrasaba su entrada en vigor al siguiente ejercicio presupuestario. Su portavoz, Irene de Miguel, anunció un recurso de amparo ante el Tribunal Constitucional por vulneración del derecho de los diputados a presentar iniciativas legislativas. En la Mesa, constituida en enero de 2026, el PP tiene la presidencia y otros dos puestos, y Vox, PSOE y Unidas uno cada uno.
+- Matiz: Las fuentes no detallan cómo votó cada miembro de la Mesa ni la fecha del primer rechazo. El portavoz del PP, José Ángel Sánchez Juliá, acusó a Unidas de querer «poner el ventilador para manchar todas las administraciones» y le pidió que señale al Gobierno de España. El amparo está anunciado, no presentado; el TC no se ha pronunciado.
+- Fuentes:
+  - [elDiario.es: PP y Vox frenan la Oficina Anticorrupción y Unidas acudirá al Constitucional (oct 2026)](https://www.eldiario.es/extremadura/politica/pp-vox-frenan-creacion-oficina-anticorrupcion-extremadura-unidas-acudira-constitucional_1_13575193.html)
+  - [Región Digital: Unidas denuncia el veto de la Mesa (oct 2026)](https://www.regiondigital.com/noticias/portada/436636-unidas-denuncia-veto-de-mesa-de-la-asamblea-a-ley-para-crear-una-oficina-contra-el-fraude.html)
+  - [Demócrata: la respuesta del PP (oct 2026)](https://www.democrata.es/extremadura/el-pp-acusa-a-unidas-de-usar-su-oficina-antifraude-como-ventilador-contra-todas-las-administraciones/)
+  - [El Español: composición de la Mesa (ene 2026)](https://www.elespanol.com/espana/politica/20260120/pp-hace-presidencia-asamblea-extremadura-suspension-negociaciones-vox/1003744096208_0.html)
 
 ## Qué votó cada partido (56)
 
