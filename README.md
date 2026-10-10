@@ -2,6 +2,8 @@
 
 Registro de hechos documentados sobre cómo nos ha ido en España entre 2016 y 2026. Recoge cómo han funcionado los contrapesos del Estado de derecho: comisiones de investigación vetadas, sentencias, incumplimientos de leyes, uso de los medios públicos y financiación de partidos. Recoge también qué votó cada partido en sanidad, educación, vivienda, luz y gas, dependencia, pensiones y Presupuestos, y en qué acabaron las iniciativas ciudadanas. Cada dato lleva su fuente. El registro no saca conclusiones: las saca quien lo lee.
 
+**Web:** https://registro-democratico.pages.dev/
+
 ¿Has visto un error? [Abre una corrección](../../issues/new?template=correccion.md) con la fuente que lo demuestra y se revisa.
 
 ## Qué hay en la web
