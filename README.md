@@ -26,6 +26,7 @@ Registro de hechos documentados sobre cómo nos ha ido en España entre 2016 y 2
 - **Cada entrada lleva su matiz**: los argumentos de la parte señalada, los votos particulares, los recursos pendientes y lo que no está confirmado.
 - **Los votos nunca se deducen de los escaños.** Si la fuente no desglosa el voto por grupos, se indica «sin desglosar».
 - **Presunción de inocencia.** Lo que está en investigación judicial está sin juzgar, y así se dice.
+- **Uso de inteligencia artificial.** El registro se ha recopilado y redactado con ayuda de herramientas de IA. Cada dato se ha verificado contra la fuente que se enlaza, y lo que no se pudo confirmar se quedó fuera. Si ves un error, [avísanos con la fuente](../../issues/new?template=correccion.md) y se corrige.
 - **Sin rankings, adjetivos ni conclusiones.** La página permite filtrar por partido, parlamento, categoría y nivel de prueba.
 - **Fuentes.** Primero las oficiales (BOE, tribunales, parlamentos, ministerios, Tribunal de Cuentas), después las agencias (EFE, Europa Press) y medios de distintas líneas editoriales. Un medio queda **excluido** si tiene una condena firme por información falsa o dos o más resoluciones en contra de la Comisión de Arbitraje, Quejas y Deontología de la FAPE por veracidad en cinco años; hoy son OKDiario y El Debate. Los medios con un caso suelto se usan con cautela: si una entrada solo se apoya en uno de ellos, se busca otra fuente del mismo hecho. El criterio es el mismo para todas las líneas editoriales y está en `scripts/validar.js`.
 
