@@ -1,5 +1,6 @@
 // Prepara la carpeta publicar/ con solo lo que va a la web (sin scripts, PENDIENTES ni series en bruto).
-// Uso: node scripts/preparar-publicacion.js   y después sube publicar/ a Cloudflare Pages.
+// Uso: node scripts/preparar-publicacion.js
+// Es el comando de compilación de Cloudflare Pages (directorio de salida: publicar), que lo ejecuta en cada push a main.
 const fs = require("fs");
 const path = require("path");
 
