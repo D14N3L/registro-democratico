@@ -20,7 +20,6 @@ Registro de hechos documentados sobre cómo nos ha ido en España entre 2016 y 2
 | `datos/votaciones.json` | Votaciones del Congreso por partido. |
 | `datos/iniciativas.json` | Iniciativas Legislativas Populares y consultas. |
 | `FUENTES.md` | Todas las fichas con sus fuentes, generado desde los JSON. |
-| `PENDIENTES.md` | Casos descartados o sin confirmar y lo que falta por revisar. |
 | `scripts/generar-fuentes.js` | Regenera `FUENTES.md`. |
 
 ### Formato de una ficha (`datos/fichas.json`)
