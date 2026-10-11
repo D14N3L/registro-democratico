@@ -405,5 +405,65 @@
   "ruta": ["jornadas"],
   "mide": "Jornadas de trabajo perdidas por huelgas en la educación y en la sanidad y los servicios sociales, públicos y privados, en toda España.",
   "aviso": "No incluye las huelgas generales. «Sanidad y servicios sociales» incluye también residencias y otros servicios sociales, no solo hospitales y centros de salud. La estadística no separa lo público de lo privado en esta tabla. 2025 es provisional."
+ },
+ {
+  "id": "eco_paro_ccaa",
+  "pilar": "Economía y empleo",
+  "nombre": "Tasa de paro",
+  "unidad": "% de la población activa",
+  "serie": "ine_epa_tasa_paro_ccaa.json",
+  "mide": "De cada 100 personas que trabajan o buscan trabajo, cuántas están en paro. Media del año según la Encuesta de Población Activa del INE.",
+  "aviso": "Es una encuesta: en Ceuta y Melilla la muestra es pequeña y la cifra oscila más. No dice si el empleo es temporal, a tiempo parcial o bien pagado."
+ },
+ {
+  "id": "eco_paro_ue",
+  "pilar": "Economía y empleo",
+  "nombre": "Tasa de paro: España frente a la UE",
+  "unidad": "% de la población activa de 15 a 74 años",
+  "serie": "eurostat_tasa_paro_es_ue.json",
+  "mide": "La tasa de paro de España comparada con la media de la Unión Europea, con la misma definición para todos los países.",
+  "aviso": "Eurostat la calcula para 15 a 74 años y puede diferir en décimas de la del INE. En 2021 cambió la metodología de la encuesta en España."
+ },
+ {
+  "id": "eco_pib_hab",
+  "pilar": "Economía y empleo",
+  "nombre": "PIB por habitante, descontada la inflación",
+  "unidad": "euros por habitante a precios de 2020",
+  "serie": "eurostat_pib_real_por_habitante_es_ue.json",
+  "mide": "Cuánto se produce por habitante cada año, en euros de 2020 para que la subida de precios no infle la cifra. España frente a la media de la UE.",
+  "aviso": "Es una media: no dice cómo se reparte. 2024 y 2025 son provisionales en España. No coincide con el PIB por habitante en euros corrientes que suele salir en prensa."
+ },
+ {
+  "id": "eco_deuda",
+  "pilar": "Economía y empleo",
+  "nombre": "Deuda pública",
+  "unidad": "% del PIB",
+  "serie": "eurostat_deuda_publica_es_ue.json",
+  "mide": "Lo que deben todas las administraciones juntas (Estado, comunidades, ayuntamientos y Seguridad Social) en relación con lo que produce el país en un año. España frente a la media de la UE.",
+  "aviso": "La cifra depende también del PIB: en 2020 la deuda subió en parte porque el PIB cayó con la pandemia. Incluye la deuda de las comunidades autónomas, no solo la del Gobierno central."
+ },
+ {
+  "id": "eco_smi",
+  "pilar": "Economía y empleo",
+  "nombre": "Salario mínimo interprofesional",
+  "unidad": "euros al mes (14 pagas)",
+  "serie": "pension_minima_smi.json",
+  "claves": {"Salario mínimo interprofesional": "smi_mensual.España"},
+  "fuente": "BOE: real decreto del salario mínimo interprofesional de cada año (el enlace lleva al de 2026, Real Decreto 126/2026; los de cada año están en la serie del repositorio)",
+  "url": "https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-3815",
+  "mide": "El salario mínimo mensual que fija el Gobierno cada año por real decreto, tras consultar a los sindicatos y a las organizaciones empresariales más representativas (artículo 27.1 del Estatuto de los Trabajadores). Es lo mínimo que se puede cobrar por una jornada completa.",
+  "aviso": "Cuantías del BOE en 14 pagas, sin descontar la inflación. En 2021 se recoge la que fijó el Real Decreto 817/2021, aplicable desde el 1 de septiembre. Como lo fija el Gobierno, no pasa por una votación en el Congreso."
+ },
+ {
+  "id": "eco_ipc",
+  "pilar": "Economía y empleo",
+  "nombre": "Inflación",
+  "unidad": "% de subida de los precios",
+  "serie": "revalorizacion_pensiones_ipc.json",
+  "claves": {"IPC de diciembre sobre diciembre": "ipc_diciembre.España"},
+  "fuente": "INE, Índice de Precios de Consumo, serie IPC251856 'Nacional. Índice general. Variación anual' (tabla 50902)",
+  "url": "https://www.ine.es/jaxiT3/Tabla.htm?t=50902",
+  "mide": "Cuánto subieron los precios de consumo en el año, de diciembre a diciembre, según el INE.",
+  "aviso": "Es la subida de diciembre sobre diciembre; la media anual del IPC, que también se usa mucho, da cifras algo distintas. Es una media de toda la cesta: la luz, los alimentos o el alquiler pueden subir mucho más o menos."
  }
 ]

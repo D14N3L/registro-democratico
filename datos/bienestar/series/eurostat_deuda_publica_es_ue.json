@@ -1,0 +1,48 @@
+{
+ "id": "eurostat_deuda_publica_es_ue",
+ "nombre": "Deuda pública bruta consolidada en % del PIB, España vs UE-27",
+ "unidad": "% del PIB",
+ "definicion": "Deuda bruta consolidada del conjunto de las administraciones públicas (S13) según el Protocolo de Déficit Excesivo, en porcentaje del PIB.",
+ "fuente": "Eurostat, gov_10dd_edpt1 'Government deficit/surplus, debt and associated data' (na_item GD, sector S13, unit PC_GDP)",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/gov_10dd_edpt1?format=JSON&lang=EN&geo=ES&geo=EU27_2020&na_item=GD&sector=S13&unit=PC_GDP&sinceTimePeriod=2015",
+ "actualizado_fuente": "2026-04-22T11:00:00+0200",
+ "notas": [
+  "Incluye Estado, comunidades autónomas, entidades locales y Seguridad Social.",
+  "El cociente depende también del PIB: en 2020 la caída del PIB elevó la ratio.",
+  "Datos actualizados por Eurostat el 22-4-2026 (notificación de abril); 2025 puede revisarse en la de octubre."
+ ],
+ "flags": {},
+ "valores": {
+  "España": {
+   "2016": 102,
+   "2017": 101.2,
+   "2018": 99.8,
+   "2019": 97.7,
+   "2020": 119.3,
+   "2021": 115.7,
+   "2022": 109.3,
+   "2023": 105.2,
+   "2024": 101.6,
+   "2025": 100.7
+  },
+  "UE-27": {
+   "2016": 84.1,
+   "2017": 81.5,
+   "2018": 79.5,
+   "2019": 77.5,
+   "2020": 89.5,
+   "2021": 86.7,
+   "2022": 82.4,
+   "2023": 80.5,
+   "2024": 80.7,
+   "2025": 81.7
+  }
+ },
+ "url_pagina_indice": "https://ec.europa.eu/eurostat/databrowser/view/gov_10dd_edpt1/default/table?lang=es",
+ "fecha_consulta": "2026-10-11",
+ "periodos": "2016 – 2025",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}

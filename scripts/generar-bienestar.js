@@ -62,10 +62,11 @@ const salida = indicadores.map((ind) => {
     if (ia >= 0 || ib >= 0) return (ia < 0 ? 99 : ia) - (ib < 0 ? 99 : ib);
     return a.localeCompare(b, "es");
   });
-  const fuente = fuenteDe(s);
+  // Un indicador que usa solo parte de una serie puede indicar su propia fuente y enlace.
+  const fuente = ind.fuente || fuenteDe(s);
   return {
     id: ind.id, pilar: ind.pilar, nombre: ind.nombre, unidad: ind.unidad, mide: ind.mide, aviso: ind.aviso,
-    fuente, url: urlDe(s), consulta: s.fecha_consulta || "",
+    fuente, url: ind.url || urlDe(s), consulta: s.fecha_consulta || "",
     periodos, filas: orden.map((a) => ({ ambito: a, valores: periodos.map((p) => (p in filas[a] ? filas[a][p] : null)) })),
   };
 });

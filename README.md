@@ -16,7 +16,7 @@ Registro de hechos documentados sobre cómo nos ha ido en España entre 2016 y 2
 | Bulos | Bulos de cargos públicos y cuentas oficiales de partido, calificados de «falso» o «bulo» por un verificador | `datos/bulos.json` |
 | Programas | Promesas electorales y si se cumplieron, con su fuente | `datos/programas.json` |
 | Iniciativas ciudadanas | Iniciativas legislativas populares y consultas, y qué pasó con ellas | `datos/iniciativas.json` |
-| Cómo nos ha ido | Series oficiales de sanidad, educación, dependencia, vivienda, pobreza y energía, impuestos y gasto, y pensiones, más la lista de huelgas y manifestaciones | `datos/bienestar.json`, `datos/huelgas.json` |
+| Cómo nos ha ido | Series oficiales de sanidad, educación, dependencia, vivienda, pobreza y energía, impuestos y gasto, pensiones, y economía y empleo, más la lista de huelgas y manifestaciones | `datos/bienestar.json`, `datos/huelgas.json` |
 
 ## Criterio
 

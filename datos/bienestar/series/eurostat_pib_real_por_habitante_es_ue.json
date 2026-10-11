@@ -1,0 +1,56 @@
+{
+ "id": "eurostat_pib_real_por_habitante_es_ue",
+ "nombre": "PIB real por habitante, España vs UE-27",
+ "unidad": "euros por habitante a precios de 2020 (volumen encadenado)",
+ "definicion": "Producto interior bruto a precios de mercado por habitante, en volúmenes encadenados con referencia 2020: descuenta la inflación, de modo que los años son comparables entre sí.",
+ "fuente": "Eurostat, sdg_08_10 'Real GDP per capita' (unit CLV20_EUR_HAB)",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/sdg_08_10?format=JSON&lang=EN&geo=ES&geo=EU27_2020&unit=CLV20_EUR_HAB&sinceTimePeriod=2015",
+ "actualizado_fuente": "2026-10-09T23:00:00+0200",
+ "notas": [
+  "Marcas de Eurostat: España 2024 y 2025 «p» (provisional); UE-27 2020 «b» (ruptura de serie).",
+  "Al estar en precios constantes de 2020, no coincide con el PIB por habitante en euros corrientes que se publica en prensa.",
+  "Es una media: no dice cómo se reparte la renta."
+ ],
+ "flags": {
+  "UE-27": {
+   "2020": "b"
+  },
+  "España": {
+   "2024": "p",
+   "2025": "p"
+  }
+ },
+ "valores": {
+  "España": {
+   "2016": 25420,
+   "2017": 26110,
+   "2018": 26620,
+   "2019": 26930,
+   "2020": 23850,
+   "2021": 25440,
+   "2022": 26820,
+   "2023": 27130,
+   "2024": 27820,
+   "2025": 28260
+  },
+  "UE-27": {
+   "2016": 30350,
+   "2017": 31180,
+   "2018": 31780,
+   "2019": 32320,
+   "2020": 30560,
+   "2021": 32540,
+   "2022": 33490,
+   "2023": 33450,
+   "2024": 33800,
+   "2025": 34200
+  }
+ },
+ "url_pagina_indice": "https://ec.europa.eu/eurostat/databrowser/view/sdg_08_10/default/table?lang=es",
+ "fecha_consulta": "2026-10-11",
+ "periodos": "2016 – 2025",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}
