@@ -214,6 +214,15 @@
   "aviso": "Canarias no dio datos de 2024. Cuenta viviendas terminadas, no iniciadas."
  },
  {
+  "id": "viv_protegida_publica",
+  "pilar": "Vivienda",
+  "nombre": "Viviendas protegidas terminadas de promotor público",
+  "unidad": "calificaciones definitivas al año",
+  "serie": "mivau_vpo_calificaciones_definitivas_promotor_publico_ccaa.json",
+  "mide": "Las viviendas protegidas del indicador anterior que promovió directamente una administración (comunidad autónoma, ayuntamiento o sus empresas públicas), no un promotor privado. Es la vivienda pública de nueva construcción que se terminó cada año.",
+  "aviso": "El ministerio advierte de que un 0 puede significar que la comunidad no le comunicó datos. Cuenta obra terminada, no viviendas entregadas ni el parque público total, y no separa qué administración la promovió. Son cifras absolutas: las comunidades tienen poblaciones muy distintas."
+ },
+ {
   "id": "pob_arope",
   "pilar": "Pobreza y energía",
   "nombre": "Población en riesgo de pobreza o exclusión (AROPE)",

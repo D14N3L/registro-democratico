@@ -5942,6 +5942,331 @@
    ]
   },
   {
+   "id": "viv_protegida_publica",
+   "pilar": "Vivienda",
+   "nombre": "Viviendas protegidas terminadas de promotor público",
+   "unidad": "calificaciones definitivas al año",
+   "mide": "Las viviendas protegidas del indicador anterior que promovió directamente una administración (comunidad autónoma, ayuntamiento o sus empresas públicas), no un promotor privado. Es la vivienda pública de nueva construcción que se terminó cada año.",
+   "aviso": "El ministerio advierte de que un 0 puede significar que la comunidad no le comunicó datos. Cuenta obra terminada, no viviendas entregadas ni el parque público total, y no separa qué administración la promovió. Son cifras absolutas: las comunidades tienen poblaciones muy distintas.",
+   "fuente": "MIVAU, Boletín Estadístico Online, capítulo 31 'Vivienda protegida', tabla 1.6.2.2 (código 31206020) 'Número de calificaciones definitivas. Promotor público. Planes estatales y autonómicos', serie mensual",
+   "url": "https://apps.fomento.gob.es/BoletinOnline2/?nivel=2&orden=31000000",
+   "consulta": "2026-10-11",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      1542,
+      1036,
+      615,
+      1684,
+      975,
+      2282,
+      2028,
+      2276,
+      3749,
+      4046
+     ]
+    },
+    {
+     "ambito": "Andalucía",
+     "valores": [
+      403,
+      12,
+      4,
+      298,
+      18,
+      90,
+      118,
+      197,
+      267,
+      800
+     ]
+    },
+    {
+     "ambito": "Aragón",
+     "valores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Asturias",
+     "valores": [
+      0,
+      0,
+      0,
+      52,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Baleares",
+     "valores": [
+      14,
+      0,
+      0,
+      18,
+      9,
+      0,
+      147,
+      234,
+      236,
+      78
+     ]
+    },
+    {
+     "ambito": "Canarias",
+     "valores": [
+      72,
+      56,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Cantabria",
+     "valores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Castilla y León",
+     "valores": [
+      0,
+      0,
+      0,
+      0,
+      35,
+      0,
+      0,
+      54,
+      322,
+      108
+     ]
+    },
+    {
+     "ambito": "Castilla-La Mancha",
+     "valores": [
+      1,
+      0,
+      20,
+      0,
+      0,
+      0,
+      8,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Cataluña",
+     "valores": [
+      77,
+      646,
+      60,
+      259,
+      281,
+      604,
+      480,
+      946,
+      815,
+      1778
+     ]
+    },
+    {
+     "ambito": "Ceuta",
+     "valores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Comunitat Valenciana",
+     "valores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      4,
+      0,
+      22,
+      0
+     ]
+    },
+    {
+     "ambito": "Extremadura",
+     "valores": [
+      26,
+      42,
+      2,
+      28,
+      2,
+      7,
+      0,
+      80,
+      2,
+      0
+     ]
+    },
+    {
+     "ambito": "Galicia",
+     "valores": [
+      134,
+      8,
+      5,
+      0,
+      5,
+      66,
+      12,
+      0,
+      0,
+      62
+     ]
+    },
+    {
+     "ambito": "La Rioja",
+     "valores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Madrid",
+     "valores": [
+      660,
+      154,
+      139,
+      352,
+      424,
+      916,
+      549,
+      244,
+      1014,
+      521
+     ]
+    },
+    {
+     "ambito": "Melilla",
+     "valores": [
+      0,
+      42,
+      0,
+      0,
+      21,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Murcia",
+     "valores": [
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0,
+      0
+     ]
+    },
+    {
+     "ambito": "Navarra",
+     "valores": [
+      0,
+      0,
+      120,
+      42,
+      96,
+      76,
+      22,
+      111,
+      116,
+      149
+     ]
+    },
+    {
+     "ambito": "País Vasco",
+     "valores": [
+      155,
+      76,
+      265,
+      635,
+      84,
+      523,
+      688,
+      410,
+      955,
+      550
+     ]
+    }
+   ]
+  },
+  {
    "id": "pob_arope",
    "pilar": "Pobreza y energía",
    "nombre": "Población en riesgo de pobreza o exclusión (AROPE)",
