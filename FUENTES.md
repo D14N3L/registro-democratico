@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (258)
+## Fichas del registro (259)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -2787,6 +2787,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Los hechos son de la etapa del Gobierno de PRC y PSOE. Los condenados eran altos cargos de la administración sanitaria, no consejeros.
 - Fuentes:
   - [elDiario.es: el Supremo confirma las condenas (may 2026)](https://www.eldiario.es/cantabria/supremo-confirma-14-11-anos-inhabilitacion-exaltos-cargos-scs-fraccionaron-contratos-menores_1_13196442.html)
+
+### Caso Plus Ultra: la Audiencia Nacional investiga al expresidente Zapatero por tráfico de influencias en el rescate de la aerolínea
+- Fecha: may – oct 2026
+- Partidos: PSOE
+- Categoría: Financiación y corrupción
+- Nivel de prueba: Investigación judicial
+- Resumen: El 19 de mayo de 2026 el juez de la Audiencia Nacional José Luis Calama citó como investigado a José Luis Rodríguez Zapatero por tráfico de influencias (artículos 428 a 430 del Código Penal), con hechos que podrían ser también blanqueo de capitales, y levantó el secreto de la causa, que le llegó en marzo de un juzgado de Madrid. Según el auto, Plus Ultra buscó el rescate de 53 millones de la SEPI (Fondo de Apoyo a la Solvencia, 2021) por dos vías de influencia ajenas a los cauces legales, una a través de José Luis Ábalos y otra, la predominante, a través de Zapatero; los pagos habrían llegado mediante contratos de asesoría y sociedades instrumentales, una de ellas con sus hijas como socias. En el registro de su oficina aparecieron joyas tasadas inicialmente en 1,32 millones, por las que el juez abrió una pieza separada por posibles delitos contra la Hacienda Pública y de contrabando.
+- Matiz: Investigación abierta, sin juicio: rige la presunción de inocencia. Su defensa sostiene que las joyas son un regalo del entonces rey de Arabia Saudí en una visita oficial de 2007 y ha pedido una comisión rogatoria para acreditarlo; también pidió anular la causa por vulneración de derechos fundamentales en los registros, cosa que el juez rechazó, y ha recurrido otras decisiones. El juez rechazó las medidas cautelares que pedían la Fiscalía Anticorrupción y una acusación popular (retirarle el pasaporte y prohibirle salir de España). El rescate de Plus Ultra ya tuvo una comisión de investigación en el Congreso que no llegó al Pleno (ficha aparte).
+- Fuentes:
+  - [Poder Judicial: la Audiencia Nacional cita a Zapatero como investigado (19 may 2026)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/----La-Audiencia-Nacional-cita-al-expresidente-Jose-Luis-Rodriguez-Zapatero-como-investigado-por-delitos-de-trafico-de-influencias-y-otros-conexos)
+  - [Infobae: los recursos de la defensa y la pieza de las joyas (oct 2026)](https://www.infobae.com/espana/2026/10/07/la-defensa-de-zapatero-encadena-reveses-al-intentar-apartar-pruebas-frenar-a-hacienda-y-cuestionar-las-pesquisas-sobre-sus-negocios-en-el-caso-plus-ultra/)
+  - [BOE: Código Penal, artículos 428 a 430 (tráfico de influencias)](https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444#a428)
 
 ### Parlamento de La Rioja: el PP rechaza investigar pagos irregulares a altos cargos de la sanidad
 - Fecha: 21 may 2026
