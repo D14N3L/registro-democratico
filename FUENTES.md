@@ -2032,15 +2032,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Sindicatura de Comptes: informe 30/2024](https://www.sindicatura.cat/documents/36414/85841/2024_30_ca.pdf)
 
-### Laura Borràs, condenada en firme a 4 años y medio por trocear contratos en la Institució de les Lletres Catalanes
-- Fecha: 2013 – 2025
+### Laura Borràs, condenada en firme a 4 años y medio por trocear contratos en la Institució de les Lletres Catalanes; el Gobierno le rebaja la prisión a dos años
+- Fecha: 2013 – jul 2026
 - Partidos: Junts
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Cataluña
 - Nivel de prueba: Sentencia firme
-- Resumen: En febrero de 2025 el Supremo confirmó la condena del TSJ de Cataluña a Laura Borràs, expresidenta del Parlament y de Junts, a 4 años y medio de prisión y 13 de inhabilitación por prevaricación y falsedad: cuando dirigía la Institució de les Lletres Catalanes fraccionó contratos para adjudicárselos a un conocido. El Supremo rechazó aplicarle la amnistía.
-- Matiz: Borràs sostiene que es una persecución política. El Supremo dijo que los hechos no tienen relación con el procés.
+- Resumen: En febrero de 2025 el Supremo confirmó la condena del TSJ de Cataluña a Laura Borràs, expresidenta del Parlament y de Junts, a 4 años y medio de prisión y 13 de inhabilitación por prevaricación y falsedad: cuando dirigía la Institució de les Lletres Catalanes fraccionó contratos para adjudicárselos a un conocido. El Supremo rechazó aplicarle la amnistía. El 28 de julio de 2026 el Gobierno de PSOE y Sumar la indultó parcialmente (Real Decreto 670/2026): conmutó la prisión por dos años, a condición de no cometer delito doloso en cinco años, lo que le permitiría evitar la cárcel si el tribunal lo considera. Mantiene los 13 años de inhabilitación y la multa.
+- Matiz: Borràs sostiene que es una persecución política. El Supremo dijo que los hechos no tienen relación con el procés. La propia sentencia del TSJ de Cataluña propuso el indulto y calificó la pena de «desproporcionada y excesiva». Según el CGPJ, recogido por Civio, los Gobiernos de Sánchez suman siete indultos por corrupción, incluidos los del procés; desde 1996 se han concedido 234.
 - Fuentes:
+  - [BOE: Real Decreto 670/2026, de 28 de julio, indulto a Laura Borràs](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-16525)
+  - [Civio: tres indultos a condenados por corrupción (jul 2026)](https://civio.es/el-boe-nuestro-de-cada-dia/2026/07/29/el-gobierno-concede-tres-indultos-a-condenados-por-delitos-de-corrupcion/)
   - [elDiario.es: el Supremo confirma (feb 2025)](https://www.eldiario.es/catalunya/supremo-confirma-cuatro-anos-medio-carcel-laura-borras-corrupcion-adjudicacion-contratos_1_12041090.html)
   - [Confilegal](https://confilegal.com/20250212-el-ts-confirma-4-anos-y-medio-de-prision-a-laura-borras-por-prevaricacion-y-rechaza-que-se-le-aplique-la-amnistia/)
 
