@@ -3194,7 +3194,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Demócrata: la respuesta del PP (oct 2026)](https://www.democrata.es/extremadura/el-pp-acusa-a-unidas-de-usar-su-oficina-antifraude-como-ventilador-contra-todas-las-administraciones/)
   - [El Español: composición de la Mesa (ene 2026)](https://www.elespanol.com/espana/politica/20260120/pp-hace-presidencia-asamblea-extremadura-suspension-negociaciones-vox/1003744096208_0.html)
 
-## Qué votó cada partido (56)
+## Qué votó cada partido (57)
 
 "Sí" = a favor de que la medida saliera adelante. s/d = sin dato verificado.
 
@@ -3730,6 +3730,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Congreso: votación oficial (14 jul 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion192/20260714/Votacion052/VOT_20260714202058.json)
   - [El Independiente](https://www.elindependiente.com/espana/2026/07/14/congreso-giro-historico-dependencia-financiacion-desburocratizacion-bustinduy/)
+
+### Reforma de las leyes de dependencia y discapacidad
+- Fecha: 14 jul 2026
+- Resultado: Aprobada 179 a 33, 137 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP Abst. · Vox No · Cs s/d · ERC Sí · Junts Sí · Bildu Sí · PNV Sí
+- Qué decía: Reforma la ley de dependencia de 2006 y la ley general de discapacidad; es hoy la Ley 4/2026, de 1 de octubre. El Estado tendrá que aportar cada año al menos la mitad de lo que gastaron las comunidades en dependencia el año anterior, descontados los copagos. Da prioridad al cuidado en casa y en el entorno (ayuda a domicilio, teleasistencia, asistencia personal), garantiza la cotización de las cuidadoras no profesionales, pone un plazo máximo de tres meses a la primera fase del reconocimiento del grado y limita las sujeciones a situaciones excepcionales.
+- Contexto: Es una votación distinta de la del decreto-ley de los 6.200 millones del mismo día, que el PP sí apoyó. En la ley se abstuvo: dijo que «no cambia el sistema de financiación de la dependencia» y llamó a los 6.200 millones «solo un titular político». Vox votó en contra; su diputada María de la Cabeza Ruiz dijo que «de nada sirve aprobar ayudas si no están en disposición de asegurar que vayan a llegar». El ministro Pablo Bustinduy la llamó «la mayor reforma social en nuestro país en lo que va de siglo». El 16 de septiembre el Congreso votó una a una las enmiendas del Senado (aceptó unas y rechazó otras), sin otra votación del texto completo.
+- Fuentes:
+  - [Congreso: votación oficial del dictamen (14 jul 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion192/20260714/Votacion054/VOT_20260714202101.json)
+  - [elDiario.es: el Congreso aprueba la reforma con el único voto en contra de Vox](https://www.eldiario.es/sociedad/congreso-aprueba-reformas-dependencia-discapacidad-unico-voto-vox_1_13379081.html)
+  - [BOE: Ley 4/2026, de 1 de octubre](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20528)
+  - [Civio: qué cambia la reforma (oct 2026)](https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/13/la-reforma-de-las-leyes-de-dependencia-y-discapacidad-pone-en-foco-en-los-cuidados-en-casa-blinda-el-presupuesto-estatal-y-amplia-servicios/)
 
 ### Desahucios por grandes tenedores y tope del 2% al alquiler
 - Fecha: 2 oct 2026
