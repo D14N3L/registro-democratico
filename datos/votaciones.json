@@ -765,6 +765,22 @@
   ]
  },
  {
+  "id": "lobbies2026",
+  "tema": "Transparencia",
+  "m": "Registro obligatorio de lobbies (grupos de interés)",
+  "dl": "16 sep 2026",
+  "r": "Derogado 155 a 179, 12 abstenciones",
+  "v": {"PSOE": "si", "UP / Sumar": "si", "Podemos": "ab", "PP": "no", "Vox": "no", "Cs": "sd", "ERC": "si", "Junts": "no", "Bildu": "si", "PNV": "ab"},
+  "s": "Real Decreto-ley 21/2026, de 25 de agosto: primera regulación estatal de los lobbies, con un registro público y obligatorio de grupos de interés, incluidos sindicatos y patronal, para poder reunirse con cargos de la Administración. Lo piden desde hace años el GRECO del Consejo de Europa, la OCDE y la Comisión Europea, y estaba entre los compromisos del Plan de Recuperación ligados a fondos europeos; el proyecto de ley sobre lo mismo llevaba un año parado en el Congreso.",
+  "n": "Votaron en contra PP, Vox, Junts, UPN y Ortega Smith (Grupo Mixto); se abstuvieron PNV, Podemos y tres diputados de Sumar; a favor, PSOE, casi todo Sumar, ERC, EH Bildu, BNG, Compromís y CC. Por el PP, Edurne Uriarte habló de «572 días de dejadez» del Gobierno; por Junts, Josep Pagés criticó la falta de negociación y un texto que, a su juicio, favorece a las grandes empresas y a los grandes lobbies; por Vox, Emilio del Valle acusó al Gobierno de atentar contra la separación de poderes; el PNV lamentó que se usara un decreto por falta de apoyos al proyecto de ley. CC. OO. y UGT pidieron no convalidarlo porque incluía a los sindicatos, y la CEOE también lo rechazó. Sumar anunció su voto en contra por ese motivo y acabó votando a favor tras prometer el ministro Óscar López una aclaración de que el diálogo social queda fuera; su portavoz adjunta, Aina Vidal, ya había votado no por vía telemática. López dijo que el texto recogía el 90 % de las enmiendas de los grupos.",
+  "src": [
+   ["Congreso: votación oficial (16 sep 2026)", "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/Votacion016/VOT_20260916195406.json"],
+   ["elDiario.es: PP, Vox y Junts derogan la ley de lobbies", "https://www.eldiario.es/politica/congreso-deroga-ley-lobbies-gobierno-votos-pp-vox-junts_1_13514814.html"],
+   ["The Objective: argumentos de los grupos", "https://theobjective.com/espana/politica/2026-09-16/decreto-lobbies-gobierno-pp-junts-vox/"],
+   ["Civio: el Congreso tumba el decreto del lobby", "https://civio.es/novedades/2026/09/16/el-congreso-tumba-el-decreto-ley-que-regulaba-el-lobby/"]
+  ]
+ },
+ {
   "id": "vivienda26",
   "tema": "Vivienda",
   "m": "Desahucios por grandes tenedores y tope del 2% al alquiler",

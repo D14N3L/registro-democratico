@@ -3222,7 +3222,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Demócrata: la respuesta del PP (oct 2026)](https://www.democrata.es/extremadura/el-pp-acusa-a-unidas-de-usar-su-oficina-antifraude-como-ventilador-contra-todas-las-administraciones/)
   - [El Español: composición de la Mesa (ene 2026)](https://www.elespanol.com/espana/politica/20260120/pp-hace-presidencia-asamblea-extremadura-suspension-negociaciones-vox/1003744096208_0.html)
 
-## Qué votó cada partido (57)
+## Qué votó cada partido (58)
 
 "Sí" = a favor de que la medida saliera adelante. s/d = sin dato verificado.
 
@@ -3770,6 +3770,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: el Congreso aprueba la reforma con el único voto en contra de Vox](https://www.eldiario.es/sociedad/congreso-aprueba-reformas-dependencia-discapacidad-unico-voto-vox_1_13379081.html)
   - [BOE: Ley 4/2026, de 1 de octubre](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2026-20528)
   - [Civio: qué cambia la reforma (oct 2026)](https://civio.es/el-boe-nuestro-de-cada-dia/2026/10/13/la-reforma-de-las-leyes-de-dependencia-y-discapacidad-pone-en-foco-en-los-cuidados-en-casa-blinda-el-presupuesto-estatal-y-amplia-servicios/)
+
+### Registro obligatorio de lobbies (grupos de interés)
+- Fecha: 16 sep 2026
+- Resultado: Derogado 155 a 179, 12 abstenciones
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Abst.
+- Qué decía: Real Decreto-ley 21/2026, de 25 de agosto: primera regulación estatal de los lobbies, con un registro público y obligatorio de grupos de interés, incluidos sindicatos y patronal, para poder reunirse con cargos de la Administración. Lo piden desde hace años el GRECO del Consejo de Europa, la OCDE y la Comisión Europea, y estaba entre los compromisos del Plan de Recuperación ligados a fondos europeos; el proyecto de ley sobre lo mismo llevaba un año parado en el Congreso.
+- Contexto: Votaron en contra PP, Vox, Junts, UPN y Ortega Smith (Grupo Mixto); se abstuvieron PNV, Podemos y tres diputados de Sumar; a favor, PSOE, casi todo Sumar, ERC, EH Bildu, BNG, Compromís y CC. Por el PP, Edurne Uriarte habló de «572 días de dejadez» del Gobierno; por Junts, Josep Pagés criticó la falta de negociación y un texto que, a su juicio, favorece a las grandes empresas y a los grandes lobbies; por Vox, Emilio del Valle acusó al Gobierno de atentar contra la separación de poderes; el PNV lamentó que se usara un decreto por falta de apoyos al proyecto de ley. CC. OO. y UGT pidieron no convalidarlo porque incluía a los sindicatos, y la CEOE también lo rechazó. Sumar anunció su voto en contra por ese motivo y acabó votando a favor tras prometer el ministro Óscar López una aclaración de que el diálogo social queda fuera; su portavoz adjunta, Aina Vidal, ya había votado no por vía telemática. López dijo que el texto recogía el 90 % de las enmiendas de los grupos.
+- Fuentes:
+  - [Congreso: votación oficial (16 sep 2026)](https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion198/20260916/Votacion016/VOT_20260916195406.json)
+  - [elDiario.es: PP, Vox y Junts derogan la ley de lobbies](https://www.eldiario.es/politica/congreso-deroga-ley-lobbies-gobierno-votos-pp-vox-junts_1_13514814.html)
+  - [The Objective: argumentos de los grupos](https://theobjective.com/espana/politica/2026-09-16/decreto-lobbies-gobierno-pp-junts-vox/)
+  - [Civio: el Congreso tumba el decreto del lobby](https://civio.es/novedades/2026/09/16/el-congreso-tumba-el-decreto-ley-que-regulaba-el-lobby/)
 
 ### Desahucios por grandes tenedores y tope del 2% al alquiler
 - Fecha: 2 oct 2026
