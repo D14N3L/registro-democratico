@@ -197,11 +197,12 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Investigación judicial
-- Resumen: La investigación sobre el Canal de Isabel II llevó en 2017 a la detención del expresidente madrileño Ignacio González. En septiembre de 2026 empezó en la Audiencia Nacional el primer juicio, por la compra en 2001 de la colombiana Inassa con un presunto sobreprecio de al menos 19 millones; la Fiscalía Anticorrupción pide entre 6 y 7 años para 22 acusados, entre ellos el exgerente del Canal Arturo Canalda. González, apartado de esta pieza en 2019, afronta otras: en la de Canal Golf la petición es de seis años.
+- Resumen: La investigación sobre el Canal de Isabel II llevó en 2017 a la detención del expresidente madrileño Ignacio González. En septiembre de 2026 empezó en la Audiencia Nacional el primer juicio, por la compra en 2001 de la colombiana Inassa con un presunto sobreprecio de al menos 19 millones; la Fiscalía Anticorrupción pide entre 6 y 7 años para 22 acusados, entre ellos el exgerente del Canal Arturo Canalda. González, apartado de esta pieza en 2019, se sentó en el banquillo el 13 de octubre de 2026, también en la Audiencia Nacional, por la pieza de Canal Golf: presuntas irregularidades en la adjudicación de las obras de un campo de golf en terrenos del Canal y de un contrato para gestionar sus instalaciones deportivas. Anticorrupción pide seis años de prisión, por dos delitos de cohecho, para él, un hermano, un cuñado y otros dos acusados.
 - Matiz: No hay sentencia: rige la presunción de inocencia. El caso Lezo está en el origen de la reprobación del fiscal Moix en 2017 (ficha aparte).
 - Fuentes:
   - [Infobae (agencias): arranca el primer juicio (sep 2026)](https://www.infobae.com/espana/agencias/2026/09/06/arranca-el-primer-juicio-del-caso-lezo-sobre-el-canal-de-isabel-ii-diez-anos-despues/)
   - [elDiario.es: la Audiencia Nacional empieza a juzgar el caso Lezo](https://www.eldiario.es/madrid/audiencia-nacional-comienza-juzgar-caso-lezo-canal-isabel-ii-diez-anos-despues_1_13491733.html)
+  - [Infobae (EFE): comienza el primer juicio a Ignacio González (oct 2026)](https://www.infobae.com/espana/agencias/2026/10/13/comienza-el-primer-juicio-a-ignacio-gonzalez-por-el-caso-de-corrupcion-lezo/)
 
 ### Congreso: reprobados el ministro Catalá y los fiscales Maza y Moix; Moix dimite
 - Fecha: may – jun 2017
