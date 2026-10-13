@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (259)
+## Fichas del registro (260)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -2184,6 +2184,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Público](https://www.publico.es/politica/tribunales/condenados-lideres-guertel-exalcalde-arganda-adjudicaciones-ilegales-localidad.html)
   - [Telemadrid](https://www.telemadrid.es/programas/telenoticias-1/Condenados-los-19-acusados-de-la-trama-Gurtel-en-Arganda-del-Rey-2-2777442259--20250508030613.html)
+
+### Más de 1.200 resoluciones del Consejo de Transparencia sin cumplir desde 2016, en ministerios, comunidades y ayuntamientos
+- Fecha: 2016 – 2025
+- Partidos: PSOE, PP
+- Categoría: Incumplimiento de leyes y sentencias
+- Nivel de prueba: Organismo oficial
+- Resumen: Cuando una administración niega información pública y el ciudadano reclama, el Consejo de Transparencia y Buen Gobierno puede ordenarle que la entregue. Con los ficheros de seguimiento del propio Consejo, Civio contó que entre 2015 y marzo de 2025 no constaba el cumplimiento de 324 resoluciones en la Administración del Estado (135 del Ministerio del Interior) y de 942 en comunidades autónomas y ayuntamientos: 317 de Castilla-La Mancha, 190 de Extremadura y 147 de la Comunidad de Madrid de 2017 a 2022, además de RTVE (más de 20) y ayuntamientos como Getafe o Almoguera (15 cada uno). Según la Memoria oficial del Consejo, de las resoluciones de 2024 no constaba el cumplimiento a 31 de marzo de 2025 en 90 de ámbito estatal (el 15,2 %) y 101 autonómicas y locales (el 34,6 %).
+- Matiz: El Consejo no puede sancionar el incumplimiento: su presidente explicó en el Congreso en 2024 que solo puede publicar la lista de incumplidores y recordarles la obligación, porque «la ley no nos atribuye más potestades»; al ciudadano le queda ir a los tribunales. Una parte de las resoluciones está recurrida y su ejecución suspendida. Las cifras abarcan Gobiernos de distinto color: el Estado tuvo Gobiernos del PP hasta junio de 2018 y del PSOE (con Unidas Podemos y luego Sumar) después, Castilla-La Mancha ha estado gobernada por el PSOE, Madrid por el PP y Extremadura por el PSOE hasta 2023 y por el PP desde entonces; las fuentes no desglosan todas las cifras por año. El dato de Civio cuenta resoluciones, no reclamaciones, por lo que no coincide con las tablas resumen del Consejo.
+- Fuentes:
+  - [Civio: más de un millar de resoluciones ignoradas desde 2016 (may 2025)](https://civio.es/transparencia/2025/05/22/mas-de-un-millar-de-resoluciones-del-consejo-de-transparencia-han-sido-ignoradas-desde-2016/)
+  - [BOE: resumen de la Memoria 2024 del Consejo de Transparencia (sep 2025)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-19336)
 
 ### Parlamento de Andalucía: el PP rechaza investigar los contratos de emergencia del SAS
 - Fecha: 29 may 2025
