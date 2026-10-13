@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (257)
+## Fichas del registro (258)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -2960,6 +2960,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Swissinfo (EFE): claves 2026](https://www.swissinfo.ch/spa/fiscal%C3%ADa,-cgpj-o-anticorrupci%C3%B3n:-las-claves-del-informe-del-estado-de-derecho-sobre-espa%C3%B1a/91762316)
   - [CEOE Europa: informe 2025](https://www.ceoexeuropa.es/comunicaciones/estado-de-derecho-la-comision-presenta-el-informe-anual-sobre-el-estado-de-derecho-2025/)
+
+### El Supremo deja sin voto el 29N a los nacionalizados por la «ley de nietos» que no tengan certificado consular
+- Fecha: sep – oct 2026
+- Partidos: Vox
+- Categoría: Derechos fundamentales y control judicial
+- Nivel de prueba: Resolución judicial no firme
+- Resumen: A petición de la asociación Iustitia Europa y de Vox, la Sección Cuarta de la Sala de lo Contencioso-Administrativo del Supremo suspendió cautelarmente, por auto de 10 de septiembre de 2026, la inscripción en el censo de residentes en el extranjero (CERA) de quienes obtuvieron la nacionalidad por la disposición adicional de la Ley de Memoria Democrática de 2022, la llamada «ley de nietos». En octubre, días antes del cierre del censo el 12 de octubre, rechazó el recurso de reposición de la Abogacía del Estado, que apoyaba la Fiscalía. Según la prensa, hasta 163.020 personas no podrán votar en las generales del 29 de noviembre, salvo quienes tengan una certificación de un registro consular que acredite que cumplen los requisitos de la ley. La medida no les quita la nacionalidad.
+- Matiz: Es una medida cautelar; el fondo del recurso está pendiente. El Supremo sostiene que el riesgo de que se constituya irregularmente el censo electoral «sigue persistiendo con la misma intensidad» y reprocha al Ministerio de Justicia una instrucción que presumía cumplidos los requisitos de los exiliados entre 1936 y 1955. La Abogacía del Estado y la Fiscalía alegaron la «imposibilidad material» de revisar casi 170.000 expedientes; las fuentes no explican la diferencia con la cifra de 163.020. La magistrada Alicia Millán firmó un voto particular: al convocarse las elecciones, las medidas cautelares debieron quedar sin efecto. El ministro del Interior, Fernando Grande-Marlaska, dijo que «parece que el derecho al voto no es tan relevante para algunos»; Feijóo celebró la decisión.
+- Fuentes:
+  - [Euronews: el Supremo mantiene la suspensión del voto (oct 2026)](https://es.euronews.com/2026/10/12/el-supremo-mantiene-la-suspension-del-voto-ley-de-nietos)
+  - [Vozpópuli: el Supremo mantiene la suspensión del derecho a voto (oct 2026)](https://www.vozpopuli.com/tribunales/el-supremo-mantiene-la-suspension-del-derecho-a-voto-de-los-nacionalizados-por-la-ley-de-nietos.html)
 
 ### Senado: el PP descarta investigar la ley de nietos que pedía Vox
 - Fecha: sep 2026
