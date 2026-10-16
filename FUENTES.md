@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (261)
+## Fichas del registro (262)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -3221,6 +3221,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Región Digital: Unidas denuncia el veto de la Mesa (oct 2026)](https://www.regiondigital.com/noticias/portada/436636-unidas-denuncia-veto-de-mesa-de-la-asamblea-a-ley-para-crear-una-oficina-contra-el-fraude.html)
   - [Demócrata: la respuesta del PP (oct 2026)](https://www.democrata.es/extremadura/el-pp-acusa-a-unidas-de-usar-su-oficina-antifraude-como-ventilador-contra-todas-las-administraciones/)
   - [El Español: composición de la Mesa (ene 2026)](https://www.elespanol.com/espana/politica/20260120/pp-hace-presidencia-asamblea-extremadura-suspension-negociaciones-vox/1003744096208_0.html)
+
+### Junta Electoral Central: quinto expediente a Sánchez por usar La Moncloa en periodo electoral
+- Fecha: 2020 – oct 2026
+- Partidos: PSOE
+- Categoría: Medios públicos y propaganda
+- Nivel de prueba: Organismo oficial
+- Resumen: El 15 de octubre de 2026 la Junta Electoral Central abrió un expediente sancionador al presidente del Gobierno por la rueda de prensa del 6 de octubre en La Moncloa, al día siguiente de convocar las elecciones, en la que presentó los nuevos decretos de vivienda, por si usó medios públicos para hacer propaganda en periodo electoral. Lo denunció el PP, que lo llamó «un mitin del PSOE» en la sede de la Presidencia: según su denuncia, Sánchez presumió de los logros del Gobierno, criticó a la oposición y pidió una mayoría parlamentaria más amplia. Según Público, es el quinto expediente de la Junta a Sánchez, y las multas anteriores suman 6.600 euros: 500 por una entrevista desde La Moncloa en periodo electoral (2020), 2.200 por declaraciones electoralistas en una rueda de prensa en Bruselas (octubre de 2023), otra por defender a Salvador Illa en un acto oficial durante la campaña catalana de 2024 y otra por sus declaraciones sobre los pactos de PP y Vox en Extremadura.
+- Matiz: Abrir un expediente no es todavía una sanción; según El Español, la multa puede ir de 300 a 3.000 euros. Las fuentes no detallan el razonamiento de la Junta ni todos los importes anteriores. La Junta dejó fuera la declaración institucional del 5 de octubre en la que anunció la convocatoria, porque el decreto aún no estaba en vigor, aunque censuró que se siguiera difundiendo en canales oficiales. Las fuentes no recogen respuesta de La Moncloa. La Junta Electoral ha actuado también contra Gobiernos y televisiones de otros colores (ver las fichas de Quim Torra, Canal Sur, TV3 y la TVG).
+- Fuentes:
+  - [Público: la JEC abre expediente sancionador a Sánchez (oct 2026)](https://www.publico.es/politica/junta-electoral-central-abre-expediente-sancionador-pedro-sanchez-rueda-prensa-anuncio-decretos-sobre-vivienda.html)
+  - [El Español: la JEC expedienta a Sánchez (oct 2026)](https://www.elespanol.com/espana/politica/20261015/junta-electoral-expedienta-sanchez-pedir-mayoria-rotunda-moncloa-convocatoria/1003744421691_0.html)
+  - [Atlántico: posible uso partidista de La Moncloa (oct 2026)](https://atlantico.net/espana/junta-electoral-abre-investigacion-sanchez-uso-partidista-moncloa_1_20261015-4453276.html)
 
 ## Qué votó cada partido (58)
 
