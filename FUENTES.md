@@ -10765,7 +10765,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: es falso que Sánchez haya indultado a «golpistas»](https://maldita.es/malditodato/20190301/es-falso-que-el-gobierno-de-pedro-sanchez-haya-indultado-a-golpistas-como-dice-arrimadas/)
 
-## Huelgas y movilizaciones (57)
+## Huelgas y movilizaciones (58)
+
+### Huelga indefinida en la educación pública no universitaria (Madrid)
+- Fecha: desde el 14 oct 2026 · Sector: Educación
+- Convocan: Comité de huelga de CCOO, UGT, CGT, CNT, Solidaridad Obrera y STEM, con las plataformas Educación Especial Digna, Menos Lectivas y Queremos FP. CSIF convoca paros parciales por su cuenta; ANPE no se suma
+- Qué pedían: Un máximo de 17 periodos lectivos semanales en Secundaria y FP y 22 en Primaria, bajar las ratios, más orientadores y profesorado de apoyo, y 600 euros más al mes
+- Cifra oficial: Consejería de Educación: 44,6% el 14 de octubre y 32,2% el 15 en colegios e institutos. Concentración del 15 de octubre ante la Consejería: unas 10.000 personas según la Delegación del Gobierno.
+- Según quien convoca: CCOO: 70% el primer día. Convocantes: 62% el segundo. CSIF, en su paro parcial: 45% el segundo día.
+- Quién gobernaba: Ayuso (PP, mayoría absoluta). Competencia autonómica.
+- En qué acabó: En curso a 16 de octubre de 2026. La consejera Mercedes Zarzalejo la calificó de «política e innecesaria». Servicios mínimos: un maestro por cada 50 alumnos en los colegios y un profesor por cada 90 en los institutos.
+- Fuentes:
+  - [Infobae (EFE): la Comunidad cifra en un 44,6% el primer día](https://www.infobae.com/espana/agencias/2026/10/14/el-gobierno-de-madrid-cifra-en-un-44-el-seguimiento-del-primer-dia-de-huelga-educativa/)
+  - [El Español: segundo día, 32% según la Comunidad y 62% según los sindicatos](https://www.elespanol.com/observatorio-educacion/20261015/segundo-dia-huelga-educativa-madrid-comunidad-dice-apoyado-docentes-sindicatos/1003744421281_0.html)
+  - [El Diario de Madrid: convocantes y respuesta de la Consejería (oct 2026)](https://www.eldiariodemadrid.es/articulo/educacion/huelga-indefinida-educacion-publica-madrid-14-octubre-2026/20261009170417143874.html)
 
 ### Manifestaciones «Hacia la huelga general» por la vivienda (España (54 ciudades))
 - Fecha: 3 oct 2026 · Sector: Vivienda
