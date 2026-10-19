@@ -2372,8 +2372,12 @@
   "c": "Independencia de instituciones",
   "pr": "inv",
   "s": "El juez Pedraz, de la Audiencia Nacional, investiga una presunta estructura para interferir en causas judiciales que afectaban al PSOE y al entorno del Gobierno. Ha imputado a Leire Díez, al exsecretario de Organización Santos Cerdán y a la gerente del partido, y apunta a pagos del PSOE.",
-  "n": "Investigación en curso, sin juicio. Rige la presunción de inocencia. Leire Díez niega haber trabajado para el PSOE. El 6 de octubre de 2026 el PP, acusación popular, pidió imputar al PSOE como persona jurídica; el 8 de octubre la Fiscalía Anticorrupción informó al juez Pedraz de que ve indicios de una posible responsabilidad del partido, pero considera «prematuro» imputarlo hasta practicar diligencias pendientes, entre ellas la declaración de Santos Cerdán. El juez no ha resuelto.",
+  "n": "Investigación en curso, sin juicio. Rige la presunción de inocencia. Leire Díez niega haber trabajado para el PSOE. El 6 de octubre de 2026 el PP, acusación popular, pidió imputar al PSOE como persona jurídica; el 8 de octubre la Fiscalía Anticorrupción informó al juez Pedraz de que ve indicios de una posible responsabilidad del partido, pero considera «prematuro» imputarlo hasta practicar diligencias pendientes, entre ellas la declaración de Santos Cerdán. El 9 de octubre Pedraz rechazó imputar por ahora al PSOE: según su auto, «no se incorpora aún un elemento o principio de prueba» de la responsabilidad propia del partido, y «no puede imputarse al PSOE automáticamente» por los hechos de Cerdán o de la gerente. Lo deja abierto a lo que salga de las diligencias pendientes (la declaración de Cerdán y un informe de la UCO sobre 81 cuentas, seis del PSOE).",
   "src": [
+   [
+    "Infobae: Pedraz rechaza imputar por ahora al PSOE (9-oct-2026)",
+    "https://www.infobae.com/espana/2026/10/09/el-juez-pedraz-sigue-el-criterio-de-la-fiscalia-anticorrupcion-y-rechaza-en-este-momento-imputar-al-psoe-en-el-caso-leire-diez/"
+   ],
    [
     "elDiario.es: imputaciones",
     "https://www.eldiario.es/politica/uco-persona-sede-psoe-ferraz-investigacion-audiencia-nacional_1_13252759.html"
@@ -2616,7 +2620,7 @@
   "c": "Derechos fundamentales y control judicial",
   "pr": "tc",
   "s": "El Pleno del Tribunal Constitucional estimó por 7 votos a 5 el recurso de amparo de la exconsellera Dolors Bassa: el Supremo vulneró su derecho a la tutela judicial efectiva al negarse a aplicarle la amnistía por malversación con una interpretación «contraria al espíritu y finalidad» de la ley. Señala además una «contradicción flagrante» entre los autos del Supremo y su propia sentencia de 2019, y le ordena declarar amnistiado el delito «con carácter preferente y urgente». El criterio abre la vía para Turull, Junqueras, Romeva, Comín, Puig y Puigdemont.",
-  "n": "El Supremo había negado la amnistía de la malversación alegando que afectaba a los intereses financieros de la UE y que hubo beneficio personal; el TJUE concluyó en julio de 2026 que la amnistía no afecta a esos intereses. Votaron en contra los cinco magistrados del bloque conservador (Enríquez, Arnaldo, Espejel, Tolosa y Macías), que anuncian votos particulares. La aplicación a cada condenado no es automática: debe resolverla el Supremo. El 6 de octubre el juez Llarena dejó sin efecto, de forma inmediata y provisional, las órdenes nacionales de busca y captura de Puigdemont, Comín y Lluís Puig; según el Supremo, eso no es una ejecución anticipada de la sentencia constitucional. El 7 de octubre de 2026 el TC notificó la sentencia y el voto particular de los cinco magistrados al Supremo y a las partes, y el Supremo (el juez Llarena y la Sala de lo Penal) dio cinco días a la Fiscalía y a las defensas para presentar alegaciones (EFE).",
+  "n": "El Supremo había negado la amnistía de la malversación alegando que afectaba a los intereses financieros de la UE y que hubo beneficio personal; el TJUE concluyó en julio de 2026 que la amnistía no afecta a esos intereses. Votaron en contra los cinco magistrados del bloque conservador (Enríquez, Arnaldo, Espejel, Tolosa y Macías), que anuncian votos particulares. La aplicación a cada condenado no es automática: debe resolverla el Supremo. El 6 de octubre el juez Llarena dejó sin efecto, de forma inmediata y provisional, las órdenes nacionales de busca y captura de Puigdemont, Comín y Lluís Puig; según el Supremo, eso no es una ejecución anticipada de la sentencia constitucional. El 7 de octubre de 2026 el TC notificó la sentencia y el voto particular de los cinco magistrados al Supremo y a las partes, y el Supremo (el juez Llarena y la Sala de lo Penal) dio cinco días a la Fiscalía y a las defensas para presentar alegaciones (EFE). Por auto de 16 de octubre Llarena confirmó la retirada de las órdenes de detención de Puigdemont, Comín y Puig y rechazó el recurso de la acusación popular; acata la doctrina del TC, aunque escribe que «los adjetivos no convierten en indiscutible lo que ha fracturado al Tribunal». El auto no aplica todavía la amnistía ni extingue la responsabilidad penal: eso corresponde a la Sala de enjuiciamiento.",
   "src": [
    [
     "elDiario.es: el TC aplica la amnistía a la malversación",
@@ -2637,6 +2641,10 @@
    [
     "Infobae (EFE): el Supremo da cinco días de alegaciones (7-oct-2026)",
     "https://www.infobae.com/espana/agencias/2026/10/07/el-supremo-da-5-dias-de-alegaciones-sobre-la-amnistia-a-puigdemont-y-a-lideres-del-proces/"
+   ],
+   [
+    "Infobae: Llarena confirma la retirada de las órdenes y critica al TC (19-oct-2026)",
+    "https://www.infobae.com/espana/2026/10/19/el-juez-llarena-levanta-la-orden-de-detencion-contra-puigdemont-y-afea-al-constitucional-que-censure-un-criterio-que-ha-fracturado-al-tribunal/"
    ],
    [
     "Poder Judicial: Llarena deja sin efecto la orden de detención de Puigdemont (6-oct-2026)",
@@ -5187,12 +5195,13 @@
   "c": "Derechos fundamentales y control judicial",
   "a": "",
   "pr": "jud",
-  "s": "A petición de la asociación Iustitia Europa y de Vox, la Sección Cuarta de la Sala de lo Contencioso-Administrativo del Supremo suspendió cautelarmente, por auto de 10 de septiembre de 2026, la inscripción en el censo de residentes en el extranjero (CERA) de quienes obtuvieron la nacionalidad por la disposición adicional de la Ley de Memoria Democrática de 2022, la llamada «ley de nietos». En octubre, días antes del cierre del censo el 12 de octubre, rechazó el recurso de reposición de la Abogacía del Estado, que apoyaba la Fiscalía. Según la prensa, hasta 163.020 personas no podrán votar en las generales del 29 de noviembre, salvo quienes tengan una certificación de un registro consular que acredite que cumplen los requisitos de la ley. La medida no les quita la nacionalidad. El 15 de octubre la Junta Electoral Central acordó enviar la documentación electoral a todos los inscritos en el censo de residentes en el extranjero, con el aviso de que no todos podrán votar: la suspensión no rige para quien obtenga del consulado una certificación de que a 1 de agosto de 2026 había acreditado documentalmente ser hijo o nieto de exiliados.",
+  "s": "A petición de la asociación Iustitia Europa y de Vox, la Sección Cuarta de la Sala de lo Contencioso-Administrativo del Supremo suspendió cautelarmente, por auto de 10 de septiembre de 2026, la inscripción en el censo de residentes en el extranjero (CERA) de quienes obtuvieron la nacionalidad por la disposición adicional de la Ley de Memoria Democrática de 2022, la llamada «ley de nietos». En octubre, días antes del cierre del censo el 12 de octubre, rechazó el recurso de reposición de la Abogacía del Estado, que apoyaba la Fiscalía. Según la prensa, hasta 163.020 personas no podrán votar en las generales del 29 de noviembre, salvo quienes tengan una certificación de un registro consular que acredite que cumplen los requisitos de la ley. La medida no les quita la nacionalidad. El 15 de octubre la Junta Electoral Central acordó enviar la documentación electoral a todos los inscritos en el censo de residentes en el extranjero, con el aviso de que no todos podrán votar: la suspensión no rige para quien obtenga del consulado una certificación de que a 1 de agosto de 2026 había acreditado documentalmente ser hijo o nieto de exiliados. El Defensor del Pueblo, Ángel Gabilondo, recurrió en amparo al Tribunal Constitucional contra las resoluciones del Supremo y pidió medidas cautelarísimas; Vox pidió al TC inadmitirlo por prematuro (Europa Press, 18-10-2026). El TC no se ha pronunciado.",
   "n": "Es una medida cautelar; el fondo del recurso está pendiente. El Supremo sostiene que el riesgo de que se constituya irregularmente el censo electoral «sigue persistiendo con la misma intensidad» y reprocha al Ministerio de Justicia una instrucción que presumía cumplidos los requisitos de los exiliados entre 1936 y 1955. La Abogacía del Estado y la Fiscalía alegaron la «imposibilidad material» de revisar casi 170.000 expedientes; las fuentes no explican la diferencia con la cifra de 163.020. La magistrada Alicia Millán firmó un voto particular: al convocarse las elecciones, las medidas cautelares debieron quedar sin efecto. El ministro del Interior, Fernando Grande-Marlaska, dijo que «parece que el derecho al voto no es tan relevante para algunos»; Feijóo celebró la decisión.",
   "src": [
    ["Euronews: el Supremo mantiene la suspensión del voto (oct 2026)", "https://es.euronews.com/2026/10/12/el-supremo-mantiene-la-suspension-del-voto-ley-de-nietos"],
    ["Vozpópuli: el Supremo mantiene la suspensión del derecho a voto (oct 2026)", "https://www.vozpopuli.com/tribunales/el-supremo-mantiene-la-suspension-del-derecho-a-voto-de-los-nacionalizados-por-la-ley-de-nietos.html"],
-   ["Infobae (EFE): la JEC envía la documentación a todo el CERA, aunque no todos puedan votar (oct 2026)", "https://www.infobae.com/espana/agencias/2026/10/15/la-jec-acuerda-enviar-documentacion-electoral-a-todo-el-cera-aunque-no-todos-puedan-votar/"]
+   ["Infobae (EFE): la JEC envía la documentación a todo el CERA, aunque no todos puedan votar (oct 2026)", "https://www.infobae.com/espana/agencias/2026/10/15/la-jec-acuerda-enviar-documentacion-electoral-a-todo-el-cera-aunque-no-todos-puedan-votar/"],
+   ["Infobae (Europa Press): Vox pide al TC inadmitir el amparo del Defensor del Pueblo (oct 2026)", "https://www.infobae.com/espana/agencias/2026/10/18/vox-pide-al-constitucional-inadmitir-el-recurso-del-defensor-del-pueblo-sobre-la-ley-de-nietos/"]
   ]
  },
  {
@@ -5258,6 +5267,21 @@
    ["Público: la JEC abre expediente sancionador a Sánchez (oct 2026)", "https://www.publico.es/politica/junta-electoral-central-abre-expediente-sancionador-pedro-sanchez-rueda-prensa-anuncio-decretos-sobre-vivienda.html"],
    ["El Español: la JEC expedienta a Sánchez (oct 2026)", "https://www.elespanol.com/espana/politica/20261015/junta-electoral-expedienta-sanchez-pedir-mayoria-rotunda-moncloa-convocatoria/1003744421691_0.html"],
    ["Atlántico: posible uso partidista de La Moncloa (oct 2026)", "https://atlantico.net/espana/junta-electoral-abre-investigacion-sanchez-uso-partidista-moncloa_1_20261015-4453276.html"]
+  ]
+ },
+ {
+  "d": "2026-10-18",
+  "dl": "oct 2026",
+  "t": "Andalucía: la Junta de PP y Vox no renueva el programa de pisos de acogida para personas sin hogar de Cruz Roja, SAMU e Inserta",
+  "p": ["PP", "Vox"],
+  "c": "Gestión pública y derechos",
+  "a": "Andalucía",
+  "pr": "med",
+  "s": "La Consejería de Servicios Sociales no prorrogará ni volverá a licitar el Programa de Inserción Laboral y Social de Personas Sin Hogar, que desde 2023 financia 315 plazas en pisos de acogida y planes de inserción en las ocho provincias (132 de la Fundación SAMU, 93 de Inserta y unas 90 de Cruz Roja). Tiene 6,4 millones de euros, el 85 % de fondos europeos, y expira el 20 de diciembre de 2026. Según las propias entidades, son extranjeros el 80 % de los usuarios de Inserta, más del 60 % de los de SAMU y el 45 % de los de Cruz Roja. Es el primer programa social de este tipo que no se renueva desde el acuerdo de Gobierno de PP y Vox de 2026, que incluye la «prioridad nacional» y la «reducción, hasta su eliminación» de las ayudas que no mejoren «de forma directa y verificable» la calidad de vida de los andaluces.",
+  "n": "La Consejería niega una «orden directa» y desvincula la decisión del pacto con Vox: dice que el programa «se extingue ahora, una vez se evalúen los resultados». Según SAMU, la Junta alegó «la falta de fondos presupuestarios y la prioridad de los mismos». La relación con la «prioridad nacional» la señalan las entidades, la oposición y los medios; la Junta la rechaza. Es una decisión de gestión, no un hecho antidemocrático.",
+  "src": [
+   ["elDiario.es: el Gobierno de Moreno retira las primeras ayudas a ONG (oct 2026)", "https://www.eldiario.es/andalucia/gobierno-moreno-retira-primeras-ayudas-ong-atienden-inmigrantes-hogar-firmar-prioridad-nacional-vox_1_13556930.html"],
+   ["Qué!: Andalucía retira las ayudas a ONG que atienden a personas sin hogar (oct 2026)", "https://www.que.es/2026/10/19/ayudas-ong-andalucia-sin-hogar/"]
   ]
  }
 ]

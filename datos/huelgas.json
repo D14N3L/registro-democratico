@@ -1335,10 +1335,10 @@
   "t": "Huelga indefinida en la educación pública no universitaria",
   "convoca": "Comité de huelga de CCOO, UGT, CGT, CNT, Solidaridad Obrera y STEM, con las plataformas Educación Especial Digna, Menos Lectivas y Queremos FP. CSIF convoca paros parciales por su cuenta; ANPE no se suma",
   "piden": "Un máximo de 17 periodos lectivos semanales en Secundaria y FP y 22 en Primaria, bajar las ratios, más orientadores y profesorado de apoyo, y 600 euros más al mes",
-  "oficial": "Consejería de Educación: 44,6% el 14 de octubre y 32,2% el 15 en colegios e institutos. Concentración del 15 de octubre ante la Consejería: unas 10.000 personas según la Delegación del Gobierno.",
-  "segconv": "CCOO: 70% el primer día. Convocantes: 62% el segundo. CSIF, en su paro parcial: 45% el segundo día.",
+  "oficial": "Consejería de Educación: 44,6% el 14 de octubre (EFE; 44,3% según Gacetín Madrid); el 15, 32,2% en colegios e institutos según El Español o 26,7% según Gacetín Madrid; 13,2% el lunes 19 (Europa Press). Concentración del 15 de octubre ante la Consejería: unas 10.000 personas según la Delegación del Gobierno.",
+  "segconv": "Convocantes: 70% el primer día; el segundo, 62% según El Español o 60% según Gacetín Madrid; 50% el lunes 19. CSIF, en su paro parcial: 45% el segundo día.",
   "gobierno": "Ayuso (PP, mayoría absoluta). Competencia autonómica.",
-  "final": "En curso a 16 de octubre de 2026. La consejera Mercedes Zarzalejo la calificó de «política e innecesaria». Servicios mínimos: un maestro por cada 50 alumnos en los colegios y un profesor por cada 90 en los institutos.",
+  "final": "En curso a 19 de octubre de 2026, sin que conste ninguna reunión de negociación entre la Consejería y el comité de huelga. La consejera Mercedes Zarzalejo la calificó de «política e innecesaria». Servicios mínimos: un maestro por cada 50 alumnos en los colegios y un profesor por cada 90 en los institutos.",
   "src": [
    [
     "Infobae (EFE): la Comunidad cifra en un 44,6% el primer día",
@@ -1347,6 +1347,14 @@
    [
     "El Español: segundo día, 32% según la Comunidad y 62% según los sindicatos",
     "https://www.elespanol.com/observatorio-educacion/20261015/segundo-dia-huelga-educativa-madrid-comunidad-dice-apoyado-docentes-sindicatos/1003744421281_0.html"
+   ],
+   [
+    "Última Hora (Europa Press): cuarto día, 13,2% según la Comunidad y 50% según los sindicatos",
+    "https://www.ultimahora.es/noticias/comunidades/2026/10/19/2731879/cientos-profesores-vuelven-consejeria-cuarto-dia-huelga-para-exigir-negociacion-zarzalejo.html"
+   ],
+   [
+    "Gacetín Madrid: cifras de los dos primeros días (18 oct 2026)",
+    "https://gacetinmadrid.com/2026/10/18/arranca-2o-semana-huelga-ensenanza-madrilena/"
    ],
    [
     "El Diario de Madrid: convocantes y respuesta de la Consejería (oct 2026)",
