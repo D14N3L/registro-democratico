@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (264)
+## Fichas del registro (265)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -1657,6 +1657,21 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Última Hora](https://www.ultimahora.es/noticias/comunidades/2026/03/05/2583129/tumba-comision-investigacion-pedida-por-mas-madrid-sobre-contratacion-emergencia-covid-rescatada-por-tc.html)
   - [Infobae: Más Madrid recurre al TC por los contratos con Quirón (jul 2024)](https://www.infobae.com/espana/2024/07/12/mas-madrid-acude-al-constitucional-para-que-ayuso-de-explicaciones-sobre-los-contratos-con-quiron-durante-la-pandemia/)
   - [elDiario.es: el TC otorga el amparo (ene 2026)](https://www.eldiario.es/madrid/constitucional-asesta-segundo-varapalo-pp-mesa-asamblea-madrid-proteger-ayuso_1_12907097.html)
+
+### Alberto González Amador, pareja de la presidenta de Madrid, pendiente de juicio por fraude fiscal e investigado en otra causa por corrupción en los negocios
+- Fecha: mar 2024 – oct 2026
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Investigación judicial
+- Resumen: En marzo de 2024 la Fiscalía Provincial de Madrid denunció a Alberto González Amador, pareja de Isabel Díaz Ayuso, por dos delitos contra la Hacienda Pública en 2020 y 2021 a través de su sociedad Maxwell Cremona, por unos 350.900 euros, con 15 facturas que considera falsas. El 22 de septiembre de 2025 el Juzgado de Instrucción 19 de Madrid abrió juicio oral contra él y otros cuatro empresarios; la Audiencia Provincial confirmó el procesamiento en noviembre de 2025 y el juicio está pendiente de fecha. La Fiscalía y la Abogacía del Estado piden tres años y nueve meses de prisión; PSOE y Más Madrid, como acusación popular, cinco años, al añadir delito contable y pertenencia a grupo criminal. En una pieza separada se investigan posibles corrupción en los negocios y administración desleal: entre otras cosas, la compra en diciembre de 2020 de la sociedad Círculo de Belleza por cerca de 500.000 euros, que según la Fiscalía podría encubrir un pago a un directivo vinculado a Quirón Prevención, también investigado. El 20 de octubre de 2026 la Audiencia Provincial estimó un recurso de la Fiscalía y autorizó a la UCO a cotejar sus datos bancarios con los tributarios y de la Seguridad Social.
+- Matiz: No hay juicio celebrado ni sentencia: rige la presunción de inocencia. González Amador defendió ante la jueza que sus ingresos de Quirón Prevención son legales y no los ocultó, y que el precio de Círculo de Belleza respondía al valor de su red de distribución; no se opuso a que la UCO accediera a sus datos, y según el auto mostró «incluso su interés». Las fuentes dan la cuota defraudada como 350.910 o 350.951 euros. La filtración de un correo de su abogado acabó en la condena del fiscal general del Estado por revelación de secretos (ficha aparte), y el PP vetó en la Asamblea de Madrid una comisión sobre sus contratos (ficha aparte).
+- Fuentes:
+  - [Maldita.es: la denuncia de la Fiscalía, preguntas y respuestas (mar 2024)](https://maldita.es/malditateexplica/20240312/denuncia-fiscalia-pareja-ayuso-alberto-gonzalez-amador/)
+  - [Infobae: la jueza abre juicio oral (sep 2025)](https://www.infobae.com/espana/2025/09/22/la-jueza-abre-juicio-oral-a-alberto-gonzalez-amador-novio-de-ayuso-por-presunto-fraude-fiscal-delito-continuado-contable-y-pertenencia-a-organizacion-criminal/)
+  - [Atlántico: la Audiencia confirma el procesamiento (nov 2025)](https://www.atlantico.net/espana/audiencia-confirma-procesamiento-alberto-gonzalez_1_20251107-4048144.html)
+  - [Telemadrid (Europa Press): la Audiencia ordena a la UCO cotejar sus datos fiscales (oct 2026)](https://www.telemadrid.es/noticias/madrid/La-Justicia-ordena-a-la-UCO-cotejar-los-datos-fiscales-y-de-la-Seguridad-Social-de-Gonzalez-Amador-0-2936406349--20261020054955.html)
+  - [elDiario.es: la Audiencia corrige al juez y autoriza a la UCO (oct 2026)](https://www.eldiario.es/politica/audiencia-provincial-corrige-juez-autoriza-uco-obtener-datos-financieros-pareja-ayuso_1_13600506.html)
 
 ### Ley de amnistía: reparos de la Comisión de Venecia
 - Fecha: mar 2024 – oct 2026
