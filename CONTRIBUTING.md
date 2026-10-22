@@ -16,7 +16,7 @@ Toda contribución sigue las mismas reglas, sea del partido que sea:
 6. **Los votos no se deducen.** Si la fuente no dice cómo votó cada grupo, se pone «sin desglosar» (`sd`).
 7. **Presunción de inocencia.** Lo que está en investigación se marca como tal. No se atribuye a una persona lo que se condenó a otra o a una empresa.
 8. **Sin adjetivos ni conclusiones.** Ni «escándalo», ni «mafia», ni «miente». Se cuenta qué pasó, con fecha y cifra; el lector juzga.
-9. **Bulos**: solo entran declaraciones de cargos públicos o cuentas oficiales de partido que un verificador (Maldita.es, Newtral, EFE Verifica, Verificat) califica literalmente de «falso» o «bulo». «Engañoso» o «verdad a medias» no bastan.
+9. **Bulos**: solo entran declaraciones de cargos públicos o cuentas oficiales de partido que un verificador de la red europea EFCSN (Maldita.es, Newtral, EFE Verifica, Verificat) califica literalmente de «falso» o «bulo». «Engañoso» o «verdad a medias» no bastan. Otros verificadores que no son de la EFCSN, como VerificaRTVE, se pueden añadir como fuente adicional, pero no sustituyen a uno de los cuatro.
 10. **Con palabras propias**: no se copian párrafos de las noticias.
 11. **No es lo mismo un hecho antidemocrático que una mala gestión.** Las decisiones de política pública van en «Gestión pública y derechos», y se dice que son decisiones políticas.
 
