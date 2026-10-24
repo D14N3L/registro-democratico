@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (265)
+## Fichas del registro (266)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -3281,6 +3281,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es: el Gobierno de Moreno retira las primeras ayudas a ONG (oct 2026)](https://www.eldiario.es/andalucia/gobierno-moreno-retira-primeras-ayudas-ong-atienden-inmigrantes-hogar-firmar-prioridad-nacional-vox_1_13556930.html)
   - [Qué!: Andalucía retira las ayudas a ONG que atienden a personas sin hogar (oct 2026)](https://www.que.es/2026/10/19/ayudas-ong-andalucia-sin-hogar/)
+
+### Consejo Interterritorial: las comunidades del PP y Castilla-La Mancha rechazan el decreto para medir igual las listas de espera
+- Fecha: 23 oct 2026
+- Partidos: PP, PSOE
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Documentado en medios
+- Resumen: El 23 de octubre de 2026 el Consejo Interterritorial del Sistema Nacional de Salud rechazó el proyecto de real decreto del Ministerio de Sanidad sobre listas de espera, que pretendía medirlas igual en todas las comunidades: datos trimestrales con referencias mensuales en vez de semestrales, verificación digital y su inclusión en la estadística oficial, para saber cuánto esperan los pacientes hasta el final del proceso. Según fuentes presentes en la reunión, votaron en contra todos los consejeros del PP y el de Castilla-La Mancha (PSOE), y a favor País Vasco, Cataluña, Asturias y Navarra.
+- Matiz: El reparto de votos procede de fuentes de la reunión, no de un acta publicada, y las crónicas no detallan el voto del resto de comunidades. La consejera de Madrid, Fátima Matute, dijo que «faltan informes oficiales», que «no están claras las herramientas de medición» y que la ministra tira «para adelante con normas medio hechas» ante el adelanto electoral. La ministra Mónica García lo llamó «irresponsabilidad política» y anunció que someterá el texto a audiencia pública. Las fuentes no recogen el motivo del voto de Castilla-La Mancha. Es una decisión política, no un hecho antidemocrático.
+- Fuentes:
+  - [Infobae (Europa Press): el Consejo Interterritorial rechaza el decreto (23-oct-2026)](https://www.infobae.com/america/agencias/2026/10/23/consejo-interterritorial-rechaza-el-rd-de-listas-de-espera-y-garcia-lo-tilda-de-irresponsabilidad-politica/)
+  - [CLM24: las comunidades del PP y Castilla-La Mancha tumban la reforma (23-oct-2026)](https://www.clm24.es/articulo/sociedad/reforma-listas-espera-castilla-mancha-vota-pp/20261023164319484594.html)
+  - [Público: las autonomías del PP rechazan el decreto (oct 2026)](https://www.publico.es/politica/comunidades-pp-castilla-mancha-tumban-reforma-listas-espera-sanidad.html)
 
 ## Qué votó cada partido (58)
 
