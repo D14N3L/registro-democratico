@@ -1338,7 +1338,7 @@
   "oficial": "Consejería de Educación (docentes que no acuden a su puesto): 44,6% el miércoles 14, 32,2% el jueves 15, 26,7% el viernes 16, 15,4% el lunes 19 y 10,4% el martes 20 (Europa Press, 20 de octubre). Concentración del 15 de octubre ante la Consejería: unas 10.000 personas según la Delegación del Gobierno.",
   "segconv": "Comité de huelga: 70% el primer día; para los siguientes, Europa Press recoge 45%, 60% y 50%, mientras que El Español dio un 62% el segundo día. El 20 de octubre los sindicatos no dieron cifra. CSIF, en su paro parcial: 45% el segundo día.",
   "gobierno": "Ayuso (PP, mayoría absoluta). Competencia autonómica.",
-  "final": "En curso a 21 de octubre de 2026, sin que conste ninguna reunión de negociación entre la Consejería y el comité de huelga. El 19 de octubre hubo cargas policiales cuando docentes de una manifestación se desplazaron a un acto de la presidenta Ayuso; el comité las calificó de «violentas y desproporcionadas» y la Delegación del Gobierno pidió una investigación. La consejera Mercedes Zarzalejo la calificó de «política e innecesaria». Servicios mínimos: un maestro por cada 50 alumnos en los colegios y un profesor por cada 90 en los institutos.",
+  "final": "En curso a 26 de octubre de 2026, con movilizaciones convocadas hasta el 30, sin que conste ninguna reunión de negociación entre la Consejería y el comité de huelga. El 19 de octubre hubo cargas policiales cuando docentes de una manifestación se desplazaron a un acto de la presidenta Ayuso; el comité las calificó de «violentas y desproporcionadas» y la Delegación del Gobierno pidió una investigación. La consejera Mercedes Zarzalejo la calificó de «política e innecesaria». Servicios mínimos: un maestro por cada 50 alumnos en los colegios y un profesor por cada 90 en los institutos.",
   "src": [
    [
     "Infobae (EFE): la Comunidad cifra en un 44,6% el primer día",
@@ -1355,6 +1355,10 @@
    [
     "Última Hora (Europa Press): la Comunidad cifra el quinto día en un 10,4% y da la serie completa (20 oct 2026)",
     "https://www.ultimahora.es/noticias/comunidades/2026/10/20/2732815/comunidad-cifra-seguimiento-huelga-educativa-quinto-dia.html"
+   ],
+   [
+    "El Diario de Madrid: calendario de protestas del 26 al 30 de octubre",
+    "https://www.eldiariodemadrid.es/articulo/comunidad-de-madrid/huelga-educacion-publica-madrid-protestas-octubre-2026/20261024093920145191.html"
    ],
    [
     "El Diario de Madrid: convocantes y respuesta de la Consejería (oct 2026)",
@@ -1382,6 +1386,29 @@
    [
     "El Español: las cifras de la manifestación",
     "https://www.elespanol.com/madrid/capital/20261004/manifestacion-vivienda-supera-queda-debajo-rentistas-poder/1003744407607_0.html"
+   ]
+  ]
+ },
+ {
+  "d": "2026-10-24",
+  "dl": "24 oct 2026",
+  "sector": "Pensiones",
+  "ambito": "España (manifestación en Madrid)",
+  "t": "Manifestación estatal por unas pensiones públicas dignas",
+  "convoca": "Coordinadora Estatal por la Defensa del Sistema Público de Pensiones (COESPE), con la participación de la Confederación de Sindicatos de Inquilinas",
+  "piden": "Una subida del 6% de las pensiones para 2027, revalorizarlas según el IPC real, equiparar las pensiones mínimas al salario mínimo, una auditoría pública del sistema, el rechazo a su privatización y acceso a una vivienda asequible",
+  "oficial": "Delegación del Gobierno en Madrid: 25.000 personas.",
+  "segconv": "50.000 personas.",
+  "gobierno": "Sánchez (PSOE y Sumar), con las Cortes disueltas y elecciones convocadas para el 29 de noviembre. Las pensiones son del Estado.",
+  "final": "Manifestación de un día, cinco semanas antes de las elecciones generales.",
+  "src": [
+   [
+    "Público: miles de personas toman Madrid por el futuro de las pensiones públicas (24 oct 2026)",
+    "https://www.publico.es/sociedad/miles-personas-exigen-madrid-pensiones-publicas-dignas-rechazan-privatizacion.html"
+   ],
+   [
+    "Atlántico: multitudinaria manifestación en Madrid por pensiones dignas (24 oct 2026)",
+    "https://www.atlantico.net/espana/multitudinaria-manifestacion-madrid-reclamar-pensiones-dignas_1_20261024-4464890.html"
    ]
   ]
  }
