@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (266)
+## Fichas del registro (267)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -2568,6 +2568,21 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Público: el reparto de 2023](https://www.publico.es/politica/gobierno-madrileno-riega-casi-900-000-euros-publicidad-digitales-inda-losantos-negre.html)
   - [CTXT: el reparto de 2025](https://ctxt.es/es/20260901/Politica/55209/Diego-Delgado-Ayuso-CAM-Madrid-medios-pseudomedios-EDATV-OKdiario.htm)
   - [El Salto: la publicidad del Canal de Isabel II](https://www.elsaltodiario.com/medios/asi-ha-regado-ayuso-publicidad-canal-de-isabel-ii-medios-afinidad)
+
+### Madrid: 366.603 pacientes esperaban consulta con el especialista o prueba diagnóstica sin fecha asignada a finales de 2025, frente a 71.755 en 2023
+- Fecha: 2023 – 2025
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Madrid
+- Nivel de prueba: Organismo oficial
+- Resumen: Según las memorias anuales del Servicio Madrileño de Salud, a 31 de diciembre de 2025 había 253.738 pacientes esperando una primera consulta con el especialista y 112.865 esperando una primera prueba diagnóstica sin fecha asignada: 366.603 en total. A finales de 2023 eran 71.755 (44.383 en consultas y 27.372 en pruebas). El informe mensual de lista de espera de consultas de diciembre de 2025 da 711.810 pacientes en espera estructural para primera consulta; la memoria, a la misma fecha y con los mismos tramos de días de espera, da 965.548. La diferencia son los 253.738 sin fecha asignada. La tasa por 1.000 habitantes del informe mensual (136,77) es la misma de la memoria, que sí los incluye.
+- Matiz: Estos pacientes sí figuran en la memoria anual, que es pública; lo que no recoge es la cifra de pacientes del informe mensual. Según elDiario.es, que publicó el dato, la Consejería de Sanidad niega que sea una lista oculta, atribuye el aumento a la reorganización de la actividad tras la pandemia y dice que el grupo «sin cita» no es homogéneo (incluye, por ejemplo, reprogramaciones y derivaciones). No se ha comprobado si las demás comunidades publican un dato equivalente; el decreto del Ministerio para medir igual las listas de espera en toda España fue rechazado en el Consejo Interterritorial el 23 de octubre de 2026 (ver ficha). Madrid tiene la menor espera quirúrgica de España según el Ministerio. Es una decisión de gestión, no un hecho antidemocrático.
+- Fuentes:
+  - [Servicio Madrileño de Salud: Memoria 2025, apartado de lista de espera (PDF)](https://gestiona3.madrid.org/bvirtual/BVCM051956.pdf)
+  - [Servicio Madrileño de Salud: Memoria 2023, apartado de lista de espera (PDF)](https://gestiona3.madrid.org/bvirtual/BVCM051311.pdf)
+  - [Comunidad de Madrid: lista de espera de consultas externas, diciembre de 2025 (PDF)](https://www.comunidad.madrid/docs/assets/2026/01/15/le_c_diciembre_2025.pdf)
+  - [elDiario.es: la lista de espera sin cita en Madrid (27-oct-2026)](https://www.eldiario.es/madrid/lista-espera-oculta-gobierno-ayuso-desboca-360-000-pruebas-visitas-medicas-guardadas-cajon_1_13607358.html)
+  - [Redacción Médica: espera quirúrgica por comunidades (abr 2026)](https://www.redaccionmedica.com/politica/ministerio-sanidad/20260415/la-espera-quirurgica-de-deja-notables-diferencias-por-regiones/272056_0.html)
 
 ### Baleares: la Sindicatura reprocha la «inacción» del Pacte ante 3,7 millones en mascarillas defectuosas
 - Fecha: 2020 – ene 2026
