@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (267)
+## Fichas del registro (268)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -3262,6 +3262,23 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Región Digital: Unidas denuncia el veto de la Mesa (oct 2026)](https://www.regiondigital.com/noticias/portada/436636-unidas-denuncia-veto-de-mesa-de-la-asamblea-a-ley-para-crear-una-oficina-contra-el-fraude.html)
   - [Demócrata: la respuesta del PP (oct 2026)](https://www.democrata.es/extremadura/el-pp-acusa-a-unidas-de-usar-su-oficina-antifraude-como-ventilador-contra-todas-las-administraciones/)
   - [El Español: composición de la Mesa (ene 2026)](https://www.elespanol.com/espana/politica/20260120/pp-hace-presidencia-asamblea-extremadura-suspension-negociaciones-vox/1003744096208_0.html)
+
+### Aragón: los pacientes con más de seis meses de espera para operarse pasan de 6.149 en agosto de 2023 a 9.301 en septiembre de 2026
+- Fecha: ago 2023 – sep 2026
+- Partidos: PP
+- Categoría: Gestión pública y derechos
+- Parlamento o territorio: Aragón
+- Nivel de prueba: Organismo oficial
+- Resumen: Según el Departamento de Sanidad del Gobierno de Aragón, los pacientes que llevaban más de 180 días esperando una operación eran 6.149 al cierre de agosto de 2023, el mes en que Jorge Azcón (PP) tomó posesión como presidente. Bajaron hasta 5.178 en julio de 2025 y estaban en 5.453 en febrero de 2026; después subieron hasta 9.349 en agosto y 9.301 en septiembre de 2026. Es un 51 % más que en agosto de 2023 y un 71 % más que en febrero de 2026. Son solo los pacientes con más de seis meses de espera, no toda la lista: en agosto de 2023 la lista quirúrgica total era de 30.694 pacientes.
+- Matiz: El Gobierno de Aragón atribuye la subida de 2026 a la huelga nacional de médicos contra el Estatuto Marco del Ministerio de Sanidad, que según sus datos obligó a suspender más de 4.900 operaciones, y a la menor actividad del verano, y culpa al Ministerio de la falta de diálogo con los médicos. En 2025, antes de la huelga, la lista de más de seis meses bajó casi un 27 % (de 7.526 a 5.540) con un plan de actividad quirúrgica. La cifra de agosto de 2023 incluía, según el propio Departamento, 423 pacientes con más de 180 días de espera que no estaban registrados por errores del sistema de información. La huelga afectó a todas las comunidades y aquí no se compara con las demás. Es una cuestión de gestión, no un hecho antidemocrático.
+- Fuentes:
+  - [Gobierno de Aragón (Aragón Hoy): 6.149 pacientes a 31 de agosto de 2023 (14-sep-2023)](https://www.aragonhoy.es/sanidad/lista-espera-quirurgica-180-dias-alcanza-6-149-pacientes-92942)
+  - [Redacción Médica: 5.178 pacientes en julio de 2025 (11-ago-2025)](https://www.redaccionmedica.com/autonomias/20250811/aragon-logra-la-mayor-reduccion-de-lista-espera-quirurgica-en-julio/248956_0.html)
+  - [El Español: 5.453 pacientes en febrero de 2026 (9-mar-2026)](https://www.elespanol.com/aragon/actualidad/20260309/huelga-medicos-no-frena-descenso-lista-espera-quirurgica-aragon-pacientes/1003744161355_0.html)
+  - [Gobierno de Aragón (Aragón Hoy): julio de 2026, huelga y plan de 2025 (14-ago-2026)](https://www.aragonhoy.es/sanidad/lista-espera-quirurgica-aragon-sigue-condicionada-impacto-acumulativo-huelga-nacional-medicos-cierra-julio-8-117-pacientes-106070)
+  - [Última Hora (Europa Press): 9.349 pacientes en agosto de 2026 (18-sep-2026)](https://www.ultimahora.es/noticias/comunidades/2026/09/18/2711561/lista-espera-quirurgica-aragon-cierra-agosto-9349-pacientes-achacan-huelga-verano.html)
+  - [Aragón Digital: 9.301 pacientes en septiembre de 2026 (9-oct-2026)](https://www.aragondigital.es/articulo/sanidad/mas-9300-pacientes-esperan-mas-seis-meses-operarse-aragon/202610091406441013941.html)
+  - [elDiario.es: las listas de espera quirúrgica en Aragón desde 2023 (27-oct-2026)](https://www.eldiario.es/aragon/sociedad/listas-espera-quirurgica-aragon-siguen-alza-han-aumentado-51-llegada-azcon-gobierno_1_13618509.html)
 
 ### Junta Electoral Central: quinto expediente a Sánchez por usar La Moncloa en periodo electoral
 - Fecha: 2020 – oct 2026
