@@ -223,6 +223,15 @@
   "aviso": "El ministerio advierte de que un 0 puede significar que la comunidad no le comunicó datos. Cuenta obra terminada, no viviendas entregadas ni el parque público total, y no separa qué administración la promovió. Son cifras absolutas: las comunidades tienen poblaciones muy distintas."
  },
  {
+  "id": "viv_hacinamiento_ue",
+  "pilar": "Vivienda",
+  "nombre": "Personas que viven en una casa hacinada: España frente a la UE",
+  "unidad": "% de la población",
+  "serie": "eurostat_hacinamiento_es_ue.json",
+  "mide": "Qué parte de la población vive en un hogar con menos habitaciones de las que le corresponden según cuántas personas viven en él y de qué edades, con la misma definición de Eurostat para todos los países.",
+  "aviso": "Cuenta habitaciones, no metros cuadrados. La media de la UE-27 de 2016 a 2018 es una estimación de Eurostat. Para España sale de la Encuesta de Condiciones de Vida del INE."
+ },
+ {
   "id": "pob_arope",
   "pilar": "Pobreza y energía",
   "nombre": "Población en riesgo de pobreza o exclusión (AROPE)",

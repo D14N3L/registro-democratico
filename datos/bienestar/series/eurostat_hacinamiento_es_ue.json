@@ -1,0 +1,53 @@
+{
+ "id": "eurostat_hacinamiento_es_ue",
+ "nombre": "Tasa de hacinamiento, España vs UE-27",
+ "unidad": "% de la población",
+ "definicion": "Porcentaje de la población que vive en un hogar sin el número mínimo de habitaciones según su composición (definición de Eurostat de «overcrowding rate»): una para el hogar, una por pareja, una por cada persona sola de 18 años o más, una por cada dos personas del mismo sexo de 12 a 17 años, una por cada persona de 12 a 17 años que no entre en el caso anterior y una por cada dos menores de 12 años.",
+ "fuente": "Eurostat, ilc_lvho05a 'Overcrowding rate by age, sex and poverty status - total population' (age TOTAL, sex T, rskpovth TOTAL, unit PC)",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/ilc_lvho05a?format=JSON&lang=EN&geo=ES&geo=EU27_2020&age=TOTAL&sex=T&rskpovth=TOTAL&unit=PC&sinceTimePeriod=2015",
+ "actualizado_fuente": "2026-10-20T23:00:00+0200",
+ "notas": [
+  "Marca de Eurostat «e» (estimado) en la UE-27 de 2016 a 2018.",
+  "Para España sale de la Encuesta de Condiciones de Vida del INE."
+ ],
+ "flags": {
+  "UE-27": {
+   "2016": "e",
+   "2017": "e",
+   "2018": "e"
+  }
+ },
+ "valores": {
+  "España": {
+   "2016": 5.4,
+   "2017": 5.1,
+   "2018": 4.7,
+   "2019": 5.9,
+   "2020": 7.6,
+   "2021": 6.4,
+   "2022": 6.6,
+   "2023": 7.6,
+   "2024": 9.1,
+   "2025": 9.5
+  },
+  "UE-27": {
+   "2016": 17.9,
+   "2017": 17.5,
+   "2018": 17.1,
+   "2019": 17.1,
+   "2020": 17.4,
+   "2021": 17.3,
+   "2022": 16.8,
+   "2023": 16.8,
+   "2024": 16.9,
+   "2025": 16.8
+  }
+ },
+ "url_pagina_indice": "https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho05a/default/table?lang=es",
+ "fecha_consulta": "2026-11-11",
+ "periodos": "2016 – 2025",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}

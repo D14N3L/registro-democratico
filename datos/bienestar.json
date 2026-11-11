@@ -6267,6 +6267,61 @@
    ]
   },
   {
+   "id": "viv_hacinamiento_ue",
+   "pilar": "Vivienda",
+   "nombre": "Personas que viven en una casa hacinada: España frente a la UE",
+   "unidad": "% de la población",
+   "mide": "Qué parte de la población vive en un hogar con menos habitaciones de las que le corresponden según cuántas personas viven en él y de qué edades, con la misma definición de Eurostat para todos los países.",
+   "aviso": "Cuenta habitaciones, no metros cuadrados. La media de la UE-27 de 2016 a 2018 es una estimación de Eurostat. Para España sale de la Encuesta de Condiciones de Vida del INE.",
+   "fuente": "Eurostat, ilc_lvho05a 'Overcrowding rate by age, sex and poverty status - total population' (age TOTAL, sex T, rskpovth TOTAL, unit PC)",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/ilc_lvho05a/default/table?lang=es",
+   "consulta": "2026-11-11",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      5.4,
+      5.1,
+      4.7,
+      5.9,
+      7.6,
+      6.4,
+      6.6,
+      7.6,
+      9.1,
+      9.5
+     ]
+    },
+    {
+     "ambito": "UE-27",
+     "valores": [
+      17.9,
+      17.5,
+      17.1,
+      17.1,
+      17.4,
+      17.3,
+      16.8,
+      16.8,
+      16.9,
+      16.8
+     ]
+    }
+   ]
+  },
+  {
    "id": "pob_arope",
    "pilar": "Pobreza y energía",
    "nombre": "Población en riesgo de pobreza o exclusión (AROPE)",
