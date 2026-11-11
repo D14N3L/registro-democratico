@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (269)
+## Fichas del registro (270)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -2484,15 +2484,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [El Español: la Fiscalía recurre en amparo (abr 2026)](https://www.elespanol.com/espana/tribunales/20260410/fiscalia-recurre-constitucional-condena-exfiscal-general-garcia-ortiz-vulnerar-derechos/1003744201955_0.html)
   - [El Independiente: el amparo, aún sin estudiar (oct 2026)](https://www.elindependiente.com/espana/tribunales/2026/10/02/conde-pumpido-evita-confirmar-se-abstendra-recurso-garcia-ortiz-todavia-no-hemos-empezado-a-estudiarlo/)
 
-### Madrid paga a los hospitales de gestión privada de Quirón casi el doble de lo presupuestado
-- Fecha: 2021 – 2024
+### Madrid paga a los hospitales de gestión privada de Quirón casi el doble de lo presupuestado y acepta en los tribunales buena parte de lo que reclama el grupo
+- Fecha: 2021 – 2026
 - Partidos: PP
 - Categoría: Gestión pública y derechos
+- Parlamento o territorio: Madrid
 - Nivel de prueba: Documentado en medios
-- Resumen: Según la liquidación presupuestaria del Servicio Madrileño de Salud publicada por elDiario.es, entre 2021 y 2024 la Comunidad presupuestó 2.544 millones para cuatro hospitales de gestión privada del grupo Quirón (Jiménez Díaz, Rey Juan Carlos, Infanta Elena y Villalba) y acabó pagando 4.803 millones, un 89% más.
-- Matiz: La Comunidad lo explica por la libre elección de hospital: son los pacientes quienes eligen ir a esos centros, y se les paga por actividad.
+- Resumen: Según la liquidación presupuestaria del Servicio Madrileño de Salud publicada por elDiario.es, entre 2021 y 2024 la Comunidad presupuestó 2.544 millones para cuatro hospitales de gestión privada del grupo Quirón (Jiménez Díaz, Rey Juan Carlos, Infanta Elena y Villalba) y acabó pagando 4.803 millones, un 89% más. Además, entre octubre de 2022 y abril de 2026 el Tribunal Superior de Justicia de Madrid dictó 27 sentencias, en su mayoría favorables a Quirón, en pleitos del grupo por las liquidaciones de sus hospitales y los intereses de demora: a partir de 2022 la Consejería de Sanidad cambió su criterio sobre esas liquidaciones y, según las sentencias que cita elDiario.es, en 24 casos los magistrados recogen un allanamiento «implícito» o «parcial» de la Comunidad. elDiario.es calcula que suman unos 175 millones más para Quirón, y en julio de 2026 quedaban 18 pleitos pendientes. Ya en enero de 2024 infoLibre contó cinco sentencias de 2023 en las que el Servicio Madrileño de Salud aceptó la mayor parte de lo reclamado, unos 40 millones.
+- Matiz: La Comunidad explica el gasto por la libre elección de hospital: son los pacientes quienes eligen ir a esos centros, y se les paga por actividad. La consejera Fátima Matute defiende que lo pagado a Quirón es «trabajo efectivamente realizado y además auditado». Sobre los pleitos, la Consejería niega un allanamiento «en sentido estricto»: dice que cambió de postura porque las resoluciones recurridas podían no ajustarse a derecho, como permite el artículo 54.2 de la ley de la jurisdicción contencioso-administrativa, y para evitar más intereses y condenas en costas. Es una cuestión de gestión, no un hecho antidemocrático.
 - Fuentes:
-  - [elDiario.es](https://www.eldiario.es/madrid/gobierno-ayuso-paga-hospitales-quiron-doble-presupuestado-cuatro-anos_1_12818388.html)
+  - [elDiario.es: lo presupuestado y lo pagado (2021-2024)](https://www.eldiario.es/madrid/gobierno-ayuso-paga-hospitales-quiron-doble-presupuestado-cuatro-anos_1_12818388.html)
+  - [elDiario.es: la Comunidad desiste en 27 litigios con Quirón (8-nov-2026)](https://www.eldiario.es/madrid/gobierno-ayuso-desiste-27-litigios-quiron-acepta-pagarle-175-millones_1_13615442.html)
+  - [infoLibre: cinco sentencias del TSJM suman 40 millones más para Quirón (15-ene-2024)](https://www.infolibre.es/politica/cinco-sentencias-disparan-40-millones-pagos-madrid-gigante-sanidad-privatizada_1_1688043.html)
+  - [The Objective (Servimedia): entrevista a la consejera Fátima Matute (26-oct-2026)](https://theobjective.com/sanidad/2026-10-26/fatima-matute-dinero-medicina-privada/)
+  - [BOE: Ley 29/1998 de la jurisdicción contencioso-administrativa, artículo 54](https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718#a54)
 
 ### Residencias de Madrid: protocolos que limitaron traslados al hospital en la primera ola
 - Fecha: 2020 – hoy
@@ -3243,6 +3248,21 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Poder Judicial: el Supremo declara extinguida la responsabilidad penal de Junqueras, Romeva, Turull y Bassa (20-oct-2026)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/El-Tribunal-Supremo-declara-extinguida-la-responsabilidad-penal-de-Oriol-Junqueras--Raul-Romeva--Jordi-Turull-y-Dolors-Bassa-en-aplicacion-de-la-amnistia-al-asumir-la-sentencia-del-TC)
   - [Infobae: Llarena confirma la retirada de las órdenes y critica al TC (19-oct-2026)](https://www.infobae.com/espana/2026/10/19/el-juez-llarena-levanta-la-orden-de-detencion-contra-puigdemont-y-afea-al-constitucional-que-censure-un-criterio-que-ha-fracturado-al-tribunal/)
   - [Poder Judicial: Llarena deja sin efecto la orden de detención de Puigdemont (6-oct-2026)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/El-juez-del-Tribunal-Supremo-Pablo-Llarena-deja-sin-efecto-la-orden-de-detencion-de-Carles-Puigdemont-tras-conocer-la-decision-del-TC-de-estimar-el-recurso-de-Dolors-Bassa)
+
+### Castilla y León: las ayudas al cine excluyen las obras que impliquen «adoctrinamiento ideológico», y el Ministerio de Cultura da el primer paso para impugnarlas
+- Fecha: oct – nov 2026
+- Partidos: Vox
+- Categoría: Derechos fundamentales y control judicial
+- Parlamento o territorio: Castilla y León
+- Nivel de prueba: Documentado en medios
+- Resumen: La Consejería de Cultura, Turismo y Deporte de la Junta de Castilla y León, que dirige José Alberto Díaz Pico (Vox) en el Gobierno de coalición de Alfonso Fernández Mañueco (PP), convocó el 7 de octubre de 2026 las ayudas de ese año a largometrajes, documentales y pilotos de series (325.000 euros en total, hasta 60.000 por proyecto), con otra orden para cortometrajes. Entre las obligaciones de los beneficiarios, la orden de largometrajes añade que las actividades deben respetar «los principios de objetividad, neutralidad institucional, pluralismo y servicio al interés general» y que los fondos no podrán destinarse a «actuaciones que impliquen adoctrinamiento ideológico, propaganda partidista o apoyo expreso a opciones políticas concretas». La orden no define qué es adoctrinamiento ideológico ni lo incluye entre los criterios de valoración. En octubre el Ministerio de Cultura presentó un requerimiento contra las dos órdenes, paso previo para llevarlas a los tribunales; el ministro Ernest Urtasun vio «indicios de afectación a la libertad de creación y expresión».
+- Matiz: El 9 de noviembre, en las Cortes de Castilla y León, Díaz Pico dijo que la Junta no apoyará proyectos que den «una versión sesgada de la realidad», que «no censuramos ninguna producción» y que no financiará proyectos ideológicos. La cláusula limita a qué se destina el dinero público; no prohíbe rodar ni exhibir películas. La Plataforma del Audiovisual de Castilla y León y la asociación de cineastas CIMA expresaron su «profunda preocupación» por los «condicionantes ideológicos». A 11 de noviembre no consta respuesta de la Junta al requerimiento ni recurso en los tribunales: no hay ninguna resolución judicial.
+- Fuentes:
+  - [Base de Datos Nacional de Subvenciones: convocatoria 933894, orden de 7 de octubre de 2026 (texto completo)](https://www.infosubvenciones.es/bdnstrans/GE/es/convocatoria/933894)
+  - [BOCYL: extracto de la orden de largometrajes (9-oct-2026)](https://bocyl.jcyl.es/boletines/2026/10/09/pdf/BOCYL-D-09102026-197-14.pdf)
+  - [Infobae: la cláusula y las primeras críticas (20-oct-2026)](https://www.infobae.com/espana/cultura/2026/10/20/vox-prohibe-las-subvenciones-a-aquellas-peliculas-que-supongan-adoctrinamiento-ideologico-en-castilla-y-leon-querran-hacerlo-desde-el-gobierno-de-espana/)
+  - [elDiario.es: el Ministerio de Cultura presenta un requerimiento contra las dos órdenes (23-oct-2026)](https://www.eldiario.es/cultura/cine/cultura-da-primer-paso-impugnar-tribunales-ayudas-vetan-castilla-leon-cine-ideologico_1_13608648.html)
+  - [Infobae (EFE): Díaz Pico en las Cortes, «una versión sesgada de la realidad» (9-nov-2026)](https://www.infobae.com/espana/agencias/2026/11/09/la-junta-de-castilla-y-leon-no-ayudara-al-cine-que-de-una-version-sesgada-de-la-realidad/)
 
 ### El Supremo anula el decreto de universidades del Gobierno por tramitarlo de urgencia sin justificarlo
 - Fecha: oct 2025 – oct 2026
