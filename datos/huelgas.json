@@ -1338,7 +1338,7 @@
   "oficial": "Consejería de Educación (docentes que no acuden a su puesto): 44,6% el miércoles 14, 32,2% el jueves 15, 26,7% el viernes 16, 15,4% el lunes 19 y 10,4% el martes 20 (Europa Press, 20 de octubre). Concentración del 15 de octubre ante la Consejería: unas 10.000 personas según la Delegación del Gobierno.",
   "segconv": "Comité de huelga: 70% el primer día; para los siguientes, Europa Press recoge 45%, 60% y 50%, mientras que El Español dio un 62% el segundo día. El 20 de octubre los sindicatos no dieron cifra. CSIF, en su paro parcial: 45% el segundo día.",
   "gobierno": "Ayuso (PP, mayoría absoluta). Competencia autonómica.",
-  "final": "En curso a 26 de octubre de 2026, con movilizaciones convocadas hasta el 30, sin que conste ninguna reunión de negociación entre la Consejería y el comité de huelga. El 19 de octubre hubo cargas policiales cuando docentes de una manifestación se desplazaron a un acto de la presidenta Ayuso; el comité las calificó de «violentas y desproporcionadas» y la Delegación del Gobierno pidió una investigación. La consejera Mercedes Zarzalejo la calificó de «política e innecesaria». Servicios mínimos: un maestro por cada 50 alumnos en los colegios y un profesor por cada 90 en los institutos.",
+  "final": "En curso a 11 de noviembre de 2026, sin que conste ninguna reunión de negociación entre la Consejería y el comité de huelga. El 4 y el 5 de noviembre se sumaron las seis universidades públicas con dos días de huelga convocados por la Coordinadora en Defensa de la Universidad Pública (sus portavoces hablaron de un 95% en la Complutense, la Politécnica y la Autónoma; no hay cifra oficial). El 5 de noviembre nueve miembros del comité de huelga estuvieron algo más de una hora en la Dirección General de Recursos Humanos para pedir una reunión, que no se produjo; ese día la Policía Municipal detuvo a un profesor en la concentración ante la Consejería por «desobediencia y resistencia», según EFE, y la plataforma Menos Lectivas denunció una detención «violenta». El 19 de octubre hubo cargas policiales cuando docentes de una manifestación se desplazaron a un acto de la presidenta Ayuso; el comité las calificó de «violentas y desproporcionadas» y la Delegación del Gobierno pidió una investigación. La consejera Mercedes Zarzalejo la calificó de «política e innecesaria». Servicios mínimos: un maestro por cada 50 alumnos en los colegios y un profesor por cada 90 en los institutos.",
   "src": [
    [
     "Infobae (EFE): la Comunidad cifra en un 44,6% el primer día",
@@ -1363,6 +1363,14 @@
    [
     "El Diario de Madrid: convocantes y respuesta de la Consejería (oct 2026)",
     "https://www.eldiariodemadrid.es/articulo/educacion/huelga-indefinida-educacion-publica-madrid-14-octubre-2026/20261009170417143874.html"
+   ],
+   [
+    "Infobae (EFE): un detenido y corte de tráfico en un nuevo día de huelga (5 nov 2026)",
+    "https://www.infobae.com/espana/agencias/2026/11/05/un-detenido-y-corte-de-trafico-en-madrid-en-un-nuevo-dia-de-huelga-de-la-educacion-publica/"
+   ],
+   [
+    "The Objective: el comité de huelga se encierra en la Dirección de Recursos Humanos (5 nov 2026)",
+    "https://theobjective.com/espana/madrid/2026-11-05/docentes-huelga-madrid-rrhh-educacion/"
    ]
   ]
  },
@@ -1409,6 +1417,33 @@
    [
     "Atlántico: multitudinaria manifestación en Madrid por pensiones dignas (24 oct 2026)",
     "https://www.atlantico.net/espana/multitudinaria-manifestacion-madrid-reclamar-pensiones-dignas_1_20261024-4464890.html"
+   ]
+  ]
+ },
+ {
+  "d": "2026-11-04",
+  "dl": "4 nov 2026",
+  "sector": "Educación",
+  "ambito": "Castilla y León",
+  "t": "Huelga docente en la enseñanza pública no universitaria",
+  "convoca": "CCOO y UGT",
+  "piden": "Subir el complemento autonómico, que según CCOO lleva 20 años sin cambios; compensar la función tutorial; tres horas lectivas menos sin perder sueldo para los mayores de 55 años; poder elegir entre carrera profesional y sexenios; menos interinidad, y una «negociación real»",
+  "oficial": "Consejería de Educación, hasta las 13:00: 6,89% en la comunidad. Por provincias, del 10,09% de León y el 9,58% de Burgos al 2,80% de Zamora. Servicios mínimos cumplidos sin incidencias, según la Consejería.",
+  "segconv": "CCOO y UGT: cerca del 50% de unos 30.000 docentes convocados.",
+  "gobierno": "Mañueco (PP), en coalición con Vox desde junio de 2026. Competencia autonómica.",
+  "final": "Según UGT, la Consejería se remite a un acuerdo con el resto de sindicatos de la Mesa Sectorial y ofreció una aportación para las tutorías que CCOO y UGT consideran insuficiente. Hubo concentraciones en las capitales de provincia. No constan nuevas jornadas de huelga docente; los dos sindicatos llamaron también a la huelga general del 11 de noviembre.",
+  "src": [
+   [
+    "elDiario.es: un 6,9% según la Junta y un 50% según los sindicatos (4 nov 2026)",
+    "https://www.eldiario.es/castilla-y-leon/sociedad/huelga-profesores-castilla-leon-deja-seguimiento-6-9-junta-50-sindicatos_1_13639096.html"
+   ],
+   [
+    "COPE Astorga: el seguimiento por provincias según Educación (4 nov 2026)",
+    "https://copeastorga.es/educacion-situa-en-el-1009-el-seguimiento-de-la-huelga-docente-en-leon-el-mayor-de-castilla-y-leon/"
+   ],
+   [
+    "COPE Burgos: qué piden los sindicatos y la respuesta de la Consejería (4 nov 2026)",
+    "https://www.cope.es/emisoras/castilla-y-leon/burgos-provincia/burgos/noticias/castilla-leon-cifra-5-seguimiento-huelga-docente-publica-sindicatos-hablan-50-centros-concretos-20261104_3468314.html"
    ]
   ]
  }

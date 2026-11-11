@@ -2915,5 +2915,35 @@
     "https://maldita.es/malditodato/20190723/las-mentiras-y-datos-falsos-del-debate-de-investidura-de-pedro-sanchez/"
    ]
   ]
+ },
+ {
+  "d": "2026-11-04",
+  "dl": "4 nov 2026",
+  "quien": "Santiago Abascal",
+  "cargo": "presidente de Vox y candidato a la presidencia del Gobierno",
+  "p": [
+   "Vox"
+  ],
+  "canal": "Entrevista en Onda Cero",
+  "tema": "Inmigración y seguridad",
+  "dicho": "Que hoy «el marroquí que acaba de llegar» es quien tendría prioridad para recibir ayudas y acceder a una vivienda protegida.",
+  "datos": "Según Verificat, ni la vivienda protegida ni las ayudas sociales dan preferencia por nacionalidad: se reparten por ingresos, composición familiar o vulnerabilidad. El Plan Estatal de Vivienda 2026-2030 (Real Decreto 326/2026, artículo 8.2.a) exige a los extranjeros de fuera de la UE residencia legal en España, y la Ley de Extranjería (artículo 13) reconoce a los extranjeros residentes el acceso a las ayudas de vivienda en los términos que fijen las leyes y las administraciones, y a los residentes de larga duración en las mismas condiciones que a los españoles. Verificat preguntó a Vox si Abascal se refería a la vivienda o a las ayudas en general y no tuvo respuesta.",
+  "verif": "Verificat",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Verificat: los migrantes no tienen prioridad para recibir vivienda protegida (9-nov-2026)",
+    "https://www.verificat.cat/es/los-migrantes-no-tienen-prioridad-para-recibir-vivienda-protegida-como-dice-abascal/"
+   ],
+   [
+    "BOE: Ley Orgánica 4/2000 de extranjería, artículo 13 (texto consolidado)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2000-544#a13"
+   ],
+   [
+    "BOE: Real Decreto 326/2026, Plan Estatal de Vivienda 2026-2030, artículo 8",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2026-8872#a8"
+   ]
+  ]
  }
 ]
