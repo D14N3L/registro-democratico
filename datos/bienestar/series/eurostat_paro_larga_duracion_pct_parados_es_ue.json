@@ -1,0 +1,55 @@
+{
+ "id": "eurostat_paro_larga_duracion_pct_parados_es_ue",
+ "nombre": "Parados de larga duración sobre el total de parados, España vs UE-27",
+ "unidad": "% de los parados",
+ "definicion": "Parados que llevan 12 meses o más buscando empleo, en porcentaje del total de parados de 15 a 74 años, media anual.",
+ "fuente": "Eurostat, une_ltu_a 'Long-term unemployment by sex - annual data' (age Y15-74, sex T, unit PC_UNE)",
+ "url": "https://ec.europa.eu/eurostat/api/dissemination/statistics/1.0/data/une_ltu_a?format=JSON&lang=EN&geo=ES&geo=EU27_2020&sex=T&age=Y15-74&unit=PC_UNE&sinceTimePeriod=2015",
+ "actualizado_fuente": "2026-11-06T23:00:00+0100",
+ "notas": [
+  "Marca de Eurostat «d» (la definición difiere) en España desde 2021.",
+  "Para España sale de la EPA del INE."
+ ],
+ "flags": {
+  "España": {
+   "2021": "d",
+   "2022": "d",
+   "2023": "d",
+   "2024": "d",
+   "2025": "d"
+  }
+ },
+ "valores": {
+  "UE-27": {
+   "2016": 46.2,
+   "2017": 44.4,
+   "2018": 42.4,
+   "2019": 39.4,
+   "2020": 33.7,
+   "2021": 39.1,
+   "2022": 38.6,
+   "2023": 35.1,
+   "2024": 32.4,
+   "2025": 31.5
+  },
+  "España": {
+   "2016": 48.4,
+   "2017": 44.5,
+   "2018": 41.7,
+   "2019": 37.8,
+   "2020": 32.1,
+   "2021": 41.7,
+   "2022": 39.1,
+   "2023": 35,
+   "2024": 33.5,
+   "2025": 32.1
+  }
+ },
+ "url_pagina_indice": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=es",
+ "fecha_consulta": "2026-11-11",
+ "periodos": "2016 – 2025",
+ "ambitos": [
+  "España",
+  "UE-27"
+ ]
+}

@@ -8739,6 +8739,116 @@
    ]
   },
   {
+   "id": "eco_paro_larga_ue",
+   "pilar": "Economía y empleo",
+   "nombre": "Paro de larga duración: España frente a la UE",
+   "unidad": "% de la población activa de 15 a 74 años",
+   "mide": "Qué parte de la población activa lleva un año o más en paro buscando empleo, en España y en la media de la Unión Europea, con la misma definición para todos los países.",
+   "aviso": "Es un porcentaje de toda la población activa: como España tiene más paro en general, también tiene más paro de larga duración. Para ver qué parte de los parados lleva más de un año sin trabajo, mira el indicador siguiente. En 2021 cambió la metodología de la encuesta en España.",
+   "fuente": "Eurostat, une_ltu_a 'Long-term unemployment by sex - annual data' (age Y15-74, sex T, unit PC_ACT)",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=es",
+   "consulta": "2026-11-11",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      9.5,
+      7.7,
+      6.4,
+      5.3,
+      5,
+      6.2,
+      5.1,
+      4.3,
+      3.8,
+      3.4
+     ]
+    },
+    {
+     "ambito": "UE-27",
+     "valores": [
+      4.3,
+      3.7,
+      3.1,
+      2.7,
+      2.4,
+      2.8,
+      2.4,
+      2.1,
+      1.9,
+      1.9
+     ]
+    }
+   ]
+  },
+  {
+   "id": "eco_paro_larga_parados_ue",
+   "pilar": "Economía y empleo",
+   "nombre": "Parados que llevan más de un año sin trabajo: España frente a la UE",
+   "unidad": "% de los parados de 15 a 74 años",
+   "mide": "De cada 100 parados, cuántos llevan un año o más buscando empleo, en España y en la media de la Unión Europea.",
+   "aviso": "Mide cuánto dura el paro, no cuánto paro hay: complementa al indicador anterior. En 2021 cambió la metodología de la encuesta en España.",
+   "fuente": "Eurostat, une_ltu_a 'Long-term unemployment by sex - annual data' (age Y15-74, sex T, unit PC_UNE)",
+   "url": "https://ec.europa.eu/eurostat/databrowser/view/une_ltu_a/default/table?lang=es",
+   "consulta": "2026-11-11",
+   "periodos": [
+    "2016",
+    "2017",
+    "2018",
+    "2019",
+    "2020",
+    "2021",
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "filas": [
+    {
+     "ambito": "España",
+     "valores": [
+      48.4,
+      44.5,
+      41.7,
+      37.8,
+      32.1,
+      41.7,
+      39.1,
+      35,
+      33.5,
+      32.1
+     ]
+    },
+    {
+     "ambito": "UE-27",
+     "valores": [
+      46.2,
+      44.4,
+      42.4,
+      39.4,
+      33.7,
+      39.1,
+      38.6,
+      35.1,
+      32.4,
+      31.5
+     ]
+    }
+   ]
+  },
+  {
    "id": "eco_pib_hab",
    "pilar": "Economía y empleo",
    "nombre": "PIB por habitante, descontada la inflación",
