@@ -2306,7 +2306,7 @@
   "c": "Gestión pública y derechos",
   "pr": "med",
   "s": "El Gobierno de Ayuso compró a través de la empresa pública Planifica Madrid un ático de 485 m² en Chamberí con cláusulas de confidencialidad, justificado como oficinas temporales aunque el inmueble solo admitía uso residencial. En julio anunció que lo vendería.",
-  "n": "Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. El 8 de septiembre de 2026 el tribunal admitió a trámite la denuncia de Más Madrid y la pasó a su Sección de Enjuiciamiento, que debe decidir si abre actuaciones. El tribunal ha recibido cinco denuncias por estos hechos (cuatro entre el 3 de agosto y el 1 de septiembre y una quinta el 30 de septiembre) y ha admitido como partes a Más Madrid y al PSOE. El 8 de octubre de 2026 dio cinco días a la Fiscalía, a Planifica Madrid y a la Comunidad de Madrid para que digan si debe nombrarse un delegado instructor que investigue o archivarse el caso. Sin resolución todavía.",
+  "n": "Más Madrid (agosto) y el PSOE (octubre de 2026) lo han llevado al Tribunal de Cuentas por posible menoscabo de dinero público. El 8 de septiembre de 2026 el tribunal admitió a trámite la denuncia de Más Madrid y la pasó a su Sección de Enjuiciamiento, que debe decidir si abre actuaciones. El tribunal ha recibido cinco denuncias por estos hechos (cuatro entre el 3 de agosto y el 1 de septiembre y una quinta el 30 de septiembre) y ha admitido como partes a Más Madrid y al PSOE. El 8 de octubre de 2026 dio cinco días a la Fiscalía, a Planifica Madrid y a la Comunidad de Madrid para que digan si debe nombrarse un delegado instructor que investigue o archivarse el caso. El 13 de noviembre, con el apoyo de la Fiscalía, la consejera del Tribunal de Cuentas encargada del primer examen rechazó el archivo que pedían la Comunidad y Planifica: ve indicios de un posible «menoscabo de fondos públicos sin justificación legal» y no descarta «un posible alcance contable», y pasó el caso a la Sección de Enjuiciamiento para que se nombre un delegado instructor. La resolución advierte de que «no prejuzga la existencia de irregularidades ni de responsabilidades contables». Según la prensa, la memoria que justificaba la compra es de julio, tres meses después de la escritura. La Comunidad niega que pagara de más y aportó una segunda tasación, de 15 de octubre, de 6.320.341,26 euros.",
   "src": [
    [
     "elDiario.es: la compra",
@@ -2327,6 +2327,14 @@
    [
     "elDiario.es: el Tribunal de Cuentas escuchará a la Fiscalía y a la Comunidad (oct 2026)",
     "https://www.eldiario.es/politica/tribunal-cuentas-escuchara-fiscalia-comunidad-madrid-abrir-diligencias-atico-gobierno-ayuso_1_13573094.html"
+   ],
+   [
+    "infoLibre: el Tribunal de Cuentas ve indicios de uso indebido de fondos públicos (13-nov-2026)",
+    "https://www.infolibre.es/politica/tribunal-cuentas-ve-incidios-indebido-fondos-publicos-compra-atico-ayuso_1_2240132.html"
+   ],
+   [
+    "El Español: el Tribunal de Cuentas investiga la compra; la Comunidad niega sobreprecio (13-nov-2026)",
+    "https://www.elespanol.com/madrid/comunidad/20261113/tribunal-cuentas-investiga-compra-atico-chamberi-parte-gobierno-ayuso/1003744457318_0.html"
    ]
   ],
   "a": "Madrid"
@@ -5437,6 +5445,22 @@
    ["Infobae: la cláusula y las primeras críticas (20-oct-2026)", "https://www.infobae.com/espana/cultura/2026/10/20/vox-prohibe-las-subvenciones-a-aquellas-peliculas-que-supongan-adoctrinamiento-ideologico-en-castilla-y-leon-querran-hacerlo-desde-el-gobierno-de-espana/"],
    ["elDiario.es: el Ministerio de Cultura presenta un requerimiento contra las dos órdenes (23-oct-2026)", "https://www.eldiario.es/cultura/cine/cultura-da-primer-paso-impugnar-tribunales-ayudas-vetan-castilla-leon-cine-ideologico_1_13608648.html"],
    ["Infobae (EFE): Díaz Pico en las Cortes, «una versión sesgada de la realidad» (9-nov-2026)", "https://www.infobae.com/espana/agencias/2026/11/09/la-junta-de-castilla-y-leon-no-ayudara-al-cine-que-de-una-version-sesgada-de-la-realidad/"]
+  ]
+ },
+ {
+  "d": "2026-11-12",
+  "dl": "jul – nov 2026",
+  "t": "Ceuta: la Audiencia Nacional cita como investigado al exdelegado del Gobierno por la entrada masiva de migrantes de julio",
+  "p": ["PSOE"],
+  "c": "Derechos fundamentales y control judicial",
+  "a": "",
+  "pr": "inv",
+  "s": "La jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva de migrantes desde Marruecos a Ceuta a finales de julio de 2026 en una causa por un presunto delito contra la paz y la independencia del Estado, citó como investigado para el 18 de noviembre a Miguel Ángel Pérez Triano, delegado del Gobierno en Ceuta hasta su dimisión en septiembre. Es el primer investigado de la causa. El 28 de septiembre la jueza ya había abierto diligencias previas sobre él a raíz de una querella de la asociación Abogados Cristianos por desórdenes públicos y prevaricación; la querella sostiene que el CNI avisó el 29 de julio a la Delegación del Gobierno de una convocatoria masiva en redes sociales.",
+  "n": "Pérez Triano sostiene que «semanas antes» avisó al Gobierno central de la movilización que se preparaba en Marruecos. Al dimitir dijo que lo había comunicado al ministro Ángel Víctor Torres, «mando único» del Gobierno para la crisis de Ceuta. Varios policías que declararon como testigos describieron una actitud pasiva de las fuerzas marroquíes. La Fiscalía ha pedido diligencias sobre «anomalías» en las comunicaciones operativas entre el 28 de julio y el 5 de agosto. Estar citado como investigado no es una acusación: rige la presunción de inocencia.",
+  "src": [
+   ["Infobae (Europa Press): la jueza cita como investigado al exdelegado (12-nov-2026)", "https://www.infobae.com/espana/agencias/2026/11/12/la-jueza-cita-como-investigado-al-exdelegado-del-gobierno-en-ceuta-en-la-causa-sobre-la-entrada-masiva-de-migrantes/"],
+   ["Diario de León (Europa Press): delito investigado, testigos y Fiscalía (12-nov-2026)", "https://www.diariodeleon.es/nacional/261112/2102991/jueza-cita-investigado-exdelegado-gobierno-ceuta-causa-sobre-entrada-masiva-migrantes.html"],
+   ["Diario de León (Europa Press): la jueza abre diligencias previas sobre el exdelegado (6-oct-2026)", "https://www.diariodeleon.es/nacional/261006/2099450/video-jueza-abre-diligencias-previas-sobre-exdelegado-gobierno-ceuta-consulta-fiscalia.html"]
   ]
  }
 ]
