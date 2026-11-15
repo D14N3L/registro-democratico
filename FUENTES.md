@@ -432,6 +432,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Es una sentencia de conformidad. El dinero de las comisiones era privado; el delito es usar su cargo para influir en concesiones públicas.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/catalunya/politica/audiencia-barcelona-prision-oriol-pujol_1_1818329.html)
+  - [Menorca.info (OTR Press): Oriol Pujol pacta con la Fiscalía y asume que amañó contratos de ITV (11-jul-2018)](https://www.menorca.info/actualidad/nacional/2018/07/11/1573098/oriol-pujol-pacta-fiscalia-asume-amano-contratos-itv-1.html)
 
 ### Caso Faycán: condenas en Telde y el PP, responsable civil subsidiario
 - Fecha: 2003 – 2018
@@ -787,6 +788,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: La sentencia aclara que no supone «ningún juicio de culpabilidad ni imputación de responsabilidad» y atribuye la carencia al Sistema Nacional de Salud en su conjunto, formado por las comunidades y el Ministerio. Rechazó la reclamación por inactividad contra el Ministerio por un defecto de procedimiento.
 - Fuentes:
   - [elDiario.es: la sentencia del Supremo (oct 2020)](https://www.eldiario.es/politica/supremo-constata-falta-proteccion-puso-riesgo-sanitarios-inicio-pandemia-rechaza-fuese-culpa-sanidad_1_6278055.html)
+  - [Última Hora (EFE): el Supremo constata que la falta de protección puso en riesgo a los sanitarios (8-oct-2020)](https://www.ultimahora.es/noticias/nacional/2020/10/08/1203649/coronavirus-supremo-constata-falta-proteccion-puso-riesgo-sanitarios.html)
 
 ### Propuesta para renovar el CGPJ por mayoría absoluta, retirada tras advertencias de la UE
 - Fecha: oct 2020 – abr 2021
@@ -1469,6 +1471,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Pedro García era el director de la televisión pública valenciana cuando se firmaron los contratos.
 - Fuentes:
   - [elDiario.es: el Supremo confirma las penas (abr 2023)](https://www.eldiario.es/comunitat-valenciana/politica/supremo-confirma-penas-cabecillas-gurtel-irregularidades-visita-papa-valencia-2006_1_9987256.html)
+  - [Poder Judicial: el Supremo confirma la sentencia de la pieza «visita del Papa» (10-abr-2023)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-confirma-la-sentencia-de-la-Audiencia-Nacional-en-la-pieza--visita-del-Papa--del-caso-Gurtel--al-rechazar-el-recurso-de-siete-acusados)
 
 ### Seis ayuntamientos de EH Bildu retiran webs de memoria que equiparaban a víctimas y miembros de ETA tras un requerimiento del Gobierno
 - Fecha: abr 2023
@@ -2839,6 +2842,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Los hechos son de la etapa del Gobierno de PRC y PSOE. Los condenados eran altos cargos de la administración sanitaria, no consejeros.
 - Fuentes:
   - [elDiario.es: el Supremo confirma las condenas (may 2026)](https://www.eldiario.es/cantabria/supremo-confirma-14-11-anos-inhabilitacion-exaltos-cargos-scs-fraccionaron-contratos-menores_1_13196442.html)
+  - [Poder Judicial: la Audiencia de Cantabria condena a los dos excargos de Sanidad a 14 y 11 años de inhabilitación (16-mar-2022)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/Condenados-dos-excargos-de-Sanidad-a-14-y-11-anos-de-inhabilitacion-por-prevaricacion-al-adjudicar-contratos-menores)
 
 ### Caso Plus Ultra: la Audiencia Nacional investiga al expresidente Zapatero por tráfico de influencias en el rescate de la aerolínea
 - Fecha: may – oct 2026
