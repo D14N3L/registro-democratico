@@ -730,6 +730,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: Gobernaban PSOE, Podemos, CHA y PAR. No se ha confirmado si hubo recurso ante el Supremo.
 - Fuentes:
   - [elDiario.es: la justicia confirma la condena (sep 2020)](https://www.eldiario.es/aragon/sociedad/justicia-confirma-sentencia-condenaba-gobierno-aragon-no-dotar-epi-sanitarios-teruel_1_6250811.html)
+  - [La Comarca: el TSJA confirma la sentencia que condenaba a la DGA por no dotar de EPI a los sanitarios de Teruel (28-sep-2020)](https://www.lacomarca.net/tsja-confirma-sentencia-condenaba-dga-no-dotar-epis-sanitarios-teruel/)
 
 ### Parlamento de Galicia: el PP rechaza en solitario investigar las muertes en residencias
 - Fecha: 22 sep 2020
@@ -1959,6 +1960,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: No hay sentencia: rige la presunción de inocencia.
 - Fuentes:
   - [elDiario.es: la Audiencia confirma la fianza (oct 2026)](https://www.eldiario.es/murcia/politica/audiencia-murcia-confirma-fianza-70-millones-euros-causa-desaladora-escombreras_1_13567026.html)
+  - [Poder Judicial: la Audiencia de Murcia confirma la fianza de 70 millones en la causa de la desaladora de Escombreras (6-oct-2026)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Audiencia-de-Murcia-confirma-la-fianza-de-70-millones-de-euros-en-la-causa-de-la-desaladora-de-Escombreras)
 
 ### Asamblea de Madrid: el PP investiga a Begoña Gómez pero veta investigar los contratos del novio de Ayuso
 - Fecha: 2023 – 2024
@@ -2258,16 +2260,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Orain (EITB): el Parlamento Vasco aprueba la ley (jun 2021)](https://orain.eus/es/politica/2021/06/24/el-parlamento-vasco-aprueba-ley-antipandemia/)
   - [elDiario.es: el TC anula las restricciones (jun 2025)](https://www.eldiario.es/euskadi/constitucional-anula-restricciones-disenadas-gobierno-urkullu-ley-antipandemia-2021_1_12382681.html)
 
-### Andalucía: la Cámara de Cuentas concluye que la gestión del Bono Alquiler Joven «no se ha demostrado eficaz»
+### Andalucía: la Cámara de Cuentas ve una tramitación lenta del Bono Alquiler Joven: la mitad de las solicitudes de 2022, sin resolver en marzo de 2024
 - Fecha: 2022 – jun 2025
 - Partidos: PP
 - Categoría: Gestión pública y derechos
 - Parlamento o territorio: Andalucía
 - Nivel de prueba: Organismo oficial
-- Resumen: La Cámara de Cuentas fiscalizó la convocatoria de 2022 del Bono Alquiler Joven: el plazo medio de resolución fue de 11,6 meses, frente a un máximo de seis; a marzo de 2024 se había resuelto el 51,3% de las 17.288 solicitudes y reconocido el 36% de los 68,4 millones.
-- Matiz: El bono es estatal y lo gestionan las comunidades.
+- Resumen: La Cámara de Cuentas fiscalizó la convocatoria de 2022 del Bono Alquiler Joven (informe aprobado el 3 de junio de 2025): el plazo medio de resolución fue de 11,6 meses, frente a un máximo de seis; a 31 de marzo de 2024 se había resuelto el 51,3% de las 17.288 solicitudes y reconocido el 36% de los 68,4 millones. Lo atribuye a «disfunciones» de las aplicaciones informáticas y a la «insuficiencia de medios humanos».
+- Matiz: El bono es estatal y lo gestionan las comunidades. La Consejería de Fomento dijo en diciembre de 2024, después del periodo fiscalizado, que había resuelto el 99,2% de los expedientes y pagado casi el 80%.
 - Fuentes:
+  - [BOJA: Resolución de 16 de junio de 2025 por la que se publica el informe de fiscalización operativa del Bono Alquiler Joven](https://www.juntadeandalucia.es/boja/2025/116/43)
   - [El Español: el informe de la Cámara de Cuentas (jun 2025)](https://www.elespanol.com/invertia/economia/20250613/camara-cuentas-echa-tierra-gestion-bono-alquiler-joven-andalucia-lenta-limitada-resolucion/1003743803091_0.html)
+  - [Espacio Andaluz: las cifras del informe y la respuesta de la Junta (13-jun-2025)](https://espacioandaluz.com/andalucia/la-camara-de-cuentas-de-andalucia-senala-una-eficacia-limitada-en-la-aplicacion-del-bono-alquiler-joven-en-andalucia-con-casi-el-50-de-solicitudes-sin-resolver-en-marzo-de-2024/)
 
 ### Congreso: la comisión del caso Koldo que registró el PSOE nunca llegó a debatirse
 - Fecha: jun 2025 – oct 2026
@@ -2539,9 +2543,10 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Organismo oficial
 - Resumen: Tras un informe de la Sindicatura de Comptes, el Tribunal de Cuentas abrió diligencias preprocesales por los tratamientos que la Generalitat pagó a la Fundación IVO entre 2013 y 2023 por pacientes de departamentos de salud gestionados por concesionarias privadas, que ya estaban cubiertos por lo que cobraban esas empresas. En 2025 Sanidad reclamó 45,4 millones a las concesionarias.
-- Matiz: El periodo abarca gobiernos del PP hasta 2015, del Botànic (PSPV y Compromís) de 2015 a 2023 y del PP después. Las empresas han recurrido la reclamación.
+- Matiz: El periodo abarca gobiernos del PP hasta 2015, del Botànic (PSPV y Compromís) de 2015 a 2023 y del PP después. Las empresas han recurrido la reclamación. Según Valencia Plaza, la Conselleria inició la reclamación en diciembre de 2024, el mismo día en que la Sindicatura presentó su informe sobre la cuenta general de 2023; ese medio sitúa el periodo entre 2012 y 2023 y estima el coste total de los tratamientos en 51,9 millones. En 2019 el Botànic había firmado un acuerdo extrajudicial con la Fundación IVO sobre esta cuestión.
 - Fuentes:
   - [elDiario.es: el Tribunal de Cuentas investiga el cobro indebido (dic 2025)](https://www.eldiario.es/comunitat-valenciana/tribunal-cuentas-investiga-cobro-indebido-ribera-salud-sanitas-pacientes-oncologicos-valencianos_1_12864049.html)
+  - [Valencia Plaza: Sanidad reclama a las concesiones más de 50 millones por servicios en el IVO (23-dic-2024)](https://valenciaplaza.com/valenciaplaza/sanidad-reclama-a-las-concesiones-mas-de-50-millones-por-servicios-en-el-ivo)
 
 ### El bulo de la cuenta de Pablo Iglesias en Granadinas y la 'brigada política' de Interior
 - Fecha: 2016 · 2022 · 2025
