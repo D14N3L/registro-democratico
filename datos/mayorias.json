@@ -1369,7 +1369,7 @@
   "tema": "Vivienda y suelo",
   "tram": [],
   "ap": "socio",
-  "voto": "Aprobada en el Senado con la mayoría absoluta del PP; sin El Debate no se ha podido confirmar el recuento ni el voto por grupos. En el Congreso, la toma en consideración de mayo de 2026 salió con PP, Vox, UPN y CC (171 votos) y las abstenciones de Junts y PNV (11); en contra PSOE, Sumar, ERC y Bildu",
+  "voto": "Aprobada en el Senado con la mayoría absoluta del PP; según The Objective, con el apoyo del PNV y la abstención de Junts. No se ha encontrado el recuento ni el voto del resto de grupos. En el Congreso, la toma en consideración de mayo de 2026 salió con PP, Vox, UPN y CC (171 votos) y las abstenciones de Junts y PNV (11); en contra PSOE, Sumar, ERC y Bildu",
   "s": "El Senado aprobó en noviembre de 2025 una segunda ley antiokupación. La primera, aprobada en febrero de 2024, acumuló 86 prórrogas del plazo de enmiendas en la Mesa del Congreso. El 19-5-2026 el Congreso tomó en consideración una nueva ley antiokupas del PP por 171 votos y 11 abstenciones (Junts y PNV): blinda el corte de suministros en viviendas ocupadas (reforma del art. 172.1 del Código Penal), limita el empadronamiento de ocupantes, endurece las penas a quien fomente la ocupación y permite que el juez exija acreditar un título en 24 horas. Era una proposición del PP en el Congreso que recogía el contenido de la del Senado con cambios (24 horas para el desalojo voluntario frente a 48 en la versión del Senado).",
   "rec": "",
   "n": "El PP acusa a Armengol de bloquear sus leyes en el Congreso. Sus críticos ven en estas leyes iniciativas de escaparate sin recorrido. PSOE y Sumar votaron en contra en el Congreso.",
@@ -1377,6 +1377,14 @@
    [
     "El Español: El PP logra que el Congreso tramite una 'ley antiokupas' después de que Armengol vetara la del Senado 86 veces",
     "https://www.elespanol.com/espana/politica/20260519/pp-logra-congreso-tramite-ley-antiokupas-despues-armengol-vetara-senado-veces/1003744252421_0.html"
+   ],
+   [
+    "The Objective: el PP aprueba en el Senado que cortar suministros a los okupas no sea coacción, con el apoyo del PNV y la abstención de Junts (19-nov-2025)",
+    "https://theobjective.com/espana/politica/2025-11-19/pp-senado-suministros-okupas/"
+   ],
+   [
+    "BOE: Código Penal, artículo 172 (coacciones)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444#a172"
    ]
   ]
  },
@@ -8613,11 +8621,19 @@
   "voto": "Los cinco vetos de totalidad (Unidos Podemos, ERC, PDeCAT, Compromís y EH Bildu) se rechazaron con los votos del PP y del PSOE, entre otros; la fuente no da el recuento",
   "s": "Tras la moción de censura, el Senado de mayoría popular tramitó los Presupuestos de 2018 que había elaborado el Gobierno de Rajoy. El PP presentó 19 enmiendas que recortaban en 35 millones compromisos con el PNV, que había apoyado la moción de censura. Quedaban unas 5.500 enmiendas parciales y 56 vetos a secciones. No se ha podido confirmar si las enmiendas del PP se aprobaron finalmente.",
   "rec": "",
-  "n": "La ministra Montero criticó el «despropósito» de las «autoenmiendas» del PP, aunque dijo que prorrogar los presupuestos de 2017 sería «mucho peor». El portavoz del PP, José Manuel Barreiro, calificó de «esperpento» que la ministra rechazara defender los presupuestos y el PSOE los hiciera suyos. Según Público, las 19 enmiendas del PP detraían 35 millones de partidas comprometidas con el PNV tras su apoyo a la moción de censura.",
+  "n": "La ministra Montero criticó el «despropósito» de las «autoenmiendas» del PP, aunque dijo que prorrogar los presupuestos de 2017 sería «mucho peor». El portavoz del PP, José Manuel Barreiro, calificó de «esperpento» que la ministra rechazara defender los presupuestos y el PSOE los hiciera suyos. Según Público, las 19 enmiendas del PP detraían 35 millones de partidas comprometidas con el PNV tras su apoyo a la moción de censura. El 13 de junio la Mesa del Senado excluyó tres enmiendas del PP por errores de redacción, una de ellas la que restaba 5,5 millones a Cidetec, y el recorte al País Vasco quedó en unos 29,5 millones (Europa Press).",
   "src": [
    [
     "Público: El Senado rechaza los cinco vetos generales a los Presupuestos y siguen su tramitación",
     "https://www.publico.es/economia/senado-rechaza-cinco-vetos-generales-presupuestos-siguen-tramitacion.html"
+   ],
+   [
+    "Legal Today: el Pleno del Senado rechaza los vetos a los PGE 2018 (jun 2018)",
+    "https://www.legaltoday.com/opinion/blogs/transversal/blog-political-intelligence/el-pleno-del-senado-rechaza-los-vetos-a-los-pge-2018-2018-06-15/"
+   ],
+   [
+    "Valencia Plaza (Europa Press): el Senado excluye una enmienda del PP y el ajuste a Euskadi se reduce a 29,5 millones (13-jun-2018)",
+    "https://valenciaplaza.com/valenciaplaza/el-senado-excluye-una-enmienda-del-pp-por-un-error-y-el-ajuste-a-euskadi-se-reduce-a-29-5-millones"
    ]
   ]
  },

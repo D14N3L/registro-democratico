@@ -4334,6 +4334,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: El PP la rechazó porque algunos artículos contradecían el Estatuto de Autonomía. El PSPV defendió la diversidad lingüística en las escuelas. La promotora, Gloria Lago, calificó la enseñanza intensiva en valenciano de «aberración pedagógica».
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/politica/vox-apoya-corts-valencianes-iniciativa-legislativa-considera-ensenanza-intensiva-valenciano-aberracion-pedagogica_1_11229535.html)
+  - [Valencia Plaza: la ILP decae con el voto en contra de PP, PSPV y Compromís (mar 2024)](https://valenciaplaza.com/pp-rechaza-ilp-hablemos-espanol-espera-nueva-ley-libertad-educativa)
 
 ### Transporte sanitario urgente
 - Parlamento: Aragón
@@ -5556,11 +5557,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Tema: Vivienda y suelo
 - Tramitación: ordinaria o sin dato
 - Apoyos: Con otros grupos
-- Votación: Aprobada en el Senado con la mayoría absoluta del PP; sin El Debate no se ha podido confirmar el recuento ni el voto por grupos. En el Congreso, la toma en consideración de mayo de 2026 salió con PP, Vox, UPN y CC (171 votos) y las abstenciones de Junts y PNV (11); en contra PSOE, Sumar, ERC y Bildu
+- Votación: Aprobada en el Senado con la mayoría absoluta del PP; según The Objective, con el apoyo del PNV y la abstención de Junts. No se ha encontrado el recuento ni el voto del resto de grupos. En el Congreso, la toma en consideración de mayo de 2026 salió con PP, Vox, UPN y CC (171 votos) y las abstenciones de Junts y PNV (11); en contra PSOE, Sumar, ERC y Bildu
 - Qué cambia: El Senado aprobó en noviembre de 2025 una segunda ley antiokupación. La primera, aprobada en febrero de 2024, acumuló 86 prórrogas del plazo de enmiendas en la Mesa del Congreso. El 19-5-2026 el Congreso tomó en consideración una nueva ley antiokupas del PP por 171 votos y 11 abstenciones (Junts y PNV): blinda el corte de suministros en viviendas ocupadas (reforma del art. 172.1 del Código Penal), limita el empadronamiento de ocupantes, endurece las penas a quien fomente la ocupación y permite que el juez exija acreditar un título en 24 horas. Era una proposición del PP en el Congreso que recogía el contenido de la del Senado con cambios (24 horas para el desalojo voluntario frente a 48 en la versión del Senado).
 - Matiz: El PP acusa a Armengol de bloquear sus leyes en el Congreso. Sus críticos ven en estas leyes iniciativas de escaparate sin recorrido. PSOE y Sumar votaron en contra en el Congreso.
 - Fuentes:
   - [El Español: El PP logra que el Congreso tramite una 'ley antiokupas' después de que Armengol vetara la del Senado 86 veces](https://www.elespanol.com/espana/politica/20260519/pp-logra-congreso-tramite-ley-antiokupas-despues-armengol-vetara-senado-veces/1003744252421_0.html)
+  - [The Objective: el PP aprueba en el Senado que cortar suministros a los okupas no sea coacción, con el apoyo del PNV y la abstención de Junts (19-nov-2025)](https://theobjective.com/espana/politica/2025-11-19/pp-senado-suministros-okupas/)
+  - [BOE: Código Penal, artículo 172 (coacciones)](https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444#a172)
 
 ### Conflicto de atribuciones con el Congreso por el bloqueo de las proposiciones de ley del Senado
 - Fecha: 2025-11-19
@@ -9335,9 +9338,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Apoyos: Con el principal partido de la oposición
 - Votación: Los cinco vetos de totalidad (Unidos Podemos, ERC, PDeCAT, Compromís y EH Bildu) se rechazaron con los votos del PP y del PSOE, entre otros; la fuente no da el recuento
 - Qué cambia: Tras la moción de censura, el Senado de mayoría popular tramitó los Presupuestos de 2018 que había elaborado el Gobierno de Rajoy. El PP presentó 19 enmiendas que recortaban en 35 millones compromisos con el PNV, que había apoyado la moción de censura. Quedaban unas 5.500 enmiendas parciales y 56 vetos a secciones. No se ha podido confirmar si las enmiendas del PP se aprobaron finalmente.
-- Matiz: La ministra Montero criticó el «despropósito» de las «autoenmiendas» del PP, aunque dijo que prorrogar los presupuestos de 2017 sería «mucho peor». El portavoz del PP, José Manuel Barreiro, calificó de «esperpento» que la ministra rechazara defender los presupuestos y el PSOE los hiciera suyos. Según Público, las 19 enmiendas del PP detraían 35 millones de partidas comprometidas con el PNV tras su apoyo a la moción de censura.
+- Matiz: La ministra Montero criticó el «despropósito» de las «autoenmiendas» del PP, aunque dijo que prorrogar los presupuestos de 2017 sería «mucho peor». El portavoz del PP, José Manuel Barreiro, calificó de «esperpento» que la ministra rechazara defender los presupuestos y el PSOE los hiciera suyos. Según Público, las 19 enmiendas del PP detraían 35 millones de partidas comprometidas con el PNV tras su apoyo a la moción de censura. El 13 de junio la Mesa del Senado excluyó tres enmiendas del PP por errores de redacción, una de ellas la que restaba 5,5 millones a Cidetec, y el recorte al País Vasco quedó en unos 29,5 millones (Europa Press).
 - Fuentes:
   - [Público: El Senado rechaza los cinco vetos generales a los Presupuestos y siguen su tramitación](https://www.publico.es/economia/senado-rechaza-cinco-vetos-generales-presupuestos-siguen-tramitacion.html)
+  - [Legal Today: el Pleno del Senado rechaza los vetos a los PGE 2018 (jun 2018)](https://www.legaltoday.com/opinion/blogs/transversal/blog-political-intelligence/el-pleno-del-senado-rechaza-los-vetos-a-los-pge-2018-2018-06-15/)
+  - [Valencia Plaza (Europa Press): el Senado excluye una enmienda del PP y el ajuste a Euskadi se reduce a 29,5 millones (13-jun-2018)](https://valenciaplaza.com/valenciaplaza/el-senado-excluye-una-enmienda-del-pp-por-un-error-y-el-ajuste-a-euskadi-se-reduce-a-29-5-millones)
 
 ### Ley 1/2018, de 2 de abril (reforma de la Ley de salud: áreas sanitarias)
 - Fecha: 2018-03-20
@@ -12290,6 +12295,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Veredicto: A medias. La orden del plan se firmó tres semanas antes de que Vox saliera del Gobierno. Las viviendas terminadas en 2023 y 2024 se habían empezado antes, así que todavía no reflejan el plan.
 - Fuentes:
   - [PP y Vox: acuerdo para la gobernabilidad de Aragón, apartado 9 (copia publicada por elDiario.es)](https://static.eldiario.es/eldiario/public/content/file/original/2023/0804/11/acuerdo-gobierno-pp-vox-2-1-pdf.pdf)
+  - [PP y Vox: el mismo acuerdo para la gobernabilidad de Aragón (copia publicada por Mediaset)](https://files.mediaset.es/file/2023/0804/10/acuerdo-gobierno-pp-vox-2-pdf.pdf)
   - [BOA: Orden FOM/699/2024, de 18 de junio, bases del Plan de Fomento de Vivienda Protegida de Aragón (BOA 2-jul-2024)](https://www.boa.aragon.es/cgi-bin/EBOA/BRSCGI?CMD=VEROBJ&MLKOB=1340782820303)
   - [Ministerio de Vivienda: viviendas protegidas terminadas por comunidad](https://apps.fomento.gob.es/BoletinOnline2/?nivel=2&orden=31000000)
 
@@ -12301,6 +12307,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Veredicto: No cumplida. Las tablas subieron con la actualización anual, pero no se ha encontrado la revisión del sistema que prometía el acuerdo mientras Vox estuvo en el Gobierno.
 - Fuentes:
   - [PP y Vox: acuerdo para la gobernabilidad de Aragón, apartado 1 (copia publicada por elDiario.es)](https://static.eldiario.es/eldiario/public/content/file/original/2023/0804/11/acuerdo-gobierno-pp-vox-2-1-pdf.pdf)
+  - [PP y Vox: el mismo acuerdo para la gobernabilidad de Aragón (copia publicada por Mediaset)](https://files.mediaset.es/file/2023/0804/10/acuerdo-gobierno-pp-vox-2-pdf.pdf)
   - [Gobierno de Aragón: tablas retributivas del personal estatutario de 2023 (actualización de marzo de 2024)](https://transparencia.aragon.es/sites/default/files/documents/tablas_retributivas_personal_estatutario_salud_actualizacion_20240313.pdf)
   - [Gobierno de Aragón: tablas retributivas del personal estatutario de 2024](https://www.aragon.es/documents/d/guest/tablas_retribuciones_estatutario_salud_20240911)
 
@@ -12312,6 +12319,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Veredicto: No cumplida. No consta que se pusiera en marcha. Si aparece una norma que lo cree, se corregirá.
 - Fuentes:
   - [PP y Vox: acuerdo para la gobernabilidad de Aragón, apartado 2 (copia publicada por elDiario.es)](https://static.eldiario.es/eldiario/public/content/file/original/2023/0804/11/acuerdo-gobierno-pp-vox-2-1-pdf.pdf)
+  - [PP y Vox: el mismo acuerdo para la gobernabilidad de Aragón (copia publicada por Mediaset)](https://files.mediaset.es/file/2023/0804/10/acuerdo-gobierno-pp-vox-2-pdf.pdf)
 
 ### Vox · Aragón · Pensiones y dependencia: Acuerdo PP-Vox para la gobernabilidad de Aragón (agosto de 2023)
 - Promesa: El acuerdo no incluye ninguna medida sobre pensiones, mayores ni dependencia.
@@ -12320,6 +12328,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Veredicto: Sin promesa. El apartado de sanidad incluye un plan de choque de geriatría, que es una medida sanitaria.
 - Fuentes:
   - [PP y Vox: acuerdo para la gobernabilidad de Aragón (copia publicada por elDiario.es)](https://static.eldiario.es/eldiario/public/content/file/original/2023/0804/11/acuerdo-gobierno-pp-vox-2-1-pdf.pdf)
+  - [PP y Vox: el mismo acuerdo para la gobernabilidad de Aragón (copia publicada por Mediaset)](https://files.mediaset.es/file/2023/0804/10/acuerdo-gobierno-pp-vox-2-pdf.pdf)
 
 ### Vox · Aragón · Impuestos: Acuerdo PP-Vox para la gobernabilidad de Aragón (agosto de 2023)
 - Promesa: Bajar medio punto los cinco primeros tramos del IRPF autonómico, hasta 50.000 euros (primera medida del apartado 4, política fiscal).
@@ -12329,6 +12338,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Veredicto: No cumplida. No se bajó medio punto ningún tipo: se ensancharon los primeros tramos, lo que también reduce lo que se paga, pero no es la medida prometida.
 - Fuentes:
   - [PP y Vox: acuerdo para la gobernabilidad de Aragón, apartado 4 (copia publicada por elDiario.es)](https://static.eldiario.es/eldiario/public/content/file/original/2023/0804/11/acuerdo-gobierno-pp-vox-2-1-pdf.pdf)
+  - [PP y Vox: el mismo acuerdo para la gobernabilidad de Aragón (copia publicada por Mediaset)](https://files.mediaset.es/file/2023/0804/10/acuerdo-gobierno-pp-vox-2-pdf.pdf)
   - [BOE: Ley 17/2023 de Presupuestos de Aragón para 2024 (artículo 64)](https://www.boe.es/buscar/doc.php?id=BOE-A-2024-903)
   - [Agencia Tributaria: escala autonómica de Aragón del ejercicio 2022](https://sede.agenciatributaria.gob.es/Sede/ayuda/manuales-videos-folletos/manuales-practicos/irpf-2022/c15-calculo-impuesto-determinacion-cuotas-integras/gravamen-base-liquidable-general/gravamen-autonomico/comunidad-autonoma-aragon.html)
   - [Gobierno de Aragón: escala vigente del IRPF autonómico](https://www.aragon.es/administracion-tributaria-de-aragon/impuestos/irpf-en-aragon)
