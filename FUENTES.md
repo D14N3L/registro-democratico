@@ -1809,15 +1809,18 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Tribunal de Cuentas: informe n.º 1.574 (jul 2024)](https://www.congreso.es/entradap/l15p/e3/e_0034843_n_000_m.pdf)
   - [BOE: resolución de la Comisión Mixta (mar 2025)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-6460)
 
-### Murcia: el Tribunal de Cuentas señala 23 millones adjudicados por La Arrixaca a la privada al margen de la Ley de Contratos
+### Murcia: el Tribunal de Cuentas ve una «planificación contractual deficiente» en los 30,7 millones que La Arrixaca pagó a centros ajenos en 2022
 - Fecha: 2022 – jul 2024
 - Partidos: PP
 - Categoría: Gestión pública y derechos
 - Parlamento o territorio: Murcia
 - Nivel de prueba: Organismo oficial
-- Resumen: Según el informe del Tribunal de Cuentas sobre la Cuenta General de Murcia de 2022, el hospital La Arrixaca destinó 30,7 millones a medios ajenos, de los que 23 millones se habrían adjudicado al margen de la Ley de Contratos del Sector Público.
-- Matiz: La Consejería de Salud sostiene que «todas las actuaciones se desarrollan al amparo de la legislación» y que Murcia destina a la concertada el 5,5% de su presupuesto sanitario, frente a una media del 8,8%.
+- Resumen: Según el informe del Tribunal de Cuentas sobre los gastos con medios ajenos y las listas de espera de La Arrixaca en 2022 (n.º 1577, de julio de 2024, que las Cortes asumieron en diciembre), el hospital pagó 30.723.261 euros por asistencia sanitaria con medios ajenos. El 47% (14,5 millones) fue a través de conciertos con empresas privadas firmados después de la Ley de Contratos de 2017, sin que Murcia hubiera aprobado la regulación propia que esa ley permite a las comunidades (disposición adicional 49). El 18% (5,6 millones) se pagó con contratos ya caducados que se siguieron usando sin cumplir los requisitos para prorrogarlos (artículo 29.4). Y el 10% (3,1 millones) se tramitó al margen de los procedimientos de la ley, sin contrato previo. El tribunal habla de una «planificación contractual deficiente» y señala que el Servicio Murciano de Salud no publicó su plan anual de contratación.
+- Matiz: La Consejería de Salud sostiene que «todas las actuaciones se desarrollan al amparo de la legislación» y que Murcia destina a la concertada el 5,5% de su presupuesto sanitario, frente a una media del 8,8%. El mismo informe encontró en el Área de Salud de Badajoz (Extremadura, gobernada entonces por el PSOE) que el 85% de esos gastos procedía de contratos caducados. Algunos medios sumaron las tres partidas de La Arrixaca y hablaron de «23 millones al margen de la ley»; el informe solo describe así el último 10%.
 - Fuentes:
+  - [BOE: Resolución de la Comisión Mixta con el informe de fiscalización n.º 1577 del Tribunal de Cuentas (BOE-A-2025-6462)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2025-6462)
+  - [BOE: Ley 9/2017 de Contratos del Sector Público, artículo 29 (texto consolidado)](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#a2-11)
+  - [BOE: Ley 9/2017, disposición adicional cuadragésima novena](https://www.boe.es/buscar/act.php?id=BOE-A-2017-12902#da-49)
   - [elDiario.es: el Tribunal de Cuentas detecta derivaciones irregulares (jul 2024)](https://www.eldiario.es/murcia/sociedad/tribunal-cuentas-detecta-derivaciones-irregulares-sanidad-privada-region-murcia_1_11559715.html)
 
 ### El TC anula en parte el protocolo canario que dejaba fuera de protección a menores rescatados en el mar
@@ -2027,6 +2030,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Matiz: La sentencia de la Perla Negra se recurrió al Supremo y no es firme. En la trama eólica rige la presunción de inocencia; Delgado pide la absolución.
 - Fuentes:
   - [elDiario.es: la sentencia de la Perla Negra (ene 2025)](https://www.eldiario.es/castilla-y-leon/tribunales/condenados-exviceconsejeros-junta-castilla-leon-prevaricacion-caso-perla-negra_1_11935984.html)
+  - [Diario de León (Ical): las condenas de la Perla Negra (8-ene-2025)](https://www.diariodeleon.es/castilla-y-leon/250108/1763649/corrupcion-perla-negra-zanja-dos-anos-medio-prision.html)
   - [elDiario.es: la trama eólica, sin sentencia (jul 2026)](https://www.eldiario.es/castilla-y-leon/tribunales/sentencia-trama-eolica-castilla-leon-seis-meses-despues-finalizar-juicio_1_13392708.html)
 
 ### Andalucía: el TC anula parte del decreto-ley de simplificación del Gobierno de PP y Cs
@@ -2137,10 +2141,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Gestión pública y derechos
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Organismo oficial
-- Resumen: En su informe de 2024 el Síndic de Greuges alertó de un aumento «descomunal» de las quejas en servicios sociales, en las que la dependencia supone la mitad.
+- Resumen: En su informe anual de 2024 el Síndic de Greuges habló de un incremento «descomunal» de las quejas en servicios sociales: 1.888 quejas admitidas a trámite, un 49,37% más que en 2023 y el 47,91% de todas las que admitió. La «inmensa mayoría» eran por la gestión de la dependencia: 1.305, un tercio del total de quejas admitidas (33,11%).
 - Matiz: La vicepresidenta Susana Camarero atribuyó las quejas a los «últimos coletazos de la gestión del Botánico» y destacó un récord de personas atendidas. Vox formó parte del Consell hasta julio de 2024.
 - Fuentes:
   - [elDiario.es: el Síndic alerta del aumento de las quejas (mar 2025)](https://www.eldiario.es/comunitat-valenciana/defensor-pueblo-valenciano-alerta-descomunal-aumento-quejas-dependencia-copan-50-total_1_12162327.html)
+  - [Síndic de Greuges: Informe anual 2024 (capítulo 1 y tabla 8)](https://www.elsindic.com/wp-content/uploads/2025/03/Informe-anual-2024_castella.pdf)
 
 ### Vox se financia con un banco húngaro ligado al Gobierno de Orbán que el Tribunal de Cuentas no pudo verificar
 - Fecha: 2023 – 2025
