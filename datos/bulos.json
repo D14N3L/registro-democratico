@@ -2945,5 +2945,31 @@
     "https://www.boe.es/buscar/act.php?id=BOE-A-2026-8872#a8"
    ]
   ]
+ },
+ {
+  "d": "2026-11-11",
+  "dl": "11 nov 2026",
+  "quien": "Alberto Núñez Feijóo",
+  "cargo": "presidente del PP y candidato a la presidencia del Gobierno",
+  "p": [
+   "PP"
+  ],
+  "canal": "Entrevista en El Hormiguero (Antena 3)",
+  "tema": "Instituciones y justicia",
+  "dicho": "Que una persona puede ir al Registro Civil y cambiar su sexo registral de un día para otro («que un ministro a las 9 de la mañana sea hombre y que al día siguiente vaya al registro y diga que es mujer»).",
+  "datos": "La Ley 4/2023 (artículo 44) exige una solicitud y una primera comparecencia en el Registro Civil, una segunda comparecencia para ratificarse, que debe celebrarse en un plazo máximo de tres meses, y una resolución en el plazo máximo de un mes desde esa segunda cita. Es cierto, en cambio, que la ley no permite exigir informes médicos o psicológicos ni cambios corporales.",
+  "verif": "Verificat",
+  "calif": "Falso",
+  "rect": "",
+  "src": [
+   [
+    "Verificat: es falso que las personas trans puedan cambiar el sexo en el Registro Civil en un día (12-nov-2026)",
+    "https://www.verificat.cat/es/trans-cambio-sexo-registro-civil-feijoo/"
+   ],
+   [
+    "BOE: Ley 4/2023, artículo 44 (texto consolidado)",
+    "https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366#a4-6"
+   ]
+  ]
  }
 ]

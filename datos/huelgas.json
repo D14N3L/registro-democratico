@@ -1446,5 +1446,48 @@
     "https://www.cope.es/emisoras/castilla-y-leon/burgos-provincia/burgos/noticias/castilla-leon-cifra-5-seguimiento-huelga-docente-publica-sindicatos-hablan-50-centros-concretos-20261104_3468314.html"
    ]
   ]
+ },
+ {
+  "d": "2026-11-11",
+  "dl": "11 nov 2026",
+  "sector": "Vivienda",
+  "ambito": "España",
+  "t": "Huelga general por la vivienda y los salarios",
+  "convoca": "CCOO y UGT, a iniciativa del Sindicato de Inquilinas y con otros sindicatos; en Euskadi, ELA y LAB con convocatoria propia. Es la primera huelga general de CCOO y UGT desde 2012",
+  "piden": "Vivienda asequible (el Sindicato de Inquilinas pide contratos de alquiler indefinidos, bajada de precios, expropiación a fondos y el fin de los desahucios), subidas salariales y mejores servicios públicos",
+  "oficial": "Ministerio del Interior, hasta las 20:00: 53 detenidos (39 de Policía Nacional y Guardia Civil, 13 de la Ertzaintza y 1 de los Mossos) y 1.044 incidencias. Manifestaciones: 120.000 personas en Madrid, 25.000 en Granada y 14.000 en Málaga según las Delegaciones del Gobierno; 55.000 en Barcelona según la Guardia Urbana. Red Eléctrica: demanda nacional de 688.688 MWh el día 11, frente a 700.039 MWh el día anterior y 716.897 MWh el miércoles 4 de noviembre.",
+  "segconv": "CCOO y UGT, con datos de las 7:00: del 41% en Extremadura y Castilla-La Mancha al 75% en Andalucía y Aragón. Por la tarde, según Euronews, CCOO habló de hasta un 84% en Cataluña y un 70% en Andalucía, Madrid y Aragón. No dieron una cifra para toda España. Manifestantes: 400.000 en Madrid según el Sindicato de Inquilinas y 400.000 en Barcelona según los organizadores.",
+  "gobierno": "Sánchez (PSOE-Sumar), con las Cortes disueltas desde el 5 de octubre, dos días antes de que empezara la campaña electoral. La vicepresidenta y ministra de Trabajo, Yolanda Díaz, la calificó de «éxito».",
+  "final": "CEOE y Cepyme cifraron el seguimiento por debajo del 5% y la llamaron «fracaso». A petición de CCOO, el TSJM suspendió cautelarmente parte de los servicios mínimos fijados por la Comunidad de Madrid y aplicó los de la huelga general de 2012, salvo en el Metro. En Barcelona, después de la manifestación, grupos de encapuchados rompieron escaparates y saquearon algunos comercios; el alcalde, Jaume Collboni, habló de unos cincuenta detenidos. La caída del consumo eléctrico depende del día que se tome como referencia.",
+  "src": [
+   [
+    "MelillaHoy (Europa Press): balance de Interior hasta las 20:00 (11 nov 2026)",
+    "https://melillahoy.es/la-huelga-deja-mas-de-50-detenidos-y-un-millar-de-incidencias-en-toda-espana-segun-interior/"
+   ],
+   [
+    "Euronews: la huelga general del 11N en cifras (12 nov 2026)",
+    "https://es.euronews.com/2026/11/12/fuerza-en-la-calle-pero-seguimiento-escaso-en-el-trabajo-la-huelga-general-del-11n"
+   ],
+   [
+    "Infobae: directo de la jornada, manifestaciones de Madrid y Barcelona (11 nov 2026)",
+    "https://www.infobae.com/espana/2026/11/11/huelga-general-en-espana-en-directo-piquetes-incidencia-en-transportes-y-empresas-reacciones-y-ultima-hora-de-las-elecciones-generales/"
+   ],
+   [
+    "elDiario.es: directo de la jornada, convocantes y primeros datos sindicales (11 nov 2026)",
+    "https://www.eldiario.es/economia/huelga-general-11-noviembre-ultima-hora-directo-arranca-gran-paro-vivienda_133_13653845.html"
+   ],
+   [
+    "elDiario.es: el TSJM corrige a la baja los servicios mínimos de la Comunidad de Madrid (11 nov 2026)",
+    "https://www.eldiario.es/madrid/tribunal-superior-corrige-baja-servicios-minimos-impuestos-comunidad-madrid_1_13654277.html"
+   ],
+   [
+    "Ara: noche de vandalismo y disturbios en Barcelona después de la manifestación (12 nov 2026)",
+    "https://es.ara.cat/sociedad/noche-vandalismo-disturbios-despues-manifestacion_1_5907813.html"
+   ],
+   [
+    "Red Eléctrica (REData): demanda eléctrica diaria del 4 al 11 de noviembre de 2026",
+    "https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2026-11-04T00:00&end_date=2026-11-11T23:59&time_trunc=day"
+   ]
+  ]
  }
 ]

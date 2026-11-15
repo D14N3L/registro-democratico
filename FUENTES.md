@@ -3369,7 +3369,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [elDiario.es: la Fiscalía se querella contra el vicepresidente de Vox en Mallorca (1-nov-2026)](https://www.eldiario.es/illes-balears/fiscalia-presenta-querella-vicepresidente-vox-mallorca-coches-oficiales_1_13630593.html)
   - [dBalears: la Fiscalía presenta una querella contra Bestard (1-nov-2026)](https://dbalears.cat/balears/balears/2026/11/01/423757/pedro-bestard-contra-les-cordes-fiscalia-presenta-querella-contra-lider-vox-per-fraudulent-dels-cotxes-oficials.html)
 
-## Qué votó cada partido (58)
+## Qué votó cada partido (60)
 
 "Sí" = a favor de que la medida saliera adelante. s/d = sin dato verificado.
 
@@ -3935,7 +3935,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Resultado: Derogado 172 a 178 (votación a viva voz)
 - Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
 - Qué decía: Real Decreto-ley 26/2026: suspendía hasta 2030 los desahucios cuando el dueño es un fondo o gran tenedor, permitía una prórroga extraordinaria de dos años y limitaba al 2% la subida de las rentas.
-- Contexto: Gobierno de PSOE y Sumar. Votación a viva voz, aún no publicada en los datos abiertos: el recuento es el de la prensa. Lo tumbaron PP, Junts y Vox. El ministro Pablo Bustinduy dijo que cada desahucio desde esa votación llevaría «los nombres y los apellidos» de quienes votaron no. El 6 de octubre el Gobierno aprobó nuevos decretos que debe votar la Diputación Permanente.
+- Contexto: Gobierno de PSOE y Sumar. Votación a viva voz, aún no publicada en los datos abiertos: el recuento es el de la prensa. Lo tumbaron PP, Junts y Vox. El ministro Pablo Bustinduy dijo que cada desahucio desde esa votación llevaría «los nombres y los apellidos» de quienes votaron no. El 6 de octubre el Gobierno aprobó nuevos decretos; el 12 de noviembre la Diputación Permanente convalidó el 29/2026 y derogó el 28/2026 (ver esas votaciones).
 - Fuentes:
   - [Infobae: las medidas que decaen](https://www.infobae.com/espana/2026/10/02/los-fondos-seguiran-desahuciando-los-propietarios-subiran-la-renta-y-el-alquiler-de-temporada-no-se-regulara-las-medidas-que-decaen-con-el-no-de-pp-junts-y-vox-al-decreto/)
   - [elDiario.es](https://www.eldiario.es/politica/junts-pp-vox-tumban-decretos-vivienda-congreso_1_13557141.html)
@@ -3949,6 +3949,33 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Andalucía Información: el Congreso rechaza los dos decretos](https://www.andaluciainformacion.es/articulo/espana/congreso-rechaza-dos-decretos-vivienda/202610021610373495690.html)
   - [elDiario.es](https://www.eldiario.es/politica/junts-pp-vox-tumban-decretos-vivienda-congreso_1_13557141.html)
+
+### Prórroga automática de los alquileres (segundo intento, Diputación Permanente)
+- Fecha: 12 nov 2026
+- Resultado: Derogado: 34 votos a favor en la Diputación Permanente (la prensa no da el número de votos en contra)
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV No
+- Qué decía: Real Decreto-ley 28/2026, de 6 de octubre: renovación automática de los contratos de alquiler de vivienda habitual por periodos de cinco años (siete si el propietario es una empresa), con supuestos para recuperar la vivienda e indemnización al inquilino si el propietario pone fin al contrato sin causa justificada.
+- Contexto: Gobierno de PSOE y Sumar. Con las Cortes disueltas, la Diputación Permanente asume la convalidación o derogación de los decretos-ley (artículos 78.2 y 86.2 de la Constitución). El Gobierno lo aprobó el 6 de octubre, cuatro días después de que el Pleno tumbara uno parecido. El PNV, que votó a favor del otro decreto de vivienda en la misma sesión, votó en contra de este por considerar desproporcionada la indemnización. Votación no publicada en los datos abiertos del Congreso: el recuento y el sentido de cada grupo son los de la prensa.
+- Fuentes:
+  - [BOE: Real Decreto-ley 28/2026, de 6 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2026-20822)
+  - [BOE: Constitución, artículo 78 (Diputación Permanente)](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a78)
+  - [Law&Trends: la Diputación Permanente convalida un decreto y tumba el otro (12-nov-2026)](https://www.lawandtrends.com/noticias/administrativo/la-diputacion-permanente-convalida-el-decreto-que-prohibe-los-desahucios-y-tumba-el-que-hacia-indefinidos-los-alquileres-1.html)
+  - [idealista/news: la Diputación Permanente convalida el decreto de vivienda y rechaza el de alquileres indefinidos (12-nov-2026)](https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de)
+  - [Infobae: la Diputación Permanente aprueba el «decreto Maricarmen» y tumba el de alquileres indefinidos (12-nov-2026)](https://www.infobae.com/espana/2026/11/12/la-diputacion-permanente-del-congreso-aprueba-el-decreto-maricarmen-pero-tumba-el-de-alquileres-indefinidos/)
+
+### Moratoria antidesahucios, límites al alquiler y plan «Tu Casa» (Diputación Permanente)
+- Fecha: 12 nov 2026
+- Resultado: Convalidado 35 a 34 en la Diputación Permanente
+- Votos: PSOE Sí · UP / Sumar Sí · PP No · Vox No · Cs s/d · ERC Sí · Junts No · Bildu Sí · PNV Sí
+- Qué decía: Real Decreto-ley 29/2026, de 6 de octubre: mantiene hasta 2030 la suspensión de desahucios de hogares vulnerables sin alternativa habitacional, una prórroga extraordinaria de los alquileres, el desistimiento del inquilino sin indemnización, un límite a la actualización anual de las rentas, reglas para el alquiler de temporada y por habitaciones, deducciones fiscales y recargos en el IBI, y el programa «Tu Casa» del ICO (préstamos de hasta 50.000 euros, con 10.000 millones).
+- Contexto: Gobierno de PSOE y Sumar. Con las Cortes disueltas, la convalidación la vota la Diputación Permanente (artículos 78.2 y 86.2 de la Constitución), donde PP, Vox y Junts no suman mayoría. El Gobierno lo aprobó el 6 de octubre, cuatro días después de que el Pleno tumbara uno parecido (ver la votación del 2 de octubre). El voto del PNV fue decisivo. Votación no publicada en los datos abiertos del Congreso: el recuento y el sentido de cada grupo son los de la prensa.
+- Fuentes:
+  - [BOE: Real Decreto-ley 29/2026, de 6 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2026-20823)
+  - [BOE: Constitución, artículos 78 y 86 (Diputación Permanente y decretos-ley)](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a86)
+  - [idealista/news: la Diputación Permanente convalida el decreto de vivienda y rechaza el de alquileres indefinidos (12-nov-2026)](https://www.idealista.com/news/inmobiliario/vivienda/2026/11/12/923779-la-diputacion-permanente-convalida-el-decreto-de-vivienda-y-rechaza-el-de)
+  - [Law&Trends: la Diputación Permanente convalida un decreto y tumba el otro (12-nov-2026)](https://www.lawandtrends.com/noticias/administrativo/la-diputacion-permanente-convalida-el-decreto-que-prohibe-los-desahucios-y-tumba-el-que-hacia-indefinidos-los-alquileres-1.html)
+  - [Tercera Información: 35 votos para sostener el decreto (13-nov-2026)](https://www.tercerainformacion.es/articulo/vivienda/13/11/2026/la-diputacion-permanente-blinda-el-decreto-de-vivienda-35-votos-para-sostener-el-escudo-antidesahucios-y-las-ayudas-al-alquiler/)
+  - [Infobae: contenido del «decreto Maricarmen» (12-nov-2026)](https://www.infobae.com/espana/2026/11/12/la-diputacion-permanente-del-congreso-aprueba-el-decreto-maricarmen-pero-tumba-el-de-alquileres-indefinidos/)
 
 ## Iniciativas ciudadanas (66)
 
@@ -9710,7 +9737,17 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 2/2016, del suelo de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3191)
   - [BOE (ELI): Ley 2/2016](https://www.boe.es/eli/es-ga/l/2016/02/10/2)
 
-## Bulos (131)
+## Bulos (132)
+
+### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que una persona puede ir al Registro Civil y cambiar su sexo registral de un día para otro («que un ministro a las 9 de la mañana sea hombre y que al día siguiente vaya al registro y diga que es mujer»).
+- Fecha: 11 nov 2026
+- Partido: PP
+- Canal: Entrevista en El Hormiguero (Antena 3) · Tema: Instituciones y justicia
+- Qué dicen los datos: La Ley 4/2023 (artículo 44) exige una solicitud y una primera comparecencia en el Registro Civil, una segunda comparecencia para ratificarse, que debe celebrarse en un plazo máximo de tres meses, y una resolución en el plazo máximo de un mes desde esa segunda cita. Es cierto, en cambio, que la ley no permite exigir informes médicos o psicológicos ni cambios corporales.
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: es falso que las personas trans puedan cambiar el sexo en el Registro Civil en un día (12-nov-2026)](https://www.verificat.cat/es/trans-cambio-sexo-registro-civil-feijoo/)
+  - [BOE: Ley 4/2023, artículo 44 (texto consolidado)](https://www.boe.es/buscar/act.php?id=BOE-A-2023-5366#a4-6)
 
 ### Santiago Abascal (presidente de Vox y candidato a la presidencia del Gobierno): Que hoy «el marroquí que acaba de llegar» es quien tendría prioridad para recibir ayudas y acceder a una vivienda protegida.
 - Fecha: 4 nov 2026
@@ -10923,7 +10960,24 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [Maldita.es: es falso que Sánchez haya indultado a «golpistas»](https://maldita.es/malditodato/20190301/es-falso-que-el-gobierno-de-pedro-sanchez-haya-indultado-a-golpistas-como-dice-arrimadas/)
 
-## Huelgas y movilizaciones (60)
+## Huelgas y movilizaciones (61)
+
+### Huelga general por la vivienda y los salarios (España)
+- Fecha: 11 nov 2026 · Sector: Vivienda
+- Convocan: CCOO y UGT, a iniciativa del Sindicato de Inquilinas y con otros sindicatos; en Euskadi, ELA y LAB con convocatoria propia. Es la primera huelga general de CCOO y UGT desde 2012
+- Qué pedían: Vivienda asequible (el Sindicato de Inquilinas pide contratos de alquiler indefinidos, bajada de precios, expropiación a fondos y el fin de los desahucios), subidas salariales y mejores servicios públicos
+- Cifra oficial: Ministerio del Interior, hasta las 20:00: 53 detenidos (39 de Policía Nacional y Guardia Civil, 13 de la Ertzaintza y 1 de los Mossos) y 1.044 incidencias. Manifestaciones: 120.000 personas en Madrid, 25.000 en Granada y 14.000 en Málaga según las Delegaciones del Gobierno; 55.000 en Barcelona según la Guardia Urbana. Red Eléctrica: demanda nacional de 688.688 MWh el día 11, frente a 700.039 MWh el día anterior y 716.897 MWh el miércoles 4 de noviembre.
+- Según quien convoca: CCOO y UGT, con datos de las 7:00: del 41% en Extremadura y Castilla-La Mancha al 75% en Andalucía y Aragón. Por la tarde, según Euronews, CCOO habló de hasta un 84% en Cataluña y un 70% en Andalucía, Madrid y Aragón. No dieron una cifra para toda España. Manifestantes: 400.000 en Madrid según el Sindicato de Inquilinas y 400.000 en Barcelona según los organizadores.
+- Quién gobernaba: Sánchez (PSOE-Sumar), con las Cortes disueltas desde el 5 de octubre, dos días antes de que empezara la campaña electoral. La vicepresidenta y ministra de Trabajo, Yolanda Díaz, la calificó de «éxito».
+- En qué acabó: CEOE y Cepyme cifraron el seguimiento por debajo del 5% y la llamaron «fracaso». A petición de CCOO, el TSJM suspendió cautelarmente parte de los servicios mínimos fijados por la Comunidad de Madrid y aplicó los de la huelga general de 2012, salvo en el Metro. En Barcelona, después de la manifestación, grupos de encapuchados rompieron escaparates y saquearon algunos comercios; el alcalde, Jaume Collboni, habló de unos cincuenta detenidos. La caída del consumo eléctrico depende del día que se tome como referencia.
+- Fuentes:
+  - [MelillaHoy (Europa Press): balance de Interior hasta las 20:00 (11 nov 2026)](https://melillahoy.es/la-huelga-deja-mas-de-50-detenidos-y-un-millar-de-incidencias-en-toda-espana-segun-interior/)
+  - [Euronews: la huelga general del 11N en cifras (12 nov 2026)](https://es.euronews.com/2026/11/12/fuerza-en-la-calle-pero-seguimiento-escaso-en-el-trabajo-la-huelga-general-del-11n)
+  - [Infobae: directo de la jornada, manifestaciones de Madrid y Barcelona (11 nov 2026)](https://www.infobae.com/espana/2026/11/11/huelga-general-en-espana-en-directo-piquetes-incidencia-en-transportes-y-empresas-reacciones-y-ultima-hora-de-las-elecciones-generales/)
+  - [elDiario.es: directo de la jornada, convocantes y primeros datos sindicales (11 nov 2026)](https://www.eldiario.es/economia/huelga-general-11-noviembre-ultima-hora-directo-arranca-gran-paro-vivienda_133_13653845.html)
+  - [elDiario.es: el TSJM corrige a la baja los servicios mínimos de la Comunidad de Madrid (11 nov 2026)](https://www.eldiario.es/madrid/tribunal-superior-corrige-baja-servicios-minimos-impuestos-comunidad-madrid_1_13654277.html)
+  - [Ara: noche de vandalismo y disturbios en Barcelona después de la manifestación (12 nov 2026)](https://es.ara.cat/sociedad/noche-vandalismo-disturbios-despues-manifestacion_1_5907813.html)
+  - [Red Eléctrica (REData): demanda eléctrica diaria del 4 al 11 de noviembre de 2026](https://apidatos.ree.es/es/datos/demanda/evolucion?start_date=2026-11-04T00:00&end_date=2026-11-11T23:59&time_trunc=day)
 
 ### Huelga docente en la enseñanza pública no universitaria (Castilla y León)
 - Fecha: 4 nov 2026 · Sector: Educación
