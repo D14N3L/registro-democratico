@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (271)
+## Fichas del registro (272)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -1215,6 +1215,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [infoLibre: la ley sale con PSC, ERC, Junts y comuns](https://www.infolibre.es/politica/parlament-aprueba-votos-psc-erc-junts-comuns-ley-elude-25-castellano_1_1253073.html)
   - [El Español: el TSJC ve posible fraude de ley](https://www.elespanol.com/espana/tribunales/20220728/tsj-catalan-govern-bloquea-espanol-opinion-constitucional/691181140_0.html)
 
+### Valencia: el Supremo confirma la condena por cohecho al exvicealcalde Alfonso Grau (PP) por los relojes de lujo de un contratista
+- Fecha: 2010 – 2022
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Comunitat Valenciana
+- Nivel de prueba: Sentencia firme
+- Resumen: El Supremo confirmó en mayo de 2022 la condena por cohecho continuado al exvicealcalde de Valencia Alfonso Grau (PP), primer teniente de alcalde con Rita Barberá y responsable del área que incluía la contratación, por aceptar dos relojes de lujo del empresario Urbano Catalán, cuyas empresas firmaron 16 contratos con el Ayuntamiento entre 2006 y 2015. La pena es de 9 meses y 1 día de prisión y 2 años y 1 día de suspensión de empleo y cargo público; el empresario, condenado a la misma pena de prisión, perdió su recurso.
+- Matiz: El Supremo lo absolvió de blanqueo de capitales (3 años y 3 meses que le habían impuesto la Audiencia de Valencia en 2019 y el TSJ valenciano en 2020): no descartó la explicación de la defensa de que cambió los relojes por otros modelos que prefería, y no para ocultar su origen. En el cohecho no vio otra relación personal que explicara unos regalos desmesurados por su valor y exclusividad. Es un caso distinto de la pieza del caso Taula por la que la Audiencia lo condenó en 2024, que está recurrida.
+- Fuentes:
+  - [Poder Judicial: el Supremo condena por cohecho al exprimer teniente de alcalde de Valencia y le absuelve de blanqueo (30-5-2022)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/Noticias-Judiciales/El-Tribunal-Supremo-condena-por-cohecho-al-exprimer-teniente-de-alcalde-de-Valencia-y-le-absuelve-de-un-delito-de-blanqueo-de-capitales)
+  - [OfficialPress (EFE): el Supremo rebaja la condena de Grau de 4 años a 9 meses (30-5-2022)](https://officialpress.es/el-supremo-rebaja-la-condena-de-alfonso-grau-de-4-anos-a-9-meses/amp/)
+  - [Valencia Plaza: la Audiencia lo condena a cuatro años (jun 2019)](https://valenciaplaza.com/alfonso-grau-condenado)
+  - [Valencia Plaza: el TSJ confirma la condena (feb 2020)](https://valenciaplaza.com/el-tsj-confirma-la-condena-de-cuatros-anos-a-alfonso-grau-por-cohecho-y-blanqueo-de-capitales)
+
 ### Murcia: el Supremo ratifica la inhabilitación del exalcalde del PP de Torre Pacheco por adjudicar obras a dedo
 - Fecha: 2004 – 2022
 - Partidos: PP
@@ -2134,10 +2148,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Parlamento o territorio: Madrid
 - Nivel de prueba: Resolución judicial no firme
 - Resumen: La Audiencia Nacional condenó en septiembre de 2024 a Alfredo Prada, vicepresidente y consejero de Justicia del Gobierno de Esperanza Aguirre, a 7 años de prisión por prevaricación y malversación en la sociedad pública Campus de la Justicia. En marzo de 2025 la Sala de Apelación mantuvo la pena y rebajó en 30 millones la responsabilidad civil, que quedó en unos 10,3 millones.
-- Matiz: Cabe recurso de casación ante el Supremo; no consta que esté resuelto. Otros acusados fueron absueltos de malversación en apelación.
+- Matiz: Cabe recurso de casación ante el Supremo; a 16 de noviembre de 2026 no consta que esté resuelto. La Sala de Apelación consideró adjudicados de forma arbitraria los 25 contratos, pero solo vio malversación en 13, los de publicidad y autopromoción, porque el resto tuvo alguna utilidad. Otros acusados fueron absueltos de malversación en apelación.
 - Fuentes:
   - [Público: la sentencia (sep 2024)](https://www.publico.es/politica/siete-anos-carcel-exvicepresidente-madrileno-alfredo-prada-campus-justicia.html)
   - [El Español: la apelación (mar 2025)](https://www.elespanol.com/espana/tribunales/20250312/rebaja-millones-responsabilidad-civil-campus-justicia-prada-sigue-condenado-anos/930657140_0.html)
+  - [Poder Judicial: la Sala de Apelación de la Audiencia Nacional confirma los siete años (12-3-2025)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/La-Sala-de-Apelacion-de-la-Audiencia-Nacional-confirma-siete-anos-de-carcel-para-el-exvicepresidente-de-la-CAM-por-prevaricacion-y-malversacion-en-la-construccion-del-Campus-de-la-Justicia)
 
 ### Comunitat Valenciana: el Síndic de Greuges alerta de un aumento «descomunal» de las quejas por dependencia
 - Fecha: 2024 – mar 2025
@@ -2626,6 +2641,7 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/comunitat-valenciana/sentencia-brugal-avala-audios-capo-basura-orihuela-detectives-balnearios-presiones-zaplana-camps_1_12930678.html)
   - [TodoAlicante](https://www.todoalicante.es/politica/audiencia-alicante-condena-acusados-brugal-contrata-basuras-20260112135006-nt.html)
+  - [Poder Judicial: la Audiencia de Alicante condena a 9 de los 33 acusados (12-1-2026)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Noticias-Judiciales/-La-Audiencia-de-Alicante-condena-a-9-de-los-33-a-acusados-en-la-pieza-matriz-del--caso-Brugal---relativa-al-contrato-de-basuras-de-Orihuela)
 
 ### Asamblea de Madrid: el TC anula el veto de la Mesa a cinco preguntas del PSOE sobre el jefe de gabinete de Ayuso
 - Fecha: mar 2024 – ene 2026
@@ -3003,12 +3019,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Financiación y corrupción
 - Parlamento o territorio: Comunitat Valenciana
 - Nivel de prueba: Resolución judicial no firme
-- Resumen: Firme: en junio de 2026 el Supremo confirmó la primera sentencia del caso Taula (pieza Thematica), que condenó al exgerente de Imelsa, la empresa de la Diputación de Valencia, Marcos Benavent, por desviar fondos públicos. Recurribles: en noviembre de 2023 la Audiencia condenó a 5 años al expresidente de la Diputación Alfonso Rus (PP) por contratar a personas que no trabajaban («zombis»); en julio de 2024, a 4 años y medio al exvicealcalde de Valencia Alfonso Grau (PP) por la financiación irregular de las campañas del PP de Valencia en 2007 y 2011; y en julio de 2025, a los exalcaldes de Requena y Enguera (PP) y a un exalcalde del PSOE por contratos amañados.
+- Resumen: Firme: en junio de 2026 el Supremo confirmó la primera sentencia del caso Taula (pieza Thematica), que condenó al exgerente de Imelsa, la empresa de la Diputación de Valencia, Marcos Benavent, por desviar fondos públicos. Recurribles: en noviembre de 2023 la Audiencia condenó a 5 años al expresidente de la Diputación Alfonso Rus (PP) por contratar a personas que no trabajaban («zombis»); en julio de 2024, a 4 años y medio al exvicealcalde de Valencia Alfonso Grau (PP) por malversación y cohecho para pagar la campaña municipal del PP de Valencia de 2007 (la sentencia no consideró delito los pagos de la campaña de 2011); y en julio de 2025, a los exalcaldes de Requena y Enguera (PP) y a un exalcalde del PSOE por contratos amañados.
 - Matiz: Rus se declara inocente. Salvo Thematica, las condenas están recurridas y no son firmes. Otras piezas acabaron en absolución.
 - Fuentes:
   - [elDiario.es: el Supremo confirma Thematica (jun 2026)](https://www.eldiario.es/comunitat-valenciana/tribunal-supremo-confirma-condena-ocho-anos-carcel-yonqui-dinero-blanqueo-falsedad_1_13336558.html)
   - [Infobae (EFE): condena a Alfonso Rus (nov 2023)](https://www.infobae.com/espana/agencias/2023/11/17/condenan-al-expresidente-de-la-diputacion-de-valencia-alfonso-rus-pp-a-5-anos-de-carcel/)
   - [Infobae (Europa Press): condena a Alfonso Grau (jul 2024)](https://www.infobae.com/espana/agencias/2024/07/30/el-exvicealcalde-del-ayuntamiento-de-valencia-alfonso-grau-condenado-a-cuatro-anos-de-prision-por-la-caja-b-del-pp/)
+  - [Poder Judicial: la Audiencia de Valencia condena a cuatro años y medio al exvicealcalde (30-7-2024)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Comunidad-Valenciana/Oficina-de-Comunicacion/Archivo-de-notas-de-prensa/-La-Audiencia-de-Valencia-condena-a-cuatro-anos-y-medio-de-prision-al-exvicealcalde-de-Valencia-por-malversacion-y-cohecho)
   - [El Español: la pieza de Requena y Enguera (jul 2025)](https://www.elespanol.com/valencia/20250716/audiencia-valencia-dicta-quinta-sentencia-condenas-caso-taula-contratos-requena-enguera/1003743849527_0.html)
 
 ### IB3: la dirección cambia la noticia de la cadena humana de es Trenc y el director lo reconoce en el Parlament
