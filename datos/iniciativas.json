@@ -1278,17 +1278,21 @@
   "res": "rech",
   "f": "Unas 16.000 firmas",
   "pr": "Vía Galega y Galiza Cultura",
-  "v": "En contra PP y PSdeG; a favor el BNG.",
+  "v": "Rechazada por 18 votos a favor y 54 en contra, sin abstenciones. El BNG anunció su voto a favor en el debate; PP y PSdeG votaron en contra, según elDiario.es.",
   "p": [
    "PP",
    "PSOE"
   ],
   "s": "El Parlamento de Galicia rechazó tomarla en consideración. Pedía corregir lo que los promotores consideran errores en la letra oficial del himno.",
-  "n": "El BNG fue el único grupo a favor.",
+  "n": "El BNG fue el único grupo a favor. PP y PSdeG propusieron en su lugar una comisión especial de estudio en el Parlamento: el PP (Pazos Couñago) dijo que los plazos estrictos de una ILP no daban garantías suficientes para cambiar un símbolo y que su voto no era «un punto final», y propuso que compareciera el filólogo Manuel Ferreiro, que defendió la iniciativa en nombre de los promotores.",
   "src": [
    [
     "elDiario.es",
     "https://www.eldiario.es/galicia/pp-psoe-votan-corregir-errores-himno-gallego_1_10545473.html"
+   ],
+   [
+    "Parlamento de Galicia: Diario de Sesións del pleno del 26-9-2023 (punto 1, votación en la p. 28)",
+    "https://www.parlamentodegalicia.es/sitios/web/BibliotecaDiarioSesions/D110139.pdf"
    ]
   ]
  },

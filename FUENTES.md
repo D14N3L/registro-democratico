@@ -891,10 +891,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Categoría: Control parlamentario
 - Parlamento o territorio: Galicia
 - Nivel de prueba: Documentado en medios
-- Resumen: BNG y PSdeG pidieron investigar las declaraciones de Bárcenas sobre financiación en B del PP gallego en la etapa de Feijóo. El PP lo rechazó con su mayoría absoluta.
-- Matiz: El PP dijo que la izquierda solo quería tapar sus propios escándalos.
+- Resumen: El BNG, con la firma de sus 19 diputados, pidió una comisión de investigación sobre la participación del PP gallego en la financiación ilegal y la «caja B» del PP, a raíz de las declaraciones de Bárcenas sobre financiación en B en la etapa de Feijóo; el PSdeG la apoyó en el debate. El pleno la rechazó por 30 votos a favor y 40 en contra, con la mayoría absoluta del PP.
+- Matiz: El PP (Pazos Couñago) dijo que la comisión no tenía fundamento, que la oposición quería desviar la atención de sus propios casos de corrupción y que la justicia había acreditado que el PP gallego no tenía relación con la Gürtel. También dijo que, si de verdad la querían, les bastaba con registrar una solicitud formal para que se creara de forma automática: el Reglamento, desde su reforma de 2015 (art. 52.1 bis), permite crear así una sola comisión de investigación por legislatura si la piden dos quintas partes de los diputados (30 de 75) o un tercio que sean del mismo grupo. El BNG tenía 19 diputados y el PSdeG, 14.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/galicia/politica/pp-rechaza-parlamento-galicia-investigue-revelaciones-barcenas-financiacion-b-feijoo-frente-formacion_1_7800767.html)
+  - [Parlamento de Galicia: Diario de Sesións del pleno del 13-4-2021 (punto 1, votación en la p. 20)](https://www.parlamentodegalicia.es/sitios/web/BibliotecaDiarioSesions/D110031.pdf)
+  - [DOG (vía BOE): reforma del Reglamento del Parlamento de Galicia de 2015, art. 52.1 bis](https://www.boe.es/ccaa/dog/2015/162/g34792-34800.pdf)
+  - [Maldita.es: escaños tras el recuento definitivo de 2020 (PP 42, BNG 19, PSdeG 14)](https://maldita.es/malditodato/20200720/pp-quita-escano-psdeg-psoe-pontevedra-recuento-definitivo-voto-42-diputados-mejor-resultado-electoral-feijoo/)
 
 ### Congreso: la comisión del PP sobre el rescate de Plus Ultra no llega al Pleno
 - Fecha: abr 2021 – may 2023
@@ -4396,12 +4399,13 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Resultado: Rechazada
 - Firmas: Unas 16.000 firmas
 - Promotores: Vía Galega y Galiza Cultura
-- Votación: En contra PP y PSdeG; a favor el BNG.
+- Votación: Rechazada por 18 votos a favor y 54 en contra, sin abstenciones. El BNG anunció su voto a favor en el debate; PP y PSdeG votaron en contra, según elDiario.es.
 - Partidos que la frenaron o votaron en contra: PP, PSOE
 - Qué pasó: El Parlamento de Galicia rechazó tomarla en consideración. Pedía corregir lo que los promotores consideran errores en la letra oficial del himno.
-- Matiz: El BNG fue el único grupo a favor.
+- Matiz: El BNG fue el único grupo a favor. PP y PSdeG propusieron en su lugar una comisión especial de estudio en el Parlamento: el PP (Pazos Couñago) dijo que los plazos estrictos de una ILP no daban garantías suficientes para cambiar un símbolo y que su voto no era «un punto final», y propuso que compareciera el filólogo Manuel Ferreiro, que defendió la iniciativa en nombre de los promotores.
 - Fuentes:
   - [elDiario.es](https://www.eldiario.es/galicia/pp-psoe-votan-corregir-errores-himno-gallego_1_10545473.html)
+  - [Parlamento de Galicia: Diario de Sesións del pleno del 26-9-2023 (punto 1, votación en la p. 28)](https://www.parlamentodegalicia.es/sitios/web/BibliotecaDiarioSesions/D110139.pdf)
 
 ### Salvar la Atención Primaria
 - Parlamento: Galicia
