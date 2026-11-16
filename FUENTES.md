@@ -1215,6 +1215,19 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [infoLibre: la ley sale con PSC, ERC, Junts y comuns](https://www.infolibre.es/politica/parlament-aprueba-votos-psc-erc-junts-comuns-ley-elude-25-castellano_1_1253073.html)
   - [El Español: el TSJC ve posible fraude de ley](https://www.elespanol.com/espana/tribunales/20220728/tsj-catalan-govern-bloquea-espanol-opinion-constitucional/691181140_0.html)
 
+### Murcia: el Supremo ratifica la inhabilitación del exalcalde del PP de Torre Pacheco por adjudicar obras a dedo
+- Fecha: 2004 – 2022
+- Partidos: PP
+- Categoría: Financiación y corrupción
+- Parlamento o territorio: Murcia
+- Nivel de prueba: Sentencia firme
+- Resumen: El Supremo (sentencia 630/2022, de 23 de junio) confirmó la condena por prevaricación continuada al exalcalde de Torre Pacheco Daniel García Madrid (PP) y a su concejal de Urbanismo por encargar entre 2004 y 2008, de palabra o con una hoja de encargo y sin expediente, quince proyectos de arquitectura por 511.355,73 euros. La sentencia habla de un «proceder tan grosero» y de una «burda ilegalidad».
+- Matiz: La pena es de seis meses de inhabilitación especial, no de prisión: la Audiencia de Murcia (sentencia de 20 de febrero de 2020) le restó los diez años de inhabilitación que ya le había impuesto en 2014 por el mismo delito. Los otros seis acusados, entre ellos los arquitectos y el interventor, fueron absueltos. Contra la sentencia del Supremo no cabe recurso.
+- Fuentes:
+  - [elDiario.es](https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html)
+  - [Tribunal Supremo: sentencia 630/2022, de 23 de junio (texto del CENDOJ reproducido por la Editorial CEF)](https://www.civil-mercantil.com/sites/civil-mercantil.com/files/NCJ066261.pdf)
+  - [Poder Judicial: la Audiencia de Murcia condena al exalcalde y a un exconcejal de Torre Pacheco (27-2-2020)](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Region-de-Murcia/Noticias-Judiciales-TSJ-Region-de-Murcia/Condenan-al-exalcalde-y-a-un-exconcejal-de-Torre-Pacheco--Murcia--por-la-adjudicacion-de-contratos-a-dedo)
+
 ### Baleares, caso Over Marketing: condena firme por pagar la campaña del PP de 2003 con contratos públicos
 - Fecha: 2003 – 2022
 - Partidos: PP
@@ -1226,17 +1239,6 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Fuentes:
   - [elDiario.es: el Supremo confirma (2022)](https://www.eldiario.es/illes-balears/supremo-confirma-condena-exsecretario-general-pp-balears-financiacion-irregular-partido-2003_1_9160692.html)
   - [Última Hora: la sentencia de la Audiencia (2019)](https://www.ultimahora.es/noticias/local/2019/06/14/1087847/jose-maria-rodriguez-condenado-tres-anos-medio-carcel-por-caso-over.html)
-
-### Murcia: el Supremo ratifica la inhabilitación del exalcalde del PP de Torre Pacheco por adjudicar obras a dedo
-- Fecha: 2004 – 2022
-- Partidos: PP
-- Categoría: Financiación y corrupción
-- Parlamento o territorio: Murcia
-- Nivel de prueba: Sentencia firme
-- Resumen: El Supremo confirmó en 2022 la condena por prevaricación al exalcalde de Torre Pacheco Daniel García Madrid (PP) por adjudicar sin expediente 15 proyectos por 511.355,73 euros. La sentencia lo calificó de «ilegal, burdo y grosero».
-- Matiz: La pena es de seis meses de inhabilitación especial, no de prisión, y se suma a los diez años de inhabilitación de una condena anterior.
-- Fuentes:
-  - [elDiario.es](https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html)
 
 ### Tribunal de Cuentas: solicitantes de dependencia que murieron sin resolución, en mayor medida en Extremadura, Cataluña y Andalucía
 - Fecha: 2018 – jul 2022

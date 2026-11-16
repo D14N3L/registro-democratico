@@ -4702,16 +4702,18 @@
   "a": "Comunitat Valenciana"
  },
  {
-  "d": "2022-07-14",
+  "d": "2022-06-23",
   "dl": "2004 – 2022",
   "t": "Murcia: el Supremo ratifica la inhabilitación del exalcalde del PP de Torre Pacheco por adjudicar obras a dedo",
   "p": ["PP"],
   "c": "Financiación y corrupción",
   "pr": "firme",
-  "s": "El Supremo confirmó en 2022 la condena por prevaricación al exalcalde de Torre Pacheco Daniel García Madrid (PP) por adjudicar sin expediente 15 proyectos por 511.355,73 euros. La sentencia lo calificó de «ilegal, burdo y grosero».",
-  "n": "La pena es de seis meses de inhabilitación especial, no de prisión, y se suma a los diez años de inhabilitación de una condena anterior.",
+  "s": "El Supremo (sentencia 630/2022, de 23 de junio) confirmó la condena por prevaricación continuada al exalcalde de Torre Pacheco Daniel García Madrid (PP) y a su concejal de Urbanismo por encargar entre 2004 y 2008, de palabra o con una hoja de encargo y sin expediente, quince proyectos de arquitectura por 511.355,73 euros. La sentencia habla de un «proceder tan grosero» y de una «burda ilegalidad».",
+  "n": "La pena es de seis meses de inhabilitación especial, no de prisión: la Audiencia de Murcia (sentencia de 20 de febrero de 2020) le restó los diez años de inhabilitación que ya le había impuesto en 2014 por el mismo delito. Los otros seis acusados, entre ellos los arquitectos y el interventor, fueron absueltos. Contra la sentencia del Supremo no cabe recurso.",
   "src": [
-   ["elDiario.es", "https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html"]
+   ["elDiario.es", "https://www.eldiario.es/murcia/politica/ilegal-burdo-grosero-supremo-ratifica-inhabilitacion-exalcalde-torre-pacheco-adjudicar-dedo-medio-millon-euros-proyectos_1_9164841.html"],
+   ["Tribunal Supremo: sentencia 630/2022, de 23 de junio (texto del CENDOJ reproducido por la Editorial CEF)", "https://www.civil-mercantil.com/sites/civil-mercantil.com/files/NCJ066261.pdf"],
+   ["Poder Judicial: la Audiencia de Murcia condena al exalcalde y a un exconcejal de Torre Pacheco (27-2-2020)", "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Region-de-Murcia/Noticias-Judiciales-TSJ-Region-de-Murcia/Condenan-al-exalcalde-y-a-un-exconcejal-de-Torre-Pacheco--Murcia--por-la-adjudicacion-de-contratos-a-dedo"]
   ],
   "a": "Murcia"
  },

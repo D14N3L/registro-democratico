@@ -31,6 +31,7 @@ const DOMINIOS_CAUTELA = [
   "libertaddigital.com", "edatv.news", "esdiario.com", "elpais.com", "elmundo.es", "abc.es", "elconfidencial.com",
   "eldiario.es", "publico.es", "europapress.es", "rtve.es", "canalsur.es", "elespanol.com",
 ];
+const DOCUMENTO_ORIGINAL = /^https:\/\/static\.eldiario\.es\/eldiario\/public\/content\/file\/original\/.+\.pdf$/;
 // Periodo del registro (decisión editorial, 6-10-2026): los diez años 2016-2026.
 const INICIO_PERIODO = "2016-01-01";
 const NOTAS_AL_EDITOR = /(?<!\p{L})(preséntalo|compruébalo|úsalo|no las cites|no lo cites|ojo:|revísalo|verifícalo)/iu;
@@ -47,7 +48,9 @@ function comunes(f, i, e) {
     const dominio = DOMINIOS_EXCLUIDOS.find((d) => (url || "").includes(d));
     if (dominio) error(f, i, e, `fuente excluida: ${dominio}`);
   }
-  const medios = [...new Set((e.src || []).map(([, url]) => dominio(url)))];
+  // El PDF original de un documento (p. ej. un acuerdo de gobierno) que un medio guarda en su servidor de archivos
+  // es el documento, no la información del medio: no cuenta como fuente con cautela.
+  const medios = [...new Set((e.src || []).filter(([, url]) => !DOCUMENTO_ORIGINAL.test(url || "")).map(([, url]) => dominio(url)))];
   if (medios.length === 1 && DOMINIOS_CAUTELA.some((d) => medios[0] === d || medios[0].endsWith("." + d)))
     avisos.push(`${f}[${i}] ${e.t || e.m || e.id}: solo una fuente con cautela (${medios[0]})`);
   for (const [k, v] of Object.entries(e)) {
