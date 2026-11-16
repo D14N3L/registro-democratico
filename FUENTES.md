@@ -11975,10 +11975,11 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cita: «universalizando la escolarización de 0 a 18 años, no mediante la obligatoriedad sino promoviendo de forma gradual una oferta suficiente de plazas públicas gratuitas»
 - Quién gobernaba: Sánchez con Sumar, nov 2023 – oct 2026 (en minoría)
 - Qué se hizo: No se aprobó una norma de gratuidad universal. En septiembre de 2025 el Gobierno anunció ayudas para la escolarización gratuita de 0 a 3 años de las familias bajo el umbral de pobreza, a partir de 2026, con más de 175 millones de euros en dos ejercicios.
-- Veredicto: No cumplida. Hubo un programa para las familias con menos recursos, pero no la escolarización universal y gratuita prometida. Se valora igual que la promesa equivalente de Sumar.
+- Veredicto: No cumplida. Hubo un programa para las familias con menos recursos, pero no la escolarización universal y gratuita prometida. Se valora igual que la promesa equivalente de Sumar. Newtral, que sigue la medida equivalente del acuerdo de Gobierno PSOE-Sumar (PactoCheck), la da «en progreso» a 13 de noviembre de 2026: hubo financiación a las comunidades, pero ninguna reforma legal, y la gratuidad no llega a todas las comunidades.
 - Fuentes:
   - [PSOE: programa electoral de 2023, p. 99](https://www.psoe.es/media-content/2023/07/PROGRAMA_ELECTORAL-GENERALES-2023.pdf)
   - [La Moncloa: ayudas de 0 a 3 años para familias bajo el umbral de pobreza (17-sep-2025)](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2025/170925-visita-escuela-infantil-getafe.aspx)
+  - [Newtral (PactoCheck): «Universalizar la educación de 0 a 3 años» (13-nov-2026)](https://pactocheck.newtral.es/medida-pck/universalizar-la-educacion-de-0-a-3-anos/)
 
 ### PSOE · Gobierno de España · Pensiones y dependencia: PSOE, generales de julio de 2023
 - Promesa: Blindar en la Constitución el poder adquisitivo de las pensiones (primera medida de «Nuestra visión del sistema de pensiones», p. 164; lo anterior del capítulo son logros de la legislatura pasada).
@@ -12025,20 +12026,22 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Cita: «Universalización de la cobertura pública gratuita de la etapa educativa de cero a tres años»
 - Quién gobernaba: Socio del Gobierno de coalición con el PSOE, nov 2023 – oct 2026 (en minoría)
 - Qué se hizo: No se aprobó ninguna ley de gratuidad universal. En septiembre de 2025 el Gobierno anunció un programa de ayudas para la escolarización gratuita de 0 a 3 años de las familias bajo el umbral de pobreza, a partir de 2026, con más de 175 millones de euros en dos ejercicios.
-- Veredicto: No cumplida. Hubo un programa de ayudas para las familias con menos recursos, pero no la gratuidad universal prometida. Las escuelas infantiles dependen sobre todo de las comunidades autónomas y los ayuntamientos.
+- Veredicto: No cumplida. Hubo un programa de ayudas para las familias con menos recursos, pero no la gratuidad universal prometida. Las escuelas infantiles dependen sobre todo de las comunidades autónomas y los ayuntamientos. Newtral, que sigue la medida equivalente del acuerdo de Gobierno PSOE-Sumar (PactoCheck), la da «en progreso» a 13 de noviembre de 2026: hubo financiación a las comunidades, pero ninguna reforma legal, y la gratuidad no llega a todas las comunidades.
 - Fuentes:
   - [Sumar: programa electoral de 2023, p. 154 («Un programa para ti», web de transparencia de Movimiento Sumar)](https://movimientosumar.es/transparencia/wp-content/uploads/sites/6/2023/12/un-programa-para-ti.pdf)
   - [La Moncloa: ayudas de 0 a 3 años para familias bajo el umbral de pobreza (17-sep-2025)](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/educacion-fp-deportes/Paginas/2025/170925-visita-escuela-infantil-getafe.aspx)
+  - [Newtral (PactoCheck): «Universalizar la educación de 0 a 3 años» (13-nov-2026)](https://pactocheck.newtral.es/medida-pck/universalizar-la-educacion-de-0-a-3-anos/)
 
 ### Sumar · Gobierno de España · Pensiones y dependencia: Sumar, generales de julio de 2023
 - Promesa: Subir las pensiones mínimas y no contributivas por encima del IPC hasta que alcancen al menos el umbral de la pobreza (medida VII.3 del capítulo de economía, p. 15, la primera sobre pensiones).
 - Cita: «se subirán por encima del IPC las pensiones mínimas y las pensiones no contributivas, hasta que su cuantía alcance, al menos, el umbral de la pobreza»
 - Quién gobernaba: Socio del Gobierno de coalición con el PSOE, nov 2023 – oct 2026 (en minoría)
 - Qué se hizo: En 2026 las pensiones subieron un 2,7% con carácter general, las mínimas más de un 7% y las no contributivas un 11,4%.
-- Veredicto: A medias. Las mínimas y las no contributivas subieron por encima de la general. No se ha comprobado aquí si ya alcanzan el umbral de la pobreza, que era la meta.
+- Veredicto: A medias. Las mínimas y las no contributivas subieron por encima de la general. No se ha comprobado aquí si ya alcanzan el umbral de la pobreza, que era la meta. Newtral (PactoCheck), con la medida equivalente del acuerdo de Gobierno PSOE-Sumar, la da «en progreso» a 13 de noviembre de 2026.
 - Fuentes:
   - [Sumar: programa electoral de 2023, p. 15 («Un programa para ti», web de transparencia de Movimiento Sumar)](https://movimientosumar.es/transparencia/wp-content/uploads/sites/6/2023/12/un-programa-para-ti.pdf)
   - [La Moncloa: revalorización de las pensiones de 2026 (26-feb-2026)](https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/inclusion/Paginas/2026/260226-convalidacion-revalorizacion-pensiones.aspx)
+  - [Newtral (PactoCheck): pensiones mínimas y no contributivas por encima de la revalorización general (13-nov-2026)](https://pactocheck.newtral.es/medida-pck/aumentar-las-pensiones-minimas-y-no-contributivas-por-encima-de-la-revalorizacion-de-las-pensiones-contributivas-hasta-la-media-europea/)
 
 ### Sumar · Gobierno de España · Impuestos: Sumar, generales de julio de 2023
 - Promesa: Hacer permanente el impuesto a las grandes fortunas con tipos de al menos el 4%, y fijar un mínimo estatal en Sucesiones que las comunidades no puedan rebajar (medida VIII.2, p. 16; la VIII.1 es una declaración general).
