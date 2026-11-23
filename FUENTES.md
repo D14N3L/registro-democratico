@@ -2,7 +2,7 @@
 
 Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia los JSON y ejecuta `node scripts/generar-fuentes.js`.
 
-## Fichas del registro (272)
+## Fichas del registro (273)
 
 ### Seis decretos-ley de los Gobiernos de Rajoy, anulados en todo o en parte por el TC entre 2016 y 2024
 - Fecha: 2016 – 2024
@@ -3168,6 +3168,20 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [Ara: la UCO avala la creación de la cátedra y detecta irregularidades en la gestión (25-may-2026)](https://es.ara.cat/politica/uco-avala-creacion-catedra-begona-gomez-detecta-irregularidades-gestion_1_5747653.html)
   - [Euronews: el informe de la UCO sobre la cátedra y el software (25-may-2026)](https://es.euronews.com/2026/05/25/uco-irregularidades-catedra-begona-gomez-cuestiona-software)
 
+### Pulseras antimaltrato: el Tribunal de Cuentas ve «graves deficiencias» en el contrato de Igualdad y la Fiscalía Europea investiga posible fraude con fondos europeos
+- Fecha: 2018 – 2026
+- Partidos: PSOE, Podemos/UP
+- Categoría: Gestión pública y derechos
+- Nivel de prueba: Organismo oficial
+- Resumen: El Tribunal de Cuentas (informe 1.695, aprobado el 22 de septiembre de 2026) fiscalizó los contratos del sistema de seguimiento telemático de las órdenes de alejamiento por violencia de género de 2018, 2021 y 2023, que suman 102,7 millones de euros. El de 2023 (42,6 millones, financiado en parte con el Plan de Recuperación) se tramitó por urgencia, declarada en julio de 2023 con Irene Montero (UP) como ministra, y se formalizó en noviembre de 2023. Según el Tribunal, hubo «graves deficiencias» durante casi toda su ejecución, ya con Ana Redondo (PSOE) en el ministerio: dispositivos poco fiables, cortes del servicio, baterías deficientes, reparaciones lentas y errores de geolocalización por los que víctimas y agresores se cruzaron sin que saltara la alarma, que no se redujeron hasta junio de 2025. En el cambio de empresa quedaron 123 requerimientos judiciales sin respuesta hasta diciembre de 2024, y el ministerio no intervino hasta octubre de 2024, coincidiendo con un requerimiento de la Fiscalía. Solo impuso una penalización. El 12 de noviembre de 2026 la Fiscalía Europea, con la UCO, pidió documentación en Igualdad y en el Tribunal de Cuentas en una investigación abierta en 2025 por posible fraude con fondos europeos en la compra de las pulseras.
+- Matiz: Es una fiscalización de gestión, no una condena. Las responsables del ministerio hasta noviembre de 2023 alegaron que la urgencia se debió al mandato de la ley del «solo sí es sí» de extender el servicio a la violencia sexual, y que en 2023 encargaron un estudio para explorar el mercado; el Tribunal responde que eso no fue una consulta preliminar de mercado y que la fecha de fin de cada contrato se conocía de antemano. El ministerio alegó que muchas roturas y pérdidas se deben al uso malintencionado de los agresores. Ana Redondo dijo que la investigación europea «no es nueva», que colaborará y que el nuevo contrato de 2026 corrige los fallos. La Fiscalía Europea no ha dicho a quién investiga ni el importe afectado: rige la presunción de inocencia.
+- Fuentes:
+  - [Tribunal de Cuentas: nota de prensa del informe 1.695 (23-sep-2026)](https://www.tcu.es/en/Communication-and-Outreach-Space/El-Tribunal-de-Cuentas-detecta-deficiencias-en-la-contratacion-y-seguimiento-del-sistema-telematico-de-medidas-de-alejamiento-para-proteger-a-las-victimas-de-violencia-de-genero/)
+  - [Tribunal de Cuentas: resumen del informe 1.695](https://www.tcu.es/export/sites/portal/repositorio2/resumen/NR_I1695.pdf)
+  - [Tribunal de Cuentas: informe 1.695 completo, con las alegaciones](https://www.tcu.es/export/sites/portal/repositorio2/INFORME/2026/I1695.pdf)
+  - [Iustel (Europa Press): la Fiscalía Europea investiga un presunto fraude con fondos de la UE en las pulseras (12-nov-2026)](https://www.iustel.com/diario_del_derecho/noticia.asp?ref_iustel=1271047)
+  - [Ara: Igualdad, en el punto de mira de la Fiscalía Europea; respuesta de Ana Redondo (12-nov-2026)](https://es.ara.cat/sociedad/violencia-machista/ministerio-igualdad-punto-mira-fiscalia-europea-compra-brazaletes-antimaltrato_1_5908155.html)
+
 ### Caso Púnica: primeras sentencias contra Granados y exalcaldes, una firme, y dos juicios más abiertos
 - Fecha: 2014 – 2026
 - Partidos: PP, PSOE
@@ -3412,12 +3426,14 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
 - Partidos: PSOE
 - Categoría: Derechos fundamentales y control judicial
 - Nivel de prueba: Investigación judicial
-- Resumen: La jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva de migrantes desde Marruecos a Ceuta a finales de julio de 2026 en una causa por un presunto delito contra la paz y la independencia del Estado, citó como investigado para el 18 de noviembre a Miguel Ángel Pérez Triano, delegado del Gobierno en Ceuta hasta su dimisión en septiembre. Es el primer investigado de la causa. El 28 de septiembre la jueza ya había abierto diligencias previas sobre él a raíz de una querella de la asociación Abogados Cristianos por desórdenes públicos y prevaricación; la querella sostiene que el CNI avisó el 29 de julio a la Delegación del Gobierno de una convocatoria masiva en redes sociales.
+- Resumen: La jueza de la Audiencia Nacional María Tardón, que investiga la entrada masiva de migrantes desde Marruecos a Ceuta a finales de julio de 2026 en una causa por un presunto delito contra la paz y la independencia del Estado, citó como investigado para el 18 de noviembre a Miguel Ángel Pérez Triano, delegado del Gobierno en Ceuta hasta su dimisión en septiembre. Es el primer investigado de la causa. El 28 de septiembre la jueza ya había abierto diligencias previas sobre él a raíz de una querella de la asociación Abogados Cristianos por desórdenes públicos y prevaricación; la querella sostiene que el CNI avisó el 29 de julio a la Delegación del Gobierno de una convocatoria masiva en redes sociales. El 17 de noviembre la jueza aplazó la declaración hasta después de las elecciones (al 30 de noviembre, según la providencia que cita The Objective; EFE informa del 1 de diciembre), a petición de Pérez Triano, después de rechazar que lo defendiera la Abogacía del Estado, porque el Estado también está personado como acusación.
 - Matiz: Pérez Triano sostiene que «semanas antes» avisó al Gobierno central de la movilización que se preparaba en Marruecos. Al dimitir dijo que lo había comunicado al ministro Ángel Víctor Torres, «mando único» del Gobierno para la crisis de Ceuta. Varios policías que declararon como testigos describieron una actitud pasiva de las fuerzas marroquíes. La Fiscalía ha pedido diligencias sobre «anomalías» en las comunicaciones operativas entre el 28 de julio y el 5 de agosto. Estar citado como investigado no es una acusación: rige la presunción de inocencia.
 - Fuentes:
   - [Infobae (Europa Press): la jueza cita como investigado al exdelegado (12-nov-2026)](https://www.infobae.com/espana/agencias/2026/11/12/la-jueza-cita-como-investigado-al-exdelegado-del-gobierno-en-ceuta-en-la-causa-sobre-la-entrada-masiva-de-migrantes/)
   - [Diario de León (Europa Press): delito investigado, testigos y Fiscalía (12-nov-2026)](https://www.diariodeleon.es/nacional/261112/2102991/jueza-cita-investigado-exdelegado-gobierno-ceuta-causa-sobre-entrada-masiva-migrantes.html)
   - [Diario de León (Europa Press): la jueza abre diligencias previas sobre el exdelegado (6-oct-2026)](https://www.diariodeleon.es/nacional/261006/2099450/video-jueza-abre-diligencias-previas-sobre-exdelegado-gobierno-ceuta-consulta-fiscalia.html)
+  - [Infobae (EFE): la jueza aplaza la declaración del exdelegado (17-nov-2026)](https://www.infobae.com/espana/agencias/2026/11/17/la-jueza-aplaza-la-declaracion-del-exdelegado-del-gobierno-de-ceuta-al-1-de-diciembre/)
+  - [The Objective: la providencia del aplazamiento y la Abogacía del Estado (17-nov-2026)](https://theobjective.com/espana/tribunales/2026-11-17/juez-tardon-declaracion-ex-delegado-gobierno-ceuta/)
 
 ## Qué votó cada partido (60)
 
