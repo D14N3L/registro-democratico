@@ -9795,7 +9795,114 @@ Documento generado automáticamente desde `datos/`. No lo edites a mano: cambia 
   - [BOE: Ley 2/2016, del suelo de Galicia](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-3191)
   - [BOE (ELI): Ley 2/2016](https://www.boe.es/eli/es-ga/l/2016/02/10/2)
 
-## Bulos (132)
+## Bulos (143)
+
+### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que Pedro Sánchez ha «excarcelado a 1.400 violadores y gente que ha cometido abusos sexuales» por la ley del «solo sí es sí».
+- Fecha: 19 nov 2026
+- Partido: PP
+- Canal: Cara a cara con Pedro Sánchez (Academia de la Televisión) · Tema: Instituciones y justicia
+- Qué dicen los datos: Las rebajas de pena y las excarcelaciones las acordaron los tribunales al revisar las condenas. Según el último dato del Consejo General del Poder Judicial (noviembre de 2023), la aplicación de la ley supuso al menos 126 excarcelaciones y 1.233 reducciones de pena. La suma de las dos cifras (1.359) se acerca a la de Feijóo, pero no es correcto sumarlas: una rebaja de pena no implica salir de prisión.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: los tribunales no han «excarcelado a 1.400 violadores» (20-nov-2026)](https://www.newtral.es/violadores-feijoo-excarcelaciones-factcheck/20261120/)
+  - [Maldita.es: verificaciones del cara a cara entre Sánchez y Feijóo (20-nov-2026)](https://maldita.es/desinfo/20261120/verificacion-cara-a-cara-sanchez-feijoo-29n/)
+
+### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que el vicepresidente Carlos Cuerpo dijo en Onda Cero que el sistema público de pensiones está «a punto de petar».
+- Fecha: 19 nov 2026
+- Partido: PP
+- Canal: Cara a cara con Pedro Sánchez (Academia de la Televisión) · Tema: Pensiones
+- Qué dicen los datos: En esa entrevista Cuerpo dijo que «la sostenibilidad de las pensiones está garantizada» y pidió evitar los mensajes alarmistas. Reconoció que el gasto en pensiones crecerá en las próximas décadas por la jubilación del baby boom y citó las reformas de 2021 y 2023 para afrontarlo: «Decir que va a crecer el gasto (en pensiones) no es decir que el sistema no sea sostenible». Feijóo ya se lo había atribuido en la Cadena SER el 23 de octubre.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: Carlos Cuerpo no dijo en Onda Cero que el sistema de pensiones «va a petar» (20-nov-2026)](https://www.newtral.es/cuerpo-petar-pensiones-feijoo-factcheck/20261120/)
+
+### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que el PP votó en contra del Tratado de Amistad con Francia «porque no se prevén las interconexiones eléctricas».
+- Fecha: 19 nov 2026
+- Partido: PP
+- Canal: Cara a cara con Pedro Sánchez (Academia de la Televisión) · Tema: Otros
+- Qué dicen los datos: El artículo 26 del tratado, firmado en Barcelona el 19 de enero de 2023, recoge el compromiso de los dos países de seguir desarrollando las interconexiones energéticas, incluidos los proyectos eléctricos y de hidrógeno (H2Med), y de colaborar con la Comisión Europea para financiarlos, aunque no fija plazos ni inversiones. El PP había justificado antes su rechazo en el artículo 2.4, que prevé invitar a ministros de un país al Consejo de Ministros del otro. El Congreso autorizó la ratificación en junio de 2026, con el voto en contra del PP, y el Senado la rechazó el 29 de septiembre con los votos de PP y Vox.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el Tratado de Amistad con Francia sí prevé interconexiones eléctricas (20-nov-2026)](https://www.newtral.es/tratado-amistad-francia-espana-interconexiones-electricas-feijoo-factcheck/20261120/)
+
+### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que la Oficina de Prevención y Lucha contra la Corrupción de Baleares, suprimida por el Gobierno del PP, «no existía ni estaba funcionando».
+- Fecha: 19 nov 2026
+- Partido: PP
+- Canal: Cara a cara con Pedro Sánchez (Academia de la Televisión) · Tema: Instituciones y justicia
+- Qué dicen los datos: La oficina se creó con la Ley balear 16/2016, con el Gobierno de Francina Armengol (PSOE). La Ley 2/2024, con Marga Prohens (PP) al frente del Gobierno balear, la derogó (disposición derogatoria única), ordenó liquidarla en seis meses (disposición adicional primera) y creó en su lugar un registro de transparencia y control del patrimonio de los cargos públicos. La misma ley regula qué pasa con los expedientes de investigación de la oficina ya finalizados y pendientes (disposición transitoria primera). Según El País, citado por Newtral, tramitó 522 denuncias en ocho años. El PP y Prohens sostenían que «nunca» había funcionado; lo que el verificador califica de falso es que no existiera.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el PP sí suprimió la Oficina de Prevención y Lucha contra la Corrupción en Baleares (20-nov-2026)](https://www.newtral.es/pp-oficina-corrupcion-baleares-feijoo-factcheck/20261120/)
+  - [BOE: Ley 16/2016 de Baleares, de creación de la oficina (texto consolidado, derogado)](https://www.boe.es/buscar/act.php?id=BOE-A-2017-267)
+  - [BOE: Ley 2/2024 de Baleares, disposición derogatoria única](https://www.boe.es/buscar/act.php?id=BOE-A-2024-8369#dd)
+  - [BOE: Ley 2/2024 de Baleares, disposición adicional primera (liquidación)](https://www.boe.es/buscar/act.php?id=BOE-A-2024-8369#da)
+  - [BOE: Ley 2/2024 de Baleares, disposición transitoria primera (expedientes)](https://www.boe.es/buscar/act.php?id=BOE-A-2024-8369#dt)
+
+### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que hizo «más hospitales públicos que ningún presidente de la Xunta de Galicia».
+- Fecha: 19 nov 2026
+- Partido: PP
+- Canal: Cara a cara con Pedro Sánchez (Academia de la Televisión) · Tema: Sanidad
+- Qué dicen los datos: Según el Catálogo Nacional de Hospitales del Ministerio de Sanidad, con Feijóo (2009-2022) se inauguraron dos hospitales públicos: el Lucus Augusti de Lugo (2010), cuyo proyecto se presentó en 2001 y cuyas obras empezaron en 2002, con Fraga, y el Álvaro Cunqueiro de Vigo (2015). Con Manuel Fraga (1990-2005) se construyeron y pusieron en marcha cinco hospitales públicos entre 1993 y 2000, según la memoria del Sergas de 2003; las obras de uno de ellos, el de Verín, las había adjudicado el Gobierno socialista anterior. Feijóo sí amplió o reformó otros centros, como los de Ourense, A Coruña y Pontevedra.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: con Fraga se construyeron más hospitales públicos que con Feijóo en Galicia (20-nov-2026)](https://www.newtral.es/construccion-hospitales-publicos-galicia-feijoo/20261120/)
+
+### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que Sánchez no ha explicado el apagón de abril de 2025.
+- Fecha: 19 nov 2026
+- Partido: PP
+- Canal: Cara a cara con Pedro Sánchez (Academia de la Televisión) · Tema: Otros
+- Qué dicen los datos: El Gobierno presentó el 17 de junio de 2025 un informe sobre las causas del apagón, que lo atribuyó a una sobretensión por múltiples factores y reconoció que algunos datos eran «contradictorios» o «incompletos». La ministra Sara Aagesen compareció por el apagón en mayo de 2025 en el Congreso y en el Senado. Red Eléctrica y la Red Europea de Gestores de Redes de Transporte de Electricidad (ENTSO-E) publicaron también sus informes.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el Gobierno dio explicaciones sobre el origen del apagón en informes y comparecencias (20-nov-2026)](https://www.newtral.es/explicaciones-apagon-factcheck/20261120/)
+
+### Santiago Abascal (presidente de Vox y candidato a la presidencia del Gobierno): Que, pese a las leyes contra la violencia de género, hay «el mismo número de mujeres asesinadas cada año».
+- Fecha: nov 2026
+- Partido: Vox
+- Canal: Declaraciones en campaña (Verificat no indica en qué acto; lo verificó el 16-11) · Tema: Otros
+- Qué dicen los datos: Según los datos del Ministerio de Igualdad que cita Verificat, en 2003 y 2004, antes de que entrara en vigor la ley integral de 2004, hubo 71 y 72 mujeres asesinadas por su pareja o expareja; en 2024 y 2025, 49 y 48. La media ha bajado de 68 al año en los primeros cinco años con registros a 51 en los últimos cinco. En 2026 iban 44 cuando se publicó la verificación.
+- Verificat: Falso
+- Fuentes:
+  - [Verificat: el número de feminicidios sí ha bajado desde que se aprobó la ley de violencia de género (16-nov-2026)](https://www.verificat.cat/es/feminicidios-bajan-violencia-genero-abascal/)
+  - [Ministerio de Igualdad: fichas estadísticas de víctimas mortales por violencia de género](https://violenciagenero.igualdad.gob.es/fichaMujeres/home.htm)
+
+### Santiago Abascal (presidente de Vox y candidato a la presidencia del Gobierno): Que «hoy los españoles son minoría en Cornellà».
+- Fecha: 15 nov 2026
+- Partido: Vox
+- Canal: Mitin de Vox en Cornellà de Llobregat · Tema: Inmigración y seguridad
+- Qué dicen los datos: Según el Instituto de Estadística de Cataluña (Idescat), en 2025, el último año con datos, vivían en Cornellà de Llobregat 92.255 personas, de las que 75.210 eran españolas: el 81,5%. Las de nacionalidad extranjera eran 17.045, el 18,5%. El padrón del INE tampoco respalda la afirmación.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: el 81,5% de la población de Cornellà es española (16-nov-2026)](https://www.newtral.es/cornella-espanoles-abascal-factcheck/20261116/)
+
+### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que la justicia anuló «por falta de pruebas» la sentencia que declaraba al PP responsable a título lucrativo en el caso Gürtel, y que no estaba probado que el PP tuviera «ninguna responsabilidad, aunque fuera subsidiaria».
+- Fecha: 13 y 18 nov 2026
+- Partido: PP
+- Canal: Entrevista en The Wild Project (13-11) y pódcast El sentido de la birra (18-11) · Tema: Instituciones y justicia
+- Qué dicen los datos: La Audiencia Nacional condenó tres veces al PP como responsable civil en la Gürtel: a título lucrativo en 2018 y en 2022, y como responsable civil subsidiario en 2021, por el pago en B de parte de las obras de la sede de Génova. En octubre de 2020 el Supremo confirmó la sentencia de 2018: estimó en parte un recurso del PP y suprimió algunas consideraciones de la Audiencia sobre una caja B y una posible responsabilidad penal del partido, que no eran objeto de ese juicio, pero mantuvo el fallo. El PP comunicó en diciembre de 2020 que había pagado los 245.492,80 euros. Ser responsable a título lucrativo (artículo 122 del Código Penal) no significa haber cometido el delito, sino haberse beneficiado de él y tener que devolverlo. Verificat también lo califica de «falso».
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la justicia no anuló la responsabilidad del PP en la Gürtel por «falta de pruebas» (16-nov-2026)](https://www.newtral.es/gurtel-pp-feijoo-factcheck/20261116/)
+  - [Verificat: la justicia no anuló la responsabilidad civil del PP en la trama Gürtel (18-nov-2026)](https://www.verificat.cat/es/justicia-responsabilidad-civil-pp-gurtel/)
+  - [BOE: Código Penal, artículo 122 (texto consolidado)](https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444#a122)
+
+### Juan Bravo (vicesecretario del PP y representante del partido en el debate): Que los pensionistas «jamás» perdieron poder adquisitivo cuando gobernó el PP.
+- Fecha: 13 nov 2026
+- Partido: PP
+- Canal: Debate a cuatro de laSexta · Tema: Pensiones
+- Qué dicen los datos: Con el Gobierno de Rajoy, las pensiones generales subieron un 1% en 2012 y en 2013, con un IPC del 2,4% y del 1,4%, y un 0,25% en 2017, con un IPC del 2%: esos tres años perdieron poder adquisitivo, según Newtral con datos del INE. En 2014, 2015 y 2016 lo ganaron, porque subieron un 0,25% y los precios bajaron. La pérdida de 2011 (pensiones congeladas con un IPC del 3,2%) fue con el Gobierno de Zapatero.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: los pensionistas sí perdieron poder adquisitivo con gobiernos del PP (19-nov-2026)](https://www.newtral.es/pensionistas-poder-adquisitivo-pp-factcheck/20261119/)
+
+### José María Figaredo (representante de Vox en el debate (diputado en la legislatura disuelta)): Que «este Gobierno ha vaciado la caja de las pensiones».
+- Fecha: 13 nov 2026
+- Partido: Vox
+- Canal: Debate a cuatro de laSexta · Tema: Pensiones
+- Qué dicen los datos: El Fondo de Reserva de la Seguridad Social, la llamada hucha de las pensiones, tenía 15.267 millones de euros en abril de 2026, según el Ministerio de Inclusión: la cifra más alta en diez años y 13.114 millones más que en 2019, el primer año completo de Sánchez en el Gobierno. Crece sin interrupción desde 2021. Las pensiones no se pagan con ese fondo, sino con las cotizaciones y las transferencias del Estado.
+- Newtral: Falso
+- Fuentes:
+  - [Newtral: la hucha de las pensiones ha aumentado en 13.114 millones desde 2019 (16-nov-2026)](https://www.newtral.es/pensiones-hucha-figaredo-factcheck/20261116/)
 
 ### Alberto Núñez Feijóo (presidente del PP y candidato a la presidencia del Gobierno): Que una persona puede ir al Registro Civil y cambiar su sexo registral de un día para otro («que un ministro a las 9 de la mañana sea hombre y que al día siguiente vaya al registro y diga que es mujer»).
 - Fecha: 11 nov 2026
